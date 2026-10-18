@@ -1,0 +1,75 @@
+{
+  "palette": "../../assets/book-palette-specialist.css",
+  "kicker": "Google Workspace Training",
+  "titleLines": [
+    "NotebookLM",
+    {
+      "highlight": "and Gemini"
+    }
+  ],
+  "runningTitle": "NotebookLM and Gemini",
+  "subtitle": "One-day course review draft",
+  "blurb": "Build and check practical workplace outputs with fictional project data. These notes and prompts are a written review draft awaiting full live lab validation.",
+  "coverIcons": [
+    "doc",
+    "check",
+    "lines",
+    "nodes"
+  ],
+  "edition": "Review draft",
+  "year": "2026",
+  "version": "0.4",
+  "author": "Asraf Jaafar Sidik",
+  "authorShort": "Asraf",
+  "credential": "Microsoft Certified Trainer",
+  "repoUrl": "",
+  "repoRoot": "../..",
+  "trademark": "Google, Google Workspace, Gmail, Google Drive, Google Docs, Google Sheets, Google Slides, Google Sites, Gemini and NotebookLM are names associated with Google. This independent training guide is not published or endorsed by Google.",
+  "output": "../../books/06-notebooklm-gemini-Book.pdf",
+  "front": [
+    {
+      "title": "About the author",
+      "file": "kit:front/about-the-author.md",
+      "class": "about"
+    }
+  ],
+  "intro": {
+    "title": "Before you begin",
+    "file": "front/introduction.md"
+  },
+  "chapters": [
+    {
+      "notes": "../../06-notebooklm-gemini/01-ai-workspace/README.md",
+      "exercises": "../../06-notebooklm-gemini/01-ai-workspace/prompts.md"
+    },
+    {
+      "notes": "../../06-notebooklm-gemini/02-prompt-design/README.md",
+      "exercises": "../../06-notebooklm-gemini/02-prompt-design/prompts.md"
+    },
+    {
+      "notes": "../../06-notebooklm-gemini/03-gemini-workflow/README.md",
+      "exercises": "../../06-notebooklm-gemini/03-gemini-workflow/prompts.md"
+    },
+    {
+      "notes": "../../06-notebooklm-gemini/04-source-notebook/README.md",
+      "exercises": "../../06-notebooklm-gemini/04-source-notebook/prompts.md"
+    },
+    {
+      "notes": "../../06-notebooklm-gemini/05-briefing-audio/README.md",
+      "exercises": "../../06-notebooklm-gemini/05-briefing-audio/prompts.md"
+    },
+    {
+      "notes": "../../06-notebooklm-gemini/06-responsible-review/README.md",
+      "exercises": "../../06-notebooklm-gemini/06-responsible-review/prompts.md"
+    },
+    {
+      "notes": "../../06-notebooklm-gemini/07-ai-pilot/README.md",
+      "exercises": "../../06-notebooklm-gemini/07-ai-pilot/prompts.md"
+    },
+    {
+      "notes": "../../06-notebooklm-gemini/08-prompt-playbook/README.md",
+      "exercises": "../../06-notebooklm-gemini/08-prompt-playbook/prompts.md"
+    }
+  ],
+  "backCover": "A practical 1-day course with step-by-step draft labs, copy-ready prompts, fictional inputs and expected-result checks. Use the supplied practice pack. Full lab execution, screenshots and classroom timing validation remain required before participant release."
+}

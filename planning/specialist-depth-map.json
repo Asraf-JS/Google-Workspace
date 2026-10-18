@@ -1,0 +1,530 @@
+[
+  {
+    "course": "02-google-docs",
+    "lab": 1,
+    "case_title": "Build a Source and Requirements Register",
+    "minutes": 40,
+    "active_minutes": 30,
+    "evidence": [
+      "Three-source register and five reader questions with evidence or an unresolved label.",
+      "A substantive purpose/scope statement and six testable acceptance checks.",
+      "Corrected intake memo and a recorded source-retrieval result."
+    ]
+  },
+  {
+    "course": "02-google-docs",
+    "lab": 2,
+    "case_title": "Develop an Executable Procedure and Test Its Logic",
+    "minutes": 55,
+    "active_minutes": 45,
+    "evidence": [
+      "Eight-step procedure with inputs, outputs and checks.",
+      "Normal and exception walkthroughs with a recorded repair.",
+      "Independent late/incomplete subsection that preserves uncertainty."
+    ]
+  },
+  {
+    "course": "02-google-docs",
+    "lab": 3,
+    "case_title": "Organise a Longer Document and Repair Its Navigation",
+    "minutes": 55,
+    "active_minutes": 45,
+    "evidence": [
+      "A two-level heading hierarchy and three tested Quick Start links.",
+      "Examples tab or appendix with a working return link.",
+      "Navigation fault, diagnosis and repair with a retrieval record."
+    ]
+  },
+  {
+    "course": "02-google-docs",
+    "lab": 4,
+    "case_title": "Lay Out a Usable Multi-Page Procedure",
+    "minutes": 50,
+    "active_minutes": 40,
+    "evidence": [
+      "Populated six-field reference table and real submission checklist.",
+      "Three-case escalation table placed in a readable multi-page document.",
+      "Page-by-page layout record and inspected PDF after the change."
+    ]
+  },
+  {
+    "course": "02-google-docs",
+    "lab": 5,
+    "case_title": "Run a Controlled Editorial Review",
+    "minutes": 55,
+    "active_minutes": 45,
+    "evidence": [
+      "Four reasoned review decisions and visible suggestion/comment handling.",
+      "Document comparison result or a logged manual comparison.",
+      "Named baseline/current milestones and unresolved evidence requirements."
+    ]
+  },
+  {
+    "course": "02-google-docs",
+    "lab": 6,
+    "case_title": "Adapt for Two Readers and Audit Meaning",
+    "minutes": 50,
+    "active_minutes": 40,
+    "evidence": [
+      "Two audience versions with a four-invariant meaning audit.",
+      "Glossary-based translation review with verification status.",
+      "A repaired usability barrier and independently rewritten exception route."
+    ]
+  },
+  {
+    "course": "02-google-docs",
+    "lab": 7,
+    "case_title": "Test Conversion and Issue a Reproducible Release",
+    "minutes": 40,
+    "active_minutes": 30,
+    "evidence": [
+      "Scope-checked PDF/Word copies and a round-trip comparison.",
+      "Element-by-element conversion record, including no-defect findings where observed.",
+      "Release manifest and a checked revised export with an unambiguous current version."
+    ]
+  },
+  {
+    "course": "02-google-docs",
+    "lab": 8,
+    "case_title": "Complete an Unfamiliar Revision and Reader Test",
+    "minutes": 45,
+    "active_minutes": 35,
+    "evidence": [
+      "Integrated three-case escalation route with working navigation.",
+      "A reader test, an evidence-based repair or a tested second case, and fresh complete export.",
+      "One-page handover that distinguishes maintained source, snapshot and open decisions."
+    ]
+  },
+  {
+    "course": "03-google-slides",
+    "lab": 1,
+    "case_title": "Build an Audience and Evidence Storyboard",
+    "minutes": 40,
+    "active_minutes": 30,
+    "evidence": [
+      "Six-slide evidence storyboard with two planned appendix topics.",
+      "Opening, decision request and a justified three-slide alternative.",
+      "Stakeholder-claim classification and one recorded narrative revision."
+    ]
+  },
+  {
+    "course": "03-google-slides",
+    "lab": 2,
+    "case_title": "Create a Reusable Deck Structure and Import Test",
+    "minutes": 45,
+    "active_minutes": 35,
+    "evidence": [
+      "Working deck plus clearly separated reusable structure copy.",
+      "Keep-theme/adopt-theme comparison and checked appendix navigation.",
+      "Independent theme adaptation with the original deck preserved."
+    ]
+  },
+  {
+    "course": "03-google-slides",
+    "lab": 3,
+    "case_title": "Redesign Dense Content Without Losing Evidence",
+    "minutes": 55,
+    "active_minutes": 45,
+    "evidence": [
+      "Dense and redesigned alternatives with an explicit meaning audit.",
+      "Aligned team layout, output diagram and useful speaker notes.",
+      "Two-decision slide supported by a recorded message-retrieval test."
+    ]
+  },
+  {
+    "course": "03-google-slides",
+    "lab": 4,
+    "case_title": "Produce Visuals With a Clear Information Purpose",
+    "minutes": 55,
+    "active_minutes": 45,
+    "evidence": [
+      "Two compared process designs and one independently built exception diagram.",
+      "Visual register with origin, reuse uncertainty and text alternatives.",
+      "Reader comprehension result plus a media fallback or explicit untested dependency."
+    ]
+  },
+  {
+    "course": "03-google-slides",
+    "lab": 5,
+    "case_title": "Extend the Source and Audit Every Representation",
+    "minutes": 55,
+    "active_minutes": 45,
+    "evidence": [
+      "Two checked linked charts and a documented static-versus-linked comparison.",
+      "Separate 13-record source/deck challenge with verified link identity.",
+      "Consistent chart labels and narrative after the new-row change."
+    ]
+  },
+  {
+    "course": "03-google-slides",
+    "lab": 6,
+    "case_title": "Test Motion, Reading Order and Review Decisions",
+    "minutes": 45,
+    "active_minutes": 35,
+    "evidence": [
+      "Compared static/reveal alternatives with a reasoned selection.",
+      "Keyboard order check and documented repair or no-defect result.",
+      "Full-sequence audit and a usable static delivery fallback."
+    ]
+  },
+  {
+    "course": "03-google-slides",
+    "lab": 7,
+    "case_title": "Rehearse an Accessible Delivery and Test Distribution",
+    "minutes": 45,
+    "active_minutes": 35,
+    "evidence": [
+      "Two timed rehearsals with specific delivery improvements.",
+      "Three source-based or explicitly unresolved sponsor answers.",
+      "Inspected handout scope, fallback delivery and release manifest."
+    ]
+  },
+  {
+    "course": "03-google-slides",
+    "lab": 8,
+    "case_title": "Handle a Last-Minute Sponsor Change",
+    "minutes": 50,
+    "active_minutes": 40,
+    "evidence": [
+      "Change classification, impact list and two-minute revised narrative.",
+      "Verified changed-scenario chart, source notes and matching handout.",
+      "Reviewer result, targeted improvement and reproducible handover."
+    ]
+  },
+  {
+    "course": "04-sheets-foundation-intermediate",
+    "lab": 1,
+    "case_title": "Build a Workbook Map and Reconstruct a Small Register",
+    "minutes": 40,
+    "active_minutes": 30,
+    "evidence": [
+      "Workbook Guide with four address-to-record checks.",
+      "Recreated three-row entry table and a corrected/verified copy record.",
+      "Independent source retrieval and a labelled new-entry practice area."
+    ]
+  },
+  {
+    "course": "04-sheets-foundation-intermediate",
+    "lab": 2,
+    "case_title": "Diagnose Display, Type and Readability Problems",
+    "minutes": 45,
+    "active_minutes": 35,
+    "evidence": [
+      "Type-test block with observed calculation behaviour.",
+      "Raw-to-clean intake table and readable entry-practice layout.",
+      "Independent numeric evidence and unchanged 12-row source."
+    ]
+  },
+  {
+    "course": "04-sheets-foundation-intermediate",
+    "lab": 3,
+    "case_title": "Test Calculations With Zeros, Blanks and Reference Errors",
+    "minutes": 65,
+    "active_minutes": 50,
+    "evidence": [
+      "Four-case calculation test with a documented blank-information limitation.",
+      "Reference-error and omitted-range diagnosis with repaired formulas.",
+      "Reconciled baseline totals and independent estimate table."
+    ]
+  },
+  {
+    "course": "04-sheets-foundation-intermediate",
+    "lab": 4,
+    "case_title": "Clean an Intake and Prove That Records Stay Together",
+    "minutes": 50,
+    "active_minutes": 40,
+    "evidence": [
+      "Preserved raw intake, justified clean values and explicit exceptions.",
+      "Whole-record sorting evidence and a restored isolated-column demonstration.",
+      "Named-range boundary test and independently reconciled total."
+    ]
+  },
+  {
+    "course": "04-sheets-foundation-intermediate",
+    "lab": 5,
+    "case_title": "Design and Verify Entry Rules and Focused Views",
+    "minutes": 50,
+    "active_minutes": 40,
+    "evidence": [
+      "Expected-versus-observed rule matrix including week boundaries and blanks.",
+      "Two useful named views with independently checked visible records.",
+      "Entry guide and a repaired coverage/range test."
+    ]
+  },
+  {
+    "course": "04-sheets-foundation-intermediate",
+    "lab": 6,
+    "case_title": "Build a Second Summary and Diagnose a Misleading Chart",
+    "minutes": 55,
+    "active_minutes": 45,
+    "evidence": [
+      "Two reconciled summaries/charts with distinct units.",
+      "Documented total-row and misspelt-category fault repairs.",
+      "Independent dashboard, supported findings and restored source-change test."
+    ]
+  },
+  {
+    "course": "04-sheets-foundation-intermediate",
+    "lab": 7,
+    "case_title": "Prepare a Readable, Scoped and Reproducible Output",
+    "minutes": 40,
+    "active_minutes": 30,
+    "evidence": [
+      "Inspected access settings and proposed-role plan.",
+      "Two scope-checked readable PDFs with the correct final-page content.",
+      "Source-to-export comparison and a revision manifest that identifies the current copy."
+    ]
+  },
+  {
+    "course": "04-sheets-foundation-intermediate",
+    "lab": 8,
+    "case_title": "Stress-Test the Extended Register and Complete the Handover",
+    "minutes": 45,
+    "active_minutes": 35,
+    "evidence": [
+      "13-record cost-corrected challenge and a full coverage/change log.",
+      "Separate 14-record independent test with reconciled totals and repaired range omission.",
+      "Readable current export plus a tested operating guide and preserved baseline."
+    ]
+  },
+  {
+    "course": "05-sheets-advanced",
+    "lab": 1,
+    "case_title": "Quarantine Bad Rows and Write a Data Contract",
+    "minutes": 45,
+    "active_minutes": 35,
+    "evidence": [
+      "Data contract and six-row anomaly audit with preserved raw values.",
+      "Baseline uniqueness/type/key checks and a justified quarantine policy.",
+      "Independent release conditions and a recorded challenged decision."
+    ]
+  },
+  {
+    "course": "05-sheets-advanced",
+    "lab": 2,
+    "case_title": "Reconcile Three Populations and Test Conditional Boundaries",
+    "minutes": 75,
+    "active_minutes": 60,
+    "evidence": [
+      "Reconciled count/amount grids for clearly defined populations.",
+      "Expected-versus-actual boundary matrix and repaired mixed-reference defect.",
+      "Independent threshold summary with supporting OrderIDs and a restored assumption."
+    ]
+  },
+  {
+    "course": "05-sheets-advanced",
+    "lab": 3,
+    "case_title": "Create a Rule Test Harness and Reconcile Exceptions",
+    "minutes": 65,
+    "active_minutes": 50,
+    "evidence": [
+      "Eight-case input validation matrix and five-case exception matrix.",
+      "Agreement between explicit flags, highlighted rows and filtered IDs.",
+      "New-row coverage repair and restored source values."
+    ]
+  },
+  {
+    "course": "05-sheets-advanced",
+    "lab": 4,
+    "case_title": "Build a Reversible Text Normalisation Pipeline",
+    "minutes": 60,
+    "active_minutes": 45,
+    "evidence": [
+      "Raw/clean text audit and identifier extraction tests.",
+      "Separate syntax and mapping validation with explicit exceptions.",
+      "Traceable category/display outputs and an independent mixed-intake result."
+    ]
+  },
+  {
+    "course": "05-sheets-advanced",
+    "lab": 5,
+    "case_title": "Challenge Exact Lookups With Missing and Duplicate Keys",
+    "minutes": 80,
+    "active_minutes": 65,
+    "evidence": [
+      "Known/missing/blank/padded-key test matrix with exact-method reconciliation.",
+      "Duplicate-key and column-move diagnosis on labelled copies.",
+      "Independent lookup result that never silently turns unknown rates into zero."
+    ]
+  },
+  {
+    "course": "05-sheets-advanced",
+    "lab": 6,
+    "case_title": "Run an Independent Formula Fault Clinic",
+    "minutes": 65,
+    "active_minutes": 50,
+    "evidence": [
+      "Defect register with preserved faulty/repaired formulas and test evidence.",
+      "Normal/boundary checks for every repair and restored baseline controls.",
+      "Independent diagnosis, regression check and an explainable troubleshooting path."
+    ]
+  },
+  {
+    "course": "05-sheets-advanced",
+    "lab": 7,
+    "case_title": "Reconcile Pivot Semantics and New-Row Coverage",
+    "minutes": 75,
+    "active_minutes": 60,
+    "evidence": [
+      "Amount and count pivots reconciled to formulas and contributing source rows.",
+      "Safe calculated-field comparison or documented unavailable route.",
+      "Separate new-record pivot with repaired coverage and demonstrated aggregation semantics."
+    ]
+  },
+  {
+    "course": "05-sheets-advanced",
+    "lab": 8,
+    "case_title": "Prove AND, OR and Overlapping Criteria",
+    "minutes": 60,
+    "active_minutes": 45,
+    "evidence": [
+      "Three labelled criteria blocks with source-ID reconciliation.",
+      "AND/OR and overlap proof, plus weighted/unweighted meaning comparison.",
+      "Independent question and corrected criteria-header test."
+    ]
+  },
+  {
+    "course": "05-sheets-advanced",
+    "lab": 9,
+    "case_title": "Design a Dashboard With a Visible Refresh Contract",
+    "minutes": 70,
+    "active_minutes": 55,
+    "evidence": [
+      "Defined dashboard with distinct populations, units and recalculating controls.",
+      "Source-change/restoration trace across line, summary and visuals.",
+      "Independent new-row coverage test and a usable refresh contract."
+    ]
+  },
+  {
+    "course": "05-sheets-advanced",
+    "lab": 10,
+    "case_title": "Evaluate AI Proposals Against Known Test Cases",
+    "minutes": 55,
+    "active_minutes": 45,
+    "evidence": [
+      "Prewritten test matrix and observed proposal results.",
+      "Original/corrected formula trace with independent verification.",
+      "Generated-chart source check or stated unavailable route, and supported final findings."
+    ]
+  },
+  {
+    "course": "05-sheets-advanced",
+    "lab": 11,
+    "case_title": "Complete a Decision Analysis With Independent Evidence",
+    "minutes": 80,
+    "active_minutes": 65,
+    "evidence": [
+      "Three-question specification and independently reconciled results.",
+      "Separate added-row and key-quality scenarios with audit evidence.",
+      "Executive output, reviewer challenge response and a bounded recommendation."
+    ]
+  },
+  {
+    "course": "05-sheets-advanced",
+    "lab": 12,
+    "case_title": "Make the Analysis Operable by Another Analyst",
+    "minutes": 50,
+    "active_minutes": 40,
+    "evidence": [
+      "Complete range inventory and a runbook tested on PO025.",
+      "Independent PO026 update with reconciled controls and exception coverage.",
+      "Recorded handover repair, open-issue route and clear scenario manifest."
+    ]
+  },
+  {
+    "course": "06-notebooklm-gemini",
+    "lab": 1,
+    "case_title": "Create a Source Manifest and Evaluation Plan",
+    "minutes": 40,
+    "active_minutes": 30,
+    "evidence": [
+      "Source manifest, bounded task contract and feature preflight record.",
+      "Six predicted tests plus two independently designed evidence tests.",
+      "Scoring structure and a checked source-selection exercise."
+    ]
+  },
+  {
+    "course": "06-notebooklm-gemini",
+    "lab": 2,
+    "case_title": "Run a Controlled Prompt Comparison",
+    "minutes": 50,
+    "active_minutes": 40,
+    "evidence": [
+      "Three-prompt comparison with preserved outputs and a consistent score table.",
+      "Final prompt rerun with observed variation and source-based corrections.",
+      "Independent sponsor prompt that survives the confidence-rewrite test."
+    ]
+  },
+  {
+    "course": "06-notebooklm-gemini",
+    "lab": 3,
+    "case_title": "Trace One Evidence Set Through Three Outputs",
+    "minutes": 55,
+    "active_minutes": 45,
+    "evidence": [
+      "Lineage table and three checked output types with consistent facts.",
+      "Delay-scenario update retaining an unknown replacement deadline.",
+      "Independent escalation note and explicit distinction between text and application actions."
+    ]
+  },
+  {
+    "course": "06-notebooklm-gemini",
+    "lab": 4,
+    "case_title": "Audit Citations, Source Selection and Conflicts",
+    "minutes": 60,
+    "active_minutes": 45,
+    "evidence": [
+      "Six-question citation audit with exact claim-to-passage checks.",
+      "Separate conflict context with unresolved authority handled explicitly.",
+      "Verified source-version change and an old-versus-new answer comparison."
+    ]
+  },
+  {
+    "course": "06-notebooklm-gemini",
+    "lab": 5,
+    "case_title": "Create a Briefing Package and Audit Generated Media",
+    "minutes": 50,
+    "active_minutes": 40,
+    "evidence": [
+      "Written briefing, claim/timestamp audit and source-based verdicts.",
+      "Checked fallback script and comprehension test with a targeted revision.",
+      "Output manifest with honest media-generation and review status."
+    ]
+  },
+  {
+    "course": "06-notebooklm-gemini",
+    "lab": 6,
+    "case_title": "Build and Apply an Evidence Review Protocol",
+    "minutes": 45,
+    "active_minutes": 35,
+    "evidence": [
+      "Claim-by-claim evidence review with meaningful correction categories.",
+      "Source-instruction analysis and a concrete unresolved-review note.",
+      "Independent second output audit and a tested review protocol."
+    ]
+  },
+  {
+    "course": "06-notebooklm-gemini",
+    "lab": 7,
+    "case_title": "Run a Small, Interpretable AI Evaluation",
+    "minutes": 50,
+    "active_minutes": 40,
+    "evidence": [
+      "Predefined acceptance rubric and comparable manual/assisted attempts.",
+      "Timing ledger separating active effort, wait and rework, with quality scores.",
+      "Independent process revision, rerun and bounded next-trial recommendation."
+    ]
+  },
+  {
+    "course": "06-notebooklm-gemini",
+    "lab": 8,
+    "case_title": "Make a Playbook Another User Can Reproduce",
+    "minutes": 40,
+    "active_minutes": 30,
+    "evidence": [
+      "Versioned playbook with exact input and review/recovery instructions.",
+      "Fresh-context reproduction and recorded instruction repair or edge-case test.",
+      "Independent sponsor summary with source audit and a complete handover manifest."
+    ]
+  }
+]

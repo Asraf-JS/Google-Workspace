@@ -1,0 +1,65 @@
+{
+  "palette": "../../assets/book-palette.css",
+  "kicker": "Google Workspace Training",
+  "titleLines": [
+    "Google",
+    {
+      "highlight": "Workspace"
+    },
+    "Masterclass"
+  ],
+  "runningTitle": "Collaborative Tools Masterclass",
+  "subtitle": "One-day course review draft",
+  "blurb": "Build and check practical workplace outputs with fictional project data. These notes and prompts are a written review draft awaiting full live lab validation.",
+  "coverIcons": [
+    "doc",
+    "check",
+    "lines",
+    "nodes"
+  ],
+  "edition": "Review draft",
+  "year": "2026",
+  "version": "0.3",
+  "author": "Asraf Jaafar Sidik",
+  "authorShort": "Asraf",
+  "credential": "Microsoft Certified Trainer",
+  "repoUrl": "",
+  "repoRoot": "../..",
+  "trademark": "Google, Google Workspace, Gmail, Google Drive, Google Docs, Google Sheets, Google Slides, Google Sites, Gemini and NotebookLM are names associated with Google. This independent training guide is not published or endorsed by Google.",
+  "output": "../../books/01-collaborative-tools-Book.pdf",
+  "front": [
+    {
+      "title": "About the author",
+      "file": "kit:front/about-the-author.md",
+      "class": "about"
+    }
+  ],
+  "intro": {
+    "title": "Before you begin",
+    "file": "front/introduction.md"
+  },
+  "chapters": [
+    {
+      "notes": "../../01-collaborative-tools/01-workspace-governance/README.md"
+    },
+    {
+      "notes": "../../01-collaborative-tools/02-checked-brief/README.md",
+      "exercises": "../../01-collaborative-tools/02-checked-brief/prompts.md"
+    },
+    {
+      "notes": "../../01-collaborative-tools/03-meeting-actions/README.md",
+      "exercises": "../../01-collaborative-tools/03-meeting-actions/prompts.md"
+    },
+    {
+      "notes": "../../01-collaborative-tools/04-reporting-dashboard/README.md"
+    },
+    {
+      "notes": "../../01-collaborative-tools/05-evidence-update/README.md",
+      "exercises": "../../01-collaborative-tools/05-evidence-update/prompts.md"
+    },
+    {
+      "notes": "../../01-collaborative-tools/06-hub-handover/README.md"
+    }
+  ],
+  "backCover": "A practical 1-day course with step-by-step draft labs, copy-ready prompts, fictional inputs and expected-result checks. Use the supplied practice pack. Full lab execution, screenshots and classroom timing validation remain required before participant release."
+}

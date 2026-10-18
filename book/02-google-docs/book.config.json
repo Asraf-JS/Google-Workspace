@@ -1,0 +1,75 @@
+{
+  "palette": "../../assets/book-palette-specialist.css",
+  "kicker": "Google Workspace Training",
+  "titleLines": [
+    "Google",
+    {
+      "highlight": "Docs"
+    }
+  ],
+  "runningTitle": "Google Docs",
+  "subtitle": "One-day course review draft",
+  "blurb": "Build and check practical workplace outputs with fictional project data. Labs 1–3 include 53 real stage captures. Remaining routes and learner validation are pending.",
+  "coverIcons": [
+    "doc",
+    "check",
+    "lines",
+    "nodes"
+  ],
+  "edition": "Review draft",
+  "year": "2026",
+  "version": "0.4",
+  "author": "Asraf Jaafar Sidik",
+  "authorShort": "Asraf",
+  "credential": "Microsoft Certified Trainer",
+  "repoUrl": "",
+  "repoRoot": "../..",
+  "trademark": "Google, Google Workspace, Gmail, Google Drive, Google Docs, Google Sheets, Google Slides, Google Sites, Gemini and NotebookLM are names associated with Google. This independent training guide is not published or endorsed by Google.",
+  "output": "../../books/02-google-docs-Book.pdf",
+  "front": [
+    {
+      "title": "About the author",
+      "file": "kit:front/about-the-author.md",
+      "class": "about"
+    }
+  ],
+  "intro": {
+    "title": "Before you begin",
+    "file": "front/introduction.md"
+  },
+  "chapters": [
+    {
+      "notes": "../../02-google-docs/01-document-sources/README.md",
+      "exercises": "../../02-google-docs/01-document-sources/prompts.md"
+    },
+    {
+      "notes": "../../02-google-docs/02-draft-procedure/README.md",
+      "exercises": "../../02-google-docs/02-draft-procedure/prompts.md"
+    },
+    {
+      "notes": "../../02-google-docs/03-styles-navigation/README.md",
+      "exercises": "../../02-google-docs/03-styles-navigation/prompts.md"
+    },
+    {
+      "notes": "../../02-google-docs/04-page-layout/README.md",
+      "exercises": "../../02-google-docs/04-page-layout/prompts.md"
+    },
+    {
+      "notes": "../../02-google-docs/05-review-collaboration/README.md",
+      "exercises": "../../02-google-docs/05-review-collaboration/prompts.md"
+    },
+    {
+      "notes": "../../02-google-docs/06-adapt-accessibility/README.md",
+      "exercises": "../../02-google-docs/06-adapt-accessibility/prompts.md"
+    },
+    {
+      "notes": "../../02-google-docs/07-export-check/README.md",
+      "exercises": "../../02-google-docs/07-export-check/prompts.md"
+    },
+    {
+      "notes": "../../02-google-docs/08-procedure-challenge/README.md",
+      "exercises": "../../02-google-docs/08-procedure-challenge/prompts.md"
+    }
+  ],
+  "backCover": "A practical 1-day course with step-by-step draft labs, copy-ready prompts, fictional inputs and expected-result checks. Use the supplied practice pack. Labs 1–3 have real reference captures. Remaining labs, independent challenges and classroom timing validation are required before participant release."
+}

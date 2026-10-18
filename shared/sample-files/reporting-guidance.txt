@@ -1,0 +1,12 @@
+FICTIONAL TRAINING MATERIAL
+Proposed reporting guidance for practice, version 1
+This is proposed training guidance, not an approved company policy.
+Not Started: work on the task has not begun.
+In Progress: work has begun but the owner has not confirmed completion.
+Complete: the task owner has confirmed that the agreed task output is ready for review.
+DueWeek is a relative practice week from 1 to 4. It is not a confirmed calendar date.
+Report the task ID, owner, status and a short exception note when needed.
+If an owner, fact or decision is missing, flag it for clarification. Do not invent a value.
+Prepare one weekly update for review every Friday during the pilot.
+The source fact sheet controls project purpose, proposed budget and success measure.
+This guidance does not approve the budget, the start date or any purchase.

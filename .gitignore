@@ -1,0 +1,15 @@
+node_modules/
+_trainer/
+_local/
+.browser-profile/
+*.tmp
+
+_site/
+.local-build/
+book/**/.build/
+*.inspect.ndjson
+
+_qa/
+_design/shots/raw/
+.env
+.env.*
