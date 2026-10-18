@@ -16,11 +16,11 @@ This package intentionally uses a static site build from Markdown for the six-co
 
 ## Where Things Stand
 
-Version 0.4, 18 October 2026. All 50 chapter notes and companion prompt pages are written drafts. Fictional starter workbooks, CSV inputs and source texts, six review books and a static course-site builder are present.
+Version 0.4, 19 October 2026. All 50 chapter notes and companion prompt pages are written drafts. Fictional starter workbooks, CSV inputs and source texts, six review books and a static course-site builder are present.
 
-There are 162 real stage captures: 109 across the six masterclass labs and 53 across Docs Labs 1-3. Forty-one specialist lab routes still require real-app execution and screenshots. The masterclass hub's desktop and phone Preview remain blank. Independent learner/reviewer challenges and classroom timing pilots remain pending. Recorded author checks and scripted reference tests are not learner validation.
+There are 197 real stage captures: 109 across the six masterclass labs and 88 across Docs Labs 1-4. Forty specialist lab routes still require real-app execution and screenshots. The masterclass hub's desktop and phone Preview remain blank. Independent learner/reviewer challenges and classroom timing pilots remain pending. Recorded author checks and scripted reference tests are not learner validation.
 
-Source inventory, relative links and daily timing allocations pass. The six books were rendered and visually reviewed; the Docs book is 58 pages and the masterclass book is 73 pages. Local browser checks passed for the captured Docs routes. Full pop-out/lightbox lifecycle checks remain pending. No remote site deployment has been performed.
+Source inventory, relative links and daily timing allocations pass. The six books were rendered and visually reviewed; the Docs book is 81 pages and the masterclass book is 73 pages. Local browser checks passed for the captured Docs routes. Full pop-out/lightbox lifecycle checks remain pending. No remote site deployment has been performed.
 
 See planning/VALIDATION-STATUS.md for public validation state, and ignored _local records for private demo identities. Rebuild the books and site after changing content. Inspect the final PDFs after changes. Keep status records accurate rather than claiming a draft chapter is validated.
 
@@ -38,4 +38,6 @@ Use a branch and a pull request, following the shared course conventions. The in
 
 ## Screenshot Sources
 
-Asraf wants uncropped screenshots retained for later framing adjustments. The editing library in `_design/screenshots/` contains 159 retained sources: 150 application-window captures, six focused captures and three PDF-page renders. All retain their captured dimensions, with privacy masks. Three early workspace originals were not retained and need recapture. Two procedure-plan full frames include later surrounding context and must be recaptured before whole-frame use in participant notes. Keep existing approved lesson crops until an adjusted frame is reviewed. For every new stage, retain the full application-window PNG before making a crop and ensure the entire visible frame contains only work completed by that step.
+Asraf wants uncropped screenshots retained for later framing adjustments. The editing library in `_design/screenshots/` contains 194 retained sources: 182 application-window captures, six focused captures and six PDF-page renders. All retain their captured dimensions, with privacy masks. Three early workspace originals were not retained and need recapture. Two procedure-plan full frames include later surrounding context and must be recaptured before whole-frame use in participant notes. Keep existing approved lesson crops until an adjusted frame is reviewed. For every new stage, retain the full application-window PNG before making a crop and ensure the entire visible frame contains only work completed by that step.
+
+Docs Lab 4 now has 35 staged images and a verified nine-page native export. Continue with Docs Lab 5 using the maintained Working document, which retains all earlier text and heading targets. Keep the separate Layout Practice copy in Pageless mode for comparison. The independent escalation-table challenge was skipped. The updated 81-page Docs book was rendered and visually reviewed; source checks and the 115-page site build pass.

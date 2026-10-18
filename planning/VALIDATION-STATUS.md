@@ -70,3 +70,10 @@ Navigation checks covered native Title/Heading 1/Heading 2 styles, generated con
 ### Docs batch packaging and visual QA
 
 The updated Docs review book is 58 pages. All pages were rendered and visually reviewed after the final crop changes; no blank pages or out-of-page text were found. The local site rebuilt 115 pages, and source inventory, local links and daily allocation checks pass. The three updated Docs routes load 16, 13 and 24 lesson images with zero broken source assets; the empty image-viewer placeholder was excluded from that count. Native readback confirms the working baseline has one tab and the navigation copy has main/Examples tabs, unique nonempty heading targets, native internal bookmark/heading links and both cross-tab links. Both budget and start-date decisions remain open. The public/private ZIPs are rebuilt after this checkpoint.
+
+
+### 19 October 2026: Docs Lab 4 Reference Run
+
+Sections 4.1-4.4 were executed in the real application: A4 portrait, equal 2 cm margins, real header/footer, automatic page-number field, a 7-by-4 field-reference table, six native numbered-list items and a separate Pageless comparison copy. The final native PDF has nine pages, all visually reviewed. Repairs cover repeating plan-table headers, a field row split across pages 1-2, accidental empty-heading spacing and a label stranded on page 8. The complete field table now appears on page 2; the final label stays with its explanation on page 9. All 178 pre-existing nonempty paragraphs and all ten nonempty heading targets were retained. The CSV link was opened and T001 verified. Browser PDF download was requested but not independently observed; connected Drive supplied the inspected native exports. Thirty-five images and their uncropped masked sources are retained. The independent challenge, partner review and learner timings remain pending.
+
+The rebuilt Docs review book has 81 pages. Every page was rendered and visually inspected; automated geometry checks found no blank pages or out-of-page text. Source inventory, local links and timing-allocation checks pass; the site build produces 115 pages.

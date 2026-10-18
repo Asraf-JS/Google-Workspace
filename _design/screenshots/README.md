@@ -2,7 +2,7 @@
 
 These PNGs preserve the full dimensions of the retained captures, with account identities, private native URLs and mailbox surroundings masked. They have not been cropped or resized during this export. Unredacted originals stay local.
 
-The source library contains **150 application-window captures, six focused captures and three PDF-page renders**. Three early images have no retained original. A full application capture contains the browser application viewport, not necessarily browser tabs, the address bar or the Windows desktop.
+The source library contains **182 application-window captures, six focused captures and six PDF-page renders**. Three early images have no retained original. A full application capture contains the browser application viewport, not necessarily browser tabs, the address bar or the Windows desktop.
 
 Participant notes continue to use the existing approved crops. Inspect the whole frame before replacing a lesson image: surrounding content may fall outside the illustrated step. Two procedure-plan sources explicitly need an earlier-stage recapture before whole-frame use.
 
@@ -189,3 +189,38 @@ These three early workspace images need recapture for a wider view:
 | [c02-03-renamed-contents.jpg](../../02-google-docs/03-styles-navigation/images/c02-03-renamed-contents.jpg) | [PNG](full/02-google-docs/03-styles-navigation/c02-03-renamed-contents.png) | 2360 x 1112 | application-window |
 | [c02-03-incoming-link-retested.jpg](../../02-google-docs/03-styles-navigation/images/c02-03-incoming-link-retested.jpg) | [PNG](full/02-google-docs/03-styles-navigation/c02-03-incoming-link-retested.png) | 2360 x 1112 | application-window |
 | [c02-03-navigation-check.jpg](../../02-google-docs/03-styles-navigation/images/c02-03-navigation-check.jpg) | [PNG](full/02-google-docs/03-styles-navigation/c02-03-navigation-check.png) | 2360 x 1112 | application-window |
+| [c02-04-page-setup-before.jpg](../../02-google-docs/04-page-layout/images/c02-04-page-setup-before.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-page-setup-before.png) | 2360 x 1170 | application-window |
+| [c02-04-pageless-inspection.jpg](../../02-google-docs/04-page-layout/images/c02-04-pageless-inspection.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-pageless-inspection.png) | 2360 x 1170 | application-window |
+| [c02-04-a4-margins.jpg](../../02-google-docs/04-page-layout/images/c02-04-a4-margins.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-a4-margins.png) | 2360 x 1170 | application-window |
+| [c02-04-first-page.jpg](../../02-google-docs/04-page-layout/images/c02-04-first-page.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-first-page.png) | 2360 x 1170 | application-window |
+| [c02-04-page-elements-menu.jpg](../../02-google-docs/04-page-layout/images/c02-04-page-elements-menu.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-page-elements-menu.png) | 2360 x 1170 | application-window |
+| [c02-04-header.jpg](../../02-google-docs/04-page-layout/images/c02-04-header.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-header.png) | 2360 x 1170 | application-window |
+| [c02-04-footer.jpg](../../02-google-docs/04-page-layout/images/c02-04-footer.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-footer.png) | 2360 x 1170 | application-window |
+| [c02-04-live-number.jpg](../../02-google-docs/04-page-layout/images/c02-04-live-number.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-live-number.png) | 2360 x 1170 | application-window |
+| [c02-04-page-boundary.jpg](../../02-google-docs/04-page-layout/images/c02-04-page-boundary.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-page-boundary.png) | 2360 x 1170 | application-window |
+| [c02-04-heading-pagination.jpg](../../02-google-docs/04-page-layout/images/c02-04-heading-pagination.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-heading-pagination.png) | 2360 x 1170 | application-window |
+| [c02-04-log-break-control.jpg](../../02-google-docs/04-page-layout/images/c02-04-log-break-control.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-log-break-control.png) | 2360 x 1170 | application-window |
+| [c02-04-log-new-page.jpg](../../02-google-docs/04-page-layout/images/c02-04-log-new-page.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-log-new-page.png) | 2360 x 1170 | application-window |
+| [c02-04-pdf-menu.jpg](../../02-google-docs/04-page-layout/images/c02-04-pdf-menu.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-pdf-menu.png) | 2360 x 1170 | application-window |
+| [c02-04-plan-header-unpinned.jpg](../../02-google-docs/04-page-layout/images/c02-04-plan-header-unpinned.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-plan-header-unpinned.png) | 2360 x 1170 | application-window |
+| [c02-04-plan-header-pinned.jpg](../../02-google-docs/04-page-layout/images/c02-04-plan-header-pinned.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-plan-header-pinned.png) | 2360 x 1170 | application-window |
+| [c02-04-plan-continuation.jpg](../../02-google-docs/04-page-layout/images/c02-04-plan-continuation.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-plan-continuation.png) | 2360 x 1170 | application-window |
+| [c02-04-field-table-empty.jpg](../../02-google-docs/04-page-layout/images/c02-04-field-table-empty.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-field-table-empty.png) | 2360 x 1170 | application-window |
+| [c02-04-field-table-headings.jpg](../../02-google-docs/04-page-layout/images/c02-04-field-table-headings.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-field-table-headings.png) | 2360 x 1170 | application-window |
+| [c02-04-field-table-populated.jpg](../../02-google-docs/04-page-layout/images/c02-04-field-table-populated.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-field-table-populated.png) | 2360 x 1170 | application-window |
+| [c02-04-width-padding.jpg](../../02-google-docs/04-page-layout/images/c02-04-width-padding.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-width-padding.png) | 2360 x 1170 | application-window |
+| [c02-04-field-header-pinned.jpg](../../02-google-docs/04-page-layout/images/c02-04-field-header-pinned.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-field-header-pinned.png) | 2360 x 1170 | application-window |
+| [c02-04-practice-copy.jpg](../../02-google-docs/04-page-layout/images/c02-04-practice-copy.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-practice-copy.png) | 2360 x 1170 | application-window |
+| [c02-04-pageless-warning.jpg](../../02-google-docs/04-page-layout/images/c02-04-pageless-warning.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-pageless-warning.png) | 2360 x 1112 | application-window |
+| [c02-04-pageless-table.jpg](../../02-google-docs/04-page-layout/images/c02-04-pageless-table.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-pageless-table.png) | 2360 x 1112 | application-window |
+| [c02-04-maintained-pages.jpg](../../02-google-docs/04-page-layout/images/c02-04-maintained-pages.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-maintained-pages.png) | 2360 x 1170 | application-window |
+| [c02-04-numbered-checklist.jpg](../../02-google-docs/04-page-layout/images/c02-04-numbered-checklist.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-numbered-checklist.png) | 2360 x 1170 | application-window |
+| [c02-04-prepare-break-control.jpg](../../02-google-docs/04-page-layout/images/c02-04-prepare-break-control.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-prepare-break-control.png) | 2360 x 1170 | application-window |
+| [c02-04-prepare-after-break.jpg](../../02-google-docs/04-page-layout/images/c02-04-prepare-after-break.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-prepare-after-break.png) | 2360 x 1170 | application-window |
+| [c02-04-print-field-table.jpg](../../02-google-docs/04-page-layout/images/c02-04-print-field-table.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-print-field-table.png) | 2360 x 1170 | application-window |
+| [c02-04-cleaned-spacing.jpg](../../02-google-docs/04-page-layout/images/c02-04-cleaned-spacing.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-cleaned-spacing.png) | 2360 x 1170 | application-window |
+| [c02-04-label-pagination.jpg](../../02-google-docs/04-page-layout/images/c02-04-label-pagination.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-label-pagination.png) | 2360 x 1170 | application-window |
+| [c02-04-label-repaired.jpg](../../02-google-docs/04-page-layout/images/c02-04-label-repaired.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-label-repaired.png) | 2360 x 1170 | application-window |
+| [c02-04-pdf-baseline.jpg](../../02-google-docs/04-page-layout/images/c02-04-pdf-baseline.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-pdf-baseline.png) | 775 x 1095 | pdf-page |
+| [c02-04-pdf-field-table.jpg](../../02-google-docs/04-page-layout/images/c02-04-pdf-field-table.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-pdf-field-table.png) | 775 x 1095 | pdf-page |
+| [c02-04-pdf-label.jpg](../../02-google-docs/04-page-layout/images/c02-04-pdf-label.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-pdf-label.png) | 775 x 1095 | pdf-page |

@@ -8,7 +8,7 @@ In this chapter you will set up pages, headers, footers and page numbering; comp
 
 **Your result:** An A4 document with checked headers, footers and page numbers.
 
-> **Status:** expanded review draft, revision 0.4. Complete the casework and independent challenge as well as the guided steps. The expanded route, screenshots and timing have not yet been validated in the learner application.
+> **Status:** core sections 4.1-4.4 executed as an author reference run. Thirty-five staged images cover page setup, real headers/footers and page numbers, table/checklist casework, a separate Pageless comparison and checked PDF repairs. Full captured frames are retained for editing. The escalation-table independent challenge and learner timings remain pending.
 
 ## What You Will Learn
 
@@ -20,13 +20,31 @@ In this chapter you will set up pages, headers, footers and page numbering; comp
 
 Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
-Use the procedure. Add enough genuine practice paragraphs to create a second page; avoid blank paragraphs used only to force pages.
+Continue with your maintained `GW - Reporting Procedure - Working` document from Labs 1-3. Keep the Navigation Practice copy separate. The existing procedure and authoring evidence already make this a multi-page document; do not add filler or blank paragraphs to force more pages.
 
 ## 4.1 Choose the Document Format
 
-1. Open File, then Page setup. Inspect Pages and Pageless.
-2. For this print exercise choose Pages, A4 and portrait. Use consistent margins on all sides.
-3. Return to the document and inspect the first page. Discuss when a wide collaborative working document might use pageless instead.
+1. Choose **File**, **Page setup**. Inspect **Pages** and **Pageless**. You can inspect the Pageless tab, then return to Pages before applying anything.
+
+![The original Pages settings use A4 portrait and 2.54 cm margins](./images/c02-04-page-setup-before.jpg)
+
+*The original Pages settings use A4 portrait and 2.54 cm margins.*
+
+![Inspect Pageless without applying it to the maintained print document](./images/c02-04-pageless-inspection.jpg)
+
+*Inspect Pageless without applying it to the maintained print document.*
+
+2. Choose **Apply to: Whole document**, **Pages**, **A4** and **Portrait**. Enter **2 cm** for Top, Bottom, Left and Right, then choose **OK**. Do not change the account default.
+
+![Whole document, Pages, A4 portrait and four matching 2 cm margins before applying](./images/c02-04-a4-margins.jpg)
+
+*Whole document, Pages, A4 portrait and four matching 2 cm margins before applying.*
+
+3. Inspect the first page and its visible page boundary. Discuss when a wide collaborative working document might use Pageless instead.
+
+![The maintained document has page boundaries before headers and footers are added](./images/c02-04-first-page.jpg)
+
+*The maintained document has page boundaries before headers and footers are added.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -35,13 +53,35 @@ The document has visible page boundaries. Page headers and page numbers are bein
 
 </details>
 
-<!-- VERIFY: execute 4.1 in the target account and reconcile control names. Capture images/c02-04-01.jpg only from the real app. -->
+<!-- CAPTURED: core reference route; independent escalation challenge and learner pilot remain pending. -->
 
 ## 4.2 Add Page Elements
 
-1. Use Insert to add a header and type `Project Reporting Procedure`.
-2. Add a footer containing `Fictional training material`.
-3. Use the page-number option to insert a live page number. Do not type a separate number on every page.
+1. Choose **Insert**, **Page elements**, **Header** and type `Project Reporting Procedure`. Leave **Different first page** unchecked for this exercise. Press **Esc** to return to the body.
+
+![Insert > Page elements contains Header, Footer and Page numbers](./images/c02-04-page-elements-menu.jpg)
+
+*Insert > Page elements contains Header, Footer and Page numbers.*
+
+![The repeating header is present before adding the footer or page number](./images/c02-04-header.jpg)
+
+*The repeating header is present before adding the footer or page number.*
+
+2. Choose **Insert**, **Page elements**, **Footer**. Type `Fictional training material`, then press **Esc**.
+
+![The fictional-material footer is present before automatic numbering](./images/c02-04-footer.jpg)
+
+*The fictional-material footer is present before automatic numbering.*
+
+3. Choose **Insert**, **Page elements**, **Page numbers**, then the footer option starting on page one. A separate right-aligned page-number paragraph can appear below the footer label. Inspect a later page to confirm the number changes automatically.
+
+![The footer contains a live page-number field rather than a typed number](./images/c02-04-live-number.jpg)
+
+*The footer contains a live page-number field rather than a typed number.*
+
+![The boundary shows page one’s footer and the repeated header on page two](./images/c02-04-page-boundary.jpg)
+
+*The boundary shows page one’s footer and the repeated header on page two.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -50,13 +90,48 @@ The repeated elements are consistent and page numbering changes automatically ac
 
 </details>
 
-<!-- VERIFY: execute 4.2 in the target account and reconcile control names. Capture images/c02-04-02.jpg only from the real app. -->
+<!-- CAPTURED: core reference route; independent escalation challenge and learner pilot remain pending. -->
 
 ## 4.3 Check Page Breaks
 
-1. Inspect every page for an isolated heading, split table or oversized blank gap.
-2. Keep a heading with its following paragraph using the available paragraph pagination options. Use a deliberate page break only where the document needs a new section.
-3. Open print preview or download a temporary PDF and check that the page elements remain readable.
+1. Inspect every page for an isolated heading, split row or avoidable blank gap. Remove accidental heading formatting from empty paragraphs without deleting real headings or their navigation targets.
+2. Select a real heading and choose **Format**, **Line & paragraph spacing**. Inspect **Keep with next** and **Keep lines together**; leave an already checked option on. Use **Add page break before** only for a genuine new section, such as the Authoring Log.
+
+![The selected real heading already has Keep with next and Keep lines together enabled](./images/c02-04-heading-pagination.jpg)
+
+*The selected real heading already has Keep with next and Keep lines together enabled.*
+
+![A deliberate page break starts the evidence log separately from the reader-facing procedure](./images/c02-04-log-break-control.jpg)
+
+*A deliberate page break starts the evidence log separately from the reader-facing procedure.*
+
+![The Authoring Log starts on a new page; source wording is retained](./images/c02-04-log-new-page.jpg)
+
+*The Authoring Log starts on a new page; source wording is retained.*
+
+3. Choose **File**, **Download**, **PDF document (.pdf)**. Open the snapshot and inspect every page. In the reference run, the native PDF was retrieved through the connected Drive export after requesting the browser download; browser download completion is unverified.
+
+![File > Download offers PDF document for a print-layout snapshot](./images/c02-04-pdf-menu.jpg)
+
+*File > Download offers PDF document for a print-layout snapshot.*
+
+![The first native export is checked before adding the field table and submission checklist](./images/c02-04-pdf-baseline.jpg)
+
+*The first native export is checked before adding the field table and submission checklist.*
+
+If a table continues on another page without its headings, select a cell, open **Table options**, expand **Row**, then enable **Pin header row(s)** with a count of **1**. Inspect the actual continuation page.
+
+![The split procedure-plan table initially has no pinned header row](./images/c02-04-plan-header-unpinned.jpg)
+
+*The split procedure-plan table initially has no pinned header row.*
+
+![Pin header row(s) is enabled with a count of one](./images/c02-04-plan-header-pinned.jpg)
+
+*Pin header row(s) is enabled with a count of one.*
+
+![The continuation page now repeats Step, Input, Action, Output and Check](./images/c02-04-plan-continuation.jpg)
+
+*The continuation page now repeats Step, Input, Action, Output and Check.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -65,23 +140,101 @@ Every page has usable content, legible page elements and no avoidable blank page
 
 </details>
 
-<!-- VERIFY: execute 4.3 in the target account and reconcile control names. Capture images/c02-04-03.jpg only from the real app. -->
+<!-- CAPTURED: core reference route; independent escalation challenge and learner pilot remain pending. -->
 
 ## 4.4 Lay Out a Usable Multi-Page Procedure
 
-1. Under the relevant procedure section insert a four-column table: Field, Meaning, Example and Check. Populate TaskID, Owner, Status, DueWeek, Exception note and Source link from the supplied guidance, labelling any designed field as proposed.
+1. Under **Required Fields**, add `Field reference - proposed training template`. Choose **Insert**, **Table** and start with four columns. Enter the four headings and the six field rows from the copy-paste page. If the picker offers only five rows, pressing **Tab** in the final cell adds another row. Finish with **7 rows by 4 columns**, including the header.
 
-2. Use **Table options** to adjust column widths and cell padding. Give the meaning and example columns enough width to avoid one-word lines. Keep the table as a table rather than replacing it with an image.
+![The native table starts with four columns; Tab in the last cell adds the remaining rows](./images/c02-04-field-table-empty.jpg)
 
-3. Add a numbered six-step submission checklist as real procedure content. Avoid repeated filler paragraphs to create page length.
+*The native table starts with four columns; Tab in the last cell adds the remaining rows.*
 
-4. Inspect how the table and headings cross page boundaries. Where the available controls permit it, retain a useful header row and keep headings with their following explanation.
+![Field, Meaning, Example and Check are entered before populating the six field rows](./images/c02-04-field-table-headings.jpg)
 
-5. On a practice copy compare A4 portrait with a pageless working view. Record which is easier for editing the field table and which suits the intended printed handout.
+*Field, Meaning, Example and Check are entered before populating the six field rows.*
 
-6. Return the maintained print version to Pages mode. Check header, footer and automatic page numbers after adding the table and checklist.
+![All six fields are populated before adjusting widths and reviewing pagination](./images/c02-04-field-table-populated.jpg)
 
-7. Export a draft PDF and inspect every page for clipped table columns, isolated headings, blank gaps and unwanted empty pages. Record actual page numbers for any defect and repair at the source.
+*All six fields are populated before adjusting widths and reviewing pagination.*
+
+2. Place the cursor in each column and open **Table options**, **Column**. Enable **Column width** and use **3 cm**, **4.5 cm**, **4.5 cm** and **5 cm** respectively. Inspect **Cell padding** for the selected cell; the reference run tests **0.15 cm** there. Keep the table editable. Add a descriptive link to the supplied Tasks.csv example and verify T001 against the original input.
+
+![The Check column is 5 cm wide; 0.15 cm padding is tested on the selected cell](./images/c02-04-width-padding.jpg)
+
+*The Check column is 5 cm wide; 0.15 cm padding is tested on the selected cell.*
+
+3. Under **Submission Example**, add the six submission-check paragraphs from the copy-paste page. Select those six paragraphs and click **Numbered list**. Confirm you see **1** through **6**; pasted paragraphs may remain plain until you apply the list formatting. Keep the checklist label outside the list. Do not renumber the earlier eight-step procedure. Avoid filler.
+
+![Formatting verification confirms six real numbered-list items, preserving unresolved routing details](./images/c02-04-numbered-checklist.jpg)
+
+*Formatting verification confirms six real numbered-list items, preserving unresolved routing details.*
+
+4. Inspect the table and headings across page boundaries. Pin one header row for the reference table too, and keep real headings with the following explanation.
+
+![The new reference table also has one pinned header row](./images/c02-04-field-header-pinned.jpg)
+
+*The new reference table also has one pinned header row.*
+
+5. Use **File**, **Make a copy**, name it `GW - Reporting Procedure - Layout Practice` and keep it in your Docs practice folder. Leave **Share it with the same people** unchecked. On that copy choose **File**, **Page setup**, **Pageless**, **OK**. Compare the continuous table with the printed layout and record your decision. Headers, footers and page numbers are hidden in Pageless mode.
+
+![Create the named layout-practice copy without copying sharing permissions](./images/c02-04-practice-copy.jpg)
+
+*Create the named layout-practice copy without copying sharing permissions.*
+
+![Pageless warns that headers, footers, columns and watermarks will not be visible](./images/c02-04-pageless-warning.jpg)
+
+*Pageless warns that headers, footers, columns and watermarks will not be visible.*
+
+![The separate Pageless copy shows the complete four-column field table in a continuous view](./images/c02-04-pageless-table.jpg)
+
+*The separate Pageless copy shows the complete four-column field table in a continuous view.*
+
+6. Return to the maintained **Working** document. Confirm **Pages**, **A4 portrait** and the equal margins for the **Whole document**. Keep the comparison copy separate. Check the header, footer and automatic numbering again.
+
+![The maintained version remains Pages, A4 portrait, with matching 2 cm margins](./images/c02-04-maintained-pages.jpg)
+
+*The maintained version remains Pages, A4 portrait, with matching 2 cm margins.*
+
+7. Export a fresh PDF and inspect every page. Record page numbers for defects, repair them in the native document, then export again.
+
+In the reference draft, the first field row split between pages **1 and 2**. A deliberate break before **Prepare** moved the complete reference table onto page **2**. This leaves the introduction and navigation as the first page.
+
+![A deliberate break before Prepare moves the field-reference section to a clean page](./images/c02-04-prepare-break-control.jpg)
+
+*A deliberate break before Prepare moves the field-reference section to a clean page.*
+
+![Prepare and Required Fields start together after the intentional introduction-and-navigation page](./images/c02-04-prepare-after-break.jpg)
+
+*Prepare and Required Fields start together after the intentional introduction-and-navigation page.*
+
+![The print table retains all six field rows and a descriptive source link after the page-break repair](./images/c02-04-print-field-table.jpg)
+
+*The print table retains all six field rows and a descriptive source link after the page-break repair.*
+
+![Final native PDF page two keeps the complete field table readable on one page](./images/c02-04-pdf-field-table.jpg)
+
+*Final native PDF page two keeps the complete field table readable on one page.*
+
+Remove accidental heading styles from empty paragraphs where they create oversized gaps. Preserve the real headings and internal links.
+
+![Accidental heading styles on empty paragraphs are removed without changing real heading targets](./images/c02-04-cleaned-spacing.jpg)
+
+*Accidental heading styles on empty paragraphs are removed without changing real heading targets.*
+
+A later draft also left the **Paper walkthrough B** label alone on page **8**. **Keep with next** moved it with its explanation onto page **9**. The final nine-page export was inspected page by page; the original text and all ten nonempty heading targets were retained. Purposeful section breaks are distinct from unwanted empty pages.
+
+![Keep with next is applied to the isolated walkthrough label found on draft PDF page eight](./images/c02-04-label-pagination.jpg)
+
+*Keep with next is applied to the isolated walkthrough label found on draft PDF page eight.*
+
+![The label moves to the next page with its following explanation](./images/c02-04-label-repaired.jpg)
+
+*The label moves to the next page with its following explanation.*
+
+![Final native PDF page nine keeps the walkthrough label with its explanation](./images/c02-04-pdf-label.jpg)
+
+*Final native PDF page nine keeps the walkthrough label with its explanation.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -90,7 +243,7 @@ Populated six-field reference table and real submission checklist. The result mu
 
 </details>
 
-<!-- VERIFY: execute expanded section 4.4 and independent challenge; capture images/c02-04-04.jpg only after real application success. -->
+<!-- CAPTURED: core reference route; independent escalation challenge and learner pilot remain pending. -->
 
 ## Independent Challenge
 

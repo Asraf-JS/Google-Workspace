@@ -1,6 +1,6 @@
 # Google Docs
 
-**Status:** review draft, revision 0.4. Labs 1–3 now have 53 real stage captures, including source checks, a reviewed Gemini draft and tested navigation. Labs 4–8, independent learner/reviewer challenges and classroom timing pilots remain pending.
+**Status:** review draft, revision 0.4. Labs 1-4 now have 88 real stage captures, including source checks, a reviewed Gemini draft, tested navigation and print-layout casework. Labs 5-8, independent learner/reviewer challenges and classroom timing pilots remain pending.
 
 **Duration:** 1 day. Each day has 390 teaching minutes, excluding lunch and breaks.
 
