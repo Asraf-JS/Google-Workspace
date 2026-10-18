@@ -34,4 +34,8 @@ All 44 specialist chapters now include casework, independent changed requirement
 
 ## Repository Review
 
-Use a branch and a pull request, following the shared course conventions. This initial six-course import is a large change and stays open for Asraf's review. Pushing the source does not authorise enabling Pages, running the manual publication workflow, granting Drive access or publishing native Google Sites.
+Use a branch and a pull request, following the shared course conventions. The initial six-course import was merged through pull request #1. Pushing the source does not authorise enabling Pages, running the manual publication workflow, granting Drive access or publishing native Google Sites.
+
+## Screenshot Sources
+
+Asraf wants uncropped screenshots retained for later framing adjustments. The editing library in `_design/screenshots/` contains 159 retained sources: 150 application-window captures, six focused captures and three PDF-page renders. All retain their captured dimensions, with privacy masks. Three early workspace originals were not retained and need recapture. Two procedure-plan full frames include later surrounding context and must be recaptured before whole-frame use in participant notes. Keep existing approved lesson crops until an adjusted frame is reviewed. For every new stage, retain the full application-window PNG before making a crop and ensure the entire visible frame contains only work completed by that step.

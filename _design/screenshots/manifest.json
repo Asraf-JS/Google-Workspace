@@ -1,0 +1,5682 @@
+{
+  "version": 1,
+  "coordinate_system": "Original capture pixels; crop is [left, top, right, bottom]. No resizing has been applied.",
+  "sources": {
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-02-convert.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/01-workspace-governance/c01-01-02-convert.png",
+      "dimensions": [
+        2360,
+        1111
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "07e7163e5ef549edf1ba8476495705ad83737ce48307420d6047bd7474e30e5e",
+      "notes": []
+    },
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-02-links.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/01-workspace-governance/c01-01-02-links.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "fc17763c12374f98ecc3d022f9b1127803a959830716df779fe4412053619176",
+      "notes": []
+    },
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-02-search.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/01-workspace-governance/c01-01-02-search.png",
+      "dimensions": [
+        1912,
+        948
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1846,
+          0,
+          1894,
+          70
+        ],
+        [
+          1825,
+          0,
+          1912,
+          65
+        ]
+      ],
+      "sha256": "f3bafd82c3302388d64591e9e58bb767648c947643d2994a285a0a02e1fcb0e2",
+      "notes": []
+    },
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-02-summary.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/01-workspace-governance/c01-01-02-summary.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "b388f6d933c4deffabaff9fb3b832a3d60923177a400436ea8a5b449f9517b48",
+      "notes": []
+    },
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-02.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/01-workspace-governance/c01-01-02.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "2ede92e77f58225b846000b486f78f3739cc34df5a7a4f1085c62e365590714e",
+      "notes": []
+    },
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-03-matrix.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/01-workspace-governance/c01-01-03-matrix.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "ef22913b98b2f5618a6672d2ab25b336ed09dee7974b96dc5c390cdeb0b4c5ed",
+      "notes": []
+    },
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-03-restricted.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/01-workspace-governance/c01-01-03-restricted.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          826,
+          468,
+          974,
+          498
+        ],
+        [
+          827,
+          486,
+          983,
+          515
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "cb26fbb5e6750d163d3b1f7f71cbe01d8b9c4169d618ea29eb18472209de9bd2",
+      "notes": []
+    },
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-03-shortcut-menu.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/01-workspace-governance/c01-01-03-shortcut-menu.png",
+      "dimensions": [
+        1912,
+        948
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1846,
+          0,
+          1894,
+          70
+        ],
+        [
+          1825,
+          0,
+          1912,
+          65
+        ]
+      ],
+      "sha256": "15c08fcb8b4b8213311db8360f57af937b44109dab88ff391e08b3b30ad7ebdd",
+      "notes": []
+    },
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-03-shortcut.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/01-workspace-governance/c01-01-03-shortcut.png",
+      "dimensions": [
+        1912,
+        948
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1846,
+          0,
+          1894,
+          70
+        ],
+        [
+          1825,
+          0,
+          1912,
+          65
+        ]
+      ],
+      "sha256": "6dad57229f3a449393a05a15c08c1d300853b3995014039d1c7582fff144eba2",
+      "notes": []
+    },
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-03.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/01-workspace-governance/c01-01-03.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "7a81e6e165f8cfb31a6398f30d90a09b8536de84c80182266c030b712f68f6a7",
+      "notes": []
+    },
+    "01-collaborative-tools/02-checked-brief/images/c01-02-01-start.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-01-start.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        650,
+        140,
+        1440,
+        540
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "43bbdcb5d9fa83de3a4f50c5e11ca777446a92a2ae0120de572d71dd27f1e388",
+      "notes": []
+    },
+    "01-collaborative-tools/02-checked-brief/images/c01-02-01-panel.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-01-panel.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        425,
+        120,
+        2110,
+        985
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "e7b473e9adea8b0d180c02a2ffc2b3fc68b5697395f89a65fa95c5ef53d66a06",
+      "notes": []
+    },
+    "01-collaborative-tools/02-checked-brief/images/c01-02-01-audit.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-01-audit.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        720,
+        225,
+        1370,
+        970
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "43254b7a351922bf7dd0ca83c4d8b863489f75e23e3a19c647c81ed66d6ee776",
+      "notes": []
+    },
+    "01-collaborative-tools/02-checked-brief/images/c01-02-01.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-01.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        720,
+        175,
+        1370,
+        720
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "73a78186ef20136cdf87b769d60d9fd477e7de4b9e5162b8a55acb755ac2b621",
+      "notes": []
+    },
+    "01-collaborative-tools/02-checked-brief/images/c01-02-02-headings.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-02-headings.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        25,
+        130,
+        1385,
+        1000
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "057d2e6eef3da7be1363caffb07d42564c893c61bd2f5fb61c02b8f4c332fefc",
+      "notes": []
+    },
+    "01-collaborative-tools/02-checked-brief/images/c01-02-02.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-02.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        720,
+        175,
+        1370,
+        540
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "f8c8fc10612380e8329074d746c16a8ccb5b9418792413c3ae27e1e86925f0a8",
+      "notes": []
+    },
+    "01-collaborative-tools/02-checked-brief/images/c01-02-02-version.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-02-version.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        868,
+        375,
+        1258,
+        625
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2112,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "51219e54cec4c6803c8f342eda7ba24266baff76032eb93d24135c5627c0ead3",
+      "notes": []
+    },
+    "01-collaborative-tools/02-checked-brief/images/c01-02-03-comment.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-03-comment.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        575,
+        435,
+        1755,
+        640
+      ],
+      "privacy_masks": [
+        [
+          1335,
+          497,
+          1485,
+          542
+        ],
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          1336,
+          503,
+          1447,
+          530
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "ac3a4d877d1df314be84b1854f75b4b65b078b9b580905e5d865fa5fd8766b8a",
+      "notes": []
+    },
+    "01-collaborative-tools/02-checked-brief/images/c01-02-03-purpose.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-03-purpose.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        575,
+        275,
+        1755,
+        525
+      ],
+      "privacy_masks": [
+        [
+          1335,
+          340,
+          1485,
+          385
+        ],
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          1336,
+          346,
+          1447,
+          373
+        ],
+        [
+          1336,
+          820,
+          1447,
+          847
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "8b5786e1ecb2c51b13b5b2547327cbc3d3a77ff66903d0faf9197bbded2e30b5",
+      "notes": []
+    },
+    "01-collaborative-tools/02-checked-brief/images/c01-02-03-reject.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-03-reject.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        575,
+        630,
+        1755,
+        938
+      ],
+      "privacy_masks": [
+        [
+          1335,
+          640,
+          1485,
+          685
+        ],
+        [
+          1335,
+          793,
+          1485,
+          838
+        ],
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          1336,
+          648,
+          1447,
+          675
+        ],
+        [
+          1336,
+          801,
+          1447,
+          828
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "c629969fe3910904b638cbc80eb31b18a5193eea35c50b96e816aa8db23037bf",
+      "notes": []
+    },
+    "01-collaborative-tools/02-checked-brief/images/c01-02-03.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-03.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        575,
+        235,
+        1755,
+        655
+      ],
+      "privacy_masks": [
+        [
+          1335,
+          295,
+          1485,
+          337
+        ],
+        [
+          1335,
+          430,
+          1485,
+          470
+        ],
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          1336,
+          298,
+          1447,
+          325
+        ],
+        [
+          1336,
+          432,
+          1447,
+          459
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "b0aae63c059574d60a957526cb6ae4f9b8bfbc369bb99f1c910252d7f0e0929c",
+      "notes": []
+    },
+    "01-collaborative-tools/02-checked-brief/images/c01-02-03-version.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-03-version.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        868,
+        375,
+        1258,
+        625
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2112,
+          70
+        ],
+        [
+          1336,
+          298,
+          1447,
+          325
+        ],
+        [
+          1336,
+          432,
+          1447,
+          459
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "2dd928a6eda05b93d5829b13451403c14b699a733ce7b67e1c55e713a0324044",
+      "notes": []
+    },
+    "01-collaborative-tools/02-checked-brief/images/c01-02-03-download.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-03-download.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        60,
+        55,
+        835,
+        665
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          1336,
+          298,
+          1447,
+          325
+        ],
+        [
+          1336,
+          432,
+          1447,
+          459
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "45c7b4cfa44ff2c5bb58ef9b464f4dd5283c413f3265197f0c31a973ebafa443",
+      "notes": []
+    },
+    "01-collaborative-tools/02-checked-brief/images/c01-02-03-export.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-03-export.png",
+      "dimensions": [
+        716,
+        1011
+      ],
+      "kind": "pdf-page",
+      "approved_crop": [
+        65,
+        70,
+        645,
+        405
+      ],
+      "privacy_masks": [],
+      "sha256": "0e711e68eb0c5f13cda9f6cdff6f450a2eac4c466b5d52b740d262a52bdf0542",
+      "notes": []
+    },
+    "01-collaborative-tools/03-meeting-actions/images/c01-03-01-start.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/03-meeting-actions/c01-03-01-start.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        150,
+        40,
+        1974,
+        290
+      ],
+      "privacy_masks": [
+        [
+          2085,
+          0,
+          2104,
+          70
+        ],
+        [
+          0,
+          0,
+          150,
+          1112
+        ],
+        [
+          1974,
+          0,
+          2128,
+          1112
+        ],
+        [
+          0,
+          0,
+          2128,
+          40
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "975866f15b2c879a76aae2ac448432a5c85480680e43ac904908270d244e9e08",
+      "notes": []
+    },
+    "01-collaborative-tools/03-meeting-actions/images/c01-03-01-agenda.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/03-meeting-actions/c01-03-01-agenda.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        150,
+        40,
+        1974,
+        365
+      ],
+      "privacy_masks": [
+        [
+          2085,
+          0,
+          2104,
+          70
+        ],
+        [
+          0,
+          0,
+          150,
+          1112
+        ],
+        [
+          1974,
+          0,
+          2128,
+          1112
+        ],
+        [
+          0,
+          0,
+          2128,
+          40
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "2ba3806bf2f9e120685397967281fb937a5a5d7934a32c4f0ae1f650a52b4f09",
+      "notes": []
+    },
+    "01-collaborative-tools/03-meeting-actions/images/c01-03-01-links.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/03-meeting-actions/c01-03-01-links.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        150,
+        40,
+        1974,
+        445
+      ],
+      "privacy_masks": [
+        [
+          2085,
+          0,
+          2104,
+          70
+        ],
+        [
+          0,
+          0,
+          150,
+          1112
+        ],
+        [
+          1974,
+          0,
+          2128,
+          1112
+        ],
+        [
+          0,
+          0,
+          2128,
+          40
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "3b9dcff89b4638ef21549d366e30737429cb0cb7a62c7ddfdead7ea9cca432b6",
+      "notes": []
+    },
+    "01-collaborative-tools/03-meeting-actions/images/c01-03-01-preparation.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/03-meeting-actions/c01-03-01-preparation.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        150,
+        40,
+        1974,
+        495
+      ],
+      "privacy_masks": [
+        [
+          2085,
+          0,
+          2104,
+          70
+        ],
+        [
+          0,
+          0,
+          150,
+          1112
+        ],
+        [
+          1974,
+          0,
+          2128,
+          1112
+        ],
+        [
+          0,
+          0,
+          2128,
+          40
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "9b090d47f142d8195b6ee7a9d52b0bdac76a821afe0d546bf185996e0e8e7ab4",
+      "notes": []
+    },
+    "01-collaborative-tools/03-meeting-actions/images/c01-03-01.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/03-meeting-actions/c01-03-01.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        150,
+        40,
+        1974,
+        495
+      ],
+      "privacy_masks": [
+        [
+          2085,
+          0,
+          2104,
+          70
+        ],
+        [
+          0,
+          0,
+          150,
+          1112
+        ],
+        [
+          1974,
+          0,
+          2128,
+          1112
+        ],
+        [
+          0,
+          0,
+          2128,
+          40
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "db8ff27ff3ead3e2ba5a2b8aaa22a1d13b9110d7856fbf858445c31a7479f00a",
+      "notes": []
+    },
+    "01-collaborative-tools/03-meeting-actions/images/c01-03-02.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/03-meeting-actions/c01-03-02.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        720,
+        225,
+        1375,
+        535
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "364235cb0f07933e7f9fa1a4279f9090ca78dffe31ef1f0f31cda593d1038c71",
+      "notes": []
+    },
+    "01-collaborative-tools/03-meeting-actions/images/c01-03-03-table.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/03-meeting-actions/c01-03-03-table.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        720,
+        410,
+        1370,
+        805
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "0165b4d04343ea7da203314d33eae7e2c7849d3c26a6ff50a3fd672ddcaad820",
+      "notes": []
+    },
+    "01-collaborative-tools/03-meeting-actions/images/c01-03-03.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/03-meeting-actions/c01-03-03.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        720,
+        280,
+        1370,
+        920
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "7c7a1051134947a5a72cb7c5ed8701b24c0c7ab1c84d175f97b692e41df4a8af",
+      "notes": []
+    },
+    "01-collaborative-tools/03-meeting-actions/images/c01-03-03-version.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/03-meeting-actions/c01-03-03-version.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        868,
+        375,
+        1258,
+        625
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2112,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "89e8698a0265f8a7496c0aa9bf3a8ad6316ec2fde9915a5182c5a193d262e94b",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01-freeze.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-01-freeze.png",
+      "dimensions": [
+        2360,
+        1168
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        125,
+        40,
+        725,
+        400
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "77352002bd17fdd2a387a4c5f88a2458cc4d65d7ee6edf1cd48105c17c640a8a",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01-baseline.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-01-baseline.png",
+      "dimensions": [
+        2360,
+        1168
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        0,
+        105,
+        1435,
+        630
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "99223e58ef5abc4b3f878e5b3ce792e5c5fe8546c82402598c5c08f18bf94e7f",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01-intake-raw.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-01-intake-raw.png",
+      "dimensions": [
+        2360,
+        1168
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        0,
+        105,
+        960,
+        340
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "be54c2220c6b4fb5c93921bd41a9970e8aeeadf65d036131e82593899060153d",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01-intake.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-01-intake.png",
+      "dimensions": [
+        2360,
+        1168
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        0,
+        105,
+        960,
+        460
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "12c82cdd23807d0cdda9b82d58db524a8b4495535a198a6366bb2f2259ad26fc",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01-validation.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-01-validation.png",
+      "dimensions": [
+        2360,
+        1168
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        1790,
+        65,
+        2115,
+        555
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "860b12044ec87effc8ee651f83d005804db6211ce84b053f07f7147a3c44d1aa",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01-reject-setting.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-01-reject-setting.png",
+      "dimensions": [
+        2360,
+        1168
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        1790,
+        560,
+        2115,
+        930
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "860b12044ec87effc8ee651f83d005804db6211ce84b053f07f7147a3c44d1aa",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01-invalid.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-01-invalid.png",
+      "dimensions": [
+        2360,
+        1168
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        780,
+        425,
+        1345,
+        625
+      ],
+      "privacy_masks": [
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "c03c5cdd560c9222ca7b7a9c1351f557ee63ca74b48c4e358a98d2c3ee4d9a7c",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-01.png",
+      "dimensions": [
+        1833,
+        733
+      ],
+      "kind": "focused-capture",
+      "approved_crop": [
+        0,
+        0,
+        1833,
+        670
+      ],
+      "privacy_masks": [],
+      "sha256": "0f5a1dbd9096e3e3b829c8302d01724e1a88922d7aef22cf2af565009a785d95",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-02-counts.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-02-counts.png",
+      "dimensions": [
+        1278,
+        378
+      ],
+      "kind": "focused-capture",
+      "approved_crop": [
+        0,
+        0,
+        720,
+        270
+      ],
+      "privacy_masks": [],
+      "sha256": "59e0889b819aba69f72234af14a47855b5acac6f36884585124d1a58a052c73a",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-02-team-labels.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-02-team-labels.png",
+      "dimensions": [
+        1556,
+        389
+      ],
+      "kind": "focused-capture",
+      "approved_crop": [
+        0,
+        0,
+        820,
+        270
+      ],
+      "privacy_masks": [],
+      "sha256": "c0c38eb2f96650b32de9a421fe15b16f40883c75bae128550bd5e231b80edae2",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-02-reconciled.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-02-reconciled.png",
+      "dimensions": [
+        1722,
+        367
+      ],
+      "kind": "focused-capture",
+      "approved_crop": [
+        0,
+        0,
+        1100,
+        290
+      ],
+      "privacy_masks": [],
+      "sha256": "6335a877795dff907e581206a032fb425f7847b2b98ecc3732e19237bd08cd38",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-02-first-chart.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-02-first-chart.png",
+      "dimensions": [
+        1722,
+        822
+      ],
+      "kind": "focused-capture",
+      "approved_crop": [
+        575,
+        250,
+        1215,
+        665
+      ],
+      "privacy_masks": [],
+      "sha256": "e8f5e070db66a1ea8fe5ed3d5b9b2bdfe1d6b79a11fe04ab91d16388ee5d3c9c",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-02-charts.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-02-charts.png",
+      "dimensions": [
+        1722,
+        822
+      ],
+      "kind": "focused-capture",
+      "approved_crop": [
+        80,
+        250,
+        1440,
+        675
+      ],
+      "privacy_masks": [],
+      "sha256": "8caa5281c597914d59707e5e37e641d536baefebcc0107733ddc3a1f2c23b4e5",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-02-filter.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-02-filter.png",
+      "dimensions": [
+        2913,
+        1441
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        0,
+        105,
+        1435,
+        355
+      ],
+      "privacy_masks": [
+        [
+          2562,
+          0,
+          2610,
+          70
+        ],
+        [
+          2555,
+          0,
+          2630,
+          75
+        ]
+      ],
+      "sha256": "099fe594683ee4e5770d8ef0c761df614004276b8ae7e3a17708d9e7784870f1",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-02.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-02.png",
+      "dimensions": [
+        2913,
+        1441
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        0,
+        105,
+        1485,
+        800
+      ],
+      "privacy_masks": [
+        [
+          2562,
+          0,
+          2610,
+          70
+        ],
+        [
+          2555,
+          0,
+          2630,
+          75
+        ]
+      ],
+      "sha256": "5735c8694420991acfd3a0634215d69711f3863eb82ccd611e1a65418125d2fd",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-03-link.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-03-link.png",
+      "dimensions": [
+        2360,
+        1168
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        860,
+        370,
+        1265,
+        680
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2112,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "42958baa5149c5d413a3e34227dc27e57b80987afe870d335c12e4628c4b4d57",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-03-baseline.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-03-baseline.png",
+      "dimensions": [
+        2360,
+        1168
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        585,
+        485,
+        1220,
+        940
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "45581540ec46d93ad946638235f5267dec91f1afaf842bb27e462810dc23da82",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-03-source-changed.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-03-source-changed.png",
+      "dimensions": [
+        2913,
+        1441
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        0,
+        105,
+        1485,
+        800
+      ],
+      "privacy_masks": [
+        [
+          2562,
+          0,
+          2610,
+          70
+        ],
+        [
+          2555,
+          0,
+          2630,
+          75
+        ]
+      ],
+      "sha256": "876b23a2f12f23cacb9f899b36859b097b9d6f77176450bead9f4571538d8726",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-03-changed.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-03-changed.png",
+      "dimensions": [
+        2360,
+        1168
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        585,
+        485,
+        1220,
+        940
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "c4b81ab643af19d9f8b19777c8267f4aaf2d0eae985c36da6757ed5aa8bb3227",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-03-refresh-panel.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-03-refresh-panel.png",
+      "dimensions": [
+        2360,
+        1168
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        1790,
+        65,
+        2115,
+        570
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "7b95cf4acd07b14864521931d3fefd1946dfc84987dc3448e66b9afa2db5dd0b",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-03-restored.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-03-restored.png",
+      "dimensions": [
+        2360,
+        1168
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        585,
+        485,
+        1220,
+        940
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "4602a9586b813a9e84b4768e76009e4e9a2b6f7c1828403399174623d2d8dded",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-03.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-03.png",
+      "dimensions": [
+        2360,
+        1168
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        585,
+        625,
+        1220,
+        985
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "6289176468547817ae7513d3ab9d084a81d7d6f8fddc3ff99ccbb1649c604e16",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-new-task.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-challenge-new-task.png",
+      "dimensions": [
+        2913,
+        1441
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        0,
+        105,
+        1435,
+        650
+      ],
+      "privacy_masks": [
+        [
+          2562,
+          0,
+          2610,
+          70
+        ],
+        [
+          2555,
+          0,
+          2630,
+          75
+        ]
+      ],
+      "sha256": "ceb0cabac3d22fbcd69cd3275c13aa5df9024f1c0a385245c959e2dd46be472a",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-range-failure.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-challenge-range-failure.png",
+      "dimensions": [
+        2913,
+        1441
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        0,
+        105,
+        1435,
+        800
+      ],
+      "privacy_masks": [
+        [
+          2562,
+          0,
+          2610,
+          70
+        ],
+        [
+          2555,
+          0,
+          2630,
+          75
+        ]
+      ],
+      "sha256": "cadb88274831315e0f86b160a60264f178079e0353bfe13fe6955cc288adeddc",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-repaired.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-challenge-repaired.png",
+      "dimensions": [
+        2913,
+        1441
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        0,
+        105,
+        1435,
+        800
+      ],
+      "privacy_masks": [
+        [
+          2562,
+          0,
+          2610,
+          70
+        ],
+        [
+          2555,
+          0,
+          2630,
+          75
+        ]
+      ],
+      "sha256": "d01316ac29a06e8f3c57194cf76c059d778fb2b8534b261180b44e2bec55e48e",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-rule.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-challenge-rule.png",
+      "dimensions": [
+        2913,
+        1441
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        2280,
+        65,
+        2615,
+        605
+      ],
+      "privacy_masks": [
+        [
+          2562,
+          0,
+          2610,
+          70
+        ],
+        [
+          2555,
+          0,
+          2630,
+          75
+        ]
+      ],
+      "sha256": "2fe52530d31ae192a27ecacade65b46e5977e1432efa7af93245244c028831b0",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-positive.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-challenge-positive.png",
+      "dimensions": [
+        2913,
+        1441
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        0,
+        535,
+        1380,
+        650
+      ],
+      "privacy_masks": [
+        [
+          2562,
+          0,
+          2610,
+          70
+        ],
+        [
+          2555,
+          0,
+          2630,
+          75
+        ]
+      ],
+      "sha256": "8e620d352f8867b8a717bd6c6fbf05994acec12e208a157e8fa5591958c3e61c",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-restored.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-challenge-restored.png",
+      "dimensions": [
+        2913,
+        1441
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        0,
+        535,
+        1380,
+        650
+      ],
+      "privacy_masks": [
+        [
+          2562,
+          0,
+          2610,
+          70
+        ],
+        [
+          2555,
+          0,
+          2630,
+          75
+        ]
+      ],
+      "sha256": "9cd7f7e9666965ba878b3b6c1c07e9f802a990514a658b67e6d1fbefaf78d6ad",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-final.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-challenge-final.png",
+      "dimensions": [
+        2913,
+        1441
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        0,
+        105,
+        1435,
+        800
+      ],
+      "privacy_masks": [
+        [
+          2562,
+          0,
+          2610,
+          70
+        ],
+        [
+          2555,
+          0,
+          2630,
+          75
+        ]
+      ],
+      "sha256": "57d17594bd2ce01d1552c77f3950946cfc47e83676e2e1fcebfdae689296349b",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-brief.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-challenge-brief.png",
+      "dimensions": [
+        2360,
+        1168
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        585,
+        160,
+        1210,
+        575
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "c50846b081c0dc921892756844c2f28fa0fad691a7f51713051d83581c8080ec",
+      "notes": []
+    },
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-log.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-challenge-log.png",
+      "dimensions": [
+        2360,
+        1168
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        585,
+        640,
+        1220,
+        985
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "bd04b5c062a544caea6002fc7a7cfea44b9a9a7111710f48a22ef2415fb4d30e",
+      "notes": []
+    },
+    "01-collaborative-tools/05-evidence-update/images/c01-05-created.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-created.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        0,
+        0,
+        2000,
+        925
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "43f0bd16ba5e899e647913cb6d1863d160add2f0c251ed6a39fdac19230193bc",
+      "notes": []
+    },
+    "01-collaborative-tools/05-evidence-update/images/c01-05-first-message.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-first-message.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        0,
+        100,
+        1830,
+        925
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          240,
+          925,
+          2128,
+          1060
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "7441f439f3c1d90dd48e88a7fbfc26824b4b463140012964df0ab7cf7c572ad3",
+      "notes": []
+    },
+    "01-collaborative-tools/05-evidence-update/images/c01-05-story-plan.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-story-plan.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        0,
+        100,
+        1830,
+        925
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          240,
+          925,
+          2128,
+          1060
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "2adab4a52ebf0af36d0595e8d6fd4dffdc12690a33778491b7b5e65daaebf795",
+      "notes": []
+    },
+    "01-collaborative-tools/05-evidence-update/images/c01-05-status-link.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-status-link.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        640,
+        260,
+        1720,
+        900
+      ],
+      "privacy_masks": [
+        [
+          2065,
+          0,
+          2112,
+          70
+        ],
+        [
+          247,
+          965,
+          1124,
+          988
+        ],
+        [
+          240,
+          960,
+          2128,
+          1060
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "10c9710ddfb67b106f91e2f19429d38eab3f5796bd7615f7d510d45907ffae21",
+      "notes": []
+    },
+    "01-collaborative-tools/05-evidence-update/images/c01-05-status-chart.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-status-chart.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        0,
+        100,
+        1830,
+        900
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          247,
+          975,
+          1325,
+          998
+        ],
+        [
+          240,
+          960,
+          2128,
+          1060
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "73acea5dc18999510d25dc97ec8e47298ab3040cc9c4339d33a3b253a7e69caf",
+      "notes": []
+    },
+    "01-collaborative-tools/05-evidence-update/images/c01-05-cost-link.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-cost-link.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        640,
+        260,
+        1720,
+        900
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2112,
+          70
+        ],
+        [
+          240,
+          960,
+          2128,
+          1060
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "f489967d82ed161e5ca7c623c78df11dbdd0c20b44fd61e484f87f8d90936790",
+      "notes": []
+    },
+    "01-collaborative-tools/05-evidence-update/images/c01-05-cost-chart.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-cost-chart.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        0,
+        100,
+        1830,
+        900
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          247,
+          975,
+          1425,
+          998
+        ],
+        [
+          240,
+          960,
+          2128,
+          1060
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "18ce4813a64264271c9ec1977c21fb2112c56b0de13d14027a0b37bdb758f30d",
+      "notes": []
+    },
+    "01-collaborative-tools/05-evidence-update/images/c01-05-process.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-process.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        0,
+        100,
+        1830,
+        900
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          247,
+          975,
+          1248,
+          998
+        ],
+        [
+          240,
+          960,
+          2128,
+          1060
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "e3214a860913d8ca58cd9cd77ec4452157b49f40ed427dae81f3eda768bf94c5",
+      "notes": []
+    },
+    "01-collaborative-tools/05-evidence-update/images/c01-05-present-baseline.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-present-baseline.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        172,
+        0,
+        1953,
+        1002
+      ],
+      "privacy_masks": [
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "16f9690bcad59cf7085bfada214404cebbce3a032a24ce95c78b30a15c933fbb",
+      "notes": []
+    },
+    "01-collaborative-tools/05-evidence-update/images/c01-05-version.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-version.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        640,
+        260,
+        1720,
+        900
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2112,
+          70
+        ],
+        [
+          243,
+          975,
+          1106,
+          999
+        ],
+        [
+          240,
+          960,
+          2128,
+          1060
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "8197747dde4f468e615eaaba6ef0dd7ebc13e96f4910f7b8e16dbb53433ae660",
+      "notes": []
+    },
+    "01-collaborative-tools/05-evidence-update/images/c01-05-download.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-download.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        50,
+        20,
+        1050,
+        850
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          247,
+          975,
+          1106,
+          998
+        ],
+        [
+          240,
+          960,
+          2128,
+          1060
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "1a8f40d738d9033813ec837e5028abe57a6cd47fb9a9ecd815be7369ec9b7e79",
+      "notes": []
+    },
+    "01-collaborative-tools/05-evidence-update/images/c01-05-correction-before.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-correction-before.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        0,
+        110,
+        1438,
+        650
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "8d40835ab0c36c990438c91c86982b2b6f10c547ed37e467f9d7eae126a2ad22",
+      "notes": []
+    },
+    "01-collaborative-tools/05-evidence-update/images/c01-05-correction-after.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-correction-after.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        0,
+        110,
+        1438,
+        650
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "1a270c7317dd1d9cf2070fec4493f0a84473fb1a08336950a752b79b19b3b8a3",
+      "notes": []
+    },
+    "01-collaborative-tools/05-evidence-update/images/c01-05-corrected-summary.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-corrected-summary.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        0,
+        110,
+        1438,
+        780
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "60ca42b2e05162c2a325f7be5cf7a5ebb56dba37e77bc656173541e347641d11",
+      "notes": []
+    },
+    "01-collaborative-tools/05-evidence-update/images/c01-05-update-available.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-update-available.png",
+      "dimensions": [
+        2360,
+        1168
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        1750,
+        65,
+        2120,
+        650
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          247,
+          1025,
+          1224,
+          1048
+        ],
+        [
+          240,
+          960,
+          2128,
+          1060
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "891c3cdef7ca7963f837f3b86731db2c9d0d4acbb1d141f739770f63d8fd3654",
+      "notes": []
+    },
+    "01-collaborative-tools/05-evidence-update/images/c01-05-links-current.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-links-current.png",
+      "dimensions": [
+        2360,
+        1168
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        1750,
+        65,
+        2120,
+        650
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          247,
+          1025,
+          1224,
+          1048
+        ],
+        [
+          240,
+          960,
+          2128,
+          1060
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "aea617514be51dba24122e240aacfa2cc0a2500580d2ff368f197d1602ddaa40",
+      "notes": []
+    },
+    "01-collaborative-tools/05-evidence-update/images/c01-05-corrected-message.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-corrected-message.png",
+      "dimensions": [
+        2360,
+        1168
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        475,
+        150,
+        1800,
+        900
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          247,
+          1012,
+          1217,
+          1035
+        ],
+        [
+          240,
+          960,
+          2128,
+          1060
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "7cdea2e5577b0081f00a77af39aebe03947c7fb01dfcfc4c3a975801dcca01a5",
+      "notes": []
+    },
+    "01-collaborative-tools/05-evidence-update/images/c01-05-brief-current.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-brief-current.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        415,
+        525,
+        1060,
+        960
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "15c96956f2a5d69378afb012d02d93c5c917da5f0a4be4403bec4db29eb16e00",
+      "notes": []
+    },
+    "01-collaborative-tools/05-evidence-update/images/c01-05-correction-log.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-correction-log.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        585,
+        650,
+        1225,
+        965
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "078dddad2e0f9613b023cadb037c3170f165abbd6e93c0ad8fd496923ec56cbb",
+      "notes": []
+    },
+    "01-collaborative-tools/05-evidence-update/images/c01-05-present-revised.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-present-revised.png",
+      "dimensions": [
+        2360,
+        1168
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        127,
+        0,
+        1996,
+        1052
+      ],
+      "privacy_masks": [
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "cd78a1c46843a09d2d6be08320bb3ad082ed84249dd7bc1767fb875f7a937783",
+      "notes": []
+    },
+    "01-collaborative-tools/06-hub-handover/images/c01-06-draft-banner.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/06-hub-handover/c01-06-draft-banner.png",
+      "dimensions": [
+        3399,
+        1600
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        55,
+        75,
+        2550,
+        425
+      ],
+      "privacy_masks": [
+        [
+          2489,
+          0,
+          2537,
+          70
+        ],
+        [
+          2480,
+          0,
+          2565,
+          75
+        ]
+      ],
+      "sha256": "f7915927ed41c146b258036d686014d3180bdfc2a2ea6625f7e6fe4d40830ceb",
+      "notes": []
+    },
+    "01-collaborative-tools/06-hub-handover/images/c01-06-three-pages.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/06-hub-handover/c01-06-three-pages.png",
+      "dimensions": [
+        3399,
+        1600
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        55,
+        75,
+        2550,
+        500
+      ],
+      "privacy_masks": [
+        [
+          2489,
+          0,
+          2537,
+          70
+        ],
+        [
+          2480,
+          0,
+          2565,
+          75
+        ]
+      ],
+      "sha256": "130cfb618c6735b9324428ec9d946ca5757d473095e1798b8eeb7932c8a9b701",
+      "notes": []
+    },
+    "01-collaborative-tools/06-hub-handover/images/c01-06-visitor-action.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/06-hub-handover/c01-06-visitor-action.png",
+      "dimensions": [
+        3399,
+        1600
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        55,
+        75,
+        2250,
+        520
+      ],
+      "privacy_masks": [
+        [
+          2489,
+          0,
+          2537,
+          70
+        ],
+        [
+          2480,
+          0,
+          2565,
+          75
+        ]
+      ],
+      "sha256": "c7010cfc78b21a83bd2836eb26f45f54d48e3395c49e477d1567cc23d3a170b0",
+      "notes": []
+    },
+    "01-collaborative-tools/06-hub-handover/images/c01-06-overview.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/06-hub-handover/c01-06-overview.png",
+      "dimensions": [
+        3399,
+        1600
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        550,
+        430,
+        1730,
+        820
+      ],
+      "privacy_masks": [
+        [
+          2489,
+          0,
+          2537,
+          70
+        ],
+        [
+          2480,
+          0,
+          2565,
+          75
+        ]
+      ],
+      "sha256": "6ae5b3373cdb0c5c9d1a45e30fc14754721c329196d91984cd35a8f1ef9df8cc",
+      "notes": []
+    },
+    "01-collaborative-tools/06-hub-handover/images/c01-06-reporting-guidance.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/06-hub-handover/c01-06-reporting-guidance.png",
+      "dimensions": [
+        3399,
+        1600
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        550,
+        430,
+        1730,
+        830
+      ],
+      "privacy_masks": [
+        [
+          2489,
+          0,
+          2537,
+          70
+        ],
+        [
+          2480,
+          0,
+          2565,
+          75
+        ]
+      ],
+      "sha256": "2fd6bb705db3ef1dc8c580bebd32576194c2855859a1e2a3574462fc6c7b7867",
+      "notes": []
+    },
+    "01-collaborative-tools/06-hub-handover/images/c01-06-decisions.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/06-hub-handover/c01-06-decisions.png",
+      "dimensions": [
+        3399,
+        1600
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        550,
+        430,
+        1730,
+        900
+      ],
+      "privacy_masks": [
+        [
+          2489,
+          0,
+          2537,
+          70
+        ],
+        [
+          2480,
+          0,
+          2565,
+          75
+        ]
+      ],
+      "sha256": "2408fd265d2cea8d726be8685b16d877aa7d8e577748b4e320a8d3fddd133320",
+      "notes": []
+    },
+    "01-collaborative-tools/06-hub-handover/images/c01-06-tracker-embed.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/06-hub-handover/c01-06-tracker-embed.png",
+      "dimensions": [
+        3399,
+        1600
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        550,
+        300,
+        1730,
+        1190
+      ],
+      "privacy_masks": [
+        [
+          2489,
+          0,
+          2537,
+          70
+        ],
+        [
+          2480,
+          0,
+          2565,
+          75
+        ]
+      ],
+      "sha256": "7eed9e6e3572f75b400c485fe0497f506959f4cb115299b95ae4a90ab5462b3d",
+      "notes": []
+    },
+    "01-collaborative-tools/06-hub-handover/images/c01-06-presentation-preview.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/06-hub-handover/c01-06-presentation-preview.png",
+      "dimensions": [
+        3399,
+        1600
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        1000,
+        347,
+        1550,
+        855
+      ],
+      "privacy_masks": [
+        [
+          1027,
+          480,
+          1529,
+          522
+        ],
+        [
+          2511,
+          0,
+          2530,
+          70
+        ],
+        [
+          1036,
+          489,
+          1506,
+          513
+        ],
+        [
+          2480,
+          0,
+          2565,
+          75
+        ]
+      ],
+      "sha256": "63fb611cd15ef3ab60120ac42dfc3529cf09bf724f6b38129aacd4720866e969",
+      "notes": []
+    },
+    "01-collaborative-tools/06-hub-handover/images/c01-06-access-warning.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/06-hub-handover/c01-06-access-warning.png",
+      "dimensions": [
+        3399,
+        1600
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        1080,
+        440,
+        1470,
+        760
+      ],
+      "privacy_masks": [
+        [
+          1059,
+          606,
+          1333,
+          636
+        ],
+        [
+          2480,
+          0,
+          2565,
+          75
+        ]
+      ],
+      "sha256": "edefc286d334767c1daad6ef510462ede0ba886de48b722bcd66b188c926cff4",
+      "notes": []
+    },
+    "01-collaborative-tools/06-hub-handover/images/c01-06-links-captions.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/06-hub-handover/c01-06-links-captions.png",
+      "dimensions": [
+        3399,
+        1600
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        550,
+        450,
+        1730,
+        1160
+      ],
+      "privacy_masks": [
+        [
+          2489,
+          0,
+          2537,
+          70
+        ],
+        [
+          2480,
+          0,
+          2565,
+          75
+        ]
+      ],
+      "sha256": "07bb5ae2b1b4b1fb2aab0ba1e1b8a46e053bfddd692d259cc5a05e4f1bea64c6",
+      "notes": []
+    },
+    "01-collaborative-tools/06-hub-handover/images/c01-06-site-access.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/06-hub-handover/c01-06-site-access.png",
+      "dimensions": [
+        3399,
+        1600
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        1018,
+        310,
+        1530,
+        890
+      ],
+      "privacy_masks": [
+        [
+          1035,
+          505,
+          1510,
+          565
+        ],
+        [
+          1039,
+          514,
+          1186,
+          544
+        ],
+        [
+          1039,
+          533,
+          1196,
+          562
+        ],
+        [
+          1040,
+          681,
+          1251,
+          708
+        ],
+        [
+          2480,
+          0,
+          2565,
+          75
+        ]
+      ],
+      "sha256": "257ab980db182092e79d84013e94c942408e220ec7de4872e4d592976b6100ee",
+      "notes": []
+    },
+    "01-collaborative-tools/06-hub-handover/images/c01-06-deck-access.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/06-hub-handover/c01-06-deck-access.png",
+      "dimensions": [
+        2360,
+        1168
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        806,
+        314,
+        1318,
+        736
+      ],
+      "privacy_masks": [
+        [
+          825,
+          487,
+          1300,
+          540
+        ],
+        [
+          826,
+          493,
+          974,
+          523
+        ],
+        [
+          827,
+          510,
+          983,
+          539
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ],
+        [
+          240,
+          960,
+          2128,
+          1060
+        ]
+      ],
+      "sha256": "7bff51695f2c1483b8ac3933cff1cd4423b7a85cbbe8f96803318421c23fa47c",
+      "notes": []
+    },
+    "01-collaborative-tools/06-hub-handover/images/c01-06-tracker-access.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/06-hub-handover/c01-06-tracker-access.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        806,
+        289,
+        1318,
+        715
+      ],
+      "privacy_masks": [
+        [
+          825,
+          463,
+          1300,
+          513
+        ],
+        [
+          826,
+          468,
+          974,
+          498
+        ],
+        [
+          827,
+          486,
+          983,
+          515
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "ac985f3393ea5bfea43947d6b10fe96916988414e850de7696411bd659c72b42",
+      "notes": []
+    },
+    "01-collaborative-tools/06-hub-handover/images/c01-06-access-matrix.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/06-hub-handover/c01-06-access-matrix.png",
+      "dimensions": [
+        2360,
+        1111
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        345,
+        1350,
+        935
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "b2f8447b63aa5560789a89550dcd848f4903bfb7e54011df52d3e1419a8c17f5",
+      "notes": []
+    },
+    "01-collaborative-tools/06-hub-handover/images/c01-06-operating-guide.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/06-hub-handover/c01-06-operating-guide.png",
+      "dimensions": [
+        2360,
+        1111
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        320,
+        1350,
+        975
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "31acfa0c83095d8b652724c00bc5dc1897c777d48268176ac7da49748d37d646",
+      "notes": []
+    },
+    "01-collaborative-tools/06-hub-handover/images/c01-06-navigation-before.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/06-hub-handover/c01-06-navigation-before.png",
+      "dimensions": [
+        3399,
+        1600
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        2290,
+        110,
+        2545,
+        330
+      ],
+      "privacy_masks": [
+        [
+          2489,
+          0,
+          2537,
+          70
+        ],
+        [
+          2480,
+          0,
+          2565,
+          75
+        ]
+      ],
+      "sha256": "1bf031b9ef5e820dc9211d2cae78b3347d58b4a019d9bef1e9a06750535dcc9b",
+      "notes": []
+    },
+    "01-collaborative-tools/06-hub-handover/images/c01-06-navigation-after.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/06-hub-handover/c01-06-navigation-after.png",
+      "dimensions": [
+        3399,
+        1600
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        2290,
+        110,
+        2545,
+        330
+      ],
+      "privacy_masks": [
+        [
+          2489,
+          0,
+          2537,
+          70
+        ],
+        [
+          2480,
+          0,
+          2565,
+          75
+        ]
+      ],
+      "sha256": "e81d7c1e3ac581d643dee659c4c9ffadb6bde89e402d9cdb26b35d3dbd586180",
+      "notes": []
+    },
+    "01-collaborative-tools/06-hub-handover/images/c01-06-author-check.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/06-hub-handover/c01-06-author-check.png",
+      "dimensions": [
+        2360,
+        1111
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        300,
+        1350,
+        950
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "747c83852e9383be231923094e0e23819c491c26ec89b2426cdcca71c40a1679",
+      "notes": []
+    },
+    "01-collaborative-tools/06-hub-handover/images/c01-06-readable-links.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/06-hub-handover/c01-06-readable-links.png",
+      "dimensions": [
+        3399,
+        1600
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        550,
+        590,
+        1730,
+        1130
+      ],
+      "privacy_masks": [
+        [
+          2489,
+          0,
+          2537,
+          70
+        ],
+        [
+          2480,
+          0,
+          2565,
+          75
+        ]
+      ],
+      "sha256": "4a37c891ce0d1137e3343827f1bdeaafc0c4df039b167507319c6acd243b75a3",
+      "notes": []
+    },
+    "01-collaborative-tools/06-hub-handover/images/c01-06-readable-decisions.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/06-hub-handover/c01-06-readable-decisions.png",
+      "dimensions": [
+        3399,
+        1600
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        550,
+        430,
+        1730,
+        900
+      ],
+      "privacy_masks": [
+        [
+          2489,
+          0,
+          2537,
+          70
+        ],
+        [
+          2480,
+          0,
+          2565,
+          75
+        ]
+      ],
+      "sha256": "3f814aa4c49be87c5e4578d805e3f281d8a485d6d208afa73ec388883d75737a",
+      "notes": []
+    },
+    "01-collaborative-tools/05-evidence-update/images/c01-05-pdf-r1.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-pdf-r1.png",
+      "dimensions": [
+        1224,
+        689
+      ],
+      "kind": "pdf-page",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "48eee9fbde93ae316cb5d9108f9260c9c44bf55ea61d3381a70051df8984a17b",
+      "notes": []
+    },
+    "01-collaborative-tools/05-evidence-update/images/c01-05-pdf-r2.jpg": {
+      "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-pdf-r2.png",
+      "dimensions": [
+        1224,
+        689
+      ],
+      "kind": "pdf-page",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "9ea2f43f567b6d39954d02bfa00473e325603f1bede39501bbd94d4ee3e4ddbf",
+      "notes": []
+    },
+    "02-google-docs/01-document-sources/images/c02-01-folder.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-folder.png",
+      "dimensions": [
+        1912,
+        948
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        270,
+        70,
+        1150,
+        650
+      ],
+      "privacy_masks": [
+        [
+          1846,
+          0,
+          1894,
+          70
+        ],
+        [
+          1825,
+          0,
+          1912,
+          65
+        ]
+      ],
+      "sha256": "022581f7d5dc18ceec6566929fc92bce107488ff7f2fbd5518c653005460f407",
+      "notes": []
+    },
+    "02-google-docs/01-document-sources/images/c02-01-starter-brief.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-starter-brief.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        230,
+        1350,
+        520
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "85bdf47d02d97ea66281867097dd40fe19b08511d0ae275b5812d67f62985f46",
+      "notes": []
+    },
+    "02-google-docs/01-document-sources/images/c02-01-requirements.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-requirements.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        540,
+        1350,
+        750
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "4cf9594223def94c1c1308437ab97f4edd829c7a18fe0d24f8ff04728d272de1",
+      "notes": []
+    },
+    "02-google-docs/01-document-sources/images/c02-01-saved-folder.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-saved-folder.png",
+      "dimensions": [
+        1912,
+        948
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        270,
+        70,
+        1000,
+        360
+      ],
+      "privacy_masks": [
+        [
+          1846,
+          0,
+          1894,
+          70
+        ],
+        [
+          1825,
+          0,
+          1912,
+          65
+        ]
+      ],
+      "sha256": "8f83195bb3d9647101070c37a402211c9e90dd556a560044d285b9cbd79cff69",
+      "notes": []
+    },
+    "02-google-docs/01-document-sources/images/c02-01-restricted-access.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-restricted-access.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        805,
+        278,
+        1320,
+        725
+      ],
+      "privacy_masks": [
+        [
+          824,
+          479,
+          1220,
+          522
+        ],
+        [
+          826,
+          481,
+          974,
+          511
+        ],
+        [
+          827,
+          498,
+          983,
+          527
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "c5243cccce467ba3af0df35e3cf7de5e3974b325aa5ea7eb0fe09d1b48aab30d",
+      "notes": []
+    },
+    "02-google-docs/01-document-sources/images/c02-01-source-register.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-source-register.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        560,
+        1350,
+        995
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "114276f1aed3cef83bfb8e21312a565ccf46e2f339d9d13978908446ae550a15",
+      "notes": []
+    },
+    "02-google-docs/01-document-sources/images/c02-01-reader-questions.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-reader-questions.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        505,
+        1350,
+        950
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "62846b28eaa3474344df337b4554a3713d47ef837e2bc467a31c26f6138fb0cb",
+      "notes": []
+    },
+    "02-google-docs/01-document-sources/images/c02-01-uploaded-sources.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-uploaded-sources.png",
+      "dimensions": [
+        1912,
+        948
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        270,
+        100,
+        1050,
+        340
+      ],
+      "privacy_masks": [
+        [
+          1846,
+          0,
+          1894,
+          70
+        ],
+        [
+          1825,
+          0,
+          1912,
+          65
+        ]
+      ],
+      "sha256": "ce524b2acaf47a301ce98ef774e67a1c0a644925115ed0ba0931bdcce7d66421",
+      "notes": []
+    },
+    "02-google-docs/01-document-sources/images/c02-01-descriptive-links.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-descriptive-links.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        675,
+        1350,
+        875
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "f9a773a4ea4356e4d6f4fad0c07ade5838be342f0313a35813afa9fa751004a5",
+      "notes": []
+    },
+    "02-google-docs/01-document-sources/images/c02-01-facts-source.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-facts-source.png",
+      "dimensions": [
+        1912,
+        901
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        220,
+        140,
+        1150,
+        490
+      ],
+      "privacy_masks": [
+        [
+          1839,
+          0,
+          1889,
+          70
+        ],
+        [
+          1825,
+          0,
+          1912,
+          65
+        ]
+      ],
+      "sha256": "043b04c0f3421e6db0811c23a132e492b61e399d204be8ad7b3f726d62353ef5",
+      "notes": []
+    },
+    "02-google-docs/01-document-sources/images/c02-01-brief-source.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-brief-source.png",
+      "dimensions": [
+        1912,
+        901
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        220,
+        242,
+        1130,
+        328
+      ],
+      "privacy_masks": [
+        [
+          1839,
+          0,
+          1889,
+          70
+        ],
+        [
+          1825,
+          0,
+          1912,
+          65
+        ]
+      ],
+      "sha256": "45fee61fb038892f0594a74ab56379793a0c01a9fe54f42d01f420c79e0f14c1",
+      "notes": []
+    },
+    "02-google-docs/01-document-sources/images/c02-01-guidance-source.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-guidance-source.png",
+      "dimensions": [
+        1912,
+        901
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        220,
+        140,
+        1020,
+        345
+      ],
+      "privacy_masks": [
+        [
+          1839,
+          0,
+          1889,
+          70
+        ],
+        [
+          1825,
+          0,
+          1912,
+          65
+        ]
+      ],
+      "sha256": "7bce8325abf473608ec2f74c75592027c40281d5846dddc0d9e528aee849c790",
+      "notes": []
+    },
+    "02-google-docs/01-document-sources/images/c02-01-memo-classification.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-memo-classification.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        715,
+        1350,
+        950
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "93a4a71e194991ecf4a5f6934bea5853f60449975fa4756aa1608f7fa2abd5c3",
+      "notes": []
+    },
+    "02-google-docs/01-document-sources/images/c02-01-purpose-scope.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-purpose-scope.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        230,
+        1350,
+        505
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "f4d064ca744755ec28c865aa3a93b3d657b29629d0b9c49732db213960140ad2",
+      "notes": []
+    },
+    "02-google-docs/01-document-sources/images/c02-01-authoring-boundary.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-authoring-boundary.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        230,
+        1350,
+        550
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "cdb1e7aba8c63ef57b67942a329f107eddd4fbcbdde7f4f969788a1918686854",
+      "notes": []
+    },
+    "02-google-docs/01-document-sources/images/c02-01-reopened-log.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-reopened-log.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        590,
+        1350,
+        930
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "ab79111c89d9e98e697a44a2cd9e99e7bb518c0e9cbca4037ed65c34d187219f",
+      "notes": []
+    },
+    "02-google-docs/02-draft-procedure/images/c02-02-source-grounded-prompt.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-source-grounded-prompt.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        1710,
+        685,
+        2100,
+        940
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "24058c158a2882ca9e9e3ff3e2bd78237b91078f4d8375c003dbc5ee6e5c6c1f",
+      "notes": []
+    },
+    "02-google-docs/02-draft-procedure/images/c02-02-unreviewed-response.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-unreviewed-response.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        1710,
+        310,
+        2100,
+        840
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "27ea55f98f056551f8317f4bc229ab15849df13e767e69282aed44a0f59478de",
+      "notes": []
+    },
+    "02-google-docs/02-draft-procedure/images/c02-02-response-checks.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-response-checks.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        1710,
+        260,
+        2100,
+        835
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "b3cebc3928b6cac2e161e3cdd58c174c03da0fa3bcb2a343916630adbd987191",
+      "notes": []
+    },
+    "02-google-docs/02-draft-procedure/images/c02-02-human-review.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-human-review.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        585,
+        1350,
+        910
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "66a32b1d95925abf39e1bbcf451947493de02b5bb3fe8c45bae27d46d7e3bf30",
+      "notes": []
+    },
+    "02-google-docs/02-draft-procedure/images/c02-02-checked-draft.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-checked-draft.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        440,
+        1350,
+        865
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "699e0fec547c726fc048b9f03a0471bd4f3926c4a4f71d15bad7fefb0a61006d",
+      "notes": []
+    },
+    "02-google-docs/02-draft-procedure/images/c02-02-open-decisions.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-open-decisions.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        865,
+        1350,
+        965
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "699e0fec547c726fc048b9f03a0471bd4f3926c4a4f71d15bad7fefb0a61006d",
+      "notes": []
+    },
+    "02-google-docs/02-draft-procedure/images/c02-02-plan-first-steps.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-plan-first-steps.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        140,
+        1350,
+        935
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "cac57a0e34ed2385bd32975043feeb75f7c774b524eb0c30efca9274813cf9cf",
+      "notes": [
+        "Later outline entries appear outside the approved table crop. Recapture this earlier step before using the whole frame in participant notes."
+      ]
+    },
+    "02-google-docs/02-draft-procedure/images/c02-02-plan-final-steps.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-plan-final-steps.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        315,
+        1350,
+        660
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "959f4d89ab919d2b166a04fc0469cffbf96c1b9574cab028231f3b78ad2e22a7",
+      "notes": [
+        "The normal and exception examples appear below the approved plan crop. Recapture the plan-only stage before using the whole frame in participant notes."
+      ]
+    },
+    "02-google-docs/02-draft-procedure/images/c02-02-normal-and-exception.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-normal-and-exception.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        670,
+        1350,
+        915
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "959f4d89ab919d2b166a04fc0469cffbf96c1b9574cab028231f3b78ad2e22a7",
+      "notes": []
+    },
+    "02-google-docs/02-draft-procedure/images/c02-02-status-repair.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-status-repair.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        130,
+        1350,
+        275
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "037f00419c4122327d05d5ea450707ab6dab537e7a398a6b04b9a7b04a4d4ccf",
+      "notes": []
+    },
+    "02-google-docs/02-draft-procedure/images/c02-02-clarity-rewrite.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-clarity-rewrite.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        300,
+        1350,
+        405
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "43f39e29212d1e959557356f3963f26178e130b3c3b428a0d96a6eca1b7999a0",
+      "notes": []
+    },
+    "02-google-docs/02-draft-procedure/images/c02-02-paper-walkthroughs.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-paper-walkthroughs.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        530,
+        1350,
+        945
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "cd73ee70c2579ecfae7f1196f415539084f408239a63cbc117aa3435d84acbcd",
+      "notes": []
+    },
+    "02-google-docs/02-draft-procedure/images/c02-02-submission-distinction.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-submission-distinction.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        710,
+        1350,
+        995
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "9f7e7c6cbd6d760dbf32e05c3f3e0e853e7cdd9b41ce632bb3d9fe8cb46585d7",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-title-style.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-title-style.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        185,
+        1350,
+        275
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "3dcb76ea06114b2a329e43c4f17374f62553547684aab8a26d0b2a7c658b05dc",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-heading-outline.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-heading-outline.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        35,
+        235,
+        290,
+        550
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "470c1086908f18f2ae2c22bbfd128c1c867d6eb2184cd49e72ae8cec01c43992",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-generated-contents.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-generated-contents.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        500,
+        1350,
+        630
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "8fbe481480eb863424b8434f85c64692e054d45062feee6390966e3b8df7906a",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-stale-contents.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-stale-contents.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        500,
+        1350,
+        975
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "a5e171adb383bc19655171feaa7b9159e4f4b7553c4e46fc555a571077c7e6c8",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-refreshed-contents.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-refreshed-contents.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        490,
+        1350,
+        635
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "197672fce8cc950eeab6c5f815b38ffe543ecc850b3aef7e9ab3722b74e9e3e8",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-bookmark.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-bookmark.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        700,
+        140,
+        1350,
+        470
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "977b47cb9eb1721c0fd3f7c2d640e9d69416d6917dcc43b2504f00169ac32716",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-opening-bookmark.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-opening-bookmark.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        465,
+        1350,
+        650
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "5df1d3078a0a8f82a5815e44cd530064f49c5b42cfb0a0c1a25f68615745b57e",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-subsection-outline.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-subsection-outline.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        35,
+        180,
+        290,
+        640
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "57cd3d5958c91e4a424f2968d83a09eef115d38b5047fa5ac8bb2a7dbad5974d",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-quick-start.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-quick-start.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        540,
+        1350,
+        825
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "5c57a6938d2daae5c558a85c07af66a650ef6ca7edae53afda810cf17dfc3070",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-missing-owner-destination.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-missing-owner-destination.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        140,
+        1350,
+        415
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "07e83071da2b490aaccc660e4dcdc6c704b9bd5518c6b313b5123b2d4569b64a",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-sponsor-destination.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-sponsor-destination.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        180,
+        1350,
+        350
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "a84a929fa882701c15907ab92ca4e8975be81f0e5fc5975f0f0453a9cac8e084",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-practice-copy.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-practice-copy.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        15,
+        0,
+        680,
+        110
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "6dc182550e09e75c72a72bd7b931b612993b89cc2eaf68cce72fe8b303425496",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-examples-tab.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-examples-tab.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        35,
+        190,
+        290,
+        330
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "8d96003cae72b46ed9e683d7d37729b0961b8fb37aeb93a36fd08827fb29791d",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-examples-return.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-examples-return.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        230,
+        1350,
+        450
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "a2972479595509d017f7c0dc5986d6f5dc54edfff59e638741731686d7f40fbf",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-return-main.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-return-main.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        35,
+        190,
+        290,
+        330
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "394032a3d6d46cf87156e6ba9eae0e05319dbb2e170808534a6b67e130fcdd57",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-main-examples-link.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-main-examples-link.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        460,
+        1350,
+        880
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "8cef0708bb6bfeb8de2a1c5875190e7e3b8bb5cfcb8aec0e4cdd0bc70f18cc9a",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-examples-contents.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-examples-contents.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        190,
+        1350,
+        530
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "5615d089bab1e93ded9a77a7d6036de10a62eb6f2cfab42b316cd4b94223cee4",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-main-contents.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-main-contents.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        635,
+        1350,
+        830
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "3497e68a9b2df6527c00d2878cbde0cef230ce5b242fb76385a9ea4d21e1a16e",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-move-selection.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-move-selection.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        170,
+        1370,
+        285
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "4ca80eb2c07a0c7ae4eb4c09bf087944472274d5f38d166eee3b11e7f247b149",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-moved-subsection.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-moved-subsection.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        475,
+        1350,
+        645
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "78c38aeab79e995128c569956e5d65f9c02d068a9a43306b2acefe5b4e8bad48",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-renamed-subsection.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-renamed-subsection.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        475,
+        1350,
+        680
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "fb19a1a2d7d82205d0d65594c9e5db9c33b16a0197ef77a355d0d5e4ce93f886",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-renamed-contents.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-renamed-contents.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        540,
+        1350,
+        850
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "0b6725a0e1e7df7ab0ccda4d9408c732f4df243b01f6b5b8e390904294eeee44",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-incoming-link-retested.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-incoming-link-retested.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        880,
+        1350,
+        985
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "0d61e21e929247cea4e237f80376252dfcc64ee742781c3dfb4e65309fb4c91e",
+      "notes": []
+    },
+    "02-google-docs/03-styles-navigation/images/c02-03-navigation-check.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-navigation-check.png",
+      "dimensions": [
+        2360,
+        1112
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        730,
+        625,
+        1350,
+        945
+      ],
+      "privacy_masks": [
+        [
+          2064,
+          0,
+          2113,
+          70
+        ],
+        [
+          2055,
+          0,
+          2128,
+          65
+        ],
+        [
+          2300,
+          0,
+          2360,
+          65
+        ]
+      ],
+      "sha256": "bbfcc2334d5df9fb1a3bf451ee1736126c55983338f99163a7ae17de43e322b8",
+      "notes": []
+    }
+  },
+  "missing_originals": [
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-01.jpg",
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-02-folders.jpg",
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-02-sources.jpg"
+  ]
+}
