@@ -1,0 +1,20 @@
+{
+  "name": "google-workspace-training",
+  "version": "0.4.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node tools/check.mjs",
+    "build:site": "node tools/build-site.mjs",
+    "build:books": "node tools/build-books.mjs",
+    "build": "npm run build:books && npm run check && npm run build:site",
+    "serve": "node tools/serve.mjs"
+  },
+  "dependencies": {
+    "marked": "14.1.4",
+    "training-book-kit": "github:Asraf-JS/training-book-kit#e2cf2e0e27212020ae8eb9276e78d2ccbae076b7"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

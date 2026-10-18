@@ -1,0 +1,21 @@
+FICTIONAL TRAINING MATERIAL
+All organisations, people and project details below are fictional.
+
+Organisation: Seri Maju Projects
+Location: Petaling Jaya, Malaysia
+Project: Project Reporting Pilot
+Project coordinator: Aina Rahman
+Project sponsor: Farid Hassan
+Pilot teams: Planning, Procurement and Site Coordination
+Pilot duration: four weeks from an agreed start date
+Start date: not yet agreed
+Budget ceiling: RM 12000
+Budget status: proposed, not approved
+Purpose: test a consistent weekly project reporting process
+Required outputs: a project brief, task register, weekly status update and project hub
+Reporting cadence: one status update every Friday during the pilot
+Known risk: teams may use different definitions of task status
+Known constraint: use fictional training data only
+Success measure: all three teams submit their weekly update on time for the final two weeks
+Unresolved decision: sponsor approval of the budget and the pilot start date
+Out of scope: live construction records, purchasing commitments and external publication

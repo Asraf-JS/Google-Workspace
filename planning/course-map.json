@@ -1,0 +1,562 @@
+[
+  {
+    "path": "01-collaborative-tools",
+    "title": "Collaborative Tools Masterclass",
+    "days": 1,
+    "chapters": [
+      {
+        "number": 1,
+        "day": 1,
+        "title": "Build a Governed Project Workspace",
+        "minutes": 60,
+        "slug": "01-workspace-governance",
+        "status": "reference-run-captured-learner-pilot-pending",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 42,
+        "capture_count": 13,
+        "capture_scope": "Core route; connected upload fallback; reviewer and Shared Drive tests pending"
+      },
+      {
+        "number": 2,
+        "day": 1,
+        "title": "Create, Review and Revise a Checked Brief",
+        "minutes": 65,
+        "slug": "02-checked-brief",
+        "status": "reference-run-captured-learner-pilot-pending",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 45,
+        "capture_count": 14,
+        "capture_scope": "Core sections 2.1–2.3; independent challenge pending"
+      },
+      {
+        "number": 3,
+        "day": 1,
+        "title": "Turn a Meeting Record into Accountable Actions",
+        "minutes": 55,
+        "slug": "03-meeting-actions",
+        "status": "reference-run-captured-learner-pilot-pending",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 38,
+        "capture_count": 9,
+        "capture_scope": "Core communication and action record; Calendar specification fallback only"
+      },
+      {
+        "number": 4,
+        "day": 1,
+        "title": "Clean, Calculate and Stress-Test a Reporting Dashboard",
+        "minutes": 80,
+        "slug": "04-reporting-dashboard",
+        "status": "reference-run-captured-learner-pilot-pending",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 56,
+        "capture_count": 31,
+        "capture_scope": "Core route and scripted new-record/positive-variance reference test"
+      },
+      {
+        "number": 5,
+        "day": 1,
+        "title": "Build an Evidence-Based Sponsor Update",
+        "minutes": 60,
+        "slug": "05-evidence-update",
+        "status": "reference-run-captured-learner-pilot-pending",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 42,
+        "capture_count": 22,
+        "capture_scope": "Five-slide core build and scripted cost-correction reference; rehearsal and independent reviewer pending"
+      },
+      {
+        "number": 6,
+        "day": 1,
+        "title": "Assemble the Hub and Prove the Handover",
+        "minutes": 70,
+        "slug": "06-hub-handover",
+        "status": "partial-reference-run-preview-blocked",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 50,
+        "capture_count": 20,
+        "capture_scope": "Unpublished three-page Site, embeds/access matrix and guide; Preview blank, integrated challenge and learner pilot pending"
+      }
+    ]
+  },
+  {
+    "path": "02-google-docs",
+    "title": "Google Docs",
+    "days": 1,
+    "chapters": [
+      {
+        "number": 1,
+        "day": 1,
+        "title": "Prepare the Document and Sources",
+        "minutes": 40,
+        "slug": "01-document-sources",
+        "status": "reference-run-captured-learner-pilot-pending",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 30,
+        "capture_count": 16,
+        "capture_scope": "Core plus source casework; connected upload fallback; independent learner challenge pending"
+      },
+      {
+        "number": 2,
+        "day": 1,
+        "title": "Plan and Draft with Gemini",
+        "minutes": 55,
+        "slug": "02-draft-procedure",
+        "status": "reference-run-captured-learner-pilot-pending",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 45,
+        "capture_count": 13,
+        "capture_scope": "Core Gemini review plus eight-step plan and author walkthrough; independent challenge pending"
+      },
+      {
+        "number": 3,
+        "day": 1,
+        "title": "Apply Styles and Navigation",
+        "minutes": 55,
+        "slug": "03-styles-navigation",
+        "status": "reference-run-captured-learner-pilot-pending",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 45,
+        "capture_count": 24,
+        "capture_scope": "Core navigation plus practice-copy tab/move tests; author retrieval only; independent challenge pending"
+      },
+      {
+        "number": 4,
+        "day": 1,
+        "title": "Prepare a Professional Page Layout",
+        "minutes": 50,
+        "slug": "04-page-layout",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 40
+      },
+      {
+        "number": 5,
+        "day": 1,
+        "title": "Review and Collaborate",
+        "minutes": 55,
+        "slug": "05-review-collaboration",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 45
+      },
+      {
+        "number": 6,
+        "day": 1,
+        "title": "Adapt and Check the Document",
+        "minutes": 50,
+        "slug": "06-adapt-accessibility",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 40
+      },
+      {
+        "number": 7,
+        "day": 1,
+        "title": "Export and Check Interoperability",
+        "minutes": 40,
+        "slug": "07-export-check",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 30
+      },
+      {
+        "number": 8,
+        "day": 1,
+        "title": "Complete the Procedure Challenge",
+        "minutes": 45,
+        "slug": "08-procedure-challenge",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 35
+      }
+    ]
+  },
+  {
+    "path": "03-google-slides",
+    "title": "Google Slides",
+    "days": 1,
+    "chapters": [
+      {
+        "number": 1,
+        "day": 1,
+        "title": "Read the Brief and Plan the Story",
+        "minutes": 40,
+        "slug": "01-story-plan",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 30
+      },
+      {
+        "number": 2,
+        "day": 1,
+        "title": "Create and Organise the Deck",
+        "minutes": 45,
+        "slug": "02-deck-setup",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 35
+      },
+      {
+        "number": 3,
+        "day": 1,
+        "title": "Build Clear Slide Layouts",
+        "minutes": 55,
+        "slug": "03-clear-layouts",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 45
+      },
+      {
+        "number": 4,
+        "day": 1,
+        "title": "Create and Check Visual Assets",
+        "minutes": 55,
+        "slug": "04-visual-assets",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 45
+      },
+      {
+        "number": 5,
+        "day": 1,
+        "title": "Link and Explain Project Data",
+        "minutes": 55,
+        "slug": "05-linked-data",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 45
+      },
+      {
+        "number": 6,
+        "day": 1,
+        "title": "Polish Motion and Review",
+        "minutes": 45,
+        "slug": "06-motion-review",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 35
+      },
+      {
+        "number": 7,
+        "day": 1,
+        "title": "Rehearse and Distribute",
+        "minutes": 45,
+        "slug": "07-delivery-sharing",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 35
+      },
+      {
+        "number": 8,
+        "day": 1,
+        "title": "Deliver the Project Update",
+        "minutes": 50,
+        "slug": "08-deliver-update",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 40
+      }
+    ]
+  },
+  {
+    "path": "04-sheets-foundation-intermediate",
+    "title": "Google Sheets Fundamental and Intermediate",
+    "days": 1,
+    "chapters": [
+      {
+        "number": 1,
+        "day": 1,
+        "title": "Create and Navigate a Workbook",
+        "minutes": 40,
+        "slug": "01-workbook-basics",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 30
+      },
+      {
+        "number": 2,
+        "day": 1,
+        "title": "Enter and Format Reliable Data",
+        "minutes": 45,
+        "slug": "02-format-data",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 35
+      },
+      {
+        "number": 3,
+        "day": 1,
+        "title": "Calculate and Copy Formulas",
+        "minutes": 65,
+        "slug": "03-basic-calculations",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 50
+      },
+      {
+        "number": 4,
+        "day": 1,
+        "title": "Clean and Organise Records",
+        "minutes": 50,
+        "slug": "04-clean-sort-freeze",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 40
+      },
+      {
+        "number": 5,
+        "day": 1,
+        "title": "Validate and Filter the Register",
+        "minutes": 50,
+        "slug": "05-validation-filtering",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 40
+      },
+      {
+        "number": 6,
+        "day": 1,
+        "title": "Summarise and Visualise",
+        "minutes": 55,
+        "slug": "06-summary-chart",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 45
+      },
+      {
+        "number": 7,
+        "day": 1,
+        "title": "Share and Prepare Output",
+        "minutes": 40,
+        "slug": "07-sharing-print",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 30
+      },
+      {
+        "number": 8,
+        "day": 1,
+        "title": "Complete the Register Challenge",
+        "minutes": 45,
+        "slug": "08-register-challenge",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 35
+      }
+    ]
+  },
+  {
+    "path": "05-sheets-advanced",
+    "title": "Google Sheets Advanced",
+    "days": 2,
+    "chapters": [
+      {
+        "number": 1,
+        "day": 1,
+        "title": "Audit the Source Register",
+        "minutes": 45,
+        "slug": "01-source-audit",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 35
+      },
+      {
+        "number": 2,
+        "day": 1,
+        "title": "Build Conditional Calculations",
+        "minutes": 75,
+        "slug": "02-conditional-logic",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 60
+      },
+      {
+        "number": 3,
+        "day": 1,
+        "title": "Validate Entries and Flag Exceptions",
+        "minutes": 65,
+        "slug": "03-validation-exceptions",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 50
+      },
+      {
+        "number": 4,
+        "day": 1,
+        "title": "Combine and Clean Text",
+        "minutes": 60,
+        "slug": "04-text-cleaning",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 45
+      },
+      {
+        "number": 5,
+        "day": 1,
+        "title": "Match Records and Handle Errors",
+        "minutes": 80,
+        "slug": "05-lookups-errors",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 65
+      },
+      {
+        "number": 6,
+        "day": 1,
+        "title": "Complete the Formula Clinic",
+        "minutes": 65,
+        "slug": "06-formula-clinic",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 50
+      },
+      {
+        "number": 7,
+        "day": 2,
+        "title": "Summarise with Pivot Tables",
+        "minutes": 75,
+        "slug": "07-pivot-tables",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 60
+      },
+      {
+        "number": 8,
+        "day": 2,
+        "title": "Query Structured Criteria",
+        "minutes": 60,
+        "slug": "08-database-functions",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 45
+      },
+      {
+        "number": 9,
+        "day": 2,
+        "title": "Build a Dashboard",
+        "minutes": 70,
+        "slug": "09-dashboard",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 55
+      },
+      {
+        "number": 10,
+        "day": 2,
+        "title": "Use Gemini as an Analysis Partner",
+        "minutes": 55,
+        "slug": "10-gemini-analysis",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 45
+      },
+      {
+        "number": 11,
+        "day": 2,
+        "title": "Complete the Analysis Capstone",
+        "minutes": 80,
+        "slug": "11-analysis-capstone",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 65
+      },
+      {
+        "number": 12,
+        "day": 2,
+        "title": "Review and Handover",
+        "minutes": 50,
+        "slug": "12-handover",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 40
+      }
+    ]
+  },
+  {
+    "path": "06-notebooklm-gemini",
+    "title": "NotebookLM and Gemini",
+    "days": 1,
+    "chapters": [
+      {
+        "number": 1,
+        "day": 1,
+        "title": "Prepare the AI Workspace",
+        "minutes": 40,
+        "slug": "01-ai-workspace",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 30
+      },
+      {
+        "number": 2,
+        "day": 1,
+        "title": "Write and Refine Useful Prompts",
+        "minutes": 50,
+        "slug": "02-prompt-design",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 40
+      },
+      {
+        "number": 3,
+        "day": 1,
+        "title": "Apply Gemini Across Workspace",
+        "minutes": 55,
+        "slug": "03-gemini-workflow",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 45
+      },
+      {
+        "number": 4,
+        "day": 1,
+        "title": "Build a Source-Based Notebook",
+        "minutes": 60,
+        "slug": "04-source-notebook",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 45
+      },
+      {
+        "number": 5,
+        "day": 1,
+        "title": "Create and Check Briefings",
+        "minutes": 50,
+        "slug": "05-briefing-audio",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 40
+      },
+      {
+        "number": 6,
+        "day": 1,
+        "title": "Evaluate Responsible Use",
+        "minutes": 45,
+        "slug": "06-responsible-review",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 35
+      },
+      {
+        "number": 7,
+        "day": 1,
+        "title": "Run an AI Pilot",
+        "minutes": 50,
+        "slug": "07-ai-pilot",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 40
+      },
+      {
+        "number": 8,
+        "day": 1,
+        "title": "Share the Prompt Playbook",
+        "minutes": 40,
+        "slug": "08-prompt-playbook",
+        "status": "expanded-draft-unexecuted",
+        "timing_status": "target-awaiting-pilot",
+        "active_minutes": 30
+      }
+    ]
+  }
+]

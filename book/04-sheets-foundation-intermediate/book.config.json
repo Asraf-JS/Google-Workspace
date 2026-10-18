@@ -1,0 +1,76 @@
+{
+  "palette": "../../assets/book-palette-specialist.css",
+  "kicker": "Google Workspace Training",
+  "titleLines": [
+    "Google Sheets",
+    {
+      "highlight": "Foundation"
+    },
+    "and Intermediate"
+  ],
+  "runningTitle": "Google Sheets Fundamental and Intermediate",
+  "subtitle": "One-day course review draft",
+  "blurb": "Build and check practical workplace outputs with fictional project data. These notes and prompts are a written review draft awaiting full live lab validation.",
+  "coverIcons": [
+    "doc",
+    "check",
+    "lines",
+    "nodes"
+  ],
+  "edition": "Review draft",
+  "year": "2026",
+  "version": "0.4",
+  "author": "Asraf Jaafar Sidik",
+  "authorShort": "Asraf",
+  "credential": "Microsoft Certified Trainer",
+  "repoUrl": "",
+  "repoRoot": "../..",
+  "trademark": "Google, Google Workspace, Gmail, Google Drive, Google Docs, Google Sheets, Google Slides, Google Sites, Gemini and NotebookLM are names associated with Google. This independent training guide is not published or endorsed by Google.",
+  "output": "../../books/04-sheets-foundation-intermediate-Book.pdf",
+  "front": [
+    {
+      "title": "About the author",
+      "file": "kit:front/about-the-author.md",
+      "class": "about"
+    }
+  ],
+  "intro": {
+    "title": "Before you begin",
+    "file": "front/introduction.md"
+  },
+  "chapters": [
+    {
+      "notes": "../../04-sheets-foundation-intermediate/01-workbook-basics/README.md",
+      "exercises": "../../04-sheets-foundation-intermediate/01-workbook-basics/prompts.md"
+    },
+    {
+      "notes": "../../04-sheets-foundation-intermediate/02-format-data/README.md",
+      "exercises": "../../04-sheets-foundation-intermediate/02-format-data/prompts.md"
+    },
+    {
+      "notes": "../../04-sheets-foundation-intermediate/03-basic-calculations/README.md",
+      "exercises": "../../04-sheets-foundation-intermediate/03-basic-calculations/prompts.md"
+    },
+    {
+      "notes": "../../04-sheets-foundation-intermediate/04-clean-sort-freeze/README.md",
+      "exercises": "../../04-sheets-foundation-intermediate/04-clean-sort-freeze/prompts.md"
+    },
+    {
+      "notes": "../../04-sheets-foundation-intermediate/05-validation-filtering/README.md",
+      "exercises": "../../04-sheets-foundation-intermediate/05-validation-filtering/prompts.md"
+    },
+    {
+      "notes": "../../04-sheets-foundation-intermediate/06-summary-chart/README.md",
+      "exercises": "../../04-sheets-foundation-intermediate/06-summary-chart/prompts.md"
+    },
+    {
+      "notes": "../../04-sheets-foundation-intermediate/07-sharing-print/README.md",
+      "exercises": "../../04-sheets-foundation-intermediate/07-sharing-print/prompts.md"
+    },
+    {
+      "notes": "../../04-sheets-foundation-intermediate/08-register-challenge/README.md",
+      "exercises": "../../04-sheets-foundation-intermediate/08-register-challenge/prompts.md"
+    }
+  ],
+  "backCover": "A practical 1-day course with step-by-step draft labs, copy-ready prompts, fictional inputs and expected-result checks. Use the supplied practice pack. Full lab execution, screenshots and classroom timing validation remain required before participant release."
+}

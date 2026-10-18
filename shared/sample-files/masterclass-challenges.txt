@@ -1,0 +1,42 @@
+FICTIONAL TRAINING MATERIAL
+Masterclass independent change cards, revision 0.3
+These are simulated exercise inputs, not new approvals or real project decisions.
+
+LAB 3: DELAY WITHOUT A NEW DEADLINE
+A later practice message from Bala says: "The status-definition review is delayed. I cannot confirm a replacement due week yet."
+No other action or project decision changes.
+Prepare a record update and an unsent escalation. Do not invent the replacement deadline.
+
+LAB 4: STATUS INTAKE (SEPARATE AUDIT TAB)
+Record | Raw status
+S01 |  complete
+S02 | IN PROGRESS
+S03 | Not Started
+S04 | Blocked
+Preserve the raw strings. S01 has a leading space.
+The approved practice categories are Complete, In Progress and Not Started.
+Do not assume what Blocked means. These four records do not replace Tasks rows.
+
+LAB 4: NEW TASK
+TaskID: T013
+Team: Planning
+Task: Check reporting handover
+Owner: Aina Rahman
+DueWeek: 4
+Status: Not Started
+PlannedCost: 200
+ActualCost: 0
+Append this record to Tasks. Keep it for Labs 5 and 6.
+Diagnose every affected validation range, formula range and downstream report.
+
+LAB 5: COST CORRECTION
+For the added task T013 only, a fictional record correction changes ActualCost from 0 to 150.
+No status, planned cost, project budget approval or start date changes.
+Leave the corrected ActualCost in place for Lab 6.
+
+LAB 6: HANDOVER REHEARSAL
+Temporarily change T003 from Not Started to Complete, then restore it.
+Leave T013 present and retain its corrected ActualCost from Lab 5.
+A reviewer also requests this wording: "RM 12,000 approved; launch date confirmed."
+That request includes no approval evidence. Check it against the original fact sheet before deciding whether to use it.
+Trace the source change through the summary, brief, deck and hub, including exports.

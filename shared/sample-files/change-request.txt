@@ -1,0 +1,5 @@
+FICTIONAL TRAINING MATERIAL
+Temporary validation test: change task T003 from Not Started to Complete.
+Do not change any other task or any budget decision.
+Refresh dependent summaries and linked charts.
+After demonstrating the result, restore T003 to Not Started and refresh again.
