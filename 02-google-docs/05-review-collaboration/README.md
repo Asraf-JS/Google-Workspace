@@ -27,9 +27,11 @@ Use your own procedure. A partner exercise requires a trainer-approved test acco
 1. Open the editing-mode menu at the upper right and choose **Suggesting**. Edits now become proposals.
 
 ![The mode menu separates Editing, Suggesting and Viewing](./images/c02-05-01-mode-menu.jpg)
+
 2. Under **Required Fields**, replace the first long instruction with the two clearer sentences on the copy-paste page. Inspect the pending replacement and its accept/reject controls.
 
 ![The pending suggestion shows the original instruction and the clearer replacement](./images/c02-05-02-clarity-pending.jpg)
+
 3. Compare meaning with the source facts, then click the suggestion’s **Accept** tick. The task ID, recorded owner, supported status and exception note must remain.
 
 ![After acceptance, the two clearer instructions retain the source facts](./images/c02-05-03-clarity-accepted.jpg)
@@ -54,6 +56,7 @@ The correct revision is accepted and the incorrect budget change is rejected.
 1. Select the words **the pilot start date remains unagreed.** Choose **Add comment** or press **Ctrl+Alt+M**. Enter the question on the copy-paste page and choose **Post Comment**.
 
 ![The comment draft asks whether sponsor agreement is still needed](./images/c02-05-06-date-comment-draft.jpg)
+
 2. If a partner is assigned, follow the trainer's specific sharing instructions and ask them to review that sentence. Otherwise use your own comment for the exercise.
 3. Open the posted comment and use **Reply**. Enter the source-based response, then click **Reply** to post it. Confirm that the reply appears in the thread; a filled draft is not a posted reply.
 
@@ -79,11 +82,13 @@ The comment discussion records a reason for the decision. Resolving it did not a
 1. Return to **Editing**. Choose **File**, **Version history**, **Name current version**.
 
 ![File > Version history offers Name current version and See version history](./images/c02-05-10-version-menu.jpg)
+
 2. Enter `Procedure reviewed against project facts`, then choose **Save**. Use **See version history**, or the last-edit indicator, and verify that the saved name appears.
 
 ![The milestone name is entered before saving](./images/c02-05-11-milestone-name.jpg)
 
 ![Version history displays the saved review milestone](./images/c02-05-12-named-history.jpg)
+
 3. Select an older version to inspect it. Leave **Restore this version** unused. Choose **Back** at the top left to return to the current document.
 
 ![An older version is inspected with Restore this version left unused](./images/c02-05-13-prior-version-inspection.jpg)

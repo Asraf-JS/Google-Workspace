@@ -20,7 +20,7 @@ Version 0.4, 19 October 2026. All 50 chapter notes and companion prompt pages ar
 
 There are 210 real stage captures: 109 across the six masterclass labs and 101 across Docs Labs 1-4 and part of Lab 5. Thirty-nine specialist routes are uncaptured; Docs Lab 5 is partially captured and its controlled review remains pending. The masterclass hub's desktop and phone Preview remain blank. Independent learner/reviewer challenges and classroom timing pilots remain pending. Recorded author checks and scripted reference tests are not learner validation.
 
-Source inventory, relative links and daily timing allocations pass. The six books were rendered and visually reviewed; the Docs book is 87 pages and the masterclass book is 73 pages. Local browser checks passed for the captured Docs routes. Full pop-out/lightbox lifecycle checks remain pending. No remote site deployment has been performed.
+Source inventory, relative links and daily timing allocations pass. The six books were rendered and visually reviewed; the Docs book is 86 pages and the masterclass book is 73 pages. Local browser checks passed for the captured Docs routes. Full pop-out/lightbox lifecycle checks remain pending. No remote site deployment has been performed.
 
 See planning/VALIDATION-STATUS.md for public validation state, and ignored _local records for private demo identities. Rebuild the books and site after changing content. Inspect the final PDFs after changes. Keep status records accurate rather than claiming a draft chapter is validated.
 
