@@ -137,9 +137,11 @@
         "title": "Review and Collaborate",
         "minutes": 55,
         "slug": "05-review-collaboration",
-        "status": "expanded-draft-unexecuted",
+        "status": "partial-reference-run-captured",
         "timing_status": "target-awaiting-pilot",
-        "active_minutes": 45
+        "active_minutes": 45,
+        "capture_count": 13,
+        "capture_scope": "5.1-5.3 captured; 5.4 Review Log started only. Remaining controlled review, comparison, partner/learner checks pending."
       },
       {
         "number": 6,

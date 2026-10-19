@@ -2,7 +2,7 @@
 
 These PNGs preserve the full dimensions of the retained captures, with account identities, private native URLs and mailbox surroundings masked. They have not been cropped or resized during this export. Unredacted originals stay local.
 
-The source library contains **182 application-window captures, six focused captures and six PDF-page renders**. Three early images have no retained original. A full application capture contains the browser application viewport, not necessarily browser tabs, the address bar or the Windows desktop.
+The source library contains **195 application-window captures, six focused captures and six PDF-page renders**. Three early images have no retained original. A full application capture contains the browser application viewport, not necessarily browser tabs, the address bar or the Windows desktop.
 
 Participant notes continue to use the existing approved crops. Inspect the whole frame before replacing a lesson image: surrounding content may fall outside the illustrated step. Two procedure-plan sources explicitly need an earlier-stage recapture before whole-frame use.
 
@@ -224,3 +224,16 @@ These three early workspace images need recapture for a wider view:
 | [c02-04-pdf-baseline.jpg](../../02-google-docs/04-page-layout/images/c02-04-pdf-baseline.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-pdf-baseline.png) | 775 x 1095 | pdf-page |
 | [c02-04-pdf-field-table.jpg](../../02-google-docs/04-page-layout/images/c02-04-pdf-field-table.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-pdf-field-table.png) | 775 x 1095 | pdf-page |
 | [c02-04-pdf-label.jpg](../../02-google-docs/04-page-layout/images/c02-04-pdf-label.jpg) | [PNG](full/02-google-docs/04-page-layout/c02-04-pdf-label.png) | 775 x 1095 | pdf-page |
+| [c02-05-01-mode-menu.jpg](../../02-google-docs/05-review-collaboration/images/c02-05-01-mode-menu.jpg) | [PNG](full/02-google-docs/05-review-collaboration/c02-05-01-mode-menu.png) | 2360 x 1170 | application-window |
+| [c02-05-02-clarity-pending.jpg](../../02-google-docs/05-review-collaboration/images/c02-05-02-clarity-pending.jpg) | [PNG](full/02-google-docs/05-review-collaboration/c02-05-02-clarity-pending.png) | 2360 x 1170 | application-window |
+| [c02-05-03-clarity-accepted.jpg](../../02-google-docs/05-review-collaboration/images/c02-05-03-clarity-accepted.jpg) | [PNG](full/02-google-docs/05-review-collaboration/c02-05-03-clarity-accepted.png) | 2360 x 1170 | application-window |
+| [c02-05-04-budget-pending.jpg](../../02-google-docs/05-review-collaboration/images/c02-05-04-budget-pending.jpg) | [PNG](full/02-google-docs/05-review-collaboration/c02-05-04-budget-pending.png) | 2360 x 1170 | application-window |
+| [c02-05-05-budget-rejected.jpg](../../02-google-docs/05-review-collaboration/images/c02-05-05-budget-rejected.jpg) | [PNG](full/02-google-docs/05-review-collaboration/c02-05-05-budget-rejected.png) | 2360 x 1170 | application-window |
+| [c02-05-06-date-comment-draft.jpg](../../02-google-docs/05-review-collaboration/images/c02-05-06-date-comment-draft.jpg) | [PNG](full/02-google-docs/05-review-collaboration/c02-05-06-date-comment-draft.png) | 2360 x 1170 | application-window |
+| [c02-05-07-date-source-reply.jpg](../../02-google-docs/05-review-collaboration/images/c02-05-07-date-source-reply.jpg) | [PNG](full/02-google-docs/05-review-collaboration/c02-05-07-date-source-reply.png) | 2360 x 1170 | application-window |
+| [c02-05-08-date-reply-posted.jpg](../../02-google-docs/05-review-collaboration/images/c02-05-08-date-reply-posted.jpg) | [PNG](full/02-google-docs/05-review-collaboration/c02-05-08-date-reply-posted.png) | 2360 x 1170 | application-window |
+| [c02-05-09-date-editorial-resolved.jpg](../../02-google-docs/05-review-collaboration/images/c02-05-09-date-editorial-resolved.jpg) | [PNG](full/02-google-docs/05-review-collaboration/c02-05-09-date-editorial-resolved.png) | 2360 x 1170 | application-window |
+| [c02-05-10-version-menu.jpg](../../02-google-docs/05-review-collaboration/images/c02-05-10-version-menu.jpg) | [PNG](full/02-google-docs/05-review-collaboration/c02-05-10-version-menu.png) | 2360 x 1170 | application-window |
+| [c02-05-11-milestone-name.jpg](../../02-google-docs/05-review-collaboration/images/c02-05-11-milestone-name.jpg) | [PNG](full/02-google-docs/05-review-collaboration/c02-05-11-milestone-name.png) | 2360 x 1170 | application-window |
+| [c02-05-12-named-history.jpg](../../02-google-docs/05-review-collaboration/images/c02-05-12-named-history.jpg) | [PNG](full/02-google-docs/05-review-collaboration/c02-05-12-named-history.png) | 2360 x 1170 | application-window |
+| [c02-05-13-prior-version-inspection.jpg](../../02-google-docs/05-review-collaboration/images/c02-05-13-prior-version-inspection.jpg) | [PNG](full/02-google-docs/05-review-collaboration/c02-05-13-prior-version-inspection.png) | 2360 x 1170 | application-window |

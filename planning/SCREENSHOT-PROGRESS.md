@@ -11,7 +11,7 @@ Updated 19 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 197 captures: 109 masterclass and 88 Docs captures. Four specialist reference routes are captured; 40 specialist routes still await real-app capture. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 210 captures: 109 masterclass and 101 Docs captures. Four specialist routes are captured and Docs Lab 5 is partially captured; 39 specialist routes have no real-app captures. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -27,3 +27,8 @@ The native tracker now retains the Lab 5 T013 correction: actual cost 150, as re
 ## Docs Page Layout: 19 October 2026
 
 Docs Lab 4 adds 35 stage images: 32 application captures and three native PDF-page extracts. All 35 have retained original-dimension sources with privacy masks. Programme total: **197** participant images, including **88** in Docs Labs 1-4. Forty specialist routes remain uncaptured. The Lab 4 independent escalation-table challenge and learner timing pilot remain pending.
+
+
+## Docs Review Checkpoint: 19 October 2026
+
+Thirteen new images cover sections 5.1-5.3: accept/reject suggestions, a source-based comment/reply and editorial resolution, a named milestone and inspection of a prior version without restoration. Full masked application-window sources are retained. Section 5.4 has only the Review Log requests and source evidence, with pending decisions; remaining actions and document comparison are unexecuted because browser control could not reattach. Programme total 210, Docs 101; retained source library 207.

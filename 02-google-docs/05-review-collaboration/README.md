@@ -8,7 +8,7 @@ In this chapter you will practise suggestions, comments and version history with
 
 **Your result:** A reviewed procedure with a comment trail and named version.
 
-> **Status:** expanded review draft, revision 0.4. Complete the casework and independent challenge as well as the guided steps. The expanded route, screenshots and timing have not yet been validated in the learner application.
+> **Status:** sections 5.1-5.3 captured as an author reference run with 13 real stage images. The four-request Review Log has been started. Remaining section 5.4 actions, comparison, partner review, independent challenge and learner timing pilot are pending. Browser control was interrupted before the controlled review could finish.
 
 ## What You Will Learn
 
@@ -24,9 +24,21 @@ Use your own procedure. A partner exercise requires a trainer-approved test acco
 
 ## 5.1 Practise Suggestions
 
-1. Use the editing-mode menu to choose Suggesting.
-2. Change one unclear instruction to a clearer sentence. Inspect the pending suggestion.
-3. Accept the change only after comparing its meaning with the source facts. Reject a second deliberately incorrect change to the proposed budget.
+1. Open the editing-mode menu at the upper right and choose **Suggesting**. Edits now become proposals.
+
+![The mode menu separates Editing, Suggesting and Viewing](./images/c02-05-01-mode-menu.jpg)
+2. Under **Required Fields**, replace the first long instruction with the two clearer sentences on the copy-paste page. Inspect the pending replacement and its accept/reject controls.
+
+![The pending suggestion shows the original instruction and the clearer replacement](./images/c02-05-02-clarity-pending.jpg)
+3. Compare meaning with the source facts, then click the suggestion’s **Accept** tick. The task ID, recorded owner, supported status and exception note must remain.
+
+![After acceptance, the two clearer instructions retain the source facts](./images/c02-05-03-clarity-accepted.jpg)
+
+Next, suggest the deliberately unsupported budget approval sentence on the copy-paste page. Inspect it, then click **Reject**, the cross. The budget must remain a proposed ceiling; the start date remains unagreed.
+
+![The deliberately incorrect approval wording is still a pending suggestion](./images/c02-05-04-budget-pending.jpg)
+
+![Rejecting the change retains the proposed budget and unresolved start date](./images/c02-05-05-budget-rejected.jpg)
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -35,13 +47,23 @@ The correct revision is accepted and the incorrect budget change is rejected.
 
 </details>
 
-<!-- VERIFY: execute 5.1 in the target account and reconcile control names. Capture images/c02-05-01.jpg only from the real app. -->
+<!-- CAPTURED: author reference route; independent learner/partner validation pending. -->
 
 ## 5.2 Handle a Comment
 
-1. Select the sentence about the unresolved start date. Add a comment asking whether it still needs sponsor agreement.
+1. Select the words **the pilot start date remains unagreed.** Choose **Add comment** or press **Ctrl+Alt+M**. Enter the question on the copy-paste page and choose **Post Comment**.
+
+![The comment draft asks whether sponsor agreement is still needed](./images/c02-05-06-date-comment-draft.jpg)
 2. If a partner is assigned, follow the trainer's specific sharing instructions and ask them to review that sentence. Otherwise use your own comment for the exercise.
-3. Reply with the source fact. Resolve the comment only after confirming that the wording still reflects the unresolved decision.
+3. Open the posted comment and use **Reply**. Enter the source-based response, then click **Reply** to post it. Confirm that the reply appears in the thread; a filled draft is not a posted reply.
+
+![The reply is drafted with a source fact and a limit on editorial closure](./images/c02-05-07-date-source-reply.jpg)
+
+![The posted discussion records the fact that the start date remains to be confirmed](./images/c02-05-08-date-reply-posted.jpg)
+
+Only after checking the retained wording, choose **Mark as resolved and hide discussion**. This closes the editorial question and does not approve the start date.
+
+![Resolving the wording discussion leaves the project decision unresolved](./images/c02-05-09-date-editorial-resolved.jpg)
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -50,13 +72,21 @@ The comment discussion records a reason for the decision. Resolving it did not a
 
 </details>
 
-<!-- VERIFY: execute 5.2 in the target account and reconcile control names. Capture images/c02-05-02.jpg only from the real app. -->
+<!-- CAPTURED: author reference route; independent learner/partner validation pending. -->
 
 ## 5.3 Keep a Review Milestone
 
-1. Return to Editing. Open File, Version history, Name current version.
-2. Name it `Procedure reviewed against project facts`. Open version history and verify the name.
-3. Inspect a prior version without restoring it over the current work. Return using Back.
+1. Return to **Editing**. Choose **File**, **Version history**, **Name current version**.
+
+![File > Version history offers Name current version and See version history](./images/c02-05-10-version-menu.jpg)
+2. Enter `Procedure reviewed against project facts`, then choose **Save**. Use **See version history**, or the last-edit indicator, and verify that the saved name appears.
+
+![The milestone name is entered before saving](./images/c02-05-11-milestone-name.jpg)
+
+![Version history displays the saved review milestone](./images/c02-05-12-named-history.jpg)
+3. Select an older version to inspect it. Leave **Restore this version** unused. Choose **Back** at the top left to return to the current document.
+
+![An older version is inspected with Restore this version left unused](./images/c02-05-13-prior-version-inspection.jpg)
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -65,9 +95,11 @@ A named milestone is present and the current checked wording remains intact.
 
 </details>
 
-<!-- VERIFY: execute 5.3 in the target account and reconcile control names. Capture images/c02-05-03.jpg only from the real app. -->
+<!-- CAPTURED: author reference route; independent learner/partner validation pending. -->
 
 ## 5.4 Run a Controlled Editorial Review
+
+**Reference-run checkpoint:** the four requests and source evidence are recorded with decisions still pending. Resume at step 2 below. The actions and comparison in steps 2-7 are written instructions, not completed capture evidence.
 
 1. Create a **Review Log** with Change request, Evidence, Accept/reject/defer and Reason. Use all four requests from the card.
 
