@@ -11,7 +11,7 @@ Updated 19 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 210 captures: 109 masterclass and 101 Docs captures. Four specialist routes are captured and Docs Lab 5 is partially captured; 39 specialist routes have no real-app captures. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 231 captures: 109 masterclass and 122 Docs captures. Five specialist routes have captured core reference runs; 39 specialist routes remain uncaptured. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -32,3 +32,7 @@ Docs Lab 4 adds 35 stage images: 32 application captures and three native PDF-pa
 ## Docs Review Checkpoint: 19 October 2026
 
 Thirteen new images cover sections 5.1-5.3: accept/reject suggestions, a source-based comment/reply and editorial resolution, a named milestone and inspection of a prior version without restoration. Full masked application-window sources are retained. Section 5.4 has only the Review Log requests and source evidence, with pending decisions; remaining actions and document comparison are unexecuted because browser control could not reattach. Programme total 210, Docs 101; retained source library 207.
+
+## Docs Controlled Review Completed: 19 October 2026
+
+Lab 5 now has 34 staged images, adding 21 after browser control recovered. Four source-based decisions, an open contact comment, closed Friday editorial check, baseline/checked milestones and manual comparison are verified. Native Compare documents was available, but its picker remained blank: no generated report/suggestions were verified. Separate comparison and historical-baseline copies were retained without sharing. Current totals: programme 231, Docs 122, retained sources 228. Partner review, independent challenge and learner pilots remain pending.

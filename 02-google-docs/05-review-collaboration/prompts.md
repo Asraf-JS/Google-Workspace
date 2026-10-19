@@ -48,3 +48,48 @@ Does the pilot start date still need sponsor agreement? Please check the project
 ```text
 The project fact sheet says the start date is to be confirmed. Keep the date unresolved and obtain sponsor agreement before recording a calendar start. This closes the wording check only; it does not approve a date.
 ```
+
+## Controlled Review: Names
+
+```text
+Procedure editorial review - baseline
+Procedure editorial review - checked
+GW - Reporting Procedure - Review Comparison
+GW - Reporting Procedure - Editorial Baseline
+```
+
+## Controlled Clarity Split
+
+Original:
+
+```text
+If the owner is missing, retain the task ID and recorded status, flag the absent owner for clarification and keep an exception note.
+```
+
+Replacement:
+
+```text
+If the owner is missing, retain the task ID and recorded status. Flag the absent owner for clarification and keep an exception note.
+```
+
+## Budget Rejection Reason
+
+```text
+Reject: the project fact sheet gives a proposed ceiling of RM 12000. No sponsor approval is evidenced; keep the budget proposed and the start date unagreed.
+```
+
+## Missing-Contact Comment: Leave Open
+
+```text
+Defer the contact request. The supplied sources do not identify a real escalation contact. Confirm the responsible role and authorised contact through the agreed project route before adding a name. Keep this evidence question open.
+```
+
+## Friday-Cadence Discussion
+
+```text
+Is Friday the reporting cadence in the supplied project fact sheet? Check the source before changing this sentence.
+```
+
+```text
+Confirmed from project-fact-sheet.txt: the update is required every Friday. The existing sentence already matches, so no wording change is needed. Resolve this editorial cadence check only; the budget approval, calendar start and routing decisions remain open.
+```

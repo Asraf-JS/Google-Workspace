@@ -137,11 +137,11 @@
         "title": "Review and Collaborate",
         "minutes": 55,
         "slug": "05-review-collaboration",
-        "status": "partial-reference-run-captured",
+        "status": "reference-run-captured-learner-pilot-pending",
         "timing_status": "target-awaiting-pilot",
         "active_minutes": 45,
-        "capture_count": 13,
-        "capture_scope": "5.1-5.3 captured; 5.4 Review Log started only. Remaining controlled review, comparison, partner/learner checks pending."
+        "capture_count": 34,
+        "capture_scope": "5.1-5.4 core; manual comparison after blank native picker. Open contact question. Partner/learner checks and generated comparison output unverified."
       },
       {
         "number": 6,

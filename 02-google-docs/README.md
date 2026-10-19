@@ -1,6 +1,6 @@
 # Google Docs
 
-**Status:** review draft, revision 0.4. Labs 1-4 and sections 5.1-5.3 now have 101 real stage captures. Lab 5 controlled-review actions and comparison, Labs 6-8, independent learner/reviewer challenges and classroom timings remain pending.
+**Status:** review draft, revision 0.4. Labs 1-5 have 122 real stage images. Lab 5 includes a manual comparison fallback after the native picker stayed blank. Labs 6-8, partner review, independent challenges and classroom timings remain pending.
 
 **Duration:** 1 day. Each day has 390 teaching minutes, excluding lunch and breaks.
 
