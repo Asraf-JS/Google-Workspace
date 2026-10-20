@@ -8,7 +8,7 @@ In this chapter you will practise suggestions, comments and version history with
 
 **Your result:** A reviewed procedure with a comment trail and named version.
 
-> **Status:** expanded review draft, revision 0.4. Complete the casework and independent challenge as well as the guided steps. The expanded route, screenshots and timing have not yet been validated in the learner application.
+> **Status:** core sections 5.1-5.4 executed as an author reference run with 34 staged images and retained full-window sources. Four decisions, source-based comment handling, baseline/current milestones and a manual document comparison are recorded. Tools > Compare documents was present, but its picker stayed blank; no generated comparison suggestions were verified. Partner review, independent challenge and learner timings remain pending.
 
 ## What You Will Learn
 
@@ -24,9 +24,23 @@ Use your own procedure. A partner exercise requires a trainer-approved test acco
 
 ## 5.1 Practise Suggestions
 
-1. Use the editing-mode menu to choose Suggesting.
-2. Change one unclear instruction to a clearer sentence. Inspect the pending suggestion.
-3. Accept the change only after comparing its meaning with the source facts. Reject a second deliberately incorrect change to the proposed budget.
+1. Open the editing-mode menu at the upper right and choose **Suggesting**. Edits now become proposals.
+
+![The mode menu separates Editing, Suggesting and Viewing](./images/c02-05-01-mode-menu.jpg)
+
+2. Under **Required Fields**, replace the first long instruction with the two clearer sentences on the copy-paste page. Inspect the pending replacement and its accept/reject controls.
+
+![The pending suggestion shows the original instruction and the clearer replacement](./images/c02-05-02-clarity-pending.jpg)
+
+3. Compare meaning with the source facts, then click the suggestion’s **Accept** tick. The task ID, recorded owner, supported status and exception note must remain.
+
+![After acceptance, the two clearer instructions retain the source facts](./images/c02-05-03-clarity-accepted.jpg)
+
+Next, suggest the deliberately unsupported budget approval sentence on the copy-paste page. Inspect it, then click **Reject**, the cross. The budget must remain a proposed ceiling; the start date remains unagreed.
+
+![The deliberately incorrect approval wording is still a pending suggestion](./images/c02-05-04-budget-pending.jpg)
+
+![Rejecting the change retains the proposed budget and unresolved start date](./images/c02-05-05-budget-rejected.jpg)
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -35,13 +49,24 @@ The correct revision is accepted and the incorrect budget change is rejected.
 
 </details>
 
-<!-- VERIFY: execute 5.1 in the target account and reconcile control names. Capture images/c02-05-01.jpg only from the real app. -->
+<!-- CAPTURED: author reference route; independent learner/partner validation pending. -->
 
 ## 5.2 Handle a Comment
 
-1. Select the sentence about the unresolved start date. Add a comment asking whether it still needs sponsor agreement.
+1. Select the words **the pilot start date remains unagreed.** Choose **Add comment** or press **Ctrl+Alt+M**. Enter the question on the copy-paste page and choose **Post Comment**.
+
+![The comment draft asks whether sponsor agreement is still needed](./images/c02-05-06-date-comment-draft.jpg)
+
 2. If a partner is assigned, follow the trainer's specific sharing instructions and ask them to review that sentence. Otherwise use your own comment for the exercise.
-3. Reply with the source fact. Resolve the comment only after confirming that the wording still reflects the unresolved decision.
+3. Open the posted comment and use **Reply**. Enter the source-based response, then click **Reply** to post it. Confirm that the reply appears in the thread; a filled draft is not a posted reply.
+
+![The reply is drafted with a source fact and a limit on editorial closure](./images/c02-05-07-date-source-reply.jpg)
+
+![The posted discussion records the fact that the start date remains to be confirmed](./images/c02-05-08-date-reply-posted.jpg)
+
+Only after checking the retained wording, choose **Mark as resolved and hide discussion**. This closes the editorial question and does not approve the start date.
+
+![Resolving the wording discussion leaves the project decision unresolved](./images/c02-05-09-date-editorial-resolved.jpg)
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -50,13 +75,23 @@ The comment discussion records a reason for the decision. Resolving it did not a
 
 </details>
 
-<!-- VERIFY: execute 5.2 in the target account and reconcile control names. Capture images/c02-05-02.jpg only from the real app. -->
+<!-- CAPTURED: author reference route; independent learner/partner validation pending. -->
 
 ## 5.3 Keep a Review Milestone
 
-1. Return to Editing. Open File, Version history, Name current version.
-2. Name it `Procedure reviewed against project facts`. Open version history and verify the name.
-3. Inspect a prior version without restoring it over the current work. Return using Back.
+1. Return to **Editing**. Choose **File**, **Version history**, **Name current version**.
+
+![File > Version history offers Name current version and See version history](./images/c02-05-10-version-menu.jpg)
+
+2. Enter `Procedure reviewed against project facts`, then choose **Save**. Use **See version history**, or the last-edit indicator, and verify that the saved name appears.
+
+![The milestone name is entered before saving](./images/c02-05-11-milestone-name.jpg)
+
+![Version history displays the saved review milestone](./images/c02-05-12-named-history.jpg)
+
+3. Select an older version to inspect it. Leave **Restore this version** unused. Choose **Back** at the top left to return to the current document.
+
+![An older version is inspected with Restore this version left unused](./images/c02-05-13-prior-version-inspection.jpg)
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -65,23 +100,77 @@ A named milestone is present and the current checked wording remains intact.
 
 </details>
 
-<!-- VERIFY: execute 5.3 in the target account and reconcile control names. Capture images/c02-05-03.jpg only from the real app. -->
+<!-- CAPTURED: author reference route; independent learner/partner validation pending. -->
 
 ## 5.4 Run a Controlled Editorial Review
 
+**Reference-run result:** the four requests have accept/reject/defer or verified-no-change decisions. The comparison used the documented manual fallback after the native picker remained blank.
+
 1. Create a **Review Log** with Change request, Evidence, Accept/reject/defer and Reason. Use all four requests from the card.
 
-2. Name the current baseline version before applying any review edits. Record its name and the source fact sheet used.
+2. Name the current version `Procedure editorial review - baseline` before applying the controlled-review edits. Record that name and `project-fact-sheet.txt`, with the checked brief and reporting guidance as supporting inputs.
 
-3. Apply the clarity request in **Suggesting** mode and accept it after checking meaning. Make the approval request as a separate suggestion and reject it with a factual reason.
+![Name current version is used to save the pre-edit baseline](./images/c02-05-15-editorial-baseline-name.jpg)
 
-4. For the new contact request, add a comment explaining that the responsible role needs confirmation rather than inserting a fictional operational contact.
+3. In **Suggesting**, split the long missing-owner instruction into the two sentences on the copy-paste page. Confirm all source facts remain, then accept.
 
-5. Use the source to answer the Friday-cadence comment. Resolve only the editorial question if the wording is corrected; the underlying budget/date questions remain open.
+![The missing-owner instruction is a pending two-sentence replacement](./images/c02-05-16-controlled-clarity-pending.jpg)
 
-6. Make a separate comparison copy containing one accepted and one rejected proposed sentence. If **Tools**, **Compare documents** is available, compare it with the baseline and inspect the generated suggestions; otherwise compare side by side and log that fallback.
+![The accepted wording preserves the task ID, recorded status, clarification and exception note](./images/c02-05-17-controlled-clarity-accepted.jpg)
 
-7. Name the checked working version and record which changes are editorial improvements and which require project evidence. Inspect version history without overwriting the current document.
+Make the budget approval request as a separate suggestion. Post the source-based rejection reason in its reply, confirm the reply appears, then reject the suggestion.
+
+![A posted source-based reply explains why the approval suggestion must be rejected](./images/c02-05-18-budget-rejection-reason.jpg)
+
+![The maintained procedure retains proposed wording after rejection](./images/c02-05-19-controlled-budget-rejected.jpg)
+
+4. Select the unresolved routing sentence and add the missing-contact comment from the copy-paste page. Ask for the responsible role and authorised contact to be confirmed. Keep this comment **open**; no contact is supplied by the sources.
+
+![The missing-contact question remains open and asks for role confirmation](./images/c02-05-20-contact-deferred-open.jpg)
+
+5. On **The fact sheet requires Friday reporting.**, post the cadence question, then reply from the source. The reference sentence already matches, so record **no change**. Resolve only that editorial check; budget, start date and routing questions remain open.
+
+![A separate editorial comment asks whether Friday matches the fact sheet](./images/c02-05-21-friday-question-posted.jpg)
+
+![The posted reply confirms Friday and records a reasoned no-change decision](./images/c02-05-22-friday-source-reply.jpg)
+
+![Resolving the cadence discussion retains the correct Friday sentence](./images/c02-05-23-friday-editorial-resolved.jpg)
+
+6. Use **File**, **Make a copy** to create `GW - Reporting Procedure - Review Comparison` from the checked working text. Do not copy sharing permissions or comments. This input already contains the accepted clarity split. Change the budget sentence to the deliberately incorrect approval proposal **only in this comparison input**.
+
+![The comparison input is a separate named copy with sharing and comment-copy boxes unchecked](./images/c02-05-24-review-comparison-copy.jpg)
+
+![Only the comparison input contains the deliberately unsupported approval proposal](./images/c02-05-27-comparison-only-approval-proposal.jpg)
+
+For an exact pre-edit reference, open the maintained document’s version history, select `Procedure editorial review - baseline`, then use its **More actions**, **Make a copy**. Name it `GW - Reporting Procedure - Editorial Baseline`; leave sharing unchecked. Do not restore the old version over the working document.
+
+![The named pre-edit baseline is inspected without using Restore this version](./images/c02-05-25-baseline-history-selected.jpg)
+
+![Make a copy from version history preserves the historical baseline separately](./images/c02-05-26-baseline-version-copy.jpg)
+
+On the baseline copy, choose **Tools**, **Compare documents**, select the comparison input and inspect any generated suggestions. In the reference run, the file picker stayed blank, so no report was generated. If the command or picker is unavailable, inspect the two documents manually and record that fallback; the reference author switched between their open tabs.
+
+![Tools includes the native Compare documents command](./images/c02-05-28-tools-compare-command.jpg)
+
+Check the long instruction against the two-sentence version, then check proposed versus approved budget wording. Record why the clarity split is acceptable and the approval claim is not. Treat review metadata as metadata.
+
+![The historical baseline retains the original long missing-owner instruction](./images/c02-05-30-baseline-original-clarity.jpg)
+
+![The comparison input contains the accepted two-instruction version](./images/c02-05-31-comparison-accepted-clarity.jpg)
+
+![The baseline copy preserves proposed budget wording and the unresolved start date](./images/c02-05-32-baseline-proposed-budget.jpg)
+
+7. Return to the maintained **Working** document. Complete all four Review Log decisions with evidence and reasons. Record the comparison method, its two findings and the remaining uncertainties. Keep the missing-contact comment open.
+
+![The completed Review Log records accept, reject, defer and verified-no-change decisions](./images/c02-05-33-four-review-decisions.jpg)
+
+![The comparison record documents the blank picker, manual checks and preserved uncertainties](./images/c02-05-34-manual-comparison-record.jpg)
+
+Name the working milestone `Procedure editorial review - checked`. Inspect both baseline and checked entries in history, then use **Back** to return without restoring a version.
+
+![The checked working milestone is named after the four decisions are recorded](./images/c02-05-35-checked-milestone-name.jpg)
+
+![History contains both the baseline and checked milestones; no old version is restored](./images/c02-05-36-baseline-and-checked-history.jpg)
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -90,7 +179,7 @@ Four reasoned review decisions and visible suggestion/comment handling. The resu
 
 </details>
 
-<!-- VERIFY: execute expanded section 5.4 and independent challenge; capture images/c02-05-04.jpg only after real application success. -->
+<!-- CAPTURED: 5.4 core with manual comparison fallback; native comparison output, partner review, independent challenge and learner pilot remain unverified. -->
 
 ## Independent Challenge
 

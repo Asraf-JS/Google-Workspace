@@ -125,9 +125,11 @@
         "title": "Prepare a Professional Page Layout",
         "minutes": 50,
         "slug": "04-page-layout",
-        "status": "expanded-draft-unexecuted",
+        "status": "reference-run-captured-learner-pilot-pending",
         "timing_status": "target-awaiting-pilot",
-        "active_minutes": 40
+        "active_minutes": 40,
+        "capture_count": 35,
+        "capture_scope": "Core 4.1-4.4; Pages/Pageless comparison, 28-cell table, six native numbered items and nine-page PDF repairs; independent escalation challenge pending"
       },
       {
         "number": 5,
@@ -135,9 +137,11 @@
         "title": "Review and Collaborate",
         "minutes": 55,
         "slug": "05-review-collaboration",
-        "status": "expanded-draft-unexecuted",
+        "status": "reference-run-captured-learner-pilot-pending",
         "timing_status": "target-awaiting-pilot",
-        "active_minutes": 45
+        "active_minutes": 45,
+        "capture_count": 34,
+        "capture_scope": "5.1-5.4 core; manual comparison after blank native picker. Open contact question. Partner/learner checks and generated comparison output unverified."
       },
       {
         "number": 6,
