@@ -258,3 +258,18 @@ These three early workspace images need recapture for a wider view:
 | [c02-05-34-manual-comparison-record.jpg](../../02-google-docs/05-review-collaboration/images/c02-05-34-manual-comparison-record.jpg) | [PNG](full/02-google-docs/05-review-collaboration/c02-05-34-manual-comparison-record.png) | 1591 x 868 | application-window |
 | [c02-05-35-checked-milestone-name.jpg](../../02-google-docs/05-review-collaboration/images/c02-05-35-checked-milestone-name.jpg) | [PNG](full/02-google-docs/05-review-collaboration/c02-05-35-checked-milestone-name.png) | 1591 x 868 | application-window |
 | [c02-05-36-baseline-and-checked-history.jpg](../../02-google-docs/05-review-collaboration/images/c02-05-36-baseline-and-checked-history.jpg) | [PNG](full/02-google-docs/05-review-collaboration/c02-05-36-baseline-and-checked-history.png) | 1591 x 868 | application-window |
+
+## Docs 6: Audience, Translation and Accessibility Stages
+
+Eight current-stage application-window sources were retained on 20 October 2026, at original 1591-pixel width with privacy masks. Raw originals remain private. Programme239 images; Docs130; retained sources236. Language review, partner retrieval, independent challenge and learner timing remain pending.
+
+| Lesson image | Full source | Dimensions | Kind |
+|---|---|---|---|
+| [c02-06-01-sponsor-panel-request.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-01-sponsor-panel-request.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-01-sponsor-panel-request.png) | 1591 x 920 | application-window |
+| [c02-06-04-sponsor-summary-complete.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-04-sponsor-summary-complete.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-04-sponsor-summary-complete.png) | 1591 x 920 | application-window |
+| [c02-06-06-malay-panel-draft.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-06-malay-panel-draft.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-06-malay-panel-draft.png) | 1591 x 868 | application-window |
+| [c02-06-07-malay-practice-inserted.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-07-malay-practice-inserted.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-07-malay-practice-inserted.png) | 1591 x 868 | application-window |
+| [c02-06-08-glossary-and-review-pending.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-08-glossary-and-review-pending.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-08-glossary-and-review-pending.png) | 1591 x 868 | application-window |
+| [c02-06-09-structure-and-descriptive-links.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-09-structure-and-descriptive-links.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-09-structure-and-descriptive-links.png) | 1591 x 920 | application-window |
+| [c02-06-14-complete-meaning-table.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-14-complete-meaning-table.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-14-complete-meaning-table.png) | 1591 x 920 | application-window |
+| [c02-06-17-final-analysis-clean-view.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-17-final-analysis-clean-view.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-17-final-analysis-clean-view.png) | 1591 x 920 | application-window |

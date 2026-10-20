@@ -8,7 +8,7 @@ In this chapter you will rewrite for an audience, check a translation against a 
 
 **Your result:** An audience-specific summary, reviewed translation practice and accessibility checks.
 
-> **Status:** expanded review draft, revision 0.4. Complete the casework and independent challenge as well as the guided steps. The expanded route, screenshots and timing have not yet been validated in the learner application.
+> **Status:** core sections 6.1-6.4 executed as an author reference run, with eight staged images and retained full-window sources. The 100-word sponsor summary, native numbered checklist and four-condition table were checked against source facts. Malay terminology received an author glossary check only. Competent language review, partner navigation, independent challenge and learner timing remain pending.
 
 ## What You Will Learn
 
@@ -24,9 +24,14 @@ Use the checked procedure and the [training glossary](../../shared/sample-files/
 
 ## 6.1 Adapt for the Sponsor
 
-1. Select a section and ask Gemini to propose a plain-English sponsor summary in the panel only.
+1. Select the complete purpose-and-scope paragraph. Open **Ask Gemini** and use the sponsor prompt on the copy-paste page. Request a proposal **in the panel only**; do not accept an automatic document edit.
+
+![The selected source and Gemini panel preserve the proposal and unresolved start](./images/c02-06-01-sponsor-panel-request.jpg)
+
 2. Keep the proposed budget and missing start date explicit. Compare all numbers and conditions with the source.
-3. Insert the checked summary under a new heading. If AI is unavailable, write the same summary manually.
+3. Insert the checked 100-word summary under **Sponsor Summary**. Put the heading on its own paragraph and apply **Heading 1**. Check the outline: larger text alone is insufficient. If AI is unavailable, write the summary manually and perform the same fact checks.
+
+![The checked 100-word sponsor summary sits under a real heading](./images/c02-06-04-sponsor-summary-complete.jpg)
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -35,13 +40,21 @@ The wording suits a sponsor while preserving the source facts.
 
 </details>
 
-<!-- VERIFY: execute 6.1 in the target account and reconcile control names. Capture images/c02-06-01.jpg only from the real app. -->
+<!-- CAPTURED: core author reference run; language review, partner and learner pilot pending. -->
 
 ## 6.2 Check Translation
 
-1. Make a separate practice copy before translating. Use the available translation tool or an approved AI request for a Malay version of the summary.
-2. Compare the translation with the supplied glossary, especially proposed, approved, budget ceiling and to be confirmed.
-3. Ask a competent language reviewer to check meaning before using the translated text outside training. Mark unresolved wording in your review notes.
+1. Before translating, use **File**, **Make a copy** and name it `GW - Reporting Procedure - Adaptation Practice`. Leave sharing and comment-copy boxes unchecked. Keep the English summary. Select it and use **Ask Gemini** with the glossary-constrained Malay prompt; a translation tool is an alternative.
+
+![The English source stays selected while Gemini drafts Malay in the panel](./images/c02-06-06-malay-panel-draft.jpg)
+
+2. Insert the Malay draft under its own **Heading 1** in the practice copy. Compare every condition with the English source and the supplied glossary. Record author edits and unresolved terms. The reference author clarified owner assignment and submission cut-off; those choices still require language review.
+
+![English and Malay remain together in the separate practice copy](./images/c02-06-07-malay-practice-inserted.jpg)
+
+3. Record **Language-review status: PENDING** unless a competent reviewer has actually checked the text. Keep the author glossary check separate from that review. A reviewer must check full-sentence meaning and terminology before external use; no reviewer was assigned in this reference run.
+
+![The author flags wording choices and the pending competent language review](./images/c02-06-08-glossary-and-review-pending.jpg)
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -50,13 +63,15 @@ The practice copy keeps its original meaning. A generated translation is not tre
 
 </details>
 
-<!-- VERIFY: execute 6.2 in the target account and reconcile control names. Capture images/c02-06-02.jpg only from the real app. -->
+<!-- CAPTURED: core author reference run; language review, partner and learner pilot pending. -->
 
 ## 6.3 Inspect Accessibility
 
 1. Use heading styles to inspect structure. Check link text describes the destination rather than saying click here.
 2. If your document has an image, open its alternative-text control and describe the information it conveys.
-3. Check text contrast, readable size and whether any instruction relies only on colour. Inspect the outline and keyboard navigation.
+3. Inspect contrast, readable size and instructions that rely only on colour. In the reference document, body text was black at 11 pt, links were underlined, and status rules used text. Use the outline and keyboard **Find** to locate the missing-owner rule. Record what you actually tested; this is a limited author check. No instructional image existed, so image alternative-text editing was not applicable.
+
+![The outline and quick links describe the exception route](./images/c02-06-09-structure-and-descriptive-links.jpg)
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -65,23 +80,27 @@ The document can be followed through structure and text, with meaningful image d
 
 </details>
 
-<!-- VERIFY: execute 6.3 in the target account and reconcile control names. Capture images/c02-06-03.jpg only from the real app. -->
+<!-- CAPTURED: core author reference run; language review, partner and learner pilot pending. -->
 
 ## 6.4 Adapt for Two Readers and Audit Meaning
 
-1. Write two separate versions of one procedure section: a 100-word sponsor summary and a numbered contributor checklist. Keep the same factual conditions in both.
+1. Retain the checked **100-word Sponsor Summary**. Add **Contributor Checklist** as Heading 1, then add the seven actions from the copy-paste page. Select only those action paragraphs and apply the native **Numbered list** control. Preserve proposed budget, unconfirmed start, Friday cadence and missing-owner handling in both versions.
 
-2. Create a meaning-check table for budget status, date uncertainty, reporting cadence and missing-information handling. Quote the corresponding phrase in each version.
+2. Add **Meaning Audit** as Heading 1 and a short adjacent description of what the table shows. Use **Insert**, **Table** to create **3 columns by 5 rows**. Label the columns Source condition, Sponsor phrase and Contributor phrase. Add the four conditions and quote the corresponding wording from each version. Read the labels and text rather than colour.
+
+![A native table quotes both versions for all four source conditions](./images/c02-06-14-complete-meaning-table.jpg)
 
 3. Use the supplied glossary to produce or review a Malay practice summary. Mark language-review status explicitly and keep the English source alongside it.
 
 4. Inspect the deliberately flawed adaptation on the card. Explain why approved and scheduled change meaning even if the prose reads smoothly.
 
-5. Replace vague link text in the working procedure with descriptive labels. Check heading hierarchy and ensure no instruction depends on red/green alone.
+5. Inspect link labels before changing them. Replace a vague label if found; otherwise record source-supported no change. The reference document already used descriptive quick links. Repair any new audience/audit section that lacks a real heading style, then confirm it appears in the outline. Do not rely on red/green alone.
 
 6. For an informative visual or table, write a short text description of what a reader needs to understand. If you use an image, set meaningful alternative text; if no image exists, describe the table in adjacent text.
 
-7. Ask a partner to locate and explain the exception route using headings and links. Record the observed barrier and repair it. Do not claim a full accessibility certification from this limited check.
+7. If an assigned partner is available, ask them to locate and explain the exception route using headings and links; record the observed barrier and repair. Otherwise mark **partner test pending**. The reference author checked the outline and keyboard Find, repaired heading styles and recorded the limited scope; no partner test or accessibility certification is claimed.
+
+![The final record explains factual defects, checks and pending tests](./images/c02-06-17-final-analysis-clean-view.jpg)
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -90,7 +109,7 @@ Two audience versions with a four-invariant meaning audit. The result must be su
 
 </details>
 
-<!-- VERIFY: execute expanded section 6.4 and independent challenge; capture images/c02-06-04.jpg only after real application success. -->
+<!-- CAPTURED: 6.4 author casework; partner test and independent challenge remain pending. -->
 
 ## Independent Challenge
 

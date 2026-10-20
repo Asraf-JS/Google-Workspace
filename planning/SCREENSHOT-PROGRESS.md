@@ -1,6 +1,6 @@
 # Screenshot Progress
 
-Updated 19 October 2026. Screenshots are real application captures, cropped or masked for privacy, and placed at the matching stage. Later formulas, charts, tables, comments and records are absent from earlier images.
+Updated 20 October 2026. Screenshots are real application captures, cropped or masked for privacy, and placed at the matching stage. Later formulas, charts, tables, comments and records are absent from earlier images.
 
 | Masterclass lab | Approved captures | Reference scope and remaining checks |
 |---|---:|---|
@@ -11,7 +11,7 @@ Updated 19 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 231 captures: 109 masterclass and 122 Docs captures. Five specialist routes have captured core reference runs; 39 specialist routes remain uncaptured. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 239 captures: 109 masterclass and 130 Docs captures. Six specialist routes have captured core reference runs; 38 specialist routes remain uncaptured. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -36,3 +36,7 @@ Thirteen new images cover sections 5.1-5.3: accept/reject suggestions, a source-
 ## Docs Controlled Review Completed: 19 October 2026
 
 Lab 5 now has 34 staged images, adding 21 after browser control recovered. Four source-based decisions, an open contact comment, closed Friday editorial check, baseline/checked milestones and manual comparison are verified. Native Compare documents was available, but its picker remained blank: no generated report/suggestions were verified. Separate comparison and historical-baseline copies were retained without sharing. Current totals: programme 231, Docs 122, retained sources 228. Partner review, independent challenge and learner pilots remain pending.
+
+### 20 October 2026: Docs 6
+
+Eight staged images cover the panel proposal, checked 100-word summary, Malay practice, pending language-review status, descriptive links, native meaning table and final analysis. Full masked sources retained at original dimensions. Lab6 core author route executed; language reviewer, partner navigation, independent challenge and learner timing remain pending. Current totals: programme239, Docs130, sources236.
