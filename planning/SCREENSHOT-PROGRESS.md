@@ -11,7 +11,7 @@ Updated 20 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 239 captures: 109 masterclass and 130 Docs captures. Six specialist routes have captured core reference runs; 38 specialist routes remain uncaptured. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 256 captures: 109 masterclass and 147 Docs captures. Seven specialist routes have captured author reference runs; 37 specialist routes remain uncaptured. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -40,3 +40,7 @@ Lab 5 now has 34 staged images, adding 21 after browser control recovered. Four 
 ### 20 October 2026: Docs 6
 
 Eight staged images cover the panel proposal, checked 100-word summary, Malay practice, pending language-review status, descriptive links, native meaning table and final analysis. Full masked sources retained at original dimensions. Lab6 core author route executed; language reviewer, partner navigation, independent challenge and learner timing remain pending. Current totals: programme239, Docs130, sources236.
+
+### 20 October 2026: Docs 7
+
+Seventeen new stages: fifteen full application windows and two native-export PDF page renders. Word/PDF exports, current/all-tab scopes, connected-Drive native round trip, generated comparison, source instruction revision and repaired appendix numbering are recorded. Main/complete PDFs: r1=12/13 pages; r2=13/14. Clean release DOCX files have no comment metadata/tracked text; initial Working DOCX retains its open review comment. Browser upload, interactive PDF viewing, Word desktop rendering, independent challenge and learner timing remain pending. Current totals256 images, Docs147, retained sources253.

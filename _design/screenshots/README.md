@@ -273,3 +273,27 @@ Eight current-stage application-window sources were retained on 20 October 2026,
 | [c02-06-09-structure-and-descriptive-links.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-09-structure-and-descriptive-links.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-09-structure-and-descriptive-links.png) | 1591 x 920 | application-window |
 | [c02-06-14-complete-meaning-table.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-14-complete-meaning-table.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-14-complete-meaning-table.png) | 1591 x 920 | application-window |
 | [c02-06-17-final-analysis-clean-view.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-17-final-analysis-clean-view.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-17-final-analysis-clean-view.png) | 1591 x 920 | application-window |
+
+## Docs 7: Export and Round Trip Stages
+
+Seventeen sources retained on20October2026: fifteen original-size application windows and two offline native-export PDF page renders. PDF renders are labelled separately; they are not browser screenshots. Source library253; programme256; Docs147.
+
+| Lesson image | Full source | Dimensions | Kind |
+|---|---|---|---|
+| [c02-07-01-download-formats.jpg](../../02-google-docs/07-export-check/images/c02-07-01-download-formats.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-01-download-formats.png) | 1591 x 920 | application-window |
+| [c02-07-02-release-copy-excludes-comments.jpg](../../02-google-docs/07-export-check/images/c02-07-02-release-copy-excludes-comments.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-02-release-copy-excludes-comments.png) | 1591 x 920 | application-window |
+| [c02-07-04-examples-tab-scope-marker.jpg](../../02-google-docs/07-export-check/images/c02-07-04-examples-tab-scope-marker.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-04-examples-tab-scope-marker.png) | 1591 x 868 | application-window |
+| [c02-07-06-current-tab-export-scope.jpg](../../02-google-docs/07-export-check/images/c02-07-06-current-tab-export-scope.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-06-current-tab-export-scope.png) | 1591 x 868 | application-window |
+| [c02-07-07-all-tabs-complete-scope.jpg](../../02-google-docs/07-export-check/images/c02-07-07-all-tabs-complete-scope.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-07-all-tabs-complete-scope.png) | 1591 x 868 | application-window |
+| [c02-07-08-word-all-tabs-scope.jpg](../../02-google-docs/07-export-check/images/c02-07-08-word-all-tabs-scope.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-08-word-all-tabs-scope.png) | 1591 x 868 | application-window |
+| [c02-07-09-round-trip-heading-and-links.jpg](../../02-google-docs/07-export-check/images/c02-07-09-round-trip-heading-and-links.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-09-round-trip-heading-and-links.png) | 1591 x 868 | application-window |
+| [c02-07-10-round-trip-status-link-destination.jpg](../../02-google-docs/07-export-check/images/c02-07-10-round-trip-status-link-destination.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-10-round-trip-status-link-destination.png) | 1591 x 868 | application-window |
+| [c02-07-11-round-trip-missing-owner-destination.jpg](../../02-google-docs/07-export-check/images/c02-07-11-round-trip-missing-owner-destination.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-11-round-trip-missing-owner-destination.png) | 1591 x 868 | application-window |
+| [c02-07-13-round-trip-contents-destination.jpg](../../02-google-docs/07-export-check/images/c02-07-13-round-trip-contents-destination.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-13-round-trip-contents-destination.png) | 1591 x 868 | application-window |
+| [c02-07-16-native-comparison-format-flags.jpg](../../02-google-docs/07-export-check/images/c02-07-16-native-comparison-format-flags.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-16-native-comparison-format-flags.png) | 1591 x 868 | application-window |
+| [c02-07-17-examples-numbering-repaired.jpg](../../02-google-docs/07-export-check/images/c02-07-17-examples-numbering-repaired.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-17-examples-numbering-repaired.png) | 1591 x 868 | application-window |
+| [c02-07-19-r2-procedure-instruction-checked.jpg](../../02-google-docs/07-export-check/images/c02-07-19-r2-procedure-instruction-checked.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-19-r2-procedure-instruction-checked.png) | 1591 x 868 | application-window |
+| [c02-07-21-r2-source-record-clean.jpg](../../02-google-docs/07-export-check/images/c02-07-21-r2-source-record-clean.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-21-r2-source-record-clean.png) | 1591 x 868 | application-window |
+| [c02-07-22-release-r2-name.jpg](../../02-google-docs/07-export-check/images/c02-07-22-release-r2-name.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-22-release-r2-name.png) | 1591 x 868 | application-window |
+| [c02-07-23-initial-pdf-reader-copy.jpg](../../02-google-docs/07-export-check/images/c02-07-23-initial-pdf-reader-copy.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-23-initial-pdf-reader-copy.png) | 656 x 927 | pdf-page |
+| [c02-07-24-r2-pdf-numbered-examples.jpg](../../02-google-docs/07-export-check/images/c02-07-24-r2-pdf-numbered-examples.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-24-r2-pdf-numbered-examples.png) | 656 x 927 | pdf-page |
