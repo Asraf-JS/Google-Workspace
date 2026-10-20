@@ -8108,7 +8108,7 @@
         20,
         175,
         1545,
-        870
+        868
       ],
       "privacy_masks": [
         [
@@ -8277,6 +8277,462 @@
       "sha256": "94d279f5c2111d6313bffb7cda1d971480501a855eace80f8c4445b3e278ee71",
       "notes": [
         "Offline native-export page render; browser local-file URL was blocked."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-01-owner-clarification-subsection.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-01-owner-clarification-subsection.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        370,
+        1035,
+        550
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "f25cac8e7f8e346234bb59e5d8f8daa80c588fe1716b07f41cb9e9b010deeab6",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-02-opening-owner-clarification-link.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-02-opening-owner-clarification-link.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        430,
+        1035,
+        500
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ],
+        [
+          1130,
+          355,
+          1175,
+          410
+        ]
+      ],
+      "sha256": "aebfe76b5840d47f389a217a76b8c80d3980f8da40e816f405da4f042af0d6e2",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-03-contents-refreshed.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-03-contents-refreshed.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        300,
+        425,
+        1040,
+        875
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ],
+        [
+          1130,
+          355,
+          1175,
+          410
+        ]
+      ],
+      "sha256": "dbf0bb435ddb816fcdc0a6c07e6d8a7b0aa64fa81fd6b66d04bf0dbb38a794fd",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-04-opening-link-reaches-owner-route.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-04-opening-link-reaches-owner-route.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        155,
+        1035,
+        340
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "dd49defcd02d36517f48049967d3b9d1c4997a8c27ccd55b8317761921a23087",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-05-core-review-and-handover-record.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-05-core-review-and-handover-record.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        300,
+        1035,
+        715
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "af0b22944d22921f35b4c88889895a1cd53167024f5f48b41dd075903cf83884",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-06-procedure-challenge-checked-version.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-06-procedure-challenge-checked-version.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        570,
+        305,
+        1025,
+        620
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "52a97c7537ab8a10808ce8a5453424dfe61eeecc305c3b9ac6e15594c45b313d",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-07-capstone-copy-private.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-07-capstone-copy-private.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        550,
+        205,
+        1050,
+        730
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "8d10b22da8b58915b11762fb103de769850a2a7fd837219cc28f0ed50e4ddb01",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-08-impact-list-before-route-edits.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-08-impact-list-before-route-edits.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        145,
+        1035,
+        495
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "7a8af2e36feb38a773380b11e07e9a597065f249d2e3a4fe1316a81a387bd0d4",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-09-three-case-escalation-route.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-09-three-case-escalation-route.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        175,
+        1035,
+        715
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "e312bcb0e18e10e1a32a8ab8044f860be12a1ef01937ea2fede8c4eb76395a25",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-10-proposed-review-checklist.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-10-proposed-review-checklist.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        385,
+        1035,
+        605
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "dc324c586f635ea2e9d666a1de1e8942b713e47261f8310cb2b593107e48a488",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-12-two-audience-versions-checked.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-12-two-audience-versions-checked.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        205,
+        1035,
+        700
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "4cc00a4d0cf4ba079388673a7b5b10a250907e6d0195e8b592c69cf231864783",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-13-three-case-author-walkthrough.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-13-three-case-author-walkthrough.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        205,
+        1035,
+        840
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "92830bf287b91e7a61e28a60958fe056db576b0e5d561549a15f41888b6dcc01",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-15-contents-link-reaches-escalation.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-15-contents-link-reaches-escalation.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        175,
+        1035,
+        715
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "c9749d4564550f3af2755b040d7df105ab76ec8337ee8d08cc922ab3a9f2f5ff",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-16-reader-test-explicitly-pending.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-16-reader-test-explicitly-pending.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        145,
+        1035,
+        725
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "18c5055122b0bd0e264d5284d0bbbb424011c01c735afb23782237e51dc279ad",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-17-capstone-opening-and-refreshed-contents.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-17-capstone-opening-and-refreshed-contents.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        125,
+        1035,
+        855
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "55c026dfda8edb31f7961750a5452bccbc03f18d104b1705f3d5a65b26c6ec19",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-18-procedure-capstone-checked-version.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-18-procedure-capstone-checked-version.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        570,
+        305,
+        1025,
+        620
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "e94c8ed0258f5c8e05f4b4515417317066704767af60211fbe41fddfc8e23c0e",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-19-core-pdf-layout-check.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-19-core-pdf-layout-check.png",
+      "dimensions": [
+        656,
+        927
+      ],
+      "kind": "pdf-page",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "0428523f01766f738ae0045b9e8c01df51762780d86560d82b52a37a76a299d8",
+      "notes": [
+        "Offline native-export page render; not an interactive PDF-viewer test."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-20-complete-pdf-reader-record.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-20-complete-pdf-reader-record.png",
+      "dimensions": [
+        656,
+        927
+      ],
+      "kind": "pdf-page",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "cd99cb8b22f2933f94f5d8719d8b72f99ca743b3ad4d1cc50cbf5cea68f516d8",
+      "notes": [
+        "Offline native-export page render; not an interactive PDF-viewer test."
       ]
     }
   },

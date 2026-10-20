@@ -1,6 +1,6 @@
 # Google Docs
 
-**Status:** review draft, revision 0.4. Labs 1-7 have 147 real stage images. Lab 5 includes a manual comparison fallback after the native picker stayed blank. Lab 8, partner review, independent challenges and classroom timings remain pending.
+**Status:** review draft, revision 0.4. Labs 1-8 have 165 real stage images. Lab 5 includes a manual comparison fallback after the native picker stayed blank. The capstone author route and complete export are recorded. Independent reader/partner review, independent challenges and classroom timings remain pending.
 
 **Duration:** 1 day. Each day has 390 teaching minutes, excluding lunch and breaks.
 
