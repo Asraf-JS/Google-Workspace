@@ -9406,6 +9406,391 @@
       "notes": [
         "Real current-stage Slides UI. Full original application window retained."
       ]
+    },
+    "03-google-slides/03-clear-layouts/images/c03-03-01-descriptive-purpose.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-01-descriptive-purpose.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "06c9d6d2b4b2dfe22ca663430707fb1564105828bf8ebf7d20be975a86a7568f",
+      "notes": [
+        "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
+      ]
+    },
+    "03-google-slides/03-clear-layouts/images/c03-03-02-teams-and-outputs.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-02-teams-and-outputs.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "beec5621c5a73b50f653d5570e555cfb4faf77e59e9cf3b9165206f8b1bacf37",
+      "notes": [
+        "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
+      ]
+    },
+    "03-google-slides/03-clear-layouts/images/c03-03-03-decision-conditions.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-03-decision-conditions.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "f4dddbe12e1c259d40edc8363376814063a8277aa92223fa264c0e80c4c27ca7",
+      "notes": [
+        "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
+      ]
+    },
+    "03-google-slides/03-clear-layouts/images/c03-03-04-align-placeholders-menu.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-04-align-placeholders-menu.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "e8794e6a02085045f832947ddba605bb6c1e6e48913415efa0d19f6f1983518c",
+      "notes": [
+        "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
+      ]
+    },
+    "03-google-slides/03-clear-layouts/images/c03-03-05-scope-source-notes.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-05-scope-source-notes.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "7ef94b438e6e84b123d9a22e33aea66b6e993b5d9a5f7bb015b1d6d16effc453",
+      "notes": [
+        "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
+      ]
+    },
+    "03-google-slides/03-clear-layouts/images/c03-03-06-evidence-title-and-notes.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-06-evidence-title-and-notes.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "3e22bb706f7a801671de0224d86b6a7fc6f2817d12b9f085d0370d99d0e2f025",
+      "notes": [
+        "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
+      ]
+    },
+    "03-google-slides/03-clear-layouts/images/c03-03-07-budget-title-and-notes.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-07-budget-title-and-notes.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "8f143fc7e4f6cacb26d1bf945bccbdc069619e21075c8da3e831b813061f2d28",
+      "notes": [
+        "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
+      ]
+    },
+    "03-google-slides/03-clear-layouts/images/c03-03-08-purpose-presentation-check.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-08-purpose-presentation-check.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "406453caa95e66f7f6555a7d5e7f617bfd11f848d121163c01138dc0b92c152f",
+      "notes": [
+        "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
+      ]
+    },
+    "03-google-slides/03-clear-layouts/images/c03-03-09-risk-presentation-check.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-09-risk-presentation-check.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "1136a31af019363d799ee06394424340acbb7b93c2831928c89f2471d599ad49",
+      "notes": [
+        "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
+      ]
+    },
+    "03-google-slides/03-clear-layouts/images/c03-03-10-decisions-presentation-check.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-10-decisions-presentation-check.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "30319f93f09357d547497f56f76a1ba8c6ecd5de90d6faf97d6039975e2ac040",
+      "notes": [
+        "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
+      ]
+    },
+    "03-google-slides/03-clear-layouts/images/c03-03-11-next-steps-presentation-check.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-11-next-steps-presentation-check.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "d57938d6454643a3baecec1cd8039e73e99c49b1fe83a985bbf5ca6bfef6d447",
+      "notes": [
+        "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
+      ]
+    },
+    "03-google-slides/03-clear-layouts/images/c03-03-12-dense-draft-preserved.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-12-dense-draft-preserved.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "053cfe0d32ad4de653492c2fd1e1a7d01843d8e27dd30e66bdba1effd6684590",
+      "notes": [
+        "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
+      ]
+    },
+    "03-google-slides/03-clear-layouts/images/c03-03-13-three-point-redesign.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-13-three-point-redesign.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "9ec4d352808ab2364947745fb4a56879e71d468d51e2d1ac37e65d42f0b52941",
+      "notes": [
+        "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
+      ]
+    },
+    "03-google-slides/03-clear-layouts/images/c03-03-14-distribute-team-cards-menu.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-14-distribute-team-cards-menu.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "de4585df77630f9c29b8764c379e2a05b2265c87d34e7b5486f41b0f5934e578",
+      "notes": [
+        "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
+      ]
+    },
+    "03-google-slides/03-clear-layouts/images/c03-03-15-aligned-team-layout.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-15-aligned-team-layout.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "7b939a9acb9098b896298c31dff15646755452fd7b3b848b3bf3366537cca176",
+      "notes": [
+        "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
+      ]
+    },
+    "03-google-slides/03-clear-layouts/images/c03-03-16-proposed-output-diagram.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-16-proposed-output-diagram.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "021da398fd67b2b06a5665c7828130f3572c9370a6cd34f0d26a2d23d2f9f807",
+      "notes": [
+        "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
+      ]
+    },
+    "03-google-slides/03-clear-layouts/images/c03-03-17-dense-presentation-check.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-17-dense-presentation-check.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "b120a9db7e70c95674b31fb6ba8d39ab0fecde768d10b2eabac0b2e2b003df41",
+      "notes": [
+        "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
+      ]
+    },
+    "03-google-slides/03-clear-layouts/images/c03-03-18-redesign-presentation-check.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-18-redesign-presentation-check.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "44852ec7403559eab6e7d20098277b452988596f2759aee3e4482547103c26ef",
+      "notes": [
+        "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
+      ]
+    },
+    "03-google-slides/03-clear-layouts/images/c03-03-19-teams-presentation-check.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-19-teams-presentation-check.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "694de259b4eec16764cdb390091ccdf876536f0948cf061d632fdb1dff79985c",
+      "notes": [
+        "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
+      ]
+    },
+    "03-google-slides/03-clear-layouts/images/c03-03-20-outputs-presentation-check.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-20-outputs-presentation-check.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "50c2f5e9024e35f08963c068f6ccf591035461c2120d2ea464e38130d1420bee",
+      "notes": [
+        "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
+      ]
+    },
+    "03-google-slides/03-clear-layouts/images/c03-03-21-explanation-and-pending-review.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-21-explanation-and-pending-review.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "34d025da7918fc8cb18e35f2e29bcdd6e6f5402a0913fbbe852ef9e9959747a2",
+      "notes": [
+        "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
+      ]
     }
   },
   "missing_originals": [
