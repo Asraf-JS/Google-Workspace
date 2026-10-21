@@ -9,7 +9,7 @@
   ],
   "runningTitle": "Google Slides",
   "subtitle": "One-day course review draft",
-  "blurb": "Build and check practical workplace outputs with fictional project data. These notes and prompts are a written review draft awaiting full live lab validation.",
+  "blurb": "Plan and check a sponsor update using fictional project data. Lab 1 includes 15 real stages for its planning document and Gemini review. Remaining author routes and learner validation are pending.",
   "coverIcons": [
     "doc",
     "check",
@@ -71,5 +71,5 @@
       "exercises": "../../03-google-slides/08-deliver-update/prompts.md"
     }
   ],
-  "backCover": "A practical 1-day course with step-by-step draft labs, copy-ready prompts, fictional inputs and expected-result checks. Use the supplied practice pack. Full lab execution, screenshots and classroom timing validation remain required before participant release."
+  "backCover": "A one-day course review draft with substantial labs, copy-ready prompts, fictional inputs and evidence checks. Lab 1 has a captured author storyboard and checked planning output. Labs 2-8, spoken rehearsal, independent tasks, partner review and classroom timing still require validation."
 }

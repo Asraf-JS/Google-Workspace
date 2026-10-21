@@ -8734,6 +8734,384 @@
       "notes": [
         "Offline native-export page render; not an interactive PDF-viewer test."
       ]
+    },
+    "03-google-slides/01-story-plan/images/c03-01-01-sponsor-decision-and-conditions.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-01-sponsor-decision-and-conditions.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        465,
+        260,
+        1105,
+        705
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "984f25457507de9bb0c9282e049a20e8797d017bcdfefac8f5a4b3febef6d7ea",
+      "notes": [
+        "Real current-stage planning-Doc/Gemini application-window capture."
+      ]
+    },
+    "03-google-slides/01-story-plan/images/c03-01-02-human-six-slide-outline.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-02-human-six-slide-outline.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        465,
+        240,
+        1105,
+        645
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "9884e3c661c76dc698ad63f46eb16d4ba69631a75b994dc72159907358c09f7b",
+      "notes": [
+        "Real current-stage planning-Doc/Gemini application-window capture."
+      ]
+    },
+    "03-google-slides/01-story-plan/images/c03-01-03-grounded-outline-prompt.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-03-grounded-outline-prompt.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        1170,
+        600,
+        1570,
+        860
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "65618ad884b949e4ed200597443065062001dfc0bab7851777d7849046222903",
+      "notes": [
+        "Real current-stage planning-Doc/Gemini application-window capture."
+      ]
+    },
+    "03-google-slides/01-story-plan/images/c03-01-04-gemini-purpose-and-scope-proposal.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-04-gemini-purpose-and-scope-proposal.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        1170,
+        300,
+        1570,
+        705
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "03a6a78b8ea62996c1388435c13118624363478675efac76ed91c558e9f2f23c",
+      "notes": [
+        "Real current-stage planning-Doc/Gemini application-window capture."
+      ]
+    },
+    "03-google-slides/01-story-plan/images/c03-01-05-gemini-budget-and-decision-proposal.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-05-gemini-budget-and-decision-proposal.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        1170,
+        235,
+        1570,
+        750
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "a1a6376e7adcbcbdde5269cf973250617fd187e27e9f73b8e4d543589bcc46f2",
+      "notes": [
+        "Real current-stage planning-Doc/Gemini application-window capture."
+      ]
+    },
+    "03-google-slides/01-story-plan/images/c03-01-06-human-ai-comparison-and-revision.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-06-human-ai-comparison-and-revision.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        465,
+        240,
+        1105,
+        685
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "bb26878a88ff23b8512d159fe686cf7976aada16f0cd043b27a90b00ce55fa65",
+      "notes": [
+        "Real current-stage planning-Doc/Gemini application-window capture."
+      ]
+    },
+    "03-google-slides/01-story-plan/images/c03-01-07-outline-acceptance-and-pending-rehearsal.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-07-outline-acceptance-and-pending-rehearsal.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        465,
+        180,
+        1105,
+        475
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "b2206de0ca64328a47da26ad67778eb2075f98dfc16aba74d6822194776d1541",
+      "notes": [
+        "Real current-stage planning-Doc/Gemini application-window capture."
+      ]
+    },
+    "03-google-slides/01-story-plan/images/c03-01-08-six-row-evidence-storyboard.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-08-six-row-evidence-storyboard.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        385,
+        190,
+        1330,
+        795
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "51697330c114f97422c579b0eff4dee6f11048967c27276261d292f7f404212a",
+      "notes": [
+        "Real current-stage planning-Doc/Gemini application-window capture."
+      ]
+    },
+    "03-google-slides/01-story-plan/images/c03-01-09-open-decisions-and-task-inventory.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-09-open-decisions-and-task-inventory.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        385,
+        180,
+        1330,
+        550
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "d186a66d934f7a0c0accf09557ef69b34c3e01aa4438b867d9760995667a65aa",
+      "notes": [
+        "Real current-stage planning-Doc/Gemini application-window capture."
+      ]
+    },
+    "03-google-slides/01-story-plan/images/c03-01-10-stakeholder-claim-classification.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-10-stakeholder-claim-classification.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        385,
+        180,
+        1330,
+        435
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "5540694823107b3956e42a041d89ea2de77e2014bc525a485c35591e9f59a4cf",
+      "notes": [
+        "Real current-stage planning-Doc/Gemini application-window capture."
+      ]
+    },
+    "03-google-slides/01-story-plan/images/c03-01-11-opening-closing-and-timing-limit.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-11-opening-closing-and-timing-limit.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        385,
+        180,
+        1330,
+        550
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "2932320c0d8f62cbe77bf68e7dd78a357374e32c2bc2179d14ebfac298527890",
+      "notes": [
+        "Real current-stage planning-Doc/Gemini application-window capture."
+      ]
+    },
+    "03-google-slides/01-story-plan/images/c03-01-12-appendices-and-pending-partner-review.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-12-appendices-and-pending-partner-review.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        385,
+        180,
+        1330,
+        585
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "3d675f29d193524a52103e439d59b1bd5d2de651d1f7757aa240d93b301c30d0",
+      "notes": [
+        "Real current-stage planning-Doc/Gemini application-window capture."
+      ]
+    },
+    "03-google-slides/01-story-plan/images/c03-01-13-story-plan-checked-version.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-13-story-plan-checked-version.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        590,
+        330,
+        1000,
+        595
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "aaa7a3fc2188f3f5aaeed199ab4ec05687acde60f6336e4a91bc0a7bc60809fd",
+      "notes": [
+        "Real current-stage planning-Doc/Gemini application-window capture."
+      ]
+    },
+    "03-google-slides/01-story-plan/images/c03-01-14-checked-layout-repair-version.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-14-checked-layout-repair-version.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        590,
+        330,
+        1000,
+        595
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "fc0ced5c0f38ed1c24083b6168c94944d3b32e2a3265288e173196ffd4412604",
+      "notes": [
+        "Real current-stage planning-Doc/Gemini application-window capture."
+      ]
+    },
+    "03-google-slides/01-story-plan/images/c03-01-15-pdf-storyboard-layout-checked.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-15-pdf-storyboard-layout-checked.png",
+      "dimensions": [
+        927,
+        656
+      ],
+      "kind": "pdf-page",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "88fdb6ab28ecd8695ef20d709f88664786f92483feffa4240e04c384b1343f53",
+      "notes": [
+        "Offline native-export PDF page render; not an interactive PDF-viewer test."
+      ]
     }
   },
   "missing_originals": [
