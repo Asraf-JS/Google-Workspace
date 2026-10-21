@@ -11,7 +11,7 @@ Updated 21 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 274 captures: 109 masterclass and 165 Docs captures. Eight specialist routes have captured author reference runs; 36 specialist routes remain uncaptured. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 289 captures: 109 masterclass, 165 Docs and 15 Slides captures. Nine specialist routes have captured author reference runs; 35 specialist routes remain uncaptured. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -52,3 +52,7 @@ Seventeen new stages: fifteen full application windows and two native-export PDF
 ### 21 October 2026: Docs 8
 
 Eighteen new stages: sixteen full application windows and two offline native-export PDF page renders. All eight Docs author routes now have captures. Missing-owner instruction, repaired contents, source-backed handover, pre-edit impact list, three-case escalation route, audience consistency, author case table and complete16-page PDF recorded. Independent reviewer result is explicitly pending; no challenge or learner-pilot success claimed. Programme274 images, Docs165, retained sources271 (255application windows,6focused,10PDF pages). Remaining36 specialist routes: Slides8, Foundation8, Advanced12, AI8.
+
+### 21 October 2026: Slides 1
+
+Fifteen stages retained:14 full planning-Doc/Gemini application windows and1offlinePDFpage. Human six-part plan preceded a real bounded Gemini proposal; source mapping and narrative sequence were revised. Nine headings and native7x5storyboard verified. Supplied12-task workbook has4tasks per status and team; snapshot does not prove pilot success. Opening/closing125/63words; spoken times pending. Two appendices planned; partner/independent tasks pending. One blank PDF page repaired by removing an extra pagination rule; final8pages all inspected. Programme289; Slides15; retained sources286 (269app,6focused,11PDF).35specialist routes remain.

@@ -1,6 +1,6 @@
 # Google Slides
 
-**Status:** expanded written review draft, revision 0.4. Every chapter now includes casework, an independent challenge and evidence requirements. Full learner execution, screenshots and timing pilots remain required.
+**Status:** review draft, revision 0.4. Lab 1 has 15 staged author-reference images covering the story plan, real Gemini proposal, evidence storyboard and layout repair. Spoken rehearsal, partner review, independent challenges and learner timing remain pending. Labs 2-8 still need author walkthroughs and captures.
 
 **Duration:** 1 day. Each day has 390 teaching minutes, excluding lunch and breaks.
 
