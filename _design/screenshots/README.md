@@ -258,3 +258,67 @@ These three early workspace images need recapture for a wider view:
 | [c02-05-34-manual-comparison-record.jpg](../../02-google-docs/05-review-collaboration/images/c02-05-34-manual-comparison-record.jpg) | [PNG](full/02-google-docs/05-review-collaboration/c02-05-34-manual-comparison-record.png) | 1591 x 868 | application-window |
 | [c02-05-35-checked-milestone-name.jpg](../../02-google-docs/05-review-collaboration/images/c02-05-35-checked-milestone-name.jpg) | [PNG](full/02-google-docs/05-review-collaboration/c02-05-35-checked-milestone-name.png) | 1591 x 868 | application-window |
 | [c02-05-36-baseline-and-checked-history.jpg](../../02-google-docs/05-review-collaboration/images/c02-05-36-baseline-and-checked-history.jpg) | [PNG](full/02-google-docs/05-review-collaboration/c02-05-36-baseline-and-checked-history.png) | 1591 x 868 | application-window |
+
+## Docs 6: Audience, Translation and Accessibility Stages
+
+Eight current-stage application-window sources were retained on 20 October 2026, at original 1591-pixel width with privacy masks. Raw originals remain private. Programme239 images; Docs130; retained sources236. Language review, partner retrieval, independent challenge and learner timing remain pending.
+
+| Lesson image | Full source | Dimensions | Kind |
+|---|---|---|---|
+| [c02-06-01-sponsor-panel-request.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-01-sponsor-panel-request.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-01-sponsor-panel-request.png) | 1591 x 920 | application-window |
+| [c02-06-04-sponsor-summary-complete.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-04-sponsor-summary-complete.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-04-sponsor-summary-complete.png) | 1591 x 920 | application-window |
+| [c02-06-06-malay-panel-draft.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-06-malay-panel-draft.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-06-malay-panel-draft.png) | 1591 x 868 | application-window |
+| [c02-06-07-malay-practice-inserted.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-07-malay-practice-inserted.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-07-malay-practice-inserted.png) | 1591 x 868 | application-window |
+| [c02-06-08-glossary-and-review-pending.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-08-glossary-and-review-pending.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-08-glossary-and-review-pending.png) | 1591 x 868 | application-window |
+| [c02-06-09-structure-and-descriptive-links.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-09-structure-and-descriptive-links.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-09-structure-and-descriptive-links.png) | 1591 x 920 | application-window |
+| [c02-06-14-complete-meaning-table.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-14-complete-meaning-table.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-14-complete-meaning-table.png) | 1591 x 920 | application-window |
+| [c02-06-17-final-analysis-clean-view.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-17-final-analysis-clean-view.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-17-final-analysis-clean-view.png) | 1591 x 920 | application-window |
+
+## Docs 7: Export and Round Trip Stages
+
+Seventeen sources retained on20October2026: fifteen original-size application windows and two offline native-export PDF page renders. PDF renders are labelled separately; they are not browser screenshots. Source library253; programme256; Docs147.
+
+| Lesson image | Full source | Dimensions | Kind |
+|---|---|---|---|
+| [c02-07-01-download-formats.jpg](../../02-google-docs/07-export-check/images/c02-07-01-download-formats.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-01-download-formats.png) | 1591 x 920 | application-window |
+| [c02-07-02-release-copy-excludes-comments.jpg](../../02-google-docs/07-export-check/images/c02-07-02-release-copy-excludes-comments.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-02-release-copy-excludes-comments.png) | 1591 x 920 | application-window |
+| [c02-07-04-examples-tab-scope-marker.jpg](../../02-google-docs/07-export-check/images/c02-07-04-examples-tab-scope-marker.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-04-examples-tab-scope-marker.png) | 1591 x 868 | application-window |
+| [c02-07-06-current-tab-export-scope.jpg](../../02-google-docs/07-export-check/images/c02-07-06-current-tab-export-scope.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-06-current-tab-export-scope.png) | 1591 x 868 | application-window |
+| [c02-07-07-all-tabs-complete-scope.jpg](../../02-google-docs/07-export-check/images/c02-07-07-all-tabs-complete-scope.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-07-all-tabs-complete-scope.png) | 1591 x 868 | application-window |
+| [c02-07-08-word-all-tabs-scope.jpg](../../02-google-docs/07-export-check/images/c02-07-08-word-all-tabs-scope.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-08-word-all-tabs-scope.png) | 1591 x 868 | application-window |
+| [c02-07-09-round-trip-heading-and-links.jpg](../../02-google-docs/07-export-check/images/c02-07-09-round-trip-heading-and-links.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-09-round-trip-heading-and-links.png) | 1591 x 868 | application-window |
+| [c02-07-10-round-trip-status-link-destination.jpg](../../02-google-docs/07-export-check/images/c02-07-10-round-trip-status-link-destination.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-10-round-trip-status-link-destination.png) | 1591 x 868 | application-window |
+| [c02-07-11-round-trip-missing-owner-destination.jpg](../../02-google-docs/07-export-check/images/c02-07-11-round-trip-missing-owner-destination.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-11-round-trip-missing-owner-destination.png) | 1591 x 868 | application-window |
+| [c02-07-13-round-trip-contents-destination.jpg](../../02-google-docs/07-export-check/images/c02-07-13-round-trip-contents-destination.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-13-round-trip-contents-destination.png) | 1591 x 868 | application-window |
+| [c02-07-16-native-comparison-format-flags.jpg](../../02-google-docs/07-export-check/images/c02-07-16-native-comparison-format-flags.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-16-native-comparison-format-flags.png) | 1591 x 868 | application-window |
+| [c02-07-17-examples-numbering-repaired.jpg](../../02-google-docs/07-export-check/images/c02-07-17-examples-numbering-repaired.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-17-examples-numbering-repaired.png) | 1591 x 868 | application-window |
+| [c02-07-19-r2-procedure-instruction-checked.jpg](../../02-google-docs/07-export-check/images/c02-07-19-r2-procedure-instruction-checked.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-19-r2-procedure-instruction-checked.png) | 1591 x 868 | application-window |
+| [c02-07-21-r2-source-record-clean.jpg](../../02-google-docs/07-export-check/images/c02-07-21-r2-source-record-clean.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-21-r2-source-record-clean.png) | 1591 x 868 | application-window |
+| [c02-07-22-release-r2-name.jpg](../../02-google-docs/07-export-check/images/c02-07-22-release-r2-name.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-22-release-r2-name.png) | 1591 x 868 | application-window |
+| [c02-07-23-initial-pdf-reader-copy.jpg](../../02-google-docs/07-export-check/images/c02-07-23-initial-pdf-reader-copy.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-23-initial-pdf-reader-copy.png) | 656 x 927 | pdf-page |
+| [c02-07-24-r2-pdf-numbered-examples.jpg](../../02-google-docs/07-export-check/images/c02-07-24-r2-pdf-numbered-examples.jpg) | [PNG](full/02-google-docs/07-export-check/c02-07-24-r2-pdf-numbered-examples.png) | 656 x 927 | pdf-page |
+
+## Docs 8: Procedure Challenge Stages
+
+Eighteen sources retained on21October2026: sixteen original-size application windows and two offline native-export PDF page renders. The independent reader result remains pending. Source library271; programme274; Docs165.
+
+| Lesson image | Full source | Dimensions | Kind |
+|---|---|---|---|
+| [c02-08-01-owner-clarification-subsection.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-01-owner-clarification-subsection.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-01-owner-clarification-subsection.png) | 1591 x 920 | application-window |
+| [c02-08-02-opening-owner-clarification-link.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-02-opening-owner-clarification-link.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-02-opening-owner-clarification-link.png) | 1591 x 920 | application-window |
+| [c02-08-03-contents-refreshed.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-03-contents-refreshed.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-03-contents-refreshed.png) | 1591 x 920 | application-window |
+| [c02-08-04-opening-link-reaches-owner-route.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-04-opening-link-reaches-owner-route.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-04-opening-link-reaches-owner-route.png) | 1591 x 920 | application-window |
+| [c02-08-05-core-review-and-handover-record.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-05-core-review-and-handover-record.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-05-core-review-and-handover-record.png) | 1591 x 920 | application-window |
+| [c02-08-06-procedure-challenge-checked-version.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-06-procedure-challenge-checked-version.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-06-procedure-challenge-checked-version.png) | 1591 x 920 | application-window |
+| [c02-08-07-capstone-copy-private.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-07-capstone-copy-private.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-07-capstone-copy-private.png) | 1591 x 920 | application-window |
+| [c02-08-08-impact-list-before-route-edits.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-08-impact-list-before-route-edits.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-08-impact-list-before-route-edits.png) | 1591 x 868 | application-window |
+| [c02-08-09-three-case-escalation-route.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-09-three-case-escalation-route.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-09-three-case-escalation-route.png) | 1591 x 868 | application-window |
+| [c02-08-10-proposed-review-checklist.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-10-proposed-review-checklist.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-10-proposed-review-checklist.png) | 1591 x 868 | application-window |
+| [c02-08-12-two-audience-versions-checked.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-12-two-audience-versions-checked.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-12-two-audience-versions-checked.png) | 1591 x 868 | application-window |
+| [c02-08-13-three-case-author-walkthrough.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-13-three-case-author-walkthrough.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-13-three-case-author-walkthrough.png) | 1591 x 868 | application-window |
+| [c02-08-15-contents-link-reaches-escalation.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-15-contents-link-reaches-escalation.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-15-contents-link-reaches-escalation.png) | 1591 x 868 | application-window |
+| [c02-08-16-reader-test-explicitly-pending.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-16-reader-test-explicitly-pending.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-16-reader-test-explicitly-pending.png) | 1591 x 868 | application-window |
+| [c02-08-17-capstone-opening-and-refreshed-contents.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-17-capstone-opening-and-refreshed-contents.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-17-capstone-opening-and-refreshed-contents.png) | 1591 x 868 | application-window |
+| [c02-08-18-procedure-capstone-checked-version.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-18-procedure-capstone-checked-version.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-18-procedure-capstone-checked-version.png) | 1591 x 868 | application-window |
+| [c02-08-19-core-pdf-layout-check.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-19-core-pdf-layout-check.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-19-core-pdf-layout-check.png) | 656 x 927 | pdf-page |
+| [c02-08-20-complete-pdf-reader-record.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-20-complete-pdf-reader-record.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-20-complete-pdf-reader-record.png) | 656 x 927 | pdf-page |

@@ -9,7 +9,7 @@
   ],
   "runningTitle": "Google Docs",
   "subtitle": "One-day course review draft",
-  "blurb": "Build and check practical workplace outputs with fictional project data. Labs 1-5 include 122 real stage captures. Remaining routes and learner validation are pending.",
+  "blurb": "Build and check practical workplace outputs with fictional project data. Labs 1-8 include 165 real stage captures. Independent reader review, challenges and learner timing remain pending.",
   "coverIcons": [
     "doc",
     "check",
@@ -71,5 +71,5 @@
       "exercises": "../../02-google-docs/08-procedure-challenge/prompts.md"
     }
   ],
-  "backCover": "A practical one-day course with step-by-step draft labs, copy-ready prompts, fictional inputs and expected-result checks. Labs 1-5 have real reference captures, including a documented manual comparison fallback. Remaining labs, independent challenges and classroom timing validation are required before participant release."
+  "backCover": "A practical one-day course with step-by-step draft labs, copy-ready prompts, fictional inputs and expected-result checks. All eight Labs have author reference captures, including a three-case capstone and a checked complete export. Independent challenges, reader/partner and language review, interactive PDF checks and classroom timing validation remain required before participant release."
 }

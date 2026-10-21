@@ -8,7 +8,7 @@ In this chapter you will independently revise a section and demonstrate that its
 
 **Your result:** A revised procedure with tested navigation and a checked handover.
 
-> **Status:** expanded review draft, revision 0.4. Complete the casework and independent challenge as well as the guided steps. The expanded route, screenshots and timing have not yet been validated in the learner application.
+> **Status:** sections 8.1-8.3 and the author work in 8.4 have a real reference run with 18 staged images and retained sources. The three-case route, native links, 100-word summary and complete PDF were checked. Section 8.4 step 7 (independent reader), the Independent Challenge, interactive PDF navigation and classroom timing remain pending. Author walkthroughs do not establish independent learner success.
 
 ## What You Will Learn
 
@@ -24,73 +24,107 @@ Use the procedure and source facts. Close the earlier step-by-step instructions 
 
 ## 8.1 Revise the Procedure
 
-1. Add an instruction for a missing task owner: flag the gap and request clarification rather than inventing a person.
-2. Place it in a sensible section and apply the appropriate heading style.
-3. Add a link from the opening to that section.
+1. In the maintained **Working** document, add the supplied owner-clarification instruction under **Resolve Questions**, **Missing Information**. Preserve the task ID and recorded status, flag the missing owner, request clarification and keep an exception note. Never invent a person or contact.
+2. Apply **Heading 3** to `Request Owner Clarification`, beneath the existing Heading 2. Keep the request and task as drafts until routing is agreed; recheck the source after clarification.
+
+![Add the owner clarification instruction beneath its own Heading 3](./images/c02-08-01-owner-clarification-subsection.jpg)
+
+3. Add an opening link labelled `Draft an owner-clarification request`. Use **Insert link** and select the actual heading destination rather than typing a private document URL into the course notes.
+
+![Add an opening link to the new instruction](./images/c02-08-02-opening-owner-clarification-link.jpg)
 
 <details markdown="1">
 <summary>What should you see?</summary>
 
-The reader has a clear response to missing information without a fabricated assignment.
+A clear response to missing information, with no fabricated assignment or sent request.
 
 </details>
-
-<!-- VERIFY: execute 8.1 in the target account and reconcile control names. Capture images/c02-08-01.jpg only from the real app. -->
 
 ## 8.2 Run the Review
 
-1. Refresh the contents and test the new link.
-2. Check all monetary figures, approval conditions and references to the start date.
-3. Inspect the entire print layout and the sponsor summary. Fix a genuine issue before naming a new version.
+1. Click inside the native table of contents and choose **Update table of contents**. The reference review found that the contents also omitted earlier audience/audit headings; refreshing repaired that real issue.
+
+![Refresh the native contents to include current headings](./images/c02-08-03-contents-refreshed.jpg)
+
+2. Test the new opening link. It must reach **Request Owner Clarification**, not merely resemble a link. In the reference run, selecting the link and pressing **Alt+Enter** followed it.
+
+![Follow the opening link to Request Owner Clarification](./images/c02-08-04-opening-link-reaches-owner-route.jpg)
+
+3. Check all budget, approval and start-date references against `project-facts.txt` and `reporting-guidance.txt`. Retain **RM 12000 proposed ceiling**, **unagreed start**, **four weeks from the agreed start** and **every Friday**. Distinguish labelled flawed examples or rejected assertions from accepted facts; do not silently rewrite historical evidence.
+4. Inspect the entire print layout and sponsor summary. The reference core PDF had **11 pages**: all pages were rendered and visually reviewed offline, with no blank pages or text outside page bounds. The existing sponsor summary remained 100 words. This does not establish interactive PDF-link behaviour.
+
+![Inspect the core native-export PDF offline through its final page](./images/c02-08-19-core-pdf-layout-check.jpg)
 
 <details markdown="1">
 <summary>What should you see?</summary>
 
-The revised document remains navigable and faithful to the source.
+A navigable procedure that retains the source conditions, with the actual repair recorded.
 
 </details>
-
-<!-- VERIFY: execute 8.2 in the target account and reconcile control names. Capture images/c02-08-02.jpg only from the real app. -->
 
 ## 8.3 Demonstrate the Handover
 
-1. Name a version `Procedure challenge checked`.
-2. Show the new instruction, its source context and one review decision.
-3. Explain where the maintained source lives and which exported copy would need regenerating after a change.
+1. Add a **Challenge Review Record** showing the new instruction's source context, the contents repair and the decision to retain unresolved budget/date conditions. Keep the earlier contact-evidence question open; a tidy comment count is not evidence of resolution.
+
+![Record source context, a review decision and the maintained source versus snapshot](./images/c02-08-05-core-review-and-handover-record.jpg)
+
+2. Choose **File**, **Version history**, **Name current version** and save `Procedure challenge checked`.
+
+![Name the checked core revision](./images/c02-08-06-procedure-challenge-checked-version.jpg)
+
+3. Explain that **Working** is the maintained native source. PDF/Word files are dated snapshots and must be regenerated after source changes. The separate Lab 7 release scenario remains distinct; it is not replaced by this exercise.
 
 <details markdown="1">
 <summary>What should you see?</summary>
 
-Another person can follow the procedure and understand its outstanding decisions.
+A checked milestone and an honest handover that identifies the maintained source, snapshots and open decisions.
 
 </details>
-
-<!-- VERIFY: execute 8.3 in the target account and reconcile control names. Capture images/c02-08-03.jpg only from the real app. -->
 
 ## 8.4 Complete an Unfamiliar Revision and Reader Test
 
-1. Make a clearly named capstone copy and write a change-impact list before editing. Use the final procedure change brief on the card.
+1. Use **File**, **Make a copy** to create `GW - Reporting Procedure - Capstone Practice`. Leave sharing and comment copying unchecked. Write a **Capstone Change-Impact List** before editing: route, headings, contents, opening links, proposed checklist, audience wording, examples, export scope and reader evidence.
 
-2. Design the new escalation subsection with actions for missing owner, ambiguous status and absent approval evidence. Include what the contributor records and what remains unresolved.
+![Create the capstone practice copy without copying sharing or comments](./images/c02-08-07-capstone-copy-private.jpg)
 
-3. Add a proposed review checklist to the procedure and label it proposed practice. Do not invent a new company approval policy.
+![Write the change-impact list before editing the route](./images/c02-08-08-impact-list-before-route-edits.jpg)
 
-4. Integrate the new subsection into the heading hierarchy, contents and Quick Start navigation. Update any worked example affected by it.
+2. Under **Resolve Questions**, add Heading 2 **Escalation and Evidence Gaps**, with Heading 3 branches **Missing Owner**, **Unfamiliar Status** and **Approval Evidence Missing**. Give each branch an action, a record to retain and a condition that remains unresolved. Preserve an unfamiliar raw label; do not map it to Complete without evidence. Treat asserted approval without a decision reference as unsupported.
 
-5. Review the sponsor summary and decision questions for consistency with the new route. Preserve the original budget and date caveats.
+![Add distinct actions for missing owner, unfamiliar status and missing approval evidence](./images/c02-08-09-three-case-escalation-route.jpg)
 
-6. Name a checked revision and export the complete participant handout. Inspect navigation and page layout after conversion.
+3. Add Heading 3 **Proposed Review Checklist** with the six actions on the copy-paste page. Label this proposed training practice. Do not add a real recipient, deadline, approval policy or authority to spend.
 
-7. Give a reviewer the document and an unfamiliar test case. Ask them to follow the procedure without extra spoken instructions and record their decision path.
+![Label the six-action checklist proposed practice](./images/c02-08-10-proposed-review-checklist.jpg)
+
+4. Add the opening link `Review unresolved owner, status and approval evidence`, targeting the new Heading 2. Retain and retest the earlier owner-clarification link. Refresh the contents and follow its escalation entry. Both opening links and the contents destination were tested natively in the reference run.
+
+5. Update the sponsor summary, contributor checklist and open decision questions to match the route. The checked sponsor version is **100 words**. Keep the original budget/date caveats and the canonical T001 source example. Add a separate **Capstone Incoming-Report Examples** table for the three supplied scenarios, with columns **Case**, **Incoming report**, **Author route and recorded action**, **Unresolved / stop condition**.
+
+![Check the 100-word sponsor summary and contributor checklist against the new route](./images/c02-08-12-two-audience-versions-checked.jpg)
+
+![Record the three fictional incoming-report cases as author checks](./images/c02-08-13-three-case-author-walkthrough.jpg)
+
+![The refreshed contents entry reaches the escalation heading](./images/c02-08-15-contents-link-reaches-escalation.jpg)
+
+6. Add a **Reader-Test Status and Release Record**. Record the three author checks separately from an independent reader result. Name the checked revision `Procedure capstone checked`, export the complete single **Tab 1** including appendices to `Procedure-capstone-complete-r1.pdf`, and inspect every page. The reference PDF had **16 pages**. A page break kept the reader record together; an empty heading left by that break was changed to Normal text, the contents refreshed and the final PDF regenerated. Final readback confirmed **24 nonempty heading targets and seven native tables**. All final pages were rendered and visually inspected; no blank/out-of-page text was found. Native navigation was tested; interactive PDF navigation remains pending.
+
+![Name the checked capstone revision before its complete export](./images/c02-08-18-procedure-capstone-checked-version.jpg)
+
+![The complete 16-page capstone PDF retains the pending reader-test record](./images/c02-08-20-complete-pdf-reader-record.jpg)
+
+![Record author acceptance evidence and leave the independent reader test pending](./images/c02-08-16-reader-test-explicitly-pending.jpg)
+
+![The refreshed contents includes the new route and capstone records](./images/c02-08-17-capstone-opening-and-refreshed-contents.jpg)
+
+7. **Pending until an independent reviewer is assigned:** give that person the document and unfamiliar CASE-R1 card. Ask them to follow it without coaching and record their actual decision path, hesitation and result. The reference run prepared the card but contacted nobody. Do not fill this result with the author's own walkthrough.
 
 <details markdown="1">
 <summary>What should you see?</summary>
 
-Integrated three-case escalation route with working navigation. The result must be supported by the recorded checks; an attractive output or an AI assurance is insufficient.
+An integrated three-case route with tested native navigation and a checked complete export. Independent reader evidence remains visibly pending until it actually exists.
 
 </details>
-
-<!-- VERIFY: execute expanded section 8.4 and independent challenge; capture images/c02-08-04.jpg only after real application success. -->
 
 ## Independent Challenge
 

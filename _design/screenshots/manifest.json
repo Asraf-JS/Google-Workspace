@@ -7622,6 +7622,1118 @@
       "privacy_masks": [],
       "sha256": "cdbadb89774d052dde1067b34ada86de5eff349dada7fd6ad80f61657efca136",
       "notes": []
+    },
+    "02-google-docs/06-adapt-accessibility/images/c02-06-01-sponsor-panel-request.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-01-sponsor-panel-request.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        300,
+        110,
+        1575,
+        900
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "8f40c8bd9098cf61fbda313e0fc90ce724ccdf2132625c634c1dadc136b50ec4",
+      "notes": [
+        "Current-stage capture; raw unmasked original retained privately."
+      ]
+    },
+    "02-google-docs/06-adapt-accessibility/images/c02-06-04-sponsor-summary-complete.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-04-sponsor-summary-complete.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        350,
+        170,
+        1060,
+        385
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "0970311d4adf5d3af508d6e9217fcb7761385350a60c70a9ca2d15108cf53b2c",
+      "notes": [
+        "Current-stage capture; raw unmasked original retained privately."
+      ]
+    },
+    "02-google-docs/06-adapt-accessibility/images/c02-06-06-malay-panel-draft.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-06-malay-panel-draft.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        350,
+        280,
+        1570,
+        855
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "e067eb50cd6c2b1d6806e1237df659e2cf2ea63e5852160eb8bf83ee03a91259",
+      "notes": [
+        "Current-stage capture; raw unmasked original retained privately."
+      ]
+    },
+    "02-google-docs/06-adapt-accessibility/images/c02-06-07-malay-practice-inserted.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-07-malay-practice-inserted.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        440,
+        175,
+        1120,
+        805
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "2d94bd9b634d6ac2ddd26b558be9da61f6555386df02edd10399001ca1141294",
+      "notes": [
+        "Current-stage capture; raw unmasked original retained privately."
+      ]
+    },
+    "02-google-docs/06-adapt-accessibility/images/c02-06-08-glossary-and-review-pending.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-08-glossary-and-review-pending.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        440,
+        145,
+        1120,
+        250
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "2690220477494dc4c6e866fe2a44ad61214ad37ad69dd9f06a0c0defc863f278",
+      "notes": [
+        "Current-stage capture; raw unmasked original retained privately."
+      ]
+    },
+    "02-google-docs/06-adapt-accessibility/images/c02-06-09-structure-and-descriptive-links.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-09-structure-and-descriptive-links.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        20,
+        175,
+        1080,
+        830
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ],
+        [
+          1130,
+          450,
+          1175,
+          505
+        ]
+      ],
+      "sha256": "2535d32963052db8b71e7a46ebba7c86220a0cbddf1973174af088bc2256c065",
+      "notes": [
+        "Current-stage capture; raw unmasked original retained privately."
+      ]
+    },
+    "02-google-docs/06-adapt-accessibility/images/c02-06-14-complete-meaning-table.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-14-complete-meaning-table.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        350,
+        385,
+        1040,
+        790
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "415f79601776c5e409e0bfb0810d7ca135fc798c184ca867d6811df560656e8f",
+      "notes": [
+        "Current-stage capture; raw unmasked original retained privately."
+      ]
+    },
+    "02-google-docs/06-adapt-accessibility/images/c02-06-17-final-analysis-clean-view.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-17-final-analysis-clean-view.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        350,
+        250,
+        1060,
+        730
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "10f429657c570e1d2925dec0ebc472f2f74ce9d7db0ab1452bf7215bba131c39",
+      "notes": [
+        "Current-stage capture; raw unmasked original retained privately."
+      ]
+    },
+    "02-google-docs/07-export-check/images/c02-07-01-download-formats.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-01-download-formats.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        45,
+        45,
+        645,
+        520
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "bd3fa610846b1755f663254008bf8566659c4323c319541c936e472579fd08f2",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/07-export-check/images/c02-07-02-release-copy-excludes-comments.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-02-release-copy-excludes-comments.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        570,
+        210,
+        1025,
+        710
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "2cbd2f9df68799288c2c17f3967aa4859b43823744c302d962cc4b8a3ddd3ce2",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/07-export-check/images/c02-07-04-examples-tab-scope-marker.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-04-examples-tab-scope-marker.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        20,
+        175,
+        1140,
+        420
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "64e902d15a95129ac27f3b306337395cc8026ecad2c2c4fdaee24820510cc167",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/07-export-check/images/c02-07-06-current-tab-export-scope.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-06-current-tab-export-scope.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        590,
+        285,
+        1005,
+        590
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "8c6a6a9ce3f687d1a1c8e5272304d8d1e55b40ce34971958d81b7ddce8f86c85",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/07-export-check/images/c02-07-07-all-tabs-complete-scope.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-07-all-tabs-complete-scope.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        590,
+        285,
+        1005,
+        590
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "c2f7b0feb633acfecd302e52872db05583328a6611a44d97f6ed916e06758713",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/07-export-check/images/c02-07-08-word-all-tabs-scope.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-08-word-all-tabs-scope.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        590,
+        285,
+        1005,
+        590
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "ca9a9ab70204e6bb30a4f885e24d7f378d5918cd35e389600c22e0a36d31f061",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/07-export-check/images/c02-07-09-round-trip-heading-and-links.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-09-round-trip-heading-and-links.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        20,
+        175,
+        1150,
+        855
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "3a10151d6f8390f7e9bc7c59660a03da4c3e6a394821520b41a7a86bb66e6eb1",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/07-export-check/images/c02-07-10-round-trip-status-link-destination.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-10-round-trip-status-link-destination.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        425,
+        125,
+        1145,
+        350
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "705d04fe863b845a10167efca9100a99477f4a3717d033cd6914da9b37a16693",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/07-export-check/images/c02-07-11-round-trip-missing-owner-destination.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-11-round-trip-missing-owner-destination.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        430,
+        175,
+        1145,
+        285
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "d27e37482c1ce9af19c8118ef111396e54bc45ab53c3ca7873ed431d14d0e0ee",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/07-export-check/images/c02-07-13-round-trip-contents-destination.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-13-round-trip-contents-destination.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        425,
+        175,
+        1145,
+        500
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "7faf89e77be361d8b1bbc1dcb29ba3dbf5b0ec05d166346a1246523456ed4097",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/07-export-check/images/c02-07-16-native-comparison-format-flags.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-16-native-comparison-format-flags.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        20,
+        175,
+        1545,
+        868
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ],
+        [
+          1130,
+          235,
+          1175,
+          280
+        ],
+        [
+          1130,
+          375,
+          1175,
+          420
+        ],
+        [
+          1130,
+          545,
+          1175,
+          590
+        ],
+        [
+          1130,
+          705,
+          1175,
+          750
+        ]
+      ],
+      "sha256": "bc3d38e545a87f0a130273fa3bd4bc2cd8179eb0c492cf9329a5ae63c6630785",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/07-export-check/images/c02-07-17-examples-numbering-repaired.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-17-examples-numbering-repaired.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        375,
+        735,
+        1175,
+        860
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "ff4ea4fadb5bd70ad056471176f67869acdcf2d680183c93ab304f19f89d7454",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/07-export-check/images/c02-07-19-r2-procedure-instruction-checked.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-19-r2-procedure-instruction-checked.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        430,
+        145,
+        1145,
+        230
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "a49ec63b433dc052e7fc3363ec9a9d3430506e809301a0234659d48e403a477b",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/07-export-check/images/c02-07-21-r2-source-record-clean.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-21-r2-source-record-clean.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        430,
+        205,
+        1145,
+        585
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "152a50aef868b389d447e51c378a21d50a79b3d5d0ab8eec7a4c4658f4c19c55",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/07-export-check/images/c02-07-22-release-r2-name.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-22-release-r2-name.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        570,
+        305,
+        1025,
+        620
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "0bdb93569b26d14f202d464d699ff4a99697d3875e16fc72fed5a6c45f16b746",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/07-export-check/images/c02-07-23-initial-pdf-reader-copy.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-23-initial-pdf-reader-copy.png",
+      "dimensions": [
+        656,
+        927
+      ],
+      "kind": "pdf-page",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "0ac23c7e710d102d591b24b9a1c045575b55d10d5b57b0c3055f083b4c1e39b2",
+      "notes": [
+        "Offline native-export page render; browser local-file URL was blocked."
+      ]
+    },
+    "02-google-docs/07-export-check/images/c02-07-24-r2-pdf-numbered-examples.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-24-r2-pdf-numbered-examples.png",
+      "dimensions": [
+        656,
+        927
+      ],
+      "kind": "pdf-page",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "94d279f5c2111d6313bffb7cda1d971480501a855eace80f8c4445b3e278ee71",
+      "notes": [
+        "Offline native-export page render; browser local-file URL was blocked."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-01-owner-clarification-subsection.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-01-owner-clarification-subsection.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        370,
+        1035,
+        550
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "f25cac8e7f8e346234bb59e5d8f8daa80c588fe1716b07f41cb9e9b010deeab6",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-02-opening-owner-clarification-link.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-02-opening-owner-clarification-link.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        430,
+        1035,
+        500
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ],
+        [
+          1130,
+          355,
+          1175,
+          410
+        ]
+      ],
+      "sha256": "aebfe76b5840d47f389a217a76b8c80d3980f8da40e816f405da4f042af0d6e2",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-03-contents-refreshed.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-03-contents-refreshed.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        300,
+        425,
+        1040,
+        875
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ],
+        [
+          1130,
+          355,
+          1175,
+          410
+        ]
+      ],
+      "sha256": "dbf0bb435ddb816fcdc0a6c07e6d8a7b0aa64fa81fd6b66d04bf0dbb38a794fd",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-04-opening-link-reaches-owner-route.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-04-opening-link-reaches-owner-route.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        155,
+        1035,
+        340
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "dd49defcd02d36517f48049967d3b9d1c4997a8c27ccd55b8317761921a23087",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-05-core-review-and-handover-record.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-05-core-review-and-handover-record.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        300,
+        1035,
+        715
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "af0b22944d22921f35b4c88889895a1cd53167024f5f48b41dd075903cf83884",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-06-procedure-challenge-checked-version.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-06-procedure-challenge-checked-version.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        570,
+        305,
+        1025,
+        620
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "52a97c7537ab8a10808ce8a5453424dfe61eeecc305c3b9ac6e15594c45b313d",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-07-capstone-copy-private.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-07-capstone-copy-private.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        550,
+        205,
+        1050,
+        730
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "8d10b22da8b58915b11762fb103de769850a2a7fd837219cc28f0ed50e4ddb01",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-08-impact-list-before-route-edits.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-08-impact-list-before-route-edits.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        145,
+        1035,
+        495
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "7a8af2e36feb38a773380b11e07e9a597065f249d2e3a4fe1316a81a387bd0d4",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-09-three-case-escalation-route.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-09-three-case-escalation-route.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        175,
+        1035,
+        715
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "e312bcb0e18e10e1a32a8ab8044f860be12a1ef01937ea2fede8c4eb76395a25",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-10-proposed-review-checklist.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-10-proposed-review-checklist.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        385,
+        1035,
+        605
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "dc324c586f635ea2e9d666a1de1e8942b713e47261f8310cb2b593107e48a488",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-12-two-audience-versions-checked.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-12-two-audience-versions-checked.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        205,
+        1035,
+        700
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "4cc00a4d0cf4ba079388673a7b5b10a250907e6d0195e8b592c69cf231864783",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-13-three-case-author-walkthrough.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-13-three-case-author-walkthrough.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        205,
+        1035,
+        840
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "92830bf287b91e7a61e28a60958fe056db576b0e5d561549a15f41888b6dcc01",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-15-contents-link-reaches-escalation.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-15-contents-link-reaches-escalation.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        175,
+        1035,
+        715
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "c9749d4564550f3af2755b040d7df105ab76ec8337ee8d08cc922ab3a9f2f5ff",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-16-reader-test-explicitly-pending.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-16-reader-test-explicitly-pending.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        145,
+        1035,
+        725
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "18c5055122b0bd0e264d5284d0bbbb424011c01c735afb23782237e51dc279ad",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-17-capstone-opening-and-refreshed-contents.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-17-capstone-opening-and-refreshed-contents.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        365,
+        125,
+        1035,
+        855
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "55c026dfda8edb31f7961750a5452bccbc03f18d104b1705f3d5a65b26c6ec19",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-18-procedure-capstone-checked-version.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-18-procedure-capstone-checked-version.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": [
+        570,
+        305,
+        1025,
+        620
+      ],
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "e94c8ed0258f5c8e05f4b4515417317066704767af60211fbe41fddfc8e23c0e",
+      "notes": [
+        "Real current-stage application-window capture."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-19-core-pdf-layout-check.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-19-core-pdf-layout-check.png",
+      "dimensions": [
+        656,
+        927
+      ],
+      "kind": "pdf-page",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "0428523f01766f738ae0045b9e8c01df51762780d86560d82b52a37a76a299d8",
+      "notes": [
+        "Offline native-export page render; not an interactive PDF-viewer test."
+      ]
+    },
+    "02-google-docs/08-procedure-challenge/images/c02-08-20-complete-pdf-reader-record.jpg": {
+      "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-20-complete-pdf-reader-record.png",
+      "dimensions": [
+        656,
+        927
+      ],
+      "kind": "pdf-page",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "cd99cb8b22f2933f94f5d8719d8b72f99ca743b3ad4d1cc50cbf5cea68f516d8",
+      "notes": [
+        "Offline native-export page render; not an interactive PDF-viewer test."
+      ]
     }
   },
   "missing_originals": [
