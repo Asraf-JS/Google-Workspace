@@ -9112,6 +9112,300 @@
       "notes": [
         "Offline native-export PDF page render; not an interactive PDF-viewer test."
       ]
+    },
+    "03-google-slides/02-deck-setup/images/c03-02-01-simple-light-theme.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-01-simple-light-theme.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "0d98e0a21d7980218cd274ca3a978d109fb54ab4898e43326adcf9a519618324",
+      "notes": [
+        "Real current-stage Slides UI. Full original application window retained."
+      ]
+    },
+    "03-google-slides/02-deck-setup/images/c03-02-02-six-slide-structure.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-02-six-slide-structure.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "ec4f00cb454755dc70b4a1fd3c9450eede3ec3e81f062bb9160fcfad1f5bbcd5",
+      "notes": [
+        "Real current-stage Slides UI. Full original application window retained."
+      ]
+    },
+    "03-google-slides/02-deck-setup/images/c03-02-03-backup-skip-menu.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-03-backup-skip-menu.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "c3f3360cf5dc47ec4eb9c646eb326c7bd45d8719952c9a4a0681edf0f53cb5d5",
+      "notes": [
+        "Real current-stage Slides UI. Full original application window retained."
+      ]
+    },
+    "03-google-slides/02-deck-setup/images/c03-02-04-skipped-backup.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-04-skipped-backup.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "1732563a728b8526a84e7efde569104d3fcff7190c04251b936a6658b4274085",
+      "notes": [
+        "Real current-stage Slides UI. Full original application window retained."
+      ]
+    },
+    "03-google-slides/02-deck-setup/images/c03-02-05-slideshow-skips-backup.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-05-slideshow-skips-backup.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "e5b5e1c63b93e3dec132676cda00d9ea00bd93a733658e48b378714f154b2e6c",
+      "notes": [
+        "Real current-stage Slides UI. Full original application window retained."
+      ]
+    },
+    "03-google-slides/02-deck-setup/images/c03-02-06-disposable-source.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-06-disposable-source.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "4cf78162c689f7e7b91a1bfe9f058353a63a5ff94000732b715b21039c1f5765",
+      "notes": [
+        "Real current-stage Slides UI. Full original application window retained."
+      ]
+    },
+    "03-google-slides/02-deck-setup/images/c03-02-07-import-picker-blank.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-07-import-picker-blank.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "8c4a2f0636d18db3e1a915c2f6ff4f00cec94cab44f6c854f9f93a6c46e156fd",
+      "notes": [
+        "Real current-stage Slides UI. Full original application window retained. Import picker capture documents an unresolved blocker."
+      ]
+    },
+    "03-google-slides/02-deck-setup/images/c03-02-08-evidence-gap-appendix.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-08-evidence-gap-appendix.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "d79ca6a911afe40547104c00fe5838a945dcfcbd08e3403e95d5c943c1803d42",
+      "notes": [
+        "Real current-stage Slides UI. Full original application window retained."
+      ]
+    },
+    "03-google-slides/02-deck-setup/images/c03-02-09-practice-theme-accent.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-09-practice-theme-accent.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "ebb2f9736896e836d4b1c6d209b8258a2c4fba7992fa9a45c87547c34442cd37",
+      "notes": [
+        "Real current-stage Slides UI. Full original application window retained."
+      ]
+    },
+    "03-google-slides/02-deck-setup/images/c03-02-10-linked-versus-manual-colour.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-10-linked-versus-manual-colour.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "a0f35d69c9358e71a9a4f7a32cc0a511cfe312e46bd7c3c148dddcb74ce4edaf",
+      "notes": [
+        "Real current-stage Slides UI. Full original application window retained."
+      ]
+    },
+    "03-google-slides/02-deck-setup/images/c03-02-11-decision-navigation.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-11-decision-navigation.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "0f6f622319169531e6d04bbb9b324d439d74d8864067709abaae660395a4a976",
+      "notes": [
+        "Real current-stage Slides UI. Full original application window retained."
+      ]
+    },
+    "03-google-slides/02-deck-setup/images/c03-02-12-source-appendix-navigation.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-12-source-appendix-navigation.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "fdc5b610c368d3833a730a86f23e69478340321a065d926bddbb1db5c90966b0",
+      "notes": [
+        "Real current-stage Slides UI. Full original application window retained."
+      ]
+    },
+    "03-google-slides/02-deck-setup/images/c03-02-13-reusable-decisions.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-13-reusable-decisions.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "a3042e0a0221d309644b89b60f7ec59504db1720f61f6b6cece8ceeba34935ba",
+      "notes": [
+        "Real current-stage Slides UI. Full original application window retained."
+      ]
+    },
+    "03-google-slides/02-deck-setup/images/c03-02-14-reusable-structure-grid.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-14-reusable-structure-grid.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "c10401cba15329eab50c9018c4e3af30dc32cbc346f69c07ca66e47f5808caa6",
+      "notes": [
+        "Real current-stage Slides UI. Full original application window retained."
+      ]
     }
   },
   "missing_originals": [

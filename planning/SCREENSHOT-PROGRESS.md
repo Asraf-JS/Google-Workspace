@@ -11,7 +11,7 @@ Updated 21 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 289 captures: 109 masterclass, 165 Docs and 15 Slides captures. Nine specialist routes have captured author reference runs; 35 specialist routes remain uncaptured. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 303 captures: 109 masterclass, 165 Docs and 29 Slides captures. Ten specialist routes have author-reference captures, including partial Slides Lab 2; 34 specialist routes remain uncaptured. Slides Lab 2 import comparisons remain pending. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -56,3 +56,7 @@ Eighteen new stages: sixteen full application windows and two offline native-exp
 ### 21 October 2026: Slides 1
 
 Fifteen stages retained:14 full planning-Doc/Gemini application windows and1offlinePDFpage. Human six-part plan preceded a real bounded Gemini proposal; source mapping and narrative sequence were revised. Nine headings and native7x5storyboard verified. Supplied12-task workbook has4tasks per status and team; snapshot does not prove pilot success. Opening/closing125/63words; spoken times pending. Two appendices planned; partner/independent tasks pending. One blank PDF page repaired by removing an extra pagination rule; final8pages all inspected. Programme289; Slides15; retained sources286 (269app,6focused,11PDF).35specialist routes remain.
+
+### 21 October 2026: Slides 2 (partial)
+
+Fourteen original-size application-window captures. Six main slides, skipped alternative after Decisions and slideshow bypass verified. Two appendices, linked/manual-colour test, both working-deck navigation directions and separate nine-slide placeholder copy checked. Import picker blank on initial attempt and saved-deck reload; no keep/adopt-theme or imported support slide success claimed. Programme 303 images; Slides 29; retained sources 300 (283 application windows, 6 focused, 11 PDF pages). Remaining: Slides 2 import checks plus 34 untouched specialist routes (Slides 6, Foundation 8, Advanced 12, AI 8). Independent/human review and learner timing remain pending.
