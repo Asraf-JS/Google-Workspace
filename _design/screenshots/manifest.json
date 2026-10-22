@@ -9791,6 +9791,258 @@
       "notes": [
         "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
       ]
+    },
+    "03-google-slides/04-visual-assets/images/c03-04-01-labelled-scope-workflow.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-01-labelled-scope-workflow.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "a0411d577c5a59d76739d33a389dc6fdc280efedb4b4dc2c1fe80311f9b69635",
+      "notes": [
+        "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
+      ]
+    },
+    "03-google-slides/04-visual-assets/images/c03-04-02-bounded-image-prompt.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-02-bounded-image-prompt.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "e4cb33378e38874ea629ccd0ea4b0b6b30f743284964269878f23bde9cc027a0",
+      "notes": [
+        "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
+      ]
+    },
+    "03-google-slides/04-visual-assets/images/c03-04-03-generated-office-illustration.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-03-generated-office-illustration.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "85e11541a007e2fe740b94c4c67096c527384eead425d6c9f0c1f42164476eb1",
+      "notes": [
+        "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
+      ]
+    },
+    "03-google-slides/04-visual-assets/images/c03-04-04-inserted-context-illustration.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-04-inserted-context-illustration.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "9ce7341719f6c82564ae13841b9566a2550f78e85c642acc872041f4fca7fdf6",
+      "notes": [
+        "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
+      ]
+    },
+    "03-google-slides/04-visual-assets/images/c03-04-05-meaningful-image-alt-text.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-05-meaningful-image-alt-text.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "aa5db5fcdbdbd5de6aa26ac341e6f1afe046d9225d7f243d7aa97e9d744a3e8a",
+      "notes": [
+        "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
+      ]
+    },
+    "03-google-slides/04-visual-assets/images/c03-04-06-illustration-provenance-and-video-limit.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-06-illustration-provenance-and-video-limit.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "52cd12726b08686ce12779d08e622a91ab58e66d5afc8c91e6c3ee122b3f21d1",
+      "notes": [
+        "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
+      ]
+    },
+    "03-google-slides/04-visual-assets/images/c03-04-07-workflow-origin-and-purpose.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-07-workflow-origin-and-purpose.png",
+      "dimensions": [
+        1591,
+        919
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "7ea4a4c677883e0853142b48a148abb71dbfbc215245f20d3eb24e411a4595b1",
+      "notes": [
+        "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
+      ]
+    },
+    "03-google-slides/04-visual-assets/images/c03-04-08-linear-workflow-and-exception.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-08-linear-workflow-and-exception.png",
+      "dimensions": [
+        1591,
+        867
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "c0a01327541c09556b9bfd0472cca69f7ee74b94184973d948c6dbd0a2cdb12b",
+      "notes": [
+        "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
+      ]
+    },
+    "03-google-slides/04-visual-assets/images/c03-04-09-responsibility-workflow-and-exception.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-09-responsibility-workflow-and-exception.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "46d7655bf7766663126829a85cddd85fadd1ecf01ad2a5cb24b732ae78302421",
+      "notes": [
+        "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
+      ]
+    },
+    "03-google-slides/04-visual-assets/images/c03-04-10-compared-designs-and-review-status.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-10-compared-designs-and-review-status.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "778a2191cdf0874ffee81d4fbb5414970c845e4322ae7e1a46257cbea7dc4b76",
+      "notes": [
+        "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
+      ]
+    },
+    "03-google-slides/04-visual-assets/images/c03-04-11-visual-register.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-11-visual-register.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "c17309d39ede765df684e7ad4b949bd94928d7a825c4de6addc4715f05e2d974",
+      "notes": [
+        "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
+      ]
+    },
+    "03-google-slides/04-visual-assets/images/c03-04-12-resized-illustration-purpose-retained.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-12-resized-illustration-purpose-retained.png",
+      "dimensions": [
+        1591,
+        919
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "749a6a1e62565f28dd91a8a36c12a78463f4e18f619e7f5080728f3de7315512",
+      "notes": [
+        "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
+      ]
     }
   },
   "missing_originals": [
