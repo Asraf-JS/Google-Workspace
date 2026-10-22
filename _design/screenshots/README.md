@@ -412,3 +412,18 @@ Twelve full original-size application windows, avatars masked, no crops. Program
 | [c03-04-10-compared-designs-and-review-status.jpg](../../03-google-slides/04-visual-assets/images/c03-04-10-compared-designs-and-review-status.jpg) | [PNG](full/03-google-slides/04-visual-assets/c03-04-10-compared-designs-and-review-status.png) | 1591 x 868 | application-window |
 | [c03-04-11-visual-register.jpg](../../03-google-slides/04-visual-assets/images/c03-04-11-visual-register.jpg) | [PNG](full/03-google-slides/04-visual-assets/c03-04-11-visual-register.png) | 1591 x 920 | application-window |
 | [c03-04-12-resized-illustration-purpose-retained.jpg](../../03-google-slides/04-visual-assets/images/c03-04-12-resized-illustration-purpose-retained.jpg) | [PNG](full/03-google-slides/04-visual-assets/c03-04-12-resized-illustration-purpose-retained.png) | 1591 x 919 | application-window |
+
+## Slides 5: Linked-Chart Setup, Partial
+
+Eight full original-size application windows for sections 5.1–5.2, avatar masks, no crops. Refresh tests pending. Programme344 images; retained sources341.
+
+| Lesson image | Full source | Dimensions | Kind |
+|---|---|---|---|
+| [c03-05-01-native-source-blank-summary.jpg](../../03-google-slides/05-linked-data/images/c03-05-01-native-source-blank-summary.jpg) | [PNG](full/03-google-slides/05-linked-data/c03-05-01-native-source-blank-summary.png) | 1591 x 920 | application-window |
+| [c03-05-02-countif-formula-before-fill.jpg](../../03-google-slides/05-linked-data/images/c03-05-02-countif-formula-before-fill.jpg) | [PNG](full/03-google-slides/05-linked-data/c03-05-02-countif-formula-before-fill.png) | 1591 x 920 | application-window |
+| [c03-05-03-baseline-counts-four-each.jpg](../../03-google-slides/05-linked-data/images/c03-05-03-baseline-counts-four-each.jpg) | [PNG](full/03-google-slides/05-linked-data/c03-05-03-baseline-counts-four-each.png) | 1591 x 920 | application-window |
+| [c03-05-04-column-chart-title-and-counts.jpg](../../03-google-slides/05-linked-data/images/c03-05-04-column-chart-title-and-counts.jpg) | [PNG](full/03-google-slides/05-linked-data/c03-05-04-column-chart-title-and-counts.png) | 1591 x 920 | application-window |
+| [c03-05-05-copy-chart-native-menu.jpg](../../03-google-slides/05-linked-data/images/c03-05-05-copy-chart-native-menu.jpg) | [PNG](full/03-google-slides/05-linked-data/c03-05-05-copy-chart-native-menu.png) | 1591 x 920 | application-window |
+| [c03-05-06-link-to-spreadsheet-paste-dialog.jpg](../../03-google-slides/05-linked-data/images/c03-05-06-link-to-spreadsheet-paste-dialog.jpg) | [PNG](full/03-google-slides/05-linked-data/c03-05-06-link-to-spreadsheet-paste-dialog.png) | 1590 x 863 | application-window |
+| [c03-05-07-linked-chart-and-qualified-snapshot.jpg](../../03-google-slides/05-linked-data/images/c03-05-07-linked-chart-and-qualified-snapshot.jpg) | [PNG](full/03-google-slides/05-linked-data/c03-05-07-linked-chart-and-qualified-snapshot.png) | 1590 x 863 | application-window |
+| [c03-05-08-source-definitions-and-refresh-pending.jpg](../../03-google-slides/05-linked-data/images/c03-05-08-source-definitions-and-refresh-pending.jpg) | [PNG](full/03-google-slides/05-linked-data/c03-05-08-source-definitions-and-refresh-pending.png) | 1590 x 863 | application-window |

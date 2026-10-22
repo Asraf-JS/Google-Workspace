@@ -10043,6 +10043,174 @@
       "notes": [
         "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
       ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-01-native-source-blank-summary.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-01-native-source-blank-summary.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "10130179da209673d5d192df6f074e3131209c01c30586706c0789e9b4ebe7d3",
+      "notes": [
+        "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-02-countif-formula-before-fill.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-02-countif-formula-before-fill.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "29a4d90ad4ae803cac6a9f9c9798a556fae4b98eae5a107b6f276eb1e80eaf46",
+      "notes": [
+        "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-03-baseline-counts-four-each.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-03-baseline-counts-four-each.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "70406834d3210661d39c3edca50553b0c10508e52b66f34814cfe6e7fb5d1fd5",
+      "notes": [
+        "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-04-column-chart-title-and-counts.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-04-column-chart-title-and-counts.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "26a9297cecf0282e94518ddc10036e39039235a486a5a1b0130ed73529a0ea2b",
+      "notes": [
+        "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-05-copy-chart-native-menu.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-05-copy-chart-native-menu.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "3ce38bbaa27af1d30a703353a82bfbf214b3c32aed923a60b7fd48a63eb7306c",
+      "notes": [
+        "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-06-link-to-spreadsheet-paste-dialog.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-06-link-to-spreadsheet-paste-dialog.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1590,
+          60
+        ]
+      ],
+      "sha256": "2800d13f4b0f234b4a337e4e8b3731eac6fd55b6e13761331264ff08f1b894a8",
+      "notes": [
+        "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-07-linked-chart-and-qualified-snapshot.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-07-linked-chart-and-qualified-snapshot.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1590,
+          60
+        ]
+      ],
+      "sha256": "79028f13bff9a109bb0aaa7381caeeafbc55b05facf5cf55ecddd5b3cf0f5fe2",
+      "notes": [
+        "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-08-source-definitions-and-refresh-pending.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-08-source-definitions-and-refresh-pending.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1590,
+          60
+        ]
+      ],
+      "sha256": "aa570b5d5582c4d001a87927a976baaea04a979df72ff30a318def903129f682",
+      "notes": [
+        "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
+      ]
     }
   },
   "missing_originals": [
