@@ -393,3 +393,22 @@ Twenty-one full original-size application windows, with editor avatar masks and 
 | [c03-03-19-teams-presentation-check.jpg](../../03-google-slides/03-clear-layouts/images/c03-03-19-teams-presentation-check.jpg) | [PNG](full/03-google-slides/03-clear-layouts/c03-03-19-teams-presentation-check.png) | 1591 x 868 | application-window |
 | [c03-03-20-outputs-presentation-check.jpg](../../03-google-slides/03-clear-layouts/images/c03-03-20-outputs-presentation-check.jpg) | [PNG](full/03-google-slides/03-clear-layouts/c03-03-20-outputs-presentation-check.png) | 1591 x 868 | application-window |
 | [c03-03-21-explanation-and-pending-review.jpg](../../03-google-slides/03-clear-layouts/images/c03-03-21-explanation-and-pending-review.jpg) | [PNG](full/03-google-slides/03-clear-layouts/c03-03-21-explanation-and-pending-review.png) | 1591 x 868 | application-window |
+
+## Slides 4: Visual Assets
+
+Twelve full original-size application windows, avatars masked, no crops. Programme 336 images; retained sources 333. The optional illustration was resized inside the deck; screenshot source dimensions are unchanged.
+
+| Lesson image | Full source | Dimensions | Kind |
+|---|---|---|---|
+| [c03-04-01-labelled-scope-workflow.jpg](../../03-google-slides/04-visual-assets/images/c03-04-01-labelled-scope-workflow.jpg) | [PNG](full/03-google-slides/04-visual-assets/c03-04-01-labelled-scope-workflow.png) | 1591 x 868 | application-window |
+| [c03-04-02-bounded-image-prompt.jpg](../../03-google-slides/04-visual-assets/images/c03-04-02-bounded-image-prompt.jpg) | [PNG](full/03-google-slides/04-visual-assets/c03-04-02-bounded-image-prompt.png) | 1591 x 868 | application-window |
+| [c03-04-03-generated-office-illustration.jpg](../../03-google-slides/04-visual-assets/images/c03-04-03-generated-office-illustration.jpg) | [PNG](full/03-google-slides/04-visual-assets/c03-04-03-generated-office-illustration.png) | 1591 x 868 | application-window |
+| [c03-04-04-inserted-context-illustration.jpg](../../03-google-slides/04-visual-assets/images/c03-04-04-inserted-context-illustration.jpg) | [PNG](full/03-google-slides/04-visual-assets/c03-04-04-inserted-context-illustration.png) | 1591 x 868 | application-window |
+| [c03-04-05-meaningful-image-alt-text.jpg](../../03-google-slides/04-visual-assets/images/c03-04-05-meaningful-image-alt-text.jpg) | [PNG](full/03-google-slides/04-visual-assets/c03-04-05-meaningful-image-alt-text.png) | 1591 x 868 | application-window |
+| [c03-04-06-illustration-provenance-and-video-limit.jpg](../../03-google-slides/04-visual-assets/images/c03-04-06-illustration-provenance-and-video-limit.jpg) | [PNG](full/03-google-slides/04-visual-assets/c03-04-06-illustration-provenance-and-video-limit.png) | 1591 x 868 | application-window |
+| [c03-04-07-workflow-origin-and-purpose.jpg](../../03-google-slides/04-visual-assets/images/c03-04-07-workflow-origin-and-purpose.jpg) | [PNG](full/03-google-slides/04-visual-assets/c03-04-07-workflow-origin-and-purpose.png) | 1591 x 919 | application-window |
+| [c03-04-08-linear-workflow-and-exception.jpg](../../03-google-slides/04-visual-assets/images/c03-04-08-linear-workflow-and-exception.jpg) | [PNG](full/03-google-slides/04-visual-assets/c03-04-08-linear-workflow-and-exception.png) | 1591 x 867 | application-window |
+| [c03-04-09-responsibility-workflow-and-exception.jpg](../../03-google-slides/04-visual-assets/images/c03-04-09-responsibility-workflow-and-exception.jpg) | [PNG](full/03-google-slides/04-visual-assets/c03-04-09-responsibility-workflow-and-exception.png) | 1591 x 868 | application-window |
+| [c03-04-10-compared-designs-and-review-status.jpg](../../03-google-slides/04-visual-assets/images/c03-04-10-compared-designs-and-review-status.jpg) | [PNG](full/03-google-slides/04-visual-assets/c03-04-10-compared-designs-and-review-status.png) | 1591 x 868 | application-window |
+| [c03-04-11-visual-register.jpg](../../03-google-slides/04-visual-assets/images/c03-04-11-visual-register.jpg) | [PNG](full/03-google-slides/04-visual-assets/c03-04-11-visual-register.png) | 1591 x 920 | application-window |
+| [c03-04-12-resized-illustration-purpose-retained.jpg](../../03-google-slides/04-visual-assets/images/c03-04-12-resized-illustration-purpose-retained.jpg) | [PNG](full/03-google-slides/04-visual-assets/c03-04-12-resized-illustration-purpose-retained.png) | 1591 x 919 | application-window |

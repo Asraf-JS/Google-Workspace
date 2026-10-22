@@ -8,7 +8,7 @@ In this chapter you will insert media, try an AI image where available and docum
 
 **Your result:** A useful diagram or reviewed image with provenance and alternative text.
 
-> **Status:** expanded review draft, revision 0.4. Complete the casework and independent challenge as well as the guided steps. The expanded route, screenshots and timing have not yet been validated in the learner application.
+> **Status:** author reference run with 12 staged real-application captures and full original-size sources. Guided workflow, native image generation, alternative text, provenance, two compared designs, visual register and proportional image resizing checked. No permitted video was supplied: insertion/playback remain untested. Independent exception design, real reviewer comprehension and learner timing remain pending.
 
 ## What You Will Learn
 
@@ -24,73 +24,80 @@ Use the working deck. Only use supplied, self-created or otherwise permitted med
 
 ## 4.1 Choose a Useful Visual
 
-1. On the Pilot Scope slide, decide whether a simple diagram explains the workflow better than a photo.
-2. Use shapes and connectors to show source register, checked update and project hub.
-3. Label each stage so meaning does not rely on colour alone.
+1. Open the working deck, `GW - Slides - Sponsor Update`. On the Scope slide (now titled **Three teams will produce four outputs**), keep the existing team/output text. A diagram explains the sequence; an office illustration provides context only.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+2. Use **Shape > Shapes > Rectangle** for **Source register**, **Checked update** and **Project hub**. Use **Select line > Arrow** to connect their edges. Keep all three labels readable without colour. The reference uses 20 pt labels.
 
-The diagram clarifies the workflow without suggesting unsupported technical automation.
+![Use labelled native shapes and arrows for the reporting workflow](./images/c03-04-01-labelled-scope-workflow.jpg)
 
-</details>
-
-<!-- VERIFY: execute 4.1 in the target account and reconcile control names. Capture images/c03-04-01.jpg only from the real app. -->
+3. Treat the arrows as proposed manual practice. They do not establish automatic integration or an approved company process.
 
 ## 4.2 Try a Generated Image
 
-1. If available, open Ask Gemini or the image-generation option in Slides. Request a generic illustration of an office team reviewing a fictional project register, without brands or identifiable people.
-2. Inspect the result for distorted text, unintended logos and misleading site-safety details.
-3. Insert only a useful image. If no suitable result is available, keep your diagram instead.
+1. Where available, select **Generate an image** in the right rail. The observed panel is **Help me visualise**. Enter the bounded prompt from the copy-paste page and select **Create**. Availability can differ by account.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![Enter the bounded illustration prompt before generating](./images/c03-04-02-bounded-image-prompt.jpg)
 
-Any generated visual is treated as an illustration and has been reviewed.
+2. Inspect the actual result for readable text, logos, identifiable people, distorted details and misleading construction/safety or approval context. The reference result is a flat office illustration with five generic people and a blank grid. It is conceptual, not documentary evidence.
 
-</details>
+![Inspect the actual generated office illustration](./images/c03-04-03-generated-office-illustration.jpg)
 
-<!-- VERIFY: execute 4.2 in the target account and reconcile control names. Capture images/c03-04-02.jpg only from the real app. -->
+3. Add a separate **Title only** slide titled **AI-generated context — optional illustration**. Select the reviewed result, inspect **Image preview**, then select **Insert**. If the result is unsuitable or generation unavailable, keep the native workflow instead.
+
+![Insert the reviewed illustration on a separate optional slide](./images/c03-04-04-inserted-context-illustration.jpg)
+
+4. Keep the illustration outside the main process explanation. The reference marks this optional appendix slide **Skip slide** in its filmstrip context menu; the labelled workflow remains the main explanation.
 
 ## 4.3 Check Media and Provenance
 
-1. Add a note identifying whether each visual was self-created, supplied or AI-generated, with its source or prompt.
-2. Add meaningful alternative text to informative images through the available image options.
-3. If the trainer supplies a permitted video link, practise inserting it and test playback. Do not depend on an untested external clip for the main story.
+1. Select the informative image. Open **Format options > Alt text** (the image options may expose the same control). Enter a useful description that includes its limited purpose, rather than repeating its filename or claiming it shows real activity.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![Give the image a purpose-specific alternative text](./images/c03-04-05-meaningful-image-alt-text.jpg)
 
-The deck records visual provenance. It makes no blanket copyright-free claim.
+2. In **speaker notes**, identify AI origin, generation date, exact prompt, inspected content and reuse uncertainty. The reference makes no blanket copyright-free claim. Check the applicable permission and service terms before external reuse.
 
-</details>
+![Record the exact prompt, review and untested video dependency](./images/c03-04-06-illustration-provenance-and-video-limit.jpg)
 
-<!-- VERIFY: execute 4.3 in the target account and reconcile control names. Capture images/c03-04-03.jpg only from the real app. -->
+3. On Scope, add the self-created diagram origin and information purpose to its existing speaker notes. Retain the original checked source qualifications. Confirm the note is in the notes pane, not a text box on the slide.
+
+![Keep the native workflow origin and purpose in speaker notes](./images/c03-04-07-workflow-origin-and-purpose.jpg)
+
+4. If a trainer supplies a permitted video link, practise insertion and playback in a casework copy. **Reference status: none supplied; insertion and playback untested.** Use the labelled static workflow as the fallback. Do not choose an arbitrary external clip.
 
 ## 4.4 Produce Visuals With a Clear Information Purpose
 
-1. Write a one-sentence purpose for each planned visual: explain process, compare quantities or illustrate context. Reject a visual that has no useful role.
+1. Create a separate native deck named **GW - Slides - Visual Casework**. Write one purpose sentence for every planned visual. The process designs explain a correction route; the office illustration supplies optional context and is rejected as evidence of that route. Keep the working deck's factual content unchanged.
 
-2. Build two workflow diagrams from shapes: a linear Collect → Check → Report flow and a responsibility-based layout. Add the same source-of-truth and exception route to both.
+2. On a Title only slide, build **Collect → Check → Report** using native rectangles and arrow connectors. Label the stages **Collect / Source register**, **Check / With task owner**, and **Report / Checked update → hub**. Below them, show the maintained task register as the source of truth and the complete exception route from the copy-paste page.
 
-3. Compare which diagram better answers the contributor’s question about where to correct a bad status. Keep the clearer design and note the reason.
+![Build the linear design with its source and correction route](./images/c03-04-08-linear-workflow-and-exception.jpg)
 
-4. Prepare a visual register with Asset, Purpose, Origin, Rights/reuse status and Text alternative. Record self-created diagrams as such; do not treat AI generation as a rights guarantee.
+3. On a second Title only slide, build a responsibility layout with three role/action lanes: **Contributor → Correct maintained register**, **Reviewer → Recheck update against source**, and **Coordinator → Report checked update → hub**. These are proposed training roles that need local agreement. Repeat the same source-of-truth and exception route; do not invent a missing owner.
 
-5. If available, generate a purely illustrative image from the bounded prompt. Inspect text, logos, people and implied context. If not available, use your self-created diagram and record the fallback.
+![Build a responsibility layout with the same exception route](./images/c03-04-09-responsibility-workflow-and-exception.jpg)
 
-6. Crop or resize any retained illustrative image without removing the information needed for its purpose. Add a text alternative to informative content.
+4. Compare where a contributor would correct a bad status. The author selects the responsibility layout because **Contributor → Correct maintained register** names the correction point explicitly. Retain the linear alternative in the casework deck and record the reason in notes. **A real reviewer has not completed the comprehension test.**
 
-7. If a permitted training video is available, insert and test it in a copy, then create a static explanation for when playback fails. If none is available, document the media dependency rather than selecting an arbitrary external video.
+![Record the author comparison and pending reviewer test](./images/c03-04-10-compared-designs-and-review-status.jpg)
+
+5. Add a native table using **Insert > Table**. Use five columns: **Asset**, **Purpose**, **Origin**, **Rights / reuse**, **Text alternative**. Record the Scope workflow, linear design, selected responsibility design and optional AI illustration. The reference uses a five-row table with 10 pt text as a detailed register, not a classroom presentation slide; enlarge or split it when presenting to a group. Put full purpose sentences, source qualifications and the untested video dependency in notes.
+
+![Register all four assets with origin and reuse uncertainty](./images/c03-04-11-visual-register.jpg)
+
+6. Reuse the actual bounded generation from 4.2; record its prompt and inspection rather than generating a second asset merely to fill the register. If unavailable, record the self-created diagram fallback.
+
+7. Resize the retained illustration proportionally with a corner handle. Keep all five figures and the blank grid visible, preserve its alternative text and retain the optional illustration label. The reference enlarges the image without cropping content. This does not crop the original-size screenshots retained in the screenshot library.
+
+![Resize the illustration while retaining all figures and the blank grid](./images/c03-04-12-resized-illustration-purpose-retained.jpg)
+
+8. Record the media dependency: no permitted video supplied, playback untested, static diagrams available. If a permitted clip becomes available, test it in a copy and verify the static explanation when playback fails.
 
 <details markdown="1">
 <summary>What should you see?</summary>
 
-Two compared process designs and one independently built exception diagram. The result must be supported by the recorded checks; an attractive output or an AI assurance is insufficient.
+Two native process designs with the same source-of-truth and correction route, a reasoned author comparison, a four-asset visual register, and a reviewed optional illustration with provenance and alternative text. Independent exception design and real reviewer comprehension remain separate pending tasks. An attractive output or an AI assurance is insufficient.
 
 </details>
-
-<!-- VERIFY: execute expanded section 4.4 and independent challenge; capture images/c03-04-04.jpg only after real application success. -->
 
 ## Independent Challenge
 
