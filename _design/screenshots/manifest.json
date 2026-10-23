@@ -10568,6 +10568,468 @@
       "notes": [
         "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
       ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-01-workflow-fade-transition.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-01-workflow-fade-transition.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "b7195021d71cd1ec096a92746e79929e3b1f93fdf7a7fbae809b12369eedd6b6",
+      "notes": [
+        "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-02-project-hub-appear-on-click.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-02-project-hub-appear-on-click.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "374b86449dcbc2f869dca044a170b088381559a091ca90605eccc4f37ec4a94c",
+      "notes": [
+        "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-03-preview-before-project-hub-reveal.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-03-preview-before-project-hub-reveal.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "03cf92549a33737bf67ee5594b7989f1d4d78736827cd5c6d15df28bf3f12a81",
+      "notes": [
+        "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-04-preview-after-one-advance.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-04-preview-after-one-advance.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "a68046a4a23ded2c8346acee338efc03dc15385abbfb0011265037eb36c3f47b",
+      "notes": [
+        "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-05-keyboard-order-title.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-05-keyboard-order-title.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "f20ffef55a9b3cccb8eb64bd2d8d129390d8df77438e82e30ab004bbc836c7a1",
+      "notes": [
+        "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-06-keyboard-order-explanation.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-06-keyboard-order-explanation.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "e398e05f1e2dc16835fb97162ac25ec6d4e9d4fdb24ffd9005086743168a11d2",
+      "notes": [
+        "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-07-keyboard-order-source-register.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-07-keyboard-order-source-register.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "d4a346f5f93304a2304fcb8910860a00ae2c62901399d29a250e3eb1bfa36cf2",
+      "notes": [
+        "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-08-keyboard-order-checked-update.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-08-keyboard-order-checked-update.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "a2a3e4b7f3b7b49b85fab10169caeebe6dd8d3229dfc114c17c4b2ec77e7137d",
+      "notes": [
+        "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-09-keyboard-order-project-hub.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-09-keyboard-order-project-hub.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "ca3b871d5661f8a84ac508a56d0e2beb0c27d6c3a6aa87cc6312add7f6637975",
+      "notes": [
+        "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-10-keyboard-connectors-after-labelled-stages.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-10-keyboard-connectors-after-labelled-stages.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "7fa830bc01b9381551d61e0a90fa5970e05d5adc3995372376843d7b23e865ed",
+      "notes": [
+        "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-11-workflow-alt-text-source-stage.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-11-workflow-alt-text-source-stage.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "33b76db278946e50d0d00116aeee2f158879631229720ba9bf156fd9de992637",
+      "notes": [
+        "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-12-workflow-alt-text-final-stage.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-12-workflow-alt-text-final-stage.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "2cec7f3b9e93e3dac548db5c55665abb8e38f815a55ef055cd31fcce84a896fc",
+      "notes": [
+        "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-13-status-chart-alt-text-and-values.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-13-status-chart-alt-text-and-values.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "b3de795b7b08ad6054a5871ee24d960498fac86b4b33e561098c59f8c0f92b49",
+      "notes": [
+        "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-14-cost-chart-alt-text-and-units.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-14-cost-chart-alt-text-and-units.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "7af46f897fb3eed1513a70ca22180b290f99c52bc5104e4a1cfb24518824bbe1",
+      "notes": [
+        "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-15-status-values-repeated-at-22pt.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-15-status-values-repeated-at-22pt.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "7cc3c40bd2b2c18c339c094dd41fb08c0e935bba007132de307084826af1dee3",
+      "notes": [
+        "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-16-status-chart-follows-text-with-tab.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-16-status-chart-follows-text-with-tab.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "bb86ba903be7f74aa95000477b0c888ded9c2e7f2e367ddd34ed89ec45983a4b",
+      "notes": [
+        "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-17-motion-and-accessibility-review-notes.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-17-motion-and-accessibility-review-notes.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "d8a8fd92499bc7b536642af5d354fa7421e5d6d96aa6c8a2c2fe788efdd29d9b",
+      "notes": [
+        "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-18-proposed-workflow-title-repair.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-18-proposed-workflow-title-repair.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "4abdd8ca4c10882fed8668060a72cfda1c38d35c97eb402b6d2fcafe27763f93",
+      "notes": [
+        "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-19-name-current-version-dialog.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-19-name-current-version-dialog.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "75683b4473f9c3cdc55d86c4c91965012cec207ff97d711dd773567acc57b252",
+      "notes": [
+        "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-20-reviewed-milestone-in-version-history.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-20-reviewed-milestone-in-version-history.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "9e60a67e3227322b6147886d4b70481c99037bd64959e1705012f318689de103",
+      "notes": [
+        "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-21-earlier-version-view-only.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-21-earlier-version-view-only.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "ab4b28b070a190abab1e7fef961f5ac9684e48bf216ee9ecd7797b68171edcf4",
+      "notes": [
+        "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-22-return-to-current-reviewed-deck.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-22-return-to-current-reviewed-deck.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "f86a8428f389e61f4ea8acd47b863032d47a59213004043f54e385e851ac9953",
+      "notes": [
+        "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
+      ]
     }
   },
   "missing_originals": [
