@@ -1,6 +1,6 @@
 # Screenshot Progress
 
-Updated 21 October 2026. Screenshots are real application captures, cropped or masked for privacy, and placed at the matching stage. Later formulas, charts, tables, comments and records are absent from earlier images.
+Updated 23 October 2026. Screenshots are real application captures, cropped or masked for privacy, and placed at the matching stage. Later formulas, charts, tables, comments and records are absent from earlier images.
 
 | Masterclass lab | Approved captures | Reference scope and remaining checks |
 |---|---:|---|
@@ -11,7 +11,7 @@ Updated 21 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 344 captures: 109 masterclass, 165 Docs and 70 Slides captures. Thirteen specialist routes have author-reference captures, including partial Slides Labs 2 and 5; 31 specialist routes remain uncaptured. Slides Lab 2 import comparisons remain pending. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 361 captures: 109 masterclass, 165 Docs and 87 Slides captures. Thirteen specialist routes have author-reference captures; Slides Lab 2 import comparisons remain partial. There are 31 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -72,3 +72,7 @@ Twelve current-stage full original-size application captures: labelled Scope wor
 ### 22 October 2026: Slides 5 linked-chart setup (partial)
 
 Eight full original-size application captures for sections 5.1–5.2. Original supplied Excel converted through File > Save as Google Sheets into a separate named native source; original and prior lab register unchanged. Summary COUNTIF formulas filled through B4 with relative criteria and absolute twelve-row source range, verified 4/4/4 and twelve task IDs. Column chart titled Pilot task status pasted with Link to spreadsheet; native Slides sheetsChart identity matches the new spreadsheet and chart. Chart resized proportionally beside qualified snapshot text; source/definition notes retained. Change/update/restore test 5.3, cost/static comparison 5.4, independent challenge and learner timing pending. Programme344 images; Slides70; retained sources341 (324 application windows,6 focused,11 PDF pages). Remaining: partial Slides 2/5 plus31 untouched routes (Slides 3, Foundation 8, Advanced 12, AI 8), human checks and Site Preview.
+
+### 23 October 2026: Slides 5 guided refresh and comparison complete
+
+Seventeen additional full-size application-window captures complete guided sections 5.3–5.4. Two T003 status-change tests produced 5/4/3, linked chart explicitly updated, static image stayed 4/4/4. Both tests restored T003 to Not Started and status counts to 4/4/4. SUMIF planned costs by team reconciled to RM 10400 and stayed unchanged during status-only tests. Both native chart links verified; both appendix slides skipped; final evidence checklists recorded. Programme361images; Slides87; retained sources358 (341application windows,6focused,11PDFpages). Independent new-row challenge and learner timing pending. Remaining guided routes: Slides6–8, Foundation8, Advanced12, AI8; earlier import/human checks and SitePreview remain.
