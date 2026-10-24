@@ -13,10 +13,12 @@ The table links each lesson image to its retained source. The [manifest](./manif
 Use Pillow to render an adjusted crop without editing the source:
 
 ```text
-python _design/screenshots/render-crop.py --image 02-google-docs/03-styles-navigation/images/c02-03-renamed-subsection.jpg --box 0 0 2128 1002 --output preview.jpg
+python _design/screenshots/render-crop.py --image 03-google-slides/01-story-plan/images/c03-01-01-sponsor-decision-and-conditions.jpg --box 0 0 1591 920 --output preview.jpg
 ```
 
 Review the output before replacing a participant image or rebuilding books.
+
+Google Docs lesson images are no longer hand-cropped. They are drawn from these sources by `annotate-shots`; see [`_design/shots/README.md`](../shots/README.md).
 
 ## Missing Originals
 
@@ -304,24 +306,24 @@ Eighteen sources retained on21October2026: sixteen original-size application win
 
 | Lesson image | Full source | Dimensions | Kind |
 |---|---|---|---|
-| [c02-08-01-owner-clarification-subsection.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-01-owner-clarification-subsection.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-01-owner-clarification-subsection.png) | 1591 x 920 | application-window |
-| [c02-08-02-opening-owner-clarification-link.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-02-opening-owner-clarification-link.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-02-opening-owner-clarification-link.png) | 1591 x 920 | application-window |
-| [c02-08-03-contents-refreshed.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-03-contents-refreshed.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-03-contents-refreshed.png) | 1591 x 920 | application-window |
-| [c02-08-04-opening-link-reaches-owner-route.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-04-opening-link-reaches-owner-route.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-04-opening-link-reaches-owner-route.png) | 1591 x 920 | application-window |
-| [c02-08-05-core-review-and-handover-record.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-05-core-review-and-handover-record.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-05-core-review-and-handover-record.png) | 1591 x 920 | application-window |
-| [c02-08-06-procedure-challenge-checked-version.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-06-procedure-challenge-checked-version.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-06-procedure-challenge-checked-version.png) | 1591 x 920 | application-window |
-| [c02-08-07-capstone-copy-private.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-07-capstone-copy-private.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-07-capstone-copy-private.png) | 1591 x 920 | application-window |
-| [c02-08-08-impact-list-before-route-edits.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-08-impact-list-before-route-edits.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-08-impact-list-before-route-edits.png) | 1591 x 868 | application-window |
-| [c02-08-09-three-case-escalation-route.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-09-three-case-escalation-route.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-09-three-case-escalation-route.png) | 1591 x 868 | application-window |
-| [c02-08-10-proposed-review-checklist.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-10-proposed-review-checklist.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-10-proposed-review-checklist.png) | 1591 x 868 | application-window |
-| [c02-08-12-two-audience-versions-checked.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-12-two-audience-versions-checked.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-12-two-audience-versions-checked.png) | 1591 x 868 | application-window |
-| [c02-08-13-three-case-author-walkthrough.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-13-three-case-author-walkthrough.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-13-three-case-author-walkthrough.png) | 1591 x 868 | application-window |
-| [c02-08-15-contents-link-reaches-escalation.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-15-contents-link-reaches-escalation.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-15-contents-link-reaches-escalation.png) | 1591 x 868 | application-window |
-| [c02-08-16-reader-test-explicitly-pending.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-16-reader-test-explicitly-pending.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-16-reader-test-explicitly-pending.png) | 1591 x 868 | application-window |
-| [c02-08-17-capstone-opening-and-refreshed-contents.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-17-capstone-opening-and-refreshed-contents.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-17-capstone-opening-and-refreshed-contents.png) | 1591 x 868 | application-window |
-| [c02-08-18-procedure-capstone-checked-version.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-18-procedure-capstone-checked-version.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-18-procedure-capstone-checked-version.png) | 1591 x 868 | application-window |
-| [c02-08-19-core-pdf-layout-check.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-19-core-pdf-layout-check.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-19-core-pdf-layout-check.png) | 656 x 927 | pdf-page |
-| [c02-08-20-complete-pdf-reader-record.jpg](../../02-google-docs/08-procedure-challenge/images/c02-08-20-complete-pdf-reader-record.jpg) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-20-complete-pdf-reader-record.png) | 656 x 927 | pdf-page |
+| [c02-08-01-owner-clarification-subsection.png](../../02-google-docs/08-procedure-challenge/images/c02-08-01-owner-clarification-subsection.png) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-01-owner-clarification-subsection.png) | 1591 x 920 | application-window |
+| [c02-08-02-opening-owner-clarification-link.png](../../02-google-docs/08-procedure-challenge/images/c02-08-02-opening-owner-clarification-link.png) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-02-opening-owner-clarification-link.png) | 1591 x 920 | application-window |
+| [c02-08-03-contents-refreshed.png](../../02-google-docs/08-procedure-challenge/images/c02-08-03-contents-refreshed.png) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-03-contents-refreshed.png) | 1591 x 920 | application-window |
+| [c02-08-04-opening-link-reaches-owner-route.png](../../02-google-docs/08-procedure-challenge/images/c02-08-04-opening-link-reaches-owner-route.png) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-04-opening-link-reaches-owner-route.png) | 1591 x 920 | application-window |
+| [c02-08-05-core-review-and-handover-record.png](../../02-google-docs/08-procedure-challenge/images/c02-08-05-core-review-and-handover-record.png) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-05-core-review-and-handover-record.png) | 1591 x 920 | application-window |
+| [c02-08-06-procedure-challenge-checked-version.png](../../02-google-docs/08-procedure-challenge/images/c02-08-06-procedure-challenge-checked-version.png) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-06-procedure-challenge-checked-version.png) | 1591 x 920 | application-window |
+| [c02-08-07-capstone-copy-private.png](../../02-google-docs/08-procedure-challenge/images/c02-08-07-capstone-copy-private.png) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-07-capstone-copy-private.png) | 1591 x 920 | application-window |
+| [c02-08-08-impact-list-before-route-edits.png](../../02-google-docs/08-procedure-challenge/images/c02-08-08-impact-list-before-route-edits.png) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-08-impact-list-before-route-edits.png) | 1591 x 868 | application-window |
+| [c02-08-09-three-case-escalation-route.png](../../02-google-docs/08-procedure-challenge/images/c02-08-09-three-case-escalation-route.png) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-09-three-case-escalation-route.png) | 1591 x 868 | application-window |
+| [c02-08-10-proposed-review-checklist.png](../../02-google-docs/08-procedure-challenge/images/c02-08-10-proposed-review-checklist.png) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-10-proposed-review-checklist.png) | 1591 x 868 | application-window |
+| [c02-08-12-two-audience-versions-checked.png](../../02-google-docs/08-procedure-challenge/images/c02-08-12-two-audience-versions-checked.png) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-12-two-audience-versions-checked.png) | 1591 x 868 | application-window |
+| [c02-08-13-three-case-author-walkthrough.png](../../02-google-docs/08-procedure-challenge/images/c02-08-13-three-case-author-walkthrough.png) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-13-three-case-author-walkthrough.png) | 1591 x 868 | application-window |
+| [c02-08-15-contents-link-reaches-escalation.png](../../02-google-docs/08-procedure-challenge/images/c02-08-15-contents-link-reaches-escalation.png) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-15-contents-link-reaches-escalation.png) | 1591 x 868 | application-window |
+| [c02-08-16-reader-test-explicitly-pending.png](../../02-google-docs/08-procedure-challenge/images/c02-08-16-reader-test-explicitly-pending.png) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-16-reader-test-explicitly-pending.png) | 1591 x 868 | application-window |
+| [c02-08-17-capstone-opening-and-refreshed-contents.png](../../02-google-docs/08-procedure-challenge/images/c02-08-17-capstone-opening-and-refreshed-contents.png) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-17-capstone-opening-and-refreshed-contents.png) | 1591 x 868 | application-window |
+| [c02-08-18-procedure-capstone-checked-version.png](../../02-google-docs/08-procedure-challenge/images/c02-08-18-procedure-capstone-checked-version.png) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-18-procedure-capstone-checked-version.png) | 1591 x 868 | application-window |
+| [c02-08-19-core-pdf-layout-check.png](../../02-google-docs/08-procedure-challenge/images/c02-08-19-core-pdf-layout-check.png) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-19-core-pdf-layout-check.png) | 656 x 927 | pdf-page |
+| [c02-08-20-complete-pdf-reader-record.png](../../02-google-docs/08-procedure-challenge/images/c02-08-20-complete-pdf-reader-record.png) | [PNG](full/02-google-docs/08-procedure-challenge/c02-08-20-complete-pdf-reader-record.png) | 656 x 927 | pdf-page |
 
 ## Slides 1: Story Planning Stages
 
