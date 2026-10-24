@@ -11,7 +11,7 @@ Updated 24 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 409 captures: 109 masterclass, 165 Docs and 135 Slides captures. Fifteen specialist routes have author-reference captures; Slides Lab 2 imports and Lab 7 casework remain partial. There are 29 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 422 captures: 109 masterclass, 165 Docs and 148 Slides captures. Fifteen specialist routes have author-reference captures; Slides Lab 2 imports and Lab 7 spoken/interactive PDF checks remain partial. There are 29 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -88,3 +88,7 @@ Actual Slideshow tested static zero reveal advances and staged three. Initial or
 ### 24 October 2026: Slides 7 presenter/distribution inspection
 
 Ten uncropped original-size captures verify separate presenter/audience windows, opening and decision notes, Next5to7 skipping backup6, Audience Tools Start new left unstarted, Share Restricted/owneronly and Publish to web not-published state. Link/Embed settings inspected and Close selected without publishing. No file-access mutation, invitations or liveQ&A. The paused00:00:24 timer is setup only, not speech. Distribution options documented. Spoken rehearsal,7.4 PDF/scope/links/fallback, independent challenge and learner timing remain pending. Programme409images, Slides135, retained406sources (389appwindows,6focused,11PDFpages).29 untouched specialist routes: Slides1,Foundation8,Advanced12,AI8.
+
+### 24 October2026: Slides7.4 UI/export casework
+
+Prepared three-minute target run sheet/source-based sponsor answers in native opening notes; no speaking-time claim. Actual Slideshow link round trip5to8to5 passed. Direct native PDF included all14slides; Print preview1slide without notes/Include skipped slides off produced8pages(source1,2,3,4,5,7,8,9)without altering source sequence. All14diagnostic and8handout pages rendered/reviewed. Handout embedded destinations resolve5to7and7to5; interactive PDF clicks unverified due local-file browser policy, no workaround. Static fallback plan and release record saved; named source milestone Sponsor update - delivery export checked verified. Two spoken rehearsals/independent challenge/learner timing remain pending. Thirteen new stages:10application windows and3native full-PDF-page renders. Programme422images,Slides148,retained419sources(399appwindows,6focused,14PDFpages).

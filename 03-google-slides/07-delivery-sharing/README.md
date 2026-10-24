@@ -8,7 +8,7 @@ In this chapter you will use presenter view, notes and audience tools; compare r
 
 **Your result:** A rehearsed delivery and a documented distribution choice.
 
-> **Status:** partial author reference run with 10 staged real-application captures. Presenter/audience separation, opening and decision notes, skipped-slide navigation, unstarted Q&A, restricted access and unpublished Link/Embed options inspected in 7.1–7.3. Spoken rehearsals, 7.4 PDF/fallback casework, independent challenge and learner timing remain pending.
+> **Status:** author UI/export casework checked through 7.4, with 23 staged captures and full original-size sources. Run sheet/source answers, live appendix round trip, 14-page direct export and repaired 8-page handout scope, rendered PDF pages and internal destinations, and a source milestone verified. Two spoken rehearsals, interactive PDF clicks, independent challenge and learner timing remain pending.
 
 ## What You Will Learn
 
@@ -78,12 +78,12 @@ The Q&A session remains unstarted and file access remains at its existing restri
 
 ![Inspect Embed settings then close without publishing](./images/c03-07-10-publish-embed-options-before-close.jpg)
 
-3. Record a distribution choice using the table below. For this fictional draft, retain the restricted editable source for author work. A future approved reviewer handout can be a checked, dated PDF; its export scope, visual order and links still require the 7.4 test. The source pack does not authorise public publication.
+3. Record a distribution choice using the table below. For this fictional draft, retain the restricted editable source for author work. A future approved reviewer handout can be a checked, dated PDF; the 7.4 reference checks its8-page scope, rendered order and embedded destinations. Interactive PDF clicks and spoken rehearsal remain pending. The source pack does not authorise public publication.
 
 | Choice | Intended use and update behaviour | Access and evidence to check |
 |---|---|---|
 | Restricted file link | Author or approved reviewers use the current source; source edits remain in that file. | Recipient identity, role, current access and correct revision. The reference remains owner-only; no recipient test was performed. |
-| Downloaded PDF | A fixed handout or offline fallback at the recorded export revision; it does not refresh with later source edits. | Intended slide scope, skipped-slide inclusion, text and chart values, links, revision/date and permitted destination. Actual export/fallback test pending in 7.4. |
+| Downloaded PDF | A fixed handout or offline fallback at the recorded export revision; it does not refresh with later source edits. | Intended slide scope, skipped-slide inclusion, text and chart values, links, revision/date and permitted destination. The7.4 reference produced8-pages through Print preview; rendered pages and embedded destinations checked. Spoken fallback rehearsal and interactive PDF clicks remain pending. |
 | Published presentation | A separate web-viewing or embed distribution route. Published content and update settings need their own review. | Whether web exposure is authorised, audience suitability and published settings. The dialog was inspected and closed; this deck is not published. |
 
 <details markdown="1">
@@ -95,28 +95,56 @@ A documented choice with its checks. The native file remains restricted and unpu
 
 ## 7.4 Rehearse an Accessible Delivery and Test Distribution
 
-1. Write a three-minute run sheet with opening, evidence, risk, decision request and time checkpoints. Use actual notes and navigation rather than reading the slide text.
+1. Write the [three-minute run sheet and sponsor answers](./prompts.md) in the opening speaker notes, preserving the original source notes. The checkpoints allocate opening, workflow, evidence, risk, decision request and next steps. These are planned times. In the reference the presenter timer was paused at **00:00:32** during setup; it is not a speaking result.
 
-2. Perform a first timed rehearsal and record total speaking time, one hesitation and any unnecessary advances. Exclude unrelated interruptions.
+![Prepare three-minute checkpoints without claiming a speaking result](./images/c03-07-11-three-minute-run-sheet-planned-not-spoken.jpg)
 
-3. Practise moving from a decision slide to an appendix and back without restarting the presentation. Confirm skipped slides remain out of the normal sequence.
+2. Perform a real first spoken rehearsal. Record total speaking time, one hesitation and unnecessary advances, excluding interruptions. This remains **unperformed in the author reference**. Do not substitute a timer left running during automation or window setup.
 
-4. Prepare answers to the three sponsor questions on the card. Give a source or explicitly state that the evidence does not answer the question.
+3. Prepare the three sponsor answers from the card. Four Complete tasks are a snapshot, not pilot-success evidence; RM 12000 remains a proposed ceiling; no confirmed start date is supplied. Cite the task register/Summary, checked brief and project facts. The success criterion is future on-time submission by all three teams in the final two weeks, not an achieved result.
 
-5. Inspect restricted sharing, downloadable PDF and the publishing option without publishing. Write the intended audience, update behaviour and access implications of each.
+![Prepare source-based answers to the sponsor questions](./images/c03-07-12-source-based-sponsor-answers.jpg)
 
-6. Export a delivery PDF and test its visual sequence and any internal links. Check whether skipped slides appear in the export and record the actual result; prepare the intended handout scope accordingly.
+4. In actual **Slideshow**, open Decisions and click **Review source definitions**. The reference moved from source slide 5 to Appendix A on slide 8. Click **Return to Decisions** and confirm slide 5 returns without restarting. The earlier Next 5 to 7 check confirms backup 6 is skipped in normal progression. Use appendix links only when the audience needs the detail.
 
-7. Run a second rehearsal using the fixed PDF as a fallback. Note which presenter features, motion or notes are unavailable and adapt the delivery.
+![Start from Decisions in the live presentation](./images/c03-07-13-live-decisions-before-appendix-link.jpg)
+
+![Follow the live link to Source Definitions](./images/c03-07-14-live-appendix-opened-from-decisions.jpg)
+
+![Return to Decisions without restarting](./images/c03-07-15-live-return-to-decisions-without-restart.jpg)
+
+5. Exit Slideshow and use **File > Download > PDF document (.pdf)**. Inspect the downloaded file before treating it as a handout. The reference export contained **all 14 slides**, including the six skipped backup/practice slides. Skip status in Slideshow did not restrict this direct download.
+
+![Download the native PDF to inspect export scope](./images/c03-07-16-native-pdf-download-menu.jpg)
+
+6. Repair the handout scope through **File > Print preview**. Keep **1 slide without notes**. The observed **Include skipped slides** control was enabled initially. Turn it **off**, then click **Download as PDF**. This produced **8 pages**, corresponding to source slides **1, 2, 3, 4, 5, 7, 8, 9**. Both source appendices remain as question references; skipped 6 and 10–14 are excluded. No source slide deletion or duplicate deck was needed. If this control is unavailable, prepare a separately named delivery copy and test its scope instead.
+
+![Print preview initially includes skipped slides](./images/c03-07-17-print-preview-include-skipped-enabled.jpg)
+
+![Turn off Include skipped slides for the handout](./images/c03-07-18-print-preview-skipped-excluded.jpg)
+
+7. Inspect the [fixed R1 handout](./resources/sponsor-update-handout-r1.pdf), including every page and its navigation. In this export the embedded internal destinations resolve **Decisions PDF page 5 → Definitions page 7 → Decisions page 5**. The native source slide 8 is now PDF page 7 after exclusions. The figures below are full-page renders of the actual downloaded PDF. An interactive PDF viewer click test remains pending: controlled-browser policy blocked opening a local-file URL, so the reference used rendered-page review and structural destination checks without a browser workaround.
+
+![Inspect the handout Decisions page and link](./images/c03-07-19-handout-decisions-native-pdf-page.jpg)
+
+![Inspect the remapped Definitions page and return link](./images/c03-07-20-handout-appendix-native-pdf-page.jpg)
+
+8. Inspect the fallback workflow page. All three boxes and both connectors appear together; PDF has no reveal sequence, presenter timer, Q&A or private speaker notes. Adapt the run sheet to explain Source register → Checked update → Project hub verbally. Keep the run sheet separately available, use page 5 for the decision request, page 7 for definitions and page 6 for next steps. The second **spoken** fallback rehearsal and its measured improvement remain unperformed.
+
+![PDF workflow shows all stages together without animation](./images/c03-07-21-handout-static-workflow-native-pdf-page.jpg)
+
+9. Record the fixed handout's scope, date and hash in the [release record](./release-manifest.md). It is an author reference for fictional training, not evidence of approval for external distribution. Retain the restricted editable source. After a later source change, compare the release record and re-export deliberately; downloaded PDF does not refresh. Name the source milestone **Sponsor update - delivery export checked**, verify it in history and return with **Back**. This records the author's UI/export checks, not a completed rehearsal or sponsor approval.
+
+![Name the delivery export author checkpoint](./images/c03-07-22-name-delivery-export-checkpoint.jpg)
+
+![Verify the delivery export checkpoint in history](./images/c03-07-23-delivery-export-milestone-verified.jpg)
 
 <details markdown="1">
 <summary>What should you see?</summary>
 
-Two timed rehearsals with specific delivery improvements. The result must be supported by the recorded checks; an attractive output or an AI assurance is insufficient.
+A planned run sheet, three grounded answers, live appendix navigation and an 8-page static handout with checked visual sequence and internal destinations. The14-page diagnostic explains the scope repair. Two real spoken rehearsals, interactive PDF clicks and independent validation remain open.
 
 </details>
-
-<!-- VERIFY: execute expanded section 7.4 and independent challenge; capture images/c03-07-04.jpg only after real application success. -->
 
 ## Independent Challenge
 
@@ -140,7 +168,7 @@ Record the defect or uncertainty you investigated, the evidence used, the repair
 
 | Symptom | What to check |
 |---|---|
-| The handout contains unwanted backup slides | Inspect export scope and build a separate delivery copy with the intended slide set. |
+| The handout contains unwanted backup slides | In File > Print preview, turn off Include skipped slides and Download as PDF; inspect the actual output. Use a separate scoped delivery copy if that control is unavailable. |
 | An input or earlier result is missing | Reopen the input named in Before You Begin; do not substitute private company data |
 | A menu or feature is unavailable | Confirm the account and the shared access notes; record the missing step and ask the trainer for its fallback |
 | The result differs from the checkpoint | Compare the exact source range, wording and conditions before repeating the action |

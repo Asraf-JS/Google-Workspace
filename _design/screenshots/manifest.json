@@ -11571,6 +11571,216 @@
       "notes": [
         "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
       ]
+    },
+    "03-google-slides/07-delivery-sharing/images/c03-07-11-three-minute-run-sheet-planned-not-spoken.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-11-three-minute-run-sheet-planned-not-spoken.png",
+      "dimensions": [
+        730,
+        537
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "baedfb803f3abb7905bbbce6639453ffcef39eeebd5978a8c5935fe74062637a",
+      "notes": [
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+      ]
+    },
+    "03-google-slides/07-delivery-sharing/images/c03-07-12-source-based-sponsor-answers.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-12-source-based-sponsor-answers.png",
+      "dimensions": [
+        730,
+        537
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "566275cc6c26034386f7b86d870817509eccad901f2e649418a0ec58fb7d69eb",
+      "notes": [
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+      ]
+    },
+    "03-google-slides/07-delivery-sharing/images/c03-07-13-live-decisions-before-appendix-link.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-13-live-decisions-before-appendix-link.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "5eba42be26387abeb6d828fd7bf8689080ec45f0b67ee5125c31e84a77518aaf",
+      "notes": [
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+      ]
+    },
+    "03-google-slides/07-delivery-sharing/images/c03-07-14-live-appendix-opened-from-decisions.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-14-live-appendix-opened-from-decisions.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "c9e7564e58c02443954a8f8c1d8fe9e59282a229a4e3c406e0292de8d0338422",
+      "notes": [
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+      ]
+    },
+    "03-google-slides/07-delivery-sharing/images/c03-07-15-live-return-to-decisions-without-restart.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-15-live-return-to-decisions-without-restart.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "5eba42be26387abeb6d828fd7bf8689080ec45f0b67ee5125c31e84a77518aaf",
+      "notes": [
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+      ]
+    },
+    "03-google-slides/07-delivery-sharing/images/c03-07-16-native-pdf-download-menu.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-16-native-pdf-download-menu.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "34006c6555c111d8b35813141385a7fd333cb141be5b1bab1f782c3eef245df7",
+      "notes": [
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+      ]
+    },
+    "03-google-slides/07-delivery-sharing/images/c03-07-17-print-preview-include-skipped-enabled.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-17-print-preview-include-skipped-enabled.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "b289de4c9374db82cf4f77e4d78e740ea0bbc5103389539d46f2463b7db3f6e8",
+      "notes": [
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+      ]
+    },
+    "03-google-slides/07-delivery-sharing/images/c03-07-18-print-preview-skipped-excluded.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-18-print-preview-skipped-excluded.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "f2f5be694fbc8ffd1b1cf80ac9b6042709320b405b62e4ffe1b18e8d4c641fc6",
+      "notes": [
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+      ]
+    },
+    "03-google-slides/07-delivery-sharing/images/c03-07-19-handout-decisions-native-pdf-page.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-19-handout-decisions-native-pdf-page.png",
+      "dimensions": [
+        1080,
+        608
+      ],
+      "kind": "pdf-page",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "3ad1da1ea31007dedd25671b5e2c152d700457b952db09517c5e8e2f6e402943",
+      "notes": [
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+      ]
+    },
+    "03-google-slides/07-delivery-sharing/images/c03-07-20-handout-appendix-native-pdf-page.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-20-handout-appendix-native-pdf-page.png",
+      "dimensions": [
+        1080,
+        608
+      ],
+      "kind": "pdf-page",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "810ee0d8f137ce95768d5323f20ee71bc0b0c8e50d2ee28defa662789f5ced67",
+      "notes": [
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+      ]
+    },
+    "03-google-slides/07-delivery-sharing/images/c03-07-21-handout-static-workflow-native-pdf-page.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-21-handout-static-workflow-native-pdf-page.png",
+      "dimensions": [
+        1080,
+        608
+      ],
+      "kind": "pdf-page",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "f5b2ed5b02b02e809f243150757777036c25d9f531c6fc7d84d5a4a08056d1f9",
+      "notes": [
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+      ]
+    },
+    "03-google-slides/07-delivery-sharing/images/c03-07-22-name-delivery-export-checkpoint.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-22-name-delivery-export-checkpoint.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "415b982565d722d73ecfe28a7fc5c1144cbd6cdff56ea76b65ff9686a6ac7b42",
+      "notes": [
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+      ]
+    },
+    "03-google-slides/07-delivery-sharing/images/c03-07-23-delivery-export-milestone-verified.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-23-delivery-export-milestone-verified.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "3b27b35c03835d8fa44d00ec2afa1cfa60906f1f5654dcd06921b72e49e0e5a8",
+      "notes": [
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+      ]
     }
   },
   "missing_originals": [
