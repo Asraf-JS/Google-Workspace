@@ -12270,6 +12270,570 @@
       "notes": [
         "Full original-size current-stage source retained; no cropping or rescaling. Native learner UI except explicitly labelled offline renders of the actual native PDF export. Human speech, reviewer acceptance and independent challenge remain pending."
       ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-01-empty-foundation-practice-folder.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-01-empty-foundation-practice-folder.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "526d518f33905acf05dc6308549d475796680e31a254904fe49bb578f1fe12b6",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-02-uploaded-original-xlsx.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-02-uploaded-original-xlsx.png",
+      "dimensions": [
+        1432,
+        828
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ],
+        [
+          973,
+          235,
+          1004,
+          260
+        ]
+      ],
+      "sha256": "0409ba10e7001bb50150f3071d6bf269028c459046f7f860691030ed651dc065",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-03-excel-format-save-as-google-sheets.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-03-excel-format-save-as-google-sheets.png",
+      "dimensions": [
+        1591,
+        867
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "6a2a24a006846854ef5e59b1e9f0b0e41313b010ed673bbf509601e739eec984",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-04-named-native-copy-two-tabs.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-04-named-native-copy-two-tabs.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "c1ea9bc70e54224f87a39c9bc8fac91f072803b0957fbabc36519b46aee2c891",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-05-select-full-source-range.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-05-select-full-source-range.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "e915d4efaee97f2a8f91f95940f172582dfa914cff23c80185d894e6cc22046b",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-06-d5-owner-and-task-record.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-06-d5-owner-and-task-record.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "f58a5233313257d9b3d509af20941bf00068d8f7de4a24bc0672fe6144b5cff9",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-07-summary-tab-before-calculations.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-07-summary-tab-before-calculations.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "d64983084bccab883bec1ba0ac2584a5d769bbf81bb5914398e5141c0af79397",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-08-named-navigation-practice-duplicate.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-08-named-navigation-practice-duplicate.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "0cd2b3c01fad1ac2dab3ca81e01c4de1e06b8d8043917bf8433c80f540c8ca41",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-09-practice-only-label-and-resized-column.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-09-practice-only-label-and-resized-column.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "cb40e8effe9cd9286b9ee7e767ce3c55ce3a5b237e3830981a0a4f75bb589037",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-10-original-tasks-after-practice-edit.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-10-original-tasks-after-practice-edit.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "07427617b6bf15a1bdfa9cf29558d8609631e0cd6e6bd28c25591b2593abf5d7",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-11-workbook-guide-tab-purposes.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-11-workbook-guide-tab-purposes.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "e52a7a60e5c368d32bf661776b87ea6ff7cc5884eca9b0582492dd23b6b95630",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-12-source-address-a2.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-12-source-address-a2.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "c7b1c1ba43ab9a38eaa1a5bfa5d3890a19645c3ced8893dfb4e2fd6a150b321f",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-13-source-address-d5.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-13-source-address-d5.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "36e765c004f688de9f25169401962f1bad99798d4a50ce21178b0f5f6abe6fca",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-14-source-address-f8.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-14-source-address-f8.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "4a43ff2394320012abf31c4c6ab0665bbb2baefdf98c7279bf41e885778505e6",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-15-source-address-h13.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-15-source-address-h13.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "2c01031fad8b421afec16bcc1b81bcbd0b60c0c7614837a336b5ab4345b0cae7",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-16-four-address-record-checks-in-guide.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-16-four-address-record-checks-in-guide.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "1b56e65ac72a195882cc9f6208962b73bec1a828009e29f1ebf77b8eab7d5092",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-17-three-record-entry-practice-reconstruction.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-17-three-record-entry-practice-reconstruction.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "3dd7df52f1af7d44dea8994ff454b6efcd179313011e508e83b90dc22211bed4",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-18-select-one-cell.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-18-select-one-cell.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "371bf962c5f06ab303f08a55d7abb22b1e8d6868b65c4ad141b2927137e46ef5",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-19-select-complete-row.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-19-select-complete-row.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "4e224b7f53815114a12f7a5e88725519fb4f3e9aa17a53ee76bbf9988cd278d7",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-20-select-whole-column.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-20-select-whole-column.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "6454b392470e060763c6c1485887869e801e2bade937e852d0132277abdd16e6",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-21-select-header-and-three-records.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-21-select-header-and-three-records.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "cc266b7d75eef632505ee3dd4be7279353e7320d95e1270c66edb41ca407eccc",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-22-reconstruction-and-selection-checks-recorded.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-22-reconstruction-and-selection-checks-recorded.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "807aa9b11bce7d81d4d59b882d1cd80adf9a25e9c1347e50e3b955f624ec5bb6",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-23-entry-practice-reordered-after-navigation.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-23-entry-practice-reordered-after-navigation.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "f378ac65cc42cb79f52bd7327e1338e485f48591949fd81e469e4d5fcebf33d8",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-24-native-and-original-file-types-in-folder.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-24-native-and-original-file-types-in-folder.png",
+      "dimensions": [
+        1432,
+        828
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ],
+        [
+          973,
+          230,
+          1004,
+          262
+        ],
+        [
+          973,
+          280,
+          1004,
+          310
+        ]
+      ],
+      "sha256": "dd2e45fdc7cdbe540f5ff90d920f3837cf45249ad8d494e56a98c2e908daefe2",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-25-reopened-workbook-source-identity-and-edit-instructions.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-25-reopened-workbook-source-identity-and-edit-instructions.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "7c9993513cdb8d0f98cfa957cc939b9b491f426f876cb496caf9ff8abf114694",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
+    },
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-26-complete-workbook-guide-after-reopen.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-26-complete-workbook-guide-after-reopen.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "d7d45c7599220bfffcc05df2659c5c4be6643cee9cfff98e77c99385e36406f4",
+      "notes": [
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+      ]
     }
   },
   "missing_originals": [

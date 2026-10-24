@@ -1,6 +1,6 @@
 # Google Sheets Fundamental and Intermediate
 
-**Status:** expanded written review draft, revision 0.4. Every chapter now includes casework, an independent challenge and evidence requirements. Full learner execution, screenshots and timing pilots remain required.
+**Status:** review draft, revision 0.4. Foundation Lab 1 has 26 current-stage application captures through 1.4: isolated folder, instructor manual XLSX upload, actual Save as Google Sheets conversion, named native copy, source navigation, separate Navigation Practice, four checked address/TaskID mappings, three-row Entry Practice reconstruction, cell/row/column/range selections, tab reorder and native reopen from Drive. All eight fields in three reconstructed records match; original Tasks!A1:H13 and its cell metadata remain unchanged. File type/title/location and which file to edit are recorded in Workbook Guide. Browser upload itself, independent challenge and learner timing remain unverified. Labs 2–8 still need author execution and captures.
 
 **Duration:** 1 day. Each day has 390 teaching minutes, excluding lunch and breaks.
 
