@@ -81,4 +81,8 @@ Revised workflow title for the named review stage:
 Proposed outputs follow a checked reporting workflow
 ```
 
-The author reference covers 6.1–6.3 only. The static/reveal practice alternatives and unsupported approval request in the depth case are still to be tested in 6.4. Screen-reader, projector and independent learner timing checks are pending.
+The guided author reference now covers 6.1–6.4. Actual Slideshow: static zero reveal advances; staged three, after repairing floating arrows with With previous effects after their destination boxes. Both practice slides are skipped. Original Decisions facts appear immediately; the unsupported budget-approval suggestion was rejected. Screen-reader, projector, independent challenge and learner timing checks remain pending.
+
+## Casework Checkpoint
+
+Static practice: None transition, no object animation, all three stages and both arrows visible immediately. Staged practice: None transition; Source On click, Checked On click, connector 1 With previous, Hub On click, connector 2 With previous. Exactly three advances, with proposal/context visible throughout. Replace inherited one-click alternative text on both copies. Final version: Sponsor update reviewed - motion checked.

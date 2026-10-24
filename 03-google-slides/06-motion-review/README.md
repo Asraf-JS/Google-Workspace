@@ -8,7 +8,7 @@ In this chapter you will apply restrained transitions and animations; inspect co
 
 **Your result:** A polished, accessible deck with a named review milestone.
 
-> **Status:** partial author reference run: 6.1–6.3 have 22 staged real-application captures and full original-size sources. Fade/single-object preview, visual and keyboard inspection, workflow/chart descriptions, a readable status-text repair and named-version comparison checked. Extended static/reveal casework (6.4), independent challenge, screen-reader/projector checks and learner timing remain pending.
+> **Status:** guided author reference run completed through 6.4, with 38 real-application captures and full original-size sources. Static/staged Slideshow comparison, connector repair and retest, keyboard inspection, factual review comment and named milestone checked. Independent challenge, screen-reader/projector checks and learner timing remain pending.
 
 ## What You Will Learn
 
@@ -125,28 +125,66 @@ The named milestone is available and the current checked deck remains intact aft
 
 ## 6.4 Test Motion, Reading Order and Review Decisions
 
-1. Make a practice copy of the workflow slide. Prepare one no-animation version and one version that reveals stages in sequence.
+1. Duplicate the workflow slide into two practice alternatives and move them to the end. Label them **Static practice: proposed reporting workflow** and **Staged practice: proposed reporting workflow**. On the static copy open **Motion**, choose **None** and delete the copied object animation. Preserve the source/proposal qualifications and visible labels.
 
-2. Write a reveal script stating which audience question each animation answers. Remove an effect with no instructional purpose.
+![Static practice has no transition or animation](./images/c03-06-23-static-practice-without-motion.jpg)
 
-3. Use **Present** mode to count how many advances are needed and whether the decision is hidden at the moment you ask for it. Record the observed result.
+2. On the staged copy keep transition **None** and add **Appear > On click** to the three stage boxes in sequence: Source register, Checked update, Project hub. Write the reveal script in speaker notes: what do contributors start from, what happens before the update is used, and where does the checked update go? Title and team/output context must remain visible throughout. Remove decorative effects that answer no audience question.
 
-4. Inspect object reading order with keyboard navigation. Compare the order reached by Tab with the logical title → explanation → evidence sequence.
+![Staged practice begins with three on-click box effects](./images/c03-06-24-staged-practice-three-on-click-effects.jpg)
 
-5. Reorder objects if needed and retest. Keep informative alternatives and labels available even when a colour distinction or animation is missed.
+![Write the audience-question reveal script before testing](./images/c03-06-25-staged-reveal-script-before-test.jpg)
 
-6. Add a review comment explaining the selected motion treatment. Make a factual wording suggestion from the card and reject it if it changes an unresolved commitment.
+3. Start **Slideshow** on the static copy. Record the observed number of reveal advances. The reference showed all three stages and both arrows immediately: **zero** reveal advances.
 
-7. Name the reviewed version and create a short checklist for transitions, animation steps, reading order and factual invariants.
+![Static Slideshow shows all stages with zero reveal advances](./images/c03-06-26-slideshow-static-zero-reveal-advances.jpg)
+
+4. Advance to the staged practice and inspect the initial state before revealing anything. The first reference test found two arrows pointing into empty space. This is a defect in the initial animation treatment: the boxes were hidden while their connectors stayed visible.
+
+![Initial staged test exposes floating connectors](./images/c03-06-27-staged-start-shows-orphan-connectors.jpg)
+
+5. Exit Slideshow. Select each connector and add **Appear > With previous**. Drag the first connector's animation row immediately after **Checked update**, before **Project hub**. Keep the second connector immediately after **Project hub**. Final order: Source register (**On click**), Checked update (**On click**), first connector (**With previous**), Project hub (**On click**), second connector (**With previous**). Five object effects still require only three advances.
+
+![Repair connectors to appear with their destination boxes](./images/c03-06-28-staged-connectors-with-destination-effects.jpg)
+
+6. Restart **Slideshow** on the staged practice and retest from the beginning. Initial state: context only, no boxes or orphan arrows. First Right arrow: Source register only. Second: Checked update and its incoming connector together. Third: Project hub and its incoming connector together. Record the observed **three** advances and verify the proposed title/context remain visible at every stage.
+
+![Retest starts with no boxes or orphan arrows](./images/c03-06-29-staged-slideshow-initial-no-orphan-arrows.jpg)
+
+![First advance reveals Source register only](./images/c03-06-30-staged-slideshow-first-source.jpg)
+
+![Second advance reveals Checked update and its incoming arrow](./images/c03-06-31-staged-slideshow-second-checked-and-connector.jpg)
+
+![Third advance reveals Project hub and its incoming arrow](./images/c03-06-32-staged-slideshow-third-hub-and-connector.jpg)
+
+7. Exit Slideshow. Retain both labelled alternatives, then choose **Slide > Skip slide** for each after testing. Keep the original single-reveal workflow for brief delivery; the static copy supplies a motion-free fallback, while the three-advance practice suits a slower facilitated explanation. Replace copied hub descriptions: static says immediately visible/zero advances; staged says third advance with its connector. Do not leave a copied one-click claim on either alternative.
+
+![Keep both tested practice alternatives skipped](./images/c03-06-33-practice-alternatives-skipped-after-testing.jpg)
+
+8. Open the original **Decisions** slide in Slideshow separately. The reference showed the proposed RM 12000 ceiling, unresolved approval and start to be agreed immediately, with **zero** reveal advances. Reject the card's suggestion **Thank you for approving the budget** because the sources do not support that commitment. Do not hide unresolved qualifications when asking for a decision.
+
+![Decisions remain visible immediately with unresolved facts](./images/c03-06-34-decisions-slideshow-zero-reveals.jpg)
+
+9. On the repaired staged copy, select the title outside text editing, then Tab through **explanation, Source register, Checked update, Project hub, connector 1, connector 2**. The reference found the labelled sequence intact; no object reorder was necessary. Changing animation order did not require changing object order. Keep the full manual sequence in the stage descriptions and notes. This keyboard selection check does not certify screen-reader behaviour.
+
+![Keyboard inspection reaches connectors after labelled stages](./images/c03-06-35-staged-keyboard-connectors-follow-labelled-stages.jpg)
+
+10. Add a review comment on the original workflow explaining the selected single-reveal treatment, static fallback, connector finding/repair/retest and rejected approval wording. Do not mention or invite other people for this private author exercise. Update speaker notes with a checklist: transition, reveal counts, keyboard order and factual invariants. Preserve the 4/4/4 snapshot, RM 10400 recorded costs, proposed RM 12000 ceiling and unresolved start/approval state.
+
+![Record selected motion and reject unsupported approval wording](./images/c03-06-36-motion-selection-and-factual-review-comment.jpg)
+
+11. Name the final version **Sponsor update reviewed - motion checked** and save it. Open version history, confirm the name and return with **Back**. This milestone records the author's checked stage, not sponsor approval. The earlier **Sponsor update reviewed** milestone remains available. Independent whole-sequence, screen-reader, projector and learner timing checks remain open.
+
+![Name the final author review stage](./images/c03-06-37-name-motion-checked-review-version.jpg)
+
+![Verify the saved motion-checked milestone](./images/c03-06-38-motion-checked-milestone-in-history.jpg)
 
 <details markdown="1">
 <summary>What should you see?</summary>
 
-Compared static/reveal alternatives with a reasoned selection. The result must be supported by the recorded checks; an attractive output or an AI assurance is insufficient.
+A tested zero-advance static alternative and three-advance staged alternative, with the floating-arrow defect repaired and retested. Both practice slides are skipped; the original delivery treatment remains. Review notes/comment preserve unresolved commitments, and a named version records the author check.
 
 </details>
-
-<!-- VERIFY: execute expanded section 6.4 and independent challenge; capture images/c03-06-04.jpg only after real application success. -->
 
 ## Independent Challenge
 

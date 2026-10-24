@@ -1,6 +1,6 @@
 # Screenshot Progress
 
-Updated 23 October 2026. Screenshots are real application captures, cropped or masked for privacy, and placed at the matching stage. Later formulas, charts, tables, comments and records are absent from earlier images.
+Updated 24 October 2026. Screenshots are real application captures, cropped or masked for privacy, and placed at the matching stage. Later formulas, charts, tables, comments and records are absent from earlier images.
 
 | Masterclass lab | Approved captures | Reference scope and remaining checks |
 |---|---:|---|
@@ -11,7 +11,7 @@ Updated 23 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 383 captures: 109 masterclass, 165 Docs and 109 Slides captures. Fourteen specialist routes have author-reference captures; Slides Lab 2 imports and Lab 6 casework remain partial. There are 30 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 399 captures: 109 masterclass, 165 Docs and 125 Slides captures. Fourteen specialist routes have author-reference captures; Slides Lab 2 imports remain partial. There are 30 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -80,3 +80,7 @@ Seventeen additional full-size application-window captures complete guided secti
 ### 23 October 2026: Slides 6.1–6.3 captured, casework pending
 
 Twenty-two full original-size application windows: Fade on workflow only, one Project hub Appear on-click effect, before/after editor preview with one advance; keyboard sequence from title through explanatory text, three stages and two connectors; three stage descriptions and both linked-chart descriptions; status category values repeated at22pt after identifying small embedded labels; review notes; proposed-workflow title repair; named Sponsor update reviewed version and earlier-version comparison without restoring. Programme383images, Slides109, retained380sources (363application windows,6focused,11PDFpages). Extended6.4 static/reveal alternatives, independent challenges, screen-reader/projector and learner timing pending. Thirty untouched specialist routes: Slides2,Foundation8,Advanced12,AI8.
+
+### 24 October 2026: Slides 6.4 guided casework completed
+
+Actual Slideshow tested static zero reveal advances and staged three. Initial orphan arrows repaired with Appear With previous immediately after destination boxes, then all initial/reveal states retested. Original Decisions facts visible immediately with zero reveals. Repaired staged keyboard sequence checked: title, explanation, three stages, two connectors. Copied hub descriptions corrected. Both practice slides skipped; original one-reveal delivery selected. Private review comment and Sponsor update reviewed - motion checked history milestone saved. Independent challenge, screen-reader/projector and learner timing remain pending. The 6.4 journal spans an overnight disconnect; no continuous active-time or classroom-duration claim is made. Programme399images, Slides125, retained396sources (379application windows,6focused,11PDFpages). Sixteen new full original-size PNGs retained with privacy masks and no crops. Historical entries above describe the state at their recorded date.

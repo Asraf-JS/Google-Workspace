@@ -11030,6 +11030,354 @@
       "notes": [
         "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
       ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-23-static-practice-without-motion.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-23-static-practice-without-motion.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1526,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "8e7b0f62481a0faf8b971cebfe85d2992506c96688dcff1ee1ff2f92f1b36713",
+      "notes": [
+        "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-24-staged-practice-three-on-click-effects.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-24-staged-practice-three-on-click-effects.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1526,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "adb7aabf13c984cc9ee78216684095d29fc8e26d8093f9210acc5b8952f1b25d",
+      "notes": [
+        "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-25-staged-reveal-script-before-test.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-25-staged-reveal-script-before-test.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1526,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "66cab579a5a933feac7000a43bfa505b6b4ac08ae0a94f0dbf5ae37462793795",
+      "notes": [
+        "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-26-slideshow-static-zero-reveal-advances.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-26-slideshow-static-zero-reveal-advances.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1526,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "669b652462c1e0119d3559d501a5e22acfc5ba1760962dcaa3c62c3f714b404c",
+      "notes": [
+        "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-27-staged-start-shows-orphan-connectors.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-27-staged-start-shows-orphan-connectors.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1526,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "abddbc7e524d1f70ee261b87afc701ef81c501a1ae13bdec69ab3393505a0cd4",
+      "notes": [
+        "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-28-staged-connectors-with-destination-effects.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-28-staged-connectors-with-destination-effects.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "6e77f80a9ab8471cde557a15bf8c48e3376a4c316dd7e403507909ee94e806c3",
+      "notes": [
+        "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-29-staged-slideshow-initial-no-orphan-arrows.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-29-staged-slideshow-initial-no-orphan-arrows.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "678362062e5b698ecbe6cc5d84d81a19939ac067e8e8d117511a6cf0f52ae370",
+      "notes": [
+        "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-30-staged-slideshow-first-source.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-30-staged-slideshow-first-source.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "9bdb00ac5ac279531d78bcafdfaecfc817b7a3c55d5b4e74c8a18a70a6ec2f7e",
+      "notes": [
+        "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-31-staged-slideshow-second-checked-and-connector.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-31-staged-slideshow-second-checked-and-connector.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "6faa1c2b1f35f4502cf402e2932fe58628d3d2f490561a6b9060adb0648ed6eb",
+      "notes": [
+        "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-32-staged-slideshow-third-hub-and-connector.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-32-staged-slideshow-third-hub-and-connector.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "17c94a92b1e54b9d71dce1509076ba3e1bd5209f229bf88da7d29324c4b267b3",
+      "notes": [
+        "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-33-practice-alternatives-skipped-after-testing.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-33-practice-alternatives-skipped-after-testing.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "f5bfcc12e27e4858521dd74747b4573ef51bbb12f7fa1f858b2a00aadf27256f",
+      "notes": [
+        "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-34-decisions-slideshow-zero-reveals.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-34-decisions-slideshow-zero-reveals.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "0ddd8c39a3d93eae8f43b05559377fb51711ef724752025273924c55ac7a81da",
+      "notes": [
+        "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-35-staged-keyboard-connectors-follow-labelled-stages.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-35-staged-keyboard-connectors-follow-labelled-stages.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "2cd1a8ee25c32d282561ec033bd2f0bd22d39275b9d8799c3ab243283a74596a",
+      "notes": [
+        "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-36-motion-selection-and-factual-review-comment.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-36-motion-selection-and-factual-review-comment.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ],
+        [
+          788,
+          228,
+          828,
+          270
+        ]
+      ],
+      "sha256": "dd75e1b74e697de6f4ad8e67d4b4f6ff7dd7ad7d772239399b31881fd8de705d",
+      "notes": [
+        "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-37-name-motion-checked-review-version.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-37-name-motion-checked-review-version.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ],
+        [
+          788,
+          228,
+          828,
+          270
+        ]
+      ],
+      "sha256": "e1ab63252a961515367a8f5f84e2e43293d6aa1e0202f6083e8ded7a90848513",
+      "notes": [
+        "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
+      ]
+    },
+    "03-google-slides/06-motion-review/images/c03-06-38-motion-checked-milestone-in-history.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-38-motion-checked-milestone-in-history.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "4c6b97b9feb3d84a36e3b7653f5ff0f04a158e6af052d4f092674019903bedfd",
+      "notes": [
+        "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
+      ]
     }
   },
   "missing_originals": [
