@@ -6418,19 +6418,14 @@
         "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-01-mode-menu.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-01-mode-menu.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-01-mode-menu.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        1780,
-        60,
-        2070,
-        275
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2070,
@@ -6446,21 +6441,18 @@
         ]
       ],
       "sha256": "32e7062224857708fdfbf79ede34d82271d98e39ba6ac4142e9d6a3fd5b3f75b",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-02-clarity-pending.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-02-clarity-pending.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-02-clarity-pending.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        560,
-        125,
-        1755,
-        390
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2070,
@@ -6482,21 +6474,18 @@
         ]
       ],
       "sha256": "a9d9214914dbd8ccb154c8901f99d2bb47bee03d54e925df6ac298be23c389a0",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-03-clarity-accepted.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-03-clarity-accepted.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-03-clarity-accepted.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        710,
-        125,
-        1390,
-        270
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2070,
@@ -6512,21 +6501,18 @@
         ]
       ],
       "sha256": "c9069d23e5cbc904e2e475f3247c5829bf7d21f6b4c425bf9d055912e367ba54",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-04-budget-pending.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-04-budget-pending.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-04-budget-pending.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        565,
-        130,
-        1755,
-        420
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2070,
@@ -6548,21 +6534,18 @@
         ]
       ],
       "sha256": "e481738c0eeebd57738144ab4d81a7288ab01f7edfdf7bb547e56974433df10a",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-05-budget-rejected.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-05-budget-rejected.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-05-budget-rejected.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        710,
-        130,
-        1390,
-        250
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2070,
@@ -6578,21 +6561,18 @@
         ]
       ],
       "sha256": "37bcd49ab77de3e79dad1a389df874b3bbb03784bed10d423c00da6230f1bd29",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-06-date-comment-draft.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-06-date-comment-draft.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-06-date-comment-draft.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        560,
-        300,
-        1755,
-        680
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1337,
@@ -6614,21 +6594,18 @@
         ]
       ],
       "sha256": "1322141b0d5566b006fddf2e6428e37809f9f1e95dfe7d7f4d149536b27dffb7",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-07-date-source-reply.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-07-date-source-reply.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-07-date-source-reply.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        560,
-        300,
-        1755,
-        795
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1337,
@@ -6650,21 +6627,18 @@
         ]
       ],
       "sha256": "d0c7b6005ad247d6b3c190719066384da3605a3569351d36b3c00cf12a42e833",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-08-date-reply-posted.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-08-date-reply-posted.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-08-date-reply-posted.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        560,
-        300,
-        1755,
-        880
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1337,
@@ -6692,21 +6666,18 @@
         ]
       ],
       "sha256": "5d9588d361d56ec12af743736a06ec89d1fc9134ec3142f78563eb607074d613",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-09-date-editorial-resolved.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-09-date-editorial-resolved.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-09-date-editorial-resolved.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        710,
-        310,
-        1390,
-        535
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2070,
@@ -6722,21 +6693,18 @@
         ]
       ],
       "sha256": "56a63f538b92d3b75e5944d3a51346c3a17fe3a19e18cb48e5dd74e2e02b20f8",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-10-version-menu.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-10-version-menu.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-10-version-menu.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        60,
-        40,
-        700,
-        810
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2070,
@@ -6752,21 +6720,18 @@
         ]
       ],
       "sha256": "08381b581da9cf31a3c6f00efe0774a195802ecde2ee7a3bc6de3e8ec3169813",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-11-milestone-name.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-11-milestone-name.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-11-milestone-name.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        850,
-        390,
-        1275,
-        665
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2072,
@@ -6782,21 +6747,18 @@
         ]
       ],
       "sha256": "88d759003e5ecc170e464457c56e0f04e60e4fed87d87b816230686b0f3be2a8",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-12-named-history.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-12-named-history.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-12-named-history.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        1800,
-        10,
-        2125,
-        455
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -6806,21 +6768,18 @@
         ]
       ],
       "sha256": "45ce3244e43705b308a5ea004fc26e6cc1a9d2a6c27c5411c1cb6ff29eb51975",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-13-prior-version-inspection.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-13-prior-version-inspection.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-13-prior-version-inspection.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        0,
-        2128,
-        580
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -6830,21 +6789,18 @@
         ]
       ],
       "sha256": "939bfbb43e8f5201d19c6a525f7b84652a3b1e9d2bf8f3ba73b0197d3bd9dffe",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-15-editorial-baseline-name.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-15-editorial-baseline-name.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-15-editorial-baseline-name.png",
       "dimensions": [
         1591,
         920
       ],
       "kind": "application-window",
-      "approved_crop": [
-        550,
-        310,
-        1025,
-        600
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1538,
@@ -6854,21 +6810,18 @@
         ]
       ],
       "sha256": "d9f544cce48c68103cee95a14a57044e07956a8a3a30320b104c45b5baf8c5c9",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-16-controlled-clarity-pending.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-16-controlled-clarity-pending.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-16-controlled-clarity-pending.png",
       "dimensions": [
         1591,
         920
       ],
       "kind": "application-window",
-      "approved_crop": [
-        340,
-        115,
-        1545,
-        330
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1536,
@@ -6884,21 +6837,18 @@
         ]
       ],
       "sha256": "37838edf27c04816e29bece2476f1777f892e4a9f0871977b5a875e31e9a47f9",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-17-controlled-clarity-accepted.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-17-controlled-clarity-accepted.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-17-controlled-clarity-accepted.png",
       "dimensions": [
         1591,
         920
       ],
       "kind": "application-window",
-      "approved_crop": [
-        425,
-        120,
-        1100,
-        245
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1536,
@@ -6908,21 +6858,18 @@
         ]
       ],
       "sha256": "291e3d7c7b8a0c0571267233c6c5641b48ae5bda33548d72fe94192ffe791dbb",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-18-budget-rejection-reason.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-18-budget-rejection-reason.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-18-budget-rejection-reason.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        350,
-        120,
-        1540,
-        425
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1134,
@@ -6944,21 +6891,18 @@
         ]
       ],
       "sha256": "2015b24b45cd4567fb64c784dcb4a632443ac145b29841c2464f84136b1cb79a",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-19-controlled-budget-rejected.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-19-controlled-budget-rejected.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-19-controlled-budget-rejected.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        425,
-        120,
-        1100,
-        245
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1536,
@@ -6968,21 +6912,18 @@
         ]
       ],
       "sha256": "156a2695075c103ec0b97d8b8b3fe0b83974b2a83bc836405e43c44f3b1ed143",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-20-contact-deferred-open.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-20-contact-deferred-open.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-20-contact-deferred-open.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        355,
-        320,
-        1540,
-        635
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1536,
@@ -6998,21 +6939,18 @@
         ]
       ],
       "sha256": "da88eb9ca3044c74df05f70f08dda8c8e35a334cba187fcca3e183abf89aef99",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-21-friday-question-posted.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-21-friday-question-posted.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-21-friday-question-posted.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        350,
-        300,
-        1540,
-        620
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1536,
@@ -7028,21 +6966,18 @@
         ]
       ],
       "sha256": "8c17217922bc84318d6d4b5c675dc5b8c46137b65b9a18ef2723928dbf4582a5",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-22-friday-source-reply.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-22-friday-source-reply.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-22-friday-source-reply.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        350,
-        300,
-        1540,
-        760
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1134,
@@ -7064,21 +6999,18 @@
         ]
       ],
       "sha256": "2466f2c8b8148a049e2f9bcd1b4a36cc576b0c8d221ee5440eb4e34cdfcdda26",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-23-friday-editorial-resolved.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-23-friday-editorial-resolved.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-23-friday-editorial-resolved.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        350,
-        300,
-        1100,
-        510
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1536,
@@ -7088,21 +7020,18 @@
         ]
       ],
       "sha256": "c3208fe3bd3c32e0781c41ce4fcdfad396e201e350864968780cc6d38c8ac0f7",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-24-review-comparison-copy.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-24-review-comparison-copy.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-24-review-comparison-copy.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        555,
-        175,
-        1040,
-        690
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1538,
@@ -7112,55 +7041,46 @@
         ]
       ],
       "sha256": "ccceeaeef6fbee1ddb5c70c5d52ee8bcf1b251c163de46ef6f99ae224a7d230b",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-25-baseline-history-selected.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-25-baseline-history-selected.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-25-baseline-history-selected.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        0,
-        1591,
-        560
-      ],
+      "approved_crop": null,
       "privacy_masks": [],
       "sha256": "a6767989faee7e2d58059af75863892a415a450e05a38623c30ea7b541c0f77b",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-26-baseline-version-copy.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-26-baseline-version-copy.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-26-baseline-version-copy.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        555,
-        210,
-        1040,
-        650
-      ],
+      "approved_crop": null,
       "privacy_masks": [],
       "sha256": "4a4bd24c8d46c1fc5ede3462d995c94f821678fc912046381c3bf5d1a9051a1a",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-27-comparison-only-approval-proposal.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-27-comparison-only-approval-proposal.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-27-comparison-only-approval-proposal.png",
       "dimensions": [
         1591,
         920
       ],
       "kind": "application-window",
-      "approved_crop": [
-        350,
-        180,
-        1100,
-        515
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1536,
@@ -7170,21 +7090,18 @@
         ]
       ],
       "sha256": "8c7a0e77eee528726c5bd6eee5981553cd633b7b7b6824e8c40558bc377ab2f5",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-28-tools-compare-command.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-28-tools-compare-command.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-28-tools-compare-command.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        175,
-        40,
-        740,
-        720
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1536,
@@ -7194,21 +7111,18 @@
         ]
       ],
       "sha256": "ecead7a2d46f33fd88fb8f87e4675e7081038030e436f2705e40618977b9a142",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-30-baseline-original-clarity.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-30-baseline-original-clarity.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-30-baseline-original-clarity.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        350,
-        650,
-        1100,
-        868
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1536,
@@ -7218,21 +7132,18 @@
         ]
       ],
       "sha256": "2f3800f6bb160bf3a87522bf722c4612ebffa149107db250e556c24be217b819",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-31-comparison-accepted-clarity.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-31-comparison-accepted-clarity.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-31-comparison-accepted-clarity.png",
       "dimensions": [
         1591,
         920
       ],
       "kind": "application-window",
-      "approved_crop": [
-        350,
-        650,
-        1100,
-        915
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1536,
@@ -7242,21 +7153,18 @@
         ]
       ],
       "sha256": "bab621b4548efab3eaee4d83d6a45e28fcb27b537a52e34cf75fc8c113741c84",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-32-baseline-proposed-budget.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-32-baseline-proposed-budget.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-32-baseline-proposed-budget.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        350,
-        110,
-        1100,
-        300
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1536,
@@ -7266,21 +7174,18 @@
         ]
       ],
       "sha256": "ff8585f2ffb9798249312790716396b8e9a5eedf5ac99b8c9ca554186214ba1a",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-33-four-review-decisions.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-33-four-review-decisions.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-33-four-review-decisions.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        350,
-        420,
-        1100,
-        868
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1536,
@@ -7290,21 +7195,18 @@
         ]
       ],
       "sha256": "a021449988156267656a5fa03d0aa77bbe9ca5302a36116b26caa48b5e925a80",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-34-manual-comparison-record.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-34-manual-comparison-record.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-34-manual-comparison-record.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        350,
-        110,
-        1100,
-        815
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1536,
@@ -7314,21 +7216,18 @@
         ]
       ],
       "sha256": "23876c9ea02005a40ae63f5622916b5e8b793381da16483c3b151409595e4b0c",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-35-checked-milestone-name.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-35-checked-milestone-name.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-35-checked-milestone-name.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        555,
-        300,
-        1040,
-        635
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1538,
@@ -7338,24 +7237,23 @@
         ]
       ],
       "sha256": "2db9d3310fbd6f6425ccaea25dc2ffd56cd9312b4304ce90524a1651469b5d59",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-36-baseline-and-checked-history.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-36-baseline-and-checked-history.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-36-baseline-and-checked-history.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        0,
-        1591,
-        640
-      ],
+      "approved_crop": null,
       "privacy_masks": [],
       "sha256": "cdbadb89774d052dde1067b34ada86de5eff349dada7fd6ad80f61657efca136",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
     "02-google-docs/06-adapt-accessibility/images/c02-06-01-sponsor-panel-request.jpg": {
       "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-01-sponsor-panel-request.png",
