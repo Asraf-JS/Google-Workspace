@@ -11,7 +11,7 @@ Updated 24 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 536 captures: 109 masterclass, 165 Docs, 173 Slides and 89 Foundation. Twenty specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 24 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 570 captures: 109 masterclass, 165 Docs, 173 Slides and 123 Foundation. Twenty-one specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 23 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -116,3 +116,7 @@ Foundation Lab 3 has 23 staged author-reference captures through 3.4: row varian
 ### 25 October 2026: Foundation 4 cleaning and record integrity
 
 Foundation Lab 4 adds22 staged captures: preserved raw text and TRIM/length checks, separate sorting copy, header-aware whole-record sorts, frozen header after scrolling, PlannedCosts exact bounds and10400 reconciliation, preserved five-row intake, one scoped case replacement, identical duplicate retention, unresolved Blocked, and a disposable single-column sort immediately undone with exact six-column restoration. Original Tasks values/formulas remain unchanged. Manual raw-entry fallback was used; CSV import, independent boundary challenge and learner timing remain unverified. Programme536 images; retained533 sources (510 application windows,6 focused views,17 PDF pages). Untouched routes:Foundation4,Advanced12,AI8.
+
+### 25 October 2026: Foundation 5 validation and filter views
+
+Foundation Lab 5 adds34 staged captures: strict canonical status rules and actual Done rejection, planned status/week matrix, whole-week custom formula accepting1/4 and rejecting0/5/1.5, clearing limitations, restored practice week1, entry guide, two saved bounded filter views with8/2 checked IDs, and ordinary SUM10400 before/during filtering. Views are closed with all12 source rows visible; source values/formulas and original practice records are unchanged. Independent Procurement/coverage repair and learner timing remain pending. Programme570 images; retained567 sources (544 application windows,6 focused views,17 PDF pages). Untouched routes:Foundation3,Advanced12,AI8.
