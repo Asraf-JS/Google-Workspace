@@ -8,7 +8,7 @@ In this chapter you will use presenter view, notes and audience tools; compare r
 
 **Your result:** A rehearsed delivery and a documented distribution choice.
 
-> **Status:** expanded review draft, revision 0.4. Complete the casework and independent challenge as well as the guided steps. The expanded route, screenshots and timing have not yet been validated in the learner application.
+> **Status:** partial author reference run with 10 staged real-application captures. Presenter/audience separation, opening and decision notes, skipped-slide navigation, unstarted Q&A, restricted access and unpublished Link/Embed options inspected in 7.1–7.3. Spoken rehearsals, 7.4 PDF/fallback casework, independent challenge and learner timing remain pending.
 
 ## What You Will Learn
 
@@ -24,48 +24,74 @@ Use the checked deck. No real audience invitations or public publication are req
 
 ## 7.1 Rehearse with Notes
 
-1. Open the Slideshow menu and choose Presenter view.
-2. Check the notes and slide progression. Practise the opening and the decision request.
-3. Check the skipped backup slide does not appear in the main sequence.
+1. Open the arrow beside **Slideshow** and choose **Presenter view**. The reference opens a separate presenter window and leaves an audience presentation in the original window. Inspect both before sharing a screen: the audience must receive the slide window rather than the speaker-notes window.
+
+![Open Presenter view from the Slideshow menu](./images/c03-07-01-presenter-view-launch-menu.jpg)
+
+2. In the presenter window select **SPEAKER NOTES**. Use the slide selector to choose the opening. In the observed UI, focus the selector and press **Enter** to open its list, then choose the labelled slide. The presenter can see source qualifications while the audience window displays only the slide. Pause the timer while arranging windows; the reference's **00:00:24** is setup time, not a speaking result.
+
+![Presenter window shows the opening and private speaker notes](./images/c03-07-02-presenter-opening-with-speaker-notes.jpg)
+
+![Audience window shows the slide without notes](./images/c03-07-03-audience-opening-without-speaker-notes.jpg)
+
+3. Choose the decision slide, **Budget and start date need sponsor agreement**. Read the notes and practise requesting approval of the proposed RM 12000 ceiling and agreement of the start date. Do not describe either as an accomplished decision. The reference checked the visible notes and navigation; a spoken, timed rehearsal is still required in 7.4.
+
+![Decision slide notes preserve unresolved approval and start](./images/c03-07-04-presenter-decisions-with-notes.jpg)
+
+4. Click **Next** from slide 5. The reference moved directly to slide 7, **Agree the start, then coordinate Friday updates**, skipping the marked backup slide 6. Confirm the source qualifications remain in the notes. A successful skip check does not establish that all appendix slides are excluded from the delivery sequence; inspect your intended scope separately.
+
+![Next moves from slide 5 to slide 7 and skips the backup](./images/c03-07-05-next-skips-backup-slide-six.jpg)
 
 <details markdown="1">
 <summary>What should you see?</summary>
 
-You can deliver the deck while using notes without displaying them to the audience.
+Separate presenter notes and audience slides, source-based opening/decision notes, and normal navigation that omits the skipped backup. Complete a real spoken rehearsal before claiming delivery timing or fluency.
 
 </details>
-
-<!-- VERIFY: execute 7.1 in the target account and reconcile control names. Capture images/c03-07-01.jpg only from the real app. -->
 
 ## 7.2 Inspect Audience Tools
 
-1. In presenter view, inspect available audience/Q&A controls.
-2. Explain whether enabling a session would create an audience link; leave it unstarted unless assigned by the trainer.
-3. Return to editing and inspect the Share dialog without changing access.
+1. Select **AUDIENCE TOOLS** in the presenter window. The reference shows **Start new**. Leave it untouched: no live Q&A session or audience link is needed for this inspection. Google's [Q&A instructions](https://support.google.com/docs/answer/6386827?co=GENIE.Platform%3DDesktop&hl=en-GB) explain that starting a session enables questions through the link shown in the presentation. That behaviour is documentation-backed, not a live-session test in this reference.
+
+![Audience tools offer Start new but the session remains unstarted](./images/c03-07-06-audience-tools-session-not-started.jpg)
+
+2. Close the presenter window and press **Esc** in the audience presentation to return to editing. Open **Share**. Inspect **People with access** and **General access** without entering a recipient, changing a role or copying a link. The reference showed the owner only and **Restricted**. A link does not grant access by itself. Select **Done** to close the dialog.
+
+![Share dialog shows Restricted access and the owner only](./images/c03-07-07-share-dialog-restricted-owner-only.jpg)
 
 <details markdown="1">
 <summary>What should you see?</summary>
 
-You know which operation would share a file or start an audience interaction.
+The Q&A session remains unstarted and file access remains at its existing restricted level. No invitation or access test with another person has occurred.
 
 </details>
-
-<!-- VERIFY: execute 7.2 in the target account and reconcile control names. Capture images/c03-07-02.jpg only from the real app. -->
 
 ## 7.3 Compare Distribution Choices
 
-1. Inspect the Publish to web option through the File sharing menu if available, then cancel before publishing.
-2. Compare a restricted file link, downloaded PDF and published presentation.
-3. Record which option suits the intended audience and what evidence must be checked before distributing it.
+1. Open **File > Share > Publish to web**. Inspect the dialog before selecting any publishing action. In the reference it explicitly says **This document is not published to the web**.
+
+![Locate File Share Publish to web](./images/c03-07-08-file-share-publish-to-web-option.jpg)
+
+![Publishing dialog confirms the deck is not published](./images/c03-07-09-publish-dialog-not-published.jpg)
+
+2. Compare **Link** and **Embed**. Link shows auto-advance controls; Embed also offers a slide-size choice. The observed defaults were every 3 seconds and Medium (960x569). Leave these settings unchanged, then select **Close**. Do not press **Publish**.
+
+![Inspect Embed settings then close without publishing](./images/c03-07-10-publish-embed-options-before-close.jpg)
+
+3. Record a distribution choice using the table below. For this fictional draft, retain the restricted editable source for author work. A future approved reviewer handout can be a checked, dated PDF; its export scope, visual order and links still require the 7.4 test. The source pack does not authorise public publication.
+
+| Choice | Intended use and update behaviour | Access and evidence to check |
+|---|---|---|
+| Restricted file link | Author or approved reviewers use the current source; source edits remain in that file. | Recipient identity, role, current access and correct revision. The reference remains owner-only; no recipient test was performed. |
+| Downloaded PDF | A fixed handout or offline fallback at the recorded export revision; it does not refresh with later source edits. | Intended slide scope, skipped-slide inclusion, text and chart values, links, revision/date and permitted destination. Actual export/fallback test pending in 7.4. |
+| Published presentation | A separate web-viewing or embed distribution route. Published content and update settings need their own review. | Whether web exposure is authorised, audience suitability and published settings. The dialog was inspected and closed; this deck is not published. |
 
 <details markdown="1">
 <summary>What should you see?</summary>
 
-Your deck remains at its existing sharing level and is not publicly published.
+A documented choice with its checks. The native file remains restricted and unpublished. No PDF delivery or live audience session is implied by inspecting these dialogs.
 
 </details>
-
-<!-- VERIFY: execute 7.3 in the target account and reconcile control names. Capture images/c03-07-03.jpg only from the real app. -->
 
 ## 7.4 Rehearse an Accessible Delivery and Test Distribution
 

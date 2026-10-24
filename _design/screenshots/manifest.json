@@ -11378,6 +11378,199 @@
       "notes": [
         "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
       ]
+    },
+    "03-google-slides/07-delivery-sharing/images/c03-07-01-presenter-view-launch-menu.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-01-presenter-view-launch-menu.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ],
+        [
+          788,
+          350,
+          831,
+          393
+        ]
+      ],
+      "sha256": "9026489a615e5cb70207964587a51071d3875aa04c6f6372bc98c41db14e53a5",
+      "notes": [
+        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
+      ]
+    },
+    "03-google-slides/07-delivery-sharing/images/c03-07-02-presenter-opening-with-speaker-notes.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-02-presenter-opening-with-speaker-notes.png",
+      "dimensions": [
+        730,
+        537
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "43999bc495a2af83a567e20a9da48546d50f97ea78245d744f9a86f113f1cbfa",
+      "notes": [
+        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
+      ]
+    },
+    "03-google-slides/07-delivery-sharing/images/c03-07-03-audience-opening-without-speaker-notes.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-03-audience-opening-without-speaker-notes.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "89adf78c6836d56673c94917dc9c4828886313d92e48086ed0c9e5f729400541",
+      "notes": [
+        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
+      ]
+    },
+    "03-google-slides/07-delivery-sharing/images/c03-07-04-presenter-decisions-with-notes.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-04-presenter-decisions-with-notes.png",
+      "dimensions": [
+        730,
+        537
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "97699343341f8bb231460d621057d19e438f4288d8ec58cce151602b5183d3b7",
+      "notes": [
+        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
+      ]
+    },
+    "03-google-slides/07-delivery-sharing/images/c03-07-05-next-skips-backup-slide-six.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-05-next-skips-backup-slide-six.png",
+      "dimensions": [
+        730,
+        537
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "c719a6b2ca96b969040ac14f2cf14167414eacd2fde9adf3740233b9b3d5407b",
+      "notes": [
+        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
+      ]
+    },
+    "03-google-slides/07-delivery-sharing/images/c03-07-06-audience-tools-session-not-started.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-06-audience-tools-session-not-started.png",
+      "dimensions": [
+        730,
+        537
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "e660098fd0eddb2e395a73be40ec424b432bc5c748f67bb79beb0989f1345d0b",
+      "notes": [
+        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
+      ]
+    },
+    "03-google-slides/07-delivery-sharing/images/c03-07-07-share-dialog-restricted-owner-only.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-07-share-dialog-restricted-owner-only.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ],
+        [
+          346,
+          426,
+          382,
+          465
+        ],
+        [
+          390,
+          446,
+          650,
+          469
+        ]
+      ],
+      "sha256": "d657a6e45c91215ec75857239f5cd1db4e6a05ac040e09da017255c38d5f6c73",
+      "notes": [
+        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
+      ]
+    },
+    "03-google-slides/07-delivery-sharing/images/c03-07-08-file-share-publish-to-web-option.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-08-file-share-publish-to-web-option.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "12e1f579c1a22ddca6ec54b87219e4d4ebb1eea1c38f3805fcfc141261f0cce6",
+      "notes": [
+        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
+      ]
+    },
+    "03-google-slides/07-delivery-sharing/images/c03-07-09-publish-dialog-not-published.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-09-publish-dialog-not-published.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "cfcd36aadf34f5fd0f5e831e591c708078a9587108225b1d478bdc835f531cd6",
+      "notes": [
+        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
+      ]
+    },
+    "03-google-slides/07-delivery-sharing/images/c03-07-10-publish-embed-options-before-close.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-10-publish-embed-options-before-close.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "fdeae7a0041016c7de1e2b57cc959e8c5e42bf0d13e44d4d489ce031214c219c",
+      "notes": [
+        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
+      ]
     }
   },
   "missing_originals": [
