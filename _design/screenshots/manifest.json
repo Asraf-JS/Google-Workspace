@@ -12834,6 +12834,384 @@
       "notes": [
         "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
       ]
+    },
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-01-numeric-cost-in-formula-bar.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-01-numeric-cost-in-formula-bar.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "0565073d31c3e1fd929e9ccb4067633525481c7b2845c6365f639715bf60381c",
+      "notes": [
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-02-custom-ringgit-no-decimals-selected.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-02-custom-ringgit-no-decimals-selected.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "328e413c2ca3986a7b495b37f9ce7076d78153aa4791bdf61667e96f2e070681",
+      "notes": [
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-03-cost-range-displays-ringgit-numeric-values.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-03-cost-range-displays-ringgit-numeric-values.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "726f0a52cb38cff3f8190464f278415248fed1784d18a51becf4497e704a10b6",
+      "notes": [
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-04-week-index-whole-number-not-date.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-04-week-index-whole-number-not-date.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "380b7b2be8e764236c75902732b2a067627299d9a4498412704f7254f1c23374",
+      "notes": [
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-05-retain-readable-header-contrast.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-05-retain-readable-header-contrast.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "38a0e8dd9c6cb52d872c8c2556a52b7a337471e224c5016bfb4bcbcc96fd3128",
+      "notes": [
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-06-wrapped-task-text-and-readable-owner-widths.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-06-wrapped-task-text-and-readable-owner-widths.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "1344d980db6a30b51e4088c700cf09d7e952c3f8d2db6c013e92f3ba964a0da1",
+      "notes": [
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-07-fit-source-row-heights-to-data.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-07-fit-source-row-heights-to-data.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "1961e96cda4774ed94cc0b67fa92f3f7afdbf75d2ee6c4f560b3c65318f49b6d",
+      "notes": [
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-08-practice-date-outside-source-register.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-08-practice-date-outside-source-register.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "db173c5d524d094bc47428a5d593ba6b4541f47667fb61dd6c3bb969876e6183",
+      "notes": [
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-09-numeric-ringgit-practice-formula-bar.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-09-numeric-ringgit-practice-formula-bar.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "f919ea9d837cc2190e8ea5865b9d9d3023b70bfd9b876a73fc62c08463ec44ab",
+      "notes": [
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-10-text-cost-practice-formula-bar.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-10-text-cost-practice-formula-bar.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "0ed2c7d5ea9877969088be8aabd58d26fcc6a06479fe9fc4c8c7756b30b261f2",
+      "notes": [
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-11-labelled-type-test-inputs-on-entry-practice.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-11-labelled-type-test-inputs-on-entry-practice.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "f99b82573cbe1be1ef423fb3e702a1cb3280558b237070222babd6c69715e43d",
+      "notes": [
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-12-sum-count-check-distinguishes-number-and-text.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-12-sum-count-check-distinguishes-number-and-text.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "a81c803dbfcd78337b94979e245abab719d20d99d59b06afc11a4418e79183da",
+      "notes": [
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-13-practice-table-header-wrap-and-number-formats.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-13-practice-table-header-wrap-and-number-formats.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "60535d48d8361537464140bf2a59da6e8e9d55bbc9018c6dd5ef475efd7b3ac9",
+      "notes": [
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-14-paste-comparison-targets-before-transfer.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-14-paste-comparison-targets-before-transfer.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "bcafdbbce85791fe55133369b8ffa4d48ab69aea3c5e2edc57af634fdc8d91e4",
+      "notes": [
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-16-paste-special-format-only-command.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-16-paste-special-format-only-command.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "ed8523b972bd66cf6bc6d9040b8b3fc5ab90d9b1ea103745a1b5a7dbbe958872",
+      "notes": [
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-17-format-only-keeps-target-value-123.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-17-format-only-keeps-target-value-123.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "f76d10549af17caf757caf1531de89849c17e2484b9677c1be6616abbe1782b9",
+      "notes": [
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-18-observations-and-source-numeric-counts-recorded.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-18-observations-and-source-numeric-counts-recorded.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "21911a181d1342f1443b3364eefe877a4aa5c35af4584cc4bcf01c570a297160",
+      "notes": [
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-19-final-source-values-preserved-after-formatting.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-19-final-source-values-preserved-after-formatting.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "e250b9ecbafdd6aebcc21d3befb5a564aac85a3bf4f882986c9cbb683cdb1d60",
+      "notes": [
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+      ]
     }
   },
   "missing_originals": [

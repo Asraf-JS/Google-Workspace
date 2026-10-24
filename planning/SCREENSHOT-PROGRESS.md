@@ -11,7 +11,7 @@ Updated 24 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 473 captures: 109 masterclass, 165 Docs, 173 Slides and 26 Foundation. Seventeen specialist routes have author-reference captures; upload handoffs, Slides imports and spoken/reviewer/interactive PDF checks remain partial. There are 27 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 491 captures: 109 masterclass, 165 Docs, 173 Slides and 44 Foundation. Eighteen specialist routes have author-reference captures; values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 26 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -104,3 +104,7 @@ Slides Lab 8 now has 25 stages: separate practice revision/milestone; isolated s
 ### 24 October 2026: Foundation 1 author reference
 
 Foundation Lab 1 has 26 current-stage application captures through 1.4: isolated folder, instructor manual XLSX upload, actual Save as Google Sheets conversion, named native copy, source navigation, separate Navigation Practice, four checked address/TaskID mappings, three-row Entry Practice reconstruction, cell/row/column/range selections, tab reorder and native reopen from Drive. All eight fields in three reconstructed records match; original Tasks!A1:H13 and its cell metadata remain unchanged. File type/title/location and which file to edit are recorded in Workbook Guide. Browser upload itself, independent challenge and learner timing remain unverified. Programme: 473 images; retained: 470 sources (447 application windows, 6 focused views, 17 PDF pages). Remaining untouched routes: Foundation 7, Advanced 12, AI 8.
+
+### 24 October 2026: Foundation 2 formatting and type checks
+
+Foundation Lab 2 has 18 staged captures: numeric600 versus currency display, custom RM/no-decimal and whole-week formats, retained source header/widths, wrapping and row fit, practice-only date, numeric/text cost tests with SUM600/COUNT1, practice-table readability and format-only123. Source counts24cost/12week and all original twelve records are unchanged. Values-only target-format preservation remains unverified after shortcut and direct-menu attempts; manual retest is required. Independent intake/partner and learner-timing checks remain pending. Programme:491 images; retained:488 sources (465 application windows,6 focused views,17 PDF pages). Untouched routes:Foundation6,Advanced12,AI8.
