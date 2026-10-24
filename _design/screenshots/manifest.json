@@ -5512,19 +5512,14 @@
         "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/03-styles-navigation.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-page-setup-before.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-page-setup-before.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-page-setup-before.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        850,
-        230,
-        1275,
-        825
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -5540,21 +5535,18 @@
         ]
       ],
       "sha256": "88b14d60e7540cced331392bbb6dae1df964f6a765646c8df2aec467572b9338",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-pageless-inspection.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-pageless-inspection.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-pageless-inspection.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        850,
-        120,
-        1275,
-        900
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -5570,21 +5562,18 @@
         ]
       ],
       "sha256": "dcaf35290ee46d537dc5b884f3afcf4ed40be15f8e964a0b0d005e15bb070c9d",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-a4-margins.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-a4-margins.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-a4-margins.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        850,
-        230,
-        1275,
-        825
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -5600,21 +5589,18 @@
         ]
       ],
       "sha256": "0904c343e2f02bc888d98edefd8b5323a9564626327edd99e16c9dd12569068c",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-first-page.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-first-page.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-first-page.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        640,
-        125,
-        1445,
-        1000
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -5630,21 +5616,18 @@
         ]
       ],
       "sha256": "f0fd1c999c620d567e00990e9597804456d7abaa3e1d96168ce1d3875de4bc03",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-page-elements-menu.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-page-elements-menu.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-page-elements-menu.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        180,
-        40,
-        900,
-        800
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -5660,21 +5643,18 @@
         ]
       ],
       "sha256": "a186692214487b924927a90a1c8cf8afd9750586ec796c4bfd2bd718f652e8ed",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-header.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-header.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-header.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        640,
-        125,
-        1445,
-        620
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -5690,21 +5670,18 @@
         ]
       ],
       "sha256": "c347ae3d742beeffc314aaf086262ec6c1d5c4c3891681b3a6e34a5d42795cc1",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-footer.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-footer.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-footer.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        640,
-        750,
-        1445,
-        1053
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -5720,21 +5697,18 @@
         ]
       ],
       "sha256": "b9459b5a47baacbbe2145210abfe0cae2aeab4d779dd6afeea7aeacb5dd613c0",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-live-number.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-live-number.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-live-number.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        640,
-        750,
-        1445,
-        1053
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -5750,21 +5724,18 @@
         ]
       ],
       "sha256": "367f1aac66094766416a1caed26068c8aaef2d43f1a47afab8cc0f399cd18479",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-page-boundary.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-page-boundary.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-page-boundary.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        640,
-        430,
-        1445,
-        1010
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -5780,21 +5751,18 @@
         ]
       ],
       "sha256": "53169a4c14189036610acf33ff76389832d1dadcc9c516d0316411fadd63e034",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-heading-pagination.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-heading-pagination.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-heading-pagination.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        250,
-        150,
-        1445,
-        980
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -5810,21 +5778,18 @@
         ]
       ],
       "sha256": "f4085fcabfc6ce7baa2bf4e4f5c82c16357cf206afc805f1c8ab0baa435053f8",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-log-break-control.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-log-break-control.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-log-break-control.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        250,
-        150,
-        1445,
-        980
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -5840,21 +5805,18 @@
         ]
       ],
       "sha256": "c43515ea121bdd63ef2adc0b563cde52bdcd5e9f2cb07f58128778126dc66c30",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-log-new-page.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-log-new-page.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-log-new-page.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        640,
-        750,
-        1445,
-        1053
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -5870,21 +5832,18 @@
         ]
       ],
       "sha256": "6ab0379426cdca2c7bad10cb8f00e94c38350e71ac2d2406e36cc89e835f37e4",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-pdf-menu.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-pdf-menu.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-pdf-menu.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        50,
-        40,
-        850,
-        700
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -5900,21 +5859,18 @@
         ]
       ],
       "sha256": "84416e645dbb1f55b885e4aa3d7e144d395f930560ccf5459ff4aae7f3880dcc",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-plan-header-unpinned.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-plan-header-unpinned.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-plan-header-unpinned.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        1780,
-        70,
-        2128,
-        800
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -5930,21 +5886,18 @@
         ]
       ],
       "sha256": "4f256942700d4d484772ae8cb4eb415e04933dfe2ac97ac0ece51c9941246c11",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-plan-header-pinned.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-plan-header-pinned.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-plan-header-pinned.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        1780,
-        70,
-        2128,
-        800
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -5960,21 +5913,18 @@
         ]
       ],
       "sha256": "1fbc39f30a387ddb14c733be83af70d42c4a29015f943ca982a8429f27f477d3",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-plan-continuation.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-plan-continuation.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-plan-continuation.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        640,
-        740,
-        1445,
-        1053
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -5990,21 +5940,18 @@
         ]
       ],
       "sha256": "c7232496c193ae5404fceb54037b2b77ff909fe4f35887ec182ec643980fd0b0",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-field-table-empty.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-field-table-empty.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-field-table-empty.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        640,
-        125,
-        1445,
-        1000
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -6020,21 +5967,18 @@
         ]
       ],
       "sha256": "e03a3147cdfe87aa3baa09d5d00ea0d38107c678f74a9edcd7bbc622a55543ed",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-field-table-headings.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-field-table-headings.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-field-table-headings.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        640,
-        125,
-        1445,
-        1000
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -6050,21 +5994,18 @@
         ]
       ],
       "sha256": "9aec94bbe785e5d7e6189b67825b498bd6792f1b3d20a6c5ea52ad7c23746e9d",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-field-table-populated.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-field-table-populated.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-field-table-populated.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        640,
-        125,
-        1445,
-        1000
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -6080,21 +6021,18 @@
         ]
       ],
       "sha256": "4d60edc44a2cd4a845cfaadc5b6853fe2feaa91b26648515f11edf9c0c95c42d",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-width-padding.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-width-padding.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-width-padding.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        1780,
-        70,
-        2128,
-        805
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -6110,21 +6048,18 @@
         ]
       ],
       "sha256": "e55b473ef2bdd6adce3e19d85e0b65b9ae478d9ff8211f51ec7d8366a466dd4a",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-field-header-pinned.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-field-header-pinned.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-field-header-pinned.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        1780,
-        70,
-        2128,
-        800
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -6140,21 +6075,18 @@
         ]
       ],
       "sha256": "f4b6751ac9281ed3449952fd6310e20ac88edc1728cba306b805772c24d7957a",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-practice-copy.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-practice-copy.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-practice-copy.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        830,
-        265,
-        1295,
-        785
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -6170,21 +6102,18 @@
         ]
       ],
       "sha256": "a0621427a4d2bef93b11135ce1b9f54d2b6f10e8561281002088bc199b0700c7",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-pageless-warning.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-pageless-warning.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-pageless-warning.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        850,
-        120,
-        1275,
-        890
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -6200,21 +6129,18 @@
         ]
       ],
       "sha256": "c47adc0f5ef72912f228948fc5b763cddefa98d44e02a656f7bddcedb850bd83",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-pageless-table.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-pageless-table.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-pageless-table.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        825,
-        130,
-        1540,
-        810
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -6230,21 +6156,18 @@
         ]
       ],
       "sha256": "8eb7d36d01f668f6934c5f421afe93e5ea53a8df42c5f80a1eff2ec7cdd69baf",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-maintained-pages.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-maintained-pages.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-maintained-pages.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        850,
-        230,
-        1275,
-        825
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -6260,21 +6183,18 @@
         ]
       ],
       "sha256": "f9fa43ecb37d8f3ed77bbaebe3dacfee2d6667e51e239d258c36d5034d1f7b9e",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-numbered-checklist.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-numbered-checklist.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-numbered-checklist.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        710,
-        600,
-        1400,
-        990
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -6290,21 +6210,18 @@
         ]
       ],
       "sha256": "5715a029d92de1cf5fe87e692869bcdcc27c00d8099db7e64ae4e8755031bd67",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-prepare-break-control.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-prepare-break-control.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-prepare-break-control.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        250,
-        150,
-        1445,
-        980
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -6320,21 +6237,18 @@
         ]
       ],
       "sha256": "77f2622fac6a3c2e842a60e2f621433483e3e7a7de67ddc5cf9a072369eadb4d",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-prepare-after-break.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-prepare-after-break.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-prepare-after-break.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        640,
-        430,
-        1445,
-        1053
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -6350,21 +6264,18 @@
         ]
       ],
       "sha256": "25e5a3deb371f48d334855ff12443999975902ca40b358444bed38487efe4c7b",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-print-field-table.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-print-field-table.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-print-field-table.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        640,
-        125,
-        1445,
-        1000
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -6380,21 +6291,18 @@
         ]
       ],
       "sha256": "e1eb4b6f32f75d5f7fdc113df4022c41355332d1c5aec89f5db92348408f5fae",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-cleaned-spacing.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-cleaned-spacing.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-cleaned-spacing.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        720,
-        150,
-        1370,
-        1000
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -6410,21 +6318,18 @@
         ]
       ],
       "sha256": "a5664cfadf685a9e24d06e22129b95b19c9c676242a0a30fcad1ee930af6e4ae",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-label-pagination.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-label-pagination.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-label-pagination.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        250,
-        150,
-        1445,
-        1000
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -6440,21 +6345,18 @@
         ]
       ],
       "sha256": "04397b3a3fb93dda43b240ed7e4d4b7156821de0436a2534c427beb310212d2a",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-label-repaired.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-label-repaired.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-label-repaired.png",
       "dimensions": [
         2360,
         1170
       ],
       "kind": "application-window",
-      "approved_crop": [
-        640,
-        785,
-        1445,
-        1053
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2050,
@@ -6470,58 +6372,51 @@
         ]
       ],
       "sha256": "b9c8800dd01605936fec4e0c7f076285edadb044205c3c3e5337f1090e82dae2",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-pdf-baseline.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-pdf-baseline.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-pdf-baseline.png",
       "dimensions": [
         775,
         1095
       ],
       "kind": "pdf-page",
-      "approved_crop": [
-        45,
-        20,
-        730,
-        1080
-      ],
+      "approved_crop": null,
       "privacy_masks": [],
       "sha256": "b9cb19f7f8ca6c8f82409f35a983ad2e4406ae7bd5e883202d380879c50db5c3",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-pdf-field-table.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-pdf-field-table.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-pdf-field-table.png",
       "dimensions": [
         775,
         1095
       ],
       "kind": "pdf-page",
-      "approved_crop": [
-        45,
-        60,
-        730,
-        650
-      ],
+      "approved_crop": null,
       "privacy_masks": [],
       "sha256": "7a10aea952d373e4bdaaf6c1c429e9386e238ee4474f7441782252b24a7d2cfb",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/04-page-layout/images/c02-04-pdf-label.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-pdf-label.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-pdf-label.png",
       "dimensions": [
         775,
         1095
       ],
       "kind": "pdf-page",
-      "approved_crop": [
-        45,
-        45,
-        730,
-        470
-      ],
+      "approved_crop": null,
       "privacy_masks": [],
       "sha256": "4bffa2e664fcd2af453c54ccbca452614b95f1c4283156232952a73db1a683a9",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/04-page-layout.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
     "02-google-docs/05-review-collaboration/images/c02-05-01-mode-menu.jpg": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-01-mode-menu.png",
