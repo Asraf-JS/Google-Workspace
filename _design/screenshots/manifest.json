@@ -4289,19 +4289,14 @@
         "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/01-document-sources.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-source-grounded-prompt.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-source-grounded-prompt.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-source-grounded-prompt.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        1710,
-        685,
-        2100,
-        940
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -4323,21 +4318,18 @@
         ]
       ],
       "sha256": "24058c158a2882ca9e9e3ff3e2bd78237b91078f4d8375c003dbc5ee6e5c6c1f",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/02-draft-procedure.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-unreviewed-response.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-unreviewed-response.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-unreviewed-response.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        1710,
-        310,
-        2100,
-        840
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -4359,21 +4351,18 @@
         ]
       ],
       "sha256": "27ea55f98f056551f8317f4bc229ab15849df13e767e69282aed44a0f59478de",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/02-draft-procedure.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-response-checks.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-response-checks.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-response-checks.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        1710,
-        260,
-        2100,
-        835
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -4395,21 +4384,18 @@
         ]
       ],
       "sha256": "b3cebc3928b6cac2e161e3cdd58c174c03da0fa3bcb2a343916630adbd987191",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/02-draft-procedure.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-human-review.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-human-review.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-human-review.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        730,
-        585,
-        1350,
-        910
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -4431,21 +4417,18 @@
         ]
       ],
       "sha256": "66a32b1d95925abf39e1bbcf451947493de02b5bb3fe8c45bae27d46d7e3bf30",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/02-draft-procedure.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-checked-draft.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-checked-draft.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-checked-draft.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        730,
-        440,
-        1350,
-        865
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -4467,21 +4450,18 @@
         ]
       ],
       "sha256": "699e0fec547c726fc048b9f03a0471bd4f3926c4a4f71d15bad7fefb0a61006d",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/02-draft-procedure.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-open-decisions.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-open-decisions.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-open-decisions.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        730,
-        865,
-        1350,
-        965
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -4503,21 +4483,18 @@
         ]
       ],
       "sha256": "699e0fec547c726fc048b9f03a0471bd4f3926c4a4f71d15bad7fefb0a61006d",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/02-draft-procedure.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-plan-first-steps.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-plan-first-steps.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-plan-first-steps.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        730,
-        140,
-        1350,
-        935
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -4540,22 +4517,18 @@
       ],
       "sha256": "cac57a0e34ed2385bd32975043feeb75f7c774b524eb0c30efca9274813cf9cf",
       "notes": [
-        "Later outline entries appear outside the approved table crop. Recapture this earlier step before using the whole frame in participant notes."
+        "Later outline entries appear outside the approved table crop. Recapture this earlier step before using the whole frame in participant notes.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/02-draft-procedure.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-plan-final-steps.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-plan-final-steps.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-plan-final-steps.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        730,
-        315,
-        1350,
-        660
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -4578,22 +4551,18 @@
       ],
       "sha256": "959f4d89ab919d2b166a04fc0469cffbf96c1b9574cab028231f3b78ad2e22a7",
       "notes": [
-        "The normal and exception examples appear below the approved plan crop. Recapture the plan-only stage before using the whole frame in participant notes."
+        "The normal and exception examples appear below the approved plan crop. Recapture the plan-only stage before using the whole frame in participant notes.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/02-draft-procedure.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-normal-and-exception.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-normal-and-exception.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-normal-and-exception.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        730,
-        670,
-        1350,
-        915
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -4615,21 +4584,18 @@
         ]
       ],
       "sha256": "959f4d89ab919d2b166a04fc0469cffbf96c1b9574cab028231f3b78ad2e22a7",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/02-draft-procedure.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-status-repair.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-status-repair.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-status-repair.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        730,
-        130,
-        1350,
-        275
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -4651,21 +4617,18 @@
         ]
       ],
       "sha256": "037f00419c4122327d05d5ea450707ab6dab537e7a398a6b04b9a7b04a4d4ccf",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/02-draft-procedure.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-clarity-rewrite.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-clarity-rewrite.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-clarity-rewrite.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        730,
-        300,
-        1350,
-        405
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -4687,21 +4650,18 @@
         ]
       ],
       "sha256": "43f39e29212d1e959557356f3963f26178e130b3c3b428a0d96a6eca1b7999a0",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/02-draft-procedure.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-paper-walkthroughs.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-paper-walkthroughs.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-paper-walkthroughs.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        730,
-        530,
-        1350,
-        945
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -4723,21 +4683,18 @@
         ]
       ],
       "sha256": "cd73ee70c2579ecfae7f1196f415539084f408239a63cbc117aa3435d84acbcd",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/02-draft-procedure.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-submission-distinction.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-submission-distinction.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-submission-distinction.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        730,
-        710,
-        1350,
-        995
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -4759,7 +4716,9 @@
         ]
       ],
       "sha256": "9f7e7c6cbd6d760dbf32e05c3f3e0e853e7cdd9b41ce632bb3d9fe8cb46585d7",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/02-draft-procedure.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
     "02-google-docs/03-styles-navigation/images/c02-03-title-style.jpg": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-title-style.png",

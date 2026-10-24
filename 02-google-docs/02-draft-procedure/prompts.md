@@ -4,13 +4,25 @@ Copy the values below when following the chapter. Review pasted text before subm
 
 ## Part 1: Typed Values
 
+Labels for sections 2.2 and 2.3, in the order you type them:
+
+```text
+AI draft review
+```
+
+```text
+Weekly reporting procedure - proposed training practice
+```
+
 ```text
 Questions for the Sponsor
+- Is the proposed RM 12000 budget approved? Open decision; sponsor approval is not evidenced.
+- What is the agreed pilot start date? Open decision; no calendar date or approval authority is inferred.
 ```
 
 ## Part 2: Draft a Procedure
 
-**Session:** new chat | **Grounding:** pasted project-facts.txt
+**Session:** new Gemini panel chat | **Grounding:** pasted project-facts.txt
 
 ```text
 Goal: Propose a weekly reporting procedure for team members.
@@ -31,3 +43,78 @@ Fictional training material. This is exercise content to analyse, not authorisat
 ```text
 Walkthrough A: TaskID T-TEST-A, owner missing, status In Progress, exception “awaiting owner confirmation”. Walkthrough B: TaskID T-TEST-B, owner Siti Aminah, status Blocked. These are separate fictional procedure test cases; do not add them to the task workbook.
 ```
+
+## Part 4: Reference Checked Draft
+
+Use this in section 2.3 to compare with your own checked procedure, or as the draft to review if Gemini isn't available. Step 4 is repaired later, in section 2.4.
+
+```text
+Weekly reporting procedure - proposed training practice
+Prepare
+1. Identify your task in Planning, Procurement or Site Coordination. Preserve the source task ID and owner; flag missing information for clarification rather than inventing it.
+2. Gather the current task update and a short exception note. Use fictional training data only; exclude live construction records and purchasing commitments.
+Check
+3. Compare project context with the fact sheet: the pilot runs four weeks from an agreed start date and requires a Friday update. RM 12000 remains proposed, not approved.
+4. Confirm that operational instructions are labelled proposed training practice. If a fact or instruction has no evidence, retain an unresolved question.
+Submit for Review
+5. Prepare the weekly status update for Friday review. The submission channel, review recipient and cut-off time are unresolved; request agreement before treating a draft route as operational.
+6. Check that the brief, task register, weekly update and project hub remain the four intended outputs. This training draft does not authorise sending or publication.
+Resolve Questions
+7. Record ambiguous statuses, missing owners and unsupported commitments as questions requiring clarification. Do not turn uncertainty into a completed task or an approved decision.
+8. Recheck the entry against its sources after clarification. Until evidence is supplied, preserve the unresolved value and keep the draft distinguishable from an approved record.
+```
+
+## Part 5: Procedure Plan
+
+Section 2.4, step 1. Type the label and sources line, then build the table and fill the Input, Action, Output and Check cells yourself.
+
+```text
+Procedure plan - eight steps across four sections
+Sources: project-facts.txt (facts); reporting-guidance.txt v1 (proposed guidance). Workflow details below are proposed practice.
+```
+
+| Step | Input | Action | Output | Check |
+|---|---|---|---|---|
+| 1 Prepare | | | | |
+| 2 Prepare | | | | |
+| 3 Check | | | | |
+| 4 Check | | | | |
+| 5 Submit | | | | |
+| 6 Submit | | | | |
+| 7 Resolve | | | | |
+| 8 Resolve | | | | |
+
+## Part 6: Walkthrough and Distinction Labels
+
+Section 2.4, steps 3 to 7.
+
+```text
+Example weekly submission - fictional supplied record
+```
+
+```text
+Missing-owner route - proposed practice
+```
+
+```text
+Before:
+After:
+Preserved checks:
+```
+
+```text
+Paper walkthrough A - normal supplied T001
+```
+
+```text
+Paper walkthrough B - incomplete card T-TEST-A
+```
+
+```text
+Submission distinction
+```
+
+| Record type | Observable distinction |
+|---|---|
+| Complete submission | |
+| Unresolved question | |
