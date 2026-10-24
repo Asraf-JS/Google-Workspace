@@ -157,3 +157,7 @@ Foundation Lab 1 has 26 current-stage application captures through 1.4: isolated
 ### 24 October 2026: Foundation 2 formatting and type checks
 
 Foundation Lab 2 has 18 staged captures: numeric600 versus currency display, custom RM/no-decimal and whole-week formats, retained source header/widths, wrapping and row fit, practice-only date, numeric/text cost tests with SUM600/COUNT1, practice-table readability and format-only123. Source counts24cost/12week and all original twelve records are unchanged. Values-only target-format preservation remains unverified after shortcut and direct-menu attempts; manual retest is required. Independent intake/partner and learner-timing checks remain pending. Programme:491 images; retained:488 sources (465 application windows,6 focused views,17 PDF pages). Untouched routes:Foundation6,Advanced12,AI8.
+
+### 25 October 2026: Foundation 3 calculations and reference tests
+
+Foundation Lab 3 has 23 staged author-reference captures through 3.4: row variance formulas, totals10400/6800/-3600, average866.67/count12, fixed-multiplier change/restoration, zero/blank/text participation, wrong-reference20 repaired to-20, relative drift versus absolute reference, and reconciliation difference0. Source Tasks A1:H13 values remain unchanged; both hypothetical assumptions are restored to1.1. Independent estimate/omitted-range challenge and learner timing remain pending. Programme514 images; retained511 sources (488 application windows,6 focused views,17 PDF pages). Untouched routes:Foundation5,Advanced12,AI8.
