@@ -1,0 +1,281 @@
+{
+ "raw": "../raw/02-google-docs/07-export-check",
+ "repoRoot": "../../../02-google-docs",
+ "shots": {
+  "c02-07-01-download-formats.png": {
+   "boxes": [
+    [
+     58,
+     34,
+     86,
+     54,
+     1,
+     "below"
+    ],
+    [
+     56,
+     244,
+     370,
+     268
+    ],
+    [
+     386,
+     254,
+     546,
+     274,
+     1
+    ]
+   ]
+  },
+  "c02-07-02-release-copy-excludes-comments.png": {
+   "boxes": [
+    [
+     600,
+     304,
+     1000,
+     368,
+     1
+    ],
+    [
+     606,
+     492,
+     914,
+     572
+    ],
+    [
+     860,
+     642,
+     1000,
+     688,
+     1
+    ]
+   ]
+  },
+  "c02-07-04-examples-tab-scope-marker.png": {
+   "boxes": [
+    [
+     40,
+     276,
+     284,
+     314,
+     2
+    ],
+    [
+     452,
+     184,
+     894,
+     274,
+     2
+    ]
+   ]
+  },
+  "c02-07-06-current-tab-export-scope.png": {
+   "boxes": [
+    [
+     40,
+     236,
+     284,
+     274
+    ],
+    [
+     690,
+     432,
+     848,
+     496,
+     2
+    ],
+    [
+     880,
+     516,
+     980,
+     556,
+     2
+    ]
+   ]
+  },
+  "c02-07-07-all-tabs-complete-scope.png": {
+   "boxes": [
+    [
+     690,
+     432,
+     846,
+     494,
+     2
+    ],
+    [
+     882,
+     516,
+     980,
+     556
+    ]
+   ]
+  },
+  "c02-07-08-word-all-tabs-scope.png": {
+   "boxes": [
+    [
+     690,
+     360,
+     928,
+     420,
+     2
+    ],
+    [
+     690,
+     432,
+     846,
+     494,
+     2
+    ]
+   ]
+  },
+  "c02-07-09-round-trip-heading-and-links.png": {
+   "boxes": [
+    [
+     56,
+     10,
+     390,
+     36,
+     5,
+     "right"
+    ],
+    [
+     452,
+     608,
+     694,
+     864,
+     5
+    ]
+   ]
+  },
+  "c02-07-10-round-trip-status-link-destination.png": {
+   "boxes": [
+    [
+     452,
+     184,
+     628,
+     216,
+     6
+    ]
+   ]
+  },
+  "c02-07-11-round-trip-missing-owner-destination.png": {
+   "boxes": [
+    [
+     452,
+     186,
+     648,
+     216,
+     6
+    ]
+   ]
+  },
+  "c02-07-13-round-trip-contents-destination.png": {
+   "boxes": [
+    [
+     452,
+     186,
+     662,
+     216,
+     6
+    ]
+   ]
+  },
+  "c02-07-16-native-comparison-format-flags.png": {
+   "boxes": [
+    [
+     56,
+     10,
+     900,
+     36,
+     6,
+     "right"
+    ],
+    [
+     1126,
+     224,
+     1550,
+     870,
+     6
+    ]
+   ]
+  },
+  "c02-07-17-examples-numbering-repaired.png": {
+   "boxes": [
+    [
+     40,
+     276,
+     284,
+     314,
+     7
+    ],
+    [
+     972,
+     788,
+     1108,
+     818,
+     7
+    ]
+   ]
+  },
+  "c02-07-19-r2-procedure-instruction-checked.png": {
+   "boxes": [
+    [
+     452,
+     144,
+     1108,
+     232,
+     7
+    ]
+   ]
+  },
+  "c02-07-21-r2-source-record-clean.png": {
+   "boxes": [
+    [
+     452,
+     236,
+     1108,
+     584,
+     7
+    ]
+   ]
+  },
+  "c02-07-22-release-r2-name.png": {
+   "boxes": [
+    [
+     628,
+     412,
+     974,
+     474,
+     7
+    ],
+    [
+     912,
+     502,
+     962,
+     528,
+     7
+    ]
+   ]
+  },
+  "c02-07-23-initial-pdf-reader-copy.png": {
+   "boxes": [],
+   "crop": [
+    0,
+    0,
+    1600,
+    1300
+   ]
+  },
+  "c02-07-24-r2-pdf-numbered-examples.png": {
+   "boxes": [
+    [
+     1190,
+     2124,
+     1450,
+     2168,
+     7
+    ]
+   ]
+  }
+ }
+}

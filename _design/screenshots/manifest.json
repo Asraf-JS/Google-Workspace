@@ -7437,19 +7437,14 @@
         "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/06-adapt-accessibility.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-01-download-formats.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-01-download-formats.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-01-download-formats.png",
       "dimensions": [
         1591,
         920
       ],
       "kind": "application-window",
-      "approved_crop": [
-        45,
-        45,
-        645,
-        520
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1530,
@@ -7460,22 +7455,18 @@
       ],
       "sha256": "bd3fa610846b1755f663254008bf8566659c4323c319541c936e472579fd08f2",
       "notes": [
-        "Real current-stage application-window capture."
+        "Real current-stage application-window capture.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/07-export-check.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-02-release-copy-excludes-comments.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-02-release-copy-excludes-comments.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-02-release-copy-excludes-comments.png",
       "dimensions": [
         1591,
         920
       ],
       "kind": "application-window",
-      "approved_crop": [
-        570,
-        210,
-        1025,
-        710
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1530,
@@ -7486,22 +7477,18 @@
       ],
       "sha256": "2cbd2f9df68799288c2c17f3967aa4859b43823744c302d962cc4b8a3ddd3ce2",
       "notes": [
-        "Real current-stage application-window capture."
+        "Real current-stage application-window capture.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/07-export-check.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-04-examples-tab-scope-marker.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-04-examples-tab-scope-marker.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-04-examples-tab-scope-marker.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        20,
-        175,
-        1140,
-        420
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1530,
@@ -7512,22 +7499,18 @@
       ],
       "sha256": "64e902d15a95129ac27f3b306337395cc8026ecad2c2c4fdaee24820510cc167",
       "notes": [
-        "Real current-stage application-window capture."
+        "Real current-stage application-window capture.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/07-export-check.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-06-current-tab-export-scope.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-06-current-tab-export-scope.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-06-current-tab-export-scope.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        590,
-        285,
-        1005,
-        590
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1530,
@@ -7538,22 +7521,18 @@
       ],
       "sha256": "8c6a6a9ce3f687d1a1c8e5272304d8d1e55b40ce34971958d81b7ddce8f86c85",
       "notes": [
-        "Real current-stage application-window capture."
+        "Real current-stage application-window capture.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/07-export-check.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-07-all-tabs-complete-scope.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-07-all-tabs-complete-scope.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-07-all-tabs-complete-scope.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        590,
-        285,
-        1005,
-        590
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1530,
@@ -7564,22 +7543,18 @@
       ],
       "sha256": "c2f7b0feb633acfecd302e52872db05583328a6611a44d97f6ed916e06758713",
       "notes": [
-        "Real current-stage application-window capture."
+        "Real current-stage application-window capture.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/07-export-check.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-08-word-all-tabs-scope.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-08-word-all-tabs-scope.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-08-word-all-tabs-scope.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        590,
-        285,
-        1005,
-        590
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1530,
@@ -7590,22 +7565,18 @@
       ],
       "sha256": "ca9a9ab70204e6bb30a4f885e24d7f378d5918cd35e389600c22e0a36d31f061",
       "notes": [
-        "Real current-stage application-window capture."
+        "Real current-stage application-window capture.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/07-export-check.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-09-round-trip-heading-and-links.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-09-round-trip-heading-and-links.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-09-round-trip-heading-and-links.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        20,
-        175,
-        1150,
-        855
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1530,
@@ -7616,22 +7587,18 @@
       ],
       "sha256": "3a10151d6f8390f7e9bc7c59660a03da4c3e6a394821520b41a7a86bb66e6eb1",
       "notes": [
-        "Real current-stage application-window capture."
+        "Real current-stage application-window capture.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/07-export-check.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-10-round-trip-status-link-destination.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-10-round-trip-status-link-destination.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-10-round-trip-status-link-destination.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        425,
-        125,
-        1145,
-        350
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1530,
@@ -7642,22 +7609,18 @@
       ],
       "sha256": "705d04fe863b845a10167efca9100a99477f4a3717d033cd6914da9b37a16693",
       "notes": [
-        "Real current-stage application-window capture."
+        "Real current-stage application-window capture.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/07-export-check.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-11-round-trip-missing-owner-destination.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-11-round-trip-missing-owner-destination.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-11-round-trip-missing-owner-destination.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        430,
-        175,
-        1145,
-        285
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1530,
@@ -7668,22 +7631,18 @@
       ],
       "sha256": "d27e37482c1ce9af19c8118ef111396e54bc45ab53c3ca7873ed431d14d0e0ee",
       "notes": [
-        "Real current-stage application-window capture."
+        "Real current-stage application-window capture.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/07-export-check.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-13-round-trip-contents-destination.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-13-round-trip-contents-destination.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-13-round-trip-contents-destination.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        425,
-        175,
-        1145,
-        500
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1530,
@@ -7694,22 +7653,18 @@
       ],
       "sha256": "7faf89e77be361d8b1bbc1dcb29ba3dbf5b0ec05d166346a1246523456ed4097",
       "notes": [
-        "Real current-stage application-window capture."
+        "Real current-stage application-window capture.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/07-export-check.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-16-native-comparison-format-flags.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-16-native-comparison-format-flags.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-16-native-comparison-format-flags.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        20,
-        175,
-        1545,
-        868
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1530,
@@ -7744,22 +7699,18 @@
       ],
       "sha256": "bc3d38e545a87f0a130273fa3bd4bc2cd8179eb0c492cf9329a5ae63c6630785",
       "notes": [
-        "Real current-stage application-window capture."
+        "Real current-stage application-window capture.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/07-export-check.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-17-examples-numbering-repaired.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-17-examples-numbering-repaired.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-17-examples-numbering-repaired.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        375,
-        735,
-        1175,
-        860
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1530,
@@ -7770,22 +7721,18 @@
       ],
       "sha256": "ff4ea4fadb5bd70ad056471176f67869acdcf2d680183c93ab304f19f89d7454",
       "notes": [
-        "Real current-stage application-window capture."
+        "Real current-stage application-window capture.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/07-export-check.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-19-r2-procedure-instruction-checked.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-19-r2-procedure-instruction-checked.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-19-r2-procedure-instruction-checked.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        430,
-        145,
-        1145,
-        230
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1530,
@@ -7796,22 +7743,18 @@
       ],
       "sha256": "a49ec63b433dc052e7fc3363ec9a9d3430506e809301a0234659d48e403a477b",
       "notes": [
-        "Real current-stage application-window capture."
+        "Real current-stage application-window capture.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/07-export-check.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-21-r2-source-record-clean.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-21-r2-source-record-clean.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-21-r2-source-record-clean.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        430,
-        205,
-        1145,
-        585
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1530,
@@ -7822,22 +7765,18 @@
       ],
       "sha256": "152a50aef868b389d447e51c378a21d50a79b3d5d0ab8eec7a4c4658f4c19c55",
       "notes": [
-        "Real current-stage application-window capture."
+        "Real current-stage application-window capture.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/07-export-check.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-22-release-r2-name.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-22-release-r2-name.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-22-release-r2-name.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        570,
-        305,
-        1025,
-        620
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1530,
@@ -7848,10 +7787,11 @@
       ],
       "sha256": "0bdb93569b26d14f202d464d699ff4a99697d3875e16fc72fed5a6c45f16b746",
       "notes": [
-        "Real current-stage application-window capture."
+        "Real current-stage application-window capture.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/07-export-check.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-23-initial-pdf-reader-copy.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-23-initial-pdf-reader-copy.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-23-initial-pdf-reader-copy.png",
       "dimensions": [
         656,
@@ -7862,10 +7802,11 @@
       "privacy_masks": [],
       "sha256": "0ac23c7e710d102d591b24b9a1c045575b55d10d5b57b0c3055f083b4c1e39b2",
       "notes": [
-        "Offline native-export page render; browser local-file URL was blocked."
+        "Offline native-export page render; browser local-file URL was blocked.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/07-export-check.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-24-r2-pdf-numbered-examples.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-24-r2-pdf-numbered-examples.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-24-r2-pdf-numbered-examples.png",
       "dimensions": [
         656,
@@ -7876,7 +7817,8 @@
       "privacy_masks": [],
       "sha256": "94d279f5c2111d6313bffb7cda1d971480501a855eace80f8c4445b3e278ee71",
       "notes": [
-        "Offline native-export page render; browser local-file URL was blocked."
+        "Offline native-export page render; browser local-file URL was blocked.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/07-export-check.json (crop and boxes in 1600 px coordinates)."
       ]
     },
     "02-google-docs/08-procedure-challenge/images/c02-08-01-owner-clarification-subsection.jpg": {
