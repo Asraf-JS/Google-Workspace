@@ -11,7 +11,7 @@ Updated 21 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 303 captures: 109 masterclass, 165 Docs and 29 Slides captures. Ten specialist routes have author-reference captures, including partial Slides Lab 2; 34 specialist routes remain uncaptured. Slides Lab 2 import comparisons remain pending. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 324 captures: 109 masterclass, 165 Docs and 50 Slides captures. Eleven specialist routes have author-reference captures, including partial Slides Lab 2; 33 specialist routes remain uncaptured. Slides Lab 2 import comparisons remain pending. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -60,3 +60,7 @@ Fifteen stages retained:14 full planning-Doc/Gemini application windows and1offl
 ### 21 October 2026: Slides 2 (partial)
 
 Fourteen original-size application-window captures. Six main slides, skipped alternative after Decisions and slideshow bypass verified. Two appendices, linked/manual-colour test, both working-deck navigation directions and separate nine-slide placeholder copy checked. Import picker blank on initial attempt and saved-deck reload; no keep/adopt-theme or imported support slide success claimed. Programme 303 images; Slides 29; retained sources 300 (283 application windows, 6 focused, 11 PDF pages). Remaining: Slides 2 import checks plus 34 untouched specialist routes (Slides 6, Foundation 8, Advanced 12, AI 8). Independent/human review and learner timing remain pending.
+
+### 21 October 2026: Slides 3
+
+Twenty-one full original-size application captures: descriptive main-slide titles, source notes and presentation checks; exact dense paragraph and separate three-point redesign/callout; three equal team cards aligned Top/distributed Horizontally; four equal output blocks and three arrow connectors. Native readback confirms six main source-note sets, geometry and retained budget/date/target conditions. Written 45-second explanation and author viewing-size audit complete; actual spoken duration, reviewer retrieval and independent challenge pending. Programme 324 images; Slides 50; retained sources 321 (304 application windows, 6 focused, 11 PDF pages). Remaining: Slides 2 imports and 33 untouched routes (Slides 5, Foundation 8, Advanced 12, AI 8), plus human checks and Site hub Preview.

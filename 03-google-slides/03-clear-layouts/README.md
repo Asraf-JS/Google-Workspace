@@ -8,7 +8,7 @@ In this chapter you will create a title, progress, risk and decision slide with 
 
 **Your result:** Readable core slides with supporting speaker notes.
 
-> **Status:** expanded review draft, revision 0.4. Complete the casework and independent challenge as well as the guided steps. The expanded route, screenshots and timing have not yet been validated in the learner application.
+> **Status:** author reference run with 21 staged real-application images and full original-size sources. The six main slides have checked titles and source notes. Dense/redesigned alternatives, aligned team cards and the output diagram were built and inspected in Slideshow. The 45-second explanation is a written draft; spoken duration, reviewer message-retrieval test (3.4 step 7), independent challenge and learner timing remain pending.
 
 ## What You Will Learn
 
@@ -24,73 +24,113 @@ Open the working deck and checked brief.
 
 ## 3.1 Build the Core Messages
 
-1. Write a descriptive title on Purpose and a short explanation of the reporting pilot.
-2. On Pilot Scope, show the three team names and four required outputs.
-3. On Decisions, state that the budget ceiling is proposed and the start date needs agreement.
+1. Open `GW - Slides - Sponsor Update`. Change the Purpose title to **Test consistent weekly reporting**. Add **A proposed four-week Project Reporting Pilot** and the fictional-training label below it. This describes a purpose, not a measured benefit.
+
+![State the reporting-pilot purpose descriptively](./images/c03-03-01-descriptive-purpose.jpg)
+
+2. On Pilot Scope, name **Planning**, **Procurement** and **Site Coordination**. Name all four outputs: project brief, task register, weekly status update and project hub.
+
+![Name the three teams and four outputs](./images/c03-03-02-teams-and-outputs.jpg)
+
+3. On Decisions, retain **Proposed budget ceiling: RM 12000**, **Budget approval remains unresolved** and **Pilot start date: to be agreed**. Keep the existing appendix navigation link.
+
+![Keep proposed budget and unagreed start visible](./images/c03-03-03-decision-conditions.jpg)
 
 <details markdown="1">
 <summary>What should you see?</summary>
 
-The slide messages match the source and are understandable without decorative icons.
+Source-backed purpose and scope, with both sponsor decisions still visibly unresolved.
 
 </details>
-
-<!-- VERIFY: execute 3.1 in the target account and reconcile control names. Capture images/c03-03-01.jpg only from the real app. -->
 
 ## 3.2 Arrange the Content
 
-1. Use layout placeholders for related text. Keep body text large enough to read during presenting.
-2. Select related objects and use Arrange alignment/distribution options where needed.
-3. Reduce a crowded paragraph to short phrases while keeping the full evidence in speaker notes.
+1. Keep the related text in layout placeholders. The reference increases body text on the five main content slides to **22 pt**; check the actual line breaks at your viewing size.
+
+2. Select the related title/body objects and use **Arrange > Align > Left** where needed. Distribution requires at least three objects; the three-card example in 3.4 uses it explicitly.
+
+![Align related placeholders through Arrange](./images/c03-03-04-align-placeholders-menu.jpg)
+
+3. Keep concise phrases on the slide and retain full source qualifications in **speaker notes**. On Scope, record all three teams and four outputs, exclusions, the four-week duration from an agreed start and Friday updates. The dense-paragraph reduction is demonstrated separately in 3.4, preserving its original for comparison.
+
+![Keep the full source qualifications in speaker notes](./images/c03-03-05-scope-source-notes.jpg)
 
 <details markdown="1">
 <summary>What should you see?</summary>
 
-The slides have consistent alignment and sufficient whitespace. No text extends off the slide.
+Consistent placeholders, readable body text and source details in notes. No text extends off the slide at the checked viewing size.
 
 </details>
-
-<!-- VERIFY: execute 3.2 in the target account and reconcile control names. Capture images/c03-03-02.jpg only from the real app. -->
 
 ## 3.3 Review Titles and Notes
 
-1. Change vague titles such as Update to titles that describe the slide's finding.
-2. Add speaker notes with the source facts behind each claim.
-3. Present the deck and inspect line breaks, contrast and object placement.
+1. Replace topic-only titles with the checked main message. The reference titles are **Three teams will produce four outputs**, **The task snapshot is not a success result**, **Teams may define task status differently**, **Budget and start date need sponsor agreement**, and **Agree the start, then coordinate Friday updates**.
+
+2. Add source notes to each of the six main slides. For the task snapshot, cite `TaskRegister.xlsx`, `Tasks!A2:H13` and status range `F2:F13`. Twelve tasks split four per status do not establish successful final-two-weeks submissions. For Decisions, cite the checked brief's Budget, Schedule and Decisions Needed; retain the proposed/unapproved ceiling and unagreed date.
+
+![Give the task snapshot a qualified evidence title](./images/c03-03-06-evidence-title-and-notes.jpg)
+
+![Keep the sponsor-decision caveats in the notes](./images/c03-03-07-budget-title-and-notes.jpg)
+
+3. Start **Slideshow** and inspect line breaks, contrast and placement. Check the opening, scope, task snapshot, risk, decisions and conditional next steps. These captures show the author viewing size; they do not establish readability from the back of a classroom.
+
+![Inspect the purpose slide in Slideshow](./images/c03-03-08-purpose-presentation-check.jpg)
+
+![Inspect the proposed risk response in Slideshow](./images/c03-03-09-risk-presentation-check.jpg)
+
+![Inspect both unresolved decisions in Slideshow](./images/c03-03-10-decisions-presentation-check.jpg)
+
+![Inspect the conditional next steps in Slideshow](./images/c03-03-11-next-steps-presentation-check.jpg)
 
 <details markdown="1">
 <summary>What should you see?</summary>
 
-Each slide communicates one point and has supporting notes.
+Each main slide has a descriptive message and supporting source notes. The proposed definition check remains proposed; success is a future criterion rather than an achieved result.
 
 </details>
-
-<!-- VERIFY: execute 3.3 in the target account and reconcile control names. Capture images/c03-03-03.jpg only from the real app. -->
 
 ## 3.4 Redesign Dense Content Without Losing Evidence
 
-1. Copy the dense slide text on the card to a separate practice slide. Make a first layout that preserves the full paragraph for comparison.
+1. Create a separate native deck named `GW - Slides - Layout Practice`. Use **Title and body** for the first slide. Title it **Dense draft — full paragraph**, then paste the complete dense draft from the copy-paste card. Preserve it unchanged for comparison.
 
-2. Create a second version using one descriptive title, no more than three main points and a decision callout. Move supporting detail to speaker notes rather than deleting source qualifications.
+![Preserve the exact dense paragraph in a separate practice deck](./images/c03-03-12-dense-draft-preserved.jpg)
 
-3. Build a consistent three-column team layout using aligned shapes and short text. Use **Arrange** alignment and distribution to make spacing intentional.
+2. Add a second Title and body slide titled **Sponsor decisions are needed before the pilot starts**. Use no more than three main points: three teams/four outputs; four weeks from an agreed start with Friday updates; future success target for the final two weeks. Add a rectangular **Sponsor decisions pending** callout with the proposed RM 12,000 ceiling approval and pilot start-date agreement. The reference uses 18 pt body and 20 pt callout text. Put the full paragraph and meaning audit in notes, retaining organisation/location, names, all numbers and approval qualifications.
 
-4. Create a four-step output diagram and use text labels to connect the brief, register, update and hub. Avoid implying that these are already approved systems.
+![Redesign as three points plus a pending-decision callout](./images/c03-03-13-three-point-redesign.jpg)
 
-5. Inspect both slides in **Present** mode at the available viewing size. Record the smallest labels or densest regions that impede reading.
+3. Add a **Title only** slide titled **Three teams share one reporting process**. Draw one rectangle, add **Planning** at 20 pt, then duplicate its geometry for **Procurement** and **Site Coordination**. Leave text editing before duplicating a shape. Select all three cards, then use **Arrange > Align > Top** and **Arrange > Distribute > Horizontally**. Do not include the title in that selection.
 
-6. Write a 45-second explanation in notes that adds useful context rather than repeating the slide verbatim. Include a source reference for the budget caveat.
+![Use Arrange to distribute matching team cards horizontally](./images/c03-03-14-distribute-team-cards-menu.jpg)
 
-7. Ask a reviewer to state the slide’s main message after a brief look. Compare their answer with your intended message and revise layout or title.
+![Three team cards have equal size and deliberate spacing](./images/c03-03-15-aligned-team-layout.jpg)
+
+4. Add another Title only slide titled **Proposed outputs support a weekly reporting cycle**. Create four equal blocks labelled **1. Project brief**, **2. Task register**, **3. Weekly update**, **4. Project hub**. Align tops and distribute horizontally. Use **Select line > Arrow** to connect the sequence. In notes, label it a proposed teaching sequence, not evidence of approved systems, live automation or a mandated workflow.
+
+![Four proposed outputs are connected in a teaching sequence](./images/c03-03-16-proposed-output-diagram.jpg)
+
+5. Inspect the dense alternative, redesign, team layout and diagram in **Slideshow**. In the reference, the long paragraph contains both sponsor requests in one sentence; the redesign makes them visible in a separate callout. Check the smallest labels and dense regions at your actual viewing size. No clipping was observed in the author's 1591-pixel application window; classroom/projector testing remains pending.
+
+![Inspect the dense alternative at presentation size](./images/c03-03-17-dense-presentation-check.jpg)
+
+![Inspect the redesigned alternative at presentation size](./images/c03-03-18-redesign-presentation-check.jpg)
+
+![Inspect all team labels at presentation size](./images/c03-03-19-teams-presentation-check.jpg)
+
+![Inspect all output labels at presentation size](./images/c03-03-20-outputs-presentation-check.jpg)
+
+6. Draft a **45-second explanation** in notes that adds context, citing the checked brief's budget caveat. Keep the written draft separate from actual spoken timing. Record the meaning audit: four weeks remains relative to an agreed start, RM 12000 remains proposed/unapproved, the date remains unagreed, Friday cadence remains and final-two-weeks submissions remain a target.
+
+![Keep the explanation draft, meaning audit and pending reviewer status in notes](./images/c03-03-21-explanation-and-pending-review.jpg)
+
+7. Ask a reviewer to state the main message after a brief look; compare the response with your intended message and revise where justified. **Reference status: reviewer unassigned, no response or reviewer-driven revision recorded.** Do not mark this test passed until a real reviewer completes it.
 
 <details markdown="1">
 <summary>What should you see?</summary>
 
-Dense and redesigned alternatives with an explicit meaning audit. The result must be supported by the recorded checks; an attractive output or an AI assurance is insufficient.
+Dense and redesigned alternatives with a meaning audit, equally spaced team cards, a proposed output diagram and source-backed notes. Written explanation and author layout checks are complete; spoken timing and reviewer retrieval remain pending.
 
 </details>
-
-<!-- VERIFY: execute expanded section 3.4 and independent challenge; capture images/c03-03-04.jpg only after real application success. -->
 
 ## Independent Challenge
 
