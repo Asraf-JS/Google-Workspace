@@ -1,4 +1,4 @@
-# 04 - Prepare a Professional Page Layout: Prompts and Values
+# 04 - Prepare a Professional Page Layout: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -12,8 +12,7 @@ Project Reporting Procedure
 Fictional training material
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -21,7 +20,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Print brief: A4 portrait, readable body text, visible fictional-material footer and automatic page numbers. Readers must be able to read all field examples. Do not satisfy the brief by shrinking the whole document until it fits one page.
 ```
 
-## Part 2: Field Reference Table
+## Part 3: Field Reference Table
 
 Create these four columns in a native table. The examples are fictional. The table layout, source-link field and exception wording are proposed procedure design.
 
@@ -40,7 +39,7 @@ Use the [supplied task data](../../shared/sample-files/Tasks.csv). For the onlin
 https://github.com/Asraf-JS/Google-Workspace/blob/main/shared/sample-files/Tasks.csv
 ```
 
-## Part 3: Submission Checklist
+## Part 4: Submission Checklist
 
 Paste these six paragraphs, select only them, then click Numbered list. Keep the label outside the list. These checks do not authorise a real submission.
 
@@ -53,7 +52,7 @@ Open the source link and check Friday reporting; preserve the proposed budget an
 Request agreement on channel, recipient and cut-off; retain the draft while unresolved. This exercise sends nothing.
 ```
 
-## Part 4: Comparison Copy Name
+## Part 5: Comparison Copy Name
 
 ```text
 GW - Reporting Procedure - Layout Practice

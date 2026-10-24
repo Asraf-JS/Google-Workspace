@@ -1,11 +1,10 @@
-# 07 - Export and Check Interoperability: Prompts and Values
+# 07 - Export and Check Interoperability: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
 Use the exact practice names and fictional values below. Do not distribute the files during this exercise.
 
-
-## Depth Case Input
+## Part 1: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -13,7 +12,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Release scenario: One reader needs an editable procedure; another needs a fixed complete handout including Examples. A previous PDF is already in the practice folder. Make the current revision and included scope unambiguous without deleting the maintained source.
 ```
 
-## Source and Revision Names
+## Part 2: Source and Revision Names
 
 ```text
 GW - Reporting Procedure - Release Practice
@@ -24,7 +23,7 @@ Practice release r2
 GW - Procedure r1 - Round Trip Practice
 ```
 
-## Release Checklist Fields
+## Part 3: Release Checklist Fields
 
 ```text
 Native source:
@@ -35,7 +34,7 @@ Viewer:
 Result:
 ```
 
-## Filename and Scope Manifest
+## Part 4: Filename and Scope Manifest
 
 | Filename | Revision | Scope | Purpose |
 |---|---|---|---|
@@ -48,7 +47,7 @@ Result:
 | Procedure-r2-complete.pdf | Practice release r2 | Procedure plus Examples, All Tabs | Current complete reader handout |
 | Procedure-r2-complete.docx | Practice release r2 | Procedure plus Examples, All Tabs | Current editable handover |
 
-## Examples Tab
+## Part 5: Examples Tab
 
 Apply Heading 1 to the first line only. Keep the scope marker unchanged so prior/current PDFs can be checked consistently.
 
@@ -61,7 +60,7 @@ Missing-owner example: retain the task ID and recorded status, flag the owner ga
 Final appendix checkpoint: proposed RM 12000 ceiling; start to be confirmed; every Friday; source uncertainty retained.
 ```
 
-## R2 Instruction Revision
+## Part 6: R2 Instruction Revision
 
 Find the exact existing missing-owner paragraph in the Procedure tab. Confirm one match and append this action without changing its existing conditions:
 
@@ -69,7 +68,7 @@ Find the exact existing missing-owner paragraph in the Procedure tab. Confirm on
 After clarification, recheck the retained entry against the source before requesting review.
 ```
 
-## Defect Table Columns
+## Part 7: Defect Table Columns
 
 ```text
 Source location

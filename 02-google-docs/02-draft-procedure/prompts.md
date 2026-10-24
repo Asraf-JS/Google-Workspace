@@ -1,4 +1,4 @@
-# 02 - Plan and Draft with Gemini: Prompts and Values
+# 02 - Plan and Draft with Gemini: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -24,8 +24,7 @@ FACTS:
 
 Replace bracketed source placeholders before submitting. Keep a human check between an AI proposal and the final output.
 
-
-## Depth Case Input
+## Part 3: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
