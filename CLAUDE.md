@@ -38,7 +38,7 @@ All 44 specialist chapters now include casework, independent changed requirement
 
 ## Repository Review
 
-Use a branch and a pull request, following the shared course conventions. The initial six-course import was merged through pull request #1. Pushing the source does not authorise enabling Pages, running the manual publication workflow, granting Drive access or publishing native Google Sites.
+Use a branch and a pull request, following the shared course conventions. The initial six-course import was merged through pull request #1. GitHub Pages is live at https://asraf-js.github.io/Google-Workspace/ with Source set to GitHub Actions (October 2026). The Publish course site workflow runs on every push to main, so merging a pull request publishes it; keep unfinished work on branches. Branch deploys use Jekyll, which cannot fill this site's {{base}}, {{courseLinks}} and {{chapterNav}} placeholders, so never switch the Pages source back to Deploy from a branch. Pushing the source does not authorise granting Drive access or publishing native Google Sites.
 
 ## Screenshot Sources
 
