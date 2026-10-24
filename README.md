@@ -67,6 +67,6 @@ Use an account approved by your trainer. Check the [access requirements](./plann
 
 During the course, ask your trainer. For sign-in, licenses or organisation restrictions, contact your organisation's Workspace administrator.
 
-*Last updated: October 2026 | Trainer: Asraf*
+*Last updated: October 2026 \| Trainer: Asraf*
 
 © Asraf Jaafar Sidik, Microsoft Certified Trainer. These materials are for course participants' personal use. Please do not redistribute or resell them.
