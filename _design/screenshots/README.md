@@ -265,14 +265,14 @@ Eight current-stage application-window sources were retained on 20 October 2026,
 
 | Lesson image | Full source | Dimensions | Kind |
 |---|---|---|---|
-| [c02-06-01-sponsor-panel-request.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-01-sponsor-panel-request.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-01-sponsor-panel-request.png) | 1591 x 920 | application-window |
-| [c02-06-04-sponsor-summary-complete.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-04-sponsor-summary-complete.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-04-sponsor-summary-complete.png) | 1591 x 920 | application-window |
-| [c02-06-06-malay-panel-draft.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-06-malay-panel-draft.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-06-malay-panel-draft.png) | 1591 x 868 | application-window |
-| [c02-06-07-malay-practice-inserted.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-07-malay-practice-inserted.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-07-malay-practice-inserted.png) | 1591 x 868 | application-window |
-| [c02-06-08-glossary-and-review-pending.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-08-glossary-and-review-pending.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-08-glossary-and-review-pending.png) | 1591 x 868 | application-window |
-| [c02-06-09-structure-and-descriptive-links.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-09-structure-and-descriptive-links.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-09-structure-and-descriptive-links.png) | 1591 x 920 | application-window |
-| [c02-06-14-complete-meaning-table.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-14-complete-meaning-table.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-14-complete-meaning-table.png) | 1591 x 920 | application-window |
-| [c02-06-17-final-analysis-clean-view.jpg](../../02-google-docs/06-adapt-accessibility/images/c02-06-17-final-analysis-clean-view.jpg) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-17-final-analysis-clean-view.png) | 1591 x 920 | application-window |
+| [c02-06-01-sponsor-panel-request.png](../../02-google-docs/06-adapt-accessibility/images/c02-06-01-sponsor-panel-request.png) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-01-sponsor-panel-request.png) | 1591 x 920 | application-window |
+| [c02-06-04-sponsor-summary-complete.png](../../02-google-docs/06-adapt-accessibility/images/c02-06-04-sponsor-summary-complete.png) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-04-sponsor-summary-complete.png) | 1591 x 920 | application-window |
+| [c02-06-06-malay-panel-draft.png](../../02-google-docs/06-adapt-accessibility/images/c02-06-06-malay-panel-draft.png) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-06-malay-panel-draft.png) | 1591 x 868 | application-window |
+| [c02-06-07-malay-practice-inserted.png](../../02-google-docs/06-adapt-accessibility/images/c02-06-07-malay-practice-inserted.png) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-07-malay-practice-inserted.png) | 1591 x 868 | application-window |
+| [c02-06-08-glossary-and-review-pending.png](../../02-google-docs/06-adapt-accessibility/images/c02-06-08-glossary-and-review-pending.png) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-08-glossary-and-review-pending.png) | 1591 x 868 | application-window |
+| [c02-06-09-structure-and-descriptive-links.png](../../02-google-docs/06-adapt-accessibility/images/c02-06-09-structure-and-descriptive-links.png) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-09-structure-and-descriptive-links.png) | 1591 x 920 | application-window |
+| [c02-06-14-complete-meaning-table.png](../../02-google-docs/06-adapt-accessibility/images/c02-06-14-complete-meaning-table.png) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-14-complete-meaning-table.png) | 1591 x 920 | application-window |
+| [c02-06-17-final-analysis-clean-view.png](../../02-google-docs/06-adapt-accessibility/images/c02-06-17-final-analysis-clean-view.png) | [PNG](full/02-google-docs/06-adapt-accessibility/c02-06-17-final-analysis-clean-view.png) | 1591 x 920 | application-window |
 
 ## Docs 7: Export and Round Trip Stages
 

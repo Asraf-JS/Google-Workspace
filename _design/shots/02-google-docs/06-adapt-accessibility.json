@@ -1,0 +1,138 @@
+{
+ "raw": "../raw/02-google-docs/06-adapt-accessibility",
+ "repoRoot": "../../../02-google-docs",
+ "shots": {
+  "c02-06-01-sponsor-panel-request.png": {
+   "boxes": [
+    [
+     1500,
+     16,
+     1530,
+     46,
+     1,
+     "below"
+    ],
+    [
+     374,
+     310,
+     1024,
+     540,
+     1
+    ],
+    [
+     1316,
+     124,
+     1560,
+     234,
+     1
+    ]
+   ]
+  },
+  "c02-06-04-sponsor-summary-complete.png": {
+   "boxes": [
+    [
+     374,
+     186,
+     1024,
+     368,
+     3
+    ],
+    [
+     76,
+     640,
+     204,
+     668,
+     3
+    ]
+   ]
+  },
+  "c02-06-06-malay-panel-draft.png": {
+   "boxes": [
+    [
+     56,
+     8,
+     460,
+     34,
+     1,
+     "right"
+    ],
+    [
+     374,
+     694,
+     1028,
+     836,
+     1
+    ],
+    [
+     1316,
+     124,
+     1560,
+     220,
+     1
+    ]
+   ]
+  },
+  "c02-06-07-malay-practice-inserted.png": {
+   "boxes": [
+    [
+     454,
+     404,
+     1104,
+     630,
+     2
+    ]
+   ]
+  },
+  "c02-06-08-glossary-and-review-pending.png": {
+   "boxes": [
+    [
+     452,
+     212,
+     1092,
+     250,
+     3
+    ]
+   ]
+  },
+  "c02-06-09-structure-and-descriptive-links.png": {
+   "boxes": [
+    [
+     76,
+     276,
+     264,
+     664,
+     1
+    ],
+    [
+     374,
+     576,
+     616,
+     634,
+     1
+    ]
+   ]
+  },
+  "c02-06-14-complete-meaning-table.png": {
+   "boxes": [
+    [
+     374,
+     400,
+     1026,
+     776,
+     2
+    ]
+   ]
+  },
+  "c02-06-17-final-analysis-clean-view.png": {
+   "boxes": [
+    [
+     374,
+     268,
+     1028,
+     724,
+     4
+    ]
+   ]
+  }
+ }
+}

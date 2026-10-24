@@ -7255,19 +7255,14 @@
         "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/05-review-collaboration.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/06-adapt-accessibility/images/c02-06-01-sponsor-panel-request.jpg": {
+    "02-google-docs/06-adapt-accessibility/images/c02-06-01-sponsor-panel-request.png": {
       "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-01-sponsor-panel-request.png",
       "dimensions": [
         1591,
         920
       ],
       "kind": "application-window",
-      "approved_crop": [
-        300,
-        110,
-        1575,
-        900
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1530,
@@ -7278,22 +7273,18 @@
       ],
       "sha256": "8f40c8bd9098cf61fbda313e0fc90ce724ccdf2132625c634c1dadc136b50ec4",
       "notes": [
-        "Current-stage capture; raw unmasked original retained privately."
+        "Current-stage capture; raw unmasked original retained privately.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/06-adapt-accessibility.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/06-adapt-accessibility/images/c02-06-04-sponsor-summary-complete.jpg": {
+    "02-google-docs/06-adapt-accessibility/images/c02-06-04-sponsor-summary-complete.png": {
       "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-04-sponsor-summary-complete.png",
       "dimensions": [
         1591,
         920
       ],
       "kind": "application-window",
-      "approved_crop": [
-        350,
-        170,
-        1060,
-        385
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1530,
@@ -7304,22 +7295,18 @@
       ],
       "sha256": "0970311d4adf5d3af508d6e9217fcb7761385350a60c70a9ca2d15108cf53b2c",
       "notes": [
-        "Current-stage capture; raw unmasked original retained privately."
+        "Current-stage capture; raw unmasked original retained privately.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/06-adapt-accessibility.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/06-adapt-accessibility/images/c02-06-06-malay-panel-draft.jpg": {
+    "02-google-docs/06-adapt-accessibility/images/c02-06-06-malay-panel-draft.png": {
       "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-06-malay-panel-draft.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        350,
-        280,
-        1570,
-        855
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1530,
@@ -7330,22 +7317,18 @@
       ],
       "sha256": "e067eb50cd6c2b1d6806e1237df659e2cf2ea63e5852160eb8bf83ee03a91259",
       "notes": [
-        "Current-stage capture; raw unmasked original retained privately."
+        "Current-stage capture; raw unmasked original retained privately.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/06-adapt-accessibility.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/06-adapt-accessibility/images/c02-06-07-malay-practice-inserted.jpg": {
+    "02-google-docs/06-adapt-accessibility/images/c02-06-07-malay-practice-inserted.png": {
       "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-07-malay-practice-inserted.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        440,
-        175,
-        1120,
-        805
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1530,
@@ -7356,22 +7339,18 @@
       ],
       "sha256": "2d94bd9b634d6ac2ddd26b558be9da61f6555386df02edd10399001ca1141294",
       "notes": [
-        "Current-stage capture; raw unmasked original retained privately."
+        "Current-stage capture; raw unmasked original retained privately.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/06-adapt-accessibility.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/06-adapt-accessibility/images/c02-06-08-glossary-and-review-pending.jpg": {
+    "02-google-docs/06-adapt-accessibility/images/c02-06-08-glossary-and-review-pending.png": {
       "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-08-glossary-and-review-pending.png",
       "dimensions": [
         1591,
         868
       ],
       "kind": "application-window",
-      "approved_crop": [
-        440,
-        145,
-        1120,
-        250
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1530,
@@ -7382,22 +7361,18 @@
       ],
       "sha256": "2690220477494dc4c6e866fe2a44ad61214ad37ad69dd9f06a0c0defc863f278",
       "notes": [
-        "Current-stage capture; raw unmasked original retained privately."
+        "Current-stage capture; raw unmasked original retained privately.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/06-adapt-accessibility.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/06-adapt-accessibility/images/c02-06-09-structure-and-descriptive-links.jpg": {
+    "02-google-docs/06-adapt-accessibility/images/c02-06-09-structure-and-descriptive-links.png": {
       "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-09-structure-and-descriptive-links.png",
       "dimensions": [
         1591,
         920
       ],
       "kind": "application-window",
-      "approved_crop": [
-        20,
-        175,
-        1080,
-        830
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1530,
@@ -7414,22 +7389,18 @@
       ],
       "sha256": "2535d32963052db8b71e7a46ebba7c86220a0cbddf1973174af088bc2256c065",
       "notes": [
-        "Current-stage capture; raw unmasked original retained privately."
+        "Current-stage capture; raw unmasked original retained privately.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/06-adapt-accessibility.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/06-adapt-accessibility/images/c02-06-14-complete-meaning-table.jpg": {
+    "02-google-docs/06-adapt-accessibility/images/c02-06-14-complete-meaning-table.png": {
       "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-14-complete-meaning-table.png",
       "dimensions": [
         1591,
         920
       ],
       "kind": "application-window",
-      "approved_crop": [
-        350,
-        385,
-        1040,
-        790
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1530,
@@ -7440,22 +7411,18 @@
       ],
       "sha256": "415f79601776c5e409e0bfb0810d7ca135fc798c184ca867d6811df560656e8f",
       "notes": [
-        "Current-stage capture; raw unmasked original retained privately."
+        "Current-stage capture; raw unmasked original retained privately.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/06-adapt-accessibility.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "02-google-docs/06-adapt-accessibility/images/c02-06-17-final-analysis-clean-view.jpg": {
+    "02-google-docs/06-adapt-accessibility/images/c02-06-17-final-analysis-clean-view.png": {
       "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-17-final-analysis-clean-view.png",
       "dimensions": [
         1591,
         920
       ],
       "kind": "application-window",
-      "approved_crop": [
-        350,
-        250,
-        1060,
-        730
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1530,
@@ -7466,7 +7433,8 @@
       ],
       "sha256": "10f429657c570e1d2925dec0ebc472f2f74ce9d7db0ab1452bf7215bba131c39",
       "notes": [
-        "Current-stage capture; raw unmasked original retained privately."
+        "Current-stage capture; raw unmasked original retained privately.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/06-adapt-accessibility.json (crop and boxes in 1600 px coordinates)."
       ]
     },
     "02-google-docs/07-export-check/images/c02-07-01-download-formats.jpg": {
