@@ -2,13 +2,15 @@
 
 In this chapter you will generate an outline, draft from supplied evidence and record unsupported claims.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
+> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
-**Target allocation:** 55 minutes: 10 explanation/demonstration, 25 guided build and casework, 15 independent challenge, 5 verification and repair. The active portion is 45 minutes by design. These are unmeasured targets awaiting a learner pilot.
+**Estimated time:** 55 minutes, planned as 10 explanation and demonstration, 25 guided build and casework, 15 independent practice and 5 verification and repair. Not yet timed with learners.
 
 **Your result:** A checked proposed procedure with outstanding sponsor questions.
 
 > **Status:** real-app reference route captured with 13 stage images. Gemini response reviewed, eight-step table verified and normal/missing-owner paper routes checked. Independent late/incomplete challenge and reviewer pilot remain pending.
+
+---
 
 ## What You Will Learn
 
@@ -30,6 +32,7 @@ Use your working document and the supplied [project facts](../../shared/sample-f
 
 ![The Gemini prompt is prepared with the actual fact sheet; the request remains unsubmitted at this stage](./images/c02-02-source-grounded-prompt.jpg)
 
+*The Gemini prompt is prepared with the actual fact sheet; the request remains unsubmitted at this stage.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -46,12 +49,17 @@ The request names the reader, source and output format. No source placeholder re
 
 ![The panel response is still an unreviewed proposal; its Check section omits Not Started](./images/c02-02-unreviewed-response.jpg)
 
+*The panel response is still an unreviewed proposal; its Check section omits Not Started.*
 
 ![The remaining response preserves open decisions but gives an insufficiently specific submission route](./images/c02-02-response-checks.jpg)
+
+*The remaining response preserves open decisions but gives an insufficiently specific submission route.*
 
 2. Compare each operational instruction with the fact sheet. Mark unsupported steps as proposed practice rather than an approved process.
 
 ![The human review records source-boundary issues, the missing status and the vague routing instruction](./images/c02-02-human-review.jpg)
+
+*The human review records source-boundary issues, the missing status and the vague routing instruction.*
 
 3. If Gemini is unavailable, draft four sections manually: Prepare, Check, Submit for Review and Resolve Questions.
 
@@ -70,11 +78,14 @@ The draft distinguishes known project facts from a proposed training procedure. 
 
 ![The checked four-section draft is inserted separately from its retained evidence](./images/c02-02-checked-draft.jpg)
 
+*The checked four-section draft is inserted separately from its retained evidence.*
+
 2. Keep the source facts available so a reviewer can compare commitments.
 3. Add a final section named `Questions for the Sponsor` with the two unresolved decisions.
 
 ![The draft ends with two open sponsor questions and no invented approval or calendar date](./images/c02-02-open-decisions.jpg)
 
+*The draft ends with two open sponsor questions and no invented approval or calendar date.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -91,9 +102,11 @@ The procedure and its outstanding questions are readable without the Gemini conv
 
 ![The native plan maps the first seven steps to inputs, actions, outputs and checks](./images/c02-02-plan-first-steps.jpg)
 
+*The native plan maps the first seven steps to inputs, actions, outputs and checks.*
 
 ![The remaining plan rows complete eight meaningful steps across the four sections](./images/c02-02-plan-final-steps.jpg)
 
+*The remaining plan rows complete eight meaningful steps across the four sections.*
 
 2. Use reporting-guidance.txt alongside the fact sheet. Map every factual instruction to the relevant source, and label workflow details you design as proposed practice.
 
@@ -103,24 +116,29 @@ The procedure and its outstanding questions are readable without the Gemini conv
 
 ![A supplied T001 example is distinguished from the missing-owner test card](./images/c02-02-normal-and-exception.jpg)
 
+*A supplied T001 example is distinguished from the missing-owner test card.*
 
 ![The reader-facing check now includes all three proposed guidance definitions](./images/c02-02-status-repair.jpg)
 
+*The reader-facing check now includes all three proposed guidance definitions.*
 
 5. Ask Gemini for a clarity rewrite of only one section, or rewrite it manually. Keep a before-and-after extract in the Authoring Log and compare the preserved checks.
 
 ![The revised submission instruction explicitly retains a draft while routing details are unresolved](./images/c02-02-clarity-rewrite.jpg)
 
+*The revised submission instruction explicitly retains a draft while routing details are unresolved.*
 
 6. Perform a paper walkthrough using T001 as a complete record and the card’s incomplete record as the exception. Record where the procedure gives a usable next action and where it is ambiguous.
 
 ![The author walkthrough records normal and incomplete routes, the ambiguity and the repair](./images/c02-02-paper-walkthroughs.jpg)
 
+*The author walkthrough records normal and incomplete routes, the ambiguity and the repair.*
 
 7. Repair the ambiguous instruction and add a two-row distinction between a complete submission and an unresolved question. Keep both project decisions unresolved.
 
 ![A two-row distinction separates a review-ready submission from an unresolved question](./images/c02-02-submission-distinction.jpg)
 
+*A two-row distinction separates a review-ready submission from an unresolved question.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -131,7 +149,7 @@ Eight-step procedure with inputs, outputs and checks. The result must be support
 
 <!-- Reference core captured 18 October 2026; independent learner challenge remains pending. -->
 
-## Independent Challenge
+## Independent Practice
 
 Close the earlier step lists for the first attempt. Use the case input and your own reasoning. If you need help, record the hint and repeat the affected check independently.
 
@@ -141,7 +159,7 @@ Close the earlier step lists for the first attempt. Use the case input and your 
 
 3. Ask a reviewer to execute the written steps verbally. Revise one ambiguity and save the source comparison in the Authoring Log.
 
-## Evidence to Hand Over
+### Evidence to Hand Over
 
 - Eight-step procedure with inputs, outputs and checks.
 - Normal and exception walkthroughs with a recorded repair.

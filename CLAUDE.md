@@ -20,9 +20,13 @@ Version 0.4, 19 October 2026. All 50 chapter notes and companion prompt pages ar
 
 There are 231 real stage captures: 109 across the six masterclass labs and 122 across Docs Labs 1-5. Thirty-nine specialist routes remain uncaptured. Docs Lab 5 core is complete with a recorded manual comparison fallback; native generated comparison output remains unverified. The masterclass hub's desktop and phone Preview remain blank. Independent learner/reviewer challenges and classroom timing pilots remain pending. Recorded author checks and scripted reference tests are not learner validation.
 
-Source inventory, relative links and daily timing allocations pass. The six books were rendered and visually reviewed; the Docs book is 95 pages and the masterclass book is 73 pages. Local browser checks passed for the captured Docs routes. Full pop-out/lightbox lifecycle checks remain pending. No remote site deployment has been performed.
+Source inventory, relative links and daily timing allocations pass. The six books were rendered and visually reviewed; the Docs book is 122 pages and the masterclass book is 73 pages. Local browser checks passed for the captured Docs routes. Full pop-out/lightbox lifecycle checks remain pending. No remote site deployment has been performed.
 
 See planning/VALIDATION-STATUS.md for public validation state, and ignored _local records for private demo identities. Rebuild the books and site after changing content. Inspect the final PDFs after changes. Keep status records accurate rather than claiming a draft chapter is validated.
+
+## Docs Conventions Alignment
+
+The Google Docs course (02-google-docs) now follows the training-book-kit chapter skeleton: a `> **Prompts:**` callout, `**Estimated time:** NN minutes` (the planned split follows on the same line), a `---` rule before What You Will Learn, Independent Practice with an Evidence to Hand Over subsection, and an italic caption under every screenshot. Prompts pages are titled `NN - Title: Prompts` and use `## Part N: Name` headings, with Session/Grounding lines above Gemini prompts. Apply the same pattern to the other five courses once their screenshot branches are merged. Image file names keep the course prefix (`c02-...`) because six courses share chapter numbers; the site still uses its Google colours rather than the kit's BRAND.md palette.
 
 ## Next Production Work
 

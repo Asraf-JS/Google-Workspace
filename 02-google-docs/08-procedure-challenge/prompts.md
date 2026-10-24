@@ -1,4 +1,4 @@
-# 08 - Complete the Procedure Challenge: Prompts and Values
+# 08 - Complete the Procedure Challenge: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -8,8 +8,7 @@ Copy the values below when following the chapter. Review pasted text before subm
 Procedure challenge checked
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -17,7 +16,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Final change brief: Contributors must be able to report an unknown owner, an unfamiliar status and a request that asserts approval without evidence. Keep these uncertainties visible and provide a review route. You may design proposed practice, but must not add a real contact, deadline, approval or pilot start date.
 ```
 
-## Owner Clarification Instruction
+## Part 3: Owner Clarification Instruction
 
 Apply Heading 3 to the first line only.
 
@@ -27,7 +26,7 @@ Draft a clarification request that records the task ID, recorded status and the 
 Keep the request and task record as drafts until the submission channel, review recipient and cut-off are agreed. Recheck the entry against its source after clarification before requesting review. This training exercise sends nothing.
 ```
 
-## Names and Opening Links
+## Part 4: Names and Opening Links
 
 ```text
 GW - Reporting Procedure - Capstone Practice
@@ -37,7 +36,7 @@ Draft an owner-clarification request
 Review unresolved owner, status and approval evidence
 ```
 
-## Proposed Review Checklist
+## Part 5: Proposed Review Checklist
 
 ```text
 1. Confirm the task ID and source reference are recorded.
@@ -48,7 +47,7 @@ Review unresolved owner, status and approval evidence
 6. After clarification, recheck against the source and retain the review decision with its evidence.
 ```
 
-## Author Walkthrough Cases
+## Part 6: Author Walkthrough Cases
 
 These are fictional incoming reports, not replacements for the canonical T001 source example. Record the route, next action and unresolved stop condition for each.
 
@@ -58,7 +57,7 @@ These are fictional incoming reports, not replacements for the canonical T001 so
 | CASE-02 | Owner supplied as training contributor; raw status Nearly done | Unfamiliar Status: retain the label, compare guidance, request meaning/evidence; do not infer Complete |
 | CASE-03 | Claims RM 12000 approved and next Monday start; no decision evidence | Approval Evidence Missing: retain the unsupported assertion, request a decision reference through an agreed route, preserve proposed ceiling/unagreed start and Friday cadence |
 
-## Independent Reviewer Card — Result Pending
+## Part 7: Independent Reviewer Card (Result Pending)
 
 ```text
 CASE-R1: A report has no owner, uses status Ready for release and asserts approval without a decision reference.

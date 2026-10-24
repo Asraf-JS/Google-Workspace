@@ -1,4 +1,4 @@
-# 03 - Apply Styles and Navigation: Prompts and Values
+# 03 - Apply Styles and Navigation: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -16,8 +16,7 @@ Check the Update
 Review the status definitions
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 

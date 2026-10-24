@@ -2,13 +2,15 @@
 
 In this chapter you will rewrite for an audience, check a translation against a supplied glossary and inspect accessibility.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
+> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
-**Target allocation:** 50 minutes: 10 explanation/demonstration, 20 guided build and casework, 15 independent challenge, 5 verification and repair. The active portion is 40 minutes by design. These are unmeasured targets awaiting a learner pilot.
+**Estimated time:** 50 minutes, planned as 10 explanation and demonstration, 20 guided build and casework, 15 independent practice and 5 verification and repair. Not yet timed with learners.
 
 **Your result:** An audience-specific summary, reviewed translation practice and accessibility checks.
 
 > **Status:** core sections 6.1-6.4 executed as an author reference run, with eight staged images and retained full-window sources. The 100-word sponsor summary, native numbered checklist and four-condition table were checked against source facts. Malay terminology received an author glossary check only. Competent language review, partner navigation, independent challenge and learner timing remain pending.
+
+---
 
 ## What You Will Learn
 
@@ -24,14 +26,18 @@ Use the checked procedure and the [training glossary](../../shared/sample-files/
 
 ## 6.1 Adapt for the Sponsor
 
-1. Select the complete purpose-and-scope paragraph. Open **Ask Gemini** and use the sponsor prompt on the copy-paste page. Request a proposal **in the panel only**; do not accept an automatic document edit.
+1. Select the complete purpose-and-scope paragraph. Open **Ask Gemini** and use the sponsor prompt on the prompts page. Request a proposal **in the panel only**; do not accept an automatic document edit.
 
 ![The selected source and Gemini panel preserve the proposal and unresolved start](./images/c02-06-01-sponsor-panel-request.jpg)
+
+*The selected source and Gemini panel preserve the proposal and unresolved start.*
 
 2. Keep the proposed budget and missing start date explicit. Compare all numbers and conditions with the source.
 3. Insert the checked 100-word summary under **Sponsor Summary**. Put the heading on its own paragraph and apply **Heading 1**. Check the outline: larger text alone is insufficient. If AI is unavailable, write the summary manually and perform the same fact checks.
 
 ![The checked 100-word sponsor summary sits under a real heading](./images/c02-06-04-sponsor-summary-complete.jpg)
+
+*The checked 100-word sponsor summary sits under a real heading.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -48,13 +54,19 @@ The wording suits a sponsor while preserving the source facts.
 
 ![The English source stays selected while Gemini drafts Malay in the panel](./images/c02-06-06-malay-panel-draft.jpg)
 
+*The English source stays selected while Gemini drafts Malay in the panel.*
+
 2. Insert the Malay draft under its own **Heading 1** in the practice copy. Compare every condition with the English source and the supplied glossary. Record author edits and unresolved terms. The reference author clarified owner assignment and submission cut-off; those choices still require language review.
 
 ![English and Malay remain together in the separate practice copy](./images/c02-06-07-malay-practice-inserted.jpg)
 
+*English and Malay remain together in the separate practice copy.*
+
 3. Record **Language-review status: PENDING** unless a competent reviewer has actually checked the text. Keep the author glossary check separate from that review. A reviewer must check full-sentence meaning and terminology before external use; no reviewer was assigned in this reference run.
 
 ![The author flags wording choices and the pending competent language review](./images/c02-06-08-glossary-and-review-pending.jpg)
+
+*The author flags wording choices and the pending competent language review.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -73,6 +85,8 @@ The practice copy keeps its original meaning. A generated translation is not tre
 
 ![The outline and quick links describe the exception route](./images/c02-06-09-structure-and-descriptive-links.jpg)
 
+*The outline and quick links describe the exception route.*
+
 <details markdown="1">
 <summary>What should you see?</summary>
 
@@ -84,11 +98,13 @@ The document can be followed through structure and text, with meaningful image d
 
 ## 6.4 Adapt for Two Readers and Audit Meaning
 
-1. Retain the checked **100-word Sponsor Summary**. Add **Contributor Checklist** as Heading 1, then add the seven actions from the copy-paste page. Select only those action paragraphs and apply the native **Numbered list** control. Preserve proposed budget, unconfirmed start, Friday cadence and missing-owner handling in both versions.
+1. Retain the checked **100-word Sponsor Summary**. Add **Contributor Checklist** as Heading 1, then add the seven actions from the prompts page. Select only those action paragraphs and apply the native **Numbered list** control. Preserve proposed budget, unconfirmed start, Friday cadence and missing-owner handling in both versions.
 
 2. Add **Meaning Audit** as Heading 1 and a short adjacent description of what the table shows. Use **Insert**, **Table** to create **3 columns by 5 rows**. Label the columns Source condition, Sponsor phrase and Contributor phrase. Add the four conditions and quote the corresponding wording from each version. Read the labels and text rather than colour.
 
 ![A native table quotes both versions for all four source conditions](./images/c02-06-14-complete-meaning-table.jpg)
+
+*A native table quotes both versions for all four source conditions.*
 
 3. Use the supplied glossary to produce or review a Malay practice summary. Mark language-review status explicitly and keep the English source alongside it.
 
@@ -102,6 +118,8 @@ The document can be followed through structure and text, with meaningful image d
 
 ![The final record explains factual defects, checks and pending tests](./images/c02-06-17-final-analysis-clean-view.jpg)
 
+*The final record explains factual defects, checks and pending tests.*
+
 <details markdown="1">
 <summary>What should you see?</summary>
 
@@ -111,7 +129,7 @@ Two audience versions with a four-invariant meaning audit. The result must be su
 
 <!-- CAPTURED: 6.4 author casework; partner test and independent challenge remain pending. -->
 
-## Independent Challenge
+## Independent Practice
 
 Close the earlier step lists for the first attempt. Use the case input and your own reasoning. If you need help, record the hint and repeat the affected check independently.
 
@@ -121,7 +139,7 @@ Close the earlier step lists for the first attempt. Use the case input and your 
 
 3. Retest navigation without relying on colour and leave any unverified language issue visibly marked for review.
 
-## Evidence to Hand Over
+### Evidence to Hand Over
 
 - Two audience versions with a four-invariant meaning audit.
 - Glossary-based translation review with verification status.

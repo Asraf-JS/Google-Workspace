@@ -2,13 +2,15 @@
 
 In this chapter you will create a working copy and distinguish source facts from instructions.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
+> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
-**Target allocation:** 40 minutes: 10 explanation/demonstration, 10 guided build and casework, 15 independent challenge, 5 verification and repair. The active portion is 30 minutes by design. These are unmeasured targets awaiting a learner pilot.
+**Estimated time:** 40 minutes, planned as 10 explanation and demonstration, 10 guided build and casework, 15 independent practice and 5 verification and repair. Not yet timed with learners.
 
 **Your result:** A named working document and a separate set of source facts.
 
 > **Status:** real-app reference route captured with 16 stage images. Source register, five questions, three opened links, memo classification and 133-word scope checked. Browser upload and independent challenge remain unverified.
+
+---
 
 ## What You Will Learn
 
@@ -28,11 +30,14 @@ Download [project facts](../../shared/sample-files/project-facts.txt) and [check
 
 ![The new Docs practice folder is empty before any exercise files are created](./images/c02-01-folder.jpg)
 
+*The new Docs practice folder is empty before any exercise files are created.*
+
 2. Open the supplied checked brief text. Create a blank Google Doc in your new folder.
 3. Name it `GW - Reporting Procedure - Working`. Paste the supplied brief text into the body.
 
 ![Only the supplied checked brief is present at this stage](./images/c02-01-starter-brief.jpg)
 
+*Only the supplied checked brief is present at this stage.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -51,6 +56,7 @@ A native Google Doc contains the fictional brief. The original downloaded source
 
 ![Reader requirements are distinct from the underlined proposed budget and unresolved start date](./images/c02-01-requirements.jpg)
 
+*Reader requirements are distinct from the underlined proposed budget and unresolved start date.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -68,10 +74,13 @@ The project brief supplies context; the procedure requirements describe what the
 
 ![The exact working-document title is visible in its practice folder before reopening](./images/c02-01-saved-folder.jpg)
 
+*The exact working-document title is visible in its practice folder before reopening.*
+
 3. Inspect Share, confirm its current access and close the dialog without inviting anyone.
 
 ![The reopened document is Restricted with one owner; account details are masked](./images/c02-01-restricted-access.jpg)
 
+*The reopened document is Restricted with one owner; account details are masked.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -88,6 +97,7 @@ Your working copy can be reopened and has its intended current access.
 
 ![Three sources have separate evidence boundaries; none supplies an approved budget or calendar start](./images/c02-01-source-register.jpg)
 
+*Three sources have separate evidence boundaries; none supplies an approved budget or calendar start.*
 
 2. Read the reporting guidance in full. Add the definitions of Complete and In Progress to the log, labelled as proposed training guidance. Distinguish these operational definitions from the fact sheet’s project commitments.
 
@@ -95,43 +105,53 @@ Your working copy can be reopened and has its intended current access.
 
 ![Five reader questions are paired with evidence or explicit unresolved items](./images/c02-01-reader-questions.jpg)
 
+*Five reader questions are paired with evidence or explicit unresolved items.*
 
 4. Upload your unchanged `project-facts.txt`, `checked-brief.txt` and `reporting-guidance.txt` to the practice folder. Use **Insert**, **Link** to connect three descriptive source labels to those uploaded files. Reopen each link and inspect the file title and content.
 
 ![The three original text files are separate from the native working document](./images/c02-01-uploaded-sources.jpg)
 
+*The three original text files are separate from the native working document.*
 
 ![The proposed status definitions and three descriptive source links are retained in the log](./images/c02-01-descriptive-links.jpg)
 
+*The proposed status definitions and three descriptive source links are retained in the log.*
 
 ![The first descriptive link opens the supplied project facts, including Friday reporting and unresolved decisions](./images/c02-01-facts-source.jpg)
 
+*The first descriptive link opens the supplied project facts, including Friday reporting and unresolved decisions.*
 
 ![This extract from the opened checked-brief source preserves the proposed budget, schedule caveat and open decisions](./images/c02-01-brief-source.jpg)
 
+*This extract from the opened checked-brief source preserves the proposed budget, schedule caveat and open decisions.*
 
 ![The third link opens proposed guidance v1 with all three statuses and the missing-information rule](./images/c02-01-guidance-source.jpg)
 
+*The third link opens proposed guidance v1 with all three statuses and the missing-information rule.*
 
 **Reference setup:** browser upload was blocked by the automation extension’s local-file setting. The connected Drive upload tool supplied these exact files; manual browser upload remains unverified. No extension or security settings were changed.
 
-5. Read the intake memo on the copy-paste page. Sort its requests into supported facts, proposed procedure choices and unsupported assertions. Record a reason for each classification.
+5. Read the intake memo on the prompts page. Sort its requests into supported facts, proposed procedure choices and unsupported assertions. Record a reason for each classification.
 
 ![The intake memo is classified by evidence; approval and next-Monday assertions remain unsupported](./images/c02-01-memo-classification.jpg)
 
+*The intake memo is classified by evidence; approval and next-Monday assertions remain unsupported.*
 
 6. Draft a 120 to 160 word document purpose and scope statement for team contributors. It must say that the procedure is proposed practice, identify its source boundaries and list what is still unresolved.
 
 ![A 133-word purpose and scope statement preserves source boundaries and unresolved routing details](./images/c02-01-purpose-scope.jpg)
 
+*A 133-word purpose and scope statement preserves source boundaries and unresolved routing details.*
 
 7. Move authoring-only notes below a clearly marked **Authoring Log** heading so a reader can distinguish working evidence from procedure instructions. Reopen the file from its folder and check that the log and links survived.
 
 ![The Authoring Log begins after the reader-facing purpose statement](./images/c02-01-authoring-boundary.jpg)
 
+*The Authoring Log begins after the reader-facing purpose statement.*
 
 ![Reopening from the folder retains the descriptive links and classified memo](./images/c02-01-reopened-log.jpg)
 
+*Reopening from the folder retains the descriptive links and classified memo.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -142,7 +162,7 @@ Three-source register and five reader questions with evidence or an unresolved l
 
 <!-- Reference core captured 18 October 2026; independent learner challenge remains pending. -->
 
-## Independent Challenge
+## Independent Practice
 
 Close the earlier step lists for the first attempt. Use the case input and your own reasoning. If you need help, record the hint and repeat the affected check independently.
 
@@ -152,7 +172,7 @@ Close the earlier step lists for the first attempt. Use the case input and your 
 
 3. Give a partner only the document and source links. Ask them to find the evidence for Friday reporting and the two unresolved decisions. Record any failed retrieval and repair the source label. If alone, close the source tabs and repeat from the document.
 
-## Evidence to Hand Over
+### Evidence to Hand Over
 
 - Three-source register and five reader questions with evidence or an unresolved label.
 - A substantive purpose/scope statement and six testable acceptance checks.

@@ -1,4 +1,4 @@
-# 01 - Prepare the Document and Sources: Prompts and Values
+# 01 - Prepare the Document and Sources: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -16,8 +16,7 @@ GW - Reporting Procedure - Working
 Procedure Requirements
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 

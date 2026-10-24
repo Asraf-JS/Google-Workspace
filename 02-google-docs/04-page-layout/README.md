@@ -2,13 +2,15 @@
 
 In this chapter you will set up pages, headers, footers and page numbering; compare pages and pageless use.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
+> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
-**Target allocation:** 50 minutes: 10 explanation/demonstration, 20 guided build and casework, 15 independent challenge, 5 verification and repair. The active portion is 40 minutes by design. These are unmeasured targets awaiting a learner pilot.
+**Estimated time:** 50 minutes, planned as 10 explanation and demonstration, 20 guided build and casework, 15 independent practice and 5 verification and repair. Not yet timed with learners.
 
 **Your result:** An A4 document with checked headers, footers and page numbers.
 
 > **Status:** core sections 4.1-4.4 executed as an author reference run. Thirty-five staged images cover page setup, real headers/footers and page numbers, table/checklist casework, a separate Pageless comparison and checked PDF repairs. Full captured frames are retained for editing. The escalation-table independent challenge and learner timings remain pending.
+
+---
 
 ## What You Will Learn
 
@@ -144,7 +146,7 @@ Every page has usable content, legible page elements and no avoidable blank page
 
 ## 4.4 Lay Out a Usable Multi-Page Procedure
 
-1. Under **Required Fields**, add `Field reference - proposed training template`. Choose **Insert**, **Table** and start with four columns. Enter the four headings and the six field rows from the copy-paste page. If the picker offers only five rows, pressing **Tab** in the final cell adds another row. Finish with **7 rows by 4 columns**, including the header.
+1. Under **Required Fields**, add `Field reference - proposed training template`. Choose **Insert**, **Table** and start with four columns. Enter the four headings and the six field rows from the prompts page. If the picker offers only five rows, pressing **Tab** in the final cell adds another row. Finish with **7 rows by 4 columns**, including the header.
 
 ![The native table starts with four columns; Tab in the last cell adds the remaining rows](./images/c02-04-field-table-empty.jpg)
 
@@ -164,7 +166,7 @@ Every page has usable content, legible page elements and no avoidable blank page
 
 *The Check column is 5 cm wide; 0.15 cm padding is tested on the selected cell.*
 
-3. Under **Submission Example**, add the six submission-check paragraphs from the copy-paste page. Select those six paragraphs and click **Numbered list**. Confirm you see **1** through **6**; pasted paragraphs may remain plain until you apply the list formatting. Keep the checklist label outside the list. Do not renumber the earlier eight-step procedure. Avoid filler.
+3. Under **Submission Example**, add the six submission-check paragraphs from the prompts page. Select those six paragraphs and click **Numbered list**. Confirm you see **1** through **6**; pasted paragraphs may remain plain until you apply the list formatting. Keep the checklist label outside the list. Do not renumber the earlier eight-step procedure. Avoid filler.
 
 ![Formatting verification confirms six real numbered-list items, preserving unresolved routing details](./images/c02-04-numbered-checklist.jpg)
 
@@ -245,7 +247,7 @@ Populated six-field reference table and real submission checklist. The result mu
 
 <!-- CAPTURED: core reference route; independent escalation challenge and learner pilot remain pending. -->
 
-## Independent Challenge
+## Independent Practice
 
 Close the earlier step lists for the first attempt. Use the case input and your own reasoning. If you need help, record the hint and repeat the affected check independently.
 
@@ -255,7 +257,7 @@ Close the earlier step lists for the first attempt. Use the case input and your 
 
 3. Write a brief layout decision explaining the chosen mode, table widths and one pagination repair.
 
-## Evidence to Hand Over
+### Evidence to Hand Over
 
 - Populated six-field reference table and real submission checklist.
 - Three-case escalation table placed in a readable multi-page document.
