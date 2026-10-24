@@ -14157,6 +14157,720 @@
       "notes": [
         "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone."
       ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-01-status-range-and-options.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-01-status-range-and-options.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "0b6cc1acd3eb81a481362ce0c1e616afda5188f3939406382578b947f6d55abd",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-02-reject-invalid-input.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-02-reject-invalid-input.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "a47f0beb2e090e82ab1f88be92fdfbfee4c95590a3bbe010d6c8d37a334e7daf",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-03-existing-status-dropdown.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-03-existing-status-dropdown.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "7f7bbf4573d04e0444e38f885399402a702617e677a489508d5b584569c4952c",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-04-temporary-filter-range.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-04-temporary-filter-range.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "5578ed7649dd66873be22388080b903bb5f0d4fae71c2161b5c443f4c16ca429",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-05-name-incomplete-view.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-05-name-incomplete-view.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "ab33dbb039aaac4ac754d26b3f42cb7888d8b4c96f87fe985e50a41a34e2343a",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-06-exclude-complete-filter.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-06-exclude-complete-filter.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "70078cc4808bc3a5697c410aa0f9f85c58caca080c9deb206215d68c1e253452",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-07-eight-incomplete-records.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-07-eight-incomplete-records.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "bbbe59e2d26fece941f28aa88c074a1a4a1a54c3ea6301ade105209c61e44709",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-08-all-twelve-after-closing.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-08-all-twelve-after-closing.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "3d718bbc81e6a757b557e82eb55ff912e44b627488a11014f53c0f6975be4438",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-09-paste-validation-only-menu.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-09-paste-validation-only-menu.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "a2d1a96560672f452e553ca46c1dc1380c5b24845894d592a9499d00a6b4b172",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-10-done-rejected-in-spare-cell.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-10-done-rejected-in-spare-cell.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "6848d84146379ff959367a4c35c2a8dc6a4c2cebd7f1eccca8f9eb1e7df5b2df",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-11-spare-test-cleared.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-11-spare-test-cleared.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "e1500d173ac0d2b0d0bf16e7cded33ab41ad81dae47602d0aecc9290a4cc639d",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-12-reopened-incomplete-view.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-12-reopened-incomplete-view.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "16f3eb904af3ac7dd37561f01b99a877cbbac407f3a034b08cc692277c21e121",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-13-status-test-plan.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-13-status-test-plan.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "4e0c80a24045e0ec4b34f4db6e3832a59ddf9bd3c6e9bf56e3e21d63ee39f015",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-14-three-canonical-statuses-accepted.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-14-three-canonical-statuses-accepted.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "69a054fbbbcb694c32ad088096b78e8797f9cb0929f0cd62c7e001415ea2d9bb",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-15-invalid-status-matrix-rejection.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-15-invalid-status-matrix-rejection.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "e2f1a190ff9345fc208f02376d7648d91798bfa9e3732fe0f13f6fa536b5f809",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-16-status-matrix-blank-limitation.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-16-status-matrix-blank-limitation.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "9988ff5775b055ee15a305ae1811173580fc7c20c84e920e827f7d45baf4ce59",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-17-week-boundary-test-plan.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-17-week-boundary-test-plan.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "bc483e8efcb33800fc382b28fefbbd9bd947785bc5af445a03727cef84eefc09",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-18-whole-week-custom-rule.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-18-whole-week-custom-rule.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "a0f331e7339c942b45b7df950fc56cc9a884042ff6cbe6c5de6affafa7f7530d",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-19-week-zero-rejected.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-19-week-zero-rejected.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "7cd5f10352350d0ee118bfbc8b81033cd4487e8dd51535cdf5c77453de959903",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-20-week-four-accepted.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-20-week-four-accepted.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "0f95f1029d93faf8d234208ec6016037b9bbabed766c093024b0430175798c9c",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-21-week-five-rejected.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-21-week-five-rejected.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "904f1686ce436afbd48d30b1adf25e19d2c303b76c86e624277725e3dc2389e4",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-22-fractional-week-rejected.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-22-fractional-week-rejected.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "d958b82dbd7869a1d5c71938c0557cf99c512229d170c154b938cca79be14e43",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-23-week-clearing-allowed.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-23-week-clearing-allowed.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "a88c097589ed7e782c7bfaa3a541ba58dba118909ef5d007cb8d30966052b1ba",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-24-original-practice-week-restored.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-24-original-practice-week-restored.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "08d738095cabce35b06b82d9f4bb2a205e20ab01954c12447551da15e5b6be95",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-25-completed-rule-matrix-guide.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-25-completed-rule-matrix-guide.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "374e2290e71c8227e9f0d3e135a55d869fa99a9a0dc0089818cb5a8c349e41bb",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-26-unfiltered-ordinary-sum.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-26-unfiltered-ordinary-sum.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "71474b565e45fbd6b233acf85e1be55580f11485d047146d8ca4f1ff29e1a3e9",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-27-name-planning-focused-view.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-27-name-planning-focused-view.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "1f2c7a7cb55f113e865af2df055de3063bdfc37f9ac99566352f22568810f89e",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-28-planning-team-filter.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-28-planning-team-filter.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "286c06a49da582017e6bf5a5dfee670e15fc2d10caaeaf9490d614e626d42d07",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-29-two-planning-tasks-sum-unchanged.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-29-two-planning-tasks-sum-unchanged.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "14588cf80b85b535f1dc88bd7a0652dec56b875313d0609f5085a5a458bacf02",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-30-two-saved-filter-views.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-30-two-saved-filter-views.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "ba9b7b1ee283f73a2830a66985b924bba407b2409418e4e383009f32e290043e",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-31-reopened-incomplete-sum-unchanged.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-31-reopened-incomplete-sum-unchanged.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "a063a03966754fa4a766115380d679ced366f63a3ebce55258bceafde45791dd",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-32-reopened-planning-two-records.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-32-reopened-planning-two-records.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "fa858438a0ae8d12a03c61cad27abd0f6e3f818c5b33a41f70f766007d83579c",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-33-all-source-rows-restored.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-33-all-source-rows-restored.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "67084842ec2c84456c2fed03bc39dd489bff5e4b93ca573674bf0e9dcf140da0",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-34-final-rule-and-view-evidence.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/05-validation-filtering/c04-05-34-final-rule-and-view-evidence.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "71a8d6438efeae622889d84aa3981fe92f56c790f17548eb0e271f41b5ebe125",
+      "notes": [
+        "Actual current-stage learner UI. Original dimensions retained without crop or resizing; account avatar masked. Source values/formulas unchanged, strict status validation added. Invalid-input tests use spare/copy cells; original practice week restored. Both filter views closed with all12 source rows visible. Independent challenge and learner timing pending."
+      ]
     }
   },
   "missing_originals": [
