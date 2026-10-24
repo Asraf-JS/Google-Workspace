@@ -11,7 +11,7 @@ Updated 24 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 422 captures: 109 masterclass, 165 Docs and 148 Slides captures. Fifteen specialist routes have author-reference captures; Slides Lab 2 imports and Lab 7 spoken/interactive PDF checks remain partial. There are 29 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 447 captures: 109 masterclass, 165 Docs and 173 Slides. Sixteen specialist routes have author-reference captures; Slides Lab 2 imports and spoken/reviewer/interactive PDF checks remain partial. There are 28 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -51,7 +51,7 @@ Seventeen new stages: fifteen full application windows and two native-export PDF
 
 ### 21 October 2026: Docs 8
 
-Eighteen new stages: sixteen full application windows and two offline native-export PDF page renders. All eight Docs author routes now have captures. Missing-owner instruction, repaired contents, source-backed handover, pre-edit impact list, three-case escalation route, audience consistency, author case table and complete16-page PDF recorded. Independent reviewer result is explicitly pending; no challenge or learner-pilot success claimed. Programme274 images, Docs165, retained sources271 (255application windows,6 focused,10PDF pages). Remaining36 specialist routes: Slides8, Foundation8, Advanced12, AI8.
+Eighteen new stages: sixteen full application windows and two offline native-export PDF page renders. All eight Docs author routes now have captures. Missing-owner instruction, repaired contents, source-backed handover, pre-edit impact list, three-case escalation route, audience consistency, author case table and complete16-page PDF recorded. Independent reviewer result is explicitly pending; no challenge or learner-pilot success claimed. Programme274 images, Docs165, retained sources271 (255application windows,6 focused,10PDF pages). Remaining36 specialist routes: Slides 8, Foundation8, Advanced12, AI8.
 
 ### 21 October 2026: Slides 1
 
@@ -75,7 +75,7 @@ Eight full original-size application captures for sections 5.1–5.2. Original s
 
 ### 23 October 2026: Slides 5 guided refresh and comparison complete
 
-Seventeen additional full-size application-window captures complete guided sections 5.3–5.4. Two T003 status-change tests produced 5/4/3, linked chart explicitly updated, static image stayed 4/4/4. Both tests restored T003 to Not Started and status counts to 4/4/4. SUMIF planned costs by team reconciled to RM 10400 and stayed unchanged during status-only tests. Both native chart links verified; both appendix slides skipped; final evidence checklists recorded. Programme361images; Slides87; retained sources358 (341application windows,6focused,11PDFpages). Independent new-row challenge and learner timing pending. Remaining guided routes: Slides6–8, Foundation8, Advanced12, AI8; earlier import/human checks and SitePreview remain.
+Seventeen additional full-size application-window captures complete guided sections 5.3–5.4. Two T003 status-change tests produced 5/4/3, linked chart explicitly updated, static image stayed 4/4/4. Both tests restored T003 to Not Started and status counts to 4/4/4. SUMIF planned costs by team reconciled to RM 10400 and stayed unchanged during status-only tests. Both native chart links verified; both appendix slides skipped; final evidence checklists recorded. Programme361images; Slides 87; retained sources358 (341application windows,6focused,11PDFpages). Independent new-row challenge and learner timing pending. Remaining guided routes: Slides6–8, Foundation8, Advanced12, AI8; earlier import/human checks and SitePreview remain.
 
 ### 23 October 2026: Slides 6.1–6.3 captured, casework pending
 
@@ -89,6 +89,14 @@ Actual Slideshow tested static zero reveal advances and staged three. Initial or
 
 Ten uncropped original-size captures verify separate presenter/audience windows, opening and decision notes, Next5to7 skipping backup6, Audience Tools Start new left unstarted, Share Restricted/owneronly and Publish to web not-published state. Link/Embed settings inspected and Close selected without publishing. No file-access mutation, invitations or liveQ&A. The paused00:00:24 timer is setup only, not speech. Distribution options documented. Spoken rehearsal,7.4 PDF/scope/links/fallback, independent challenge and learner timing remain pending. Programme409images, Slides135, retained406sources (389appwindows,6focused,11PDFpages).29 untouched specialist routes: Slides1,Foundation8,Advanced12,AI8.
 
-### 24 October2026: Slides7.4 UI/export casework
+### 24 October 2026: Slides7.4 UI/export casework
 
 Prepared three-minute target run sheet/source-based sponsor answers in native opening notes; no speaking-time claim. Actual Slideshow link round trip5to8to5 passed. Direct native PDF included all14slides; Print preview1slide without notes/Include skipped slides off produced8pages(source1,2,3,4,5,7,8,9)without altering source sequence. All14diagnostic and8handout pages rendered/reviewed. Handout embedded destinations resolve5to7and7to5; interactive PDF clicks unverified due local-file browser policy, no workaround. Static fallback plan and release record saved; named source milestone Sponsor update - delivery export checked verified. Two spoken rehearsals/independent challenge/learner timing remain pending. Thirteen new stages:10application windows and3native full-PDF-page renders. Programme422images,Slides148,retained419sources(399appwindows,6focused,14PDFpages).
+
+### 24 October 2026: Slides 8 source/practice and scenario setup
+
+Fourteen full original-size app captures: baseline 4/4/4 and T003 Not Started traced to bounded COUNTIF/task row; separate Final Practice copy; specific author-feedback population headline revision,25 pt fit and actual Slideshow visual check; named Final practice - source and wording checked history; separate scenario deck/data workbook; chart-source map, change classification and impact plan. Original baseline untouched. Scenario setup still 4/4/4 and links still baseline; data edit/replacement/narrative/handout not yet verified. Spoken delivery, partner feedback, independent challenge and learner timing pending. Programme: 436 images; Slides: 162; retained: 433 sources (413 application windows, 6 focused views, 14 PDF pages). 28 untouched specialist routes: Foundation 8, Advanced 12, AI 8.
+
+### 24 October 2026: Slides 8 changed scenario verified
+
+Slides Lab 8 now has 25 stages: separate practice revision/milestone; isolated scenario workbook with T003 Complete and bounded 5/4/3 counts; status chart replaced with a verified Scenario Data link; visible counts, description and source notes aligned; two-minute narrative planned with unsupported claims rejected; labelled eight-page native handout rendered and compared; saved scenario milestone. Baseline remains 4/4/4. Cost appendix deliberately retains its unchanged baseline source and stays excluded from the handout. Speech, partner/reviewer acceptance, interactive PDF clicks, independent challenge and learner timing remain pending. Programme: 447 images; Slides: 173; retained: 444 sources (421 application windows, 6 focused views, 17 PDF pages). 28 untouched specialist routes: Foundation 8, Advanced 12, AI 8.
