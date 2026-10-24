@@ -11781,6 +11781,495 @@
       "notes": [
         "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
       ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-01-baseline-task-snapshot-and-qualification.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-01-baseline-task-snapshot-and-qualification.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "8054d2f534a9d340b582746a35e410fb59509cfc28d427247eaed3bce0a40532",
+      "notes": [
+        "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-02-baseline-countif-source-and-four-four-four.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-02-baseline-countif-source-and-four-four-four.png",
+      "dimensions": [
+        1162,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "a6f9260a7cf4fa14173a250a3b00becf48aacf8534331521673421e954fcbf37",
+      "notes": [
+        "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-03-baseline-t003-not-started-record.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-03-baseline-t003-not-started-record.png",
+      "dimensions": [
+        1162,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "dea612a82947db7043384bd175bdee78ca9c19c761da54b7039e65d6f7534e6e",
+      "notes": [
+        "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-04-final-practice-copy-without-sharing-comments.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-04-final-practice-copy-without-sharing-comments.png",
+      "dimensions": [
+        1162,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "8ba34b614d96a9095d28afd500d850240de6e457dbe98be242d2fd92b82ad69a",
+      "notes": [
+        "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-05-author-feedback-recorded-before-revision.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-05-author-feedback-recorded-before-revision.png",
+      "dimensions": [
+        1162,
+        867
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "2b5b5aec47051a9c6bba00180ab6225b3a624355e2a3fa347ce23f9d1cb027d5",
+      "notes": [
+        "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-06-revised-headline-keeps-twelve-task-population-and-caveat.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-06-revised-headline-keeps-twelve-task-population-and-caveat.png",
+      "dimensions": [
+        1162,
+        867
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "da32cfc78162d22405e46bac202f21ce16f84db3c616c3e25f0115e2fdbd8138",
+      "notes": [
+        "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-07-revised-practice-status-in-slideshow.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-07-revised-practice-status-in-slideshow.png",
+      "dimensions": [
+        1162,
+        867
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "1e41f25a8c3a61854b86f81530305a26f36fe131d8fc4ece53577611a59ba7ed",
+      "notes": [
+        "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-08-name-final-practice-milestone.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-08-name-final-practice-milestone.png",
+      "dimensions": [
+        1162,
+        867
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "8d8f8a00f5ec236d2820e1ae4b97eafcf7c894554e74aa071bc8f792e49b21a5",
+      "notes": [
+        "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-09-final-practice-milestone-in-history.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-09-final-practice-milestone-in-history.png",
+      "dimensions": [
+        1162,
+        867
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "78f65195deb184b4b05633464000f40203b26713d7c41559d0edd52324534b19",
+      "notes": [
+        "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-10-create-separate-changed-scenario-deck.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-10-create-separate-changed-scenario-deck.png",
+      "dimensions": [
+        1162,
+        867
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "fa92fb242accac3e8579826a521db322717ab7698df825c65752a9fe7e950a6a",
+      "notes": [
+        "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-11-create-separate-scenario-data-workbook.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-11-create-separate-scenario-data-workbook.png",
+      "dimensions": [
+        1162,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "f98b64ee32814b3e726d635141c769a48e491e8b97a52d92d5b7515aed8b28c8",
+      "notes": [
+        "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-12-scenario-classification-and-impact-plan.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-12-scenario-classification-and-impact-plan.png",
+      "dimensions": [
+        1162,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ],
+        [
+          248,
+          526,
+          1055,
+          578
+        ]
+      ],
+      "sha256": "3e47d89ea5931bf1fd300abdaa0608d61dcb2f42f1067570453aa102136977ca",
+      "notes": [
+        "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-13-scenario-data-copy-still-baseline-before-change.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-13-scenario-data-copy-still-baseline-before-change.png",
+      "dimensions": [
+        1162,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "4103aa93e2568d04993627c4c1694c5cf7e87619bb0174841e2ba007233fcdc1",
+      "notes": [
+        "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-14-scenario-deck-copy-before-data-replacement.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-14-scenario-deck-copy-before-data-replacement.png",
+      "dimensions": [
+        1162,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1097,
+          0,
+          1162,
+          60
+        ]
+      ],
+      "sha256": "d520dd75d1b7125eac787ac4c417e00ea29e70144e19352a9841d3c2d4c23080",
+      "notes": [
+        "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-15-scenario-t003-complete-in-separate-workbook.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-15-scenario-t003-complete-in-separate-workbook.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1526,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "bffdc5a2c8f971e154fa5585ebed528a392346e5858cbc00e6b39dac24fa0443",
+      "notes": [
+        "Full original-size current-stage source retained; no cropping or rescaling. Native learner UI except explicitly labelled offline renders of the actual native PDF export. Human speech, reviewer acceptance and independent challenge remain pending."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-16-scenario-countif-recalculates-five-four-three.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-16-scenario-countif-recalculates-five-four-three.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1526,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "5e789c597b5340352680f110443928e834c3d3fa193114754aca107eda648636",
+      "notes": [
+        "Full original-size current-stage source retained; no cropping or rescaling. Native learner UI except explicitly labelled offline renders of the actual native PDF export. Human speech, reviewer acceptance and independent challenge remain pending."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-17-paste-scenario-chart-as-linked.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-17-paste-scenario-chart-as-linked.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1526,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "c430443bb651e5984b60f6a0c1c24818da620f4f3dd13f11561f568c0c4a63f8",
+      "notes": [
+        "Full original-size current-stage source retained; no cropping or rescaling. Native learner UI except explicitly labelled offline renders of the actual native PDF export. Human speech, reviewer acceptance and independent challenge remain pending."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-18-scenario-chart-and-narrative-five-four-three.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-18-scenario-chart-and-narrative-five-four-three.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1526,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "e95847ebfe214feee87be4fe058a0a45ff03fe8a357dccb1228e083180041a45",
+      "notes": [
+        "Full original-size current-stage source retained; no cropping or rescaling. Native learner UI except explicitly labelled offline renders of the actual native PDF export. Human speech, reviewer acceptance and independent challenge remain pending."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-19-scenario-source-notes-and-evidence-boundary.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-19-scenario-source-notes-and-evidence-boundary.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1526,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "99c75e6ad2de884d7cb41930b553a66510fa6fa85fc51be61c3286b899875cf3",
+      "notes": [
+        "Full original-size current-stage source retained; no cropping or rescaling. Native learner UI except explicitly labelled offline renders of the actual native PDF export. Human speech, reviewer acceptance and independent challenge remain pending."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-20-scenario-labelled-and-two-minute-narrative-recorded.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-20-scenario-labelled-and-two-minute-narrative-recorded.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1526,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "9c2111e5733ce30cc64372d94f900af43f40ac8a85d129b8bafc48fa9d69005d",
+      "notes": [
+        "Full original-size current-stage source retained; no cropping or rescaling. Native learner UI except explicitly labelled offline renders of the actual native PDF export. Human speech, reviewer acceptance and independent challenge remain pending."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-21-scenario-handout-excludes-skipped-slides.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-21-scenario-handout-excludes-skipped-slides.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1526,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "5743448dc1e92a51bd1874a23c1ff58b8822531b7bd39fe867d8c6ac4234ff2c",
+      "notes": [
+        "Full original-size current-stage source retained; no cropping or rescaling. Native learner UI except explicitly labelled offline renders of the actual native PDF export. Human speech, reviewer acceptance and independent challenge remain pending."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-22-changed-scenario-handout-cover-native-pdf-page.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-22-changed-scenario-handout-cover-native-pdf-page.png",
+      "dimensions": [
+        1080,
+        608
+      ],
+      "kind": "pdf-page",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "d2aa8cfd8ee88288aebe8124b6d7ed8f3e1c6dae589cbaa0e105ea9c9a8eec46",
+      "notes": [
+        "Full original-size current-stage source retained; no cropping or rescaling. Native learner UI except explicitly labelled offline renders of the actual native PDF export. Human speech, reviewer acceptance and independent challenge remain pending."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-23-changed-scenario-handout-status-native-pdf-page.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-23-changed-scenario-handout-status-native-pdf-page.png",
+      "dimensions": [
+        1080,
+        608
+      ],
+      "kind": "pdf-page",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "21bf6a6643abb8ba559675a67c43ca0e4fe92f62c1bb1f1de4a6245cc8a76807",
+      "notes": [
+        "Full original-size current-stage source retained; no cropping or rescaling. Native learner UI except explicitly labelled offline renders of the actual native PDF export. Human speech, reviewer acceptance and independent challenge remain pending."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-24-changed-scenario-handout-decisions-native-pdf-page.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-24-changed-scenario-handout-decisions-native-pdf-page.png",
+      "dimensions": [
+        1080,
+        608
+      ],
+      "kind": "pdf-page",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "3ad1da1ea31007dedd25671b5e2c152d700457b952db09517c5e8e2f6e402943",
+      "notes": [
+        "Full original-size current-stage source retained; no cropping or rescaling. Native learner UI except explicitly labelled offline renders of the actual native PDF export. Human speech, reviewer acceptance and independent challenge remain pending."
+      ]
+    },
+    "03-google-slides/08-deliver-update/images/c03-08-25-changed-scenario-data-and-handout-milestone.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-25-changed-scenario-data-and-handout-milestone.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "88f1919b430d70530574e9b85e0805f0ea9114c75741662ba60df19cc759f166",
+      "notes": [
+        "Full original-size current-stage source retained; no cropping or rescaling. Native learner UI except explicitly labelled offline renders of the actual native PDF export. Human speech, reviewer acceptance and independent challenge remain pending."
+      ]
     }
   },
   "missing_originals": [

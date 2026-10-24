@@ -276,7 +276,7 @@ Eight current-stage application-window sources were retained on 20 October 2026,
 
 ## Docs 7: Export and Round Trip Stages
 
-Seventeen sources retained on20October2026: fifteen original-size application windows and two offline native-export PDF page renders. PDF renders are labelled separately; they are not browser screenshots. Source library253; programme256; Docs147.
+Seventeen sources retained on20October 2026: fifteen original-size application windows and two offline native-export PDF page renders. PDF renders are labelled separately; they are not browser screenshots. Source library253; programme256; Docs147.
 
 | Lesson image | Full source | Dimensions | Kind |
 |---|---|---|---|
@@ -300,7 +300,7 @@ Seventeen sources retained on20October2026: fifteen original-size application wi
 
 ## Docs 8: Procedure Challenge Stages
 
-Eighteen sources retained on21October2026: sixteen original-size application windows and two offline native-export PDF page renders. The independent reader result remains pending. Source library271; programme274; Docs165.
+Eighteen sources retained on21October 2026: sixteen original-size application windows and two offline native-export PDF page renders. The independent reader result remains pending. Source library271; programme274; Docs165.
 
 | Lesson image | Full source | Dimensions | Kind |
 |---|---|---|---|
@@ -540,3 +540,42 @@ Prepared three-minute target run sheet/source-based sponsor answers in native op
 | [c03-07-21-handout-static-workflow-native-pdf-page.jpg](../../03-google-slides/07-delivery-sharing/images/c03-07-21-handout-static-workflow-native-pdf-page.jpg) | [PNG](full/03-google-slides/07-delivery-sharing/c03-07-21-handout-static-workflow-native-pdf-page.png) | 1080 x 608 | pdf-page |
 | [c03-07-22-name-delivery-export-checkpoint.jpg](../../03-google-slides/07-delivery-sharing/images/c03-07-22-name-delivery-export-checkpoint.jpg) | [PNG](full/03-google-slides/07-delivery-sharing/c03-07-22-name-delivery-export-checkpoint.png) | 1162 x 920 | application-window |
 | [c03-07-23-delivery-export-milestone-verified.jpg](../../03-google-slides/07-delivery-sharing/images/c03-07-23-delivery-export-milestone-verified.jpg) | [PNG](full/03-google-slides/07-delivery-sharing/c03-07-23-delivery-export-milestone-verified.png) | 1162 x 920 | application-window |
+
+## Slides 8: Source Checks and Isolated Practice
+
+Fourteen full original-size app captures: baseline 4/4/4 and T003 Not Started traced to bounded COUNTIF/task row; separate Final Practice copy; specific author-feedback population headline revision,25 pt fit and actual Slideshow visual check; named Final practice - source and wording checked history; separate scenario deck/data workbook; chart-source map, change classification and impact plan. Original baseline untouched. Scenario setup still 4/4/4 and links still baseline; data edit/replacement/narrative/handout not yet verified. Spoken delivery, partner feedback, independent challenge and learner timing pending. Programme: 436 images; retained: 433 sources.
+
+| Lesson image | Full source | Dimensions | Kind |
+|---|---|---|---|
+| [c03-08-01-baseline-task-snapshot-and-qualification.jpg](../../03-google-slides/08-deliver-update/images/c03-08-01-baseline-task-snapshot-and-qualification.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-01-baseline-task-snapshot-and-qualification.png) | 1162 x 920 | application-window |
+| [c03-08-02-baseline-countif-source-and-four-four-four.jpg](../../03-google-slides/08-deliver-update/images/c03-08-02-baseline-countif-source-and-four-four-four.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-02-baseline-countif-source-and-four-four-four.png) | 1162 x 868 | application-window |
+| [c03-08-03-baseline-t003-not-started-record.jpg](../../03-google-slides/08-deliver-update/images/c03-08-03-baseline-t003-not-started-record.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-03-baseline-t003-not-started-record.png) | 1162 x 868 | application-window |
+| [c03-08-04-final-practice-copy-without-sharing-comments.jpg](../../03-google-slides/08-deliver-update/images/c03-08-04-final-practice-copy-without-sharing-comments.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-04-final-practice-copy-without-sharing-comments.png) | 1162 x 920 | application-window |
+| [c03-08-05-author-feedback-recorded-before-revision.jpg](../../03-google-slides/08-deliver-update/images/c03-08-05-author-feedback-recorded-before-revision.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-05-author-feedback-recorded-before-revision.png) | 1162 x 867 | application-window |
+| [c03-08-06-revised-headline-keeps-twelve-task-population-and-caveat.jpg](../../03-google-slides/08-deliver-update/images/c03-08-06-revised-headline-keeps-twelve-task-population-and-caveat.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-06-revised-headline-keeps-twelve-task-population-and-caveat.png) | 1162 x 867 | application-window |
+| [c03-08-07-revised-practice-status-in-slideshow.jpg](../../03-google-slides/08-deliver-update/images/c03-08-07-revised-practice-status-in-slideshow.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-07-revised-practice-status-in-slideshow.png) | 1162 x 867 | application-window |
+| [c03-08-08-name-final-practice-milestone.jpg](../../03-google-slides/08-deliver-update/images/c03-08-08-name-final-practice-milestone.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-08-name-final-practice-milestone.png) | 1162 x 867 | application-window |
+| [c03-08-09-final-practice-milestone-in-history.jpg](../../03-google-slides/08-deliver-update/images/c03-08-09-final-practice-milestone-in-history.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-09-final-practice-milestone-in-history.png) | 1162 x 867 | application-window |
+| [c03-08-10-create-separate-changed-scenario-deck.jpg](../../03-google-slides/08-deliver-update/images/c03-08-10-create-separate-changed-scenario-deck.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-10-create-separate-changed-scenario-deck.png) | 1162 x 867 | application-window |
+| [c03-08-11-create-separate-scenario-data-workbook.jpg](../../03-google-slides/08-deliver-update/images/c03-08-11-create-separate-scenario-data-workbook.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-11-create-separate-scenario-data-workbook.png) | 1162 x 868 | application-window |
+| [c03-08-12-scenario-classification-and-impact-plan.jpg](../../03-google-slides/08-deliver-update/images/c03-08-12-scenario-classification-and-impact-plan.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-12-scenario-classification-and-impact-plan.png) | 1162 x 868 | application-window |
+| [c03-08-13-scenario-data-copy-still-baseline-before-change.jpg](../../03-google-slides/08-deliver-update/images/c03-08-13-scenario-data-copy-still-baseline-before-change.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-13-scenario-data-copy-still-baseline-before-change.png) | 1162 x 868 | application-window |
+| [c03-08-14-scenario-deck-copy-before-data-replacement.jpg](../../03-google-slides/08-deliver-update/images/c03-08-14-scenario-deck-copy-before-data-replacement.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-14-scenario-deck-copy-before-data-replacement.png) | 1162 x 868 | application-window |
+
+## Slides 8: Verified Changed Scenario
+
+Slides Lab 8 now has 25 stages: separate practice revision/milestone; isolated scenario workbook with T003 Complete and bounded 5/4/3 counts; status chart replaced with a verified Scenario Data link; visible counts, description and source notes aligned; two-minute narrative planned with unsupported claims rejected; labelled eight-page native handout rendered and compared; saved scenario milestone. Baseline remains 4/4/4. Cost appendix deliberately retains its unchanged baseline source and stays excluded from the handout. Speech, partner/reviewer acceptance, interactive PDF clicks, independent challenge and learner timing remain pending. Programme: 447 images; retained: 444 sources.
+
+| Lesson image | Full source | Dimensions | Kind |
+|---|---|---|---|
+| [c03-08-15-scenario-t003-complete-in-separate-workbook.jpg](../../03-google-slides/08-deliver-update/images/c03-08-15-scenario-t003-complete-in-separate-workbook.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-15-scenario-t003-complete-in-separate-workbook.png) | 1591 x 920 | application-window |
+| [c03-08-16-scenario-countif-recalculates-five-four-three.jpg](../../03-google-slides/08-deliver-update/images/c03-08-16-scenario-countif-recalculates-five-four-three.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-16-scenario-countif-recalculates-five-four-three.png) | 1591 x 920 | application-window |
+| [c03-08-17-paste-scenario-chart-as-linked.jpg](../../03-google-slides/08-deliver-update/images/c03-08-17-paste-scenario-chart-as-linked.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-17-paste-scenario-chart-as-linked.png) | 1591 x 868 | application-window |
+| [c03-08-18-scenario-chart-and-narrative-five-four-three.jpg](../../03-google-slides/08-deliver-update/images/c03-08-18-scenario-chart-and-narrative-five-four-three.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-18-scenario-chart-and-narrative-five-four-three.png) | 1591 x 868 | application-window |
+| [c03-08-19-scenario-source-notes-and-evidence-boundary.jpg](../../03-google-slides/08-deliver-update/images/c03-08-19-scenario-source-notes-and-evidence-boundary.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-19-scenario-source-notes-and-evidence-boundary.png) | 1591 x 868 | application-window |
+| [c03-08-20-scenario-labelled-and-two-minute-narrative-recorded.jpg](../../03-google-slides/08-deliver-update/images/c03-08-20-scenario-labelled-and-two-minute-narrative-recorded.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-20-scenario-labelled-and-two-minute-narrative-recorded.png) | 1591 x 868 | application-window |
+| [c03-08-21-scenario-handout-excludes-skipped-slides.jpg](../../03-google-slides/08-deliver-update/images/c03-08-21-scenario-handout-excludes-skipped-slides.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-21-scenario-handout-excludes-skipped-slides.png) | 1591 x 868 | application-window |
+| [c03-08-22-changed-scenario-handout-cover-native-pdf-page.jpg](../../03-google-slides/08-deliver-update/images/c03-08-22-changed-scenario-handout-cover-native-pdf-page.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-22-changed-scenario-handout-cover-native-pdf-page.png) | 1080 x 608 | pdf-page |
+| [c03-08-23-changed-scenario-handout-status-native-pdf-page.jpg](../../03-google-slides/08-deliver-update/images/c03-08-23-changed-scenario-handout-status-native-pdf-page.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-23-changed-scenario-handout-status-native-pdf-page.png) | 1080 x 608 | pdf-page |
+| [c03-08-24-changed-scenario-handout-decisions-native-pdf-page.jpg](../../03-google-slides/08-deliver-update/images/c03-08-24-changed-scenario-handout-decisions-native-pdf-page.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-24-changed-scenario-handout-decisions-native-pdf-page.png) | 1080 x 608 | pdf-page |
+| [c03-08-25-changed-scenario-data-and-handout-milestone.jpg](../../03-google-slides/08-deliver-update/images/c03-08-25-changed-scenario-data-and-handout-milestone.jpg) | [PNG](full/03-google-slides/08-deliver-update/c03-08-25-changed-scenario-data-and-handout-milestone.png) | 1591 x 868 | application-window |

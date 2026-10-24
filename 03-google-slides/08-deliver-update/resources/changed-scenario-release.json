@@ -1,0 +1,42 @@
+{
+  "pages": 8,
+  "source_slides": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    8,
+    9
+  ],
+  "sha256": "98d38728c92fb798043d22f779fd4a8d795ccb52fd628309ae9159f9b0cf6f17",
+  "links": [
+    {
+      "from": 5,
+      "to": 7,
+      "external": null
+    },
+    {
+      "from": 7,
+      "to": 5,
+      "external": null
+    }
+  ],
+  "interactive_pdf_clicks": "unverified; local-file browser opening previously blocked; no workaround",
+  "spoken_delivery": "unperformed",
+  "reviewer_result": "pending",
+  "revision": "changed-scenario-r1",
+  "date": "2026-10-24",
+  "intended_use": "fictional author training reference; no external approval",
+  "status_counts": [
+    5,
+    4,
+    3
+  ],
+  "baseline_counts": [
+    4,
+    4,
+    4
+  ]
+}
