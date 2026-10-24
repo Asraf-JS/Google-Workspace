@@ -3785,19 +3785,14 @@
       "sha256": "9ea2f43f567b6d39954d02bfa00473e325603f1bede39501bbd94d4ee3e4ddbf",
       "notes": []
     },
-    "02-google-docs/01-document-sources/images/c02-01-folder.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-folder.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-folder.png",
       "dimensions": [
         1912,
         948
       ],
       "kind": "application-window",
-      "approved_crop": [
-        270,
-        70,
-        1150,
-        650
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1846,
@@ -3813,21 +3808,18 @@
         ]
       ],
       "sha256": "022581f7d5dc18ceec6566929fc92bce107488ff7f2fbd5518c653005460f407",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/01-document-sources.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/01-document-sources/images/c02-01-starter-brief.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-starter-brief.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-starter-brief.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        730,
-        230,
-        1350,
-        520
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -3849,21 +3841,18 @@
         ]
       ],
       "sha256": "85bdf47d02d97ea66281867097dd40fe19b08511d0ae275b5812d67f62985f46",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/01-document-sources.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/01-document-sources/images/c02-01-requirements.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-requirements.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-requirements.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        730,
-        540,
-        1350,
-        750
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -3885,21 +3874,18 @@
         ]
       ],
       "sha256": "4cf9594223def94c1c1308437ab97f4edd829c7a18fe0d24f8ff04728d272de1",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/01-document-sources.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/01-document-sources/images/c02-01-saved-folder.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-saved-folder.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-saved-folder.png",
       "dimensions": [
         1912,
         948
       ],
       "kind": "application-window",
-      "approved_crop": [
-        270,
-        70,
-        1000,
-        360
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1846,
@@ -3915,21 +3901,18 @@
         ]
       ],
       "sha256": "8f83195bb3d9647101070c37a402211c9e90dd556a560044d285b9cbd79cff69",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/01-document-sources.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/01-document-sources/images/c02-01-restricted-access.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-restricted-access.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-restricted-access.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        805,
-        278,
-        1320,
-        725
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           824,
@@ -3963,21 +3946,18 @@
         ]
       ],
       "sha256": "c5243cccce467ba3af0df35e3cf7de5e3974b325aa5ea7eb0fe09d1b48aab30d",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/01-document-sources.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/01-document-sources/images/c02-01-source-register.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-source-register.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-source-register.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        730,
-        560,
-        1350,
-        995
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -3999,21 +3979,18 @@
         ]
       ],
       "sha256": "114276f1aed3cef83bfb8e21312a565ccf46e2f339d9d13978908446ae550a15",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/01-document-sources.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/01-document-sources/images/c02-01-reader-questions.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-reader-questions.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-reader-questions.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        730,
-        505,
-        1350,
-        950
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -4035,21 +4012,18 @@
         ]
       ],
       "sha256": "62846b28eaa3474344df337b4554a3713d47ef837e2bc467a31c26f6138fb0cb",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/01-document-sources.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/01-document-sources/images/c02-01-uploaded-sources.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-uploaded-sources.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-uploaded-sources.png",
       "dimensions": [
         1912,
         948
       ],
       "kind": "application-window",
-      "approved_crop": [
-        270,
-        100,
-        1050,
-        340
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1846,
@@ -4065,21 +4039,18 @@
         ]
       ],
       "sha256": "ce524b2acaf47a301ce98ef774e67a1c0a644925115ed0ba0931bdcce7d66421",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/01-document-sources.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/01-document-sources/images/c02-01-descriptive-links.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-descriptive-links.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-descriptive-links.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        730,
-        675,
-        1350,
-        875
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -4101,21 +4072,18 @@
         ]
       ],
       "sha256": "f9a773a4ea4356e4d6f4fad0c07ade5838be342f0313a35813afa9fa751004a5",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/01-document-sources.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/01-document-sources/images/c02-01-facts-source.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-facts-source.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-facts-source.png",
       "dimensions": [
         1912,
         901
       ],
       "kind": "application-window",
-      "approved_crop": [
-        220,
-        140,
-        1150,
-        490
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1839,
@@ -4131,21 +4099,18 @@
         ]
       ],
       "sha256": "043b04c0f3421e6db0811c23a132e492b61e399d204be8ad7b3f726d62353ef5",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/01-document-sources.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/01-document-sources/images/c02-01-brief-source.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-brief-source.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-brief-source.png",
       "dimensions": [
         1912,
         901
       ],
       "kind": "application-window",
-      "approved_crop": [
-        220,
-        242,
-        1130,
-        328
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1839,
@@ -4161,21 +4126,18 @@
         ]
       ],
       "sha256": "45fee61fb038892f0594a74ab56379793a0c01a9fe54f42d01f420c79e0f14c1",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/01-document-sources.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/01-document-sources/images/c02-01-guidance-source.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-guidance-source.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-guidance-source.png",
       "dimensions": [
         1912,
         901
       ],
       "kind": "application-window",
-      "approved_crop": [
-        220,
-        140,
-        1020,
-        345
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1839,
@@ -4191,21 +4153,18 @@
         ]
       ],
       "sha256": "7bce8325abf473608ec2f74c75592027c40281d5846dddc0d9e528aee849c790",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/01-document-sources.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/01-document-sources/images/c02-01-memo-classification.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-memo-classification.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-memo-classification.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        730,
-        715,
-        1350,
-        950
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -4227,21 +4186,18 @@
         ]
       ],
       "sha256": "93a4a71e194991ecf4a5f6934bea5853f60449975fa4756aa1608f7fa2abd5c3",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/01-document-sources.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/01-document-sources/images/c02-01-purpose-scope.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-purpose-scope.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-purpose-scope.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        730,
-        230,
-        1350,
-        505
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -4263,21 +4219,18 @@
         ]
       ],
       "sha256": "f4d064ca744755ec28c865aa3a93b3d657b29629d0b9c49732db213960140ad2",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/01-document-sources.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/01-document-sources/images/c02-01-authoring-boundary.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-authoring-boundary.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-authoring-boundary.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        730,
-        230,
-        1350,
-        550
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -4299,21 +4252,18 @@
         ]
       ],
       "sha256": "cdb1e7aba8c63ef57b67942a329f107eddd4fbcbdde7f4f969788a1918686854",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/01-document-sources.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "02-google-docs/01-document-sources/images/c02-01-reopened-log.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-reopened-log.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-reopened-log.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        730,
-        590,
-        1350,
-        930
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -4335,7 +4285,9 @@
         ]
       ],
       "sha256": "ab79111c89d9e98e697a44a2cd9e99e7bb518c0e9cbca4037ed65c34d187219f",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/02-google-docs/01-document-sources.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
     "02-google-docs/02-draft-procedure/images/c02-02-source-grounded-prompt.jpg": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-source-grounded-prompt.png",
