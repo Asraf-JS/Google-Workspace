@@ -185,3 +185,7 @@ Foundation Lab 8 adds32 staged captures (31 application views and1 native PDF pa
 ### 25 October 2026: Advanced 1 source and intake audit
 
 Advanced Lab 1 adds30 staged application captures: manual starter-upload handoff, native conversion,24-row source/type/key/status diagnostics, exact source snapshot, empty Analysis, six isolated raw intake cases, explicit training contract, conflict-versus-repeat comparison and evidence-backed proposed dispositions. Orders and Rates values/formats remain unchanged. Independent dispositions/release conditions, reviewer challenge and learner timing remain pending. Programme690 images; retained687 sources (659 application windows,6 focused views,22 PDF pages). Untouched routes:Advanced11,AI8.
+
+### 25 October 2026: Advanced2 conditional calculations
+
+Advanced Lab2 adds37 staged application captures: source label preserved before24 row calculations;3158/1938/1478 population totals; anchored SUMIFS and COUNTIFS grids; six-ID manual subset checks;21 expected-versus-actual cases including numeric zero and positive Pending flags; actual missing-anchor fault1478/-1680 on a named copied grid, repaired to3158/zero. Original source inputs, Rates, snapshot and Lab1 intake evidence remain intact. Independent threshold/250/restoration, reviewer and learner timing remain pending. Programme727 images; retained724sources (696application windows,6focused views,22PDF pages). Untouched routes:Advanced10,AI8.

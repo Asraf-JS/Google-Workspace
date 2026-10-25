@@ -17270,6 +17270,783 @@
       "notes": [
         "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
       ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-01-source-label-before-new-calculations.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-01-source-label-before-new-calculations.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "93d7006f1721836f040386a5d4cf541f0e442272e2ecbdf4a42827164d7c8254",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-02-source-label-preserved-outside-calculations.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-02-source-label-preserved-outside-calculations.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "ef84e4c50aa706bda401766479eb4b5747e7c8b3a267285b0a2f40489c75627e",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-03-first-line-amount.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-03-first-line-amount.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "5751d8b955e45c5ce8ef9ab3100f8e02db38a55e430d110b3736b93820ad2300",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-04-line-amount-formulas-filled.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-04-line-amount-formulas-filled.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "44993736f574c1b81c216b0cee689eed71b6f78bcccf2ef41641298819f18f58",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-05-cancelled-record-active-amount-zero.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-05-cancelled-record-active-amount-zero.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "cc16598941bb73666023a6d97bf2eb719ae30bbd1493863bfe1a13b56d0894d7",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-06-source-amount-total-controls.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-06-source-amount-total-controls.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "8b59b41da2341d05f17019c70b509437d14dca5e746a40566aadc20ed2adc0c7",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-07-spot-check-middle-order.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-07-spot-check-middle-order.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "d2f533d14b888ac4e616a43849fd23ca0ff2a50e8ec8b356c657fa773e93184c",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-08-spot-check-final-order.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-08-spot-check-final-order.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "e6f1cc1d1420d4e6eee7f90d8384162e96b53faf1bbc0716e6555f2d80a17146",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-09-first-project-status-formula.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-09-first-project-status-formula.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "6e75d5c7a1432e2869221d5fd8ab71433056e13b50189796ba4ea16e932000f4",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-10-amount-grid-filled-across-and-down.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-10-amount-grid-filled-across-and-down.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "e39e45920c34943b1b630e1a73444ea431baa3c06a2043cf07b4feee5853fe88",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-11-final-mixed-reference-formula.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-11-final-mixed-reference-formula.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "8ed05001afb19375aaebbe3309743db2ac8773f1f18d25b08a543aa977a688b0",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-12-band-test-99-low.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-12-band-test-99-low.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "0f838a434a62685d49db621128cb00c834df4d3ed3cde18d4ac561b69a42ffc6",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-13-band-test-100-medium.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-13-band-test-100-medium.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "981fc5cb04d07ce260f718651e8102c7b6ec1a38bdd652ebcb9c8543a07c6e3c",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-14-band-test-199-medium.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-14-band-test-199-medium.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "6ec387956b4e5019f850fc44031a4ac394995c43668abe5be3cd8d6fa8bf9042",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-15-band-test-200-high.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-15-band-test-200-high.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "931f059aca2dc9f203975fb75a1ab875cf04c8b2cd3bf9a2c160d45c6b543f82",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-16-population-definitions-before-calculations.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-16-population-definitions-before-calculations.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "b744434918a4ad5f3b4fcf6eb41812faa43b3fab452f5de2894c6f8503fa8634",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-17-distinct-population-totals.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-17-distinct-population-totals.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "b6f7e6c62a37b1c70f35455f0691a70969bedce40af22eea6b46e4e2774a0104",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-18-count-and-amount-grids.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-18-count-and-amount-grids.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "34c7d12034251f33f82177aa90f59e4e20bdb6788836b0850923ece2c223fa82",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-19-population-and-grid-reconciliation.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-19-population-and-grid-reconciliation.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "ef718c2c6c774ecdad05a92c555f6306a340fc1b9e83eff3ad4066ff3aa46959",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-20-qualified-order-ids-and-manual-products.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-20-qualified-order-ids-and-manual-products.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "53b938d022f72a3b59961fa54766ec4fd6c0e2995de429842186368a1934246b",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-21-manual-subsets-match-formula-intersections.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-21-manual-subsets-match-formula-intersections.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "b7ba5b2ad505e2d71182192e00d769680286153a68b56e758541ba9348e2ee2e",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-22-logic-matrix-expected-results-before-formulas.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-22-logic-matrix-expected-results-before-formulas.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "35ad610e0a06ae19552111858a7bd5d0d83423c19f1cccc79b0a27ca68e502e5",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-23-logic-matrix-actual-results.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-23-logic-matrix-actual-results.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "03e325bae792b9b26357384de798dd27875d2c347b01b9e327d139354162d40a",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-24-boundary-matrix-controls-and-baseline-zero.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-24-boundary-matrix-controls-and-baseline-zero.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "534fb974866c6d08b686ae6f1c8d98c73fa1745c586d851ef9f05af9a05ca916",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-25-isolated-anchor-fault-prediction.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-25-isolated-anchor-fault-prediction.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "55558a98b75d3936f80d6b868c31495305af6b167117a23f493007ca355e61a9",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-26-first-incorrect-project-criterion.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-26-first-incorrect-project-criterion.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "8d4b993f8e32efc4222f4b72e1db6becddf37a68038af1858830d16f261dde9b",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-27-anchor-fault-reconciliation-mismatch.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-27-anchor-fault-reconciliation-mismatch.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "f28486f690703a6648f871b27de6d20efdfbbcd772d6fbbe265edc3ac36667d3",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-28-restored-project-anchor-and-grid.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-28-restored-project-anchor-and-grid.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "f7ceea0a3f18066d155f844d7b29f26bcbd39d7d299f32252d9e297432b8a540",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-29-repaired-grid-total-reconciles.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-29-repaired-grid-total-reconciles.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "1d49e89804c398c01d5e2cfcaf984442b07b2fc4eb13eb3843152c9321319f57",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-30-anchor-fault-and-repair-record.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-30-anchor-fault-and-repair-record.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "f01dabc3fd5e59b7c28efff2c5ca563db98471fdf080e36984f8c26291177c3f",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-31-population-and-zero-versus-unknown-explanation.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-31-population-and-zero-versus-unknown-explanation.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "278dd3028b04e30bbeff6cc60e741eb53c774c5de7e179a47b53cf649d883602",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-32-maintained-count-and-amount-grids.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-32-maintained-count-and-amount-grids.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "53c70d801855f9678580c0c83152a5bc23f74a5d99da24b7957ad1984afad25d",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-33-maintained-analysis-controls-complete.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-33-maintained-analysis-controls-complete.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "b9d00b43b4ad3f39c8bd3288c305b6c57d66732d28655095cf482a40bd61e9bc",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-34-original-source-inputs-retained.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-34-original-source-inputs-retained.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "09f10d7d4c289ca6d821c179268d3d1cfbee4abb2df29bc3a05da99723fed497",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-35-original-snapshot-remains-unchanged.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-35-original-snapshot-remains-unchanged.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "29a9881bedb3680a7f4d55d4bd17d0b4b09cc0a88add4cf1d635424cc0cad381",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-36-final-logic-matrix.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-36-final-logic-matrix.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "9e5b7294b48bcb8278fca071a84b07e218e5dae1886f0cfb2e33ea0a373ce148",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
+    },
+    "05-sheets-advanced/02-conditional-logic/images/c05-02-37-maintained-analysis-ready.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/02-conditional-logic/c05-02-37-maintained-analysis-ready.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "01125832bb4f60fbcc2feacf20adc40cdd65a8aa1debb3d72380961a89443c82",
+      "notes": [
+        "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
+      ]
     }
   },
   "missing_originals": [
