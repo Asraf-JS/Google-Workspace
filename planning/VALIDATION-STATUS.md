@@ -193,3 +193,7 @@ Advanced Lab2 adds37 staged application captures: source label preserved before2
 ### 26 October 2026: Advanced3 validation and exceptions
 
 Advanced Lab3 adds39 staged application captures: separate restored practice copy, strict status and whole-nonnegative quantity rules, actual input rejection, ten input observations including permitted blank clearing, five exception cases, exact conditional-format/flag bounds, first/final-row positives and two matching filtered IDs. Maintained source and analysis remain unchanged. Blank completeness is not enforced by clearing; independent appended-row repair, bulk-paste/CSV numeric-text behavior, reviewer and learner timing remain pending. Programme766images; retained763sources (735application windows,6focused views,22PDF pages). Untouched routes:Advanced9,AI8.
+
+### 26 October 2026: Advanced4 text audit and categorisation
+
+Advanced Lab4 adds32 staged application captures through guided text extraction, display labels, six actual Gemini category proposals checked against Rates, three raw/clean CSV rows, three whitespace cases including retained NBSP, and eight expected-versus-actual identifier decisions with zero control differences. Maintained source and analysis remain unchanged. Independent mixed-intake/reviewer checks, native CSV file import and classroom timing remain pending. Programme798images; retained795sources (767application windows,6focused views,22PDF pages). Untouched routes:Advanced8,AI8.

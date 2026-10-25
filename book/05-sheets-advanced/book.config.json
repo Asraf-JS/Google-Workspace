@@ -9,7 +9,7 @@
   ],
   "runningTitle": "Google Sheets Advanced",
   "subtitle": "Two-day course review draft",
-  "blurb": "Analyse a fictional procurement register. Labs1\u20133 include106 captured stages covering source audit, conditional calculations, tested input rules and exception flags. Actual rejection, blank-clearing behavior, threshold cases and first/final-row coverage are recorded. Labs4\u201312, independent/reviewer checks, paste/import limits and learner timing remain pending.",
+  "blurb": "Analyse a fictional procurement register. Labs1\u20134 include138 captured stages covering source audit, conditional calculations, input/exception rules and traceable text/category checks. Raw whitespace, leading-zero identifiers, NBSP review, actual AI proposals and exact mapping checks are recorded. Labs5\u201312, independent/reviewer checks, import limits and learner timing remain pending.",
   "coverIcons": [
     "doc",
     "check",
