@@ -26,9 +26,9 @@ Use your checked procedure. This chapter creates local export copies; it does no
 
 ## 7.1 Export Two Formats
 
-1. In the checked native **Working** document, choose **File**, **Download**, **Microsoft Word (.docx)**.
+1. In the checked native **Working** document, click **File**, **Download**, **Microsoft Word (.docx)**.
 
-![File > Download offers separate Word and PDF formats](./images/c02-07-01-download-formats.jpg)
+![File > Download offers separate Word and PDF formats](./images/c02-07-01-download-formats.png)
 
 *File > Download offers separate Word and PDF formats.*
 
@@ -46,7 +46,7 @@ Two local practice exports and the unchanged maintained native source.
 
 1. Open both exports in approved available viewers. Inspect all pages, including the last. In this reference run, browser controls blocked local PDF URLs, so the PDF was rendered and inspected offline. DOCX heading/table structure was inspected before the native Docs round trip in 7.4. **Microsoft Word desktop rendering was not tested.**
 
-![The initial PDF reader copy is inspected offline from the first page to the last](./images/c02-07-23-initial-pdf-reader-copy.jpg)
+![The initial PDF reader copy is inspected offline from the first page to the last](./images/c02-07-23-initial-pdf-reader-copy.png)
 
 *The initial PDF reader copy is inspected offline from the first page to the last.*
 
@@ -68,29 +68,29 @@ A check through the final page, with viewer limitations and real defects recorde
 
 ## 7.4 Test Conversion and Issue a Reproducible Release
 
-1. Use **File**, **Make a copy** to create `GW - Reporting Procedure - Release Practice`. Leave sharing and comment-copy boxes unchecked. This is the native **scenario release source**; the maintained Working document stays separate. Add a Release Checklist with Native source, Revision, Export scope, Filename, Viewer and Result. Use `Practice release r1`, distinct r1 filenames and a pending result until checked.
+1. Click **File**, **Make a copy** to create `GW - Reporting Procedure - Release Practice`. Leave sharing and comment-copy boxes unchecked. This is the native **scenario release source**; the maintained Working document stays separate. Add a Release Checklist with Native source, Revision, Export scope, Filename, Viewer and Result. Use `Practice release r1`, distinct r1 filenames and a pending result until checked.
 
-![The separate release practice copy excludes sharing and review comments](./images/c02-07-02-release-copy-excludes-comments.jpg)
+![The separate release practice copy excludes sharing and review comments](./images/c02-07-02-release-copy-excludes-comments.png)
 
 *The separate release practice copy excludes sharing and review comments.*
 
-2. Rename the main tab **Procedure**. Add a separate **Examples** tab with the supplied fictional appendix and scope marker. Name the baseline version `Practice release r1`. Select **Procedure** before exporting the main-only file. With multiple tabs, the Download dialog offers **Current Tab** and **All Tabs**. Inspect the setting for **every** export; the reference dialog reset to Current Tab.
+2. Rename the main tab **Procedure** (click the three dots on the tab, then **Rename**). Add a separate **Examples** tab with the supplied fictional appendix and scope marker. Name the baseline version `Practice release r1`. Select **Procedure** before exporting the main-only file. With multiple tabs, the Download dialog offers **Current Tab** and **All Tabs**. Inspect the setting for **every** export; the reference dialog reset to Current Tab.
 
-![A separate Examples tab has a recognisable complete-handout marker](./images/c02-07-04-examples-tab-scope-marker.jpg)
+![A separate Examples tab has a recognisable complete-handout marker](./images/c02-07-04-examples-tab-scope-marker.png)
 
 *A separate Examples tab has a recognisable complete-handout marker.*
 
 Export `Procedure-r1-main.pdf` with **Current Tab**, then `Procedure-r1-complete.pdf` and `Procedure-r1-complete.docx` with **All Tabs**. If tabs are unavailable, state which appendix content is included instead of claiming an all-tabs test.
 
-![Current Tab exports only the selected Procedure tab](./images/c02-07-06-current-tab-export-scope.jpg)
+![Current Tab exports only the selected Procedure tab](./images/c02-07-06-current-tab-export-scope.png)
 
 *Current Tab exports only the selected Procedure tab.*
 
-![All Tabs includes Procedure and Examples in the complete handout](./images/c02-07-07-all-tabs-complete-scope.jpg)
+![All Tabs includes Procedure and Examples in the complete handout](./images/c02-07-07-all-tabs-complete-scope.png)
 
 *All Tabs includes Procedure and Examples in the complete handout.*
 
-![The editable Word handover also deliberately includes all tabs](./images/c02-07-08-word-all-tabs-scope.jpg)
+![The editable Word handover also deliberately includes all tabs](./images/c02-07-08-word-all-tabs-scope.png)
 
 *The editable Word handover also deliberately includes all tabs.*
 
@@ -98,53 +98,53 @@ Export `Procedure-r1-main.pdf` with **Current Tab**, then `Procedure-r1-complete
 4. Add a native defect table with **Source location**, **Format**, **Observed difference**, **Severity/action**. Record no-difference findings for elements actually checked. The reference record includes the initial Word comment, unnumbered Examples page, preserved heading hierarchy/table dimensions and tab flattening after import. A PDF parser also reported a duplicate title destination key: retain that warning rather than claiming every PDF link is validated.
 5. Upload `Procedure-r1-complete.docx` as a distinct practice file and open/convert it in Docs, named `GW - Procedure r1 - Round Trip Practice`. Do not replace the scenario or maintained source. The browser upload required an unavailable extension permission in this run, so connected Drive imported only this authorised fictional DOCX. **Browser upload was not verified.**
 
-![The imported round-trip copy retains headings and quick links in one tab](./images/c02-07-09-round-trip-heading-and-links.jpg)
+![The imported round-trip copy retains headings and quick links in one tab](./images/c02-07-09-round-trip-heading-and-links.png)
 
 *The imported round-trip copy retains headings and quick links in one tab.*
 
 6. Compare heading hierarchy, table dimensions, links and final content. The reference import retained **six table structures and 16 heading targets**, including Examples, but flattened two native tabs into one. Follow the three quick links and a contents entry; the reference reached Status Definitions, Missing Information, Questions for the Sponsor and Submission Example. Find/select the link label and use **Alt+Enter**, or use its link popup.
 
-![The imported bookmark lands at Status Definitions](./images/c02-07-10-round-trip-status-link-destination.jpg)
+![The imported bookmark lands at Status Definitions](./images/c02-07-10-round-trip-status-link-destination.png)
 
 *The imported bookmark lands at Status Definitions.*
 
-![The second imported quick link reaches Missing Information](./images/c02-07-11-round-trip-missing-owner-destination.jpg)
+![The second imported quick link reaches Missing Information](./images/c02-07-11-round-trip-missing-owner-destination.png)
 
 *The second imported quick link reaches Missing Information.*
 
-![A converted contents entry reaches Submission Example](./images/c02-07-13-round-trip-contents-destination.jpg)
+![A converted contents entry reaches Submission Example](./images/c02-07-13-round-trip-contents-destination.png)
 
 *A converted contents entry reaches Submission Example.*
 
 Use **Tools**, **Compare documents** if available. Choose the observed source, exclude comments and inspect the generated report. Prefer the matching frozen r1 reference for an exact wording comparison. In this run the current source already contained later review-record additions, so those expected additions were distinguished from conversion effects. The generated report flagged margins, styles, sections and headers/footers. Do not accept all suggestions or interpret the report's comment count as a defect count.
 
-![Native comparison generates suggestions for structure and formatting; these are inspected rather than accepted together](./images/c02-07-16-native-comparison-format-flags.jpg)
+![Native comparison generates suggestions for structure and formatting; these are inspected rather than accepted together](./images/c02-07-16-native-comparison-format-flags.png)
 
 *Native comparison generates suggestions for structure and formatting; these are inspected rather than accepted together.*
 
 7. Repair the actual source issue and change a real instruction in the **scenario** source. In **Examples**, use **Insert**, **Page elements**, **Page numbers** to add a first-page footer field; prefix it `Examples - page `. This makes the appendix's own sequence explicit. In **Procedure**, append the supplied post-clarification source-recheck action to the exact missing-owner paragraph. Confirm the selected tab and a unique search match before replacing text.
 
-![A native page field adds an explicit Examples page sequence](./images/c02-07-17-examples-numbering-repaired.jpg)
+![A native page field adds an explicit Examples page sequence](./images/c02-07-17-examples-numbering-repaired.png)
 
 *A native page field adds an explicit Examples page sequence.*
 
-![The r2 source explicitly requires a source recheck after clarification](./images/c02-07-19-r2-procedure-instruction-checked.jpg)
+![The r2 source explicitly requires a source recheck after clarification](./images/c02-07-19-r2-procedure-instruction-checked.png)
 
 *The r2 source explicitly requires a source recheck after clarification.*
 
 Update the source checklist to r2 filenames and record the inspected comparison, repair and viewer limitations. Name the revision `Practice release r2`. Export `Procedure-r2-main.pdf` with Current Tab, then the complete PDF and Word with All Tabs. Retain all r1 files and verify their hashes or unchanged bytes.
 
-![The r2 source record distinguishes conversion evidence and pending viewer checks](./images/c02-07-21-r2-source-record-clean.jpg)
+![The r2 source record distinguishes conversion evidence and pending viewer checks](./images/c02-07-21-r2-source-record-clean.png)
 
 *The r2 source record distinguishes conversion evidence and pending viewer checks.*
 
-![The revised native source receives a distinct release milestone](./images/c02-07-22-release-r2-name.jpg)
+![The revised native source receives a distinct release milestone](./images/c02-07-22-release-r2-name.png)
 
 *The revised native source receives a distinct release milestone.*
 
 Check the new files and record results in an external release manifest. The reference r2 main-only PDF had **13 pages** and excluded Examples; the complete PDF had **14 pages**, included Examples and displayed **Examples - page 1**. The revised instruction was present in both scopes, and the earlier working snapshots retained their original hashes. These are fictional training copies, not project approval or a distributed release.
 
-![The final complete PDF includes the fictional Examples appendix and its repaired page number](./images/c02-07-24-r2-pdf-numbered-examples.jpg)
+![The final complete PDF includes the fictional Examples appendix and its repaired page number](./images/c02-07-24-r2-pdf-numbered-examples.png)
 
 *The final complete PDF includes the fictional Examples appendix and its repaired page number.*
 

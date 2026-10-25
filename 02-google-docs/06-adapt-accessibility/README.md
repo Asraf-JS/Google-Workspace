@@ -26,16 +26,16 @@ Use the checked procedure and the [training glossary](../../shared/sample-files/
 
 ## 6.1 Adapt for the Sponsor
 
-1. Select the complete purpose-and-scope paragraph. Open **Ask Gemini** and use the sponsor prompt on the prompts page. Request a proposal **in the panel only**; do not accept an automatic document edit.
+1. In your Working document, select the whole purpose-and-scope paragraph under the title. Click **Ask Gemini** (the star at the top right) and use the sponsor prompt on the prompts page. Request a proposal **in the panel only**; do not accept an automatic document edit.
 
-![The selected source and Gemini panel preserve the proposal and unresolved start](./images/c02-06-01-sponsor-panel-request.jpg)
+![The selected source and Gemini panel preserve the proposal and unresolved start](./images/c02-06-01-sponsor-panel-request.png)
 
 *The selected source and Gemini panel preserve the proposal and unresolved start.*
 
 2. Keep the proposed budget and missing start date explicit. Compare all numbers and conditions with the source.
-3. Insert the checked 100-word summary under **Sponsor Summary**. Put the heading on its own paragraph and apply **Heading 1**. Check the outline: larger text alone is insufficient. If AI is unavailable, write the summary manually and perform the same fact checks.
+3. Go to the very end of the document, type `Sponsor Summary` on its own line and choose **Heading 1** from the style list. Below it, type or paste the checked 100-word summary (Part 3 on the prompts page has the reference wording). Check the outline: larger text alone is insufficient. If AI is unavailable, write the summary manually and perform the same fact checks.
 
-![The checked 100-word sponsor summary sits under a real heading](./images/c02-06-04-sponsor-summary-complete.jpg)
+![The checked 100-word sponsor summary sits under a real heading](./images/c02-06-04-sponsor-summary-complete.png)
 
 *The checked 100-word sponsor summary sits under a real heading.*
 
@@ -52,19 +52,19 @@ The wording suits a sponsor while preserving the source facts.
 
 1. Before translating, use **File**, **Make a copy** and name it `GW - Reporting Procedure - Adaptation Practice`. Leave sharing and comment-copy boxes unchecked. Keep the English summary. Select it and use **Ask Gemini** with the glossary-constrained Malay prompt; a translation tool is an alternative.
 
-![The English source stays selected while Gemini drafts Malay in the panel](./images/c02-06-06-malay-panel-draft.jpg)
+![The English source stays selected while Gemini drafts Malay in the panel](./images/c02-06-06-malay-panel-draft.png)
 
 *The English source stays selected while Gemini drafts Malay in the panel.*
 
-2. Insert the Malay draft under its own **Heading 1** in the practice copy. Compare every condition with the English source and the supplied glossary. Record author edits and unresolved terms. The reference author clarified owner assignment and submission cut-off; those choices still require language review.
+2. In the practice copy, go to the end of the document, type `Malay Practice Summary` as **Heading 1** and insert the Malay draft below it. Under that, type `Translation Review - Training Only` and record your checks. Compare every condition with the English source and the supplied glossary. Record author edits and unresolved terms. The reference author clarified owner assignment and submission cut-off; those choices still require language review.
 
-![English and Malay remain together in the separate practice copy](./images/c02-06-07-malay-practice-inserted.jpg)
+![English and Malay remain together in the separate practice copy](./images/c02-06-07-malay-practice-inserted.png)
 
 *English and Malay remain together in the separate practice copy.*
 
 3. Record **Language-review status: PENDING** unless a competent reviewer has actually checked the text. Keep the author glossary check separate from that review. A reviewer must check full-sentence meaning and terminology before external use; no reviewer was assigned in this reference run.
 
-![The author flags wording choices and the pending competent language review](./images/c02-06-08-glossary-and-review-pending.jpg)
+![The author flags wording choices and the pending competent language review](./images/c02-06-08-glossary-and-review-pending.png)
 
 *The author flags wording choices and the pending competent language review.*
 
@@ -81,9 +81,9 @@ The practice copy keeps its original meaning. A generated translation is not tre
 
 1. Use heading styles to inspect structure. Check link text describes the destination rather than saying click here.
 2. If your document has an image, open its alternative-text control and describe the information it conveys.
-3. Inspect contrast, readable size and instructions that rely only on colour. In the reference document, body text was black at 11 pt, links were underlined, and status rules used text. Use the outline and keyboard **Find** to locate the missing-owner rule. Record what you actually tested; this is a limited author check. No instructional image existed, so image alternative-text editing was not applicable.
+3. Inspect contrast, readable size and instructions that rely only on colour. In the reference document, body text was black at 11 pt, links were underlined, and status rules used text. Use the outline and **Ctrl+F** (Find) to locate the missing-owner rule. Record what you actually tested; this is a limited author check. No instructional image existed, so image alternative-text editing was not applicable.
 
-![The outline and quick links describe the exception route](./images/c02-06-09-structure-and-descriptive-links.jpg)
+![The outline and quick links describe the exception route](./images/c02-06-09-structure-and-descriptive-links.png)
 
 *The outline and quick links describe the exception route.*
 
@@ -102,7 +102,7 @@ The document can be followed through structure and text, with meaningful image d
 
 2. Add **Meaning Audit** as Heading 1 and a short adjacent description of what the table shows. Use **Insert**, **Table** to create **3 columns by 5 rows**. Label the columns Source condition, Sponsor phrase and Contributor phrase. Add the four conditions and quote the corresponding wording from each version. Read the labels and text rather than colour.
 
-![A native table quotes both versions for all four source conditions](./images/c02-06-14-complete-meaning-table.jpg)
+![A native table quotes both versions for all four source conditions](./images/c02-06-14-complete-meaning-table.png)
 
 *A native table quotes both versions for all four source conditions.*
 
@@ -114,9 +114,9 @@ The document can be followed through structure and text, with meaningful image d
 
 6. For an informative visual or table, write a short text description of what a reader needs to understand. If you use an image, set meaningful alternative text; if no image exists, describe the table in adjacent text.
 
-7. If an assigned partner is available, ask them to locate and explain the exception route using headings and links; record the observed barrier and repair. Otherwise mark **partner test pending**. The reference author checked the outline and keyboard Find, repaired heading styles and recorded the limited scope; no partner test or accessibility certification is claimed.
+7. At the end of the Working document, type `Adaptation and Accessibility Checks` as **Heading 1** and record steps 4 to 6 there. If an assigned partner is available, ask them to locate and explain the exception route using headings and links; record the observed barrier and repair. Otherwise mark **partner test pending**. The reference author checked the outline and keyboard Find, repaired heading styles and recorded the limited scope; no partner test or accessibility certification is claimed.
 
-![The final record explains factual defects, checks and pending tests](./images/c02-06-17-final-analysis-clean-view.jpg)
+![The final record explains factual defects, checks and pending tests](./images/c02-06-17-final-analysis-clean-view.png)
 
 *The final record explains factual defects, checks and pending tests.*
 
