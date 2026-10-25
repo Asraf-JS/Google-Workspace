@@ -15480,6 +15480,502 @@
       "notes": [
         "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
       ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-01-restricted-access.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-01-restricted-access.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ],
+        [
+          558,
+          398,
+          772,
+          444
+        ]
+      ],
+      "sha256": "443618f3682d7723ecb758a3315631a5dae879997e226fe4487671eed31906a6",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-02-selected-register-range.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-02-selected-register-range.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "0d2daee1f572180f562667776478f8e1147346d7a22902ee6e52f8550b5fbff9",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-03-print-scope-options.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-03-print-scope-options.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "dad2704a6b3a10f633f9eddaffe1c16f8c85c9b551fc4da3d27a2822804826c6",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-04-register-fit-width-preview.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-04-register-fit-width-preview.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "13ebb38d513791e2f6cb363f0735c7fe65fd867999bb70f8c6fb058f00d6949f",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-05-repeat-frozen-row-option.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-05-repeat-frozen-row-option.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "bf5ff4d8274f3f19d8437ad91f5281028b5e8ceef2a54cc4b299c0eae217aafb",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-06-unpublished-web-dialog.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-06-unpublished-web-dialog.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "b38dc241303830252846b79bad6a1aa83e3e0ccc07efc1a213c1ed1ba16cd3c0",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-07-publication-scope-warning.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-07-publication-scope-warning.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "bef4efc989516e30456230dcd7001c039d6cb89a09005a85cdaae5151b0a11dc",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-08-output-brief-and-roles.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-08-output-brief-and-roles.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "d20d3673c0db9e6afe097a2c8da6f18a2bf8a7e0680c8202344428fe329d1883",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-09-selected-summary-range.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-09-selected-summary-range.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "e835911b267219342dd893909525d424e9ac288c5c00bc33488b22a1fa9486b4",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-10-summary-print-scopes.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-10-summary-print-scopes.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "b81d66c0b84d8c341f68aa86e25d3ec825643e49c0436099681e551e10d6195e",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-11-summary-range-clips-chart.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-11-summary-range-clips-chart.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "e220a969afc04b848e32a1658879bc3f04ec3a107be0eb142712c1a33f66a52d",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-12-summary-scope-repaired.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-12-summary-scope-repaired.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "a540b203c7f2b044b00f895b77148d3a24b3b234e4d7fa4ba0ab72b270ebf3c6",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-13-summary-a3-final-preview.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-13-summary-a3-final-preview.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "3a71f9b845ea7e19b88ca5aac4a90b141c83c877693ba9cc71ed6ddd33cddd7b",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-14-native-pdf-export-scope.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-14-native-pdf-export-scope.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "a756a4cd5c2d2fea2270f12f5730165cfb65e8319cf3ac80515a196cb897b34e",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-15-sponsor-r1-pdf-page.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-15-sponsor-r1-pdf-page.png",
+      "dimensions": [
+        1191,
+        842
+      ],
+      "kind": "pdf-page",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "f93badc25daa6f805950148a935dcb26f462919b7fe964eed1a80fa3dfbfbf7f",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-16-bounded-register-output-copy.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-16-bounded-register-output-copy.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "2551f9e87d2ca7a4f782786591c56bedbf5fb7419298da39fb669cae3c5fd35d",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-17-custom-breaks-before.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-17-custom-breaks-before.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "2ba68f973a43eac0d0baf34cde97916bd5b594e49a5cdfa29ac7c233102a9071",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-18-six-task-page-break.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-18-six-task-page-break.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "747b19b4d8d8afc1203db06633ac8913bac95482db79bbfe686c95319260cc91",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-19-two-page-register-settings.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-19-two-page-register-settings.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "554a09b53249420505a8b74284596077356bc067ee2fe43b229a0f3827bace70",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-20-final-register-preview-page.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-20-final-register-preview-page.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "6a37f6823cbc468926b13ba0448c7f1ba300a2c544eb11a625f4d16ff75f51bc",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-21-register-pdf-page-one.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-21-register-pdf-page-one.png",
+      "dimensions": [
+        1191,
+        842
+      ],
+      "kind": "pdf-page",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "7e8905e014353f5e0ff43dac730c6e5b4ddfbd5b038327697931b91741f78cd4",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-22-register-pdf-final-page.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-22-register-pdf-final-page.png",
+      "dimensions": [
+        1191,
+        842
+      ],
+      "kind": "pdf-page",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "973deb8f71061c1ea6edc268c70e4ebc325aefafbd64d6ce2385c31249f89803",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-23-original-summary-heading.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-23-original-summary-heading.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "a8761fc151f985e6238f2c6fd60bd56aa13bf082cf90d304fd3a144678d32e7f",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-24-revision-heading-change.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-24-revision-heading-change.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "1aa1f6dac706a7cc6c10c0b2b7080fcf1e6d72763e3a4b903e04bbe16c6b7dcb",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-25-revision-two-export-preview.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-25-revision-two-export-preview.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "9eb980db78dffe8ecf49f5ed961a6a2ef029b3a9826d345cc878eda7c5dddbb6",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-26-sponsor-r2-pdf-page.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-26-sponsor-r2-pdf-page.png",
+      "dimensions": [
+        1191,
+        842
+      ],
+      "kind": "pdf-page",
+      "approved_crop": null,
+      "privacy_masks": [],
+      "sha256": "b767abcd3429baa3dcc4761a1ec09d7a3aaa6900648b155f28f3c6133d94fb23",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-27-summary-heading-restored.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-27-summary-heading-restored.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "6d7f21f40905e3ed9eca47d0824ff372f61ff7c2395ac039ac7cf6d6ca7d2493",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-28-updated-output-brief.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-28-updated-output-brief.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "5bcf381c2273da4038adddd83fcbfe840d7e4607c0e74666258bb5a91da0e33a",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
+    },
+    "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-29-export-revision-manifest.jpg": {
+      "source": "_design/screenshots/full/04-sheets-foundation-intermediate/07-sharing-print/c04-07-29-export-revision-manifest.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "6fc7ece14689f04de2b8b301cde2af58b18a639392c57935848a0e18512483fb",
+      "notes": [
+        "Actual staged learner UI or complete page render from its native downloaded PDF; no crop or resizing. Avatar/owner identity masked where visible; print/export buttons retained. No permission/publication/distribution changes. Summary heading restored; maintained source values/formulas unchanged. Independent reviewer/challenge and learner timing pending."
+      ]
     }
   },
   "missing_originals": [
