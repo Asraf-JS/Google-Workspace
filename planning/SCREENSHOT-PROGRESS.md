@@ -11,7 +11,7 @@ Updated 26 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 798 captures: 109 masterclass, 165 Docs, 173 Slides, 213 Foundation and138 Advanced. Twenty-eight specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 16 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 834 captures: 109 masterclass, 165 Docs, 173 Slides, 213 Foundation and174 Advanced. Twenty-nine specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 15 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -148,3 +148,7 @@ Advanced Lab3 adds39 staged application captures: separate restored practice cop
 ### 26 October 2026: Advanced4 text audit and categorisation
 
 Advanced Lab4 adds32 staged application captures through guided text extraction, display labels, six actual Gemini category proposals checked against Rates, three raw/clean CSV rows, three whitespace cases including retained NBSP, and eight expected-versus-actual identifier decisions with zero control differences. Maintained source and analysis remain unchanged. Independent mixed-intake/reviewer checks, native CSV file import and classroom timing remain pending. Programme798images; retained795sources (767application windows,6focused views,22PDF pages). Untouched routes:Advanced8,AI8.
+
+### 26 October 2026: Advanced5 exact lookups and error repair
+
+Advanced Lab5 adds36 staged application captures:24 copied-order exact lookups reconcile, nine known/missing/blank/padded-key cases match expectations, duplicate-count2 blocks first-match acceptance, descending copy returns exact30 versus omitted-mode45, and actual NA/NAME/REF errors are compared before function/range repair. Maintained source and earlier Analysis are unchanged. Independent output, zero-rate/column-move diagnosis, reviewer and learner timing remain pending. Programme834images; retained831sources (803application windows,6focused views,22PDF pages). Untouched routes:Advanced7,AI8.

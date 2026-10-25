@@ -19538,6 +19538,762 @@
       "notes": [
         "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
       ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-01-separate-orders-copy-for-lookup-practice.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-01-separate-orders-copy-for-lookup-practice.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "96de800d1fcb7ff57f0fe39ceb2ab27400b5ae189f865b555c596404db906bed",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-02-first-exact-vlookup-rate.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-02-first-exact-vlookup-rate.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "248ffc061d4cbb00a05bf3b1d402547fce4eb1063efc304f826653c539ba9866",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-03-fill-exact-vlookup-through-24-orders.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-03-fill-exact-vlookup-through-24-orders.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "1d8eb06ef514e9acaa3c3e439753f8e2d2f5546ca9d373f03cf695cc6ff30a9d",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-04-index-match-uses-explicit-zero-match-mode.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-04-index-match-uses-explicit-zero-match-mode.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "be14e8090d76a0d680cb05f9f27b2abb33dc3317b5dd2b75f2a94e3d1c05d365",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-05-both-methods-reconcile-to-original-unit-costs.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-05-both-methods-reconcile-to-original-unit-costs.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "f09a432201228d483e9a80fb9399953df16acefda04e5097c56a60748f0a28ad",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-06-horizontal-reference-and-test-key-before-formula.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-06-horizontal-reference-and-test-key-before-formula.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "9f141a2eef707ad2e27df56b7b5582094973b17aecec519539020d9c5a344a51",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-07-hlookup-it03-returns-30.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-07-hlookup-it03-returns-30.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "f55a0357749e1a3e5db9077fc7b705a5f542d43ceab7dbf3c415ba304e132e03",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-08-hlookup-it06-returns-8.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-08-hlookup-it06-returns-8.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "5eb6fbdeb1ae00dfd33cdb414efc27ee7d839ed2f858f5669abcde4a3bc2722f",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-09-hlookup-key-restored-to-it03.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-09-hlookup-key-restored-to-it03.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "dd0de05ef8d61577551f19ad1adc0fc7a6e87d1d80ac5f0ea56d3a1858fcfaaf",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-10-missing-key-produces-na-error.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-10-missing-key-produces-na-error.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "f9acbc6c27f0f8543a229c6b8f74c13eed36ba1bd20b57e9bfac40a28609a1fc",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-11-ifna-labels-the-intended-missing-match.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-11-ifna-labels-the-intended-missing-match.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "52eaa39417399089ca4292157d829f8998210fa49b76266b5ff45b56aa6c1296",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-12-misspelled-function-is-a-different-error.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-12-misspelled-function-is-a-different-error.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "5391e489c650fae9230e5b3f6dc961c781422473d1520e2878a92b7dbce0f082",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-13-repair-function-name-and-recover-rate-30.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-13-repair-function-name-and-recover-rate-30.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "8fb7507978f9f2afabeee30913a70f738e0eeab9ecb183b056a74d8a65facf45",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-14-nine-key-expectations-before-lookups.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-14-nine-key-expectations-before-lookups.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "a39c0caa2373930094a1a687e51059bcb265ba162a8961c25c83b9b4c42ddd12",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-15-raw-padded-key-kept-beside-normalised-key.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-15-raw-padded-key-kept-beside-normalised-key.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "12744ed3943a4a0cc6780ca09df6690ef9c4e2d168bcfffde557f9f0715fa52f",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-16-normalised-exact-methods-handle-nine-cases.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-16-normalised-exact-methods-handle-nine-cases.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "16f8f6171582bd212fb5e1c0b90d6cc3b408ba99833d9a79ac411c1c65a08376",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-17-nine-results-match-rates-and-recorded-expectations.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-17-nine-results-match-rates-and-recorded-expectations.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "591bfdbe08d99970e29870dccae42986a352e383b0321b4aa369540683fff183",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-18-nine-case-controls-have-zero-disagreements.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-18-nine-case-controls-have-zero-disagreements.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "cf427de58cdac93e290585481239f3d0bc454f8f667d613f5a99e7d336f9bdf5",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-19-disposable-rates-copy-before-duplicate-test.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-19-disposable-rates-copy-before-duplicate-test.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "03c3b8f9ed11ffddb7099375aa1b6ff4f1b302468e930b5615ed24461da06809",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-20-append-conflicting-it03-only-to-copy.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-20-append-conflicting-it03-only-to-copy.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "2d5a9f0e01c3e4f9da281f1f5928142198d126e5fc5f62d79e7576e4aac0c843",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-21-first-match-returns-30-but-count-two-blocks-acceptance.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-21-first-match-returns-30-but-count-two-blocks-acceptance.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "796dc7f489cee304b6e73b5a93e391a440786a509ccc64ab3f77818173f499ab",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-22-reordered-rates-copy-descending-key-order.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-22-reordered-rates-copy-descending-key-order.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "0011ff68c09e6c8d0155d6c7661470e17bfd05611dd0202bef2e93dcf21e2d05",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-23-exact-versus-omitted-mode-on-descending-copy.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-23-exact-versus-omitted-mode-on-descending-copy.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "8710c4fac0f31c0cc5db31d5d1d98ec580cb72effe55661ce300e6560aae3c4c",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-24-missing-match-compares-narrow-and-broad-wrappers.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-24-missing-match-compares-narrow-and-broad-wrappers.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "f329b53dc5ffc078dcad8141b7d47809a7da878a680ea23558a738fce0ea4eb0",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-25-ifna-preserves-name-error-that-iferror-hides.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-25-ifna-preserves-name-error-that-iferror-hides.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "858514ba15901857421099e1d9e36efc8f8c5765ef85bcedbb42be313a915f2a",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-26-ifna-preserves-reference-error-that-iferror-hides.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-26-ifna-preserves-reference-error-that-iferror-hides.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "115d044d8296f92859a24468cf4354b090e58763272595188a0b444c2a42285b",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-27-repaired-function-and-range-errors-return-30.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-27-repaired-function-and-range-errors-return-30.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "413b88cca0e8e86f23f5f457cb717828c1db062c18a9f6c73da13d48a75c3120",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-28-three-methods-reconcile-it03-at-30.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-28-three-methods-reconcile-it03-at-30.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "dbc6bf52321d5e02ebb4e4c784884c047466864daa4ee8a26da3aebbbe8958f1",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-29-lookup-assumptions-experiments-and-repair-notes.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-29-lookup-assumptions-experiments-and-repair-notes.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "0d9fdd6cbcbcd4bd1d629ceffe210a4f35c3b69a772dc161ec66ca500ce4d257",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-30-final-nine-key-comparison-matrix.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-30-final-nine-key-comparison-matrix.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "f4481cd2b0783c32fae3f51f25ae4736d48fb5f9b6af7cfd20d41f34bf01ae3f",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-31-final-order-rate-differences-remain-zero.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-31-final-order-rate-differences-remain-zero.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "b0904ee480a37edea8d19e9c04ae8df80e2728534146bc5223056cfb2d9de041",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-32-first-order-exact-rates-and-zero-differences.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-32-first-order-exact-rates-and-zero-differences.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "b50e022effad44825506e4187014823eaa3b3c803af50b588c86c00b4e7c0349",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-33-baseline-rates-retain-six-unique-original-items.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-33-baseline-rates-retain-six-unique-original-items.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "efa3e98d2f57b5f6965f1018e079c365ed6d514d845b7922d45a68abc907faf6",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-34-earlier-analysis-band-preserved.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-34-earlier-analysis-band-preserved.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "63d6f16b12cbd6f3b7d9495e62c599e3f7139eea7b310e3bebc19edf74757961",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-35-final-repaired-error-comparison-with-labelled-missing-case.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-35-final-repaired-error-comparison-with-labelled-missing-case.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "2de732515982bc0bafa9c4593fc54905335b6a5105695d8cf578965f055ada24",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-36-final-lookup-handover-ready.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-36-final-lookup-handover-ready.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "248b0d1d38d8af25190cdd06dc5f8b41a70e314a25b91c30b8f0145f5e779a48",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+      ]
     }
   },
   "missing_originals": [
