@@ -28,9 +28,9 @@ Use the working deck. Only use supplied, self-created or otherwise permitted med
 
 1. Open the working deck, `GW - Slides - Sponsor Update`. On the Scope slide (now titled **Three teams will produce four outputs**), keep the existing team/output text. A diagram explains the sequence; an office illustration provides context only.
 
-2. Use **Shape > Shapes > Rectangle** for **Source register**, **Checked update** and **Project hub**. Use **Select line > Arrow** to connect their edges. Keep all three labels readable without colour. The reference uses 20 pt labels.
+2. Click **Shape** in the toolbar, then **Shapes**, **Rectangle**, and draw three boxes labelled **Source register**, **Checked update** and **Project hub**. Click the arrow next to **Line** in the toolbar, choose **Arrow** and connect their edges. Keep all three labels readable without colour. The reference uses 20 pt labels.
 
-![Use labelled native shapes and arrows for the reporting workflow](./images/c03-04-01-labelled-scope-workflow.jpg)
+![Use labelled native shapes and arrows for the reporting workflow](./images/c03-04-01-labelled-scope-workflow.png)
 
 *Use labelled native shapes and arrows for the reporting workflow.*
 
@@ -38,21 +38,21 @@ Use the working deck. Only use supplied, self-created or otherwise permitted med
 
 ## 4.2 Try a Generated Image
 
-1. Where available, select **Generate an image** in the right rail. The observed panel is **Help me visualise**. Enter the bounded prompt from the prompts page and select **Create**. Availability can differ by account.
+1. Where available, click **Image** in the right-hand rail to open **Help me visualise**. Enter the bounded prompt from the prompts page and select **Create**. Availability can differ by account.
 
-![Enter the bounded illustration prompt before generating](./images/c03-04-02-bounded-image-prompt.jpg)
+![Enter the bounded illustration prompt before generating](./images/c03-04-02-bounded-image-prompt.png)
 
 *Enter the bounded illustration prompt before generating.*
 
 2. Inspect the actual result for readable text, logos, identifiable people, distorted details and misleading construction/safety or approval context. The reference result is a flat office illustration with five generic people and a blank grid. It is conceptual, not documentary evidence.
 
-![Inspect the actual generated office illustration](./images/c03-04-03-generated-office-illustration.jpg)
+![Inspect the actual generated office illustration](./images/c03-04-03-generated-office-illustration.png)
 
 *Inspect the actual generated office illustration.*
 
 3. Add a separate **Title only** slide titled **AI-generated context - optional illustration**. Select the reviewed result, inspect **Image preview**, then select **Insert**. If the result is unsuitable or generation unavailable, keep the native workflow instead.
 
-![Insert the reviewed illustration on a separate optional slide](./images/c03-04-04-inserted-context-illustration.jpg)
+![Insert the reviewed illustration on a separate optional slide](./images/c03-04-04-inserted-context-illustration.png)
 
 *Insert the reviewed illustration on a separate optional slide.*
 
@@ -62,19 +62,19 @@ Use the working deck. Only use supplied, self-created or otherwise permitted med
 
 1. Select the informative image. Open **Format options > Alt text** (the image options may expose the same control). Enter a useful description that includes its limited purpose, rather than repeating its filename or claiming it shows real activity.
 
-![Give the image a purpose-specific alternative text](./images/c03-04-05-meaningful-image-alt-text.jpg)
+![Give the image a purpose-specific alternative text](./images/c03-04-05-meaningful-image-alt-text.png)
 
 *Give the image a purpose-specific alternative text.*
 
 2. In **speaker notes**, identify AI origin, generation date, exact prompt, inspected content and reuse uncertainty. The reference makes no blanket copyright-free claim. Check the applicable permission and service terms before external reuse.
 
-![Record the exact prompt, review and untested video dependency](./images/c03-04-06-illustration-provenance-and-video-limit.jpg)
+![Record the exact prompt, review and untested video dependency](./images/c03-04-06-illustration-provenance-and-video-limit.png)
 
 *Record the exact prompt, review and untested video dependency.*
 
 3. On Scope, add the self-created diagram origin and information purpose to its existing speaker notes. Retain the original checked source qualifications. Confirm the note is in the notes pane, not a text box on the slide.
 
-![Keep the native workflow origin and purpose in speaker notes](./images/c03-04-07-workflow-origin-and-purpose.jpg)
+![Keep the native workflow origin and purpose in speaker notes](./images/c03-04-07-workflow-origin-and-purpose.png)
 
 *Keep the native workflow origin and purpose in speaker notes.*
 
@@ -82,29 +82,29 @@ Use the working deck. Only use supplied, self-created or otherwise permitted med
 
 ## 4.4 Produce Visuals With a Clear Information Purpose
 
-1. Create a separate native deck named **GW - Slides - Visual Casework**. Write one purpose sentence for every planned visual. The process designs explain a correction route; the office illustration supplies optional context and is rejected as evidence of that route. Keep the working deck's factual content unchanged.
+1. In Drive, click **New**, **Google Slides**, **Blank presentation** and name it **GW - Slides - Visual Casework**. Write one purpose sentence for every planned visual. The process designs explain a correction route; the office illustration supplies optional context and is rejected as evidence of that route. Keep the working deck's factual content unchanged.
 
 2. On a Title only slide, build **Collect → Check → Report** using native rectangles and arrow connectors. Label the stages **Collect / Source register**, **Check / With task owner**, and **Report / Checked update → hub**. Below them, show the maintained task register as the source of truth and the complete exception route from the prompts page.
 
-![Build the linear design with its source and correction route](./images/c03-04-08-linear-workflow-and-exception.jpg)
+![Build the linear design with its source and correction route](./images/c03-04-08-linear-workflow-and-exception.png)
 
 *Build the linear design with its source and correction route.*
 
 3. On a second Title only slide, build a responsibility layout with three role/action lanes: **Contributor → Correct maintained register**, **Reviewer → Recheck update against source**, and **Coordinator → Report checked update → hub**. These are proposed training roles that need local agreement. Repeat the same source-of-truth and exception route; do not invent a missing owner.
 
-![Build a responsibility layout with the same exception route](./images/c03-04-09-responsibility-workflow-and-exception.jpg)
+![Build a responsibility layout with the same exception route](./images/c03-04-09-responsibility-workflow-and-exception.png)
 
 *Build a responsibility layout with the same exception route.*
 
 4. Compare where a contributor would correct a bad status. The author selects the responsibility layout because **Contributor → Correct maintained register** names the correction point explicitly. Retain the linear alternative in the casework deck and record the reason in notes. **A real reviewer has not completed the comprehension test.**
 
-![Record the author comparison and pending reviewer test](./images/c03-04-10-compared-designs-and-review-status.jpg)
+![Record the author comparison and pending reviewer test](./images/c03-04-10-compared-designs-and-review-status.png)
 
 *Record the author comparison and pending reviewer test.*
 
 5. Add a native table using **Insert > Table**. Use five columns: **Asset**, **Purpose**, **Origin**, **Rights / reuse**, **Text alternative**. Record the Scope workflow, linear design, selected responsibility design and optional AI illustration. The reference uses a five-row table with 10 pt text as a detailed register, not a classroom presentation slide; enlarge or split it when presenting to a group. Put full purpose sentences, source qualifications and the untested video dependency in notes.
 
-![Register all four assets with origin and reuse uncertainty](./images/c03-04-11-visual-register.jpg)
+![Register all four assets with origin and reuse uncertainty](./images/c03-04-11-visual-register.png)
 
 *Register all four assets with origin and reuse uncertainty.*
 
@@ -112,7 +112,7 @@ Use the working deck. Only use supplied, self-created or otherwise permitted med
 
 7. Resize the retained illustration proportionally with a corner handle. Keep all five figures and the blank grid visible, preserve its alternative text and retain the optional illustration label. The reference enlarges the image without cropping content. This does not crop the original-size screenshots retained in the screenshot library.
 
-![Resize the illustration while retaining all figures and the blank grid](./images/c03-04-12-resized-illustration-purpose-retained.jpg)
+![Resize the illustration while retaining all figures and the blank grid](./images/c03-04-12-resized-illustration-purpose-retained.png)
 
 *Resize the illustration while retaining all figures and the blank grid.*
 

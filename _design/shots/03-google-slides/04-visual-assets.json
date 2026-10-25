@@ -1,0 +1,160 @@
+{
+ "raw": "../raw/03-google-slides/04-visual-assets",
+ "repoRoot": "../../../03-google-slides",
+ "shots": {
+  "c03-04-01-labelled-scope-workflow.png": {
+   "boxes": [
+    [
+     418,
+     494,
+     1312,
+     636,
+     2
+    ]
+   ]
+  },
+  "c03-04-02-bounded-image-prompt.png": {
+   "boxes": [
+    [
+     1524,
+     316,
+     1562,
+     352,
+     1,
+     "left"
+    ],
+    [
+     1206,
+     560,
+     1494,
+     760,
+     1
+    ],
+    [
+     1450,
+     772,
+     1490,
+     808,
+     1,
+     "left"
+    ]
+   ]
+  },
+  "c03-04-03-generated-office-illustration.png": {
+   "boxes": [
+    [
+     1196,
+     158,
+     1500,
+     250
+    ]
+   ]
+  },
+  "c03-04-04-inserted-context-illustration.png": {
+   "boxes": [
+    [
+     332,
+     270,
+     940,
+     630,
+     3
+    ]
+   ]
+  },
+  "c03-04-05-meaningful-image-alt-text.png": {
+   "boxes": [
+    [
+     1220,
+     512,
+     1504,
+     548,
+     1
+    ],
+    [
+     1220,
+     656,
+     1496,
+     724,
+     1
+    ]
+   ]
+  },
+  "c03-04-06-illustration-provenance-and-video-limit.png": {
+   "boxes": [
+    [
+     244,
+     566,
+     1486,
+     736,
+     2
+    ]
+   ]
+  },
+  "c03-04-07-workflow-origin-and-purpose.png": {
+   "boxes": [
+    [
+     244,
+     670,
+     1460,
+     710,
+     3
+    ]
+   ]
+  },
+  "c03-04-08-linear-workflow-and-exception.png": {
+   "boxes": [
+    [
+     412,
+     330,
+     1334,
+     676,
+     2
+    ]
+   ]
+  },
+  "c03-04-09-responsibility-workflow-and-exception.png": {
+   "boxes": [
+    [
+     414,
+     270,
+     1342,
+     706,
+     3
+    ]
+   ]
+  },
+  "c03-04-10-compared-designs-and-review-status.png": {
+   "boxes": [
+    [
+     244,
+     572,
+     1486,
+     690,
+     4
+    ]
+   ]
+  },
+  "c03-04-11-visual-register.png": {
+   "boxes": [
+    [
+     400,
+     358,
+     1348,
+     742,
+     5
+    ]
+   ]
+  },
+  "c03-04-12-resized-illustration-purpose-retained.png": {
+   "boxes": [
+    [
+     332,
+     290,
+     1120,
+     770,
+     7
+    ]
+   ]
+  }
+ }
+}
