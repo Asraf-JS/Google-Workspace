@@ -11,7 +11,7 @@ Updated 24 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 570 captures: 109 masterclass, 165 Docs, 173 Slides and 123 Foundation. Twenty-one specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 23 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 599 captures: 109 masterclass, 165 Docs, 173 Slides and 152 Foundation. Twenty-two specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 22 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -120,3 +120,7 @@ Foundation Lab 4 adds22 staged captures: preserved raw text and TRIM/length chec
 ### 25 October 2026: Foundation 5 validation and filter views
 
 Foundation Lab 5 adds34 staged captures: strict canonical status rules and actual Done rejection, planned status/week matrix, whole-week custom formula accepting1/4 and rejecting0/5/1.5, clearing limitations, restored practice week1, entry guide, two saved bounded filter views with8/2 checked IDs, and ordinary SUM10400 before/during filtering. Views are closed with all12 source rows visible; source values/formulas and original practice records are unchanged. Independent Procurement/coverage repair and learner timing remain pending. Programme570 images; retained567 sources (544 application windows,6 focused views,17 PDF pages). Untouched routes:Foundation3,Advanced12,AI8.
+
+### 25 October 2026: Foundation 6 conditional summaries and chart diagnosis
+
+Foundation Lab 6 adds29 staged captures: anchored COUNTIF/SUMIF summaries, two column charts with distinct count/RM units, Gemini panel explanation checked against B3, actual status5/4/3 propagation/restoration, source reconciliation, Total-row and exact-spelling fault repairs on a named copy, supported findings, and cost10500 propagation/restoration to10400. Original Tasks values/formulas are restored. Independent dashboard/reviewer and learner timing remain pending. Programme599 images; retained596 sources (573 application windows,6 focused views,17 PDF pages). Untouched routes:Foundation2,Advanced12,AI8.
