@@ -31,7 +31,7 @@ async function walk(dir){for(const entry of await fs.readdir(dir,{withFileTypes:
   const links=courses.map(co=>`<a class="course-link ${c===co?'active':''}" href="${url(co.path+'/')}">${escape(co.title)}</a>`).join('');
   const rendered=template.replaceAll('{{base}}',base).replace('{{title}}',escape(title)).replace('{{courseTitle}}',escape(c?.title||'Programme overview')).replace('{{courseLinks}}',links).replace('{{chapterNav}}',nav).replace('{{content}}',html);
   const dest=path.join(out,route(rel));await fs.mkdir(path.dirname(dest),{recursive:true});await fs.writeFile(dest,rendered);count++;
- }else if(/\.(xlsx|csv|txt|png|jpg|jpeg|svg|webp|pdf|zip)$/i.test(entry.name)){
+ }else if(/\.(xlsx|csv|txt|png|jpg|jpeg|svg|webp|pdf|zip)$/i.test(entry.name)||(entry.name.endsWith('.json')&&path.basename(path.dirname(p))==='reference-output')){
   const dest=path.join(out,rel);await fs.mkdir(path.dirname(dest),{recursive:true});await fs.copyFile(p,dest);
  }
 }}

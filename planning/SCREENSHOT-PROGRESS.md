@@ -11,7 +11,7 @@ Updated 24 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 628 captures: 109 masterclass, 165 Docs, 173 Slides and 181 Foundation. Twenty-three specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 21 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 660 captures: 109 masterclass, 165 Docs, 173 Slides and 213 Foundation. Twenty-four specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 20 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -128,3 +128,7 @@ Foundation Lab 6 adds29 staged captures: anchored COUNTIF/SUMIF summaries, two c
 ### 25 October 2026: Foundation 7 scoped output and PDF revisions
 
 Foundation Lab 7 adds29 staged captures (25 application views and4 native PDF pages): Restricted owner-only access and unpublished state inspected without changes, bounded print scopes and clipped-chart repair, A3 readability, separate register layout copy, custom break with repeated header and all12 tasks across2pages, three native PDF revisions with unchanged old-file hash, restored source heading and export manifest. No distribution or recipient-role tests. Independent outputs/reviewer and learner timing remain pending. Programme628 images; retained625 sources (598 application windows,6 focused views,21 PDF pages). Untouched routes:Foundation1,Advanced12,AI8.
+
+### 25 October 2026: Foundation 8 corrected challenge and handover
+
+Foundation Lab 8 adds32 staged captures (31 application views and1 native PDF page): separate13-record workbook, extended active ranges, named-source retargeting, own-row variance repair, actual new-cell validation rejection, full formula inspection, two-method controls, T013 actual150 correction with totals10600/6950/-3650, checked9/3record views, current labelled PDF and operating guide. Original12-record baseline remains unchanged. Partner explanation/handover, independent T014/range omission and learner timing remain pending. Programme660 images; retained657 sources (629 application windows,6 focused views,22 PDF pages). Untouched routes:Advanced12,AI8. Site builder now copies reference-output JSON manifests so linked handover manifests are downloadable.
