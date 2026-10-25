@@ -10914,7 +10914,7 @@
         "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/06-motion-review.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-01-presenter-view-launch-menu.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-01-presenter-view-launch-menu.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-01-presenter-view-launch-menu.png",
       "dimensions": [
         1162,
@@ -10938,10 +10938,11 @@
       ],
       "sha256": "9026489a615e5cb70207964587a51071d3875aa04c6f6372bc98c41db14e53a5",
       "notes": [
-        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
+        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/07-delivery-sharing.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-02-presenter-opening-with-speaker-notes.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-02-presenter-opening-with-speaker-notes.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-02-presenter-opening-with-speaker-notes.png",
       "dimensions": [
         730,
@@ -10952,10 +10953,11 @@
       "privacy_masks": [],
       "sha256": "43999bc495a2af83a567e20a9da48546d50f97ea78245d744f9a86f113f1cbfa",
       "notes": [
-        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
+        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/07-delivery-sharing.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-03-audience-opening-without-speaker-notes.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-03-audience-opening-without-speaker-notes.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-03-audience-opening-without-speaker-notes.png",
       "dimensions": [
         1162,
@@ -10966,10 +10968,11 @@
       "privacy_masks": [],
       "sha256": "89adf78c6836d56673c94917dc9c4828886313d92e48086ed0c9e5f729400541",
       "notes": [
-        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
+        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/07-delivery-sharing.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-04-presenter-decisions-with-notes.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-04-presenter-decisions-with-notes.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-04-presenter-decisions-with-notes.png",
       "dimensions": [
         730,
@@ -10980,10 +10983,11 @@
       "privacy_masks": [],
       "sha256": "97699343341f8bb231460d621057d19e438f4288d8ec58cce151602b5183d3b7",
       "notes": [
-        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
+        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/07-delivery-sharing.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-05-next-skips-backup-slide-six.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-05-next-skips-backup-slide-six.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-05-next-skips-backup-slide-six.png",
       "dimensions": [
         730,
@@ -10994,10 +10998,11 @@
       "privacy_masks": [],
       "sha256": "c719a6b2ca96b969040ac14f2cf14167414eacd2fde9adf3740233b9b3d5407b",
       "notes": [
-        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
+        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/07-delivery-sharing.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-06-audience-tools-session-not-started.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-06-audience-tools-session-not-started.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-06-audience-tools-session-not-started.png",
       "dimensions": [
         730,
@@ -11008,10 +11013,11 @@
       "privacy_masks": [],
       "sha256": "e660098fd0eddb2e395a73be40ec424b432bc5c748f67bb79beb0989f1345d0b",
       "notes": [
-        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
+        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/07-delivery-sharing.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-07-share-dialog-restricted-owner-only.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-07-share-dialog-restricted-owner-only.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-07-share-dialog-restricted-owner-only.png",
       "dimensions": [
         1162,
@@ -11041,10 +11047,11 @@
       ],
       "sha256": "d657a6e45c91215ec75857239f5cd1db4e6a05ac040e09da017255c38d5f6c73",
       "notes": [
-        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
+        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/07-delivery-sharing.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-08-file-share-publish-to-web-option.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-08-file-share-publish-to-web-option.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-08-file-share-publish-to-web-option.png",
       "dimensions": [
         1162,
@@ -11062,10 +11069,11 @@
       ],
       "sha256": "12e1f579c1a22ddca6ec54b87219e4d4ebb1eea1c38f3805fcfc141261f0cce6",
       "notes": [
-        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
+        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/07-delivery-sharing.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-09-publish-dialog-not-published.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-09-publish-dialog-not-published.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-09-publish-dialog-not-published.png",
       "dimensions": [
         1162,
@@ -11083,10 +11091,11 @@
       ],
       "sha256": "cfcd36aadf34f5fd0f5e831e591c708078a9587108225b1d478bdc835f531cd6",
       "notes": [
-        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
+        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/07-delivery-sharing.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-10-publish-embed-options-before-close.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-10-publish-embed-options-before-close.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-10-publish-embed-options-before-close.png",
       "dimensions": [
         1162,
@@ -11104,10 +11113,11 @@
       ],
       "sha256": "fdeae7a0041016c7de1e2b57cc959e8c5e42bf0d13e44d4d489ce031214c219c",
       "notes": [
-        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
+        "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/07-delivery-sharing.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-11-three-minute-run-sheet-planned-not-spoken.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-11-three-minute-run-sheet-planned-not-spoken.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-11-three-minute-run-sheet-planned-not-spoken.png",
       "dimensions": [
         730,
@@ -11118,10 +11128,11 @@
       "privacy_masks": [],
       "sha256": "baedfb803f3abb7905bbbce6639453ffcef39eeebd5978a8c5935fe74062637a",
       "notes": [
-        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/07-delivery-sharing.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-12-source-based-sponsor-answers.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-12-source-based-sponsor-answers.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-12-source-based-sponsor-answers.png",
       "dimensions": [
         730,
@@ -11132,10 +11143,11 @@
       "privacy_masks": [],
       "sha256": "566275cc6c26034386f7b86d870817509eccad901f2e649418a0ec58fb7d69eb",
       "notes": [
-        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/07-delivery-sharing.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-13-live-decisions-before-appendix-link.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-13-live-decisions-before-appendix-link.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-13-live-decisions-before-appendix-link.png",
       "dimensions": [
         1162,
@@ -11146,10 +11158,11 @@
       "privacy_masks": [],
       "sha256": "5eba42be26387abeb6d828fd7bf8689080ec45f0b67ee5125c31e84a77518aaf",
       "notes": [
-        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/07-delivery-sharing.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-14-live-appendix-opened-from-decisions.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-14-live-appendix-opened-from-decisions.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-14-live-appendix-opened-from-decisions.png",
       "dimensions": [
         1162,
@@ -11160,10 +11173,11 @@
       "privacy_masks": [],
       "sha256": "c9e7564e58c02443954a8f8c1d8fe9e59282a229a4e3c406e0292de8d0338422",
       "notes": [
-        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/07-delivery-sharing.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-15-live-return-to-decisions-without-restart.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-15-live-return-to-decisions-without-restart.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-15-live-return-to-decisions-without-restart.png",
       "dimensions": [
         1162,
@@ -11174,10 +11188,11 @@
       "privacy_masks": [],
       "sha256": "5eba42be26387abeb6d828fd7bf8689080ec45f0b67ee5125c31e84a77518aaf",
       "notes": [
-        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/07-delivery-sharing.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-16-native-pdf-download-menu.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-16-native-pdf-download-menu.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-16-native-pdf-download-menu.png",
       "dimensions": [
         1162,
@@ -11195,10 +11210,11 @@
       ],
       "sha256": "34006c6555c111d8b35813141385a7fd333cb141be5b1bab1f782c3eef245df7",
       "notes": [
-        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/07-delivery-sharing.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-17-print-preview-include-skipped-enabled.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-17-print-preview-include-skipped-enabled.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-17-print-preview-include-skipped-enabled.png",
       "dimensions": [
         1162,
@@ -11216,10 +11232,11 @@
       ],
       "sha256": "b289de4c9374db82cf4f77e4d78e740ea0bbc5103389539d46f2463b7db3f6e8",
       "notes": [
-        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/07-delivery-sharing.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-18-print-preview-skipped-excluded.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-18-print-preview-skipped-excluded.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-18-print-preview-skipped-excluded.png",
       "dimensions": [
         1162,
@@ -11237,10 +11254,11 @@
       ],
       "sha256": "f2f5be694fbc8ffd1b1cf80ac9b6042709320b405b62e4ffe1b18e8d4c641fc6",
       "notes": [
-        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/07-delivery-sharing.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-19-handout-decisions-native-pdf-page.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-19-handout-decisions-native-pdf-page.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-19-handout-decisions-native-pdf-page.png",
       "dimensions": [
         1080,
@@ -11251,10 +11269,11 @@
       "privacy_masks": [],
       "sha256": "3ad1da1ea31007dedd25671b5e2c152d700457b952db09517c5e8e2f6e402943",
       "notes": [
-        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/07-delivery-sharing.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-20-handout-appendix-native-pdf-page.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-20-handout-appendix-native-pdf-page.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-20-handout-appendix-native-pdf-page.png",
       "dimensions": [
         1080,
@@ -11265,10 +11284,11 @@
       "privacy_masks": [],
       "sha256": "810ee0d8f137ce95768d5323f20ee71bc0b0c8e50d2ee28defa662789f5ced67",
       "notes": [
-        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/07-delivery-sharing.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-21-handout-static-workflow-native-pdf-page.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-21-handout-static-workflow-native-pdf-page.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-21-handout-static-workflow-native-pdf-page.png",
       "dimensions": [
         1080,
@@ -11279,10 +11299,11 @@
       "privacy_masks": [],
       "sha256": "f5b2ed5b02b02e809f243150757777036c25d9f531c6fc7d84d5a4a08056d1f9",
       "notes": [
-        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/07-delivery-sharing.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-22-name-delivery-export-checkpoint.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-22-name-delivery-export-checkpoint.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-22-name-delivery-export-checkpoint.png",
       "dimensions": [
         1162,
@@ -11300,10 +11321,11 @@
       ],
       "sha256": "415b982565d722d73ecfe28a7fc5c1144cbd6cdff56ea76b65ff9686a6ac7b42",
       "notes": [
-        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/07-delivery-sharing.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-23-delivery-export-milestone-verified.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-23-delivery-export-milestone-verified.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-23-delivery-export-milestone-verified.png",
       "dimensions": [
         1162,
@@ -11314,7 +11336,8 @@
       "privacy_masks": [],
       "sha256": "3b27b35c03835d8fa44d00ec2afa1cfa60906f1f5654dcd06921b72e49e0e5a8",
       "notes": [
-        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
+        "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/03-google-slides/07-delivery-sharing.json (crop and boxes in 1600 px coordinates)."
       ]
     },
     "03-google-slides/08-deliver-update/images/c03-08-01-baseline-task-snapshot-and-qualification.jpg": {
