@@ -1,6 +1,6 @@
 # Google Sheets Advanced
 
-**Status:** expanded written review draft, revision 0.4. Every chapter now includes casework, an independent challenge and evidence requirements. Full learner execution, screenshots and timing pilots remain required.
+**Status:** review draft, revision 0.4. Lab1 has30 author-reference captures through guided steps and casework, including preserved source and intake audit. Labs2–12 still need author execution and captures. Upload used instructor handoff; independent/human checks and timing pilots remain pending.
 
 **Duration:** 2 days. Each day has 390 teaching minutes, excluding lunch and breaks.
 
