@@ -1,8 +1,8 @@
-# 01 - Read the Brief and Plan the Story: Prompts and Values
+# 01 - Read the Brief and Plan the Story: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
-## Part 2: Propose an Outline
+## Part 1: Propose an Outline
 
 **Session:** new chat | **Grounding:** pasted checked brief
 
@@ -18,8 +18,7 @@ BRIEF:
 
 Replace bracketed source placeholders before submitting. Keep a human check between an AI proposal and the final output.
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -27,7 +26,23 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Stakeholder requests: Explain the three teams; show current task counts; say the budget is approved; promise a 40% efficiency gain. The sources support the teams and task snapshot, but provide no approval or measured gain.
 ```
 
-## Planning Names and Decision Sentence
+## Part 3: Planning Names and Decision Sentence
+
+Heading 1 sections in the planning Doc, in order:
+
+```text
+Sponsor Decision
+Six-Slide Narrative - Human Draft
+AI Proposal Review
+Outline Acceptance Check
+Audience and Evidence Storyboard
+Decisions and Claim Inventory
+Stakeholder Request Review
+Opening and Closing Scripts
+Appendix Plan and Review Status
+```
+
+Names and decision sentence:
 
 ```text
 GW - Sponsor Update - Story Plan
@@ -36,7 +51,7 @@ Story plan checked - layout repaired
 Decide whether to approve the proposed RM 12000 budget ceiling and agree the pilot start date.
 ```
 
-## Storyboard Columns and Required Sequence
+## Part 4: Storyboard Columns and Required Sequence
 
 ```text
 Slide
@@ -55,7 +70,7 @@ Next Steps
 
 Use a native table with one header row and six story rows. Proposed visuals remain plans until later labs. Keep the checked brief and dataset as separate sources.
 
-## Source Controls
+## Part 5: Source Controls
 
 | Input | Check |
 |---|---|
@@ -66,7 +81,7 @@ Use a native table with one header row and six story rows. Proposed visuals rema
 
 The specialist uses its own unchanged 12-task workbook. Do not substitute the masterclass's later 13-task scenario or treat status counts as evidence of successful weekly submissions.
 
-## Claim Review Fields
+## Part 6: Claim Review Fields
 
 ```text
 Stakeholder request:
@@ -76,7 +91,7 @@ Limit or missing evidence:
 Decision: Keep / Qualify / Omit / Request evidence
 ```
 
-## Speaking and Appendix Preparation
+## Part 7: Speaking and Appendix Preparation
 
 Draft a 60-second opening and 30-second closing request. Keep both sponsor decisions visible. Word-count estimates support preparation; record the actual aloud duration separately.
 

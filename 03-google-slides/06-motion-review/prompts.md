@@ -1,4 +1,4 @@
-# 06 - Polish Motion and Review: Prompts and Values
+# 06 - Polish Motion and Review: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -8,8 +8,7 @@ Copy the values below when following the chapter. Review pasted text before subm
 Sponsor update reviewed
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -17,7 +16,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Review request: “Animate each decision one at a time, and change the final request to ‘Thank you for approving the budget’.” Consider the reveal separately from the unsupported approval wording.
 ```
 
-## Captured Motion and Keyboard Check
+## Part 3: Captured Motion and Keyboard Check
 
 ```text
 Slide transition: Fade, short default duration, workflow slide only
@@ -29,7 +28,7 @@ Editor preview: one Enter reveals the final box
 Keyboard order from title: explanation, Source register, Checked update, Project hub, connector 1, connector 2
 ```
 
-## Stage Descriptions
+## Part 4: Stage Descriptions
 
 **Source register**
 
@@ -49,7 +48,7 @@ Second stage: check the update against the source register before placing it in 
 Final stage: place the checked update in the project hub. In this demonstration, one click reveals this box after the earlier two stages. The complete sequence is also described in the source-register alternative text and notes.
 ```
 
-## Chart Descriptions
+## Part 5: Chart Descriptions
 
 **Status chart**
 
@@ -63,7 +62,7 @@ Column chart of 12 fictional task records: Complete 4, In Progress 4, Not Starte
 Planned cost by team for 12 fictional task records: Planning RM 2800, Procurement RM 4000, Site Coordination RM 3600; total RM 10400. Team names and the RM axis convey the measure without colour. Source: GW - Slides - Linked Data Source, Team Costs!A1:B4. These planned costs are separate from the unapproved RM 12000 proposed budget ceiling and do not authorise spending or demonstrate savings.
 ```
 
-## Readable Status Text and Wording Repair
+## Part 6: Readable Status Text and Wording Repair
 
 Replace the status slide's left text, keeping 22 pt:
 
@@ -81,8 +80,8 @@ Revised workflow title for the named review stage:
 Proposed outputs follow a checked reporting workflow
 ```
 
-The guided author reference now covers 6.1–6.4. Actual Slideshow: static zero reveal advances; staged three, after repairing floating arrows with With previous effects after their destination boxes. Both practice slides are skipped. Original Decisions facts appear immediately; the unsupported budget-approval suggestion was rejected. Screen-reader, projector, independent challenge and learner timing checks remain pending.
+The guided author reference now covers 6.1 to 6.4. Actual Slideshow: static zero reveal advances; staged three, after repairing floating arrows with With previous effects after their destination boxes. Both practice slides are skipped. Original Decisions facts appear immediately; the unsupported budget-approval suggestion was rejected. Screen-reader, projector, independent challenge and learner timing checks remain pending.
 
-## Casework Checkpoint
+## Part 7: Casework Checkpoint
 
 Static practice: None transition, no object animation, all three stages and both arrows visible immediately. Staged practice: None transition; Source On click, Checked On click, connector 1 With previous, Hub On click, connector 2 With previous. Exactly three advances, with proposal/context visible throughout. Replace inherited one-click alternative text on both copies. Final version: Sponsor update reviewed - motion checked.

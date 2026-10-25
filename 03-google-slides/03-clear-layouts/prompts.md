@@ -1,11 +1,10 @@
-# 03 - Build Clear Slide Layouts: Prompts and Values
+# 03 - Build Clear Slide Layouts: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
 This chapter uses the supplied files and visible controls. No additional prompt or typed code is required.
 
-
-## Depth Case Input
+## Part 1: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -13,7 +12,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Dense draft: “Seri Maju Projects in Petaling Jaya proposes a four-week Project Reporting Pilot covering Planning, Procurement and Site Coordination, with a brief, task register, weekly update and hub, a proposed RM 12,000 ceiling still awaiting approval, a start date not yet agreed and Friday updates, aiming for all three teams on time in the final two weeks.”
 ```
 
-## Practice Deck and Main Messages
+## Part 2: Practice Deck and Main Messages
 
 ```text
 GW - Slides - Layout Practice
@@ -25,7 +24,7 @@ Budget and start date need sponsor agreement
 Agree the start, then coordinate Friday updates
 ```
 
-## Redesigned Alternative
+## Part 3: Redesigned Alternative
 
 ```text
 Sponsor decisions are needed before the pilot starts
@@ -38,7 +37,7 @@ Sponsor decisions pending
 Approve proposed RM 12,000 ceiling • Agree pilot start date
 ```
 
-## Layout Labels
+## Part 4: Layout Labels
 
 ```text
 Three teams share one reporting process
@@ -55,7 +54,7 @@ Proposed outputs support a weekly reporting cycle
 
 The arrows are a proposed teaching sequence. They do not prove an approved process or live automation. Use equal-sized native shapes and Arrange alignment/distribution rather than spaces in text.
 
-## Meaning Audit and Review Record
+## Part 5: Meaning Audit and Review Record
 
 | Source phrase | Retain visibly or in notes |
 |---|---|

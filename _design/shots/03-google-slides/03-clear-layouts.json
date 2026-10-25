@@ -1,0 +1,230 @@
+{
+ "raw": "../raw/03-google-slides/03-clear-layouts",
+ "repoRoot": "../../../03-google-slides",
+ "shots": {
+  "c03-03-01-descriptive-purpose.png": {
+   "boxes": [
+    [
+     506,
+     276,
+     1244,
+     522,
+     1
+    ]
+   ]
+  },
+  "c03-03-02-teams-and-outputs.png": {
+   "boxes": [
+    [
+     408,
+     204,
+     974,
+     426,
+     2
+    ]
+   ]
+  },
+  "c03-03-03-decision-conditions.png": {
+   "boxes": [
+    [
+     406,
+     208,
+     828,
+     428,
+     3
+    ],
+    [
+     408,
+     486,
+     706,
+     534
+    ]
+   ]
+  },
+  "c03-03-04-align-placeholders-menu.png": {
+   "boxes": [
+    [
+     350,
+     32,
+     398,
+     56,
+     2,
+     "below"
+    ],
+    [
+     664,
+     106,
+     918,
+     130,
+     2
+    ]
+   ]
+  },
+  "c03-03-05-scope-source-notes.png": {
+   "boxes": [
+    [
+     240,
+     680,
+     1454,
+     750,
+     3
+    ]
+   ]
+  },
+  "c03-03-06-evidence-title-and-notes.png": {
+   "boxes": [
+    [
+     522,
+     190,
+     1020,
+     230,
+     1
+    ],
+    [
+     244,
+     680,
+     1444,
+     730,
+     2
+    ]
+   ]
+  },
+  "c03-03-07-budget-title-and-notes.png": {
+   "boxes": [
+    [
+     518,
+     192,
+     1092,
+     234,
+     1
+    ],
+    [
+     244,
+     682,
+     1464,
+     728,
+     2
+    ]
+   ]
+  },
+  "c03-03-08-purpose-presentation-check.png": {
+   "boxes": []
+  },
+  "c03-03-09-risk-presentation-check.png": {
+   "boxes": []
+  },
+  "c03-03-10-decisions-presentation-check.png": {
+   "boxes": []
+  },
+  "c03-03-11-next-steps-presentation-check.png": {
+   "boxes": []
+  },
+  "c03-03-12-dense-draft-preserved.png": {
+   "boxes": [
+    [
+     56,
+     10,
+     302,
+     34,
+     1,
+     "right"
+    ],
+    [
+     408,
+     212,
+     1336,
+     460,
+     1
+    ]
+   ]
+  },
+  "c03-03-13-three-point-redesign.png": {
+   "boxes": [
+    [
+     408,
+     284,
+     1104,
+     424,
+     2
+    ],
+    [
+     416,
+     498,
+     1336,
+     650,
+     2
+    ]
+   ]
+  },
+  "c03-03-14-distribute-team-cards-menu.png": {
+   "boxes": [
+    [
+     342,
+     30,
+     402,
+     54,
+     3,
+     "below"
+    ],
+    [
+     666,
+     136,
+     922,
+     164,
+     3
+    ],
+    [
+     450,
+     310,
+     1318,
+     482
+    ]
+   ]
+  },
+  "c03-03-15-aligned-team-layout.png": {
+   "boxes": [
+    [
+     452,
+     310,
+     1318,
+     486,
+     3
+    ]
+   ]
+  },
+  "c03-03-16-proposed-output-diagram.png": {
+   "boxes": [
+    [
+     440,
+     310,
+     1348,
+     450,
+     4
+    ]
+   ]
+  },
+  "c03-03-17-dense-presentation-check.png": {
+   "boxes": []
+  },
+  "c03-03-18-redesign-presentation-check.png": {
+   "boxes": []
+  },
+  "c03-03-19-teams-presentation-check.png": {
+   "boxes": []
+  },
+  "c03-03-20-outputs-presentation-check.png": {
+   "boxes": []
+  },
+  "c03-03-21-explanation-and-pending-review.png": {
+   "boxes": [
+    [
+     240,
+     594,
+     1476,
+     830,
+     6
+    ]
+   ]
+  }
+ }
+}
