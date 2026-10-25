@@ -28,6 +28,22 @@ Stakeholder requests: Explain the three teams; show current task counts; say the
 
 ## Part 3: Planning Names and Decision Sentence
 
+Heading 1 sections in the planning Doc, in order:
+
+```text
+Sponsor Decision
+Six-Slide Narrative - Human Draft
+AI Proposal Review
+Outline Acceptance Check
+Audience and Evidence Storyboard
+Decisions and Claim Inventory
+Stakeholder Request Review
+Opening and Closing Scripts
+Appendix Plan and Review Status
+```
+
+Names and decision sentence:
+
 ```text
 GW - Sponsor Update - Story Plan
 Story plan checked

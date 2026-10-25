@@ -13,12 +13,12 @@ The table links each lesson image to its retained source. The [manifest](./manif
 Use Pillow to render an adjusted crop without editing the source:
 
 ```text
-python _design/screenshots/render-crop.py --image 03-google-slides/01-story-plan/images/c03-01-01-sponsor-decision-and-conditions.jpg --box 0 0 1591 920 --output preview.jpg
+python _design/screenshots/render-crop.py --image 04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-01-empty-foundation-practice-folder.jpg --box 0 0 1432 781 --output preview.jpg
 ```
 
 Review the output before replacing a participant image or rebuilding books.
 
-Google Docs lesson images are no longer hand-cropped. They are drawn from these sources by `annotate-shots`; see [`_design/shots/README.md`](../shots/README.md).
+Google Docs and Google Slides lesson images are no longer hand-cropped. They are drawn from these sources by `annotate-shots`; see [`_design/shots/README.md`](../shots/README.md).
 
 ## Missing Originals
 
@@ -331,21 +331,21 @@ Fifteen retained sources:14original-size planning-Doc/Gemini windows and1offline
 
 | Lesson image | Full source | Dimensions | Kind |
 |---|---|---|---|
-| [c03-01-01-sponsor-decision-and-conditions.jpg](../../03-google-slides/01-story-plan/images/c03-01-01-sponsor-decision-and-conditions.jpg) | [PNG](full/03-google-slides/01-story-plan/c03-01-01-sponsor-decision-and-conditions.png) | 1591 x 920 | application-window |
-| [c03-01-02-human-six-slide-outline.jpg](../../03-google-slides/01-story-plan/images/c03-01-02-human-six-slide-outline.jpg) | [PNG](full/03-google-slides/01-story-plan/c03-01-02-human-six-slide-outline.png) | 1591 x 920 | application-window |
-| [c03-01-03-grounded-outline-prompt.jpg](../../03-google-slides/01-story-plan/images/c03-01-03-grounded-outline-prompt.jpg) | [PNG](full/03-google-slides/01-story-plan/c03-01-03-grounded-outline-prompt.png) | 1591 x 920 | application-window |
-| [c03-01-04-gemini-purpose-and-scope-proposal.jpg](../../03-google-slides/01-story-plan/images/c03-01-04-gemini-purpose-and-scope-proposal.jpg) | [PNG](full/03-google-slides/01-story-plan/c03-01-04-gemini-purpose-and-scope-proposal.png) | 1591 x 920 | application-window |
-| [c03-01-05-gemini-budget-and-decision-proposal.jpg](../../03-google-slides/01-story-plan/images/c03-01-05-gemini-budget-and-decision-proposal.jpg) | [PNG](full/03-google-slides/01-story-plan/c03-01-05-gemini-budget-and-decision-proposal.png) | 1591 x 920 | application-window |
-| [c03-01-06-human-ai-comparison-and-revision.jpg](../../03-google-slides/01-story-plan/images/c03-01-06-human-ai-comparison-and-revision.jpg) | [PNG](full/03-google-slides/01-story-plan/c03-01-06-human-ai-comparison-and-revision.png) | 1591 x 920 | application-window |
-| [c03-01-07-outline-acceptance-and-pending-rehearsal.jpg](../../03-google-slides/01-story-plan/images/c03-01-07-outline-acceptance-and-pending-rehearsal.jpg) | [PNG](full/03-google-slides/01-story-plan/c03-01-07-outline-acceptance-and-pending-rehearsal.png) | 1591 x 920 | application-window |
-| [c03-01-08-six-row-evidence-storyboard.jpg](../../03-google-slides/01-story-plan/images/c03-01-08-six-row-evidence-storyboard.jpg) | [PNG](full/03-google-slides/01-story-plan/c03-01-08-six-row-evidence-storyboard.png) | 1591 x 920 | application-window |
-| [c03-01-09-open-decisions-and-task-inventory.jpg](../../03-google-slides/01-story-plan/images/c03-01-09-open-decisions-and-task-inventory.jpg) | [PNG](full/03-google-slides/01-story-plan/c03-01-09-open-decisions-and-task-inventory.png) | 1591 x 920 | application-window |
-| [c03-01-10-stakeholder-claim-classification.jpg](../../03-google-slides/01-story-plan/images/c03-01-10-stakeholder-claim-classification.jpg) | [PNG](full/03-google-slides/01-story-plan/c03-01-10-stakeholder-claim-classification.png) | 1591 x 920 | application-window |
-| [c03-01-11-opening-closing-and-timing-limit.jpg](../../03-google-slides/01-story-plan/images/c03-01-11-opening-closing-and-timing-limit.jpg) | [PNG](full/03-google-slides/01-story-plan/c03-01-11-opening-closing-and-timing-limit.png) | 1591 x 920 | application-window |
-| [c03-01-12-appendices-and-pending-partner-review.jpg](../../03-google-slides/01-story-plan/images/c03-01-12-appendices-and-pending-partner-review.jpg) | [PNG](full/03-google-slides/01-story-plan/c03-01-12-appendices-and-pending-partner-review.png) | 1591 x 920 | application-window |
-| [c03-01-13-story-plan-checked-version.jpg](../../03-google-slides/01-story-plan/images/c03-01-13-story-plan-checked-version.jpg) | [PNG](full/03-google-slides/01-story-plan/c03-01-13-story-plan-checked-version.png) | 1591 x 920 | application-window |
-| [c03-01-14-checked-layout-repair-version.jpg](../../03-google-slides/01-story-plan/images/c03-01-14-checked-layout-repair-version.jpg) | [PNG](full/03-google-slides/01-story-plan/c03-01-14-checked-layout-repair-version.png) | 1591 x 920 | application-window |
-| [c03-01-15-pdf-storyboard-layout-checked.jpg](../../03-google-slides/01-story-plan/images/c03-01-15-pdf-storyboard-layout-checked.jpg) | [PNG](full/03-google-slides/01-story-plan/c03-01-15-pdf-storyboard-layout-checked.png) | 927 x 656 | pdf-page |
+| [c03-01-01-sponsor-decision-and-conditions.png](../../03-google-slides/01-story-plan/images/c03-01-01-sponsor-decision-and-conditions.png) | [PNG](full/03-google-slides/01-story-plan/c03-01-01-sponsor-decision-and-conditions.png) | 1591 x 920 | application-window |
+| [c03-01-02-human-six-slide-outline.png](../../03-google-slides/01-story-plan/images/c03-01-02-human-six-slide-outline.png) | [PNG](full/03-google-slides/01-story-plan/c03-01-02-human-six-slide-outline.png) | 1591 x 920 | application-window |
+| [c03-01-03-grounded-outline-prompt.png](../../03-google-slides/01-story-plan/images/c03-01-03-grounded-outline-prompt.png) | [PNG](full/03-google-slides/01-story-plan/c03-01-03-grounded-outline-prompt.png) | 1591 x 920 | application-window |
+| [c03-01-04-gemini-purpose-and-scope-proposal.png](../../03-google-slides/01-story-plan/images/c03-01-04-gemini-purpose-and-scope-proposal.png) | [PNG](full/03-google-slides/01-story-plan/c03-01-04-gemini-purpose-and-scope-proposal.png) | 1591 x 920 | application-window |
+| [c03-01-05-gemini-budget-and-decision-proposal.png](../../03-google-slides/01-story-plan/images/c03-01-05-gemini-budget-and-decision-proposal.png) | [PNG](full/03-google-slides/01-story-plan/c03-01-05-gemini-budget-and-decision-proposal.png) | 1591 x 920 | application-window |
+| [c03-01-06-human-ai-comparison-and-revision.png](../../03-google-slides/01-story-plan/images/c03-01-06-human-ai-comparison-and-revision.png) | [PNG](full/03-google-slides/01-story-plan/c03-01-06-human-ai-comparison-and-revision.png) | 1591 x 920 | application-window |
+| [c03-01-07-outline-acceptance-and-pending-rehearsal.png](../../03-google-slides/01-story-plan/images/c03-01-07-outline-acceptance-and-pending-rehearsal.png) | [PNG](full/03-google-slides/01-story-plan/c03-01-07-outline-acceptance-and-pending-rehearsal.png) | 1591 x 920 | application-window |
+| [c03-01-08-six-row-evidence-storyboard.png](../../03-google-slides/01-story-plan/images/c03-01-08-six-row-evidence-storyboard.png) | [PNG](full/03-google-slides/01-story-plan/c03-01-08-six-row-evidence-storyboard.png) | 1591 x 920 | application-window |
+| [c03-01-09-open-decisions-and-task-inventory.png](../../03-google-slides/01-story-plan/images/c03-01-09-open-decisions-and-task-inventory.png) | [PNG](full/03-google-slides/01-story-plan/c03-01-09-open-decisions-and-task-inventory.png) | 1591 x 920 | application-window |
+| [c03-01-10-stakeholder-claim-classification.png](../../03-google-slides/01-story-plan/images/c03-01-10-stakeholder-claim-classification.png) | [PNG](full/03-google-slides/01-story-plan/c03-01-10-stakeholder-claim-classification.png) | 1591 x 920 | application-window |
+| [c03-01-11-opening-closing-and-timing-limit.png](../../03-google-slides/01-story-plan/images/c03-01-11-opening-closing-and-timing-limit.png) | [PNG](full/03-google-slides/01-story-plan/c03-01-11-opening-closing-and-timing-limit.png) | 1591 x 920 | application-window |
+| [c03-01-12-appendices-and-pending-partner-review.png](../../03-google-slides/01-story-plan/images/c03-01-12-appendices-and-pending-partner-review.png) | [PNG](full/03-google-slides/01-story-plan/c03-01-12-appendices-and-pending-partner-review.png) | 1591 x 920 | application-window |
+| [c03-01-13-story-plan-checked-version.png](../../03-google-slides/01-story-plan/images/c03-01-13-story-plan-checked-version.png) | [PNG](full/03-google-slides/01-story-plan/c03-01-13-story-plan-checked-version.png) | 1591 x 920 | application-window |
+| [c03-01-14-checked-layout-repair-version.png](../../03-google-slides/01-story-plan/images/c03-01-14-checked-layout-repair-version.png) | [PNG](full/03-google-slides/01-story-plan/c03-01-14-checked-layout-repair-version.png) | 1591 x 920 | application-window |
+| [c03-01-15-pdf-storyboard-layout-checked.png](../../03-google-slides/01-story-plan/images/c03-01-15-pdf-storyboard-layout-checked.png) | [PNG](full/03-google-slides/01-story-plan/c03-01-15-pdf-storyboard-layout-checked.png) | 927 x 656 | pdf-page |
 
 ## Slides 2: Deck Setup (partial author run)
 
