@@ -1,4 +1,4 @@
-# 05 - Link and Explain Project Data: Prompts and Values
+# 05 - Link and Explain Project Data: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -12,8 +12,7 @@ Copy the values below when following the chapter. Review pasted text before subm
 Pilot task status
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -21,7 +20,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 New-record challenge: T013 | Planning | Check the handover | Aina Rahman | 4 | Not Started | 200 | 0. This belongs only in the challenge copy. A copied presentation may keep links to its original source; prove the source identity.
 ```
 
-## Source and Destination for the Captured Setup
+## Part 3: Source and Destination for the Captured Setup
 
 ```text
 GW - Slides - Linked Data Source
@@ -36,9 +35,9 @@ Pilot task status
 Not evidence of pilot success
 ```
 
-The native source is a separate conversion of the original supplied Excel starter. Keep the absolute task range and relative criterion when filling down. Baseline counts are Complete 4, In Progress 4, Not Started 4. At the setup stage, the source/chart identity is checked. The guided reference then tests refresh/restoration and the extended comparison in 5.3–5.4. Independent new-row repair remains pending.
+The native source is a separate conversion of the original supplied Excel starter. Keep the absolute task range and relative criterion when filling down. Baseline counts are Complete 4, In Progress 4, Not Started 4. At the setup stage, the source/chart identity is checked. The guided reference then tests refresh/restoration and the extended comparison in 5.3 to 5.4. Independent new-row repair remains pending.
 
-## Proposed Status Definitions for Notes
+## Part 4: Proposed Status Definitions for Notes
 
 ```text
 Not Started: work on the task has not begun.
@@ -48,7 +47,7 @@ Complete: the task owner has confirmed that the agreed task output is ready for 
 
 These are proposed training definitions from reporting guidance v1, not approved company policy. Counts do not prove on-time final-two-weeks submissions or efficiency savings.
 
-## Team Costs Summary
+## Part 5: Team Costs Summary
 
 Create a sheet named **Team Costs** and paste into A1. The total row reconciles the data; chart only A1:B4.
 
@@ -62,7 +61,7 @@ Total	=SUM(B2:B4)
 
 Expected: Planning 2800, Procurement 4000, Site Coordination 3600, total 10400. These supplied row-level planned costs are separate from the unapproved RM 12000 proposed budget ceiling.
 
-## Comparison and Restoration Log
+## Part 6: Comparison and Restoration Log
 
 ```text
 Source: GW - Slides - Linked Data Source

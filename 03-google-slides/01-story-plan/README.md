@@ -2,13 +2,15 @@
 
 In this chapter you will choose the audience, decision and evidence; use Gemini to propose an outline.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
+> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
-**Target allocation:** 40 minutes: 10 explanation/demonstration, 10 guided build and casework, 15 independent challenge, 5 verification and repair. The active portion is 30 minutes by design. These are unmeasured targets awaiting a learner pilot.
+**Estimated time:** 40 minutes, planned as 10 explanation and demonstration, 10 guided build and casework, 15 independent practice and 5 verification and repair. Not yet timed with learners.
 
 **Your result:** A six-slide story plan with a decision request and source evidence.
 
 > **Status:** an author reference run covers the written work in 1.1-1.4 with 15 staged images and retained sources. The real Gemini proposal, human revision, native storyboard and task snapshot were checked. Spoken rehearsal (1.3 step 3), partner walkthrough (1.4 step 7), independent challenge and learner timing remain pending. Lab 1 creates a planning Doc; deck creation starts in Lab 2.
+
+---
 
 ## What You Will Learn
 
@@ -31,6 +33,8 @@ Open [checked brief](../../shared/sample-files/checked-brief.txt) and [TaskRegis
 
 ![Record the sponsor decision, purpose, success criterion and open approvals](./images/c03-01-01-sponsor-decision-and-conditions.jpg)
 
+*Record the sponsor decision, purpose, success criterion and open approvals.*
+
 <details markdown="1">
 <summary>What should you see?</summary>
 
@@ -44,20 +48,30 @@ A clear budget/start-date decision request, supported project context and visibl
 
 ![Write the six-part human outline before asking Gemini](./images/c03-01-02-human-six-slide-outline.jpg)
 
+*Write the six-part human outline before asking Gemini.*
+
 2. Open **Ask Gemini** in the planning Doc. In a new conversation, paste the Part 2 prompt with the complete `checked-brief.txt` replacing the placeholder. Request a panel-only answer. Do not submit an unresolved source placeholder or insert an unchecked generated deck.
 
 ![Paste the bounded outline prompt and complete checked brief into Gemini](./images/c03-01-03-grounded-outline-prompt.jpg)
+
+*Paste the bounded outline prompt and complete checked brief into Gemini.*
 
 3. Read all six actual messages. The reference proposal used Purpose and Roles, Scope, Schedule and Success Measure, Reporting Risk, Proposed Budget and Decisions Needed. It retained the proposed budget and unconfirmed date and did not invent task counts or savings. Your response can differ; check its claims against the inputs.
 
 ![Inspect the actual purpose and scope proposal in the Gemini panel](./images/c03-01-04-gemini-purpose-and-scope-proposal.jpg)
 
+*Inspect the actual purpose and scope proposal in the Gemini panel.*
+
 ![The actual proposal retains the proposed budget and unresolved start decision](./images/c03-01-05-gemini-budget-and-decision-proposal.jpg)
+
+*The actual proposal retains the proposed budget and unresolved start decision.*
 
 4. Compare with the human plan and record a real revision. In this run, the first purpose message cited roles as its source fact: the review replaced that mapping with the actual Purpose phrase. It also replaced broad financial-commitment wording with proposed budget ceiling and kept the exact agreed-start condition.
 5. Keep the required six-part story: merge budget with Decisions, include schedule and the success criterion in Scope/Next Steps, restore **Current Tasks** using a separately checked workbook, and end with conditional next actions. No unsupported claim was invented merely to demonstrate a correction.
 
 ![Record the human source-mapping and narrative revision](./images/c03-01-06-human-ai-comparison-and-revision.jpg)
+
+*Record the human source-mapping and narrative revision.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -74,6 +88,8 @@ An outline with a useful job and identifiable source for every slide, plus a rec
 
 ![Check factual conditions and leave spoken rehearsal pending](./images/c03-01-07-outline-acceptance-and-pending-rehearsal.jpg)
 
+*Check factual conditions and leave spoken rehearsal pending.*
+
 <details markdown="1">
 <summary>What should you see?</summary>
 
@@ -87,31 +103,47 @@ A fact-checked outline. Record an actual spoken rehearsal separately when it hap
 
 ![Complete the native seven-row, five-column storyboard before deck decoration](./images/c03-01-08-six-row-evidence-storyboard.jpg)
 
+*Complete the native seven-row, five-column storyboard before deck decoration.*
+
 2. Record both unresolved sponsor decisions and needed evidence. Budget approval needs an authorised decision identifying amount/conditions; a start date needs a recorded agreement. The supplied sources contain neither. A relative DueWeek value cannot supply a calendar date.
 3. Build the claim inventory from `project-facts.txt`, `checked-brief.txt` and the supplied **12-task** workbook. Inspect `Tasks!A2:H13` and statuses `F2:F13`: **4 Complete, 4 In Progress, 4 Not Started**, four tasks per team. Label these as a dataset snapshot. In the reference run, the supplied local XLSX was inspected directly; this does not claim a live Google Sheets test or prove final-two-weeks on-time submissions.
 
 ![Record the two decisions and verified twelve-task dataset snapshot](./images/c03-01-09-open-decisions-and-task-inventory.jpg)
 
+*Record the two decisions and verified twelve-task dataset snapshot.*
+
 4. Classify the stakeholder requests as supported, proposed or unsupported. Preserve the source phrase for supported project claims and identify the range for derived counts. The three teams and task snapshot are supported. Saying the budget is approved contradicts the source. A 40% efficiency promise lacks a metric, measured baseline, comparison period and validated result. A shared-definition check can be proposed, with that status explicit.
 
 ![Classify supported requests and reject unsupported approval and efficiency claims](./images/c03-01-10-stakeholder-claim-classification.jpg)
+
+*Classify supported requests and reject unsupported approval and efficiency claims.*
 
 5. Draft a 60-second opening and 30-second closing request. Preserve the proposed budget and unresolved date. The reference drafts contain **125** and **63 words**; these are preparation, not measured speaking times. Keep actual rehearsal pending until performed.
 
 ![Draft opening and closing scripts while leaving actual spoken duration pending](./images/c03-01-11-opening-closing-and-timing-limit.jpg)
 
+*Draft opening and closing scripts while leaving actual spoken duration pending.*
+
 6. Plan one appendix on **source definitions** and a second on **an audience question the evidence cannot answer**. The reference second topic asks what measurable efficiency improvement the pilot will deliver; the inputs cannot answer. Explain why these support questions stay outside the six-slide decision story.
 
 ![Plan source definitions and an evidence-gap appendix, with partner review pending](./images/c03-01-12-appendices-and-pending-partner-review.jpg)
+
+*Plan source definitions and an evidence-gap appendix, with partner review pending.*
 
 7. **Pending until a partner is assigned:** walk them through the storyboard without decoration. Ask them to identify both decisions and explain why the task snapshot does not establish success. Record their actual confusion and any resulting revision. The reference author run contacted nobody and attributes no hesitation or repair to a partner.
 8. Save a checked version such as `Story plan checked`. Inspect the complete planning document and record genuine issues. The initial author PDF had nine pages with one blank page after the storyboard. Removing an extra **Add page break before** setting on the following claim-inventory heading repaired it. The separate final milestone is `Story plan checked - layout repaired`. The final **eight-page** PDF was rendered and visually checked offline, with no blank pages or text outside page bounds. Native readback confirmed **nine nonempty headings and a 7 x 5 native table**. Interactive PDF navigation is not claimed.
 
 ![Name the initial checked planning revision](./images/c03-01-13-story-plan-checked-version.jpg)
 
+*Name the initial checked planning revision.*
+
 ![Name a distinct checked revision after the blank-page repair](./images/c03-01-14-checked-layout-repair-version.jpg)
 
+*Name a distinct checked revision after the blank-page repair.*
+
 ![The repaired native-export PDF retains the complete storyboard on one page](./images/c03-01-15-pdf-storyboard-layout-checked.jpg)
+
+*The repaired native-export PDF retains the complete storyboard on one page.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -120,7 +152,7 @@ A six-slide evidence storyboard, two appendix topics, source-backed claim decisi
 
 </details>
 
-## Independent Challenge
+## Independent Practice
 
 Close the earlier step lists for the first attempt. Use the case input and your own reasoning. If you need help, record the hint and repeat the affected check independently.
 
@@ -130,7 +162,7 @@ Close the earlier step lists for the first attempt. Use the case input and your 
 
 3. Write a response to the unsupported request on the card, including what evidence would be needed to make that claim.
 
-## Evidence to Hand Over
+### Evidence to Hand Over
 
 - Six-slide evidence storyboard with two planned appendix topics.
 - Opening, decision request and a justified three-slide alternative.
