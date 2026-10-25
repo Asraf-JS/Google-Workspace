@@ -6,7 +6,7 @@ You do not need a GitHub account to read the materials.
 
 **Version 0.4**, last updated 21 October 2026.
 
-The programme now has 50 draft chapters: six expanded masterclass labs and 44 expanded specialist labs. The package includes a shared participant site, practice files and six review books. Masterclass Labs 1–6, Docs Labs 1-8, Slides Labs 1-8 and Sheets Foundation Labs 1–8 now have 660 staged real-app images, with limitations recorded per lab. The hub Preview remains blocked; remaining specialist routes, independent challenges and learner timing pilots are still required. See the [validation status](./planning/VALIDATION-STATUS.md).
+The programme now has 50 draft chapters: six expanded masterclass labs and 44 expanded specialist labs. The package includes a shared participant site, practice files and six review books. Masterclass Labs 1–6, Docs Labs 1-8, Slides Labs 1-8 and Sheets Foundation Labs 1–8 and Advanced Lab1 now have 690 staged real-app images, with limitations recorded per lab. The hub Preview remains blocked; remaining specialist routes, independent challenges and learner timing pilots are still required. See the [validation status](./planning/VALIDATION-STATUS.md).
 
 ## Program Flow
 
@@ -28,7 +28,7 @@ Download [all course files (ZIP)](https://github.com/Asraf-JS/Google-Workspace/a
 | 2 | [Google Docs](./02-google-docs/README.md) | 1 day | [PDF](./books/02-google-docs-Book.pdf) | 8 labs; 165 captures in Labs 1-8 |
 | 3 | [Google Slides](./03-google-slides/README.md) | 1 day | [PDF](./books/03-google-slides-Book.pdf) | 8 labs; 173 captures in Labs 1-8 (Lab 2 imports, spoken delivery, reviewer and interactive PDF checks pending; independent/human validation remains) |
 | 4 | [Google Sheets Fundamental and Intermediate](./04-sheets-foundation-intermediate/README.md) | 1 day | [PDF](./books/04-sheets-foundation-intermediate-Book.pdf) | 8 labs; 213 captures across Labs 1–8; CSV import, values-only format, independent/human and learner-timing checks pending |
-| 5 | [Google Sheets Advanced](./05-sheets-advanced/README.md) | 2 days | [PDF](./books/05-sheets-advanced-Book.pdf) | 12 written labs; captures pending |
+| 5 | [Google Sheets Advanced](./05-sheets-advanced/README.md) | 2 days | [PDF](./books/05-sheets-advanced-Book.pdf) | 12 labs;30 captures in Lab1; Labs2–12, independent/reviewer and learner timing pending |
 | 6 | [NotebookLM and Gemini](./06-notebooklm-gemini/README.md) | 1 day | [PDF](./books/06-notebooklm-gemini-Book.pdf) | 8 written labs; captures pending |
 
 ## Course Scenario

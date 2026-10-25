@@ -181,3 +181,7 @@ Foundation Lab 7 adds29 staged captures (25 application views and4 native PDF pa
 ### 25 October 2026: Foundation 8 corrected challenge and handover
 
 Foundation Lab 8 adds32 staged captures (31 application views and1 native PDF page): separate13-record workbook, extended active ranges, named-source retargeting, own-row variance repair, actual new-cell validation rejection, full formula inspection, two-method controls, T013 actual150 correction with totals10600/6950/-3650, checked9/3record views, current labelled PDF and operating guide. Original12-record baseline remains unchanged. Partner explanation/handover, independent T014/range omission and learner timing remain pending. Programme660 images; retained657 sources (629 application windows,6 focused views,22 PDF pages). Untouched routes:Advanced12,AI8. Site builder now copies reference-output JSON manifests so linked handover manifests are downloadable.
+
+### 25 October 2026: Advanced 1 source and intake audit
+
+Advanced Lab 1 adds30 staged application captures: manual starter-upload handoff, native conversion,24-row source/type/key/status diagnostics, exact source snapshot, empty Analysis, six isolated raw intake cases, explicit training contract, conflict-versus-repeat comparison and evidence-backed proposed dispositions. Orders and Rates values/formats remain unchanged. Independent dispositions/release conditions, reviewer challenge and learner timing remain pending. Programme690 images; retained687 sources (659 application windows,6 focused views,22 PDF pages). Untouched routes:Advanced11,AI8.

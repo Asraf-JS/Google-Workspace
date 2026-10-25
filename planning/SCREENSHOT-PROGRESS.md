@@ -11,7 +11,7 @@ Updated 24 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 660 captures: 109 masterclass, 165 Docs, 173 Slides and 213 Foundation. Twenty-four specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 20 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 690 captures: 109 masterclass, 165 Docs, 173 Slides, 213 Foundation and30 Advanced. Twenty-five specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 19 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -132,3 +132,7 @@ Foundation Lab 7 adds29 staged captures (25 application views and4 native PDF pa
 ### 25 October 2026: Foundation 8 corrected challenge and handover
 
 Foundation Lab 8 adds32 staged captures (31 application views and1 native PDF page): separate13-record workbook, extended active ranges, named-source retargeting, own-row variance repair, actual new-cell validation rejection, full formula inspection, two-method controls, T013 actual150 correction with totals10600/6950/-3650, checked9/3record views, current labelled PDF and operating guide. Original12-record baseline remains unchanged. Partner explanation/handover, independent T014/range omission and learner timing remain pending. Programme660 images; retained657 sources (629 application windows,6 focused views,22 PDF pages). Untouched routes:Advanced12,AI8. Site builder now copies reference-output JSON manifests so linked handover manifests are downloadable.
+
+### 25 October 2026: Advanced 1 source and intake audit
+
+Advanced Lab 1 adds30 staged application captures: manual starter-upload handoff, native conversion,24-row source/type/key/status diagnostics, exact source snapshot, empty Analysis, six isolated raw intake cases, explicit training contract, conflict-versus-repeat comparison and evidence-backed proposed dispositions. Orders and Rates values/formats remain unchanged. Independent dispositions/release conditions, reviewer challenge and learner timing remain pending. Programme690 images; retained687 sources (659 application windows,6 focused views,22 PDF pages). Untouched routes:Advanced11,AI8.
