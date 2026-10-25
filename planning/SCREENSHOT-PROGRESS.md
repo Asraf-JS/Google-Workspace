@@ -1,6 +1,6 @@
 # Screenshot Progress
 
-Updated 24 October 2026. Screenshots are real application captures, cropped or masked for privacy, and placed at the matching stage. Later formulas, charts, tables, comments and records are absent from earlier images.
+Updated 26 October 2026. Screenshots are real application captures, cropped or masked for privacy, and placed at the matching stage. Later formulas, charts, tables, comments and records are absent from earlier images.
 
 | Masterclass lab | Approved captures | Reference scope and remaining checks |
 |---|---:|---|
@@ -11,7 +11,7 @@ Updated 24 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 766 captures: 109 masterclass, 165 Docs, 173 Slides, 213 Foundation and106 Advanced. Twenty-seven specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 17 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 798 captures: 109 masterclass, 165 Docs, 173 Slides, 213 Foundation and138 Advanced. Twenty-eight specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 16 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -144,3 +144,7 @@ Advanced Lab2 adds37 staged application captures: source label preserved before2
 ### 26 October 2026: Advanced3 validation and exceptions
 
 Advanced Lab3 adds39 staged application captures: separate restored practice copy, strict status and whole-nonnegative quantity rules, actual input rejection, ten input observations including permitted blank clearing, five exception cases, exact conditional-format/flag bounds, first/final-row positives and two matching filtered IDs. Maintained source and analysis remain unchanged. Blank completeness is not enforced by clearing; independent appended-row repair, bulk-paste/CSV numeric-text behavior, reviewer and learner timing remain pending. Programme766images; retained763sources (735application windows,6focused views,22PDF pages). Untouched routes:Advanced9,AI8.
+
+### 26 October 2026: Advanced4 text audit and categorisation
+
+Advanced Lab4 adds32 staged application captures through guided text extraction, display labels, six actual Gemini category proposals checked against Rates, three raw/clean CSV rows, three whitespace cases including retained NBSP, and eight expected-versus-actual identifier decisions with zero control differences. Maintained source and analysis remain unchanged. Independent mixed-intake/reviewer checks, native CSV file import and classroom timing remain pending. Programme798images; retained795sources (767application windows,6focused views,22PDF pages). Untouched routes:Advanced8,AI8.
