@@ -197,3 +197,7 @@ Advanced Lab3 adds39 staged application captures: separate restored practice cop
 ### 26 October 2026: Advanced4 text audit and categorisation
 
 Advanced Lab4 adds32 staged application captures through guided text extraction, display labels, six actual Gemini category proposals checked against Rates, three raw/clean CSV rows, three whitespace cases including retained NBSP, and eight expected-versus-actual identifier decisions with zero control differences. Maintained source and analysis remain unchanged. Independent mixed-intake/reviewer checks, native CSV file import and classroom timing remain pending. Programme798images; retained795sources (767application windows,6focused views,22PDF pages). Untouched routes:Advanced8,AI8.
+
+### 26 October 2026: Advanced5 exact lookups and error repair
+
+Advanced Lab5 adds36 staged application captures:24 copied-order exact lookups reconcile, nine known/missing/blank/padded-key cases match expectations, duplicate-count2 blocks first-match acceptance, descending copy returns exact30 versus omitted-mode45, and actual NA/NAME/REF errors are compared before function/range repair. Maintained source and earlier Analysis are unchanged. Independent output, zero-rate/column-move diagnosis, reviewer and learner timing remain pending. Programme834images; retained831sources (803application windows,6focused views,22PDF pages). Untouched routes:Advanced7,AI8.

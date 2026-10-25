@@ -8,7 +8,7 @@ In this chapter you will compare exact-match VLOOKUP, HLOOKUP and INDEX/MATCH; d
 
 **Your result:** Exact-match lookup examples and an explicit missing-item result.
 
-> **Status:** expanded review draft, revision 0.4. Complete the casework and independent challenge as well as the guided steps. The expanded route, screenshots and timing have not yet been validated in the learner application.
+> **Status:** author reference with36 staged application captures through5.4.24 order rates reconcile, nine key cases match expectations, duplicate first-match and omitted-mode failures are observed, and distinct formula defects are captured and repaired. Maintained source preserved. Independent zero-rate/output/column-move work, reviewer and learner timing remain pending.
 
 ## What You Will Learn
 
@@ -24,73 +24,155 @@ Use Orders and Rates. Rates A2:D7 has unique item codes and numeric unit costs.
 
 ## 5.1 Look Up a Rate
 
-1. In a spare Orders column labelled `LookupRate`, enter `=VLOOKUP(D2,Rates!$A$2:$D$7,3,FALSE)` and fill down.
-2. Compare each looked-up rate with the original F column.
-3. In another labelled practice column use `=INDEX(Rates!$C$2:$C$7,MATCH(D2,Rates!$A$2:$A$7,0))` and reconcile the same result.
+1. Duplicate **Orders** as **Lookup Practice**. Verify the separate tab before editing. Keep maintained Orders, Rates, Analysis and Source Snapshot unchanged. The training-data label remains in M1, so new practice calculations start at **N1**.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![Duplicate Orders for isolated lookup practice](./images/c05-05-01-separate-orders-copy-for-lookup-practice.jpg)
 
-IT01 returns 45 and IT06 returns 8. Both formulas use exact matches.
+2. Label N1 **LookupRate** and enter **=VLOOKUP(D2,Rates!$A$2:$D$7,3,FALSE)** in N2. IT01 returns45. FALSE requests an exact key match; the key must be in the first column of A:D and the requested return column is3.
 
-</details>
+![Enter the first exact VLOOKUP rate](./images/c05-05-02-first-exact-vlookup-rate.jpg)
 
-<!-- VERIFY: execute 5.1 in the target account and reconcile control names. Capture images/c05-05-01.jpg only from the real app. -->
+3. Fill **N2:N25** down. Inspect the final IT06 rate8 as well as the first result; a correct first row alone is not the complete check.
+
+![Fill exact VLOOKUP through24 copied orders](./images/c05-05-03-fill-exact-vlookup-through-24-orders.jpg)
+
+4. Label O1 **IndexMatchRate**. In O2 enter **=INDEX(Rates!$C$2:$C$7,MATCH(D2,Rates!$A$2:$A$7,0))** and fill O2:O25 down. MATCH0 is exact; the key and return ranges must be aligned.
+
+![Use INDEX MATCH with zero match mode](./images/c05-05-04-index-match-uses-explicit-zero-match-mode.jpg)
+
+5. Label P1/Q1 **VLookup difference /Index difference**. Enter **=N2-F2 / =O2-F2** in P2/Q2 and fill through row25. All24 pairs are zero against the original UnitCost values. Widen only the new practice columns as needed.
+
+![Compare both methods with original UnitCost](./images/c05-05-05-both-methods-reconcile-to-original-unit-costs.jpg)
 
 ## 5.2 Practise a Horizontal Lookup
 
-1. On Analysis G1:L1 enter IT01 through IT06. In G2:L2 enter their unit costs 45, 12, 30, 18, 25 and 8.
-2. Put IT03 in F4 and enter `=HLOOKUP(F4,$G$1:$L$2,2,FALSE)` in G4.
-3. Change F4 to IT06, check 8, then restore IT03.
+1. Create a blank **Horizontal Lookup** tab. The original guide's Analysis F/G cells now contain Lab2 work, so use the same address pattern on this isolated tab. Enter IT01–IT06 in **G1:L1** and rates **45 /12 /30 /18 /25 /8** in G2:L2. Put Test key / Horizontal rate in F3:G3 and **IT03** in F4.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![Prepare the horizontal reference and test key](./images/c05-05-06-horizontal-reference-and-test-key-before-formula.jpg)
 
-The horizontal lookup returns 30 for IT03 and uses the same explicit matching principle.
+2. In G4 enter **=HLOOKUP(F4,$G$1:$L$2,2,FALSE)**. The exact lookup searches the first row and returns from the second row: **30**.
 
-</details>
+![Look up IT03 horizontally as30](./images/c05-05-07-hlookup-it03-returns-30.jpg)
 
-<!-- VERIFY: execute 5.2 in the target account and reconcile control names. Capture images/c05-05-02.jpg only from the real app. -->
+3. Change only F4 to **IT06**. Expect **8**.
+
+![Change the horizontal key to IT06 and observe8](./images/c05-05-08-hlookup-it06-returns-8.jpg)
+
+4. Restore F4 to **IT03** and confirm30. Preserve this restored key for the later three-method comparison.
+
+![Restore the horizontal key to IT03](./images/c05-05-09-hlookup-key-restored-to-it03.jpg)
 
 ## 5.3 Handle an Expected Missing Key
 
-1. In a spare test cell use item code IT99. Observe the lookup's missing-match error.
-2. Wrap only the intended missing-match case, for example `=IFNA(VLOOKUP("IT99",Rates!$A$2:$D$7,3,FALSE),"Unmapped item")`.
-3. Deliberately misspell a function in another spare cell, observe the different error and repair it. Discuss how a blanket IFERROR can hide defects as well as expected missing matches.
+1. Create **Lookup Errors** with the case/meaning/action card. In B2 enter **=VLOOKUP("IT99",Rates!$A$2:$D$7,3,FALSE)**. Observe the actual **#N/A** missing-match result; it is not an evidenced zero rate.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![Observe an expected missing-key NA](./images/c05-05-10-missing-key-produces-na-error.jpg)
 
-An unknown item is labelled Unmapped item. A broken formula is repaired rather than treated as a zero price.
+2. Change B2 to **=IFNA(VLOOKUP("IT99",Rates!$A$2:$D$7,3,FALSE),"Unmapped item")**. This labels the intended missing-match case.
 
-</details>
+![Handle only the intended missing match with IFNA](./images/c05-05-11-ifna-labels-the-intended-missing-match.jpg)
 
-<!-- VERIFY: execute 5.3 in the target account and reconcile control names. Capture images/c05-05-03.jpg only from the real app. -->
+3. In B3 deliberately enter **=VLOKUP("IT03",Rates!$A$2:$D$7,3,FALSE)**. The native result is **#NAME?**, with the message **Unknown function: 'VLOKUP'.** Capture the actual defect before repair.
+
+![Observe the unknown-function NAME error](./images/c05-05-12-misspelled-function-is-a-different-error.jpg)
+
+4. Correct VLOKUP to **VLOOKUP**. B3 now returns30. Repairing a formula defect is different from labelling a genuinely absent key.
+
+![Repair the function name and recover30](./images/c05-05-13-repair-function-name-and-recover-rate-30.jpg)
 
 ## 5.4 Challenge Exact Lookups With Missing and Duplicate Keys
 
-1. Create a **Lookup Tests** table containing all six known ItemCodes, IT99, a blank and a space-padded key. Preserve raw input next to any normalised key.
+1. Create **Lookup Tests** from the nine-row expectation card. It includes all six known keys, IT99, a truly blank key and IT03 with one leading/trailing ordinary space. Preserve raw input B beside normalised C. Enter the padded B10 separately if block paste strips its spaces. Keep expected D values before populating actual formula columns.
 
-2. For each known key compare exact VLOOKUP with INDEX/MATCH and the supplied Rates value. Count and investigate disagreements instead of hiding them.
+![Record nine key expectations before actual lookups](./images/c05-05-14-nine-key-expectations-before-lookups.jpg)
 
-3. Create **Rates Duplicate Test** as a disposable Rates copy. Append a second IT03 with a different UnitCost. Observe which result a first-match lookup returns.
+2. In C2 use **=TRIM(B2)** and fill down. In K2 use the raw-key exact lookup card and fill through row10. The raw padded key returns **Unmapped item**, while its normalised key is IT03. Keep that distinction visible instead of overwriting raw B10.
 
-4. Add a key-count diagnostic so multiple matches are flagged before accepting a looked-up amount. Record that lookup success does not prove uniqueness.
+![Retain raw padded input beside its normalised key](./images/c05-05-15-raw-padded-key-kept-beside-normalised-key.jpg)
 
-5. Reorder a copied Rates table and compare exact versus omitted-match-mode VLOOKUP. Keep approximate-match experiments clearly separated from the authoritative mapping.
+3. Fill E2:G10 using the card: count matches only for nonblank keys, then use exact VLOOKUP and INDEX/MATCH on normalised C. Handle an explicit blank separately from a missing mapping. The six known keys and cleaned IT03 return their numeric rates; IT99 remains Unmapped item.
 
-6. Compare a missing-key error, a bad function name and a bad range reference. Apply IFNA to the intended missing-match case and explain how broad IFERROR could conceal other defects.
+![Compare normalised exact lookup methods](./images/c05-05-16-normalised-exact-methods-handle-nine-cases.jpg)
 
-7. Reconcile a known item’s lookups across vertical, horizontal and INDEX/MATCH methods and write the range/column assumptions of each.
+4. H checks the bounded Rates values only after the match count is one. I compares the expected result with both lookup methods and H; J records Accepted / Unmapped item / Blank. Fill all three columns through row10. All nine expected-versus-actual checks are TRUE. This is guided author casework, not an independent learner attempt.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![Compare nine actual results with expected source values](./images/c05-05-17-nine-results-match-rates-and-recorded-expectations.jpg)
 
-Known/missing/blank/padded-key test matrix with exact-method reconciliation. The result must be supported by the recorded checks; an attractive output or an AI assurance is insufficient.
+5. Add A13:D19 controls: **9 cases /9 matches /0 disagreements /7 accepted cases /1 unmapped /1 blank**. All six differences are zero. The seven accepted cases include the repeated, space-normalised IT03 input; they are not seven unique source keys.
 
-</details>
+![Reconcile nine cases with zero disagreements](./images/c05-05-18-nine-case-controls-have-zero-disagreements.jpg)
 
-<!-- VERIFY: execute expanded section 5.4 and independent challenge; capture images/c05-05-04.jpg only after real application success. -->
+6. Duplicate baseline **Rates** as **Rates Duplicate Test**. Confirm the separate name and six original rows before introducing a conflict. Do not edit maintained Rates.
+
+![Create a disposable Rates duplicate-test copy](./images/c05-05-19-disposable-rates-copy-before-duplicate-test.jpg)
+
+7. Append **IT03 /Cable pack duplicate /99 /Equipment** to A8:D8 on the copy only. The original IT03 row still has30.
+
+![Append a conflicting IT03 only to the copy](./images/c05-05-20-append-conflicting-it03-only-to-copy.jpg)
+
+8. Add the duplicate diagnostic card at A11:F12. Exact VLOOKUP and INDEX/MATCH both return the first IT03 rate **30**, but COUNTIF over A2:A8 returns **2**. The decision is **Review duplicate**. Returning a value does not establish uniqueness; do not accept either30 or99 as an authoritative repair. Keep the labelled experimental copy.
+
+![Observe first-match30 and duplicate-count2](./images/c05-05-21-first-match-returns-30-but-count-two-blocks-acceptance.jpg)
+
+9. Make a second copy of baseline Rates named **Rates Reordered**. Select **A2:D7 only**, then **Data > Sort range > Sort range by column A (Z to A)**. Keep the header and outside-table data label separate. The keys become IT06 down to IT01, with the corresponding rows moving together.
+
+![Sort only a separate Rates copy descending](./images/c05-05-22-reordered-rates-copy-descending-key-order.jpg)
+
+10. At A10:F11 compare IT03 using **=VLOOKUP(A11,$A$2:$D$7,3,FALSE)** with **=VLOOKUP(A11,$A$2:$D$7,3)**. In this actual descending-copy test, exact mode returns **30** while omitted mode returns the plausible but wrong **45**. The omitted mode assumes approximate matching on ascending keys; its precondition is violated here. Record this observation without generalising that every unsorted table will return45. Keep the experiment separate from the authoritative mapping.
+
+![Compare exact30 with omitted-mode45](./images/c05-05-23-exact-versus-omitted-mode-on-descending-copy.jpg)
+
+11. Return to Lookup Errors. Create the A6:E9 wrapper comparison. First run the raw missing-key formula in B7, **=IFNA(B7,"Unmapped item")** in C7 and **=IFERROR(B7,"Fallback")** in D7. NA becomes an explicit unmapped result under IFNA; a generic fallback is less specific.
+
+![Compare missing-match error wrappers](./images/c05-05-24-missing-match-compares-narrow-and-broad-wrappers.jpg)
+
+12. In B8 enter the misspelled VLOKUP case. Apply the same IFNA/IFERROR wrappers in C8/D8. The native **#NAME?** persists through IFNA but IFERROR hides it as Fallback. Retain actual error evidence before correcting it.
+
+![Observe IFNA preserving a NAME defect](./images/c05-05-25-ifna-preserves-name-error-that-iferror-hides.jpg)
+
+13. In B9 enter **=VLOOKUP("IT03",Rates!$A$2:$B$7,3,FALSE)**. Return column3 lies outside the two-column range. The native **#REF!** message is **VLOOKUP evaluates to an out of bounds range.** C9's IFNA preserves that defect; D9's IFERROR hides it. This is a range-shape defect, not a missing item.
+
+![Observe IFNA preserving a REF defect](./images/c05-05-26-ifna-preserves-reference-error-that-iferror-hides.jpg)
+
+14. Repair B8's function spelling and expand B9's source range back to **Rates A2:D7**. B8:C9 and their broad wrappers now return30. Add the observed-error/repair notes. Retain B7's raw **#N/A** only as a clearly labelled expected missing-key demonstration; do not claim all error cells were removed.
+
+![Repair the function and range defects](./images/c05-05-27-repaired-function-and-range-errors-return-30.jpg)
+
+15. On Horizontal Lookup, add Vertical rate / INDEX MATCH / All equal in H3:J3. With F4 restored to IT03, use the card's exact vertical and INDEX/MATCH formulas in H4/I4 and **=AND(G4=H4,H4=I4)** in J4. All three results are30 and the comparison is TRUE.
+
+![Reconcile horizontal vertical and INDEX MATCH at30](./images/c05-05-28-three-methods-reconcile-it03-at-30.jpg)
+
+16. Create **Lookup Notes**. Record key/return range alignment, VLOOKUP first-column and column-index assumptions, HLOOKUP row orientation, explicit exact modes, raw-key handling, uniqueness diagnostic, experiment results and the final repair state. Exact matching also does not, by itself, prove a matched return value is populated; these supplied baseline rates were checked as numeric.
+
+![Document lookup assumptions and experiment boundaries](./images/c05-05-29-lookup-assumptions-experiments-and-repair-notes.jpg)
+
+17. Inspect the final nine-key matrix and controls. Unmapped item and Blank remain distinct from a numeric rate. The independent zero-rate/output/column-move challenge is still pending.
+
+![Inspect final nine-key comparisons](./images/c05-05-30-final-nine-key-comparison-matrix.jpg)
+
+18. Recheck the final copied order's two zero rate differences, then the first order. All24 rows reconcile to the maintained source.
+
+![Check the final order rate differences](./images/c05-05-31-final-order-rate-differences-remain-zero.jpg)
+
+![Check the first order exact rates](./images/c05-05-32-first-order-exact-rates-and-zero-differences.jpg)
+
+19. Inspect maintained Rates: exactly the original six unique items, with IT03 still30. No duplicate or reordering experiment changed this mapping.
+
+![Retain six unique baseline Rates keys](./images/c05-05-33-baseline-rates-retain-six-unique-original-items.jpg)
+
+20. Inspect maintained Analysis F2. Its Lab2 band test remains200/High and the earlier grids are intact; the horizontal exercise used a separate tab.
+
+![Preserve the earlier Analysis band test](./images/c05-05-34-earlier-analysis-band-preserved.jpg)
+
+21. Leave Lookup Errors with repaired function/range cases and the one labelled raw missing case. The broad wrapper did not repair the defects; the underlying formulas were corrected.
+
+![Retain repaired defects and one labelled expected missing case](./images/c05-05-35-final-repaired-error-comparison-with-labelled-missing-case.jpg)
+
+22. Leave saved Lookup Notes ready for handover. Retain the labelled duplicate/reordered scenario tabs as teaching evidence, with their limitations stated.
+
+![Leave the saved lookup handover ready](./images/c05-05-36-final-lookup-handover-ready.jpg)
+
+> **Validation boundary:** guided5.1–5.3 and author casework5.4 were executed through learner UI and bounded read-only native-cell evidence. Independent output, zero-rate distinction, column-move diagnosis, rejected-key handover, reviewer and planned80-minute learner timing remain unverified. Baseline Orders/Analysis/Rates/Source Snapshot remain unchanged.
 
 ## Independent Challenge
 
