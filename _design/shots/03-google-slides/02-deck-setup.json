@@ -1,0 +1,175 @@
+{
+ "raw": "../raw/03-google-slides/02-deck-setup",
+ "repoRoot": "../../../03-google-slides",
+ "shots": {
+  "c03-02-01-simple-light-theme.png": {
+   "boxes": [
+    [
+     56,
+     10,
+     308,
+     34,
+     1,
+     "right"
+    ],
+    [
+     1202,
+     180,
+     1498,
+     352,
+     2
+    ]
+   ]
+  },
+  "c03-02-02-six-slide-structure.png": {
+   "boxes": [
+    [
+     38,
+     128,
+     202,
+     744,
+     3
+    ]
+   ]
+  },
+  "c03-02-03-backup-skip-menu.png": {
+   "boxes": [
+    [
+     128,
+     312,
+     442,
+     338,
+     2
+    ]
+   ]
+  },
+  "c03-02-04-skipped-backup.png": {
+   "boxes": [
+    [
+     38,
+     642,
+     202,
+     740,
+     2
+    ]
+   ]
+  },
+  "c03-02-05-slideshow-skips-backup.png": {
+   "boxes": []
+  },
+  "c03-02-06-disposable-source.png": {
+   "boxes": [
+    [
+     56,
+     10,
+     364,
+     34,
+     1,
+     "right"
+    ]
+   ]
+  },
+  "c03-02-07-import-picker-blank.png": {
+   "boxes": []
+  },
+  "c03-02-08-evidence-gap-appendix.png": {
+   "boxes": [
+    [
+     38,
+     748,
+     202,
+     848,
+     1
+    ],
+    [
+     368,
+     208,
+     1016,
+     268,
+     1
+    ]
+   ]
+  },
+  "c03-02-09-practice-theme-accent.png": {
+   "boxes": [
+    [
+     1220,
+     186,
+     1500,
+     226,
+     2
+    ],
+    [
+     1220,
+     502,
+     1304,
+     544,
+     2
+    ]
+   ]
+  },
+  "c03-02-10-linked-versus-manual-colour.png": {
+   "boxes": [
+    [
+     418,
+     378,
+     1326,
+     568,
+     2
+    ]
+   ]
+  },
+  "c03-02-11-decision-navigation.png": {
+   "boxes": [
+    [
+     64,
+     554,
+     530,
+     612,
+     6
+    ]
+   ]
+  },
+  "c03-02-12-source-appendix-navigation.png": {
+   "boxes": [
+    [
+     64,
+     554,
+     426,
+     612,
+     6
+    ]
+   ]
+  },
+  "c03-02-13-reusable-decisions.png": {
+   "boxes": [
+    [
+     56,
+     10,
+     402,
+     34,
+     7,
+     "right"
+    ],
+    [
+     408,
+     434,
+     884,
+     480,
+     7
+    ]
+   ]
+  },
+  "c03-02-14-reusable-structure-grid.png": {
+   "boxes": [
+    [
+     102,
+     132,
+     1406,
+     750,
+     7
+    ]
+   ]
+  }
+ }
+}

@@ -353,20 +353,20 @@ Fourteen full original application windows, with avatar masks and no crops. The 
 
 | Lesson image | Full source | Dimensions | Kind |
 |---|---|---|---|
-| [c03-02-01-simple-light-theme.jpg](../../03-google-slides/02-deck-setup/images/c03-02-01-simple-light-theme.jpg) | [PNG](full/03-google-slides/02-deck-setup/c03-02-01-simple-light-theme.png) | 1591 x 920 | application-window |
-| [c03-02-02-six-slide-structure.jpg](../../03-google-slides/02-deck-setup/images/c03-02-02-six-slide-structure.jpg) | [PNG](full/03-google-slides/02-deck-setup/c03-02-02-six-slide-structure.png) | 1591 x 920 | application-window |
-| [c03-02-03-backup-skip-menu.jpg](../../03-google-slides/02-deck-setup/images/c03-02-03-backup-skip-menu.jpg) | [PNG](full/03-google-slides/02-deck-setup/c03-02-03-backup-skip-menu.png) | 1591 x 920 | application-window |
-| [c03-02-04-skipped-backup.jpg](../../03-google-slides/02-deck-setup/images/c03-02-04-skipped-backup.jpg) | [PNG](full/03-google-slides/02-deck-setup/c03-02-04-skipped-backup.png) | 1591 x 920 | application-window |
-| [c03-02-05-slideshow-skips-backup.jpg](../../03-google-slides/02-deck-setup/images/c03-02-05-slideshow-skips-backup.jpg) | [PNG](full/03-google-slides/02-deck-setup/c03-02-05-slideshow-skips-backup.png) | 1591 x 920 | application-window |
-| [c03-02-06-disposable-source.jpg](../../03-google-slides/02-deck-setup/images/c03-02-06-disposable-source.jpg) | [PNG](full/03-google-slides/02-deck-setup/c03-02-06-disposable-source.png) | 1591 x 868 | application-window |
-| [c03-02-07-import-picker-blank.jpg](../../03-google-slides/02-deck-setup/images/c03-02-07-import-picker-blank.jpg) | [PNG](full/03-google-slides/02-deck-setup/c03-02-07-import-picker-blank.png) | 1591 x 920 | application-window |
-| [c03-02-08-evidence-gap-appendix.jpg](../../03-google-slides/02-deck-setup/images/c03-02-08-evidence-gap-appendix.jpg) | [PNG](full/03-google-slides/02-deck-setup/c03-02-08-evidence-gap-appendix.png) | 1591 x 920 | application-window |
-| [c03-02-09-practice-theme-accent.jpg](../../03-google-slides/02-deck-setup/images/c03-02-09-practice-theme-accent.jpg) | [PNG](full/03-google-slides/02-deck-setup/c03-02-09-practice-theme-accent.png) | 1591 x 868 | application-window |
-| [c03-02-10-linked-versus-manual-colour.jpg](../../03-google-slides/02-deck-setup/images/c03-02-10-linked-versus-manual-colour.jpg) | [PNG](full/03-google-slides/02-deck-setup/c03-02-10-linked-versus-manual-colour.png) | 1591 x 868 | application-window |
-| [c03-02-11-decision-navigation.jpg](../../03-google-slides/02-deck-setup/images/c03-02-11-decision-navigation.jpg) | [PNG](full/03-google-slides/02-deck-setup/c03-02-11-decision-navigation.png) | 1591 x 920 | application-window |
-| [c03-02-12-source-appendix-navigation.jpg](../../03-google-slides/02-deck-setup/images/c03-02-12-source-appendix-navigation.jpg) | [PNG](full/03-google-slides/02-deck-setup/c03-02-12-source-appendix-navigation.png) | 1591 x 920 | application-window |
-| [c03-02-13-reusable-decisions.jpg](../../03-google-slides/02-deck-setup/images/c03-02-13-reusable-decisions.jpg) | [PNG](full/03-google-slides/02-deck-setup/c03-02-13-reusable-decisions.png) | 1591 x 868 | application-window |
-| [c03-02-14-reusable-structure-grid.jpg](../../03-google-slides/02-deck-setup/images/c03-02-14-reusable-structure-grid.jpg) | [PNG](full/03-google-slides/02-deck-setup/c03-02-14-reusable-structure-grid.png) | 1591 x 868 | application-window |
+| [c03-02-01-simple-light-theme.png](../../03-google-slides/02-deck-setup/images/c03-02-01-simple-light-theme.png) | [PNG](full/03-google-slides/02-deck-setup/c03-02-01-simple-light-theme.png) | 1591 x 920 | application-window |
+| [c03-02-02-six-slide-structure.png](../../03-google-slides/02-deck-setup/images/c03-02-02-six-slide-structure.png) | [PNG](full/03-google-slides/02-deck-setup/c03-02-02-six-slide-structure.png) | 1591 x 920 | application-window |
+| [c03-02-03-backup-skip-menu.png](../../03-google-slides/02-deck-setup/images/c03-02-03-backup-skip-menu.png) | [PNG](full/03-google-slides/02-deck-setup/c03-02-03-backup-skip-menu.png) | 1591 x 920 | application-window |
+| [c03-02-04-skipped-backup.png](../../03-google-slides/02-deck-setup/images/c03-02-04-skipped-backup.png) | [PNG](full/03-google-slides/02-deck-setup/c03-02-04-skipped-backup.png) | 1591 x 920 | application-window |
+| [c03-02-05-slideshow-skips-backup.png](../../03-google-slides/02-deck-setup/images/c03-02-05-slideshow-skips-backup.png) | [PNG](full/03-google-slides/02-deck-setup/c03-02-05-slideshow-skips-backup.png) | 1591 x 920 | application-window |
+| [c03-02-06-disposable-source.png](../../03-google-slides/02-deck-setup/images/c03-02-06-disposable-source.png) | [PNG](full/03-google-slides/02-deck-setup/c03-02-06-disposable-source.png) | 1591 x 868 | application-window |
+| [c03-02-07-import-picker-blank.png](../../03-google-slides/02-deck-setup/images/c03-02-07-import-picker-blank.png) | [PNG](full/03-google-slides/02-deck-setup/c03-02-07-import-picker-blank.png) | 1591 x 920 | application-window |
+| [c03-02-08-evidence-gap-appendix.png](../../03-google-slides/02-deck-setup/images/c03-02-08-evidence-gap-appendix.png) | [PNG](full/03-google-slides/02-deck-setup/c03-02-08-evidence-gap-appendix.png) | 1591 x 920 | application-window |
+| [c03-02-09-practice-theme-accent.png](../../03-google-slides/02-deck-setup/images/c03-02-09-practice-theme-accent.png) | [PNG](full/03-google-slides/02-deck-setup/c03-02-09-practice-theme-accent.png) | 1591 x 868 | application-window |
+| [c03-02-10-linked-versus-manual-colour.png](../../03-google-slides/02-deck-setup/images/c03-02-10-linked-versus-manual-colour.png) | [PNG](full/03-google-slides/02-deck-setup/c03-02-10-linked-versus-manual-colour.png) | 1591 x 868 | application-window |
+| [c03-02-11-decision-navigation.png](../../03-google-slides/02-deck-setup/images/c03-02-11-decision-navigation.png) | [PNG](full/03-google-slides/02-deck-setup/c03-02-11-decision-navigation.png) | 1591 x 920 | application-window |
+| [c03-02-12-source-appendix-navigation.png](../../03-google-slides/02-deck-setup/images/c03-02-12-source-appendix-navigation.png) | [PNG](full/03-google-slides/02-deck-setup/c03-02-12-source-appendix-navigation.png) | 1591 x 920 | application-window |
+| [c03-02-13-reusable-decisions.png](../../03-google-slides/02-deck-setup/images/c03-02-13-reusable-decisions.png) | [PNG](full/03-google-slides/02-deck-setup/c03-02-13-reusable-decisions.png) | 1591 x 868 | application-window |
+| [c03-02-14-reusable-structure-grid.png](../../03-google-slides/02-deck-setup/images/c03-02-14-reusable-structure-grid.png) | [PNG](full/03-google-slides/02-deck-setup/c03-02-14-reusable-structure-grid.png) | 1591 x 868 | application-window |
 
 ## Slides 3: Clear Layouts
 
