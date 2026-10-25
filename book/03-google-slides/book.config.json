@@ -9,7 +9,7 @@
   ],
   "runningTitle": "Google Slides",
   "subtitle": "One-day course review draft",
-  "blurb": "Plan a grounded sponsor update, organise its structure and create useful visual assets. Labs 1-4 include 62 captured stages. Import comparisons and human/learner validation remain pending.",
+  "blurb": "Plan a grounded sponsor update, build clear visuals and audit linked data. Labs 1-5 include 87 captured stages, including refresh/restoration and static comparison. Import and human/learner validation remain pending.",
   "coverIcons": [
     "doc",
     "check",
@@ -71,5 +71,5 @@
       "exercises": "../../03-google-slides/08-deliver-update/prompts.md"
     }
   ],
-  "backCover": "A one-day review draft with fictional inputs, substantial labs and evidence checks. Captured planning, structure, clear layouts, native workflow diagrams, reviewed image generation, provenance, alt text and a visual register. Import comparisons, Labs 5-8, permitted-video playback, independent tasks, reviewer checks, rehearsal and classroom timing still require validation."
+  "backCover": "A one-day review draft with fictional inputs, substantial labs and evidence checks. Captured planning, structure, layouts, visual assets and two checked linked charts with restored test data. Import comparisons, Labs 6-8, independent tasks, reviewer checks, rehearsal and learner timing still require validation."
 }

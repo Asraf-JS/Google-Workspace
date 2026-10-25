@@ -9523,6 +9523,531 @@
       "notes": [
         "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
       ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-01-native-source-blank-summary.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-01-native-source-blank-summary.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "10130179da209673d5d192df6f074e3131209c01c30586706c0789e9b4ebe7d3",
+      "notes": [
+        "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-02-countif-formula-before-fill.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-02-countif-formula-before-fill.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "29a4d90ad4ae803cac6a9f9c9798a556fae4b98eae5a107b6f276eb1e80eaf46",
+      "notes": [
+        "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-03-baseline-counts-four-each.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-03-baseline-counts-four-each.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "70406834d3210661d39c3edca50553b0c10508e52b66f34814cfe6e7fb5d1fd5",
+      "notes": [
+        "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-04-column-chart-title-and-counts.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-04-column-chart-title-and-counts.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "26a9297cecf0282e94518ddc10036e39039235a486a5a1b0130ed73529a0ea2b",
+      "notes": [
+        "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-05-copy-chart-native-menu.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-05-copy-chart-native-menu.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "3ce38bbaa27af1d30a703353a82bfbf214b3c32aed923a60b7fd48a63eb7306c",
+      "notes": [
+        "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-06-link-to-spreadsheet-paste-dialog.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-06-link-to-spreadsheet-paste-dialog.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1590,
+          60
+        ]
+      ],
+      "sha256": "2800d13f4b0f234b4a337e4e8b3731eac6fd55b6e13761331264ff08f1b894a8",
+      "notes": [
+        "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-07-linked-chart-and-qualified-snapshot.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-07-linked-chart-and-qualified-snapshot.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1590,
+          60
+        ]
+      ],
+      "sha256": "79028f13bff9a109bb0aaa7381caeeafbc55b05facf5cf55ecddd5b3cf0f5fe2",
+      "notes": [
+        "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-08-source-definitions-and-refresh-pending.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-08-source-definitions-and-refresh-pending.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1590,
+          60
+        ]
+      ],
+      "sha256": "aa570b5d5582c4d001a87927a976baaea04a979df72ff30a318def903129f682",
+      "notes": [
+        "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-09-t003-original-status.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-09-t003-original-status.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "cbefab925754397496ad05e15f124c7e3eb56c296f7aeb25d6d5c877530e5fb3",
+      "notes": [
+        "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-10-source-counts-five-four-three.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-10-source-counts-five-four-three.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "b15083d731016618cc6fd533fa5403d7fd9815e1f2474939a22621d6c87f4de5",
+      "notes": [
+        "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-11-slides-cached-before-update.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-11-slides-cached-before-update.png",
+      "dimensions": [
+        1591,
+        919
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "94b7ea9b0f35e3441d71fc619e47669f5e848c06a994f9eefc5633df1e8cd91f",
+      "notes": [
+        "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-12-slides-updated-five-four-three.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-12-slides-updated-five-four-three.png",
+      "dimensions": [
+        1591,
+        919
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "599a1e0f54159f47552f4a747804e733f2a0c788ed9b36d8d938dc1cb6f83fee",
+      "notes": [
+        "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-13-source-restored-four-four-four.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-13-source-restored-four-four-four.png",
+      "dimensions": [
+        1591,
+        919
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "a80cf36d4baf535b912c4624c71e0b384bb8209be605641796d822cae848317f",
+      "notes": [
+        "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-14-slides-restored-four-four-four.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-14-slides-restored-four-four-four.png",
+      "dimensions": [
+        1591,
+        919
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "52d7388bff47eb3de2e88be43175d71dd1adcf7d68cfd2b17c11bcbffe71c1b2",
+      "notes": [
+        "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-15-team-cost-sumif-and-total.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-15-team-cost-sumif-and-total.png",
+      "dimensions": [
+        1591,
+        919
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "a5037d742149213690a08e7ee73010044a8071904b360d27e1b9423246df38a1",
+      "notes": [
+        "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-16-team-cost-chart.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-16-team-cost-chart.png",
+      "dimensions": [
+        1591,
+        919
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "9488f1b365b898e8842b1739a7936a8fdfa284453aee8937bceb66f952893817",
+      "notes": [
+        "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-17-linked-cost-appendix.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-17-linked-cost-appendix.png",
+      "dimensions": [
+        1591,
+        919
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "7c7318a9d02a212f70af48d07020477c05d3c2c2e8a8354e995ca51012f53300",
+      "notes": [
+        "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-18-paste-unlinked-dialog.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-18-paste-unlinked-dialog.png",
+      "dimensions": [
+        1591,
+        919
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "950d8fa8f9acb1caafb678e1b6f520213c93d23a65fa72a1fbf02d3769554526",
+      "notes": [
+        "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-19-second-source-change-five-four-three.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-19-second-source-change-five-four-three.png",
+      "dimensions": [
+        1591,
+        919
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "2b2588aad2f061e0930ad00431ee611f81f5fd88160cd70a93161e5ff6cef11e",
+      "notes": [
+        "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-20-static-image-stays-four-four-four.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-20-static-image-stays-four-four-four.png",
+      "dimensions": [
+        1591,
+        919
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "3fddaf0c05300b24057e28be168c69d596c6cfee3642b15e4a62b6e6722a80cd",
+      "notes": [
+        "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-21-linked-chart-second-refresh.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-21-linked-chart-second-refresh.png",
+      "dimensions": [
+        1591,
+        919
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "b31f86745048da07d55e26d89e8aa8bd1cc10cfe266216b1d0dc5f9f5fe6f570",
+      "notes": [
+        "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-22-cost-source-unchanged.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-22-cost-source-unchanged.png",
+      "dimensions": [
+        1591,
+        919
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "dcf7a69903e028eb67f2e20fe0dbae24aace375581dcba2b8387647f5bbd6dc3",
+      "notes": [
+        "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-23-restored-chart-and-two-linked-objects.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-23-restored-chart-and-two-linked-objects.png",
+      "dimensions": [
+        1591,
+        919
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "d17925ec3e003763c7d0c069bd4431ed98084f8e7524c1dca833907200ee0518",
+      "notes": [
+        "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-24-cost-checklist-and-source-notes.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-24-cost-checklist-and-source-notes.png",
+      "dimensions": [
+        1591,
+        919
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "13a71c7099898dc85241ca58d6d50f7b148fa52077223e0540bf34485d724923",
+      "notes": [
+        "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
+      ]
+    },
+    "03-google-slides/05-linked-data/images/c03-05-25-static-comparison-final-checklist.jpg": {
+      "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-25-static-comparison-final-checklist.png",
+      "dimensions": [
+        1591,
+        919
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1530,
+          0,
+          1591,
+          60
+        ]
+      ],
+      "sha256": "fdf74a5496c05e6204fea72aaf3df288fcb18a8af703edf8cf2b3487bb15c81d",
+      "notes": [
+        "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
+      ]
     }
   },
   "missing_originals": [

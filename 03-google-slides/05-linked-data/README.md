@@ -8,7 +8,7 @@ In this chapter you will insert a linked Sheets chart, change source data and ex
 
 **Your result:** A linked status chart whose refresh behaviour has been tested and restored.
 
-> **Status:** expanded review draft, revision 0.4. Complete the casework and independent challenge as well as the guided steps. The expanded route, screenshots and timing have not yet been validated in the learner application.
+> **Status:** guided author reference run completed through 5.4 with 25 staged real-application captures and full original-size sources. COUNTIF/SUMIF formulas, both chart links, two temporary change/refresh/restore cycles and the static comparison checked. Independent challenge and learner timing remain pending.
 
 ## What You Will Learn
 
@@ -24,73 +24,147 @@ Upload [TaskRegister.xlsx](../../shared/sample-files/TaskRegister.xlsx) and save
 
 ## 5.1 Prepare the Source Chart
 
-1. In Summary B2 enter `=COUNTIF(Tasks!$F$2:$F$13,A2)` and fill through B4.
-2. Select Summary A1:B4 and insert a column chart titled `Pilot task status`.
-3. Confirm all three categories have four tasks.
+1. Use the supplied `TaskRegister.xlsx` starter. If it is already uploaded, open that original instead of uploading it again. Choose **File > Save as Google Sheets** and name the new native file **GW - Slides - Linked Data Source**. Keep earlier lab registers and the original Excel file unchanged. Confirm the new native copy has **Tasks** and **Summary**, with blank Summary count cells.
+
+![Start from the native copy with blank summary counts](./images/c03-05-01-native-source-blank-summary.jpg)
+
+2. In **Summary!B2**, enter `=COUNTIF(Tasks!$F$2:$F$13,A2)`. Keep the task range absolute and the status criterion relative.
+
+![Enter the COUNTIF formula against the twelve task rows](./images/c03-05-02-countif-formula-before-fill.jpg)
+
+3. Select **B2:B4** and use **Ctrl+D** to fill down. Confirm **Complete = 4**, **In Progress = 4**, **Not Started = 4**, totalling twelve task records. The filled formulas must refer to A2, A3 and A4 respectively.
+
+![Fill through B4 and confirm four tasks in each category](./images/c03-05-03-baseline-counts-four-each.jpg)
+
+4. Select **Summary!A1:B4**, then **Insert chart**. In **Chart editor > Setup**, choose **Column chart** if Sheets initially suggests another type. In **Customise > Chart and axis titles**, set the chart title to **Pilot task status**. Check all three status labels and the count axis. The reference uses one series and the imported workbook styling.
+
+![Choose a column chart and set Pilot task status](./images/c03-05-04-column-chart-title-and-counts.jpg)
 
 <details markdown="1">
 <summary>What should you see?</summary>
 
-The chart is based on source-linked cells and accounts for 12 tasks.
+Three formula-backed counts of four and a column chart accounting for twelve tasks. These counts describe a dataset snapshot; they do not establish pilot success.
 
 </details>
-
-<!-- VERIFY: execute 5.1 in the target account and reconcile control names. Capture images/c03-05-01.jpg only from the real app. -->
 
 ## 5.2 Insert the Linked Chart
 
-1. Copy the chart from its menu. Paste it onto Current Tasks in Slides.
-2. Choose Link to spreadsheet when prompted. Resize it without cutting off labels.
-3. In speaker notes, identify the source register and explain the status definitions.
+1. Open the chart's three-dot menu and choose **Copy chart**. Selecting the chart and pressing **Ctrl+C** is an equivalent learner action.
+
+![Use the chart menu to copy the native object](./images/c03-05-05-copy-chart-native-menu.jpg)
+
+2. Open **Current Tasks** in `GW - Slides - Sponsor Update` (now titled **The task snapshot is not a success result**). Leave text editing before pasting the chart. Keep **Link to spreadsheet** selected in **Paste chart**, then select **Paste**.
+
+![Keep Link to spreadsheet selected when pasting](./images/c03-05-06-link-to-spreadsheet-paste-dialog.jpg)
+
+3. Resize proportionally with a corner handle and move the chart beside the explanatory text. Keep the title and all category labels visible. The reference narrows the existing text placeholder to a left column and uses **12-task snapshot**, **4 tasks per status**, and **Not evidence of pilot success**; the chart supplies the three named categories. Retain the full source qualifications in notes.
+
+![Fit the linked chart beside the qualified twelve-task snapshot](./images/c03-05-07-linked-chart-and-qualified-snapshot.jpg)
+
+4. In **speaker notes**, identify **GW - Slides - Linked Data Source**, **Summary!A1:B4** and **Tasks!F2:F13**. Explain the proposed training definitions from reporting guidance v1: Not Started = work has not begun; In Progress = work has begun but the owner has not confirmed completion; Complete = the owner confirms the agreed output is ready for review. Keep the distinction between dataset status and measured pilot success.
+
+![Record source identity, definitions and the pending refresh test](./images/c03-05-08-source-definitions-and-refresh-pending.jpg)
+
+5. Verify the object is a linked chart and its source is the new native Sheet, rather than a pasted screenshot or an earlier register. **At this stage, source identity and baseline are checked; refresh is tested in 5.3.** Complete 5.3 before describing refresh as tested.
 
 <details markdown="1">
 <summary>What should you see?</summary>
 
-The slide has a linked chart rather than a pasted screenshot.
+A linked chart with readable labels and qualified commentary. The source has 4/4/4; the chart points to that same native spreadsheet and chart. Refresh behaviour remains a separate test.
 
 </details>
-
-<!-- VERIFY: execute 5.2 in the target account and reconcile control names. Capture images/c03-05-02.jpg only from the real app. -->
 
 ## 5.3 Test the Refresh
 
-1. Temporarily change T003 to Complete in Tasks and check the source counts become 5, 4 and 3.
-2. Return to Slides, select the chart and use Update. Check the category labels as well as the numbers.
-3. Restore T003 to Not Started and refresh again. Explain what happens if a viewer sees an old downloaded deck.
+1. Record T003's original status, **Not Started**, in **Tasks!F4**. Temporarily replace it with **Complete**. This is a controlled training test; no real owner confirmation is being claimed.
+
+![Record T003 original status before testing](./images/c03-05-09-t003-original-status.jpg)
+
+2. Open **Summary**. Check **Complete 5**, **In Progress 4**, **Not Started 3**. The population remains twelve.
+
+![Source counts change to five four three](./images/c03-05-10-source-counts-five-four-three.jpg)
+
+3. Return to the Current Tasks slide. Before updating, compare the cached chart with the changed source. The reference still showed 4/4/4.
+
+![Slides still shows the cached four four four chart](./images/c03-05-11-slides-cached-before-update.jpg)
+
+4. Select the linked chart and click **Update**. Check category labels as well as values. The chart should show 5/4/3. Also inspect the written summary: **4 tasks per status** does not change automatically. Treat this temporary mismatch as a repair check, not a presentation-ready result.
+
+![Update changes the chart but not the written summary](./images/c03-05-12-slides-updated-five-four-three.jpg)
+
+5. Restore **Tasks!F4** to **Not Started**. Confirm Summary returns to 4/4/4.
+
+![Restore the source counts to four each](./images/c03-05-13-source-restored-four-four-four.jpg)
+
+6. Update the Slides chart again. If the update action has not appeared, open **Linked chart options > Linked objects** and click **Refresh**, then **Update chart**. Check that the chart and written summary agree at 4/4/4. Do not infer freshness merely from a link badge.
+
+![Restore the Slides chart and original narrative](./images/c03-05-14-slides-restored-four-four-four.jpg)
+
+7. Record the change and restoration in speaker notes. Explain that a previously downloaded deck stays a snapshot: update the native chart, check surrounding commentary and export a new copy before distributing current figures.
 
 <details markdown="1">
 <summary>What should you see?</summary>
 
-The final slide shows 4/4/4 after restoration. Refresh has been tested in both directions.
+Both source and linked slide finish at 4/4/4. The test demonstrated that chart data needs an explicit update and surrounding text needs a separate check.
 
 </details>
-
-<!-- VERIFY: execute 5.3 in the target account and reconcile control names. Capture images/c03-05-03.jpg only from the real app. -->
 
 ## 5.4 Extend the Source and Audit Every Representation
 
-1. Before changing data, write a baseline log containing the 12-task counts, chart source URL and the Slides destination. Confirm all three statuses have four tasks.
+1. Before the comparison test, write a private baseline log: twelve tasks, four per status, source chart URL and Slides destination. Use the intended working copies; do not paste private account URLs into a public guide.
 
-2. Create a second summary for planned cost by team using SUMIF over Tasks B2:B13 and G2:G13. Reconcile the three teams with RM 10,400 before charting.
+2. Add a sheet named **Team Costs**. In A1:B5 enter the team labels, SUMIF formulas and total from the copy-paste page. The formulas group **Tasks!B2:B13** and sum **Tasks!G2:G13**. Check **Planning 2800**, **Procurement 4000**, **Site Coordination 3600**, **Total 10400**. Label the measure **Planned cost (RM)**; do not include the total as a fourth chart category.
 
-3. Insert the team-cost chart into a skipped evidence appendix, linked to the working spreadsheet. Add a source note distinguishing cost records from the unapproved budget proposal.
+![SUMIF reconciles planned costs to RM 10400](./images/c03-05-15-team-cost-sumif-and-total.jpg)
 
-4. Make a static pasted-image copy of the status chart on a separate skipped comparison slide. Label it **Static comparison only**.
+3. Select **Team Costs!A1:B4** and insert a **Bar chart**. Set its title to **Planned cost by team (RM)**. Check all three full team labels and the RM measure. Widen source columns if labels are clipped.
 
-5. Change T003 temporarily and compare the source, linked chart and static image. Record which destination offers an update and which remains frozen.
+![Create the team-cost chart with RM units](./images/c03-05-16-team-cost-chart.jpg)
 
-6. Restore T003 and update the linked object. Delete or clearly retain the static copy only as a labelled comparison.
+4. Copy the cost chart. In Slides add an evidence appendix titled **Appendix — Planned cost evidence**, paste with **Link to spreadsheet**, resize proportionally below the title and remove unused placeholders. Move the appendix to the end using **Slide > Move slide > Move slide to end**, and choose **Slide > Skip slide**. Add a source note: RM 10,400 is the total of supplied planned-cost records, separate from the unapproved RM 12,000 budget proposal.
 
-7. Create an evidence checklist for category labels, population, units, source identity and refresh state. Use it on both charts.
+![Insert the linked cost chart in a skipped appendix](./images/c03-05-17-linked-cost-appendix.jpg)
+
+5. Add a separate slide titled **Static comparison only**. Copy the status chart at the 4/4/4 baseline. In **Paste chart**, select **Paste unlinked**, then **Paste**. Keep all labels visible and skip this slide too.
+
+![Choose Paste unlinked for the static comparison](./images/c03-05-18-paste-unlinked-dialog.jpg)
+
+6. Temporarily change **Tasks!F4** to **Complete** again. Confirm the source becomes 5/4/3. Compare the static image before refreshing the linked chart: it remains 4/4/4 and has no chart Update action.
+
+![Repeat the source status change for the comparison](./images/c03-05-19-second-source-change-five-four-three.jpg)
+
+![Static image stays at four each without an Update control](./images/c03-05-20-static-image-stays-four-four-four.jpg)
+
+7. Update the linked status chart. Confirm 5/4/3 while the static image stays at 4/4/4. Audit the unchanged written summary separately. Check Team Costs: changing only task status should leave planned costs at 2800/4000/3600, totalling RM 10,400.
+
+![Linked chart updates to five four three](./images/c03-05-21-linked-chart-second-refresh.jpg)
+
+![Planned costs stay unchanged during the status test](./images/c03-05-22-cost-source-unchanged.jpg)
+
+8. Restore **Tasks!F4** to **Not Started**. Update the status chart, then use **Linked objects > Refresh** and update any remaining linked chart. Confirm source and status chart are back at 4/4/4 and the cost chart still matches RM 10,400. A refresh badge alone is not proof; compare actual values and labels. Retain the static image only as the clearly labelled, skipped comparison.
+
+![Restore the status chart and refresh both linked objects](./images/c03-05-23-restored-chart-and-two-linked-objects.jpg)
+
+9. In speaker notes create and apply this evidence checklist to both charts. Record the observed refresh, frozen-image behaviour and restoration. Preserve the distinction between dataset counts, proposed practice, an unapproved budget and measured pilot success.
+
+| Check | Status chart | Planned-cost chart |
+|---|---|---|
+| Category labels | Complete, In Progress, Not Started | Planning, Procurement, Site Coordination |
+| Population | 12 task records | Same 12 task records grouped into 3 teams |
+| Units | Task count | RM planned cost |
+| Source identity | Working native Sheet, Summary!A1:B4 | Same Sheet, Team Costs!A1:B4 |
+| Refresh and final state | 5/4/3 tested, restored to 4/4/4 | Refreshed; 2800/4000/3600, total 10400 |
+
+![Record cost source units and evidence checklist](./images/c03-05-24-cost-checklist-and-source-notes.jpg)
+
+![Record the completed static comparison and restoration](./images/c03-05-25-static-comparison-final-checklist.jpg)
 
 <details markdown="1">
 <summary>What should you see?</summary>
 
-Two checked linked charts and a documented static-versus-linked comparison. The result must be supported by the recorded checks; an attractive output or an AI assurance is insufficient.
+Two checked linked charts and a documented static-versus-linked comparison. Temporary status changes are restored, both linked objects are refreshed, and the static image is labelled and skipped. Independent new-row repair remains a separate learner challenge.
 
 </details>
-
-<!-- VERIFY: execute expanded section 5.4 and independent challenge; capture images/c03-05-04.jpg only after real application success. -->
 
 ## Independent Challenge
 
