@@ -18047,6 +18047,825 @@
       "notes": [
         "Actual staged learner UI; no crop/resize; avatar masked. Original input/rates/snapshot/intake retained. Known starter K1 label moved to M1 before calculation column. Actual anchor-fault evidence saved before repair on named copied tab; maintained Analysis stayed correct. Independent threshold summary/250 test/reviewer/learner timing pending."
       ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-01-separate-validation-practice-copy.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-01-separate-validation-practice-copy.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "5dfa3b6af22ec2729bc547a984695fcce28f71d2a6af78de33e7fd689d6e35c8",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-02-status-dropdown-and-reject-setting.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-02-status-dropdown-and-reject-setting.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "7f8a0b264a9a29c504aed43bc794768350f6a19ac23dacff452f499640a84c80",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-03-whole-nonnegative-custom-rule-reject.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-03-whole-nonnegative-custom-rule-reject.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "f7b77e7be4c86878906d40596f44353ed401da12732c1f2366a9038e7b779358",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-04-saved-validation-rule-coverage.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-04-saved-validation-rule-coverage.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "74eb5e2823fcde9fa732f188c9d1ac28a85a02f94956d1a3789318ea59f558f5",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-05-pending-high-conditional-format-rule.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-05-pending-high-conditional-format-rule.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "f3e60860d8560874ad94321a0438bcfbc993daa3ada9cc925a2ca3663f6b851d",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-06-baseline-no-qualifying-highlights.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-06-baseline-no-qualifying-highlights.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "64158642e2165a41f9a14fc1aa8fb4404ad00c7fb8c4531273a84587f50f3f15",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-07-invalid-status-rejected.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-07-invalid-status-rejected.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "7a7a828828f4e8352dfda7b0c54b18ed2cd8a56e2169edf9f09f68722ef4b6f9",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-08-fractional-quantity-rejected.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-08-fractional-quantity-rejected.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "3678181382c570001a21e0c1c6e1024bd4b952d11df85e0492c8ee31d195a9d0",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-09-pending-199-not-highlighted.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-09-pending-199-not-highlighted.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "6074fbb007a0f37a59d28ae049dfb9e11450e9006031c8ab97a6e406f81c5ec4",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-10-pending-200-highlighted.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-10-pending-200-highlighted.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "437a9dad741ed3a11962e0b9759ded963aa89b1034b7346f26039b4c374f1ed3",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-11-guided-values-restored.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-11-guided-values-restored.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "57803cfa6c769c9a4f53a341c74b7389a64776df6c7db3f16aacc3d98a9cd867",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-12-validation-case-expectations-before-tests.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-12-validation-case-expectations-before-tests.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "b4459ddc5c54e020cdad0887e4dbc172798060f15ab5395f4da81f4c5d003d3f",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-13-zero-quantity-accepted.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-13-zero-quantity-accepted.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "c0147724f7750f521c2e7962e0f85b7400976bfb784511915372ace859ba323c",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-14-positive-integer-accepted.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-14-positive-integer-accepted.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "a9c7c2ae90da5b1152e3d5e0cddbbfed7a14462bf717438c8cb9cf0eb187a089",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-15-negative-quantity-rejected.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-15-negative-quantity-rejected.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "f160544ebbeeb8ef34afa34b9989d3c8039f53ec70cd2c10293223026bdf9b41",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-16-fractional-quantity-rejected-in-harness.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-16-fractional-quantity-rejected-in-harness.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "cebd6a89083160a6793a5238692a272bbac290a4ee73a6481e15eb31ec020b34",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-17-text-quantity-rejected.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-17-text-quantity-rejected.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "cebd6a89083160a6793a5238692a272bbac290a4ee73a6481e15eb31ec020b34",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-18-delivered-status-accepted.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-18-delivered-status-accepted.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "021c7b858347a66c2a701b82300069e454a2962739b721d1a15e9a13c19bb97b",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-19-pending-status-accepted.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-19-pending-status-accepted.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "021c7b858347a66c2a701b82300069e454a2962739b721d1a15e9a13c19bb97b",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-20-cancelled-status-accepted.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-20-cancelled-status-accepted.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "3b3da86ecd2c99dfc9be673b5b48bade1a1fe3e951b097c5832ea11230e92b81",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-21-unknown-status-rejected.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-21-unknown-status-rejected.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "518994d5d6a664d5e2e7cfd1cb829c6fc97f92a0e0b858aad3e53b2feb3b9569",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-22-blank-clear-behavior.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-22-blank-clear-behavior.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "3ebd13d46c0b04bb29b3c0b377395d09bf36e5fa5b3482c7ccbf9e5dba118913",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-23-observed-input-validation-results.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-23-observed-input-validation-results.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "98094c80167efa4ad2de4a283ddec4e3479a359226b05339c807f0055cea4073",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-24-explicit-flag-baseline-zero.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-24-explicit-flag-baseline-zero.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "343d073f30cf7bc5725bed6861754061d2bc412ae2973a7c96a8554209a136e0",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-25-exception-matrix-expectations-before-tests.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-25-exception-matrix-expectations-before-tests.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "8cae6844675afc71e828333a3a34fc54ab60ba6024fb16df64a4d23fa0f627be",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-26-pending-199-flag-false.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-26-pending-199-flag-false.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "f9635c90e94207fdadbdae25839437c91a97b27a49d1b80345b23a76b26a6732",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-27-pending-200-flag-true.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-27-pending-200-flag-true.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "b6794e5ea5278f142307757e1e4fae1f1fe431208636c81f3eb2cecda95fdcd6",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-28-pending-201-flag-true.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-28-pending-201-flag-true.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "08b9a20b3f3047f6eb6c72dcd183f0c0712157b44145f71b4e3bff24d099c582",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-29-delivered-200-flag-false.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-29-delivered-200-flag-false.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "8a15a8f771dcbaa3b208b0ff7cdc9081f9a15cfb10fec7914e4b84c636e279b7",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-30-cancelled-200-flag-false.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-30-cancelled-200-flag-false.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "cc4bf94987e99350d9910d77acb9717cfc8399e0289e7bd596c45164552aad0e",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-31-final-source-row-positive-coverage.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-31-final-source-row-positive-coverage.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "6d94830d2439f2aa80b6588e77d83cda4f6f2d0bf60424961933095cca46d5c7",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-32-filtered-ids-match-two-highlighted-rows.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-32-filtered-ids-match-two-highlighted-rows.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "5ae12cd53366d00b74e89f304132ac8c5065a992b235b07f3f0ea3fd5941b3a4",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-33-filter-removed-and-practice-values-restored.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-33-filter-removed-and-practice-values-restored.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "33222f95bf7e30bf8dc45ad68e5ba0c881b13fa3e910607dc45a703d0b4e68a5",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-34-restored-final-row-flag-false.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-34-restored-final-row-flag-false.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "7f834cae5caf59a8ebf9bc2b95877b1d2661f3be929c1b0db3192a297d2c54c2",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-35-rule-ranges-restoration-and-limits.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-35-rule-ranges-restoration-and-limits.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "7d27c869e7ae502559bcfec4d2eb2639a18dfd577526e388e474b8a099006718",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-36-completed-input-and-exception-matrices.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-36-completed-input-and-exception-matrices.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "444571cfd330829dda05d488b7482bf9ec3f94be696adbc768c097843cad7f44",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-37-completed-five-case-exception-matrix.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-37-completed-five-case-exception-matrix.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "6b5de8e181e2f09e7ef8392ef2d3376d30585025183ae0ba9d8a1ba24fbe34dc",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-38-maintained-source-preserved.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-38-maintained-source-preserved.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "8fea1db8ae38b964260513489f215b50eafa423961a289176d4e4105a1abd48e",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
+    },
+    "05-sheets-advanced/03-validation-exceptions/images/c05-03-39-restored-validation-practice-ready.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/03-validation-exceptions/c05-03-39-restored-validation-practice-ready.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "caa23dcda61f70b216036f956cd18590103a9fd383659c4fd530bce64fac6200",
+      "notes": [
+        "Actual staged learner UI; no crop or resize; avatar masked. Separate practice tab restored to24 original records. Ten input observations include accepted blank clearing; five exception cases plus first/final-row flag/highlight/filter agreement. Maintained source unchanged. New-row independent coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending."
+      ]
     }
   },
   "missing_originals": [

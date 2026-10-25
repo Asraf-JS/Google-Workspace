@@ -1,6 +1,6 @@
 # Google Sheets Advanced
 
-**Status:** review draft, revision 0.4. Labs1–2 have67 author-reference captures through guided steps and casework, including source audit, conditional summaries, logic cases and repaired reference fault. Labs3–12 still need author execution and captures. Upload used instructor handoff; independent/human checks and timing pilots remain pending.
+**Status:** review draft, revision 0.4. Labs1–3 have106 author-reference captures through guided steps and casework, including source audit, conditional calculations and tested input/exception rules. Labs4–12 still need author execution and captures. Upload used instructor handoff; independent/human checks and timing pilots remain pending.
 
 **Duration:** 2 days. Each day has 390 teaching minutes, excluding lunch and breaks.
 
