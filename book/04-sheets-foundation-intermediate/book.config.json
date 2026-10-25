@@ -10,7 +10,7 @@
   ],
   "runningTitle": "Google Sheets Fundamental and Intermediate",
   "subtitle": "One-day course review draft",
-  "blurb": "Build a reliable fictional task register. Labs 1\u20137 include 181 captured stages covering navigation, formats, formulas, cleaning, validation, views, summaries, charts and scoped PDF output. Actual repairs, restorations, repeated headers and fixed-copy revisions are checked. Earlier import/paste limitations, final challenge and learner timing remain pending.",
+  "blurb": "Build, check and extend a fictional task register. All eight labs include 213 captured stages covering navigation, formats, formulas, cleaning, validation, views, summaries, charts, PDF output and a corrected13-record challenge. Separate baseline and scenario states are verified. Independent/human checks, learner timing and earlier import/paste limitations remain pending.",
   "coverIcons": [
     "doc",
     "check",
@@ -72,5 +72,5 @@
       "exercises": "../../04-sheets-foundation-intermediate/08-register-challenge/prompts.md"
     }
   ],
-  "backCover": "A course review draft with fictional inputs and substantial casework. Captured source controls, practice tabs, formulas, record integrity, entry rules, saved views, reconciled charts and native PDF handovers. Independent learner/reviewer validation and the final challenge remain pending."
+  "backCover": "A course review draft with fictional inputs and substantial casework. Captured source controls, range extensions, strict entry rules, reconciled charts, native PDF handovers and an operating guide. All eight labs have author references; independent learner/reviewer validation and classroom timing remain pending."
 }
