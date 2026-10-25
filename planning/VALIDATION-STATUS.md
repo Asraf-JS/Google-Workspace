@@ -189,3 +189,7 @@ Advanced Lab 1 adds30 staged application captures: manual starter-upload handoff
 ### 25 October 2026: Advanced2 conditional calculations
 
 Advanced Lab2 adds37 staged application captures: source label preserved before24 row calculations;3158/1938/1478 population totals; anchored SUMIFS and COUNTIFS grids; six-ID manual subset checks;21 expected-versus-actual cases including numeric zero and positive Pending flags; actual missing-anchor fault1478/-1680 on a named copied grid, repaired to3158/zero. Original source inputs, Rates, snapshot and Lab1 intake evidence remain intact. Independent threshold/250/restoration, reviewer and learner timing remain pending. Programme727 images; retained724sources (696application windows,6focused views,22PDF pages). Untouched routes:Advanced10,AI8.
+
+### 26 October 2026: Advanced3 validation and exceptions
+
+Advanced Lab3 adds39 staged application captures: separate restored practice copy, strict status and whole-nonnegative quantity rules, actual input rejection, ten input observations including permitted blank clearing, five exception cases, exact conditional-format/flag bounds, first/final-row positives and two matching filtered IDs. Maintained source and analysis remain unchanged. Blank completeness is not enforced by clearing; independent appended-row repair, bulk-paste/CSV numeric-text behavior, reviewer and learner timing remain pending. Programme766images; retained763sources (735application windows,6focused views,22PDF pages). Untouched routes:Advanced9,AI8.
