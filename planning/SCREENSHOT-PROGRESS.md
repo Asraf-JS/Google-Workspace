@@ -11,7 +11,7 @@ Updated 26 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 865 captures: 109 masterclass, 165 Docs, 173 Slides, 213 Foundation and205 Advanced. Thirty specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 14 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 899 captures: 109 masterclass, 165 Docs, 173 Slides, 213 Foundation and239 Advanced. Thirty-one specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 13 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -156,3 +156,7 @@ Advanced Lab5 adds36 staged application captures:24 copied-order exact lookups r
 ### 26 October 2026: Advanced6 formula clinic
 
 Advanced Lab6 adds31 staged application captures in a separate whole-workbook clinic copy. Three defects are observed/repaired; normal, missing, zero, numeric-text, duplicate-key and final-row tests are recorded. All3158/Delivered1478 and24/12 controls plus manually inspected556 reconcile after restoration. Original maintained ranges unchanged. Independent hidden-fault diagnosis, partner/reviewer and learner timing remain pending. Programme865images; retained862sources (834application windows,6focused views,22PDF pages). Untouched routes:Advanced6,AI8.
+
+### 26 October 2026: Advanced7 native pivots and coverage
+
+Advanced Lab7 adds34 staged application captures: native SUM/COUNTA pivots, Delivered-only1478 then restored3158, Custom average reconciliations, actual four-row drilldown556, and138versus342 aggregation semantics. A separate whole-workbook PO025 experiment exposes fixed-range exclusion before confirmed repair to3248/25 and Delivered1568/13. Maintained source unchanged. Independent output, reviewer/presentation and learner timing pending. Programme899images; retained896sources (868application windows,6focused views,22PDF pages). Untouched routes:Advanced5,AI8.
