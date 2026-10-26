@@ -8,7 +8,7 @@ In this chapter you will choose charts, sparklines and filter views; distinguish
 
 **Your result:** A compact source-linked dashboard with a tested update path.
 
-> **Status:** expanded review draft, revision 0.4. Complete the casework and independent challenge as well as the guided steps. The expanded route, screenshots and timing have not yet been validated in the learner application.
+> **Status:** author reference with31 staged application captures through9.4. Native column chart, weekly sparkline, distinct KPI populations and recalculating Checks are verified. Existing-row +45 and scenario-copy +90 tests were restored. Independent PO025 coverage, reviewer and learner timing remain pending.
 
 ## What You Will Learn
 
@@ -24,73 +24,137 @@ Use the checked advanced workbook with all-orders and delivered controls reconci
 
 ## 9.1 Build a Compact View
 
-1. Create a Dashboard tab. Link a small project summary to the checked analysis or create a fresh pivot from the same source.
-2. Add a chart comparing Amount by Project and label whether cancelled orders are included.
-3. Add a separate status count view with clear labels. Keep detailed source records in Orders.
+1. Create **Dashboard Data** separately from the maintained Analysis tab. Link A2:A4 to the three project labels PJ-A/PJ-B/PJ-C. In B2:B4 sum each checked Analysis project row across Delivered/Pending/Cancelled; C links Delivered and D links Pending. All project amounts are **980 /1204 /974**. Keep **Cancelled included** explicit.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![checked project summary links](./images/c05-09-01-checked-project-summary-links.jpg)
 
-The dashboard identifies the question and population behind each number.
+2. Create **Dashboard**. Set column A to220 pixels and B:H to140. Add the title and scope label. Link **A5:D8** to Dashboard Data A1:D4; this is a formula-linked view rather than copied static numbers.
 
-</details>
+![dashboard linked project view](./images/c05-09-02-dashboard-linked-project-view.jpg)
 
-<!-- VERIFY: execute 9.1 in the target account and reconcile control names. Capture images/c05-09-01.jpg only from the real app. -->
+3. Select Dashboard **A5:B8 > Insert chart**. In the Chart editor Setup, choose **Column chart**, retaining header row5 and project labels in column A. The automatic initial suggestion may be Pie; change the type explicitly.
+
+![native column chart source range](./images/c05-09-03-native-column-chart-source-range.jpg)
+
+4. Under **Customise > Chart and axis titles**, set **Amount by Project - incl. Cancelled (RM)**. Under **Series**, enable **Data labels**. The captured title uses an em dash separator; its meaning and population are the same.
+
+![chart title and data labels](./images/c05-09-04-chart-title-and-data-labels.jpg)
+
+5. Select the chart border and drag its blank upper margin to the right of the working tables. Verify all three amount labels are visible and that the chart does not cover source cells or later controls.
+
+![labelled project chart positioned](./images/c05-09-05-labelled-project-chart-positioned.jpg)
+
+6. In Dashboard Data A7:B10 create a status record-count table using **COUNTIF(Orders!$G$2:$G$25,A8)** and corresponding status labels. Link it to Dashboard F5:G8. **Delivered12 /Pending6 /Cancelled6** reconcile to24 records.
+
+![separate status count view](./images/c05-09-06-separate-status-count-view.jpg)
 
 ## 9.2 Show the Weekly Sequence
 
-1. On Analysis create week labels 1, 2, 3 and 4 and calculate Amount totals for each with SUMIFS.
-2. On Dashboard create a labelled sparkline using the four weekly result cells, for example `=SPARKLINE(Analysis!B16:E16)` after placing the totals there.
-3. Check that the sequence is chronological and its totals reconcile to all-orders Amount.
+1. Use **Dashboard Data A15:E16**, because the draft's Analysis B16:E16 cells already contain earlier work. Put numeric week labels1/2/3/4 in B15:E15. B16 is **=SUMIFS(Orders!$J$2:$J$25,Orders!$H$2:$H$25,B$15)**; fill across. The four practice-week totals are **728 /754 /850 /826**.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![numeric week sequence 728 754 850 826](./images/c05-09-07-numeric-week-sequence-728-754-850-826.jpg)
 
-The sparkline describes the four supplied practice weeks, not an invented real calendar period.
+2. Add the A18:D19 control: source SUM of Orders J2:J25 and SUM of B16:E16 both return **3158**; their difference is **0**. These weeks are numeric practice periods, not an invented calendar.
 
-</details>
+![weekly total reconciles to 3158](./images/c05-09-08-weekly-total-reconciles-to-3158.jpg)
 
-<!-- VERIFY: execute 9.2 in the target account and reconcile control names. Capture images/c05-09-02.jpg only from the real app. -->
+3. Link Dashboard B12:E13 to the week labels and amounts. Merge B15:E15 and enter **=SPARKLINE('Dashboard Data'!B16:E16)** in B15. Set row15 height40 and label the trend in A15. B16 **=SUM(B13:E13)** returns3158.
+
+![chart and chronological sparkline](./images/c05-09-09-chart-and-chronological-sparkline.jpg)
 
 ## 9.3 Test a Refresh
 
-1. Temporarily change one source quantity. Check the line amount, summary, chart and sparkline.
-2. Inspect whether a pivot has updated and whether its source still includes all rows.
-3. Restore the source quantity. Document any manual refresh step and keep filters visible or clearly named.
+1. Before changing source, record the predicted **+45** delta for PO001 Quantity **2 to3** at UnitCost45. Expected line135, PJ-A all amount1025, Week 1 amount 773, total3203 and unchanged record count24.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![predicted refresh delta 45](./images/c05-09-10-predicted-refresh-delta-45.jpg)
 
-The dashboard returns to the reconciled baseline after restoration.
+2. On maintained Orders, change **E2 to3**. Inspect the PO001 source line and its calculated **Amount135**. This is a temporary change to an existing record, not a new-row coverage test.
 
-</details>
+![temporary po001 quantity3 amount135](./images/c05-09-11-temporary-po001-quantity3-amount135.jpg)
 
-<!-- VERIFY: execute 9.3 in the target account and reconcile control names. Capture images/c05-09-03.jpg only from the real app. -->
+3. Inspect Dashboard. The project table and chart update PJ-A to **1025**; Week 1 becomes **773**, the sparkline shape changes and the weekly total becomes **3203**.
+
+![chart and week1 refresh plus45](./images/c05-09-12-chart-and-week1-refresh-plus45.jpg)
+
+4. Inspect the existing native **Pivot Review**: its all-record total also becomes3203 without a manual refresh in this captured test. Its source bounds remain the same24-record table.
+
+![native pivot refresh total3203](./images/c05-09-13-native-pivot-refresh-total3203.jpg)
+
+5. Inspect Dashboard Data's weekly totals and source comparison. Both totals are3203 and the difference remains0. Preserve the transient observation before restoration.
+
+![weekly refresh and source control](./images/c05-09-14-weekly-refresh-and-source-control.jpg)
+
+6. Restore **Orders E2 to2**, returning the line Amount to90.
+
+![source quantity restored to2](./images/c05-09-15-source-quantity-restored-to2.jpg)
+
+7. Verify Dashboard returns to PJ-A980, Week 1 = 728 and total3158; the chart and sparkline return to baseline.
+
+![chart and sparkline return to baseline](./images/c05-09-16-chart-and-sparkline-return-to-baseline.jpg)
+
+8. Confirm Pivot Review also returns to **3158**. Existing-row value refresh was automatic in this run; this does not establish automatic range extension for appended records.
+
+![pivot restored to3158](./images/c05-09-17-pivot-restored-to3158.jpg)
 
 ## 9.4 Design a Dashboard With a Visible Refresh Contract
 
-1. Write a dashboard brief specifying audience, population, units, three useful questions and the source range. Do not mix all-orders and active totals without labels.
+1. Create **Dashboard Contract** and record the audience, source **Orders A1:K25**, units RM,24-record population and practice weeks. Keep **all orders including Cancelled**, **ActiveAmount excluding Cancelled**, and **Delivered only** distinct. Predict the separate copy test before editing: Quantity2 to4 adds90, giving line180, PJ-A = 1,070, Week 1 = 818, total3248, Active2028 and Delivered1568. Count remains24.
 
-2. Add KPI cells for record count, all-orders Amount, ActiveAmount and Delivered Amount. Reconcile each to the corresponding checked analysis.
+![dashboard brief and refresh predictions](./images/c05-09-18-dashboard-brief-and-refresh-predictions.jpg)
 
-3. Show project amount comparison, status count and weekly sequence with explicit filter scope. Keep week order numeric and label it as practice week.
+2. Add Dashboard A18:B22 KPI formulas: **COUNTA(Orders!A2:A25)=24**, **SUM('Dashboard Data'!B2:B4)=3158**, **SUM(Orders!K2:K25)=1938**, and **SUM('Dashboard Data'!C2:C4)=1478**. Label each population.
 
-4. Create a visible **Checks** block comparing KPI totals with source controls and indicating any mismatch. It must recalculate from cells rather than contain typed “OK” text.
+![distinct kpi populations](./images/c05-09-19-distinct-kpi-populations.jpg)
 
-5. On a scenario copy change PO001 Quantity from its baseline to 4. Predict the amount delta and check the source line, summary, chart and weekly sequence.
+3. Add D18:E23 **Checks**. Compare count with Pivot Counts E6, all amount with source SUM J2:J25, active with Analysis C15, and Delivered with Database Analysis D10. All four differences are0. E23 uses **=IF(COUNTIF(E19:E22,0)=4,"All checks pass","Review mismatch")**; it is a recalculating result, not typed assurance.
 
-6. Restore the quantity and prove all affected values return. Record which components follow source-cell changes and which depend on range extension for new rows.
+![recalculating difference checks](./images/c05-09-20-recalculating-difference-checks.jpg)
 
-7. Prepare a refresh contract listing source bounds, pivot bounds, formula bounds, chart ranges, filter scope and snapshot/export steps.
+4. Answer the audience questions using formulas in A24:C27. Largest Delivered project is **PJ-B = 578**; total Pending Amount is **460**; largest practice week is **3 at850**. Keep the chart's all-orders comparison distinct from the Delivered ranking.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![audience answers and dashboard baseline](./images/c05-09-21-audience-answers-and-dashboard-baseline.jpg)
 
-Defined dashboard with distinct populations, units and recalculating controls. The result must be supported by the recorded checks; an attractive output or an AI assurance is insufficient.
+5. Choose **File > Make a copy**, name it **GW - Sheets Advanced - Dashboard Refresh**, and retain the default practice folder. Leave sharing and comment-copy boxes unchecked.
 
-</details>
+![scenario copy dialog](./images/c05-09-22-scenario-copy-dialog.jpg)
 
-<!-- VERIFY: execute expanded section 9.4 and independent challenge; capture images/c05-09-04.jpg only after real application success. -->
+6. Open the new workbook and inspect Dashboard before editing. It starts at the same24/3158/1938/1478 baseline and has its own source, formulas and chart.
+
+![scenario copy baseline](./images/c05-09-23-scenario-copy-baseline.jpg)
+
+7. In this **copy only**, change Orders **E2 to4**. PO001 Amount becomes **180**, a90 increase.
+
+![scenario quantity four](./images/c05-09-24-scenario-quantity-four.jpg)
+
+8. Inspect the copied dashboard: PJ-A all amount **1070**, Week1 **818**, all amount **3248**, active **2028**, Delivered **1568**, count24 and all Checks differences0. The chart label and sparkline change. Largest Delivered project changes to **PJ-A = 646**; Pending remains460 and week 3 remains largest at850.
+
+![scenario dashboard refresh](./images/c05-09-25-scenario-dashboard-refresh.jpg)
+
+9. Check the copied native Pivot Review total **3248**. Pivot Counts remains24. The copy retains its native source and pivot relationships.
+
+![scenario pivot refresh](./images/c05-09-26-scenario-pivot-refresh.jpg)
+
+10. Check copied Dashboard Data: weekly amounts **818 /754 /850 /826**, weekly sum and source amount3248, difference0.
+
+![scenario weekly refresh](./images/c05-09-27-scenario-weekly-refresh.jpg)
+
+11. Restore the copy's **Orders E2 to2**, returning line Amount90.
+
+![scenario source restored](./images/c05-09-28-scenario-source-restored.jpg)
+
+12. Confirm the copied Dashboard returns to **24 /3158 /1938 /1478**, PJ-B = 578, Pending = 460, peak week 3 at850 and four zero differences. Retain the restored copy as evidence of the controlled test.
+
+![scenario dashboard restored](./images/c05-09-29-scenario-dashboard-restored.jpg)
+
+13. Complete the visible refresh contract in both workbooks. Record source/formula/pivot bounds, **Dashboard A5:B8** chart source, **Dashboard Data B16:E16** sparkline source and no dashboard filter. Named source filter views do not filter these SUMIFS totals. Static exports or generated snapshots need regeneration and verification; no generated snapshot was tested. New records require checking every dependent range. The independent PO025 challenge below remains unperformed.
+
+![visible refresh contract](./images/c05-09-30-visible-refresh-contract.jpg)
+
+14. Finish on the maintained Dashboard and verify the reconciled baseline. Native bounded readback confirms source values/formats and earlier pivot definitions match their pre-test state. The two captured value-change tests needed no manual refresh; future row coverage and human comprehension still require separate checks.
+
+![final maintained dashboard](./images/c05-09-31-final-maintained-dashboard.jpg)
+
+> **Validation boundary:** guided9.1-9.3 and author casework9.4 were executed through learner UI, with read-only native evidence of both temporary changes and restoration. This is not an independent learner attempt. PO025 range extension, human reviewer and the planned70-minute classroom allocation remain unverified.
 
 ## Independent Challenge
 

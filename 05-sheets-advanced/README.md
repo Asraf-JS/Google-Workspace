@@ -1,6 +1,6 @@
 # Google Sheets Advanced
 
-**Status:** review draft, revision 0.4. Labs1–8 have275 author-reference captures through source audit, calculations, input rules, text/lookup repair, formula/pivot tests and reconciled database criteria. Labs9–12 still need author execution and captures. Upload used instructor handoff; independent/human checks and timing pilots remain pending.
+**Status:** review draft, revision 0.4. Labs1–9 have306 author-reference captures through source audit, calculations, input rules, text/lookup repair, formula/pivot tests reconciled database criteria and tested dashboards. Labs10–12 still need author execution and captures. Upload used instructor handoff; independent/human checks and timing pilots remain pending.
 
 **Duration:** 2 days. Each day has 390 teaching minutes, excluding lunch and breaks.
 
