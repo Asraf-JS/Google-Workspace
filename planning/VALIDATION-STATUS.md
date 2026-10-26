@@ -213,3 +213,7 @@ Advanced Lab7 adds34 staged application captures: native SUM/COUNTA pivots, Deli
 ### 26 October 2026: Advanced8 database criteria and source reconciliation
 
 Advanced Lab8 adds36 staged application captures covering DSUM/DCOUNT/DAVERAGE, actual Delivered/AND filter views, exact4/18/16IDsets, overlap1902, six type controls, unweighted20versusweighted26 and observed Statuz0/Status1478 repair. A wrong disjoint-OR mean prediction23 is investigated and corrected to352/18 using source costs. Maintained source/pivots unchanged. Independent question, reviewer and learner timing pending. Programme935images; retained932sources (904application windows,6focused views,22PDF pages). Untouched routes:Advanced4,AI8.
+
+### 26 October 2026: Advanced9 dashboard refresh
+
+Advanced Lab9 adds31 original-dimension dashboard captures: native labelled column chart, numeric weekly SUMIFS/SPARKLINE, distinct24/3158/1938/1478 KPI populations, four live zero-difference Checks, audience answers and visible refresh contract. Existing-row +45 and scenario-copy +90 tests were observed and restored. Maintained source/formats/pivot definitions unchanged. Independent PO025 coverage, reviewer and learner timing pending. Programme966images; retained963sources (935application windows,6focused views,22PDF pages). Untouched routes:Advanced3,AI8.

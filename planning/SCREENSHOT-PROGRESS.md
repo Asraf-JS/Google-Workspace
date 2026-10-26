@@ -11,7 +11,7 @@ Updated 26 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 935 captures: 109 masterclass, 165 Docs, 173 Slides, 213 Foundation and275 Advanced. Thirty-two specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 12 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 966 captures: 109 masterclass, 165 Docs, 173 Slides, 213 Foundation and306 Advanced. Thirty-three specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 11 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -164,3 +164,7 @@ Advanced Lab7 adds34 staged application captures: native SUM/COUNTA pivots, Deli
 ### 26 October 2026: Advanced8 database criteria and source reconciliation
 
 Advanced Lab8 adds36 staged application captures covering DSUM/DCOUNT/DAVERAGE, actual Delivered/AND filter views, exact4/18/16IDsets, overlap1902, six type controls, unweighted20versusweighted26 and observed Statuz0/Status1478 repair. A wrong disjoint-OR mean prediction23 is investigated and corrected to352/18 using source costs. Maintained source/pivots unchanged. Independent question, reviewer and learner timing pending. Programme935images; retained932sources (904application windows,6focused views,22PDF pages). Untouched routes:Advanced4,AI8.
+
+### 26 October 2026: Advanced9 dashboard refresh
+
+Advanced Lab9 adds31 original-dimension dashboard captures: native labelled column chart, numeric weekly SUMIFS/SPARKLINE, distinct24/3158/1938/1478 KPI populations, four live zero-difference Checks, audience answers and visible refresh contract. Existing-row +45 and scenario-copy +90 tests were observed and restored. Maintained source/formats/pivot definitions unchanged. Independent PO025 coverage, reviewer and learner timing pending. Programme966images; retained963sources (935application windows,6focused views,22PDF pages). Untouched routes:Advanced3,AI8.

@@ -22415,6 +22415,657 @@
       "notes": [
         "Final completed Delivered/AND and source comparison view, after all earlier stages. No backfill into initial stages; original dimensions retained, avatar masked."
       ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-01-checked-project-summary-links.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-01-checked-project-summary-links.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "00f73a608f60e2901efcc98f575fb201f474379a86fafa359869ae2e11884d49",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-02-dashboard-linked-project-view.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-02-dashboard-linked-project-view.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "aea158b462c8af3736675cc4114c5fe81790a09c4d88465471d70429d9e7a6ab",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-03-native-column-chart-source-range.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-03-native-column-chart-source-range.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "021dcbe05481753ac7ed26a2e46d8f38ea53b6179ec1ec8488124a6977d711fe",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-04-chart-title-and-data-labels.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-04-chart-title-and-data-labels.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "088c8aa8038493ac21c01b0ee842de87c9d20095eb37a487fa2113df97da05cc",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-05-labelled-project-chart-positioned.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-05-labelled-project-chart-positioned.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "272e66d8fc41ae3e859882d02715cacd7d443c1c024711f1ca58801055ccd1e0",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-06-separate-status-count-view.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-06-separate-status-count-view.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "061402a9f3b25f8937269a672c1325491aee0e0e65e81f5bfb7dda3a78d0292c",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-07-numeric-week-sequence-728-754-850-826.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-07-numeric-week-sequence-728-754-850-826.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "e8b24c19947b3445f85ad23a5a5f78d320b8bdbf43ab14a359aaa351edf39241",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-08-weekly-total-reconciles-to-3158.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-08-weekly-total-reconciles-to-3158.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "b13c6013f925c2f410ee27770a81dbf85c98dd0f67fd4c2509340282d111cc6b",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-09-chart-and-chronological-sparkline.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-09-chart-and-chronological-sparkline.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "fadba6971f3456e0d35cbd0d0bcc3bd5ac1cb64f947b55bc325ebde71284fef3",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-10-predicted-refresh-delta-45.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-10-predicted-refresh-delta-45.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "3aa97defa3322c6d64b05f4488f4d0e4d19d8b7cfde15435124113f4878dc643",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-11-temporary-po001-quantity3-amount135.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-11-temporary-po001-quantity3-amount135.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "5bc91b60ccaf2e16b8d67afa112add3ded8ef534f8eabe7606e8d596ce87672c",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-12-chart-and-week1-refresh-plus45.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-12-chart-and-week1-refresh-plus45.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "75f8a026a01268aa101ea095306e4f2f6634df9027018595d9df35e20a8a9877",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-13-native-pivot-refresh-total3203.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-13-native-pivot-refresh-total3203.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "e4f3eee955cb40cd5e5f38fd94dded5b5d9fbb3b68bbe8bd2200772dc7f1cc4c",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-14-weekly-refresh-and-source-control.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-14-weekly-refresh-and-source-control.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "f03cf7a60336d1c7a4df84a85bbf9e6b8fef8c6f2db2ef15b4e67ab4f9d46fb9",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-15-source-quantity-restored-to2.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-15-source-quantity-restored-to2.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "1e8b4aefa98566cc450de63620eb87d9548a46cb0277a7ed2b1649e5331b6226",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-16-chart-and-sparkline-return-to-baseline.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-16-chart-and-sparkline-return-to-baseline.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "b85a7833e7b396ec317797d446d5fd80a164e966d8ea5915bf7dc99798b0a3c5",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-17-pivot-restored-to3158.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-17-pivot-restored-to3158.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "d82741b4361f18ac955d64c0a442b49481653402e034260b1fe2b15ab20ad0d5",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-18-dashboard-brief-and-refresh-predictions.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-18-dashboard-brief-and-refresh-predictions.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "bf96b5748b935606085fae04111623042fe256f29cafaa2669561f5a0da02958",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-19-distinct-kpi-populations.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-19-distinct-kpi-populations.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "47566a7bf8fadedb10297eaed3e208f651138e2d157a5fc349c11415b5f5d661",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-20-recalculating-difference-checks.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-20-recalculating-difference-checks.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "8aa4003618e40f129013757367ad5c87d3026b3066b410334860d252d95eb079",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-21-audience-answers-and-dashboard-baseline.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-21-audience-answers-and-dashboard-baseline.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "0b74a5b979fa83376a9ecb23ef5b82c27ad3a9ee0412c3b26e498f18481a4936",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-22-scenario-copy-dialog.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-22-scenario-copy-dialog.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "89672e7f38a9a17f47f16ef6ade8bcfb69e1c54942176f0c7d9eea0e01b2d708",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-23-scenario-copy-baseline.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-23-scenario-copy-baseline.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "295fff191d1753133d80673746a355264614bef7adee2b8a4e99b122ef54f70e",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-24-scenario-quantity-four.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-24-scenario-quantity-four.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "63a2aaf66d4bda3d0b7416708c85f36d9c0f7908986ff522d9b9abdc191d4a37",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-25-scenario-dashboard-refresh.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-25-scenario-dashboard-refresh.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "f904819465007533caaa14ec2b30b8ef33bd54d38830e2ccd5ad1d6f51970f2f",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-26-scenario-pivot-refresh.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-26-scenario-pivot-refresh.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "6be089d769287f274b2fd2ca0f31092b9e18e2c43dd86872edb5cde661da54be",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-27-scenario-weekly-refresh.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-27-scenario-weekly-refresh.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "dc15b178b6732c5a9541ea38a384ac9439a13d851e0c59e7c599834e7a4b08a4",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-28-scenario-source-restored.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-28-scenario-source-restored.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "4200930e9158146c2ef9e827cd1177814cd13176e61268e48167d1d5c563adae",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-29-scenario-dashboard-restored.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-29-scenario-dashboard-restored.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "dc0ebfc277eb56f21ca082a200095541e5786138d0a4e13c89f081721b4b1d0f",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-30-visible-refresh-contract.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-30-visible-refresh-contract.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "281d7e4a49f2fb726e7dbb224f791923b3fdc21ea4cfb2519a39cca0fbf74f5c",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/09-dashboard/images/c05-09-31-final-maintained-dashboard.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/09-dashboard/c05-09-31-final-maintained-dashboard.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "15f9c2cf2134940cae948785130dba198d8da07bfc344e0e8eb1c74d6fba43ae",
+      "notes": [
+        "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
+      ]
     }
   },
   "missing_originals": [
