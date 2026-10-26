@@ -209,3 +209,7 @@ Advanced Lab6 adds31 staged application captures in a separate whole-workbook cl
 ### 26 October 2026: Advanced7 native pivots and coverage
 
 Advanced Lab7 adds34 staged application captures: native SUM/COUNTA pivots, Delivered-only1478 then restored3158, Custom average reconciliations, actual four-row drilldown556, and138versus342 aggregation semantics. A separate whole-workbook PO025 experiment exposes fixed-range exclusion before confirmed repair to3248/25 and Delivered1568/13. Maintained source unchanged. Independent output, reviewer/presentation and learner timing pending. Programme899images; retained896sources (868application windows,6focused views,22PDF pages). Untouched routes:Advanced5,AI8.
+
+### 26 October 2026: Advanced8 database criteria and source reconciliation
+
+Advanced Lab8 adds36 staged application captures covering DSUM/DCOUNT/DAVERAGE, actual Delivered/AND filter views, exact4/18/16IDsets, overlap1902, six type controls, unweighted20versusweighted26 and observed Statuz0/Status1478 repair. A wrong disjoint-OR mean prediction23 is investigated and corrected to352/18 using source costs. Maintained source/pivots unchanged. Independent question, reviewer and learner timing pending. Programme935images; retained932sources (904application windows,6focused views,22PDF pages). Untouched routes:Advanced4,AI8.
