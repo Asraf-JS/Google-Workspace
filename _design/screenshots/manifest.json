@@ -21659,6 +21659,762 @@
       "notes": [
         "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
       ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-01-visible-delivered-criteria-before-formulas.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-01-visible-delivered-criteria-before-formulas.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "dc4aa8ff4b36e0ddf06d050bfd695687488791f2098de58a3bc12d932797c086",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-02-dsum-delivered-1478.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-02-dsum-delivered-1478.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "ac89849d972c9ede14708e54166c353d46e7537248df7c139e99fa8405de48c5",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-03-delivered-source-sumif-comparison.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-03-delivered-source-sumif-comparison.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "220a75dd4bace3c7fc819773cc2a5e0386a061ef47ff3c6f457ae2846735a2f3",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-04-dcount-numeric-quantity-12.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-04-dcount-numeric-quantity-12.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "2da10bbd1058fc27b96263c6592ebafc0b29b057a12874ae8d0ab60c993b1e6e",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-05-daverage-unit-cost-23.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-05-daverage-unit-cost-23.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "7d0f4ab96ea68497f7f3f81b7e456a45760b98cdcb3c357f18335208ca9f0e3d",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-06-text-id-count-versus-numeric-count.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-06-text-id-count-versus-numeric-count.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "ac63490ede4c57a43981d80cd1f12bea95a6a92a64e46f9e02d6e27dd611dfc2",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-07-delivered-filter-view-twelve-records.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-07-delivered-filter-view-twelve-records.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "5720067a1dd61fe0e856215f9f3038f280a5308715fdbc70a30f0410a142e3b0",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-08-named-delivered-source-view.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-08-named-delivered-source-view.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "da00f2654881e98c2156726ad19d6eee83606249468c13506afd1e6c77f70ff9",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-09-same-row-and-criteria-556.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-09-same-row-and-criteria-556.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "11c253cb487973c5c73fd4ccf65044590dff18608ba9b87c2ba2e664e0658823",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-10-and-source-sumifs-agrees.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-10-and-source-sumifs-agrees.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "bc6b15282e432be7a6e30446397d049f3db2ede266610e6a969a6fcf5be280cf",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-11-three-populations-and-expectations.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-11-three-populations-and-expectations.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "7a7a83445698ef7a9b9d4dbf63614d8c24343a0303017d348a9a5a949410f252",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-12-and-three-metrics-reconcile.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-12-and-three-metrics-reconcile.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "bc0964ce64c2eed421f6aa82ec4214071f7801f0c7b2b90a6845b909645e9735",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-13-disjoint-or-three-metrics-reconcile.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-13-disjoint-or-three-metrics-reconcile.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "e666b23251793d8520d1af64b52886700911a4feb5cc70c47e8245107e84c162",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-14-overlapping-or-three-metrics-reconcile.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-14-overlapping-or-three-metrics-reconcile.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "445a334b5a7bdce95f55e0228c60effc54135301ef5c764d3cd04d8454c86310",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-15-inclusion-exclusion-1902-and-16.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-15-inclusion-exclusion-1902-and-16.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "1b5a5f1984ea013375f05ff90699e1f4c8edfb1b75a70f6413ead0434198df83",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-16-disjoint-status-sum-reconciliation.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-16-disjoint-status-sum-reconciliation.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "c861743c2ea1ed69510092b74d940677f434ec71d2d4a02912b54d483b41d350",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-17-actual-and-filter-four-source-ids.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-17-actual-and-filter-four-source-ids.png",
+      "dimensions": [
+        1888,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1808,
+          0,
+          1888,
+          65
+        ]
+      ],
+      "sha256": "94f5855d8cb426781ba4774243b6c132d50fea7ddb5c5b0f4b96c4309fbab5fc",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-18-named-and-view-four-records.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-18-named-and-view-four-records.png",
+      "dimensions": [
+        1888,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1808,
+          0,
+          1888,
+          65
+        ]
+      ],
+      "sha256": "48d39cfc1b5ad657502ad23ba1f8353d1c5f7e9eb2ba42cd469ebca4a5fa3a83",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-19-traceable-source-id-sets.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-19-traceable-source-id-sets.png",
+      "dimensions": [
+        1888,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1808,
+          0,
+          1888,
+          65
+        ]
+      ],
+      "sha256": "fdf7eb46daf6a605f093cb60a3dbefe75f5f691be8919133b567b97454b6ce12",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-20-id-counts-uniqueness-and-amounts.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-20-id-counts-uniqueness-and-amounts.png",
+      "dimensions": [
+        1888,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1808,
+          0,
+          1888,
+          65
+        ]
+      ],
+      "sha256": "829fa0ab5836b98fec0d637f96bcef4c5b3ec5c6fb54a37c7cf9350545b280db",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-21-full-population-controls-in-view.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-21-full-population-controls-in-view.png",
+      "dimensions": [
+        1888,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1808,
+          0,
+          1888,
+          65
+        ]
+      ],
+      "sha256": "b0d4ee621205a62f7091abdade9775c3562d3749d191d400d7d8f41d7d7b9142",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-22-numeric-text-blank-expectations.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-22-numeric-text-blank-expectations.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "b1866885e12dfd74321d125f8d31dbb2167dd4bbad3748ac5d0b46bce7c6d6e8",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-23-type-sensitive-counts-and-mean.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-23-type-sensitive-counts-and-mean.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "dcadc45dac5ffa494c467614b9012a8bfe29a5be67c2a727e0ad9c5000e4a7ae",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-24-six-type-controls-all-zero-differences.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-24-six-type-controls-all-zero-differences.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "59e6be1b6cad5fb82c43918d72962357d5d671f4fceda66cd0d82384f68d2f5a",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-25-correct-header-control-1478.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-25-correct-header-control-1478.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "92410306488d74228b46da7c08602ea48c32e79e6c3ea799114762df8ff1f06b",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-26-misspelled-criteria-header-observation.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-26-misspelled-criteria-header-observation.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "71d2716e349f9aab44f0667d90305aa70ce31ce7aa113ed06a8c5759071cadba",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-27-exact-header-restores-1478.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-27-exact-header-restores-1478.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "cfc02844a7a24d76b73c39f9a7b2a455e3e611c8c5adc70b8b187cc27f085447",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-28-explicit-weighted-cost-inputs.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-28-explicit-weighted-cost-inputs.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "350a25e4921e6f8ed6e713ec0dd054842c1999fa0686e0571ba1fe4337406445",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-29-weighted-26-versus-unweighted-20.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-29-weighted-26-versus-unweighted-20.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "1f6f4d1e87defad7104efd3d1d2ebf679d8fc0d6aebf21703d9fd5e6a837b42f",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-30-database-analysis-handover.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-30-database-analysis-handover.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "5f87bc2b068108095363f03750413c1f4ae5607fadc2f9749ceff6ea2c3a7b31",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-31-three-criteria-blocks-before-audit-repair.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-31-three-criteria-blocks-before-audit-repair.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "267df5b50469557d53ca3eb31c67df44f2eff15d123d6ff2da82cdb50cb5fd66",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-32-unfiltered-maintained-source-3158.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-32-unfiltered-maintained-source-3158.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "3c19a20b0c6df1f73e3949751aa96e9b2095f6933a8979443159cc426f9a99d6",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-33-disjoint-mean-prediction-investigation.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-33-disjoint-mean-prediction-investigation.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "df79220a7f2f9581a5cf4f0082236dc0f6e3192f9b3f4e1728fd31bd21d8790b",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-34-corrected-disjoint-mean-controls.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-34-corrected-disjoint-mean-controls.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "695561356bb3ea99294d0627b599f3590062da6fbf4633e799275340db31dd83",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-35-final-handover-with-mean-reconciliation.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-35-final-handover-with-mean-reconciliation.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "1f84136e6a843cb997e5ac27f36fdab0ca50c794ef245262b2aa3a355ad801bc",
+      "notes": [
+        "Actual staged database-function learner UI; no crop or resize, avatar masked. Maintained source/pivots unchanged. An initial disjoint-OR mean prediction23 is retained as historical mismatch and corrected to352/18 through source reconciliation. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/08-database-functions/images/c05-08-36-final-delivered-and-sumifs-controls.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/08-database-functions/c05-08-36-final-delivered-and-sumifs-controls.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "f8b54e2a1ca212aa55bdaac653376cddb34f7c40d59012a2682401b67cf4eb8d",
+      "notes": [
+        "Final completed Delivered/AND and source comparison view, after all earlier stages. No backfill into initial stages; original dimensions retained, avatar masked."
+      ]
     }
   },
   "missing_originals": [
