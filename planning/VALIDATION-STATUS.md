@@ -201,3 +201,7 @@ Advanced Lab4 adds32 staged application captures through guided text extraction,
 ### 26 October 2026: Advanced5 exact lookups and error repair
 
 Advanced Lab5 adds36 staged application captures:24 copied-order exact lookups reconcile, nine known/missing/blank/padded-key cases match expectations, duplicate-count2 blocks first-match acceptance, descending copy returns exact30 versus omitted-mode45, and actual NA/NAME/REF errors are compared before function/range repair. Maintained source and earlier Analysis are unchanged. Independent output, zero-rate/column-move diagnosis, reviewer and learner timing remain pending. Programme834images; retained831sources (803application windows,6focused views,22PDF pages). Untouched routes:Advanced7,AI8.
+
+### 26 October 2026: Advanced6 formula clinic
+
+Advanced Lab6 adds31 staged application captures in a separate whole-workbook clinic copy. Three defects are observed/repaired; normal, missing, zero, numeric-text, duplicate-key and final-row tests are recorded. All3158/Delivered1478 and24/12 controls plus manually inspected556 reconcile after restoration. Original maintained ranges unchanged. Independent hidden-fault diagnosis, partner/reviewer and learner timing remain pending. Programme865images; retained862sources (834application windows,6focused views,22PDF pages). Untouched routes:Advanced6,AI8.
