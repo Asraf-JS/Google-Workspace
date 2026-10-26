@@ -20945,6 +20945,720 @@
       "notes": [
         "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
       ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-01-pivot-source-range-dialog.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-01-pivot-source-range-dialog.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "203b77505f5c70978ecaa609510b41cb303b2dfe8aa880ec14c1dd06f81ab122",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-02-empty-native-pivot-review.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-02-empty-native-pivot-review.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "dc759d606b74198475ff6c0a34ba8fe6db1cf322318f7009acfc3710426f4b99",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-03-project-rows-added.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-03-project-rows-added.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "38c26c4b597e563b525befe806d4f573ab26bc051cea3ecc6cf85d5000e6fbe5",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-04-status-columns-added.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-04-status-columns-added.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "86ad05b24525c8c662dbc747bfaf342e0e498541a20eda782c5621edc7e6fa0d",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-05-native-sum-pivot-3158.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-05-native-sum-pivot-3158.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "f72bfa1777a9fc63774972c041efb37cb2fa0415da56eef9cfa6e2b501263629",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-06-delivered-pivot-total-1478.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-06-delivered-pivot-total-1478.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "c61bf9ced024103199081edc67f664e5623a810f310fc315e8126a186b752632",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-07-delivered-formula-comparison.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-07-delivered-formula-comparison.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "207c3f45e7269512ff2bdd16d88c365332b53d9e887203ab2f6c499bbea5f5b9",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-08-filter-removed-total-restored.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-08-filter-removed-total-restored.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "0129ec8c5958127f4e58d5e184ab5b08a13718c250b7f45045d7e5a68c6acd3a",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-09-project-sum-practice-pivot.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-09-project-sum-practice-pivot.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "f883a21c6acf18d64ff6a635993b9df734b938f1c1bcb714ad47216e92610a34",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-10-average-calculated-field-dialog.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-10-average-calculated-field-dialog.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "592d3a616cf33c90301fe227a4e91d94ec666703a63c69163e09fa25803163ac",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-11-average-calculated-field-native-result.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-11-average-calculated-field-native-result.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "50a299c338b001aa947f3873719b03195fd2ed86048adbb8fe88acb93833ba2f",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-12-readable-average-line-amount.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-12-readable-average-line-amount.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "baac913867fb672bae5b61e381b132657e703efeab0490b0a6c3fb4c07bd2000",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-13-average-expectations-before-checks.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-13-average-expectations-before-checks.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "977907cf25c997821badac6dbf13eb41abb21b8f0b4eebac84188455c4859e9b",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-14-average-source-pivot-reconciled.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-14-average-source-pivot-reconciled.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "cfcdf8be7a42e5fe8116b4f7e3f5cd01dbd54b030499e13d97079bacc4f894ca",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-15-native-count-pivot-24.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-15-native-count-pivot-24.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "87e9a2448fff8fd83fbc5f75daa81e3da4ecd163c6ae0bc02398509d9cad4e85",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-16-countifs-and-pivot-counts-reconcile.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-16-countifs-and-pivot-counts-reconcile.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "8a239d5a3c45c30148e2961ec57e85062d2625b21063ad3db455056aaee5bb38",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-17-actual-drilldown-four-contributors.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-17-actual-drilldown-four-contributors.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "9a95aebcbdb09119822cba051533c9ecbeadb0aaad893f34fd4d5dcb73ee8e75",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-18-manual-contributor-expectations.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-18-manual-contributor-expectations.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "7ace3495c94ab8d16255cbd165014029a0099863d37f169309247e3bde418135",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-19-drilldown-manual-reconciliation-556.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-19-drilldown-manual-reconciliation-556.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "215f1a3c3540aa52e2c5d6cee3b6ca1afa30b67faef44a7eb493b4cb0ec893e3",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-20-aggregation-trap-138-versus-342.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-20-aggregation-trap-138-versus-342.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "e7790b665ea06736378cf62084e13b7f4ca8732fe9db43706e5c4ccda68f556d",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-21-separate-coverage-copy-dialog.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-21-separate-coverage-copy-dialog.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "216e355b969467c600753de36f22d28030eb0e33c861db4148d5f7f89dec907f",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-22-coverage-workbook-before-new-row.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-22-coverage-workbook-before-new-row.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "11fb82886519799b0c62fde712c788d9b1a49eb237f2221b0916d63452e5f7d3",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-23-po025-source-row-outside-fixed-range.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-23-po025-source-row-outside-fixed-range.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "bf221ce44d03142639175a02b6f8058c4e42322b2033c9bc3beb223c2cfba3d3",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-24-fixed-amount-pivot-still-3158.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-24-fixed-amount-pivot-still-3158.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "c0d62d6418d46adc2c969787deb42169101781fbc6736c7c577262689dad1380",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-25-fixed-count-pivot-still-24.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-25-fixed-count-pivot-still-24.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "da152cc1e8aebc5437c19c1626d4cbadccec159f9bd317d9741de2295820ce46",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-26-typed-range-not-yet-applied.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-26-typed-range-not-yet-applied.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "2242d0066fe484cfcf853ac69c603effac7ecb8fa1f826ca24e8e4ac68dc1f43",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-27-amount-range-extended-to-3248.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-27-amount-range-extended-to-3248.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "92b644be2f58d1fa29c39ccd3fa67bdde04da6c71d81617784d3d9849c611b67",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-28-count-range-confirmed-25.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-28-count-range-confirmed-25.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "90d8dcd177b1aecb4613ca0044d773cd660889cdfa0736ba81b831d8e76cd372",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-29-source-summary-repaired-to-3248.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-29-source-summary-repaired-to-3248.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "8b213abc74aabc98068aec7b892be798caaa527b7ef03bee501ee8a24baabb03",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-30-expanded-formulas-and-pivots-reconciled.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-30-expanded-formulas-and-pivots-reconciled.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "6405878fdc5233bbe770d2c846a769e12062f9ecf5550bdd6a9cfba05e8ce0c7",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-31-isolated-expanded-coverage-controls.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-31-isolated-expanded-coverage-controls.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "ed577df463dc38cf6207956e745a289154672a5bb25ca8d3d0026c7d72fb30a6",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-32-pivot-analysis-handover.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-32-pivot-analysis-handover.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "d4710ce42e1057c63b053876f468737dbfcea02477a480055ed2d965b71ed901",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-33-baseline-amount-pivot-unchanged.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-33-baseline-amount-pivot-unchanged.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "bb3e826f6dd8a1bb8a67f464a35eb0c9cf7105f98db9031b3ba0bbc32001683b",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
+    },
+    "05-sheets-advanced/07-pivot-tables/images/c05-07-34-baseline-count-pivot-unchanged.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/07-pivot-tables/c05-07-34-baseline-count-pivot-unchanged.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "71b812585ecc52c35466e4e11b00b4972b675afcc22e1359afabc96a119b9961",
+      "notes": [
+        "Actual staged native pivot learner UI. No crop or resize; avatar masked. Maintained source unchanged. PO025 only on separate whole-workbook copy. Independent learner/reviewer and classroom timing pending."
+      ]
     }
   },
   "missing_originals": [

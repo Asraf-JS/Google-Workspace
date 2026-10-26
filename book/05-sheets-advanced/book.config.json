@@ -9,7 +9,7 @@
   ],
   "runningTitle": "Google Sheets Advanced",
   "subtitle": "Two-day course review draft",
-  "blurb": "Analyse a fictional procurement register. Labs1\u20136 include205 captured stages covering source audit, conditional calculations, input rules, text checks, exact lookup tests and the formula clinic. Three defects and normal/boundary tests are observed with source restoration. Labs7\u201312, independent/reviewer work and learner timing remain pending.",
+  "blurb": "Analyse a fictional procurement register. Labs1\u20137 include239 captured stages covering source audit, calculations, input rules, text/lookup repair, formula faults and native pivot semantics. SUM/COUNTA, Custom average, actual drilldown and a separate new-row coverage experiment reconcile to source. Labs8\u201312, independent/reviewer work and learner timing remain pending.",
   "coverIcons": [
     "doc",
     "check",
