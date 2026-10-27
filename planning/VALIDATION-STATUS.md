@@ -225,3 +225,7 @@ Advanced Lab10 adds 41 original-dimension captures of native Gemini proposals/fi
 ### 27 October 2026: Advanced11 analysis capstone
 
 Advanced Lab11 adds32 original-dimension captures of a source-traceable capstone: three-question specification, native pivot/ID reconciliation, genuine zero and inclusive boundary, first-match conflict45→99 with guarded disposition, baseline executive/audit and separate PO025 ranking/week scenario. Source and baseline preserved; independent challenge, human review, spoken delivery and learner timing pending. Programme1,039 images; retained1,036 sources (1,008application windows,6focused views,22PDF pages). Untouched routes:Advanced1,AI8.
+
+### 27 October 2026: Advanced12 review and handover
+
+Advanced Lab12 adds37 original-dimension captures of baseline recovery, runbook/range inventory, a whole-workbook PO025 refresh through conditional/database/weekly calculations and committed native pivots, chart/sparkline checks, unresolved IT99 disposition, repaired handover instructions, fixed snapshot and release manifest. Recovery source preserved; independent PO026, human review, spoken delivery and learner timing pending. Programme1,076 images; retained1,073 sources (1,045application windows,6focused views,22PDF pages). Untouched routes:AI8. All12 Advanced guided author routes now have references; classroom/independent limitations remain.

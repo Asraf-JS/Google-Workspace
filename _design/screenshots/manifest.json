@@ -24599,6 +24599,783 @@
       "notes": [
         "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
       ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-01-baseline-source-unfiltered.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-01-baseline-source-unfiltered.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "0371be4ef3dd7d7318800c250c0a9a9998698efbfb15f3ab1ca71cc07d24c6c0",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-02-named-filter-views-inactive.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-02-named-filter-views-inactive.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "b00c026ff79795ec31c7f6f672c962c9424b89e31496c64cdd7f8e4da4cc3932",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-03-baseline-dashboard-controls.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-03-baseline-dashboard-controls.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "c03916f9295a3a8926d3013e8886722f9cd939f53ccc83203374957aeb611308",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-04-isolated-handover-baseline-copy.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-04-isolated-handover-baseline-copy.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "0d0e75d7149447a8ac6043a6b4e8fd971ac03fc48f3923b08b84085ff28cdf32",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-05-runbook-before-extension.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-05-runbook-before-extension.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "440d4baec432dff5636508e823e0cf851902509126b3a8eb3bd2ed0d3491f5df",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-06-range-inventory-before-test.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-06-range-inventory-before-test.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "5e4a5a5735ee9515b7537904200f903654525e891e92ad5544b1fd43a61333fd",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-07-whole-workbook-extension-copy.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-07-whole-workbook-extension-copy.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "d57c59276201cf08fef7c963f9e2ff3a34b8dd3d613e14a9197b0181f6874569",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-08-controls-and-predictions-before-append.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-08-controls-and-predictions-before-append.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "2a0673c6e9cfd01bdeab1777db9057c88c037fcc5683e4d411116800d04e232a",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-09-po025-entered-in-extension-only.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-09-po025-entered-in-extension-only.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "53921fb3e69d24eb6fdd0bb28ff3afcad31952333cde34efdfa5740366710030",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-10-new-line-formulas-and-old-source-totals.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-10-new-line-formulas-and-old-source-totals.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "6537eaac4a71759ac12347742f7e949defbe999ff71a5d602e41af40df206193",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-11-stale-dashboard-before-range-update.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-11-stale-dashboard-before-range-update.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "787e4a149b6bc3bbcdc5b6bd6c70f6e6bb85fe8b16bbaf3e054069656e6c9b1c",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-12-extended-source-and-conditional-analysis.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-12-extended-source-and-conditional-analysis.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "b733c034c5fff3cef9e2d4c9857fcf1d0be0daee8fcebca34e5bb88489ef0857",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-13-database-rectangle-includes-new-row.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-13-database-rectangle-includes-new-row.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "6d049af6442e77db7342acce9d4cbb633ed655dfa4299656622643e1e98a189a",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-14-status-and-weekly-summary-refresh.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-14-status-and-weekly-summary-refresh.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "1281e67b278b2c615582fb667ef2db8a1aeee60c131f13454f4a70e6429b4290",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-15-dashboard-exposes-unextended-count-pivot.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-15-dashboard-exposes-unextended-count-pivot.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "3fc6666ad4e91a791f7d8b0e8472f2609e5782f240e41ced6a35c8a7047f8640",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-16-amount-pivot-old-source-range.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-16-amount-pivot-old-source-range.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "d1948de6dce18f4a2f7bc66add6d4e3e5239294a42a8ab72f1b2e62b5a946038",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-18-count-pivot-old-source-range.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-18-count-pivot-old-source-range.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "b01f000b470c607f86b27c3b0a61aed15460b61774db95bf7ebe4e990c1e0381",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-21-count-pivot-range-picker-confirmation.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-21-count-pivot-range-picker-confirmation.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "0c4d86439b98be9e699d3e3c1726db98128a75bd30f6debc8e0c708f8cf38a3c",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-22-count-pivot-committed-25-records.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-22-count-pivot-committed-25-records.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "da01c17d1d42eb79e92185ddce887dceaa5619d45ba42a7cc310176f432d88f3",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-23-amount-pivot-range-picker-confirmation.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-23-amount-pivot-range-picker-confirmation.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "ed8de8691697e60b190dd4104625a016e2e6ca106ce34a5cf87b3eb80f013711",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-24-amount-pivot-committed-3248-total.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-24-amount-pivot-committed-3248-total.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "4240f02daa0207998bc1e100f21e32cf8513b0e55df1997d9cdc707a24e8bbdf",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-25-verified-extension-dashboard.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-25-verified-extension-dashboard.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "13e15c6008be5f9abb4c20104c076b16e80a3cd79cf090544ddaebb1be1daca6",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-26-chart-fixed-summary-source-verified.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-26-chart-fixed-summary-source-verified.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "c85c25b340d3cff9934ec7eab0e91aa7ecf9aa67a2405ae9acf58c852b55f550",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-27-extension-controls-and-independent-reconciliation.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-27-extension-controls-and-independent-reconciliation.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "e74ed46d98c55005c8bd697c070ea1ca695f89106c97778cc305fa0427f43e1e",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-28-key-route-inputs-before-lookup.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-28-key-route-inputs-before-lookup.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "1908ab0c46ce366e323ad19e531012bba011047f373b4daefb4764d207d48e76",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-29-unmapped-key-visible-unresolved.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-29-unmapped-key-visible-unresolved.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "d37344b3daab38af8c0109ee08cf3050846ed2e5dbe6d2fa371bdc438b4167a0",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-30-handover-issues-and-range-confirmation-repair.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-30-handover-issues-and-range-confirmation-repair.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "6b4d832b347a64098666ac959941cb0ff7daf56fc1b28f8173db82d002898856",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-31-revised-runbook-explicit-pivot-confirmation.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-31-revised-runbook-explicit-pivot-confirmation.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "765b34b45e4c4a7ea5ac85d4f836baeeb8f9df0285a31b278a2766e2ed105601",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-32-runbook-repair-wrapped-and-readable.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-32-runbook-repair-wrapped-and-readable.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "a966072cfe6d44040a00906a70c3be00004541cf74c604458164ba6372cca416",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-33-baseline-runbook-updated-source-preserved.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-33-baseline-runbook-updated-source-preserved.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "9d13babb7be2d0411f57bf7be9aeb5c8a107b70fabfb8b65c1c170100e3acbe1",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-34-labelled-fixed-release-summary.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-34-labelled-fixed-release-summary.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "79faed5a34b6dad5f0a8b4d8b365f24625707138399d2262982c56c60e00a346",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-35-release-manifest-roles-and-open-issue.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-35-release-manifest-roles-and-open-issue.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "d4b76cbb2f56f838879df218749ff699a30a0bfbf75a18eba71ad38c57770ea1",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-36-recovery-baseline-still-24-orders.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-36-recovery-baseline-still-24-orders.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "151e6274cbf77779d190cdce2e5727a0f26fc182d7ba241f01fb8dfacb04aef2",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-37-fresh-view-runbook-read-through.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-37-fresh-view-runbook-read-through.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "6a69c12678a49f17411546b8ac673e2a5a9d08456874b202fd473e65884c9ed2",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-38-runbook-source-check-in-fresh-view.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-38-runbook-source-check-in-fresh-view.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "61efa4a257aa8fc802b19df07005d06b7acbfb47705ff49b851517ffd44c3bb8",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-39-runbook-unmapped-key-explanation-check.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-39-runbook-unmapped-key-explanation-check.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "82e9db1e7e1847745e20aecb2c134aa8b294b1dce36d922b8a36767ca1acdff7",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
+    },
+    "05-sheets-advanced/12-handover/images/c05-12-40-final-fixed-summary-with-live-checks.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/12-handover/c05-12-40-final-fixed-summary-with-live-checks.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "2519ea70c50cebda72b03b292e09b1e06e74a90cbfdd792efeaeffd60e4914a1",
+      "notes": [
+        "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
+      ]
     }
   },
   "missing_originals": [
