@@ -23066,6 +23066,867 @@
       "notes": [
         "Actual staged dashboard learner UI; original dimensions, no crop or resize, avatar masked. Existing-row +45 and copy +90 refresh tests restored. Independent PO025 extension, reviewer and classroom timing pending."
       ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-01-gemini-available.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-01-gemini-available.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "8fed73846b8da8d9f6f9f4ba251f16bf853460257b48fb6b6141fb617786a23b",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-02-isolated-ai-audit-copy.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-02-isolated-ai-audit-copy.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "a117a4260ac0e8c6a7bd60b738408f9e70d0ace294f992d148ed8539e7966079",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-03-bounded-formula-prompt.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-03-bounded-formula-prompt.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "6bbe772432cb966067e801e747a4e3e562e5ea5053b341879ad07a26e0f146d1",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-04-gemini-sumif-proposal.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-04-gemini-sumif-proposal.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "37d1048c409d5c53a9a47b13dfde3a79458c4f6eabf212ffae7a66fd79004480",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-05-proposal-tested-against-controls.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-05-proposal-tested-against-controls.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "8806f990994aa317200765a3781eb9a158fe27be8221ae9862a2e516645a0a3f",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-06-two-findings-grounding-prompt.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-06-two-findings-grounding-prompt.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "27cd104ed7caa2189c5b128f883b6882dcffdeb1a6d6f70c4cf98eafdf96d213",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-07-gemini-incomplete-findings-response.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-07-gemini-incomplete-findings-response.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "f3bc0f32f116bbf9b80ca7556d0d330ac88e919a4567cfc59ff2a98077d957b9",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-08-first-finding-populations-and-totals.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-08-first-finding-populations-and-totals.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "f36eec2419cf22264882a6a6b5ec390ee7ad788e475d0e1d7d50c8bf96c260eb",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-09-delivered-project-finding.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-09-delivered-project-finding.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "1114bbf8b7b5c53bd3cd69138367d72e844c895a84088681fb01bf31af956ccb",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-10-findings-traced-to-cells.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-10-findings-traced-to-cells.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "d9dcf7fdf9e743a6853a911e3f1ab93c649ccdcc6266f92ba7fc6e44d1469a82",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-11-generated-chart-request.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-11-generated-chart-request.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "ace8d3737a4bf5b0358f061328a4a555411f6d98da315150421b0660d9eb472f",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-12-generated-chart-preview-and-claim.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-12-generated-chart-preview-and-claim.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "9b80ff7cff268ea9b535f4b25abc85275207a7290550a67bcbf5607fc8e8ebbb",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-13-preview-before-insertion.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-13-preview-before-insertion.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "fcf41a1ff99a1e340aaf0e2497ea6613cdea8808b9c899942a4d64d2dbdf3e77",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-14-generated-chart-created-new-source-tab.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-14-generated-chart-created-new-source-tab.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "eccddaf142cd7071201507148abf9c4256fd527cba16598487a0c0ea85f87f01",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-15-actual-generated-chart-range.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-15-actual-generated-chart-range.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "df7d6477fc25bdecf0279baafe18a81fd4be9dc40cec6540fc047e85e3a3d409",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-16-visual-refresh-predictions.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-16-visual-refresh-predictions.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "68c5e6112af76f493e2fde0ef1a38e94345a9f6000a94117bf2965c2addbfeb8",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-17-source-quantity-three.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-17-source-quantity-three.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "6d4b0b4ca856737cd59759fdb8b1927906dbcaa905dad782dc01b6979873a445",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-18-linked-dashboard-refreshes.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-18-linked-dashboard-refreshes.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "d84d536e7cbe5aa814283df9b74fd6d2e843a7c9e9957cce57b1ae45a5d1ee37",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-19-generated-snapshot-stays-stale.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-19-generated-snapshot-stays-stale.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "33c1fd3fc726ff25cf3ddd4d9fcd6f2870ec6d58341789706bea48410fff6d9a",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-20-source-restored.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-20-source-restored.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "4b57f5cbc392ecab85aeb34fe3ca7f17a736704eb2ff3e348dffd0e5c6d6c347",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-21-live-dashboard-restored.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-21-live-dashboard-restored.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "dd180499b1121e257cbad23130ae435722f00c41419f32c63971345233a3e716",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-22-snapshot-labelled-after-test.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-22-snapshot-labelled-after-test.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "8087bf938ee595fd90f779ea0342261b1f15a467061d474112c5a7e2390ad450",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-23-visual-refresh-audit-result.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-23-visual-refresh-audit-result.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "edc69e186e2b3775378145b8ef0ab12153ab5148c4d981d58aef208d76a7c484",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-24-prewritten-proposal-test-matrix.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-24-prewritten-proposal-test-matrix.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "d2dad96fefabc508397c90f2af57a0c8edb84ead23bbd0516080a72903bde51f",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-25-pending-threshold-formula-prompt.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-25-pending-threshold-formula-prompt.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "6063f5e1681858e13ae4f999a48eb2699ef6d5f0b9c662de3a6fd296092f36ac",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-26-gemini-fixed-threshold-formulas.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-26-gemini-fixed-threshold-formulas.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "59e5839ca91f647f49cc0b3e4d3ee37be317e9465c1ab8aa83b7c620e5f456d1",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-27-threshold-proposals-tested-on-source.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-27-threshold-proposals-tested-on-source.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "a351d378963966bd1217acb58e6d06778745aca36a7f0642f30e842c916eac27",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-28-six-pending-records-manually-traced.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-28-six-pending-records-manually-traced.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "ca96b8047eb9db68c12e4a4a7685ee084ca595c5eca2abb33ae041665fc781fe",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-29-isolated-boundary-inputs.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-29-isolated-boundary-inputs.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "a235936bc93383908cda1adada9f892b6b048a99d893ca403318daadf77da399",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-30-exact-threshold-versus-greater-than.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-30-exact-threshold-versus-greater-than.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "791b3bd2bdf201a8288b53e2df361a7cc93b7b0386ae7b498337b91447b87168",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-31-formula-copy-before-fill.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-31-formula-copy-before-fill.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "b2e8d1d62c9fe042e13d5caa9e353712c0b41f3111dc852869197529f824de9c",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-32-copied-reference-drift-exposed.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-32-copied-reference-drift-exposed.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "540c372d809d0fd736e766286052a352bc326f6eb33ccdcc3e914735b8284eb4",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-33-supplied-flaws-executed-and-rejected.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-33-supplied-flaws-executed-and-rejected.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "ba6286ac96ada381a4b58439e3583d14eaa64d8389f89ce35d833038f1138fde",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-34-original-and-corrected-formulas.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-34-original-and-corrected-formulas.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "731f4cf980923064bfb90e498f0727e295cf3f78559b8bb64ef1f0974a4634a4",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-35-isolated-orders-copy-before-extension.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-35-isolated-orders-copy-before-extension.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "622f077e85fc68313b1a45a68b301406d6631c2434e7a9224e9493345bea0760",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-36-coverage-controls-before-new-row.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-36-coverage-controls-before-new-row.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "5b8faa33952d4d56490e47b5559c108ac674058e241814a5a2ce0a4270d205c2",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-37-new-record-outside-original-bounds.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-37-new-record-outside-original-bounds.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "43a4d5c27259aed9e8c403a7ede54e62cd55a5387d7b319a4552da397b729a76",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-38-original-bounds-omit-new-record.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-38-original-bounds-omit-new-record.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "d419a8d609a7e7de4cf87e50969f3365e3eae36305c32141ac68f67b23cadcbc",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-39-expanded-range-repairs-coverage.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-39-expanded-range-repairs-coverage.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "b7fbf01f821b52d991a8d3d4e58930f54f1674fc6191119209b6d0fb2a9fc218",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-40-proposal-audit-handover.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-40-proposal-audit-handover.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "3be0c4d55c252d0055598b50a796be9f2b92d742bd0cb2a1bb3c209398e4d3a6",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
+    },
+    "05-sheets-advanced/10-gemini-analysis/images/c05-10-41-final-source-grounded-findings.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/10-gemini-analysis/c05-10-41-final-source-grounded-findings.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "18d6762fed406856ab8d58b0b0231100465f51c49e1ad4246bffc88c069866e2",
+      "notes": [
+        "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
+      ]
     }
   },
   "missing_originals": [

@@ -11,7 +11,7 @@ Updated 26 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 966 captures: 109 masterclass, 165 Docs, 173 Slides, 213 Foundation and306 Advanced. Thirty-three specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 11 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 1,007 captures: 109 masterclass, 165 Docs, 173 Slides, 213 Foundation and347 Advanced. Thirty-four specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 10 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -168,3 +168,7 @@ Advanced Lab8 adds36 staged application captures covering DSUM/DCOUNT/DAVERAGE, 
 ### 26 October 2026: Advanced9 dashboard refresh
 
 Advanced Lab9 adds31 original-dimension dashboard captures: native labelled column chart, numeric weekly SUMIFS/SPARKLINE, distinct24/3158/1938/1478 KPI populations, four live zero-difference Checks, audience answers and visible refresh contract. Existing-row +45 and scenario-copy +90 tests were observed and restored. Maintained source/formats/pivot definitions unchanged. Independent PO025 coverage, reviewer and learner timing pending. Programme966images; retained963sources (935application windows,6focused views,22PDF pages). Untouched routes:Advanced3,AI8.
+
+### 27 October 2026: Advanced10 native Gemini proposal audit
+
+Advanced Lab10 adds 41 original-dimension captures of native Gemini proposals/findings, a generated chart whose direct-link claim was disproved by source-change testing, exact threshold and Fill-down cases, supplied flawed formulas beside manual repairs, and an isolated TEST025 new-row coverage check. Source and earlier dashboard/pivots restored; snapshot labelled. Independent PO025 pivot/chart coverage, reviewer and learner timing pending. Programme1,007 images; retained1,004 sources (976application windows,6focused views,22PDF pages). Untouched routes:Advanced2,AI8.
