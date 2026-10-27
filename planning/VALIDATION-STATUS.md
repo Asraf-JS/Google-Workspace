@@ -221,3 +221,7 @@ Advanced Lab9 adds31 original-dimension dashboard captures: native labelled colu
 ### 27 October 2026: Advanced10 native Gemini proposal audit
 
 Advanced Lab10 adds 41 original-dimension captures of native Gemini proposals/findings, a generated chart whose direct-link claim was disproved by source-change testing, exact threshold and Fill-down cases, supplied flawed formulas beside manual repairs, and an isolated TEST025 new-row coverage check. Source and earlier dashboard/pivots restored; snapshot labelled. Independent PO025 pivot/chart coverage, reviewer and learner timing pending. Programme1,007 images; retained1,004 sources (976application windows,6focused views,22PDF pages). Untouched routes:Advanced2,AI8.
+
+### 27 October 2026: Advanced11 analysis capstone
+
+Advanced Lab11 adds32 original-dimension captures of a source-traceable capstone: three-question specification, native pivot/ID reconciliation, genuine zero and inclusive boundary, first-match conflict45→99 with guarded disposition, baseline executive/audit and separate PO025 ranking/week scenario. Source and baseline preserved; independent challenge, human review, spoken delivery and learner timing pending. Programme1,039 images; retained1,036 sources (1,008application windows,6focused views,22PDF pages). Untouched routes:Advanced1,AI8.

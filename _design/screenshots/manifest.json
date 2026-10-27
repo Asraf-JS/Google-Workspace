@@ -23927,6 +23927,678 @@
       "notes": [
         "Actual staged Gemini/formula audit learner UI, original dimensions; no crop or resize, avatar masked. Generated chart direct-link claim disproved by native source-change test; source restored. Independent PO025 pivot/chart extension, reviewer and classroom timing pending. Stages7/9 show response rendering/request state; not completed-answer evidence."
       ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-01-isolated-capstone-copy.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-01-isolated-capstone-copy.png",
+      "dimensions": [
+        1591,
+        920
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "0eb6e0e186545212c0be4628b87cc5835ecc9d7f0ff40a9c3554a61c5c4b343c",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-02-three-question-specification.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-02-three-question-specification.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "04683b6ffc4d026070d18fd243abbba35e32021eda2a234db4a5906f511c88d8",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-03-delivered-project-ranking.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-03-delivered-project-ranking.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "faf8f61bb32e2fff723cc47dace5fd6487b3032876ffc79649981a7fa045e33f",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-04-pending-zero-matches-explicit.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-04-pending-zero-matches-explicit.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "c3f5312bd7bfc6568a4adde95703cc00cf9daf7ceebcb539e2aa1c2fb36e0dd4",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-05-winning-project-orderid-trace.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-05-winning-project-orderid-trace.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "192c4753523e9dde05a9bb50cace262a54c66e3c6447eae2b03839b6e3716f81",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-06-independent-native-pivot-controls.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-06-independent-native-pivot-controls.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "f83d874a18beb123ca072a7847ca210071c93ab0f7efca75ba1c529685138462",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-07-formulas-reconcile-to-native-pivot.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-07-formulas-reconcile-to-native-pivot.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "bb02f8070506a141692fa4a1b0b5226b4dff7816677b658487c4c986acf041db",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-08-baseline-nonqualifying-record.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-08-baseline-nonqualifying-record.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "a8da46b628fbe95bac937d1536024b62cd8247fcbf3e3dfd03480d5667f7b92f",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-09-separate-synthetic-boundary-inputs.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-09-separate-synthetic-boundary-inputs.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "7882c0c234a058acb54f0d3ae1ae0735c3d2c4bff92cca9c5d1d44926a1f1947",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-10-positive-boundary-branch-verified.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-10-positive-boundary-branch-verified.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "7e0a7bdc588ed43d79312251a8c91e981f23f481836f1cab3021d7ac90423496",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-11-disposable-rate-copy.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-11-disposable-rate-copy.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "2a3a6eaab9fa0da2d58657e80e17a28d02ef9a3794de27064f75ed29249f7c78",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-12-duplicate-and-missing-key-dispositions.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-12-duplicate-and-missing-key-dispositions.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "63503f335b2fbaa94ea1e9a0f8b6c18d0e86710c3444d3e558119202c00821b1",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-13-conflicting-first-match-changes-result.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-13-conflicting-first-match-changes-result.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "d3f461e0cf5cfa10019f04413c3dc91cdc92315b4f9ea933f7097bfaa141d24f",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-14-restored-fixture-with-key-disposition.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-14-restored-fixture-with-key-disposition.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "5f10f7bba54ed0e14faac9a27d384c8d0313dff99630502e7136e0cf69512e06",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-15-chronological-week-comparison.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-15-chronological-week-comparison.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "79298ef9ec4b6547e9f12fa2200942aaff4c998be7002c5d03a6a8dc246804d6",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-16-baseline-executive-table.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-16-baseline-executive-table.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "7c63b55a54e9fe1b000e8040d843e383cd3061c2dc8eedaf5452eda3088a23c5",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-17-baseline-audit-appendix.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-17-baseline-audit-appendix.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "2cfd9d040ae0f5414025c1bf6ccdefd4bfddc9c4c916358b52ea9ce7a2b35423",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-18-po025-predictions-before-source-edit.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-18-po025-predictions-before-source-edit.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "740a9ba49e81ac845ea0006ddafd3b130bff78e1c55c1a5d66746b9d7e12a2b9",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-19-separate-po025-orders-copy.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-19-separate-po025-orders-copy.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "75562fe255b4aca61ea29fc202782a464878eb6e9dc869d0e9cdd79b9bf2da23",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-20-original-bounds-before-append.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-20-original-bounds-before-append.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "308a41ac330b4f79df7ca1bce2bf4a238ef6b91afb2c60272cde2cf2909d1d89",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-21-po025-added.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-21-po025-added.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "9543fa2e5f53b8cdbc2a365a8e864532b0b9648738e0172677adde32f957d945",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-22-original-bounds-miss-po025.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-22-original-bounds-miss-po025.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "6d423698f509103d37024776eb8cb4fa5c2b03e504bf8878a3b5d7ab96d0857f",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-23-expanded-scenario-controls.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-23-expanded-scenario-controls.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "ef11110258ca72a0ee542b5d23d2a82c95b1db1f4d764e3b29ad2092570ebcda",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-24-scenario-ranking-week-results.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-24-scenario-ranking-week-results.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "a1a354a15aba9b2fa66b3155b009f36c8839f08dc82178f2365a5b7cb9f088c8",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-25-scenario-aligned-results.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-25-scenario-aligned-results.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "9e486d687d0b2c0b41b2954adccfc68caf78657aa1ea9770a80fc3e093c80371",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-26-baseline-and-scenario-id-traces.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-26-baseline-and-scenario-id-traces.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "f0f9343b2e8f97df58c36de3b97eb940e5f9ffbecdedead0f08ff38e04c1fab5",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-27-id-traces-clear-view.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-27-id-traces-clear-view.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "7239d358d7f82b1d47f5947c0003b0d1578656e9f6f166331ceaef0a4e4480f5",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-28-executive-scenario-comparison.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-28-executive-scenario-comparison.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "e1e984ef5340d113e12bce9a1cb25213d958a16bf72713ea021d56e38ea03097",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-29-comparison-with-populations-limits.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-29-comparison-with-populations-limits.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "a577960fb45204a14316af399661aa3dd7844dbe99a2f9be5bffae493ae8fdb5",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-30-final-audit-appendix.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-30-final-audit-appendix.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "de17c9b28969626eb2eb44ecfede95f74f58a12c781ca641e7be039f7cee56d1",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-31-baseline-preserved-executive.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-31-baseline-preserved-executive.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "3f61a0ecc6128dc5693fa0d0dbe692b5216381d4eedab59bf6212bbe95ab9994",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
+    },
+    "05-sheets-advanced/11-analysis-capstone/images/c05-11-32-final-unobscured-source-traces.jpg": {
+      "source": "_design/screenshots/full/05-sheets-advanced/11-analysis-capstone/c05-11-32-final-unobscured-source-traces.png",
+      "dimensions": [
+        1590,
+        863
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1510,
+          0,
+          1590,
+          65
+        ]
+      ],
+      "sha256": "b60bb0964674dd96520cab9e9c06873ba427c34a7683d95265fd8b4ff6af7f0e",
+      "notes": [
+        "Actual staged capstone learner UI, original dimensions; no crop or resize, avatar masked. Baseline preserved; separate synthetic/key/PO025 scenarios labelled. Independent challenge, human review, spoken delivery and classroom timing pending. Native trace final unobscured view at stage32; earlier paste-option overlays are retained as captured."
+      ]
     }
   },
   "missing_originals": [
