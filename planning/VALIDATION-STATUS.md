@@ -217,3 +217,7 @@ Advanced Lab8 adds36 staged application captures covering DSUM/DCOUNT/DAVERAGE, 
 ### 26 October 2026: Advanced9 dashboard refresh
 
 Advanced Lab9 adds31 original-dimension dashboard captures: native labelled column chart, numeric weekly SUMIFS/SPARKLINE, distinct24/3158/1938/1478 KPI populations, four live zero-difference Checks, audience answers and visible refresh contract. Existing-row +45 and scenario-copy +90 tests were observed and restored. Maintained source/formats/pivot definitions unchanged. Independent PO025 coverage, reviewer and learner timing pending. Programme966images; retained963sources (935application windows,6focused views,22PDF pages). Untouched routes:Advanced3,AI8.
+
+### 27 October 2026: Advanced10 native Gemini proposal audit
+
+Advanced Lab10 adds 41 original-dimension captures of native Gemini proposals/findings, a generated chart whose direct-link claim was disproved by source-change testing, exact threshold and Fill-down cases, supplied flawed formulas beside manual repairs, and an isolated TEST025 new-row coverage check. Source and earlier dashboard/pivots restored; snapshot labelled. Independent PO025 pivot/chart coverage, reviewer and learner timing pending. Programme1,007 images; retained1,004 sources (976application windows,6focused views,22PDF pages). Untouched routes:Advanced2,AI8.
