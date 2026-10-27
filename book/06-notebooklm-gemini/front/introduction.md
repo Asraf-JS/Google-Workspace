@@ -1,10 +1,12 @@
 # Before You Begin
 
-This review book accompanies NotebookLM and Gemini. Work through its chapters in order and keep the original practice inputs unchanged. The same notes and prompts also appear in the local course website.
+This review book accompanies Gemini Notebook and Gemini. Work through its chapters in order and keep the original practice inputs unchanged. The same notes and prompts also appear in the local course website.
 
 ## Current Status
 
-All chapters in this book are written drafts. Most have not yet been executed end to end in the application. The masterclass's reference brief chapter has a tested core path with a recorded recovery prompt; that does not validate the other exercises. Treat VERIFY notes and draft notices as production work still to complete.
+Lab 1 includes 23 author-reference screenshots of the account preflight and prepared evaluation log. Labs 2-8, independent tasks, real reviewer agreement and classroom timing remain pending. This remains a review draft.
+
+Gemini Notebook was formerly NotebookLM. The [official rename announcement](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/) was published on 16 July 2026.
 
 ## What You Need
 

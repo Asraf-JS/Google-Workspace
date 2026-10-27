@@ -2,14 +2,14 @@
   "palette": "../../assets/book-palette-specialist.css",
   "kicker": "Google Workspace Training",
   "titleLines": [
-    "NotebookLM",
+    "Gemini Notebook",
     {
       "highlight": "and Gemini"
     }
   ],
-  "runningTitle": "NotebookLM and Gemini",
+  "runningTitle": "Gemini Notebook and Gemini",
   "subtitle": "One-day course review draft",
-  "blurb": "Build and check practical workplace outputs with fictional project data. These notes and prompts are a written review draft awaiting full live lab validation.",
+  "blurb": "Prepare source-bounded AI work with fictional project data. Lab 1 includes 23 staged captures of an account preflight, one original source and a native evaluation log. Labs 2-8, independent tasks, human review and classroom timing remain pending.",
   "coverIcons": [
     "doc",
     "check",
@@ -24,7 +24,7 @@
   "credential": "Microsoft Certified Trainer",
   "repoUrl": "",
   "repoRoot": "../..",
-  "trademark": "Google, Google Workspace, Gmail, Google Drive, Google Docs, Google Sheets, Google Slides, Google Sites, Gemini and NotebookLM are names associated with Google. This independent training guide is not published or endorsed by Google.",
+  "trademark": "Google, Google Workspace, Gmail, Google Drive, Google Docs, Google Sheets, Google Slides, Google Sites, Gemini and Gemini Notebook are names associated with Google. This independent training guide is not published or endorsed by Google.",
   "output": "../../books/06-notebooklm-gemini-Book.pdf",
   "front": [
     {
@@ -71,5 +71,5 @@
       "exercises": "../../06-notebooklm-gemini/08-prompt-playbook/prompts.md"
     }
   ],
-  "backCover": "A practical 1-day course with step-by-step draft labs, copy-ready prompts, fictional inputs and expected-result checks. Use the supplied practice pack. Full lab execution, screenshots and classroom timing validation remain required before participant release."
+  "backCover": "Eight practical draft labs with supplied fictional inputs and copy-ready values. Lab 1 has an author-reference route with 23 screenshots. Remaining routes and independent, reviewer and classroom timing checks are pending."
 }

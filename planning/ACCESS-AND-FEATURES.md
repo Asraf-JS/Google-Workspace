@@ -2,7 +2,7 @@
 
 ## Pre-course Checks
 
-Confirm the target organisation's Workspace edition, enabled services, Gemini access, language, browser, external-sharing policy, Shared Drive permissions and NotebookLM access. A working connector does not establish access to the corresponding browser UI or an AI feature.
+Confirm the target organisation's Workspace edition, enabled services, Gemini access, language, browser, external-sharing policy, Shared Drive permissions and Gemini Notebook access. A working connector does not establish access to the corresponding browser UI or an AI feature.
 
 Do not change licenses, admin controls or organisation sharing settings to make a lab work. Record the restriction and use a defined alternate route.
 
@@ -13,7 +13,7 @@ Do not change licenses, admin controls or organisation sharing settings to make 
 | Shared Drives | Can users access a practice drive, and can the trainer create/manage one? | My Drive folder for file operations, plus governance demonstration; explain the ownership difference |
 | Calendar and meeting notes | Can the participant create a private practice event and insert meeting notes? | Supplied agenda and meeting record; skip sending invitations |
 | Meet AI notes | Eligible edition, enabled feature and approved meeting participants | Trainer demonstration or supplied fictional transcript |
-| NotebookLM | Can a participant create a notebook and add the chosen source types? | Source reading exercise, clearly marked as not completing the NotebookLM objective |
+| Gemini Notebook | Can a participant create a notebook and add the chosen source types? | Source reading exercise, clearly marked as not completing the Gemini Notebook objective |
 | Sites | Can participants create a site and embed the chosen assets? | Draft without publishing; screenshot demonstration if creation is disabled |
 | External sharing, expiration and download restrictions | Exact role, file type and organisational policy | Inspect settings with fictional files; demonstrate unavailable controls |
 
@@ -33,4 +33,8 @@ Documentation checked 17 October 2026. Recheck shortly before delivery. These ar
 
 ## Items Still Requiring Target-account Verification
 
-Gemini comment handling; task creation from a checked action list; precise UI labels; availability of generated layouts; download/expiration controls by role; translation behaviour; NotebookLM source/update workflow and current product naming; publishing constraints; customer-specific licensing. Do not describe these as verified exercises until executed.
+Gemini comment handling; task creation from a checked action list; precise UI labels; availability of generated layouts; download/expiration controls by role; translation behaviour; Gemini Notebook source/update workflow and current product naming; publishing constraints; customer-specific licensing. Do not describe these as verified exercises until executed.
+
+## AI workspace preflight - 27 October 2026
+
+Google renamed NotebookLM to **Gemini Notebook** on 16 July 2026 ([official announcement](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/)). In the author account, the old address redirected to notebook.google.com. Gemini prompt access and one Copied text source import were observed; other advertised source types and Studio tools remain untested. Account access does not prove organisational approval, customer licensing or media availability. Use fictional originals and record missing objectives before a class.
