@@ -1,6 +1,6 @@
 # Google Sheets Advanced
 
-**Status:** review draft, revision0.4. Labs1-10 have347 author-reference captures covering source audit, formulas, rules, text/lookups, pivots, database criteria, dashboards and native Gemini proposal audits. Labs11-12 still need author execution and captures. Independent/human checks and learner timing remain pending.
+**Status:** review draft, revision 0.4. Labs 1-11 have 379 author-reference captures covering source audit, formulas, rules, text/lookups, pivots, database criteria, dashboards, native Gemini audits and a checked capstone. Lab 12 still needs author execution and captures. Independent/human checks, spoken delivery and learner timing remain pending.
 
 **Duration:** 2 days. Each day has 390 teaching minutes, excluding lunch and breaks.
 
