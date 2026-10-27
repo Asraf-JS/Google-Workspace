@@ -11,7 +11,7 @@ Updated 27 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 1,076 captures: 109 masterclass, 165 Docs, 173 Slides, 213 Foundation and 416 Advanced. Thirty-six specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 8 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 1,099 captures: 109 masterclass, 165 Docs, 173 Slides, 213 Foundation, 416 Advanced and 23 AI. Thirty-seven specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 7 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -180,3 +180,7 @@ Advanced Lab11 adds32 original-dimension captures of a source-traceable capstone
 ### 27 October 2026: Advanced12 review and handover
 
 Advanced Lab12 adds37 original-dimension captures of baseline recovery, runbook/range inventory, a whole-workbook PO025 refresh through conditional/database/weekly calculations and committed native pivots, chart/sparkline checks, unresolved IT99 disposition, repaired handover instructions, fixed snapshot and release manifest. Recovery source preserved; independent PO026, human review, spoken delivery and learner timing pending. Programme1,076 images; retained1,073 sources (1,045application windows,6focused views,22PDF pages). Untouched routes:AI8. All12 Advanced guided author routes now have references; classroom/independent limitations remain.
+
+### 27 October 2026: AI1 workspace and evaluation plan
+
+AI Lab 1 adds 23 original-dimension application captures: isolated folder, Gemini surface, current Gemini Notebook naming and one-original-source Copied text preflight, native evidence log with nine tables, three-source authority boundaries, five-topic FAQ contract, six predictions and six Not run scoring rows. Folder placement verified after UI repair. No generated FAQ, successful other source imports, Studio test, real reviewer agreement or independent challenge claimed. Programme 1,099 images; retained 1,096 sources (1,068 application windows, 6 focused views, 22 PDF pages). Seven untouched AI routes remain. Author action timing about 12 minutes plus 19 minutes verification/repairs does not validate the 40-minute classroom target.

@@ -1,6 +1,6 @@
 # 04 - Build a Source-Based Notebook
 
-In this chapter you will add the pack to NotebookLM, ask questions and inspect citations in context.
+In this chapter you will add the pack to Gemini Notebook, ask questions and inspect citations in context.
 
 > **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
@@ -20,11 +20,11 @@ In this chapter you will add the pack to NotebookLM, ask questions and inspect c
 
 Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
-Use the three-file fictional source pack from Chapter 1. NotebookLM creation and source access must be available.
+Use the three-file fictional source pack from Chapter 1. Gemini Notebook creation and source access must be available.
 
 ## 4.1 Create the Notebook
 
-1. Open NotebookLM in the training account and create a notebook named `GW - Project Reporting Pilot - Evidence`.
+1. Open Gemini Notebook in the training account and create a notebook named `GW - Project Reporting Pilot - Evidence`.
 2. Add the three supplied sources using a supported upload or pasted-text route.
 3. Open each source and inspect its title and content. Confirm all three have finished processing before asking questions.
 

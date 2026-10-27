@@ -25376,6 +25376,502 @@
       "notes": [
         "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
       ]
+    },
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-01-isolated-training-drive-folder.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-01-isolated-training-drive-folder.png",
+      "dimensions": [
+        1432,
+        828
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "b5c25a08b1dae16002c4b771bbb7039f3a453277a5aa9f333140ca3021fc2887",
+      "notes": [
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-02-gemini-training-account-surface.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-02-gemini-training-account-surface.png",
+      "dimensions": [
+        1909,
+        1040
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1829,
+          0,
+          1909,
+          65
+        ],
+        [
+          0,
+          960,
+          200,
+          1040
+        ],
+        [
+          0,
+          330,
+          285,
+          980
+        ]
+      ],
+      "sha256": "1df056ea0aaacfffce8fdf2054803886df12df2606bd23ce506354915cb1a04e",
+      "notes": [
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
+        "Unrelated notebook and conversation titles masked in the sidebar; full dimensions preserved."
+      ]
+    },
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-03-new-notebook-zero-sources.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-03-new-notebook-zero-sources.png",
+      "dimensions": [
+        1432,
+        780
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "14eef60eae374c9f7ed7d6b5ff0375ded5a58f14c1a9cb6bab4af9057760b687",
+      "notes": [
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-04-advertised-source-types.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-04-advertised-source-types.png",
+      "dimensions": [
+        1432,
+        780
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "fcfa4070d22652bc254d139ab0e7a3b4f371b8252ae346b4578b249e03532dd6",
+      "notes": [
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-05-original-fictional-fact-sheet-only.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-05-original-fictional-fact-sheet-only.png",
+      "dimensions": [
+        1432,
+        780
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "742f1fd425f1b77927712ccf052dae5263ecf0223e897b65c161c6e7cf15409f",
+      "notes": [
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-06-imported-original-source-labelled.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-06-imported-original-source-labelled.png",
+      "dimensions": [
+        1432,
+        780
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "ad90e157ccf43b825a75a1616e616ca269ad892be92cbd67a23994c737a7d6ff",
+      "notes": [
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-07-one-source-preflight-complete.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-07-one-source-preflight-complete.png",
+      "dimensions": [
+        1432,
+        780
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "0976d9daf5a5867a29bb49657c8298680d11ccd0556f18be548cf54e7f41b300",
+      "notes": [
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-08-native-evidence-log-created.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-08-native-evidence-log-created.png",
+      "dimensions": [
+        1591,
+        867
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "61def1f67d07afea6fc9fdbf31694d4e842a5e66d54ecae3e5973a4df5847cd5",
+      "notes": [
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-09-fact-sheet-authority-and-limits.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-09-fact-sheet-authority-and-limits.png",
+      "dimensions": [
+        1591,
+        867
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "c1c1c445ba5799a721e1566160ead3d83ededd1987057c1a9d53f312da53b66c",
+      "notes": [
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-10-scripted-action-source-registered.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-10-scripted-action-source-registered.png",
+      "dimensions": [
+        1591,
+        867
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "002a2f3d2b71229556f173c94e7ce6fbdfad2edb9f85ef20231d05d6f60ab5b3",
+      "notes": [
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-11-proposed-guidance-and-evidence-boundary.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-11-proposed-guidance-and-evidence-boundary.png",
+      "dimensions": [
+        1591,
+        867
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "01283a370a746ebfa160896cd9ba53f0b5d8fd7a8dc5bf45134da992a8bd0a61",
+      "notes": [
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-12-five-question-coordinator-task-contract.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-12-five-question-coordinator-task-contract.png",
+      "dimensions": [
+        1591,
+        867
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "1ca0691ca72ec11fab562b7b03ce256713aff7b9d9415e7a9cbc7eb61c6fff93",
+      "notes": [
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-13-fixed-facts-gaps-and-review-log.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-13-fixed-facts-gaps-and-review-log.png",
+      "dimensions": [
+        1591,
+        867
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "6e0a7da64d72ebddd1d5dd28a223c45da4f569a3d25d72eb60dabe986a31f63a",
+      "notes": [
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-14-observed-feature-preflight-and-untested-routes.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-14-observed-feature-preflight-and-untested-routes.png",
+      "dimensions": [
+        1591,
+        867
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "ca59ce0ec1243c514b4dad8258b738aec659462bf9d53cc7e3638887f0468e5f",
+      "notes": [
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-15-evidence-log-practice-folder-destination.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-15-evidence-log-practice-folder-destination.png",
+      "dimensions": [
+        1591,
+        867
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "e1395ddb9f94d1a3172320d6f886bce4493d1e4610b91432a9799661f3a94cc4",
+      "notes": [
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-17-scoring-table-not-run-and-acceptance-gates.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-17-scoring-table-not-run-and-acceptance-gates.png",
+      "dimensions": [
+        1591,
+        867
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "0babb766fff3210adfea60425458263091e6a62a0869aac70edcaaea73e9e2df",
+      "notes": [
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-18-open-questions-and-prepared-final-state.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-18-open-questions-and-prepared-final-state.png",
+      "dimensions": [
+        1591,
+        867
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "528359d285b7d0b795c56612e29e07eb406858a07da89ad2e75bbdff76b79f59",
+      "notes": [
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-19-evidence-log-final-outline.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-19-evidence-log-final-outline.png",
+      "dimensions": [
+        1591,
+        867
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "5a6dfc437989b9f60ee2af5d4b67db4b9e72d6ceceb30f9e6c823c4176dae7f9",
+      "notes": [
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-20-evidence-log-move-confirmed.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-20-evidence-log-move-confirmed.png",
+      "dimensions": [
+        1591,
+        867
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "6fc2a18da92465f6391309328d8d9faf3ee3688a97b80ff9d771d063efa23bd6",
+      "notes": [
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-21-six-question-bank-inserted-before-scoring.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-21-six-question-bank-inserted-before-scoring.png",
+      "dimensions": [
+        1591,
+        867
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "7468ad1ec409df2b64a3367707a7edb42f73cd6a0372402876e6350b6f9c0ce7",
+      "notes": [
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-22-scoring-section-kept-with-table.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-22-scoring-section-kept-with-table.png",
+      "dimensions": [
+        1591,
+        867
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "2be84f4bbe21822d116f58b657e7d13e00bf09f904d83d3b71619a124d17f516",
+      "notes": [
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-25-final-six-test-scoring-plan.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-25-final-six-test-scoring-plan.png",
+      "dimensions": [
+        1591,
+        867
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "7d3e7c839010366dac718f5ed7d6b8dd2e4de49373b5d0a42a46e67d51fe88dd",
+      "notes": [
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-26-evidence-log-saved-in-practice-folder.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-26-evidence-log-saved-in-practice-folder.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "19e84a8ecbfb4496783b42cddc72bf4c00125b2259706f0bb562ece9cb80391f",
+      "notes": [
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+      ]
     }
   },
   "missing_originals": [

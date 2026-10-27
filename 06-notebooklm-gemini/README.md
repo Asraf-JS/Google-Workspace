@@ -1,10 +1,12 @@
-# NotebookLM and Gemini
+# Gemini Notebook and Gemini
 
-**Status:** expanded written review draft, revision 0.4. Every chapter now includes casework, an independent challenge and evidence requirements. Full learner execution, screenshots and timing pilots remain required.
+**Status:** review draft, revision 0.4. Lab 1 has 23 author-reference captures of the one-source preflight and native evaluation plan. Labs 2-8 still need guided author validation; independent challenges, human review and classroom timing remain pending.
 
 **Duration:** 1 day. Each day has 390 teaching minutes, excluding lunch and breaks.
 
 **Audience:** Participants familiar with Drive and document editing; AI experience is optional.
+
+Gemini Notebook (formerly NotebookLM) is the current product name. Google announced the rename on 16 July 2026: [official announcement](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/). Existing course paths are retained so saved links continue to work.
 
 ## Course Scenario
 
