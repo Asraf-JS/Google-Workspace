@@ -22,7 +22,7 @@ There are 231 real stage captures: 109 across the six masterclass labs and 122 a
 
 Source inventory, relative links and daily timing allocations pass. The six books were rendered and visually reviewed; the Docs book is 133 pages and the masterclass book is 73 pages. Local browser checks passed for the captured Docs routes. Full pop-out/lightbox lifecycle checks remain pending. No remote site deployment has been performed.
 
-See planning/VALIDATION-STATUS.md for public validation state, and ignored _local records for private demo identities. Rebuild the books and site after changing content. Inspect the final PDFs after changes. Keep status records accurate rather than claiming a draft chapter is validated.
+Book PDFs are committed, so every rebuild adds the whole file to git history. `tools/build-books.mjs` compresses each book with Ghostscript (`gs`, 200 ppi JPEG): install it before rebuilding, keep each PDF well under GitHub's 50 MB warning size, and only commit a rebuilt book when its content changed. See planning/VALIDATION-STATUS.md for public validation state, and ignored _local records for private demo identities. Rebuild the books and site after changing content. Inspect the final PDFs after changes. Keep status records accurate rather than claiming a draft chapter is validated.
 
 ## Docs Conventions Alignment
 
