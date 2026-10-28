@@ -5,6 +5,7 @@ _local/
 *.tmp
 
 _site/
+books/
 .local-build/
 book/**/.build/
 *.inspect.ndjson

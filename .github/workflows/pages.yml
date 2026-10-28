@@ -19,6 +19,12 @@ jobs:
         with:
           node-version: 22
       - run: npm install --ignore-scripts
+      # The six course books are built here rather than committed, so git history
+      # doesn't grow with every rebuild. Chromium lays out the PDFs; Ghostscript
+      # compresses their screenshots.
+      - run: npx playwright install --with-deps chromium
+      - run: sudo apt-get install -y ghostscript
+      - run: npm run build:books
       - uses: actions/configure-pages@v5
         id: pages
       - run: npm run check && npm run build:site
