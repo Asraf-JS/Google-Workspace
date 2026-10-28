@@ -1393,3 +1393,11 @@ Eight staged original-dimension captures; user-assisted responses and limitation
 | [c06-02-10-explicit-checks-prompt.jpg](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-10-explicit-checks-prompt.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-10-explicit-checks-prompt.png) | 1909 x 1041 | application-window |
 | [c06-02-11-checked-faq-user-result.jpg](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-11-checked-faq-user-result.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-11-checked-faq-user-result.png) | 1909 x 1041 | application-window |
 | [c06-02-12-repeat-faq-user-result.jpg](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-12-repeat-faq-user-result.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-12-repeat-faq-user-result.png) | 1909 x 1041 | application-window |
+
+### AI2 baseline follow-up
+
+A fresh Flash run produced a generic template; its example status and achievements are not evidence of the fictional pilot. Programme 1,108 images, 1,105 retained sources.
+
+| Lesson image | Full source | Dimensions | Kind |
+|---|---|---|---|
+| [vague response](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-13-vague-success.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-13-vague-success.png) | 1909 x 1104 | application-window |

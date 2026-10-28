@@ -26143,6 +26143,39 @@
       "notes": [
         "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending."
       ]
+    },
+    "06-notebooklm-gemini/02-prompt-design/images/c06-02-13-vague-success.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/02-prompt-design/c06-02-13-vague-success.png",
+      "dimensions": [
+        1909,
+        1104
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          0,
+          1014,
+          210,
+          1104
+        ],
+        [
+          604,
+          1064,
+          1374,
+          1104
+        ],
+        [
+          1829,
+          0,
+          1909,
+          65
+        ]
+      ],
+      "sha256": "bc6469e7810ed760e268961c63fccdd7749bac655ebf652c1488e8d210d59cc0",
+      "notes": [
+        "Fresh vague prompt in Flash produced a generic template. Full application window, account and footer masked; no crop or resize. Illustrative example, not evidence of pilot status."
+      ]
     }
   },
   "missing_originals": [

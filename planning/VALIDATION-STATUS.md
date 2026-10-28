@@ -204,7 +204,7 @@ Advanced Lab5 adds36 staged application captures:24 copied-order exact lookups r
 
 ### 26 October 2026: Advanced6 formula clinic
 
-Advanced Lab6 adds31 staged application captures in a separate whole-workbook clinic copy. Three defects are observed/repaired; normal, missing, zero, numeric-text, duplicate-key and final-row tests are recorded. All3158/Delivered1478 and24/12 controls plus manually inspected556 reconcile after restoration. Original maintained ranges unchanged. Independent hidden-fault diagnosis, partner/reviewer and learner timing remain pending. Programme865images; retained862sources (834application windows,6focused views,22PDF pages). Untouched routes:Advanced6,AI8.
+Advanced Lab6 adds32 staged application captures in a separate whole-workbook clinic copy. Three defects are observed/repaired; normal, missing, zero, numeric-text, duplicate-key and final-row tests are recorded. All3158/Delivered1478 and24/12 controls plus manually inspected556 reconcile after restoration. Original maintained ranges unchanged. Independent hidden-fault diagnosis, partner/reviewer and learner timing remain pending. Programme865images; retained862sources (834application windows,6focused views,22PDF pages). Untouched routes:Advanced6,AI8.
 
 ### 26 October 2026: Advanced7 native pivots and coverage
 
@@ -236,4 +236,4 @@ AI Lab 1 adds 23 original-dimension application captures: isolated folder, Gemin
 
 ### 28 October 2026: AI2 prompt comparison (partial)
 
-Eight staged author captures document the grounded sponsor example, repair, bounded and checked FAQ, and same-conversation repeat. User-assisted retries were required; a vague response and a clean-context repeat remain unverified. Independent/reviewer and classroom timing remain pending. Programme 1,107 images; 1,104 retained sources. Six AI routes remain untouched.
+Eight staged author captures document the grounded sponsor example, repair, bounded and checked FAQ, and same-conversation repeat. User-assisted retries were required; a clean-context repeat remain unverified. Independent/reviewer and classroom timing remain pending. Programme 1,108 images; 1,105 retained sources. Six AI routes remain untouched.

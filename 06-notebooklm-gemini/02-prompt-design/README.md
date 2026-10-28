@@ -8,7 +8,7 @@ In this chapter you will use Goal, Context, Source and Expectations; compare a v
 
 **Your result:** A bounded prompt and a checked comparison with a vague request.
 
-> **Status:** partial author reference with eight staged captures. Source-grounded sponsor and FAQ outputs were checked, with user-assisted retries and limitations recorded below. Vague baseline, clean repeat, independent challenge, reviewer and timing remain pending.
+> **Status:** partial author reference with nine staged captures. Source-grounded sponsor and FAQ outputs were checked, with user-assisted retries and limitations recorded below. Clean repeat, independent challenge, reviewer and timing remain pending.
 
 ## What You Will Learn
 
@@ -28,7 +28,9 @@ Use the supplied project fact sheet. Use a fresh approved AI conversation for ea
 
 ![vague flash before send](./images/c06-02-03-vague-flash-before-send.jpg)
 
-2. Do not use an ungrounded response as the fictional project brief. In the author attempt Gemini returned an error; that is a service result, not an example project update and cannot be scored for source accuracy. Retry later if needed.
+2. A later fresh Flash run produced a generic status template, including “On Track”, example completed milestones and positive feedback. No project source was supplied, so these are example text, not evidence of the pilot. Do not copy them as facts. Earlier attempts returned service errors and cannot be scored as answers.
+
+![Vague response showing a generic template](./images/c06-02-13-vague-success.jpg)
 
 ## 2.2 Write a Bounded Request
 
@@ -70,9 +72,9 @@ Use the supplied project fact sheet. Use a fresh approved AI conversation for ea
 
 ![repeat faq user result](./images/c06-02-12-repeat-faq-user-result.jpg)
 
-6. Record a comparison table: prompt, model/source route, six source checks, exact unsupported claims, citation support and Accept/Repair/Hold decision. The vague request lacked the pack and requested a different output; it is an illustrative baseline, not a controlled FAQ comparison. The two FAQ prompts share task, sources and model; only the output-check block changes. The failed vague run cannot be scored as a generated answer.
+6. Record a comparison table: prompt, model/source route, six source checks, exact unsupported claims, citation support and Accept/Repair/Hold decision. The vague request lacked the pack and requested a different output; it is an illustrative baseline, not a controlled FAQ comparison. The two FAQ prompts share task, sources and model; only the output-check block changes. The successful vague response is a generic template; earlier failed runs cannot be scored as answers.
 
-**Author-run scope:** sponsor response and refinement, bounded FAQ, checked FAQ and repeat inspected; user-assisted retries were needed. The recorded 50-minute allocation is an unmeasured classroom target. A clean-context repeat, a successful vague response, independent challenge, reviewer agreement and learner timing remain pending.
+**Author-run scope:** sponsor response and refinement, bounded FAQ, checked FAQ and repeat inspected; user-assisted retries were needed. The recorded 50-minute allocation is an unmeasured classroom target. A clean-context repeat, independent challenge, reviewer agreement and learner timing remain pending.
 
 ## Independent Challenge
 
