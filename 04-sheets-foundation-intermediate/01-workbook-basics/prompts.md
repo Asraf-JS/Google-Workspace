@@ -1,4 +1,4 @@
-# 01 - Create and Navigate a Workbook: Prompts and Values
+# 01 - Create and Navigate a Workbook: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -24,8 +24,7 @@ Navigation Practice
 Practice only
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -33,7 +32,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Beginner navigation brief: You inherit an XLSX, a native copy and several tabs. Another learner must be able to identify the maintained source and find T008’s owner and actual cost without guessing from row position.
 ```
 
-## Workbook Guide Reference
+## Part 3: Workbook Guide Reference
 
 | Address | Meaning | Value | TaskID |
 |---|---|---|---|
@@ -44,7 +43,7 @@ Beginner navigation brief: You inherit an XLSX, a native copy and several tabs. 
 
 Tab purposes: **Tasks** is the maintained twelve-record source; **Summary** is the supplied summary area; **Navigation Practice** is the duplicate for experiments; **Entry Practice** is a three-row reconstruction; **Workbook Guide** records the map and checks. Final reference order: Tasks, Workbook Guide, Navigation Practice, Entry Practice, Summary.
 
-## Entry Practice Values
+## Part 4: Entry Practice Values
 
 Enter these eight fields without moving their positions. Compare each row with Tasks by TaskID.
 
