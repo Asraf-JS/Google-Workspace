@@ -11,7 +11,7 @@ Updated 27 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 1,109 captures: 109 masterclass, 165 Docs, 173 Slides, 213 Foundation, 416 Advanced and 33 AI. Thirty-eight specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 6 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 1,120 captures: 109 masterclass, 165 Docs, 173 Slides, 213 Foundation, 416 Advanced and 44 AI. Thirty-nine specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 5 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -192,3 +192,7 @@ Eight staged author captures document the grounded sponsor example, repair, boun
 ### 28 October 2026: AI2 fresh-conversation repeat
 
 The checked FAQ was repeated with the three original sources in a fresh conversation. After two errors, user-assisted Redo produced version 3 with six source facts preserved and no invented before-pilot prerequisite. Programme 1,109 images; 1,106 retained sources. Six AI routes remain untouched; independent/reviewer and classroom timing remain pending.
+
+### 28 October 2026: AI3 Workspace workflow
+
+Lab 3 adds 11 original-dimension captures of named source attachment, a rejected document proposal, checked update and message, action extraction, native lineage table and separate delay scenario. Gemini created an unaddressed Gmail draft despite a panel-only instruction; it remained unsent. Three owners and relative weeks checked; scenario replacement week remains unknown. Independent challenge, reviewer agreement and classroom timing remain pending. Programme 1,120 images; 1,117 retained sources; five AI routes remain untouched.
