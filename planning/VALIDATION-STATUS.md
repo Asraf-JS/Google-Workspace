@@ -245,3 +245,7 @@ The checked FAQ was repeated with the three original sources in a fresh conversa
 ### 28 October 2026: AI3 Workspace workflow
 
 Lab 3 adds 11 original-dimension captures of named source attachment, a rejected document proposal, checked update and message, action extraction, native lineage table and separate delay scenario. Gemini created an unaddressed Gmail draft despite a panel-only instruction; it remained unsent. Three owners and relative weeks checked; scenario replacement week remains unknown. Independent challenge, reviewer agreement and classroom timing remain pending. Programme 1,120 images; 1,117 retained sources; five AI routes remain untouched.
+
+### 28 October 2026: AI4 source notebook and citation audit
+
+AI4 adds 29 original-dimension captures of a three-original-source notebook, decision/date citation checks, meeting-only scope, six-question claim audit, separate conflicting proposals and a revision2 withdrawal rerun. Old B retained but deselected; core notebook preserved. Native seven-row audit table verified. Citation support and known-status classification limitations recorded. Programme1,149 images;1,146 retained sources. Four AI routes remain untouched. Independent challenge, reviewer and classroom timing pending.

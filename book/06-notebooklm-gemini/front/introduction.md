@@ -4,7 +4,7 @@ This review book accompanies Gemini Notebook and Gemini. Work through its chapte
 
 ## Current Status
 
-Labs 1-3 include 44 author-reference screenshots; Lab 2 includes a fresh-conversation repeat after user-assisted retries. Labs 4-8, independent tasks, real reviewer agreement and classroom timing remain pending. This remains a review draft.
+Labs 1-4 include 73 author-reference screenshots; Lab 2 includes a fresh-conversation repeat after user-assisted retries. Labs 5-8, independent tasks, real reviewer agreement and classroom timing remain pending. This remains a review draft.
 
 Gemini Notebook was formerly NotebookLM. The [official rename announcement](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/) was published on 16 July 2026.
 

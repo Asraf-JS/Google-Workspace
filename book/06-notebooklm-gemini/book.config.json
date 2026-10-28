@@ -9,7 +9,7 @@
   ],
   "runningTitle": "Gemini Notebook and Gemini",
   "subtitle": "One-day course review draft",
-  "blurb": "Eight draft AI labs with staged author references for Labs 1\u20133. Independent challenges, review and classroom timing remain pending.",
+  "blurb": "Eight draft AI labs with staged author references for Labs 1\u20134. Independent challenges, review and classroom timing remain pending.",
   "coverIcons": [
     "doc",
     "check",
@@ -71,5 +71,5 @@
       "exercises": "../../06-notebooklm-gemini/08-prompt-playbook/prompts.md"
     }
   ],
-  "backCover": "Practice source-bounded workflows with fictional inputs. Labs 1\u20133 have author-reference screenshots; remaining validation is pending."
+  "backCover": "Practice source-bounded workflows with fictional inputs. Labs 1\u20134 have author-reference screenshots; remaining validation is pending."
 }
