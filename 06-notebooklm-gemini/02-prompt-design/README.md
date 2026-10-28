@@ -8,7 +8,7 @@ In this chapter you will use Goal, Context, Source and Expectations; compare a v
 
 **Your result:** A bounded prompt and a checked comparison with a vague request.
 
-> **Status:** partial author reference with nine staged captures. Source-grounded sponsor and FAQ outputs were checked, with user-assisted retries and limitations recorded below. Clean repeat, independent challenge, reviewer and timing remain pending.
+> **Status:** author reference with ten staged captures. Source-grounded sponsor and FAQ outputs were checked, with user-assisted retries and limitations recorded below. Independent challenge, reviewer and classroom timing remain pending.
 
 ## What You Will Learn
 
@@ -72,9 +72,13 @@ Use the supplied project fact sheet. Use a fresh approved AI conversation for ea
 
 ![repeat faq user result](./images/c06-02-12-repeat-faq-user-result.jpg)
 
-6. Record a comparison table: prompt, model/source route, six source checks, exact unsupported claims, citation support and Accept/Repair/Hold decision. The vague request lacked the pack and requested a different output; it is an illustrative baseline, not a controlled FAQ comparison. The two FAQ prompts share task, sources and model; only the output-check block changes. The successful vague response is a generic template; earlier failed runs cannot be scored as answers.
+6. In a further fresh conversation, resupply the same originals and checked prompt. After two service errors, a user-assisted **Redo** produced version 3. No earlier substantive answer was in this conversation. The repeat retained all six tested facts, the unagreed date and relative weeks, and omitted the unsupported before-pilot condition. Recheck source passages; a source label by itself is not proof.
 
-**Author-run scope:** sponsor response and refinement, bounded FAQ, checked FAQ and repeat inspected; user-assisted retries were needed. The recorded 50-minute allocation is an unmeasured classroom target. A clean-context repeat, independent challenge, reviewer agreement and learner timing remain pending.
+![Fresh-conversation repeat after retries](./images/c06-02-14-clean-repeat-success.jpg)
+
+7. Record a comparison table: prompt, model/source route, six source checks, exact unsupported claims, citation support and Accept/Repair/Hold decision. The vague request lacked the pack and requested a different output; it is an illustrative baseline, not a controlled FAQ comparison. The two FAQ prompts share task, sources and model; only the output-check block changes. The successful vague response is a generic template; earlier failed runs cannot be scored as answers.
+
+**Author-run scope:** sponsor response and refinement, bounded FAQ, checked FAQ and repeat inspected; user-assisted retries were needed. The recorded 50-minute allocation is an unmeasured classroom target. Independent challenge, reviewer agreement and learner timing remain pending.
 
 ## Independent Challenge
 

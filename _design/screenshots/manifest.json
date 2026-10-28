@@ -26176,6 +26176,39 @@
       "notes": [
         "Fresh vague prompt in Flash produced a generic template. Full application window, account and footer masked; no crop or resize. Illustrative example, not evidence of pilot status."
       ]
+    },
+    "06-notebooklm-gemini/02-prompt-design/images/c06-02-14-clean-repeat-success.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/02-prompt-design/c06-02-14-clean-repeat-success.png",
+      "dimensions": [
+        1909,
+        1041
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          0,
+          951,
+          210,
+          1041
+        ],
+        [
+          604,
+          1001,
+          1374,
+          1041
+        ],
+        [
+          1829,
+          0,
+          1909,
+          65
+        ]
+      ],
+      "sha256": "093dd8ca0133c67777870654ed0a1702233bd84c913d8fcbd923c9a07c41104e",
+      "notes": [
+        "Fresh conversation containing original S1-S3 and identical checked prompt. Two earlier versions returned errors; version3 generated with user-assisted Redo. Original dimensions, private account masked."
+      ]
     }
   },
   "missing_originals": [

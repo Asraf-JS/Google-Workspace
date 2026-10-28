@@ -9,7 +9,7 @@
   ],
   "runningTitle": "Gemini Notebook and Gemini",
   "subtitle": "One-day course review draft",
-  "blurb": "Prepare source-bounded AI work with fictional project data. Labs 1-2 include 32 staged captures; Lab 2 is partial. Labs 3-8, independent tasks, human review and classroom timing remain pending.",
+  "blurb": "Prepare source-bounded AI work with fictional project data. Labs 1-2 include 33 staged captures; Lab 2 includes a fresh-conversation repeat after user-assisted retries. Labs 3-8, independent tasks, human review and classroom timing remain pending.",
   "coverIcons": [
     "doc",
     "check",
@@ -71,5 +71,5 @@
       "exercises": "../../06-notebooklm-gemini/08-prompt-playbook/prompts.md"
     }
   ],
-  "backCover": "Eight practical draft labs with fictional inputs and copy-ready values. Labs 1-2 have 32 staged captures; Lab 2 is partial. Remaining routes and independent, reviewer and classroom timing checks are pending."
+  "backCover": "Eight practical draft labs with fictional inputs and copy-ready values. Labs 1-2 have 33 staged captures; Lab 2 includes a fresh-conversation repeat after user-assisted retries. Remaining routes and independent, reviewer and classroom timing checks are pending."
 }
