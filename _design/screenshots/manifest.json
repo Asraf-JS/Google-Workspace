@@ -26440,6 +26440,615 @@
       "notes": [
         "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending."
       ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-01-blank-evidence-notebook.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-01-blank-evidence-notebook.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "7fcae6efaa681210980ddfaa6e6534cb12dd3bacb62c94605ac05826ad427320",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-02-fact-sheet-before-insert.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-02-fact-sheet-before-insert.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "eb3a025c5373ba527e5853cb00fbf2d539feab87d57052f0e2d8a8fd288585bf",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-03-fact-sheet-imported.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-03-fact-sheet-imported.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "c672640e42fe0057440f53710ca7fd409e0a6a613e2e2e6a44225694c52bb577",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-04-meeting-before-insert.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-04-meeting-before-insert.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "ab39cf4b753204d75424fd48db3cf939bd7bfff3bc44d41e1b4fe49653fd4f4e",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-05-scripted-meeting-imported.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-05-scripted-meeting-imported.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "06b75b427ae78bf174c0eaa16828058202d0ff24c49dfe0bc74d9d4f3d6c67c5",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-06-guidance-before-insert.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-06-guidance-before-insert.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "655f057c5ecaf7726feafd9a966e2b0f3b2d9caa09d404bde2aa02b3a8f6eb06",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-07-proposed-guidance-imported.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-07-proposed-guidance-imported.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "e95525bd596a4cc439abb2d17415aaa428a7380c85a653ee0621f5ed8e532ebd",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-08-decisions-prompt.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-08-decisions-prompt.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "bae8ac9bea7525eb6ac57e4cdad88953f03921d12034e587fd1387f301262389",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-09-decisions-answer.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-09-decisions-answer.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "e500b494cc63bd15c07b133c40f4944a6b900ddb79a3ed2df79ddf7b886abde6",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-10-budget-citation-context.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-10-budget-citation-context.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "ce8e337da290417a043fd0508f62299534ff55b9fabb29d9f9c9ded0ef56346c",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-11-missing-date-answer.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-11-missing-date-answer.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "fc9fb5a7d76d4918ba6c1c803bf6589cebc4ad3f8d5da9fe748f71dea62d0273",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-12-date-citation-context.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-12-date-citation-context.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "461fbad1c2b1d50e92c0a015cdb3d595ec3dcf8ae01b4644c4f115bdc7baf74a",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-13-meeting-only-scope.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-13-meeting-only-scope.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "a7ea428133787e5b5ddb6339b2eb87eb162b6311d3d54d01547bf1b46a3792e4",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-14-meeting-only-answer.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-14-meeting-only-answer.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "13ff590f410c9c38b295941fa6ae01a654f72fb133bbba5cc699b67ff7b1dc0e",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-15-meeting-action-citation.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-15-meeting-action-citation.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "6acc493904f9e206f3775fe02312ea9ef5a2fd22354da8f5ddfd805628964283",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-16-six-question-answer.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-16-six-question-answer.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "94584385498ee89f5832dad50fc35bb390c249c0fa8e7cca4159e63bae5f7606",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-17-bank-fact-citation.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-17-bank-fact-citation.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "35482160acca1943d0e173a732d0ed30e8e503dd6613b58e9ca4efe16e50b27a",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-18-bank-action-citation.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-18-bank-action-citation.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "367802522749cfb05713759e7c776d606adb40bda54f91f82582a306065a264a",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-19-bank-guidance-citation.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-19-bank-guidance-citation.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "f01eda6ec83179164edee1e7e9ff3c7144872a6b8df4660e2e1e8b12fcb1c174",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-20-conflict-source-a.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-20-conflict-source-a.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "506f1dd260e2985de629cc48e410c19a65f549d361ea3867a49a65d41810c5d1",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-21-conflict-source-b.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-21-conflict-source-b.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "4caa31278e0ce025484ae073ad50f2827d8afdca9767563cf34e9c7588d38f56",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-22-conflict-no-approved-day.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-22-conflict-no-approved-day.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "7eb6feb45e422e9969b8c680e1c314894baeb103fcb29a3cb7980c65fed7da32",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-23-conflict-citation-context.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-23-conflict-citation-context.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "4f1a5b4c14eb0a9518b795ebf0dd844cc8c1f5811dcb44ccbd59a070fb5fcc33",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-24-revised-source-old-answer.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-24-revised-source-old-answer.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "db641d37845020d81661010a2cce55aaeb520d71b81f939fd4c4e221eee539bc",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-25-revised-selection-rerun.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-25-revised-selection-rerun.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "6940c8fa8c6efd616a3847438292957583fb25525de35a9268adc66bd89abfd9",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-26-revised-answer.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-26-revised-answer.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "d076102454e8e6fd1696b3d3050e67bf809af908353db802bce55126ac160fbe",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-27-revision-citation-proof.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-27-revision-citation-proof.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "8abfc67bf05e2166486f6c03474fec9993456960f6cbfe1aafd6b40b03fcee89",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-28-audit-limitations-and-conflict-note.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-28-audit-limitations-and-conflict-note.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "9efb386f23efad39943a9e5dae59ed80972966af8c30b17134b8785e9d3ca7f2",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
+    },
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-29-six-question-audit-table.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-29-six-question-audit-table.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "9856f40f64e1e3da6410512aed515fc99abf73feae9e791ac6f5a8b504046210",
+      "notes": [
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+      ]
     }
   },
   "missing_originals": [
