@@ -233,3 +233,7 @@ Advanced Lab12 adds37 original-dimension captures of baseline recovery, runbook/
 ### 27 October 2026: AI1 workspace and evaluation plan
 
 AI Lab 1 adds 23 original-dimension application captures: isolated folder, Gemini surface, current Gemini Notebook naming and one-original-source Copied text preflight, native evidence log with nine tables, three-source authority boundaries, five-topic FAQ contract, six predictions and six Not run scoring rows. Folder placement verified after UI repair. No generated FAQ, successful other source imports, Studio test, real reviewer agreement or independent challenge claimed. Programme 1,099 images; retained 1,096 sources (1,068 application windows, 6 focused views, 22 PDF pages). Seven untouched AI routes remain. Author action timing about 12 minutes plus 19 minutes verification/repairs does not validate the 40-minute classroom target.
+
+### 28 October 2026: AI2 prompt comparison (partial)
+
+Eight staged author captures document the grounded sponsor example, repair, bounded and checked FAQ, and same-conversation repeat. User-assisted retries were required; a vague response and a clean-context repeat remain unverified. Independent/reviewer and classroom timing remain pending. Programme 1,107 images; 1,104 retained sources. Six AI routes remain untouched.

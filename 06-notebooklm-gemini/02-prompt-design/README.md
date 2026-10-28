@@ -8,7 +8,7 @@ In this chapter you will use Goal, Context, Source and Expectations; compare a v
 
 **Your result:** A bounded prompt and a checked comparison with a vague request.
 
-> **Status:** expanded review draft, revision 0.4. Complete the casework and independent challenge as well as the guided steps. The expanded route, screenshots and timing have not yet been validated in the learner application.
+> **Status:** partial author reference with eight staged captures. Source-grounded sponsor and FAQ outputs were checked, with user-assisted retries and limitations recorded below. Vague baseline, clean repeat, independent challenge, reviewer and timing remain pending.
 
 ## What You Will Learn
 
@@ -24,73 +24,55 @@ Use the supplied project fact sheet. Use a fresh approved AI conversation for ea
 
 ## 2.1 Try a Vague Request
 
-1. Ask `Write a project update` without adding private material.
-2. Record what context the tool assumes or asks you for.
-3. Do not use this output as the project brief; it lacks the source boundary.
+1. In a fresh Gemini conversation using your approved training account, type **Write a project update**. The author run used Flash. Record the model, date, prompt and what the response assumes or asks.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![vague flash before send](./images/c06-02-03-vague-flash-before-send.jpg)
 
-You can identify why a generic request is difficult to evaluate.
-
-</details>
-
-<!-- VERIFY: execute 2.1 in the target account and reconcile control names. Capture images/c06-02-01.jpg only from the real app. -->
+2. Do not use an ungrounded response as the fictional project brief. In the author attempt Gemini returned an error; that is a service result, not an example project update and cannot be scored for source accuracy. Retry later if needed.
 
 ## 2.2 Write a Bounded Request
 
-1. Use the Part 2 prompt and paste the complete fact sheet.
-2. Check that Goal, Context, Source and Expectations are all present. Submit it.
-3. Compare its output with the vague response for relevance, invented commitments and ease of checking.
+1. Open a fresh conversation. Paste the **Part 2** prompt from the copy-paste page with the full supplied project fact sheet, replacing the placeholder. Check Goal, Context, Source and Expectations before submission.
+2. Read the answer against S1. In the observed Flash response, the update kept the three teams, proposed RM 12,000 ceiling, unagreed start, Friday cadence and final-two-weeks measure. The response was obtained after an instructor retry.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![user grounded sponsor response](./images/c06-02-05-user-grounded-sponsor-response.jpg)
 
-The bounded response can be checked against supplied facts and a specified audience.
-
-</details>
-
-<!-- VERIFY: execute 2.2 in the target account and reconcile control names. Capture images/c06-02-02.jpg only from the real app. -->
+3. Count the update body separately from the missing-information list: this response had **73 words**, below the requested 80–100. The source already says the budget is proposed and not approved; the outstanding item is the sponsor decision. Identify any phrase that invents readiness or an approval gate.
 
 ## 2.3 Refine One Dimension
 
-1. Ask for the same content in 80 to 100 words for the sponsor. Keep the same facts and unresolved decisions.
-2. Check every number and approval condition again.
-3. Record which prompt change helped and which check remains a human task.
+1. The initial prompt already asks for 80–100 words, so treat the next request as a **length-compliance repair**, not a new audience or length dimension. Ask for the same sponsor update in 80–100 words, preserving the original facts and unresolved decisions.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![refinement prompt before send](./images/c06-02-06-refinement-prompt-before-send.jpg)
 
-A shorter answer remains factual rather than more confidently overstated.
+2. Check the new response and count the update body. The recorded refinement had **84 words**, but introduced “ready to begin”, “four key outputs, led by Aina Rahman”, and a formal sign-off prerequisite. The source identifies Aina as coordinator and lists outputs; it does not establish readiness, universal output ownership or that prerequisite. Mark **Repair** and remove the unsupported claims.
 
-</details>
+![refined sponsor response](./images/c06-02-07-refined-sponsor-response.jpg)
 
-<!-- VERIFY: execute 2.3 in the target account and reconcile control names. Capture images/c06-02-03.jpg only from the real app. -->
+3. A better length alone does not establish factual accuracy. Compare the exact original text each time; do not treat AI assurance as evidence.
 
 ## 2.4 Run a Controlled Prompt Comparison
 
-1. Write a comparison plan for three prompts: vague request, bounded source request and bounded request with explicit output checks. Keep the same fictional task and source pack.
+1. Use the three supplied original sources and the five-topic coordinator FAQ task on the prompts page. Run the bounded FAQ in a fresh conversation. Record the actual model and retry any service error without scoring it. The recorded response was obtained by the instructor using **Redo**.
 
-2. Run each in a fresh approved session or clearly separated thread where available. Record the model/tool label shown, date, prompt and source route without exposing personal account details.
+![bounded faq after user redo](./images/c06-02-09-bounded-faq-after-user-redo.jpg)
 
-3. Use the six-question bank to audit each output for required facts, unsupported commitments, preserved uncertainty and checkable source support.
+2. Audit the six question-bank facts and cite the original passages. The response retained the required facts and relative weeks, but its question said actions must be completed “prior to the pilot”, which the sources do not establish. Remove that prerequisite and mark the answer **Repair**. A source label is a pointer to inspect, not proof.
+3. In another fresh conversation, keep the same FAQ task, same S1–S3 originals and model. Add the **Output checks** block from the prompts page. Capture the prompt before submission.
 
-4. Change only one prompt dimension at a time, such as audience or format. Note that supplying missing source facts is a grounding change, not just a stylistic improvement.
+![explicit checks prompt](./images/c06-02-10-explicit-checks-prompt.jpg)
 
-5. Keep the three outputs and a score table. Quote the exact problematic phrase for any failure and give the supporting source correction.
+4. Compare the checked output with the first FAQ. In this recorded run, both preserved the six tested facts; the checked version did not impose the earlier prerequisite and labelled the meeting record scripted and the guidance proposed. User-assisted retries and AI variation mean one pair does not prove the instruction caused the difference.
 
-6. Create a final prompt that specifies the coordinator audience, pasted source boundary, five FAQ topics and explicit handling of missing facts.
+![checked faq user result](./images/c06-02-11-checked-faq-user-result.jpg)
 
-7. Run the final prompt again in a fresh context and compare its performance with the first attempt. Record variation instead of treating one good result as guaranteed.
+5. Run the checked prompt again with the original sources. In the recorded repeat the conversation contains an earlier stopped request and then the identical prompt again; it is a repeat, but not a completely clean-context test. Its response preserved the six facts and used claim-level source labels. Inspect the underlying passages; S3 corroborates Friday cadence but does not establish budget approval or a calendar start.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![repeat faq user result](./images/c06-02-12-repeat-faq-user-result.jpg)
 
-Three-prompt comparison with preserved outputs and a consistent score table. The result must be supported by the recorded checks; an attractive output or an AI assurance is insufficient.
+6. Record a comparison table: prompt, model/source route, six source checks, exact unsupported claims, citation support and Accept/Repair/Hold decision. The vague request lacked the pack and requested a different output; it is an illustrative baseline, not a controlled FAQ comparison. The two FAQ prompts share task, sources and model; only the output-check block changes. The failed vague run cannot be scored as a generated answer.
 
-</details>
-
-<!-- VERIFY: execute expanded section 2.4 and independent challenge; capture images/c06-02-04.jpg only after real application success. -->
+**Author-run scope:** sponsor response and refinement, bounded FAQ, checked FAQ and repeat inspected; user-assisted retries were needed. The recorded 50-minute allocation is an unmeasured classroom target. A clean-context repeat, a successful vague response, independent challenge, reviewer agreement and learner timing remain pending.
 
 ## Independent Challenge
 
