@@ -11,7 +11,7 @@ Updated 27 October 2026. Screenshots are real application captures, cropped or m
 | 5. Sponsor update | 22 | Five-slide build, two linked charts, notes, process, baseline/revised PDF inspection and scripted cost correction. Rehearsal and independent reviewer/learner checks pending. |
 | 6. Hub and handover | 20 | Partial core: unpublished Site, native embeds, access matrix, guide links and author navigation improvement. Desktop/phone Preview blank; integrated rehearsal, partner and visitor tests pending. |
 
-Total: 1,099 captures: 109 masterclass, 165 Docs, 173 Slides, 213 Foundation, 416 Advanced and 23 AI. Thirty-seven specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 7 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
+Total: 1,109 captures: 109 masterclass, 165 Docs, 173 Slides, 213 Foundation, 416 Advanced and 33 AI. Thirty-eight specialist routes have author-reference captures; CSV import, values-only format preservation, upload handoffs, Slides imports and human/interactive checks remain partial. There are 6 untouched specialist routes. Planned allocations remain unvalidated classroom timings. The full programme remains a review draft.
 
 The native tracker now retains the Lab 5 T013 correction: actual cost 150, as required before Lab 6. Status counts remain 4 Complete, 4 In Progress and 5 Not Started, with 13 tasks, RM 10,600 planned, RM 6,950 actual and actual-minus-planned variance -RM 3,650. Earlier screenshots preserve the correct earlier stage values.
 
@@ -131,7 +131,7 @@ Foundation Lab 7 adds29 staged captures (25 application views and4 native PDF pa
 
 ### 25 October 2026: Foundation 8 corrected challenge and handover
 
-Foundation Lab 8 adds32 staged captures (31 application views and1 native PDF page): separate13-record workbook, extended active ranges, named-source retargeting, own-row variance repair, actual new-cell validation rejection, full formula inspection, two-method controls, T013 actual150 correction with totals10600/6950/-3650, checked9/3record views, current labelled PDF and operating guide. Original12-record baseline remains unchanged. Partner explanation/handover, independent T014/range omission and learner timing remain pending. Programme660 images; retained657 sources (629 application windows,6 focused views,22 PDF pages). Untouched routes:Advanced12,AI8. Site builder now copies reference-output JSON manifests so linked handover manifests are downloadable.
+Foundation Lab 8 adds33 staged captures (31 application views and1 native PDF page): separate13-record workbook, extended active ranges, named-source retargeting, own-row variance repair, actual new-cell validation rejection, full formula inspection, two-method controls, T013 actual150 correction with totals10600/6950/-3650, checked9/3record views, current labelled PDF and operating guide. Original12-record baseline remains unchanged. Partner explanation/handover, independent T014/range omission and learner timing remain pending. Programme660 images; retained657 sources (629 application windows,6 focused views,22 PDF pages). Untouched routes:Advanced12,AI8. Site builder now copies reference-output JSON manifests so linked handover manifests are downloadable.
 
 ### 25 October 2026: Advanced 1 source and intake audit
 
@@ -147,7 +147,7 @@ Advanced Lab3 adds39 staged application captures: separate restored practice cop
 
 ### 26 October 2026: Advanced4 text audit and categorisation
 
-Advanced Lab4 adds32 staged application captures through guided text extraction, display labels, six actual Gemini category proposals checked against Rates, three raw/clean CSV rows, three whitespace cases including retained NBSP, and eight expected-versus-actual identifier decisions with zero control differences. Maintained source and analysis remain unchanged. Independent mixed-intake/reviewer checks, native CSV file import and classroom timing remain pending. Programme798images; retained795sources (767application windows,6focused views,22PDF pages). Untouched routes:Advanced8,AI8.
+Advanced Lab4 adds33 staged application captures through guided text extraction, display labels, six actual Gemini category proposals checked against Rates, three raw/clean CSV rows, three whitespace cases including retained NBSP, and eight expected-versus-actual identifier decisions with zero control differences. Maintained source and analysis remain unchanged. Independent mixed-intake/reviewer checks, native CSV file import and classroom timing remain pending. Programme798images; retained795sources (767application windows,6focused views,22PDF pages). Untouched routes:Advanced8,AI8.
 
 ### 26 October 2026: Advanced5 exact lookups and error repair
 
@@ -155,7 +155,7 @@ Advanced Lab5 adds36 staged application captures:24 copied-order exact lookups r
 
 ### 26 October 2026: Advanced6 formula clinic
 
-Advanced Lab6 adds31 staged application captures in a separate whole-workbook clinic copy. Three defects are observed/repaired; normal, missing, zero, numeric-text, duplicate-key and final-row tests are recorded. All3158/Delivered1478 and24/12 controls plus manually inspected556 reconcile after restoration. Original maintained ranges unchanged. Independent hidden-fault diagnosis, partner/reviewer and learner timing remain pending. Programme865images; retained862sources (834application windows,6focused views,22PDF pages). Untouched routes:Advanced6,AI8.
+Advanced Lab6 adds33 staged application captures in a separate whole-workbook clinic copy. Three defects are observed/repaired; normal, missing, zero, numeric-text, duplicate-key and final-row tests are recorded. All3158/Delivered1478 and24/12 controls plus manually inspected556 reconcile after restoration. Original maintained ranges unchanged. Independent hidden-fault diagnosis, partner/reviewer and learner timing remain pending. Programme865images; retained862sources (834application windows,6focused views,22PDF pages). Untouched routes:Advanced6,AI8.
 
 ### 26 October 2026: Advanced7 native pivots and coverage
 
@@ -184,3 +184,11 @@ Advanced Lab12 adds37 original-dimension captures of baseline recovery, runbook/
 ### 27 October 2026: AI1 workspace and evaluation plan
 
 AI Lab 1 adds 23 original-dimension application captures: isolated folder, Gemini surface, current Gemini Notebook naming and one-original-source Copied text preflight, native evidence log with nine tables, three-source authority boundaries, five-topic FAQ contract, six predictions and six Not run scoring rows. Folder placement verified after UI repair. No generated FAQ, successful other source imports, Studio test, real reviewer agreement or independent challenge claimed. Programme 1,099 images; retained 1,096 sources (1,068 application windows, 6 focused views, 22 PDF pages). Seven untouched AI routes remain. Author action timing about 12 minutes plus 19 minutes verification/repairs does not validate the 40-minute classroom target.
+
+### 28 October 2026: AI2 prompt comparison (partial)
+
+Eight staged author captures document the grounded sponsor example, repair, bounded and checked FAQ, and same-conversation repeat. User-assisted retries were required; a clean-context repeat remain unverified. Independent/reviewer and classroom timing remain pending. Programme 1,109 images; 1,106 retained sources. Six AI routes remain untouched.
+
+### 28 October 2026: AI2 fresh-conversation repeat
+
+The checked FAQ was repeated with the three original sources in a fresh conversation. After two errors, user-assisted Redo produced version 3 with six source facts preserved and no invented before-pilot prerequisite. Programme 1,109 images; 1,106 retained sources. Six AI routes remain untouched; independent/reviewer and classroom timing remain pending.

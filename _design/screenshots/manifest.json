@@ -25872,6 +25872,343 @@
       "notes": [
         "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
       ]
+    },
+    "06-notebooklm-gemini/02-prompt-design/images/c06-02-03-vague-flash-before-send.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/02-prompt-design/c06-02-03-vague-flash-before-send.png",
+      "dimensions": [
+        1909,
+        1104
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          0,
+          1014,
+          210,
+          1104
+        ],
+        [
+          604,
+          1064,
+          1374,
+          1104
+        ],
+        [
+          1829,
+          0,
+          1909,
+          65
+        ]
+      ],
+      "sha256": "19e604cfff6b29583d50f21304d49bd52d1f28927b4371136516611cf45367f6",
+      "notes": [
+        "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending."
+      ]
+    },
+    "06-notebooklm-gemini/02-prompt-design/images/c06-02-05-user-grounded-sponsor-response.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/02-prompt-design/c06-02-05-user-grounded-sponsor-response.png",
+      "dimensions": [
+        1909,
+        1104
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          0,
+          1014,
+          210,
+          1104
+        ],
+        [
+          604,
+          1064,
+          1374,
+          1104
+        ],
+        [
+          1829,
+          0,
+          1909,
+          65
+        ],
+        [
+          0,
+          260,
+          285,
+          1000
+        ]
+      ],
+      "sha256": "73cabd1dddca2736510356b16b5004c3465f9bbfdc475bcca3859214cd9ffa0d",
+      "notes": [
+        "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending.",
+        "Unrelated sidebar history masked."
+      ]
+    },
+    "06-notebooklm-gemini/02-prompt-design/images/c06-02-06-refinement-prompt-before-send.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/02-prompt-design/c06-02-06-refinement-prompt-before-send.png",
+      "dimensions": [
+        1909,
+        1104
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          0,
+          1014,
+          210,
+          1104
+        ],
+        [
+          604,
+          1064,
+          1374,
+          1104
+        ],
+        [
+          1829,
+          0,
+          1909,
+          65
+        ]
+      ],
+      "sha256": "cb5b13f8b824ca55c0dd16bcc0151ba8d0fb639f090bd0930a0c0bf751b3fe3f",
+      "notes": [
+        "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending."
+      ]
+    },
+    "06-notebooklm-gemini/02-prompt-design/images/c06-02-07-refined-sponsor-response.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/02-prompt-design/c06-02-07-refined-sponsor-response.png",
+      "dimensions": [
+        1909,
+        1104
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          0,
+          1014,
+          210,
+          1104
+        ],
+        [
+          604,
+          1064,
+          1374,
+          1104
+        ],
+        [
+          1829,
+          0,
+          1909,
+          65
+        ]
+      ],
+      "sha256": "0c97efc5576fb25fb93a462da80b875f9f5369ef6b52100fa01635c3cf464d33",
+      "notes": [
+        "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending."
+      ]
+    },
+    "06-notebooklm-gemini/02-prompt-design/images/c06-02-09-bounded-faq-after-user-redo.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/02-prompt-design/c06-02-09-bounded-faq-after-user-redo.png",
+      "dimensions": [
+        1909,
+        1041
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          0,
+          951,
+          210,
+          1041
+        ],
+        [
+          604,
+          1001,
+          1374,
+          1041
+        ],
+        [
+          1829,
+          0,
+          1909,
+          65
+        ]
+      ],
+      "sha256": "5c4f43ad1db0606a0ca76c30e6c250a6187843efe10a16dac90300ecc428bf0d",
+      "notes": [
+        "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending."
+      ]
+    },
+    "06-notebooklm-gemini/02-prompt-design/images/c06-02-10-explicit-checks-prompt.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/02-prompt-design/c06-02-10-explicit-checks-prompt.png",
+      "dimensions": [
+        1909,
+        1041
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          0,
+          951,
+          210,
+          1041
+        ],
+        [
+          604,
+          1001,
+          1374,
+          1041
+        ],
+        [
+          1829,
+          0,
+          1909,
+          65
+        ]
+      ],
+      "sha256": "599a82a0bee105fba16f41dcdf235a641fb387c279a78ec42559e545379d26df",
+      "notes": [
+        "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending."
+      ]
+    },
+    "06-notebooklm-gemini/02-prompt-design/images/c06-02-11-checked-faq-user-result.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/02-prompt-design/c06-02-11-checked-faq-user-result.png",
+      "dimensions": [
+        1909,
+        1041
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          0,
+          951,
+          210,
+          1041
+        ],
+        [
+          604,
+          1001,
+          1374,
+          1041
+        ],
+        [
+          1829,
+          0,
+          1909,
+          65
+        ]
+      ],
+      "sha256": "579eff337fcc351644e763f125a9e32e892d4ffafbba6d8026f09e6e74d80aed",
+      "notes": [
+        "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending."
+      ]
+    },
+    "06-notebooklm-gemini/02-prompt-design/images/c06-02-12-repeat-faq-user-result.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/02-prompt-design/c06-02-12-repeat-faq-user-result.png",
+      "dimensions": [
+        1909,
+        1041
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          0,
+          951,
+          210,
+          1041
+        ],
+        [
+          604,
+          1001,
+          1374,
+          1041
+        ],
+        [
+          1829,
+          0,
+          1909,
+          65
+        ]
+      ],
+      "sha256": "5ab424b7d5c8beb39926cd3b3301ff041ea72a19a51ea5c8b1673d84189b9b8e",
+      "notes": [
+        "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending."
+      ]
+    },
+    "06-notebooklm-gemini/02-prompt-design/images/c06-02-13-vague-success.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/02-prompt-design/c06-02-13-vague-success.png",
+      "dimensions": [
+        1909,
+        1104
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          0,
+          1014,
+          210,
+          1104
+        ],
+        [
+          604,
+          1064,
+          1374,
+          1104
+        ],
+        [
+          1829,
+          0,
+          1909,
+          65
+        ]
+      ],
+      "sha256": "bc6469e7810ed760e268961c63fccdd7749bac655ebf652c1488e8d210d59cc0",
+      "notes": [
+        "Fresh vague prompt in Flash produced a generic template. Full application window, account and footer masked; no crop or resize. Illustrative example, not evidence of pilot status."
+      ]
+    },
+    "06-notebooklm-gemini/02-prompt-design/images/c06-02-14-clean-repeat-success.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/02-prompt-design/c06-02-14-clean-repeat-success.png",
+      "dimensions": [
+        1909,
+        1041
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          0,
+          951,
+          210,
+          1041
+        ],
+        [
+          604,
+          1001,
+          1374,
+          1041
+        ],
+        [
+          1829,
+          0,
+          1909,
+          65
+        ]
+      ],
+      "sha256": "093dd8ca0133c67777870654ed0a1702233bd84c913d8fcbd923c9a07c41104e",
+      "notes": [
+        "Fresh conversation containing original S1-S3 and identical checked prompt. Two earlier versions returned errors; version3 generated with user-assisted Redo. Original dimensions, private account masked."
+      ]
     }
   },
   "missing_originals": [

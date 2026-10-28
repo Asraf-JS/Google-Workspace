@@ -1378,3 +1378,34 @@ AI Lab 1 adds 23 original-dimension application captures: isolated folder, Gemin
 | [c06-01-22-scoring-section-kept-with-table.jpg](../../06-notebooklm-gemini/01-ai-workspace/images/c06-01-22-scoring-section-kept-with-table.jpg) | [PNG](full/06-notebooklm-gemini/01-ai-workspace/c06-01-22-scoring-section-kept-with-table.png) | 1591 x 867 | application-window |
 | [c06-01-25-final-six-test-scoring-plan.jpg](../../06-notebooklm-gemini/01-ai-workspace/images/c06-01-25-final-six-test-scoring-plan.jpg) | [PNG](full/06-notebooklm-gemini/01-ai-workspace/c06-01-25-final-six-test-scoring-plan.png) | 1591 x 867 | application-window |
 | [c06-01-26-evidence-log-saved-in-practice-folder.jpg](../../06-notebooklm-gemini/01-ai-workspace/images/c06-01-26-evidence-log-saved-in-practice-folder.jpg) | [PNG](full/06-notebooklm-gemini/01-ai-workspace/c06-01-26-evidence-log-saved-in-practice-folder.png) | 1432 x 781 | application-window |
+
+## AI2: Prompt comparison (partial)
+
+Eight staged original-dimension captures; user-assisted responses and limitations are recorded in the lab. Programme 1,107 images; 1,104 retained sources.
+
+| Lesson image | Full source | Dimensions | Kind |
+|---|---|---|---|
+| [c06-02-03-vague-flash-before-send.jpg](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-03-vague-flash-before-send.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-03-vague-flash-before-send.png) | 1909 x 1104 | application-window |
+| [c06-02-05-user-grounded-sponsor-response.jpg](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-05-user-grounded-sponsor-response.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-05-user-grounded-sponsor-response.png) | 1909 x 1104 | application-window |
+| [c06-02-06-refinement-prompt-before-send.jpg](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-06-refinement-prompt-before-send.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-06-refinement-prompt-before-send.png) | 1909 x 1104 | application-window |
+| [c06-02-07-refined-sponsor-response.jpg](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-07-refined-sponsor-response.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-07-refined-sponsor-response.png) | 1909 x 1104 | application-window |
+| [c06-02-09-bounded-faq-after-user-redo.jpg](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-09-bounded-faq-after-user-redo.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-09-bounded-faq-after-user-redo.png) | 1909 x 1041 | application-window |
+| [c06-02-10-explicit-checks-prompt.jpg](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-10-explicit-checks-prompt.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-10-explicit-checks-prompt.png) | 1909 x 1041 | application-window |
+| [c06-02-11-checked-faq-user-result.jpg](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-11-checked-faq-user-result.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-11-checked-faq-user-result.png) | 1909 x 1041 | application-window |
+| [c06-02-12-repeat-faq-user-result.jpg](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-12-repeat-faq-user-result.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-12-repeat-faq-user-result.png) | 1909 x 1041 | application-window |
+
+### AI2 baseline follow-up
+
+A fresh Flash run produced a generic template; its example status and achievements are not evidence of the fictional pilot. Programme 1,108 images, 1,105 retained sources.
+
+| Lesson image | Full source | Dimensions | Kind |
+|---|---|---|---|
+| [vague response](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-13-vague-success.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-13-vague-success.png) | 1909 x 1104 | application-window |
+
+### AI2 fresh-conversation repeat
+
+User-assisted Redo produced version 3 after two service errors; six facts checked. Programme 1,109 images; 1,106 retained sources.
+
+| Lesson image | Full source | Dimensions | Kind |
+|---|---|---|---|
+| [repeat FAQ](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-14-clean-repeat-success.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-14-clean-repeat-success.png) | 1909 x 1041 | application-window |
