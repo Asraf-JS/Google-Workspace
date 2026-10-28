@@ -2,7 +2,7 @@
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
-This chapter uses the supplied files and visible controls. No additional prompt or typed code is required.
+Use the source files and the sample prompts below. Review all suggested actions and output against the originals.
 
 
 ## Depth Case Input
@@ -23,3 +23,19 @@ Delay scenario: Bala says the status-definition review is delayed and no replace
 6. Which preparation actions, owners and due weeks are explicit?
 
 Keep source facts separate from inferred workflow. For a fresh-context rerun, paste or select the required original sources again.
+
+## Panel-only Examples
+
+```text
+Reply in chat text only. Do not insert, edit, or propose changes to the document. Summarise the project fact sheet and attached proposed guidance in a coordinator update of about 150 words. Preserve the unagreed start date, four-week duration, Friday cadence, final-two-week success measure and proposed, unapproved RM12,000 ceiling. Label proposed practice and missing decisions.
+```
+
+```text
+Reply only as plain chat text. Do not use tools, create a Gmail draft, send, or edit any document. Provide example wording for a message requesting team preparation. Mention the proposed guidance, unagreed start date and unapproved RM12,000 ceiling. Do not assert that preparation has been accepted or the pilot has begun.
+```
+
+```text
+Reply in chat only. Do not use tools, create tasks, events, drafts, or edit files. Extract Action, Owner, and Due practice week from the complete scripted meeting record pasted below; then list unresolved decisions. Do not infer a calendar date.
+```
+
+Paste the entire supplied meeting record after the last prompt. Inspect proposed actions and saved drafts: a prompt is not a guarantee that Gemini will refrain from taking an action.

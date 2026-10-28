@@ -1409,3 +1409,21 @@ User-assisted Redo produced version 3 after two service errors; six facts checke
 | Lesson image | Full source | Dimensions | Kind |
 |---|---|---|---|
 | [repeat FAQ](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-14-clean-repeat-success.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-14-clean-repeat-success.png) | 1909 x 1041 | application-window |
+
+### 28 October 2026: AI3 Workspace workflow
+
+Lab 3 adds 11 original-dimension captures of named source attachment, a rejected document proposal, checked update and message, action extraction, native lineage table and separate delay scenario. Gemini created an unaddressed Gmail draft despite a panel-only instruction; it remained unsent. Three owners and relative weeks checked; scenario replacement week remains unknown. Independent challenge, reviewer agreement and classroom timing remain pending. Programme 1,120 images; 1,117 retained sources; five AI routes remain untouched.
+
+| Lesson image | Full source | Dimensions | Kind |
+|---|---|---|---|
+| [c06-03-01-practice-source-fact-sheet.jpg](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-01-practice-source-fact-sheet.jpg) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-01-practice-source-fact-sheet.png) | 1591 x 920 | application-window |
+| [c06-03-02-gemini-panel-open.jpg](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-02-gemini-panel-open.jpg) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-02-gemini-panel-open.png) | 1591 x 920 | application-window |
+| [c06-03-03-proposed-guidance-source.jpg](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-03-proposed-guidance-source.jpg) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-03-proposed-guidance-source.png) | 1591 x 868 | application-window |
+| [c06-03-04-guidance-attached.jpg](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-04-guidance-attached.jpg) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-04-guidance-attached.png) | 1591 x 920 | application-window |
+| [c06-03-05-update-prompt.jpg](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-05-update-prompt.jpg) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-05-update-prompt.png) | 1591 x 920 | application-window |
+| [c06-03-06-unexpected-proposed-edit.jpg](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-06-unexpected-proposed-edit.jpg) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-06-unexpected-proposed-edit.png) | 1591 x 920 | application-window |
+| [c06-03-10-checked-update.jpg](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-10-checked-update.jpg) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-10-checked-update.png) | 1591 x 868 | application-window |
+| [c06-03-11-unsent-message.jpg](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-11-unsent-message.jpg) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-11-unsent-message.png) | 1591 x 868 | application-window |
+| [c06-03-12-action-lineage.jpg](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-12-action-lineage.jpg) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-12-action-lineage.png) | 1591 x 868 | application-window |
+| [c06-03-14-lineage-table.jpg](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-14-lineage-table.jpg) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-14-lineage-table.png) | 1591 x 868 | application-window |
+| [c06-03-13-delay-scenario.jpg](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-13-delay-scenario.jpg) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-13-delay-scenario.png) | 1591 x 868 | application-window |

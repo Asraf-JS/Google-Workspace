@@ -241,3 +241,7 @@ Eight staged author captures document the grounded sponsor example, repair, boun
 ### 28 October 2026: AI2 fresh-conversation repeat
 
 The checked FAQ was repeated with the three original sources in a fresh conversation. After two errors, user-assisted Redo produced version 3 with six source facts preserved and no invented before-pilot prerequisite. Programme 1,109 images; 1,106 retained sources. Six AI routes remain untouched; independent/reviewer and classroom timing remain pending.
+
+### 28 October 2026: AI3 Workspace workflow
+
+Lab 3 adds 11 original-dimension captures of named source attachment, a rejected document proposal, checked update and message, action extraction, native lineage table and separate delay scenario. Gemini created an unaddressed Gmail draft despite a panel-only instruction; it remained unsent. Three owners and relative weeks checked; scenario replacement week remains unknown. Independent challenge, reviewer agreement and classroom timing remain pending. Programme 1,120 images; 1,117 retained sources; five AI routes remain untouched.

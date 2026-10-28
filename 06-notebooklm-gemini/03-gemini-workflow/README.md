@@ -8,7 +8,7 @@ In this chapter you will draft and revise from supplied files; verify cross-file
 
 **Your result:** A checked project update and communication draft from explicit sources.
 
-> **Status:** expanded review draft, revision 0.4. Complete the casework and independent challenge as well as the guided steps. The expanded route, screenshots and timing have not yet been validated in the learner application.
+> **Status:** author reference with 11 staged captures. The guided route, a native lineage table and a separate delay scenario were checked. The independent challenge, reviewer agreement and classroom timing remain pending.
 
 ## What You Will Learn
 
@@ -24,73 +24,58 @@ Use a new practice Google Doc containing the supplied fact sheet. The reference 
 
 ## 3.1 Draft in Context
 
-1. Open Ask Gemini in the practice Doc. Request a source-bounded project update in the panel only.
-2. If @ file references are offered, select the exact practice source by title and inspect the source chip. Do not choose unrelated files.
-3. Where references are unavailable, paste the complete source and record that alternate route.
+1. Create a practice Doc containing the complete fictional project fact sheet. Open **Ask Gemini**.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![practice source fact sheet](./images/c06-03-01-practice-source-fact-sheet.jpg)
 
-The task uses the intended fictional source rather than an ambiguous file title.
+![gemini panel open](./images/c06-03-02-gemini-panel-open.jpg)
 
-</details>
+2. Create a separate Doc from the supplied proposed reporting guidance. In the panel choose **Add sources → Add from Drive**, select the exact guidance document and confirm its chip. In the author run it was named **GW - AI - Proposed Reporting Guidance v1**. If the picker is unavailable, paste the complete guidance and record that fallback.
 
-<!-- VERIFY: execute 3.1 in the target account and reconcile control names. Capture images/c06-03-01.jpg only from the real app. -->
+![proposed guidance source](./images/c06-03-03-proposed-guidance-source.jpg)
+
+![guidance attached](./images/c06-03-04-guidance-attached.jpg)
+
+3. Request a coordinator update using both the current document and the named source. Ask for plain chat text only, without document edits, and review any proposed change before accepting it.
+
+![update prompt](./images/c06-03-05-update-prompt.jpg)
+
+4. The first author request said panel only, yet Gemini proposed inserting text into the source document. The author rejected it and verified that the original remained intact. A second request explicitly saying “Do not insert, edit, or propose changes” returned a panel answer with links to both documents. A link is a pointer, not proof: inspect the original passages.
+
+![unexpected proposed edit](./images/c06-03-06-unexpected-proposed-edit.jpg)
+
+5. Check the unagreed start, proposed and unapproved RM 12,000 ceiling, four-week duration, Friday cadence and final-two-week success measure. The answer stated “Operations follow” the proposed guidance; the author corrected this to describe proposed training practice, not established operations or approved policy.
+
+![checked update](./images/c06-03-10-checked-update.jpg)
 
 ## 3.2 Adapt a Communication
 
-1. Ask for a draft email based on the checked update. Leave recipients unspecified and prohibit sending.
-2. Review the draft for budget status, start date and unsupported commitments.
-3. Copy the checked text into your playbook or an unsent Gmail draft if the trainer assigns that step.
+1. Ask for example message wording based on the checked update. Keep recipients blank and do not send. Explicitly request plain chat text and prohibit creating a Gmail draft, using tools or editing a file; inspect the result before proceeding.
+2. **Observed behaviour:** despite a panel-only request, Gemini created an unaddressed Gmail draft before the author could cancel. It remained unsent. A more explicit no-tools, no-draft request produced text in the panel. Instructions alone do not guarantee that Gemini will avoid actions; inspect the interface and saved drafts, and stop an unintended action when possible.
+3. Copy or manually adapt the checked wording to a playbook. Preserve the unresolved decisions and proposed guidance; do not claim a launch or accepted commitment.
 
-<details markdown="1">
-<summary>What should you see?</summary>
-
-A checked communication exists without an unintended send action.
-
-</details>
-
-<!-- VERIFY: execute 3.2 in the target account and reconcile control names. Capture images/c06-03-02.jpg only from the real app. -->
+![unsent message](./images/c06-03-11-unsent-message.jpg)
 
 ## 3.3 Review Cross-App Actions
 
-1. Ask Gemini to explain the preparation actions from the meeting record, without creating tasks or calendar events.
-2. Inspect its suggested owners and deadlines against the source record.
-3. Discuss which further action would need a deliberate review before any task, event or shared-file edit is applied.
+1. Paste the complete scripted meeting record into the panel and ask Gemini to extract action, owner and relative practice week in chat only. Explicitly prohibit creating tasks, events, drafts or file changes.
+2. Check the output against the original: Aina prepares a draft template in week 1, Bala reviews status definitions in week 1, and Siti collects a fictional sample update in week 2. The author response correctly extracted those rows, but grouped “no purchase authorised” and “no external announcement planned” with unresolved decisions; those are stated constraints, not proof of additional pending approvals.
+3. Record the checked list as text. A proposed action or extracted owner is not an assigned task, and a practice week is not a calendar date.
 
-<details markdown="1">
-<summary>What should you see?</summary>
-
-You distinguish a draft/extraction result from an action that changes an application.
-
-</details>
-
-<!-- VERIFY: execute 3.3 in the target account and reconcile control names. Capture images/c06-03-03.jpg only from the real app. -->
+![action lineage](./images/c06-03-12-action-lineage.jpg)
 
 ## 3.4 Trace One Evidence Set Through Three Outputs
 
-1. Create an **Output Lineage** table for source facts → checked Doc update → draft email → action list. Record the source used at every step.
+1. Create an **Output Lineage** table mapping each output to its input and check: fact sheet and proposed guidance → checked coordinator update; checked update → unsent message; scripted meeting record → action list. The author used an editable Google Docs table after building the three outputs.
 
-2. Generate or manually prepare a 150-word coordinator update using the fact sheet and proposed guidance. Audit budget status, date, cadence and success measure before continuing.
+![lineage table](./images/c06-03-14-lineage-table.jpg)
 
-3. Adapt that checked update into an unsent email draft with purpose, preparation request and unresolved decisions. Keep recipients blank if using Gmail.
+2. Compare the three outputs. Ensure that proposed practice has not become approved policy, an unsent request has not become an accepted commitment, and an extracted row is not an assigned task. Record the exact attached source title and the pasted meeting-record route.
+3. Make a separate named scenario copy. Apply the delay card: Bala’s status-definition review is delayed and no replacement week is confirmed. Update the related follow-up wording and Bala’s row; retain Aina’s and Siti’s actions, the budget status and the unagreed start date. Keep the original baseline intact.
 
-4. Extract the three preparation actions from the scripted meeting record into Action, Owner, Due practice week and Source. Verify each independently.
+![delay scenario](./images/c06-03-13-delay-scenario.jpg)
 
-5. Compare outputs for drift: a proposed practice must not become approved policy, an unsent request must not become an accepted commitment, and an extracted row must not be described as an assigned task.
-
-6. Use the delay card in a separate scenario copy to revise only Bala’s action and the related follow-up wording. Keep unchanged facts stable across the outputs.
-
-7. Record any file-reference route used, including the exact selected source title. If @ references are unavailable, paste the sources and state that route rather than implying cross-file retrieval was tested.
-
-<details markdown="1">
-<summary>What should you see?</summary>
-
-Lineage table and three checked output types with consistent facts. The result must be supported by the recorded checks; an attractive output or an AI assurance is insufficient.
-
-</details>
-
-<!-- VERIFY: execute expanded section 3.4 and independent challenge; capture images/c06-03-04.jpg only after real application success. -->
+**Author-run scope:** source attachment, panel response, manually checked update and message, meeting-record extraction, lineage table and separate scenario copy were verified. The Gmail draft side effect and rejected document proposal are recorded above. The independent challenge, separate human review and 55-minute classroom allocation have not been validated.
 
 ## Independent Challenge
 
