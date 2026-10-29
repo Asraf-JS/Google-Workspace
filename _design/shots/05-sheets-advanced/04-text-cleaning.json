@@ -1,0 +1,390 @@
+{
+ "raw": "../raw/05-sheets-advanced/04-text-cleaning",
+ "repoRoot": "../../../05-sheets-advanced",
+ "shots": {
+  "c05-04-01-source-identifiers-on-separate-practice-tab.png": {
+   "boxes": [
+    [
+     44,
+     166,
+     880,
+     246,
+     1,
+     "below"
+    ]
+   ]
+  },
+  "c05-04-02-left-prefix-first-row.png": {
+   "boxes": [
+    [
+     504,
+     186,
+     654,
+     206,
+     2
+    ]
+   ]
+  },
+  "c05-04-03-right-suffix-retains-leading-zeros.png": {
+   "boxes": [
+    [
+     656,
+     186,
+     806,
+     206,
+     3
+    ]
+   ]
+  },
+  "c05-04-04-mid-suffix-matches-right.png": {
+   "boxes": [
+    [
+     808,
+     186,
+     958,
+     206,
+     4
+    ]
+   ]
+  },
+  "c05-04-05-fill-extractions-through-final-sample.png": {
+   "boxes": [
+    [
+     504,
+     186,
+     958,
+     246,
+     5
+    ]
+   ]
+  },
+  "c05-04-06-trim-space-padded-team-from-dirtytext.png": {
+   "boxes": [
+    [
+     44,
+     286,
+     654,
+     326,
+     1
+    ]
+   ]
+  },
+  "c05-04-07-display-label-keeps-separate-source-fields.png": {
+   "boxes": [
+    [
+     960,
+     186,
+     1190,
+     206,
+     2
+    ]
+   ]
+  },
+  "c05-04-08-completed-text-practice-labels.png": {
+   "boxes": [
+    [
+     960,
+     186,
+     1190,
+     246,
+     3
+    ],
+    [
+     44,
+     346,
+     354,
+     476,
+     3
+    ]
+   ]
+  },
+  "c05-04-09-six-item-rates-category-reference.png": {
+   "boxes": [
+    [
+     44,
+     206,
+     676,
+     404,
+     1
+    ]
+   ]
+  },
+  "c05-04-10-gemini-category-request-with-explicit-mapping.png": {
+   "boxes": [
+    [
+     1196,
+     530,
+     1590,
+     720,
+     2,
+     "left"
+    ]
+   ]
+  },
+  "c05-04-11-gemini-six-proposals-beside-reference.png": {
+   "boxes": [
+    [
+     1176,
+     400,
+     1560,
+     660,
+     3,
+     "left"
+    ]
+   ]
+  },
+  "c05-04-12-record-gemini-proposals-before-reference-checks.png": {
+   "boxes": [
+    [
+     44,
+     166,
+     1180,
+     306,
+     4,
+     "below"
+    ]
+   ]
+  },
+  "c05-04-13-six-proposals-checked-against-rates.png": {
+   "boxes": [
+    [
+     570,
+     166,
+     980,
+     306,
+     5
+    ]
+   ]
+  },
+  "c05-04-14-raw-dirtytext-values-preserved-before-cleaning.png": {
+   "boxes": [
+    [
+     44,
+     166,
+     550,
+     246,
+     1,
+     "below"
+    ]
+   ]
+  },
+  "c05-04-15-explicit-team-and-status-normalisation-first-row.png": {
+   "boxes": [
+    [
+     552,
+     186,
+     918,
+     206,
+     2
+    ]
+   ]
+  },
+  "c05-04-16-three-raw-clean-rows-with-decisions-and-lengths.png": {
+   "boxes": [
+    [
+     552,
+     186,
+     1580,
+     246,
+     3,
+     "below"
+    ]
+   ]
+  },
+  "c05-04-17-space-test-expectations-before-trim.png": {
+   "boxes": [
+    [
+     44,
+     386,
+     1500,
+     466,
+     4,
+     "below"
+    ]
+   ]
+  },
+  "c05-04-18-trim-leaves-nonbreaking-spaces-for-review.png": {
+   "boxes": [
+    [
+     360,
+     406,
+     1580,
+     466,
+     5,
+     "below"
+    ]
+   ]
+  },
+  "c05-04-19-readable-space-tests-with-codepoint-160.png": {
+   "boxes": [
+    [
+     44,
+     386,
+     1380,
+     520,
+     6
+    ]
+   ]
+  },
+  "c05-04-20-eight-identifier-expectations-before-extraction.png": {
+   "boxes": [
+    [
+     44,
+     166,
+     1580,
+     346,
+     7,
+     "below"
+    ]
+   ]
+  },
+  "c05-04-21-substrings-can-succeed-on-malformed-key.png": {
+   "boxes": [
+    [
+     636,
+     186,
+     940,
+     346,
+     8,
+     "below"
+    ]
+   ]
+  },
+  "c05-04-22-full-pattern-validation-separate-from-extraction.png": {
+   "boxes": [
+    [
+     950,
+     186,
+     1050,
+     346,
+     9
+    ]
+   ]
+  },
+  "c05-04-23-it99-pattern-pass-but-reference-fail.png": {
+   "boxes": [
+    [
+     40,
+     306,
+     1150,
+     326,
+     10
+    ]
+   ]
+  },
+  "c05-04-24-separate-accepted-malformed-blank-and-unmapped-decisions.png": {
+   "boxes": [
+    [
+     1150,
+     186,
+     1320,
+     346,
+     11
+    ]
+   ]
+  },
+  "c05-04-25-eight-decisions-match-recorded-expectations.png": {
+   "boxes": [
+    [
+     1304,
+     186,
+     1460,
+     346,
+     12
+    ]
+   ]
+  },
+  "c05-04-26-identifier-controls-reconcile-with-zero-differences.png": {
+   "boxes": [
+    [
+     50,
+     386,
+     510,
+     676,
+     13
+    ]
+   ]
+  },
+  "c05-04-27-pipeline-traceability-and-reversibility-notes.png": {
+   "boxes": [
+    [
+     44,
+     166,
+     1420,
+     420,
+     14
+    ]
+   ]
+  },
+  "c05-04-28-final-raw-clean-and-whitespace-audit.png": {
+   "boxes": [
+    [
+     50,
+     386,
+     1580,
+     520,
+     15
+    ]
+   ]
+  },
+  "c05-04-29-final-identifier-decisions-and-controls.png": {
+   "boxes": [
+    [
+     44,
+     166,
+     1460,
+     346,
+     16,
+     "below"
+    ],
+    [
+     44,
+     386,
+     496,
+     676
+    ]
+   ]
+  },
+  "c05-04-30-maintained-orders-source-preserved.png": {
+   "boxes": [
+    [
+     50,
+     166,
+     1580,
+     830,
+     17,
+     "left"
+    ]
+   ]
+  },
+  "c05-04-31-text-practice-keeps-keys-and-leading-zero-labels.png": {
+   "boxes": [
+    [
+     44,
+     166,
+     1190,
+     246,
+     18,
+     "below"
+    ]
+   ]
+  },
+  "c05-04-32-six-ai-reference-comparisons-complete.png": {
+   "boxes": [
+    [
+     50,
+     166,
+     990,
+     306,
+     19
+    ],
+    [
+     50,
+     346,
+     1080,
+     366
+    ]
+   ]
+  }
+ }
+}

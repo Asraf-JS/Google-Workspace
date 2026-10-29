@@ -18928,7 +18928,7 @@
         "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/03-validation-exceptions.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-01-source-identifiers-on-separate-practice-tab.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-01-source-identifiers-on-separate-practice-tab.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-01-source-identifiers-on-separate-practice-tab.png",
       "dimensions": [
         1591,
@@ -18946,10 +18946,11 @@
       ],
       "sha256": "765e327f877209a96ad2560fb22610b0b9379a089b56ca7f1ef563945b13535e",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-02-left-prefix-first-row.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-02-left-prefix-first-row.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-02-left-prefix-first-row.png",
       "dimensions": [
         1591,
@@ -18967,10 +18968,11 @@
       ],
       "sha256": "e768d0bd9ec8a0c0942523f2e7344c3544085e5482a4819c1d267f4bfd967559",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-03-right-suffix-retains-leading-zeros.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-03-right-suffix-retains-leading-zeros.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-03-right-suffix-retains-leading-zeros.png",
       "dimensions": [
         1591,
@@ -18988,10 +18990,11 @@
       ],
       "sha256": "5344b8097c4041b28cac0ff3f563a35d0dcc1c349aab02f4fd2dcd544d4eede7",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-04-mid-suffix-matches-right.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-04-mid-suffix-matches-right.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-04-mid-suffix-matches-right.png",
       "dimensions": [
         1591,
@@ -19009,10 +19012,11 @@
       ],
       "sha256": "58793d7bf7a091e0e2645037e96848086cc920b6e5bfb642325fca458013c410",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-05-fill-extractions-through-final-sample.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-05-fill-extractions-through-final-sample.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-05-fill-extractions-through-final-sample.png",
       "dimensions": [
         1591,
@@ -19030,10 +19034,11 @@
       ],
       "sha256": "ce055b2855b98034d56d9fd24cf823dbc3ced12136ee6ef2666578a8e7869d03",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-06-trim-space-padded-team-from-dirtytext.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-06-trim-space-padded-team-from-dirtytext.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-06-trim-space-padded-team-from-dirtytext.png",
       "dimensions": [
         1591,
@@ -19051,10 +19056,11 @@
       ],
       "sha256": "361c343887c1322e1c1b510c381b8a1ae74ea32f405eaaf15c26fa34cb852d84",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-07-display-label-keeps-separate-source-fields.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-07-display-label-keeps-separate-source-fields.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-07-display-label-keeps-separate-source-fields.png",
       "dimensions": [
         1591,
@@ -19072,10 +19078,11 @@
       ],
       "sha256": "aea7175352f5d9c290d9f90a4893ac8dfe84323cd1200a99287cf9944de3b0d4",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-08-completed-text-practice-labels.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-08-completed-text-practice-labels.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-08-completed-text-practice-labels.png",
       "dimensions": [
         1591,
@@ -19093,10 +19100,11 @@
       ],
       "sha256": "d4acb49ae5f58212bb67936c681ca388faccdce7d244948a6ac68fe8d699b385",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-09-six-item-rates-category-reference.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-09-six-item-rates-category-reference.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-09-six-item-rates-category-reference.png",
       "dimensions": [
         1591,
@@ -19114,10 +19122,11 @@
       ],
       "sha256": "dace4d1cd87897f030e3efb297af21739891afee0ba80b696bfc9cc485482409",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-10-gemini-category-request-with-explicit-mapping.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-10-gemini-category-request-with-explicit-mapping.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-10-gemini-category-request-with-explicit-mapping.png",
       "dimensions": [
         1591,
@@ -19135,10 +19144,11 @@
       ],
       "sha256": "75b9599c8a65d67d8f2fcec2a1a578182cdb47f716a3ec2d6147566a1cb1c55b",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-11-gemini-six-proposals-beside-reference.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-11-gemini-six-proposals-beside-reference.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-11-gemini-six-proposals-beside-reference.png",
       "dimensions": [
         1591,
@@ -19156,10 +19166,11 @@
       ],
       "sha256": "3090146c4d529e13174bf8a7800539ad8b5d284c7c2ac5bad859eb89ceb64da6",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-12-record-gemini-proposals-before-reference-checks.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-12-record-gemini-proposals-before-reference-checks.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-12-record-gemini-proposals-before-reference-checks.png",
       "dimensions": [
         1591,
@@ -19177,10 +19188,11 @@
       ],
       "sha256": "34494dab09bf3d3b2c4a810ec303d2d081655d4ad78821fd0d0db29a430f6141",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-13-six-proposals-checked-against-rates.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-13-six-proposals-checked-against-rates.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-13-six-proposals-checked-against-rates.png",
       "dimensions": [
         1591,
@@ -19198,10 +19210,11 @@
       ],
       "sha256": "f5e48005c668963127c4d0165589c3daa30d4b98ff9f0bf54302d7cdb6d95383",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-14-raw-dirtytext-values-preserved-before-cleaning.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-14-raw-dirtytext-values-preserved-before-cleaning.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-14-raw-dirtytext-values-preserved-before-cleaning.png",
       "dimensions": [
         1591,
@@ -19219,10 +19232,11 @@
       ],
       "sha256": "ddae9feb0ddf831edef7bb1728cdd328a0f1ed5749832a70e309ac5c85fe5c50",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-15-explicit-team-and-status-normalisation-first-row.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-15-explicit-team-and-status-normalisation-first-row.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-15-explicit-team-and-status-normalisation-first-row.png",
       "dimensions": [
         1591,
@@ -19240,10 +19254,11 @@
       ],
       "sha256": "a21d8b797bad1769e82a3a9b0f6d81987f1ce106d3f05d967c55d8b8d5037187",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-16-three-raw-clean-rows-with-decisions-and-lengths.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-16-three-raw-clean-rows-with-decisions-and-lengths.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-16-three-raw-clean-rows-with-decisions-and-lengths.png",
       "dimensions": [
         1591,
@@ -19261,10 +19276,11 @@
       ],
       "sha256": "8cd59b08d2fc4fbcd8d685d0e980def41ee301dd96f99c14b747a3d3b55593b5",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-17-space-test-expectations-before-trim.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-17-space-test-expectations-before-trim.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-17-space-test-expectations-before-trim.png",
       "dimensions": [
         1591,
@@ -19282,10 +19298,11 @@
       ],
       "sha256": "bc22726eb8aa50bb25c869fa7e40f6f1fecb9d528fa5cb3e780a3cd80462748b",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-18-trim-leaves-nonbreaking-spaces-for-review.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-18-trim-leaves-nonbreaking-spaces-for-review.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-18-trim-leaves-nonbreaking-spaces-for-review.png",
       "dimensions": [
         1591,
@@ -19303,10 +19320,11 @@
       ],
       "sha256": "f459d2f2b610225348838ecd8769afc30bc891ad66d395bfe65893ae1b15751b",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-19-readable-space-tests-with-codepoint-160.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-19-readable-space-tests-with-codepoint-160.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-19-readable-space-tests-with-codepoint-160.png",
       "dimensions": [
         1591,
@@ -19324,10 +19342,11 @@
       ],
       "sha256": "cf27fd997fc960c0016434ede8c4177f8ae78b180e167c2659c9d20105afe705",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-20-eight-identifier-expectations-before-extraction.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-20-eight-identifier-expectations-before-extraction.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-20-eight-identifier-expectations-before-extraction.png",
       "dimensions": [
         1591,
@@ -19345,10 +19364,11 @@
       ],
       "sha256": "7c198d97ef55d4ecefd75ae184c815075996fa9075891ebbcb23f4235f5d516d",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-21-substrings-can-succeed-on-malformed-key.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-21-substrings-can-succeed-on-malformed-key.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-21-substrings-can-succeed-on-malformed-key.png",
       "dimensions": [
         1591,
@@ -19366,10 +19386,11 @@
       ],
       "sha256": "560e6ff90391fa19db173b7cc467dda25ab95768d215edd0a1b8c90f4510dfdc",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-22-full-pattern-validation-separate-from-extraction.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-22-full-pattern-validation-separate-from-extraction.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-22-full-pattern-validation-separate-from-extraction.png",
       "dimensions": [
         1591,
@@ -19387,10 +19408,11 @@
       ],
       "sha256": "e1175c1880c4f4dc015ae8f26a1452569016b94c533c4987a85d819e83764ffa",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-23-it99-pattern-pass-but-reference-fail.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-23-it99-pattern-pass-but-reference-fail.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-23-it99-pattern-pass-but-reference-fail.png",
       "dimensions": [
         1591,
@@ -19408,10 +19430,11 @@
       ],
       "sha256": "76c2a4a888bb5921af712fe193344773386dcd931b8d0636a43e017ecf49315c",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-24-separate-accepted-malformed-blank-and-unmapped-decisions.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-24-separate-accepted-malformed-blank-and-unmapped-decisions.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-24-separate-accepted-malformed-blank-and-unmapped-decisions.png",
       "dimensions": [
         1591,
@@ -19429,10 +19452,11 @@
       ],
       "sha256": "d1d3a929327f4f2b5547069ad2459631e11c706d95bda1176148753a1673b2f7",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-25-eight-decisions-match-recorded-expectations.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-25-eight-decisions-match-recorded-expectations.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-25-eight-decisions-match-recorded-expectations.png",
       "dimensions": [
         1591,
@@ -19450,10 +19474,11 @@
       ],
       "sha256": "c723e83d53b3346565b2a982443d8175f782c72bba09223597e1ed15ae038000",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-26-identifier-controls-reconcile-with-zero-differences.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-26-identifier-controls-reconcile-with-zero-differences.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-26-identifier-controls-reconcile-with-zero-differences.png",
       "dimensions": [
         1591,
@@ -19471,10 +19496,11 @@
       ],
       "sha256": "f9b3e3abe78372dbd0848a903612f8a77e6cd7d2fed44051c5b400afd66ce15b",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-27-pipeline-traceability-and-reversibility-notes.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-27-pipeline-traceability-and-reversibility-notes.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-27-pipeline-traceability-and-reversibility-notes.png",
       "dimensions": [
         1591,
@@ -19492,10 +19518,11 @@
       ],
       "sha256": "898aa499c279751b542251bbef089e8af2c7f51df7949a35c188b00d12c0cfb5",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-28-final-raw-clean-and-whitespace-audit.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-28-final-raw-clean-and-whitespace-audit.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-28-final-raw-clean-and-whitespace-audit.png",
       "dimensions": [
         1591,
@@ -19513,10 +19540,11 @@
       ],
       "sha256": "b40659c5facbf4f7e64f4d94dbfc94175a44237bdefc90c0efaf90960f856a32",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-29-final-identifier-decisions-and-controls.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-29-final-identifier-decisions-and-controls.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-29-final-identifier-decisions-and-controls.png",
       "dimensions": [
         1591,
@@ -19534,10 +19562,11 @@
       ],
       "sha256": "93a2aaa11b20d546f5f7ecccbe84c9dd4c742153aebf4c820ac85f3ff306cc43",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-30-maintained-orders-source-preserved.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-30-maintained-orders-source-preserved.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-30-maintained-orders-source-preserved.png",
       "dimensions": [
         1591,
@@ -19555,10 +19584,11 @@
       ],
       "sha256": "6830959c50411f0d56771d3ea657ad591946dfb56f92dfd1ef944e53e3c65f71",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-31-text-practice-keeps-keys-and-leading-zero-labels.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-31-text-practice-keeps-keys-and-leading-zero-labels.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-31-text-practice-keeps-keys-and-leading-zero-labels.png",
       "dimensions": [
         1591,
@@ -19576,10 +19606,11 @@
       ],
       "sha256": "ac17b410f8e6dd47b4ec7c9fef635cc6e273816e22ebeb8ad08472293807f81b",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/04-text-cleaning/images/c05-04-32-six-ai-reference-comparisons-complete.jpg": {
+    "05-sheets-advanced/04-text-cleaning/images/c05-04-32-six-ai-reference-comparisons-complete.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/04-text-cleaning/c05-04-32-six-ai-reference-comparisons-complete.png",
       "dimensions": [
         1591,
@@ -19597,7 +19628,8 @@
       ],
       "sha256": "07b96a1e7b3cfa7f0f882e22249fef7dd8bd92c5dfb624e7c9b84e1c44243676",
       "notes": [
-        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending."
+        "Actual staged learner UI; uncropped/unresized; avatar masked. Raw CSV whitespace restored after block-paste trimming before formulas. Six actual Gemini proposals compared with Rates. Independent mixed intake/reviewer, native CSV file import and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
     "05-sheets-advanced/05-lookups-errors/images/c05-05-01-separate-orders-copy-for-lookup-practice.jpg": {
