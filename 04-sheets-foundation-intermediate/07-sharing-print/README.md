@@ -24,11 +24,15 @@ Use the checked register. No public publishing or email distribution is required
 
 ## 7.1 Inspect Access
 
-1. Open **Share** on the maintained workbook. Inspect **People with access** and **General access**. This reference shows **Restricted** and one listed owner; no additional people/groups or inherited group access is displayed in this dialog. Record what is shown rather than assuming the same permissions in another account.
+1. Open **Share** on the maintained workbook. Inspect **People with access** and **General access**. Record what is shown rather than assuming the same permissions in another account.
+
+> **Reference run:** This reference shows **Restricted** and one listed owner; no additional people/groups or inherited group access is displayed in this dialog.
 
 ![Inspect Restricted access and owner-only list without changes](./images/c04-07-01-restricted-access.jpg)
 
-2. Explain the proposed roles: **Viewer** reads, **Commenter** reads and comments, **Editor** can edit. Keep these role explanations separate from actual recipient testing. No named recipient was assigned in this reference, so no invitation or permission change was made. Close with **Done**.
+2. Explain the proposed roles: **Viewer** reads, **Commenter** reads and comments, **Editor** can edit. Keep these role explanations separate from actual recipient testing. Close with **Done**.
+
+> **Reference run:** No named recipient was assigned in this reference, so no invitation or permission change was made.
 
 ## 7.2 Prepare the Print Range
 
@@ -60,7 +64,9 @@ Use the checked register. No public publishing or email distribution is required
 
 ## 7.4 Prepare a Readable, Scoped and Reproducible Output
 
-1. Create **Output Plan**. Write the output brief and role proposal separately from the actual access record. A contributor needs all twelve Tasks rows and working input cells; a sponsor needs a fixed summary of **12 tasks**, counts **4/4/4**, team planned **RM2800/4000/3600**, total **RM10400**, and two labelled charts. Record Editor only as a proposal for a separately approved contributor; no recipient permission has been tested. Record the inspected Restricted/owner-only display and unpublished state. In the reference, A:B are 650 pixels wide with wrapped text.
+1. Create **Output Plan**. Write the output brief and role proposal separately from the actual access record. A contributor needs all twelve Tasks rows and working input cells; a sponsor needs a fixed summary of **12 tasks**, counts **4/4/4**, team planned **RM2800/4000/3600**, total **RM10400**, and two labelled charts. Record Editor only as a proposal for a separately approved contributor; no recipient permission has been tested. Record the inspected Restricted/owner-only display and unpublished state.
+
+> **Reference run:** In the reference, A:B are 650 pixels wide with wrapped text.
 
 ![Write proposed roles and actual access separately](./images/c04-07-08-output-brief-and-roles.jpg)
 
@@ -100,7 +106,9 @@ Use the checked register. No public publishing or email distribution is required
 
 ![Inspect the custom page-break editor](./images/c04-07-17-custom-breaks-before.jpg)
 
-11. Drag the bottom row-page boundary to the line **after row 7**, between T006 and T007, then **Confirm breaks**. The reference now has two row-page regions. This deliberate split tests pagination and header repetition; it is not a requirement to waste a second page for every small register.
+11. Drag the bottom row-page boundary to the line **after row 7**, between T006 and T007, then **Confirm breaks**. This deliberate split tests pagination and header repetition; it is not a requirement to waste a second page for every small register.
+
+> **Reference run:** The reference now has two row-page regions.
 
 ![Split after six task records](./images/c04-07-18-six-task-page-break.jpg)
 
@@ -116,7 +124,9 @@ Use the checked register. No public publishing or email distribution is required
 
 ![Inspect actual register PDF page one](./images/c04-07-21-register-pdf-page-one.jpg)
 
-15. Page 2 contains the other six tasks, repeats the header and includes T012. Compare row labels and cost values with Tasks; all twelve records appear exactly once across the two pages. The PDF uses A3 landscape and approximately 10.7 pt text. Footer numbers were not visible despite selecting the option; identify pages by the inspected content and PDF page count in this reference.
+15. Page 2 contains the other six tasks, repeats the header and includes T012. Compare row labels and cost values with Tasks; all twelve records appear exactly once across the two pages. The PDF uses A3 landscape and approximately 10.7 pt text.
+
+> **Reference run:** Footer numbers were not visible despite selecting the option; identify pages by the inspected content and PDF page count in this reference.
 
 ![Inspect actual register PDF final page and repeated header](./images/c04-07-22-register-pdf-final-page.jpg)
 
@@ -144,7 +154,9 @@ Use the checked register. No public publishing or email distribution is required
 
 ![Update output brief with checked scopes and revisions](./images/c04-07-28-updated-output-brief.jpg)
 
-22. Add an **Export manifest** identifying each filename, source range, paper/orientation/scale, page count, inspected final-page content, hash, and revision status. Record source restoration, actual access versus proposed roles, the footer-number limitation and pending independent reviewer/timing checks. The downloadable examples below are the native author reference exports.
+22. Add an **Export manifest** identifying each filename, source range, paper/orientation/scale, page count, inspected final-page content, hash, and revision status. Record source restoration, actual access versus proposed roles, the footer-number limitation and pending independent reviewer/timing checks.
+
+> **Reference run:** The downloadable examples below are the native author reference exports.
 
 ![Record the export revision manifest and validation limits](./images/c04-07-29-export-revision-manifest.jpg)
 

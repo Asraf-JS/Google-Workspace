@@ -26,7 +26,9 @@ Use the working presentation with its source chart restored.
 
 ## 6.1 Add Deliberate Motion
 
-1. Select the workflow slide, currently titled **Three teams will produce four outputs**. Click **Transition** to open **Motion**. Set **Slide transition** to **Fade**. The reference keeps the short default duration (shown as 0.5 seconds) on this slide only; do not choose **Apply to all slides** without a reason.
+1. Select the workflow slide, currently titled **Three teams will produce four outputs**. Click **Transition** to open **Motion**. Set **Slide transition** to **Fade**.
+
+> **Reference run:** The reference keeps the short default duration (shown as 0.5 seconds) on this slide only; do not choose **Apply to all slides** without a reason.
 
 ![Choose Fade on the workflow slide only](./images/c03-06-01-workflow-fade-transition.png)
 
@@ -59,9 +61,13 @@ One restrained transition and one purposeful object reveal. Required context rem
 
 ## 6.2 Inspect Accessibility
 
-1. Inspect contrast, text size and colour dependence. The reference uses dark text on light backgrounds, **22 pt** workflow explanation and **20 pt** stage labels. Named stages and arrows carry the sequence without colour. Check the actual delivery screen with a learner later; this author inspection does not certify projector legibility or screen-reader behaviour.
+1. Inspect contrast, text size and colour dependence. Named stages and arrows carry the sequence without colour. Check the actual delivery screen with a learner later; this author inspection does not certify projector legibility or screen-reader behaviour.
 
-2. Start from the selected title object, outside text editing. Press **Tab** through the objects and inspect each selection outline. In the reference, the order is **title, explanation, Source register, Checked update, Project hub, first connector, second connector**. The labelled stages are reached in the intended sequence. If Tab inserts text indentation, undo it and leave text editing before retrying.
+> **Reference run:** The reference uses dark text on light backgrounds, **22 pt** workflow explanation and **20 pt** stage labels.
+
+2. Start from the selected title object, outside text editing. Press **Tab** through the objects and inspect each selection outline. The labelled stages are reached in the intended sequence. If Tab inserts text indentation, undo it and leave text editing before retrying.
+
+> **Reference run:** In the reference, the order is **title, explanation, Source register, Checked update, Project hub, first connector, second connector**.
 
 ![Select the title to start keyboard inspection](./images/c03-06-05-keyboard-order-title.png)
 
@@ -109,7 +115,9 @@ One restrained transition and one purposeful object reveal. Required context rem
 
 *Record cost values units and the unapproved budget distinction.*
 
-6. Inspect the embedded status-chart labels at delivery size. In the reference they are smaller than the surrounding text, so replace the left explanation with the five lines on the prompts page, keeping **22 pt**. The three category values are now readable outside the chart too. Confirm the qualification fits and all values still match 4/4/4. With the text object selected outside editing, Tab should reach the linked chart.
+6. Inspect the embedded status-chart labels at delivery size. The three category values are now readable outside the chart too. Confirm the qualification fits and all values still match 4/4/4. With the text object selected outside editing, Tab should reach the linked chart.
+
+> **Reference run:** In the reference they are smaller than the surrounding text, so replace the left explanation with the five lines on the prompts page, keeping **22 pt**.
 
 ![Repeat status values at 22 points beside the chart](./images/c03-06-15-status-values-repeated-at-22pt.png)
 
@@ -140,7 +148,9 @@ Visible labels and large repeated status values, descriptions for the three work
 
 *Make the workflow title explicitly proposed.*
 
-2. Click **File**, **Version history**, **Name current version**. Enter **Sponsor update reviewed** and select **Save**. This names the author's checked stage; it does not mean a sponsor or independent reviewer approved it.
+2. Click **File**, **Version history**, **Name current version**. Enter **Sponsor update reviewed** and select **Save**.
+
+> **Reference run:** This names the author's checked stage; it does not mean a sponsor or independent reviewer approved it.
 
 ![Enter Sponsor update reviewed as the version name](./images/c03-06-19-name-current-version-dialog.png)
 
@@ -152,7 +162,9 @@ Visible labels and large repeated status values, descriptions for the three work
 
 *Verify the named milestone in version history.*
 
-4. Select an earlier version to compare its wording. The reference compared the earlier title with the proposed-workflow title. Leave **Restore this version** untouched. Use **Back** to return to editing and verify the current title, readability repair and chart links remain intact.
+4. Select an earlier version to compare its wording. Leave **Restore this version** untouched. Use **Back** to return to editing and verify the current title, readability repair and chart links remain intact.
+
+> **Reference run:** The reference compared the earlier title with the proposed-workflow title.
 
 ![View an earlier version without restoring it](./images/c03-06-21-earlier-version-view-only.png)
 
@@ -187,13 +199,17 @@ The named milestone is available and the current checked deck remains intact aft
 
 *Write the audience-question reveal script before testing.*
 
-3. Start **Slideshow** on the static copy. Record the observed number of reveal advances. The reference showed all three stages and both arrows immediately: **zero** reveal advances.
+3. Start **Slideshow** on the static copy. Record the observed number of reveal advances.
+
+> **Reference run:** The reference showed all three stages and both arrows immediately: **zero** reveal advances.
 
 ![Static Slideshow shows all stages with zero reveal advances](./images/c03-06-26-slideshow-static-zero-reveal-advances.png)
 
 *Static Slideshow shows all stages with zero reveal advances.*
 
-4. Advance to the staged practice and inspect the initial state before revealing anything. The first reference test found two arrows pointing into empty space. This is a defect in the initial animation treatment: the boxes were hidden while their connectors stayed visible.
+4. Advance to the staged practice and inspect the initial state before revealing anything. This is a defect in the initial animation treatment: the boxes were hidden while their connectors stayed visible.
+
+> **Reference run:** The first reference test found two arrows pointing into empty space.
 
 ![Initial staged test exposes floating connectors](./images/c03-06-27-staged-start-shows-orphan-connectors.png)
 
@@ -229,13 +245,17 @@ The named milestone is available and the current checked deck remains intact aft
 
 *Keep both tested practice alternatives skipped.*
 
-8. Open the original **Decisions** slide in Slideshow separately. The reference showed the proposed RM 12000 ceiling, unresolved approval and start to be agreed immediately, with **zero** reveal advances. Reject the suggestion **Thank you for approving the budget** in Part 2 of the prompts page because the sources do not support that commitment. Do not hide unresolved qualifications when asking for a decision.
+8. Open the original **Decisions** slide in Slideshow separately. Reject the suggestion **Thank you for approving the budget** in Part 2 of the prompts page because the sources do not support that commitment. Do not hide unresolved qualifications when asking for a decision.
+
+> **Reference run:** The reference showed the proposed RM 12000 ceiling, unresolved approval and start to be agreed immediately, with **zero** reveal advances.
 
 ![Decisions remain visible immediately with unresolved facts](./images/c03-06-34-decisions-slideshow-zero-reveals.png)
 
 *Decisions remain visible immediately with unresolved facts.*
 
-9. On the repaired staged copy, select the title outside text editing, then Tab through **explanation, Source register, Checked update, Project hub, connector 1, connector 2**. The reference found the labelled sequence intact; no object reorder was necessary. Changing animation order did not require changing object order. Keep the full manual sequence in the stage descriptions and notes. This keyboard selection check does not certify screen-reader behaviour.
+9. On the repaired staged copy, select the title outside text editing, then Tab through **explanation, Source register, Checked update, Project hub, connector 1, connector 2**. Changing animation order did not require changing object order. Keep the full manual sequence in the stage descriptions and notes. This keyboard selection check does not certify screen-reader behaviour.
+
+> **Reference run:** The reference found the labelled sequence intact; no object reorder was necessary.
 
 ![Keyboard inspection reaches connectors after labelled stages](./images/c03-06-35-staged-keyboard-connectors-follow-labelled-stages.png)
 
@@ -247,7 +267,9 @@ The named milestone is available and the current checked deck remains intact aft
 
 *Record selected motion and reject unsupported approval wording.*
 
-11. Name the final version **Sponsor update reviewed - motion checked** and save it. Open version history, confirm the name and return with **Back**. This milestone records the author's checked stage, not sponsor approval. The earlier **Sponsor update reviewed** milestone remains available. Independent whole-sequence, screen-reader, projector and learner timing checks remain open.
+11. Name the final version **Sponsor update reviewed - motion checked** and save it. Open version history, confirm the name and return with **Back**. The earlier **Sponsor update reviewed** milestone remains available. Independent whole-sequence, screen-reader, projector and learner timing checks remain open.
+
+> **Reference run:** This milestone records the author's checked stage, not sponsor approval.
 
 ![Name the final author review stage](./images/c03-06-37-name-motion-checked-review-version.png)
 

@@ -94,7 +94,9 @@ Use Tasks A1:H13. The workbook has no prefilled answer formulas.
 
 ![Inspect a deliberately wrong row reference](./images/c04-03-16-deliberate-wrong-reference.jpg)
 
-5. Repair C2 to **=B2-A2** and verify **-20**. Keep the wrong test's observed **20** as a labelled historical value, rather than a live link that changes after repair. Add the repaired observation in row 16. The reference uses **=C2** for the current repaired result.
+5. Repair C2 to **=B2-A2** and verify **-20**. Keep the wrong test's observed **20** as a labelled historical value, rather than a live link that changes after repair. Add the repaired observation in row 16.
+
+> **Reference run:** The reference uses **=C2** for the current repaired result.
 
 ![Repair the reference and retain the recorded test](./images/c04-03-17-repaired-reference.jpg)
 

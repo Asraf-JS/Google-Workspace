@@ -28,7 +28,9 @@ Download [ProcurementRegister.xlsx](../../shared/sample-files/ProcurementRegiste
 
 ![Open a separate empty Advanced practice folder](./images/c05-01-01-empty-advanced-folder.jpg)
 
-2. Upload **ProcurementRegister.xlsx** from the supplied practice files. In this author run the extension blocked local-file uploads, so the instructor uploaded the file manually. This is a handoff, not a verified automated upload.
+2. Upload **ProcurementRegister.xlsx** from the supplied practice files. This is a handoff, not a verified automated upload.
+
+> **Reference run:** The extension blocked local-file uploads, so the instructor uploaded the file manually.
 
 ![Inspect the manually uploaded starter workbook](./images/c05-01-02-uploaded-starter.jpg)
 
@@ -126,7 +128,9 @@ Download [ProcurementRegister.xlsx](../../shared/sample-files/ProcurementRegiste
 
 ![Recheck the preserved raw intake values](./images/c05-01-24-raw-intake-remains-unchanged.jpg)
 
-11. Return to **Orders** and recheck its original 24 records through PO024. Native readback confirms its supplied values and formatting are unchanged.
+11. Return to **Orders** and recheck its original 24 records through PO024.
+
+> **Reference run:** Native readback confirms its supplied values and formatting are unchanged.
 
 ![Retain all original order lines](./images/c05-01-25-original-orders-retained.jpg)
 
@@ -138,7 +142,9 @@ Download [ProcurementRegister.xlsx](../../shared/sample-files/ProcurementRegiste
 
 ![Reconcile the baseline after auditing intake](./images/c05-01-27-baseline-controls-rechecked.jpg)
 
-14. Record the current source integrity, evidence locations and intake boundary in **Audit Checks A60:B68**. Label independent disposition decisions, release conditions, reviewer challenge and learner timing as pending. The author walkthrough does not substitute for those checks.
+14. Record the current source integrity, evidence locations and intake boundary in **Audit Checks A60:B68**. Label independent disposition decisions, release conditions, reviewer challenge and learner timing as pending.
+
+> **Reference run:** The author walkthrough does not substitute for those checks.
 
 ![Record evidence locations and unfinished human checks](./images/c05-01-28-audit-handover-boundaries.jpg)
 

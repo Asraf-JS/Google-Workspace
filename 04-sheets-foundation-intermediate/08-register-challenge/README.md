@@ -40,7 +40,9 @@ Make a separate challenge copy of your workbook. The original 12-record baseline
 
 ![Copy the new row variance formula](./images/c04-08-04-new-row-variance.jpg)
 
-5. Inspect the status rule through **Data > Data validation**. Its intended range is **Tasks!F2:F14**, retaining the separate N2 spare rule. Use the **Select data range** picker, extend the F range and confirm **OK / Done**; preserve the exact canonical choices and Reject input. The captured field edit below shows the intended extension, but this author's first text-field attempt did not persist. The actual new-row verification and committed repair are shown in 8.3. Do not accept a typed range field alone as proof of coverage.
+5. Inspect the status rule through **Data > Data validation**. Its intended range is **Tasks!F2:F14**, retaining the separate N2 spare rule. Use the **Select data range** picker, extend the F range and confirm **OK / Done**; preserve the exact canonical choices and Reject input. The actual new-row verification and committed repair are shown in 8.3. Do not accept a typed range field alone as proof of coverage.
+
+> **Reference run:** The captured field edit below shows the intended extension, but this author's first text-field attempt did not persist.
 
 ![Inspect the intended status rule extension](./images/c04-08-05-status-rule-extended.jpg)
 
@@ -76,7 +78,9 @@ Make a separate challenge copy of your workbook. The original 12-record baseline
 
 ## 8.3 Explain the Result
 
-1. Verify the new row's validation before handover. In this run the first compact range-text edit had not saved F14. The author reopened the rule, used **Select data range**, changed the first range to **Tasks!F2:F14**, preserved **Tasks!N2**, then confirmed **OK / Done**. Entering **Done** in F14 through cell-edit mode is now actually rejected with the three allowed statuses.
+1. Verify the new row's validation before handover. Entering **Done** in F14 through cell-edit mode is now actually rejected with the three allowed statuses.
+
+> **Reference run:** In this run the first compact range-text edit had not saved F14. The author reopened the rule, used **Select data range**, changed the first range to **Tasks!F2:F14**, preserved **Tasks!N2**, then confirmed **OK / Done**.
 
 ![Verify actual invalid-status rejection on T013](./images/c04-08-13-new-row-status-rejection.jpg)
 
@@ -84,13 +88,17 @@ Make a separate challenge copy of your workbook. The original 12-record baseline
 
 ![Retain the canonical status after rejection](./images/c04-08-14-valid-status-retained.jpg)
 
-3. Explain using the cells: I14's H14/G14 references follow its own row; Summary B4 holds **=COUNTIF(Tasks!$F$2:$F$14,A4)**, with a fixed source range and relative criterion; F14 uses the canonical strict status rule. Identify the new record's RM200 planned contribution and its effect on population and variance. This reference provides the cell-supported author explanation; the requested partner explanation remains a learner/human check and was not performed.
+3. Explain using the cells: I14's H14/G14 references follow its own row; Summary B4 holds **=COUNTIF(Tasks!$F$2:$F$14,A4)**, with a fixed source range and relative criterion; F14 uses the canonical strict status rule. Identify the new record's RM200 planned contribution and its effect on population and variance.
+
+> **Reference run:** This reference provides the cell-supported author explanation; the requested partner explanation remains a learner/human check and was not performed.
 
 ![Explain an anchored range and relative criterion with actual cells](./images/c04-08-15-checked-reference-explanation.jpg)
 
 ## 8.4 Stress-Test the Extended Register and Complete the Handover
 
-1. Create **Change Log** and list every active range changed for T013: row variance, totals, average/count, status validation, PlannedCosts, conditional summaries, source checks, chart dependency and filter-view coverage. Distinguish inherited training tabs and baseline exports from the current scenario. The reference uses wrapped 450-pixel A:C columns so descriptions remain readable. Leave filter-view verification pending until reopened below.
+1. Create **Change Log** and list every active range changed for T013: row variance, totals, average/count, status validation, PlannedCosts, conditional summaries, source checks, chart dependency and filter-view coverage. Distinguish inherited training tabs and baseline exports from the current scenario. Leave filter-view verification pending until reopened below.
+
+> **Reference run:** The reference uses wrapped 450-pixel A:C columns so descriptions remain readable.
 
 ![Record full range coverage and historical-tab boundaries](./images/c04-08-16-range-coverage-log.jpg)
 
@@ -150,11 +158,15 @@ Make a separate challenge copy of your workbook. The original 12-record baseline
 
 ![Inspect the final range and control table](./images/c04-08-30-final-coverage-and-control-table.jpg)
 
-16. Reopen the original **GW - Sheets - Task Register** and compare its twelve-record state: **4/4/4**, planned **10400**, actual **6800**, variance **-3600**. Native readback confirms its Tasks and Summary values/formulas remain unchanged from Lab 7.
+16. Reopen the original **GW - Sheets - Task Register** and compare its twelve-record state: **4/4/4**, planned **10400**, actual **6800**, variance **-3600**.
+
+> **Reference run:** Native readback confirms its Tasks and Summary values/formulas remain unchanged from Lab 7.
 
 ![Verify the original twelve-record workbook remains unchanged](./images/c04-08-31-original-baseline-preserved.jpg)
 
-17. Leave **GW - Sheets - Register Challenge - 13 Records** clearly named and saved in the corrected state. Its 13-record source, controls, export and written guide are retained; there is no T014 author-reference copy yet.
+17. Leave **GW - Sheets - Register Challenge - 13 Records** clearly named and saved in the corrected state.
+
+> **Reference run:** Its 13-record source, controls, export and written guide are retained; there is no T014 author-reference copy yet.
 
 ![Leave the corrected challenge ready for handover](./images/c04-08-32-corrected-challenge-handover.jpg)
 

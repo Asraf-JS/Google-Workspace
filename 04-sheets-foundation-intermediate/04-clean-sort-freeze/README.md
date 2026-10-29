@@ -24,7 +24,9 @@ Use Tasks and download [DirtyText.csv](../../shared/sample-files/DirtyText.csv).
 
 ## 4.1 Clean a Small Import
 
-1. Import **DirtyText.csv** into a separate practice tab, keeping its headings **TaskID / Team / Status**. The captured reference uses a **Dirty Text Practice** tab and manual entry of the supplied values because browser file upload remained unavailable. It does **not** validate the CSV import flow.
+1. Import **DirtyText.csv** into a separate practice tab, keeping its headings **TaskID / Team / Status**. It does **not** validate the CSV import flow.
+
+> **Reference run:** The captured reference uses a **Dirty Text Practice** tab and manual entry of the supplied values because browser file upload remained unavailable.
 
 For that fallback, enter the three records from the copy-paste page into A1:C4. Check the raw spaces: B2 must contain one leading and one trailing space around Planning, and B4 one trailing space after Site Coordination. The controlled paste stripped those spaces, so they were explicitly restored through the cell editor with a leading apostrophe before the literal text. The apostrophe is an input prefix, not part of the stored team. Do not clean the raw cells themselves.
 
@@ -72,7 +74,9 @@ For that fallback, enter the three records from the copy-paste page into A1:C4. 
 
 ## 4.4 Clean an Intake and Prove That Records Stay Together
 
-1. Create **Cleaning Intake Raw**, enter the supplied five records in A1:C6, and preserve the surrounding spaces in C001's team. Inspect the raw cell value, not only its appearance. The reference uses two leading and two trailing spaces around Planning. Duplicate this raw tab and rename the working copy **Cleaning Intake**. Keep the raw tab unchanged.
+1. Create **Cleaning Intake Raw**, enter the supplied five records in A1:C6, and preserve the surrounding spaces in C001's team. Inspect the raw cell value, not only its appearance. Duplicate this raw tab and rename the working copy **Cleaning Intake**. Keep the raw tab unchanged.
+
+> **Reference run:** The reference uses two leading and two trailing spaces around Planning.
 
 ![Preserve the five-row raw intake](./images/c04-04-11-preserved-intake-raw.jpg)
 
@@ -112,7 +116,9 @@ For that fallback, enter the three records from the copy-paste page into A1:C4. 
 
 ![Observe broken relationships from the isolated-column sort](./images/c04-04-20-broken-single-column-relationships.jpg)
 
-11. **Undo immediately** with Ctrl+Z, before making any other edit. Compare all six columns and the three ID checks with Cleaning Intake. The reference verified an exact A1:F6 match after Undo.
+11. **Undo immediately** with Ctrl+Z, before making any other edit. Compare all six columns and the three ID checks with Cleaning Intake.
+
+> **Reference run:** The reference verified an exact A1:F6 match after Undo.
 
 ![Undo the unsafe sort immediately](./images/c04-04-21-immediate-undo-restoration.jpg)
 

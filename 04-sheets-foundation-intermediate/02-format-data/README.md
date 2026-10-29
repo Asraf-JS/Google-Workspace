@@ -49,7 +49,9 @@ Costs show their currency while remaining numeric. Week values still range from 
 
 ## 2.2 Improve Readability
 
-1. Select **A1:H1** and inspect its contrast. The starter already has bold white labels on a dark blue fill, so the reference retains that suitable style. A reasoned no-change decision is preferable to changing a readable header just to demonstrate a button.
+1. Select **A1:H1** and inspect its contrast. A reasoned no-change decision is preferable to changing a readable header just to demonstrate a button.
+
+> **Reference run:** The starter already has bold white labels on a dark blue fill, so the reference retains that suitable style.
 
 ![Retain the existing readable source header contrast](./images/c04-02-05-retain-readable-header-contrast.jpg)
 
@@ -72,7 +74,9 @@ Headers, names and cost figures are readable without cutting off text.
 
 ## 2.3 Inspect Formatting Effects
 
-1. On **Navigation Practice**, enter **2026-10-24** in **J2**, commit it, then use **More formats > Date**. In the reference locale it displays **24/10/2026**. This is a practice example only, not an agreed pilot start.
+1. On **Navigation Practice**, enter **2026-10-24** in **J2**, commit it, then use **More formats > Date**. This is a practice example only, not an agreed pilot start.
+
+> **Reference run:** In the reference locale it displays **24/10/2026**.
 
 ![Keep the example date outside the source register](./images/c04-02-08-practice-date-outside-source-register.jpg)
 
@@ -82,7 +86,9 @@ Headers, names and cost figures are readable without cutting off text.
 
 ![Inspect the typed text cost](./images/c04-02-10-text-cost-practice-formula-bar.jpg)
 
-3. Keep these clearly labelled practice entries as evidence, or undo them when no longer useful. The reference retains them outside the baseline. Compare the original source values before and after formatting; display changes must not alter the twelve records.
+3. Keep these clearly labelled practice entries as evidence, or undo them when no longer useful. Compare the original source values before and after formatting; display changes must not alter the twelve records.
+
+> **Reference run:** The reference retains them outside the baseline.
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -101,7 +107,9 @@ You can explain why number formatting does not convert arbitrary text into a num
 
 2. Apply RM currency to **B9:B10**, then inspect both values. B9 remains a number and B10 remains text. Give B12 a date display; keep the practice date outside the source week column.
 
-3. Add **=SUM(B9:B10)** in B14 and **=COUNT(B9:B10)** in B15. The reference results are **600** and **1**: numeric 600 contributes, while text RM 600 is ignored by this range SUM. Widen the label column if needed. These checks remain on the practice tab.
+3. Add **=SUM(B9:B10)** in B14 and **=COUNT(B9:B10)** in B15. Widen the label column if needed. These checks remain on the practice tab.
+
+> **Reference run:** The reference results are **600** and **1**: numeric 600 contributes, while text RM 600 is ignored by this range SUM.
 
 ![Observe SUM 600 and COUNT 1 for numeric and text costs](./images/c04-02-12-sum-count-check-distinguishes-number-and-text.jpg)
 

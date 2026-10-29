@@ -26,13 +26,17 @@ Use the checked deck. No real audience invitations or public publication are req
 
 ## 7.1 Rehearse with Notes
 
-1. Open the arrow beside **Slideshow** and choose **Presenter view**. The reference opens a separate presenter window and leaves an audience presentation in the original window. Inspect both before sharing a screen: the audience must receive the slide window rather than the speaker-notes window.
+1. Open the arrow beside **Slideshow** and choose **Presenter view**. Inspect both before sharing a screen: the audience must receive the slide window rather than the speaker-notes window.
+
+> **Reference run:** The reference opens a separate presenter window and leaves an audience presentation in the original window.
 
 ![Open Presenter view from the Slideshow menu](./images/c03-07-01-presenter-view-launch-menu.png)
 
 *Open Presenter view from the Slideshow menu.*
 
-2. In the presenter window select **SPEAKER NOTES**. Use the slide selector to choose the opening. In the observed UI, focus the selector and press **Enter** to open its list, then choose the labelled slide. The presenter can see source qualifications while the audience window displays only the slide. Pause the timer while arranging windows; the reference's **00:00:24** is setup time, not a speaking result.
+2. In the presenter window select **SPEAKER NOTES**. Use the slide selector to choose the opening. In the observed UI, focus the selector and press **Enter** to open its list, then choose the labelled slide. The presenter can see source qualifications while the audience window displays only the slide. Pause the timer while arranging windows.
+
+> **Reference run:** The reference's **00:00:24** is setup time, not a speaking result.
 
 ![Presenter window shows the opening and private speaker notes](./images/c03-07-02-presenter-opening-with-speaker-notes.png)
 
@@ -42,13 +46,17 @@ Use the checked deck. No real audience invitations or public publication are req
 
 *Audience window shows the slide without notes.*
 
-3. Choose the decision slide, **Budget and start date need sponsor agreement**. Read the notes and practise requesting approval of the proposed RM 12000 ceiling and agreement of the start date. Do not describe either as an accomplished decision. The reference checked the visible notes and navigation; a spoken, timed rehearsal is still required in 7.4.
+3. Choose the decision slide, **Budget and start date need sponsor agreement**. Read the notes and practise requesting approval of the proposed RM 12000 ceiling and agreement of the start date. Do not describe either as an accomplished decision.
+
+> **Reference run:** The reference checked the visible notes and navigation; a spoken, timed rehearsal is still required in 7.4.
 
 ![Decision slide notes preserve unresolved approval and start](./images/c03-07-04-presenter-decisions-with-notes.png)
 
 *Decision slide notes preserve unresolved approval and start.*
 
-4. Click **Next** from slide 5. The reference moved directly to slide 7, **Agree the start, then coordinate Friday updates**, skipping the marked backup slide 6. Confirm the source qualifications remain in the notes. A successful skip check does not establish that all appendix slides are excluded from the delivery sequence; inspect your intended scope separately.
+4. Click **Next** from slide 5. Confirm the source qualifications remain in the notes. A successful skip check does not establish that all appendix slides are excluded from the delivery sequence; inspect your intended scope separately.
+
+> **Reference run:** The reference moved directly to slide 7, **Agree the start, then coordinate Friday updates**, skipping the marked backup slide 6.
 
 ![Next moves from slide 5 to slide 7 and skips the backup](./images/c03-07-05-next-skips-backup-slide-six.png)
 
@@ -63,13 +71,17 @@ Separate presenter notes and audience slides, source-based opening/decision note
 
 ## 7.2 Inspect Audience Tools
 
-1. Select **AUDIENCE TOOLS** in the presenter window. The reference shows **Start new**. Leave it untouched: no live Q&A session or audience link is needed for this inspection. Google's [Q&A instructions](https://support.google.com/docs/answer/6386827?co=GENIE.Platform%3DDesktop&hl=en-GB) explain that starting a session enables questions through the link shown in the presentation. That behaviour is documentation-backed, not a live-session test in this reference.
+1. Select **AUDIENCE TOOLS** in the presenter window. Leave it untouched: no live Q&A session or audience link is needed for this inspection. Google's [Q&A instructions](https://support.google.com/docs/answer/6386827?co=GENIE.Platform%3DDesktop&hl=en-GB) explain that starting a session enables questions through the link shown in the presentation.
+
+> **Reference run:** The reference shows **Start new**. That behaviour is documentation-backed, not a live-session test in this reference.
 
 ![Audience tools offer Start new but the session remains unstarted](./images/c03-07-06-audience-tools-session-not-started.png)
 
 *Audience tools offer Start new but the session remains unstarted.*
 
-2. Close the presenter window and press **Esc** in the audience presentation to return to editing. Open **Share**. Inspect **People with access** and **General access** without entering a recipient, changing a role or copying a link. The reference showed the owner only and **Restricted**. A link does not grant access by itself. Select **Done** to close the dialog.
+2. Close the presenter window and press **Esc** in the audience presentation to return to editing. Open **Share**. Inspect **People with access** and **General access** without entering a recipient, changing a role or copying a link. A link does not grant access by itself. Select **Done** to close the dialog.
+
+> **Reference run:** The reference showed the owner only and **Restricted**.
 
 ![Share dialog shows Restricted access and the owner only](./images/c03-07-07-share-dialog-restricted-owner-only.png)
 
@@ -84,7 +96,9 @@ The Q&A session remains unstarted and file access remains at its existing restri
 
 ## 7.3 Compare Distribution Choices
 
-1. Click **File**, **Share**, **Publish to web**. Inspect the dialog before selecting any publishing action. In the reference it explicitly says **This document is not published to the web**.
+1. Click **File**, **Share**, **Publish to web**. Inspect the dialog before selecting any publishing action.
+
+> **Reference run:** In the reference it explicitly says **This document is not published to the web**.
 
 ![Locate File Share Publish to web](./images/c03-07-08-file-share-publish-to-web-option.png)
 
@@ -117,13 +131,17 @@ A documented choice with its checks. The native file remains restricted and unpu
 
 ## 7.4 Rehearse an Accessible Delivery and Test Distribution
 
-1. Write the [three-minute run sheet and sponsor answers](./prompts.md) in the opening speaker notes, preserving the original source notes. The checkpoints allocate opening, workflow, evidence, risk, decision request and next steps. These are planned times. In the reference the presenter timer was paused at **00:00:32** during setup; it is not a speaking result.
+1. Write the [three-minute run sheet and sponsor answers](./prompts.md) in the opening speaker notes, preserving the original source notes. The checkpoints allocate opening, workflow, evidence, risk, decision request and next steps. These are planned times.
+
+> **Reference run:** In the reference the presenter timer was paused at **00:00:32** during setup; it is not a speaking result.
 
 ![Prepare three-minute checkpoints without claiming a speaking result](./images/c03-07-11-three-minute-run-sheet-planned-not-spoken.png)
 
 *Prepare three-minute checkpoints without claiming a speaking result.*
 
-2. Perform a real first spoken rehearsal. Record total speaking time, one hesitation and unnecessary advances, excluding interruptions. This remains **unperformed in the author reference**. Do not substitute a timer left running during automation or window setup.
+2. Perform a real first spoken rehearsal. Record total speaking time, one hesitation and unnecessary advances, excluding interruptions. Do not substitute a timer left running during automation or window setup.
+
+> **Reference run:** This remains **unperformed in the author reference**.
 
 3. Prepare the three sponsor answers to the questions in Part 1 of the prompts page. Four Complete tasks are a snapshot, not pilot-success evidence; RM 12000 remains a proposed ceiling; no confirmed start date is supplied. Cite the task register/Summary, checked brief and project facts. The success criterion is future on-time submission by all three teams in the final two weeks, not an achieved result.
 
@@ -131,7 +149,9 @@ A documented choice with its checks. The native file remains restricted and unpu
 
 *Prepare source-based answers to the sponsor questions.*
 
-4. In actual **Slideshow**, open Decisions and click **Review source definitions**. The reference moved from source slide 5 to Appendix A on slide 8. Click **Return to Decisions** and confirm slide 5 returns without restarting. The earlier Next 5 to 7 check confirms backup 6 is skipped in normal progression. Use appendix links only when the audience needs the detail.
+4. In actual **Slideshow**, open Decisions and click **Review source definitions**. Click **Return to Decisions** and confirm slide 5 returns without restarting. The earlier Next 5 to 7 check confirms backup 6 is skipped in normal progression. Use appendix links only when the audience needs the detail.
+
+> **Reference run:** The reference moved from source slide 5 to Appendix A on slide 8.
 
 ![Start from Decisions in the live presentation](./images/c03-07-13-live-decisions-before-appendix-link.png)
 
@@ -145,7 +165,9 @@ A documented choice with its checks. The native file remains restricted and unpu
 
 *Return to Decisions without restarting.*
 
-5. Exit Slideshow and click **File**, **Download**, **PDF document (.pdf)**. Inspect the downloaded file before treating it as a handout. The reference export contained **all 14 slides**, including the six skipped backup/practice slides. Skip status in Slideshow did not restrict this direct download.
+5. Exit Slideshow and click **File**, **Download**, **PDF document (.pdf)**. Inspect the downloaded file before treating it as a handout. Skip status in Slideshow did not restrict this direct download.
+
+> **Reference run:** The reference export contained **all 14 slides**, including the six skipped backup/practice slides.
 
 ![Download the native PDF to inspect export scope](./images/c03-07-16-native-pdf-download-menu.png)
 
@@ -161,7 +183,9 @@ A documented choice with its checks. The native file remains restricted and unpu
 
 *Turn off Include skipped slides for the handout.*
 
-7. Inspect the [fixed R1 handout](./resources/sponsor-update-handout-r1.pdf), including every page and its navigation. In this export the embedded internal destinations resolve **Decisions PDF page 5 → Definitions page 7 → Decisions page 5**. The native source slide 8 is now PDF page 7 after exclusions. The figures below are full-page renders of the actual downloaded PDF. An interactive PDF viewer click test remains pending: controlled-browser policy blocked opening a local-file URL, so the reference used rendered-page review and structural destination checks without a browser workaround.
+7. Inspect the [fixed R1 handout](./resources/sponsor-update-handout-r1.pdf), including every page and its navigation. In this export the embedded internal destinations resolve **Decisions PDF page 5 → Definitions page 7 → Decisions page 5**. The native source slide 8 is now PDF page 7 after exclusions. The figures below are full-page renders of the actual downloaded PDF.
+
+> **Reference run:** An interactive PDF viewer click test remains pending: controlled-browser policy blocked opening a local-file URL, so the reference used rendered-page review and structural destination checks without a browser workaround.
 
 ![Inspect the handout Decisions page and link](./images/c03-07-19-handout-decisions-native-pdf-page.png)
 
@@ -177,7 +201,9 @@ A documented choice with its checks. The native file remains restricted and unpu
 
 *PDF workflow shows all stages together without animation.*
 
-9. Record the fixed handout's scope, date and hash in the [release record](./release-manifest.md). It is an author reference for fictional training, not evidence of approval for external distribution. Retain the restricted editable source. After a later source change, compare the release record and re-export deliberately; downloaded PDF does not refresh. Name the source milestone **Sponsor update - delivery export checked**, verify it in history and return with **Back**. This records the author's UI/export checks, not a completed rehearsal or sponsor approval.
+9. Record the fixed handout's scope, date and hash in the [release record](./release-manifest.md). Retain the restricted editable source. After a later source change, compare the release record and re-export deliberately; downloaded PDF does not refresh. Name the source milestone **Sponsor update - delivery export checked**, verify it in history and return with **Back**.
+
+> **Reference run:** It is an author reference for fictional training, not evidence of approval for external distribution. This records the author's UI/export checks, not a completed rehearsal or sponsor approval.
 
 ![Name the delivery export author checkpoint](./images/c03-07-22-name-delivery-export-checkpoint.png)
 

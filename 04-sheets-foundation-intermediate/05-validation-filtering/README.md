@@ -28,7 +28,9 @@ Use the original Tasks table, with all 12 baseline records still present.
 
 ![Inspect status rule coverage and canonical options](./images/c04-05-01-status-range-and-options.jpg)
 
-2. Open **Advanced options**, confirm **Reject the input**, and keep **Allow multiple selections** off. The reference uses the Chip display. Click **Done**, then close the sidebar.
+2. Open **Advanced options**, confirm **Reject the input**, and keep **Allow multiple selections** off. Click **Done**, then close the sidebar.
+
+> **Reference run:** The reference uses the Chip display.
 
 ![Verify Reject the input and single selection](./images/c04-05-02-reject-invalid-input.jpg)
 
@@ -64,7 +66,9 @@ Use the original Tasks table, with all 12 baseline records still present.
 
 ![Copy only data validation to the spare cell](./images/c04-05-09-paste-validation-only-menu.jpg)
 
-2. Edit N2 with **F2** (the edit-cell key), enter **Done**, and commit. The reference shows **There was a problem** and identifies the allowed values **Complete, In Progress, Not Started**. This is rejection, not a warning that leaves an invalid value stored.
+2. Edit N2 with **F2** (the edit-cell key), enter **Done**, and commit. This is rejection, not a warning that leaves an invalid value stored.
+
+> **Reference run:** The reference shows **There was a problem** and identifies the allowed values **Complete, In Progress, Not Started**.
 
 ![Observe Done rejected in N2](./images/c04-05-10-done-rejected-in-spare-cell.jpg)
 

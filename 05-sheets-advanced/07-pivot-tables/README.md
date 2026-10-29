@@ -80,7 +80,9 @@ Use Orders A1:K25 after calculating Amount in J and ActiveAmount in K. A recover
 
 ![average expectations before checks](./images/c05-07-13-average-expectations-before-checks.jpg)
 
-6. Add source SUMIF/COUNTIF averages in C, native Pivot Calculations references in D, and D minus C in E. All four differences are 0. Widen A:E to 170 pixels. This target UI supports the specified calculated field, so an unavailable-feature fallback was not needed in this author run.
+6. Add source SUMIF/COUNTIF averages in C, native Pivot Calculations references in D, and D minus C in E. All four differences are 0. Widen A:E to 170 pixels.
+
+> **Reference run:** This target UI supports the specified calculated field, so an unavailable-feature fallback was not needed in this author run.
 
 ![average source pivot reconciled](./images/c05-07-14-average-source-pivot-reconciled.jpg)
 

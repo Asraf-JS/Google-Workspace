@@ -68,7 +68,9 @@ Use Orders and Rates. The supplied IDs follow PO plus three digits; this is a tr
 
 ![Ask Gemini using the explicit mapping](./images/c05-04-10-gemini-category-request-with-explicit-mapping.jpg)
 
-3. Read the actual six proposals. In the captured author run Gemini repeated all six supplied categories and advised review for unmapped or conflicting inputs. Model output can vary. This prompt tests adherence to a provided mapping, not independent classification of unseen items.
+3. Read the actual six proposals. Model output can vary. This prompt tests adherence to a provided mapping, not independent classification of unseen items.
+
+> **Reference run:** Gemini repeated all six supplied categories and advised review for unmapped or conflicting inputs.
 
 ![Retain Gemini actual category proposals](./images/c05-04-11-gemini-six-proposals-beside-reference.jpg)
 
@@ -76,13 +78,17 @@ Use Orders and Rates. The supplied IDs follow PO plus three digits; this is a tr
 
 ![Record proposals before reference comparisons](./images/c05-04-12-record-gemini-proposals-before-reference-checks.jpg)
 
-5. In D2 enter **=VLOOKUP(A2,Rates!$A$2:$D$7,4,FALSE)** and E2 **=C2=D2**. Fill D2:E7 down and inspect every row. All six comparisons are TRUE in this author run. Record the limited scope of that evidence.
+5. In D2 enter **=VLOOKUP(A2,Rates!$A$2:$D$7,4,FALSE)** and E2 **=C2=D2**. Fill D2:E7 down and inspect every row. Record the limited scope of that evidence.
+
+> **Reference run:** All six comparisons are TRUE in this author run.
 
 ![Compare each proposal with Rates](./images/c05-04-13-six-proposals-checked-against-rates.jpg)
 
 ## 4.4 Build a Reversible Text Normalisation Pipeline
 
-1. Create **Text Audit**. Retain exact DirtyText.csv raw columns TaskID / Raw team / Raw status in A1:C4. In this author run, TSV block paste removed surrounding spaces; single-cell entry restored B2 to Planning with one leading and one trailing ordinary space, and B4 to Site Coordination with one trailing ordinary space, before adding formulas. The verified route is clipboard entry, not a completed native CSV file-import test. Use the raw-length checks to detect entry loss.
+1. Create **Text Audit**. Retain exact DirtyText.csv raw columns TaskID / Raw team / Raw status in A1:C4. The verified route is clipboard entry, not a completed native CSV file-import test. Use the raw-length checks to detect entry loss.
+
+> **Reference run:** TSV block paste removed surrounding spaces; single-cell entry restored B2 to Planning with one leading and one trailing ordinary space, and B4 to Site Coordination with one trailing ordinary space, before adding formulas.
 
 ![Preserve exact raw CSV values before normalisation](./images/c05-04-14-raw-dirtytext-values-preserved-before-cleaning.jpg)
 

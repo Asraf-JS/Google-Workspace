@@ -28,7 +28,9 @@ Use the working deck. Only use supplied, self-created or otherwise permitted med
 
 1. Open the working deck, `GW - Slides - Sponsor Update`. On the Scope slide (now titled **Three teams will produce four outputs**), keep the existing team/output text. A diagram explains the sequence; an office illustration provides context only.
 
-2. Click **Shape** in the toolbar, then **Shapes**, **Rectangle**, and draw three boxes labelled **Source register**, **Checked update** and **Project hub**. Click the arrow next to **Line** in the toolbar, choose **Arrow** and connect their edges. Keep all three labels readable without colour. The reference uses 20 pt labels.
+2. Click **Shape** in the toolbar, then **Shapes**, **Rectangle**, and draw three boxes labelled **Source register**, **Checked update** and **Project hub**. Click the arrow next to **Line** in the toolbar, choose **Arrow** and connect their edges. Keep all three labels readable without colour.
+
+> **Reference run:** The reference uses 20 pt labels.
 
 ![Use labelled native shapes and arrows for the reporting workflow](./images/c03-04-01-labelled-scope-workflow.png)
 
@@ -44,7 +46,9 @@ Use the working deck. Only use supplied, self-created or otherwise permitted med
 
 *Enter the bounded illustration prompt before generating.*
 
-2. Inspect the actual result for readable text, logos, identifiable people, distorted details and misleading construction/safety or approval context. The reference result is a flat office illustration with five generic people and a blank grid. It is conceptual, not documentary evidence.
+2. Inspect the actual result for readable text, logos, identifiable people, distorted details and misleading construction/safety or approval context. It is conceptual, not documentary evidence.
+
+> **Reference run:** The reference result is a flat office illustration with five generic people and a blank grid.
 
 ![Inspect the actual generated office illustration](./images/c03-04-03-generated-office-illustration.png)
 
@@ -56,7 +60,9 @@ Use the working deck. Only use supplied, self-created or otherwise permitted med
 
 *Insert the reviewed illustration on a separate optional slide.*
 
-4. Keep the illustration outside the main process explanation. The reference marks this optional appendix slide **Skip slide** in its filmstrip context menu; the labelled workflow remains the main explanation.
+4. Keep the illustration outside the main process explanation.
+
+> **Reference run:** The reference marks this optional appendix slide **Skip slide** in its filmstrip context menu; the labelled workflow remains the main explanation.
 
 ## 4.3 Check Media and Provenance
 
@@ -66,7 +72,9 @@ Use the working deck. Only use supplied, self-created or otherwise permitted med
 
 *Give the image a purpose-specific alternative text.*
 
-2. In **speaker notes**, identify AI origin, generation date, exact prompt, inspected content and reuse uncertainty. The reference makes no blanket copyright-free claim. Check the applicable permission and service terms before external reuse.
+2. In **speaker notes**, identify AI origin, generation date, exact prompt, inspected content and reuse uncertainty. Check the applicable permission and service terms before external reuse.
+
+> **Reference run:** The reference makes no blanket copyright-free claim.
 
 ![Record the exact prompt, review and untested video dependency](./images/c03-04-06-illustration-provenance-and-video-limit.png)
 
@@ -78,7 +86,9 @@ Use the working deck. Only use supplied, self-created or otherwise permitted med
 
 *Keep the native workflow origin and purpose in speaker notes.*
 
-4. If a trainer supplies a permitted video link, practise insertion and playback in a casework copy. **Reference status: none supplied; insertion and playback untested.** Use the labelled static workflow as the fallback. Do not choose an arbitrary external clip.
+4. If a trainer supplies a permitted video link, practise insertion and playback in a casework copy. Use the labelled static workflow as the fallback. Do not choose an arbitrary external clip.
+
+> **Reference run:** None supplied; insertion and playback untested.
 
 ## 4.4 Produce Visuals With a Clear Information Purpose
 
@@ -96,13 +106,17 @@ Use the working deck. Only use supplied, self-created or otherwise permitted med
 
 *Build a responsibility layout with the same exception route.*
 
-4. Compare where a contributor would correct a bad status. The author selects the responsibility layout because **Contributor → Correct maintained register** names the correction point explicitly. Retain the linear alternative in the casework deck and record the reason in notes. **A real reviewer has not completed the comprehension test.**
+4. Compare where a contributor would correct a bad status. Retain the linear alternative in the casework deck and record the reason in notes. **A real reviewer has not completed the comprehension test.**
+
+> **Reference run:** The author selects the responsibility layout because **Contributor → Correct maintained register** names the correction point explicitly.
 
 ![Record the author comparison and pending reviewer test](./images/c03-04-10-compared-designs-and-review-status.png)
 
 *Record the author comparison and pending reviewer test.*
 
-5. Add a native table using **Insert > Table**. Use five columns: **Asset**, **Purpose**, **Origin**, **Rights / reuse**, **Text alternative**. Record the Scope workflow, linear design, selected responsibility design and optional AI illustration. The reference uses a five-row table with 10 pt text as a detailed register, not a classroom presentation slide; enlarge or split it when presenting to a group. Put full purpose sentences, source qualifications and the untested video dependency in notes.
+5. Add a native table using **Insert > Table**. Use five columns: **Asset**, **Purpose**, **Origin**, **Rights / reuse**, **Text alternative**. Record the Scope workflow, linear design, selected responsibility design and optional AI illustration. Put full purpose sentences, source qualifications and the untested video dependency in notes.
+
+> **Reference run:** The reference uses a five-row table with 10 pt text as a detailed register, not a classroom presentation slide; enlarge or split it when presenting to a group.
 
 ![Register all four assets with origin and reuse uncertainty](./images/c03-04-11-visual-register.png)
 
@@ -110,7 +124,9 @@ Use the working deck. Only use supplied, self-created or otherwise permitted med
 
 6. Reuse the actual bounded generation from 4.2; record its prompt and inspection rather than generating a second asset merely to fill the register. If unavailable, record the self-created diagram fallback.
 
-7. Resize the retained illustration proportionally with a corner handle. Keep all five figures and the blank grid visible, preserve its alternative text and retain the optional illustration label. The reference enlarges the image without cropping content. This does not crop the original-size screenshots retained in the screenshot library.
+7. Resize the retained illustration proportionally with a corner handle. Keep all five figures and the blank grid visible, preserve its alternative text and retain the optional illustration label. This does not crop the original-size screenshots retained in the screenshot library.
+
+> **Reference run:** The reference enlarges the image without cropping content.
 
 ![Resize the illustration while retaining all figures and the blank grid](./images/c03-04-12-resized-illustration-purpose-retained.png)
 

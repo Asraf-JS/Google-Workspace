@@ -53,7 +53,9 @@ Source-backed purpose and scope, with both sponsor decisions still visibly unres
 
 ## 3.2 Arrange the Content
 
-1. Keep the related text in layout placeholders. The reference increases body text on the five main content slides to **22 pt**; check the actual line breaks at your viewing size.
+1. Keep the related text in layout placeholders.
+
+> **Reference run:** The reference increases body text on the five main content slides to **22 pt**; check the actual line breaks at your viewing size.
 
 2. Select the related title/body objects and use **Arrange > Align > Left** where needed. Distribution requires at least three objects; the three-card example in 3.4 uses it explicitly.
 
@@ -76,7 +78,9 @@ Consistent placeholders, readable body text and source details in notes. No text
 
 ## 3.3 Review Titles and Notes
 
-1. Replace topic-only titles with the checked main message. The reference titles are **Three teams will produce four outputs**, **The task snapshot is not a success result**, **Teams may define task status differently**, **Budget and start date need sponsor agreement**, and **Agree the start, then coordinate Friday updates**.
+1. Replace topic-only titles with the checked main message.
+
+> **Reference run:** The reference titles are **Three teams will produce four outputs**, **The task snapshot is not a success result**, **Teams may define task status differently**, **Budget and start date need sponsor agreement**, and **Agree the start, then coordinate Friday updates**.
 
 2. Add source notes to each of the six main slides. For the task snapshot, cite `TaskRegister.xlsx`, `Tasks!A2:H13` and status range `F2:F13`. Twelve tasks split four per status do not establish successful final-two-weeks submissions. For Decisions, cite the checked brief's Budget, Schedule and Decisions Needed; retain the proposed/unapproved ceiling and unagreed date.
 
@@ -88,7 +92,9 @@ Consistent placeholders, readable body text and source details in notes. No text
 
 *Keep the sponsor-decision caveats in the notes.*
 
-3. Click **Slideshow** at the top right and inspect line breaks, contrast and placement. Check the opening, scope, task snapshot, risk, decisions and conditional next steps. These captures show the author viewing size; they do not establish readability from the back of a classroom.
+3. Click **Slideshow** at the top right and inspect line breaks, contrast and placement. Check the opening, scope, task snapshot, risk, decisions and conditional next steps.
+
+> **Reference run:** These captures show the author viewing size; they do not establish readability from the back of a classroom.
 
 ![Inspect the purpose slide in Slideshow](./images/c03-03-08-purpose-presentation-check.png)
 
@@ -121,7 +127,9 @@ Each main slide has a descriptive message and supporting source notes. The propo
 
 *Preserve the exact dense paragraph in a separate practice deck.*
 
-2. Add a second Title and body slide titled **Sponsor decisions are needed before the pilot starts** (Part 3 of the prompts page has all of its text). Use no more than three main points: three teams/four outputs; four weeks from an agreed start with Friday updates; future success target for the final two weeks. Add a rectangular **Sponsor decisions pending** callout with the proposed RM 12,000 ceiling approval and pilot start-date agreement. The reference uses 18 pt body and 20 pt callout text. Put the full paragraph and meaning audit in notes, retaining organisation/location, names, all numbers and approval qualifications.
+2. Add a second Title and body slide titled **Sponsor decisions are needed before the pilot starts** (Part 3 of the prompts page has all of its text). Use no more than three main points: three teams/four outputs; four weeks from an agreed start with Friday updates; future success target for the final two weeks. Add a rectangular **Sponsor decisions pending** callout with the proposed RM 12,000 ceiling approval and pilot start-date agreement. Put the full paragraph and meaning audit in notes, retaining organisation/location, names, all numbers and approval qualifications.
+
+> **Reference run:** The reference uses 18 pt body and 20 pt callout text.
 
 ![Redesign as three points plus a pending-decision callout](./images/c03-03-13-three-point-redesign.png)
 
@@ -143,7 +151,9 @@ Each main slide has a descriptive message and supporting source notes. The propo
 
 *Four proposed outputs are connected in a teaching sequence.*
 
-5. Inspect the dense alternative, redesign, team layout and diagram in **Slideshow**. In the reference, the long paragraph contains both sponsor requests in one sentence; the redesign makes them visible in a separate callout. Check the smallest labels and dense regions at your actual viewing size. No clipping was observed in the author's 1591-pixel application window; classroom/projector testing remains pending.
+5. Inspect the dense alternative, redesign, team layout and diagram in **Slideshow**. Check the smallest labels and dense regions at your actual viewing size.
+
+> **Reference run:** In the reference, the long paragraph contains both sponsor requests in one sentence; the redesign makes them visible in a separate callout. No clipping was observed in the author's 1591-pixel application window; classroom/projector testing remains pending.
 
 ![Inspect the dense alternative at presentation size](./images/c03-03-17-dense-presentation-check.png)
 
@@ -167,7 +177,9 @@ Each main slide has a descriptive message and supporting source notes. The propo
 
 *Keep the explanation draft, meaning audit and pending reviewer status in notes.*
 
-7. Ask a reviewer to state the main message after a brief look; compare the response with your intended message and revise where justified. **Reference status: reviewer unassigned, no response or reviewer-driven revision recorded.** Do not mark this test passed until a real reviewer completes it.
+7. Ask a reviewer to state the main message after a brief look; compare the response with your intended message and revise where justified. Do not mark this test passed until a real reviewer completes it.
+
+> **Reference run:** Reviewer unassigned, no response or reviewer-driven revision recorded.
 
 <details markdown="1">
 <summary>What should you see?</summary>

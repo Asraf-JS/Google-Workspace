@@ -26,17 +26,23 @@ Use the fictional source pack and review log. This is a supervised manual workfl
 
 1. Create `GW - AI - Pilot Evaluation`. Use the same three original fictional sources for every attempt. Set the acceptance rule before generation: all five topics pass, each consequential claim has source support, and no approval, date, supplier or gain is invented.
 2. Use the copy-paste page's rubric. The date criterion includes both the unagreed calendar start and the unresolved sponsor decision. Record prior familiarity and attempt order. A rejected first draft is not an accepted output.
-3. A participant should first write and check a manual FAQ, logging drafting and checking separately. **Author boundary:** this reference was prepared by an AI agent with extensive source familiarity. Its source-based reference is not a human manual baseline. Human manual and classroom timings remain unmeasured; no productivity percentage can be calculated.
+3. A participant should first write and check a manual FAQ, logging drafting and checking separately. Its source-based reference is not a human manual baseline. Human manual and classroom timings remain unmeasured; no productivity percentage can be calculated.
+
+> **Reference run:** **Author boundary:** this reference was prepared by an AI agent with extensive source familiarity.
 
 ![predefined protocol](./images/c06-07-01-predefined-protocol.jpg)
 
 ## 7.2 Run the Assisted Attempt
 
-1. Open a fresh Gemini conversation in the approved account. Record the visible mode; the author used Flash. Paste the common brief, Set A questions and all three labelled originals. Do not paste only the question list.
+1. Open a fresh Gemini conversation in the approved account. Record the visible mode. Paste the common brief, Set A questions and all three labelled originals. Do not paste only the question list.
+
+> **Reference run:** The author used Flash.
 
 ![fresh flash session a](./images/c06-07-02-fresh-flash-session-a.jpg)
 
-2. Submit once and record generation waiting separately. While waiting, retain the expected source facts and a clearly unscored ledger. The author reference below is a source check, not a timed human attempt.
+2. Submit once and record generation waiting separately. While waiting, retain the expected source facts and a clearly unscored ledger.
+
+> **Reference run:** The author reference below is a source check, not a timed human attempt.
 
 ![source reference and pending ledger](./images/c06-07-03-source-reference-and-pending-ledger.jpg)
 
@@ -51,7 +57,9 @@ Use the fictional source pack and review log. This is a supervised manual workfl
 
 ![set a audit and repair](./images/c06-07-06-set-a-audit-and-repair.jpg)
 
-3. Include prompting, source checking and repair in active effort. Keep generation wait, sign-in, setup and interruptions separate. The author observed Set A complete within about 98 seconds of submission; that interval included other work and is an upper bound, not exact server latency or human effort. Complete human timing is still required before a manual/assisted comparison.
+3. Include prompting, source checking and repair in active effort. Keep generation wait, sign-in, setup and interruptions separate. Complete human timing is still required before a manual/assisted comparison.
+
+> **Reference run:** The author observed Set A complete within about 98 seconds of submission; that interval included other work and is an upper bound, not exact server latency or human effort.
 
 ## 7.4 Run a Small, Interpretable AI Evaluation
 
@@ -71,7 +79,9 @@ Use the fictional source pack and review log. This is a supervised manual workfl
 
 ![set b audit](./images/c06-07-10-set-b-audit.jpg)
 
-4. Run C in another fresh Flash conversation using Set A and the same sources, adding only the explicit output acceptance block. Apply the same rubric when a complete answer exists. In the author run C remained generating after more than seven minutes, then returned to the new-chat composer with the prompt restored and no answer. No cause was established and no retry was submitted. Keep C unscored; this does not demonstrate a successful repair. This is an author repair attempt, not an independent learner challenge.
+4. Run C in another fresh Flash conversation using Set A and the same sources, adding only the explicit output acceptance block. Apply the same rubric when a complete answer exists. No cause was established and no retry was submitted. Keep C unscored; this does not demonstrate a successful repair. This is an author repair attempt, not an independent learner challenge.
+
+> **Reference run:** C remained generating after more than seven minutes, then returned to the new-chat composer with the prompt restored and no answer.
 
 ![targeted rerun wait](./images/c06-07-11-targeted-rerun-wait.jpg)
 
@@ -86,7 +96,6 @@ Use the fictional source pack and review log. This is a supervised manual workfl
 ![final ledger and limits](./images/c06-07-14-final-ledger-and-limits.jpg)
 
 6. Recommend a narrow next trial: have a participant complete the aligned manual and assisted tasks using the same sources and acceptance rule, with phase timing and reviewer checks. Repeat on an equivalent task with a different order. Keep the checked outputs, defects and repairs; avoid company-wide ROI claims from this demonstration.
-
 
 See the [author results and maintained FAQ](./author-reference.md).
 

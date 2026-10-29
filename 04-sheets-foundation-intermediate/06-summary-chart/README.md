@@ -102,7 +102,9 @@ Use Tasks and the starter Summary tab. Existing baseline status counts are four 
 
 ![Create a named chart fault-test copy](./images/c04-06-18-named-chart-copy.jpg)
 
-5. Edit the copied status chart in **Setup**. Use **Select data range**, set the single range **A1:B5**, and confirm **OK**. Verify the chart actually displays a fourth **Total = 12** category. The reference needed the range dialog: typing in the compact range field alone did not update the underlying category/series ranges. If multiple ranges are listed, retain only the intended single range. The categories now represent 4+4+4+12=24 plotted counts even though only twelve tasks exist; Total duplicates the population already split into statuses.
+5. Edit the copied status chart in **Setup**. Use **Select data range**, set the single range **A1:B5**, and confirm **OK**. Verify the chart actually displays a fourth **Total = 12** category. If multiple ranges are listed, retain only the intended single range. The categories now represent 4+4+4+12=24 plotted counts even though only twelve tasks exist; Total duplicates the population already split into statuses.
+
+> **Reference run:** The reference needed the range dialog: typing in the compact range field alone did not update the underlying category/series ranges.
 
 ![Observe Total incorrectly plotted as a fourth category](./images/c04-06-19-total-row-fault.jpg)
 

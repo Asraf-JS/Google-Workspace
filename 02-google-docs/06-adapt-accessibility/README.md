@@ -56,13 +56,17 @@ The wording suits a sponsor while preserving the source facts.
 
 *The English source stays selected while Gemini drafts Malay in the panel.*
 
-2. In the practice copy, go to the end of the document, type `Malay Practice Summary` as **Heading 1** and insert the Malay draft below it. Under that, type `Translation Review - Training Only` and record your checks. Compare every condition with the English source and the supplied glossary. Record author edits and unresolved terms. The reference author clarified owner assignment and submission cut-off; those choices still require language review.
+2. In the practice copy, go to the end of the document, type `Malay Practice Summary` as **Heading 1** and insert the Malay draft below it. Under that, type `Translation Review - Training Only` and record your checks. Compare every condition with the English source and the supplied glossary. Record author edits and unresolved terms.
+
+> **Reference run:** The reference author clarified owner assignment and submission cut-off; those choices still require language review.
 
 ![English and Malay remain together in the separate practice copy](./images/c02-06-07-malay-practice-inserted.png)
 
 *English and Malay remain together in the separate practice copy.*
 
-3. Record **Language-review status: PENDING** unless a competent reviewer has actually checked the text. Keep the author glossary check separate from that review. A reviewer must check full-sentence meaning and terminology before external use; no reviewer was assigned in this reference run.
+3. Record **Language-review status: PENDING** unless a competent reviewer has actually checked the text. Keep the author glossary check separate from that review.
+
+> **Reference run:** A reviewer must check full-sentence meaning and terminology before external use; no reviewer was assigned in this reference run.
 
 ![The author flags wording choices and the pending competent language review](./images/c02-06-08-glossary-and-review-pending.png)
 
@@ -81,7 +85,9 @@ The practice copy keeps its original meaning. A generated translation is not tre
 
 1. Use heading styles to inspect structure. Check link text describes the destination rather than saying click here.
 2. If your document has an image, open its alternative-text control and describe the information it conveys.
-3. Inspect contrast, readable size and instructions that rely only on colour. In the reference document, body text was black at 11 pt, links were underlined, and status rules used text. Use the outline and **Ctrl+F** (Find) to locate the missing-owner rule. Record what you actually tested; this is a limited author check. No instructional image existed, so image alternative-text editing was not applicable.
+3. Inspect contrast, readable size and instructions that rely only on colour. Use the outline and **Ctrl+F** (Find) to locate the missing-owner rule. Record what you actually tested; this is a limited author check. No instructional image existed, so image alternative-text editing was not applicable.
+
+> **Reference run:** In the reference document, body text was black at 11 pt, links were underlined, and status rules used text.
 
 ![The outline and quick links describe the exception route](./images/c02-06-09-structure-and-descriptive-links.png)
 
@@ -110,11 +116,15 @@ The document can be followed through structure and text, with meaningful image d
 
 4. Inspect the deliberately flawed adaptation in Part 2 of the prompts page. Explain why approved and scheduled change meaning even if the prose reads smoothly.
 
-5. Inspect link labels before changing them. Replace a vague label if found; otherwise record source-supported no change. The reference document already used descriptive quick links. Repair any new audience/audit section that lacks a real heading style, then confirm it appears in the outline. Do not rely on red/green alone.
+5. Inspect link labels before changing them. Replace a vague label if found; otherwise record source-supported no change. Repair any new audience/audit section that lacks a real heading style, then confirm it appears in the outline. Do not rely on red/green alone.
+
+> **Reference run:** The reference document already used descriptive quick links.
 
 6. For an informative visual or table, write a short text description of what a reader needs to understand. If you use an image, set meaningful alternative text; if no image exists, describe the table in adjacent text.
 
-7. At the end of the Working document, type `Adaptation and Accessibility Checks` as **Heading 1** and record steps 4 to 6 there. If an assigned partner is available, ask them to locate and explain the exception route using headings and links; record the observed barrier and repair. Otherwise mark **partner test pending**. The reference author checked the outline and keyboard Find, repaired heading styles and recorded the limited scope; no partner test or accessibility certification is claimed.
+7. At the end of the Working document, type `Adaptation and Accessibility Checks` as **Heading 1** and record steps 4 to 6 there. If an assigned partner is available, ask them to locate and explain the exception route using headings and links; record the observed barrier and repair. Otherwise mark **partner test pending**.
+
+> **Reference run:** The reference author checked the outline and keyboard Find, repaired heading styles and recorded the limited scope; no partner test or accessibility certification is claimed.
 
 ![The final record explains factual defects, checks and pending tests](./images/c02-06-17-final-analysis-clean-view.png)
 

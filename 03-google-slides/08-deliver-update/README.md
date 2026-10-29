@@ -26,7 +26,9 @@ Use the checked deck and keep the [source brief](../../shared/sample-files/check
 
 ## 8.1 Deliver the Story
 
-1. Use the planned three-minute run sheet from Lab 7 to cover purpose, current tasks, risk and decisions. Give the update aloud and record speaking time. The author reference does **not** claim a spoken performance from navigating the UI.
+1. Use the planned three-minute run sheet from Lab 7 to cover purpose, current tasks, risk and decisions. Give the update aloud and record speaking time.
+
+> **Reference run:** The author reference does **not** claim a spoken performance from navigating the UI.
 
 2. Inspect the baseline status slide before delivery. It shows the 12-task snapshot, Complete 4, In Progress 4 and Not Started 4, alongside **Not evidence of pilot success**. Keep that qualification when explaining the chart.
 
@@ -45,7 +47,9 @@ A prepared, grounded story and a real spoken delivery result when you perform it
 
 ## 8.2 Answer and Verify
 
-1. Ask a partner to question one number or statement during a real delivery. Partner participation remains pending in this author reference. The scripted author check asks: **Where does Complete 4 come from?**
+1. Ask a partner to question one number or statement during a real delivery. The scripted author check asks: **Where does Complete 4 come from?**
+
+> **Reference run:** Partner participation remains pending in this author reference.
 
 2. Open **GW - Slides - Linked Data Source** and click the **Summary** tab. Use the name box to navigate to **B2**. The visible formula is **=COUNTIF(Tasks!$F$2:$F$13,A2)**, counting the status criterion in A2 over twelve task rows. Inspect all three named counts rather than assuming the first bar is enough.
 
@@ -76,7 +80,9 @@ An answer traceable to a source cell/formula or a stated evidence gap. The autho
 
 *Create a private final-practice copy with notes retained.*
 
-2. Record specific feedback in the status slide's speaker notes before revising. The author example is: **Name the 12-task evidence population in the headline so it remains explicit during a short update.** Label it **author practice feedback, not partner feedback**. Preserve 4/4/4, the linked source and unresolved decisions.
+2. Record specific feedback in the status slide's speaker notes before revising. Label it **author practice feedback, not partner feedback**. Preserve 4/4/4, the linked source and unresolved decisions.
+
+> **Reference run:** The author example is: **Name the 12-task evidence population in the headline so it remains explicit during a short update.**
 
 ![Record specific author feedback before changing the headline](./images/c03-08-05-author-feedback-recorded-before-revision.png)
 
@@ -88,13 +94,17 @@ An answer traceable to a source cell/formula or a stated evidence gap. The autho
 
 *Revise the headline while retaining counts and qualification.*
 
-4. Start **Slideshow** on that slide and inspect the actual delivery view. The reference title, counts and chart fit. This is a visual check, not a completed three-minute speech or partner-comprehension result. Exit Slideshow afterwards.
+4. Start **Slideshow** on that slide and inspect the actual delivery view. This is a visual check, not a completed three-minute speech or partner-comprehension result. Exit Slideshow afterwards.
+
+> **Reference run:** The reference title, counts and chart fit.
 
 ![Inspect the revised practice slide in actual Slideshow](./images/c03-08-07-revised-practice-status-in-slideshow.png)
 
 *Inspect the revised practice slide in actual Slideshow.*
 
-5. Name the version **Final practice - source and wording checked**, confirm it in history, then return with **Back**. It records the author source/wording check; it does not mean a sponsor or partner approved the update.
+5. Name the version **Final practice - source and wording checked**, confirm it in history, then return with **Back**.
+
+> **Reference run:** It records the author source/wording check; it does not mean a sponsor or partner approved the update.
 
 ![Name the source and wording check milestone](./images/c03-08-08-name-final-practice-milestone.png)
 
@@ -169,13 +179,17 @@ A targeted revision in a separate practice deck with unchanged baseline counts, 
 
 *Record the scenario source and qualification in notes.*
 
-8. Label the opening subtitle **Changed scenario · two-minute update**. Record a shorter narrative in the opening notes: purpose, changed 12-task snapshot, definition risk, requested budget/start decisions and next steps. Keep **proposed RM 12000, not approved**, the **unagreed start** and the future reporting-performance success measure. Reject “approved budget” and “pilot already successful”: the change request supplies no evidence for them. The 0:00 to 2:00 allocations are a plan; actual speech and reviewer challenge remain pending. The author question “Does five Complete prove success?” is a source check, not partner feedback.
+8. Label the opening subtitle **Changed scenario · two-minute update**. Record a shorter narrative in the opening notes: purpose, changed 12-task snapshot, definition risk, requested budget/start decisions and next steps. Keep **proposed RM 12000, not approved**, the **unagreed start** and the future reporting-performance success measure. Reject “approved budget” and “pilot already successful”: the change request supplies no evidence for them. The 0:00 to 2:00 allocations are a plan; actual speech and reviewer challenge remain pending.
+
+> **Reference run:** The author question “Does five Complete prove success?” is a source check, not partner feedback.
 
 ![Label the scenario and record the shorter narrative](./images/c03-08-20-scenario-labelled-and-two-minute-narrative-recorded.png)
 
 *Label the scenario and record the shorter narrative.*
 
-9. Click **File**, **Print preview**, choose **1 slide without notes**, turn **Include skipped slides** off, then **Download as PDF**. The reference export contains eight pages from native slides **1, 2, 3, 4, 5, 7, 8, 9**. Compare the actual PDF cover, status and decisions with the native deck. All eight reference pages were rendered and inspected; the planned two-minute run sheet is not part of the PDF.
+9. Click **File**, **Print preview**, choose **1 slide without notes**, turn **Include skipped slides** off, then **Download as PDF**. Compare the actual PDF cover, status and decisions with the native deck. All eight reference pages were rendered and inspected; the planned two-minute run sheet is not part of the PDF.
+
+> **Reference run:** The reference export contains eight pages from native slides **1, 2, 3, 4, 5, 7, 8, 9**.
 
 ![Export without skipped slides or speaker notes](./images/c03-08-21-scenario-handout-excludes-skipped-slides.png)
 

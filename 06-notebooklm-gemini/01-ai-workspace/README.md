@@ -32,11 +32,15 @@ Download the [project facts](../../shared/sample-files/project-facts.txt), [meet
 
 ![gemini training account surface](./images/c06-01-02-gemini-training-account-surface.jpg)
 
-3. Open [Gemini Notebook](https://notebook.google.com/). The older NotebookLM address redirected to this application during the author run. Create **GW - AI - Source Preflight**. Start with zero sources.
+3. Open [Gemini Notebook](https://notebook.google.com/). Create **GW - AI - Source Preflight**. Start with zero sources.
+
+> **Reference run:** The older NotebookLM address redirected to this application during the author run.
 
 ![new notebook zero sources](./images/c06-01-03-new-notebook-zero-sources.jpg)
 
-4. Open **Add sources**. Record the offered source types. The author account showed Upload files, Websites, Play Books, Drive and Copied text; only **Copied text** was tested in this lab. Availability of a button does not establish a successful import.
+4. Open **Add sources**. Record the offered source types. Availability of a button does not establish a successful import.
+
+> **Reference run:** The author account showed Upload files, Websites, Play Books, Drive and Copied text; only **Copied text** was tested in this lab.
 
 ![advertised source types](./images/c06-01-04-advertised-source-types.jpg)
 
@@ -106,11 +110,15 @@ If a service is unavailable, record the missing objective and use the trainer's 
 
 ![intermediate section outline before question bank repair](./images/c06-01-19-evidence-log-final-outline.jpg)
 
-6. Verify the successful folder move. The author run caught an uncommitted move during readback and completed it before handover. The confirmation below is the saved move, rather than the earlier picker preview.
+6. Verify the successful folder move. The confirmation below is the saved move, rather than the earlier picker preview.
+
+> **Reference run:** The author run caught an uncommitted move during readback and completed it before handover.
 
 ![evidence log move confirmed](./images/c06-01-20-evidence-log-move-confirmed.jpg)
 
-7. Insert **Six-question test bank - predictions before generation** before the scoring section. Read the six original questions and record a predicted answer, source and evidence behaviour for each. Check that **T01-T06 occur in both the prediction bank and scoring plan**. The author readback caught a missed insertion and repaired it before final verification.
+7. Insert **Six-question test bank - predictions before generation** before the scoring section. Read the six original questions and record a predicted answer, source and evidence behaviour for each. Check that **T01-T06 occur in both the prediction bank and scoring plan**.
+
+> **Reference run:** The author readback caught a missed insertion and repaired it before final verification.
 
 ![six question bank inserted before scoring](./images/c06-01-21-six-question-bank-inserted-before-scoring.jpg)
 
@@ -122,12 +130,13 @@ The purpose, teams, cadence/success measure and budget are answerable from S1; S
 
 ![final six test scoring plan](./images/c06-01-25-final-six-test-scoring-plan.jpg)
 
-9. Reopen the practice folder and confirm the named native Doc. Recheck its nine editable tables, five main sections, six predictions, six unscored rows and unresolved questions. A native PDF export was inspected offline across all six pages in the author run; no blank pages or text outside page bounds were found. This verifies the prepared log, not FAQ correctness or independent reviewer success.
+9. Reopen the practice folder and confirm the named native Doc. Recheck its nine editable tables, five main sections, six predictions, six unscored rows and unresolved questions. This verifies the prepared log, not FAQ correctness or independent reviewer success.
+
+> **Reference run:** A native PDF export was inspected offline across all six pages in the author run; no blank pages or text outside page bounds were found.
 
 ![evidence log saved in practice folder](./images/c06-01-26-evidence-log-saved-in-practice-folder.jpg)
 
 **Verified author result:** isolated practice folder, one-original-source notebook preflight and a saved native evidence log with bounded task contract, source manifest, feature record, predictions, scoring plan and open questions. Automated guided actions took about 12 minutes; verification and automation repairs added about 19 minutes. These are author-operation timings, not evidence that learners meet the 40-minute classroom target. Independent source classification, two extra tests, actual reviewer agreement and learner timing remain pending.
-
 
 ## Independent Challenge
 

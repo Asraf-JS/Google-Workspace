@@ -58,7 +58,9 @@ A clear budget/start-date decision request, supported project context and visibl
 
 *Paste the bounded outline prompt and complete checked brief into Gemini.*
 
-3. Read all six actual messages. The reference proposal used Purpose and Roles, Scope, Schedule and Success Measure, Reporting Risk, Proposed Budget and Decisions Needed. It retained the proposed budget and unconfirmed date and did not invent task counts or savings. Your response can differ; check its claims against the inputs.
+3. Read all six actual messages. It retained the proposed budget and unconfirmed date and did not invent task counts or savings. Your response can differ; check its claims against the inputs.
+
+> **Reference run:** The reference proposal used Purpose and Roles, Scope, Schedule and Success Measure, Reporting Risk, Proposed Budget and Decisions Needed.
 
 ![Inspect the actual purpose and scope proposal in the Gemini panel](./images/c03-01-04-gemini-purpose-and-scope-proposal.png)
 
@@ -68,7 +70,9 @@ A clear budget/start-date decision request, supported project context and visibl
 
 *The actual proposal retains the proposed budget and unresolved start decision.*
 
-4. Add the Heading 1 `AI Proposal Review`. Compare the response with your human plan and record a real revision there. In this run, the first purpose message cited roles as its source fact: the review replaced that mapping with the actual Purpose phrase. It also replaced broad financial-commitment wording with proposed budget ceiling and kept the exact agreed-start condition.
+4. Add the Heading 1 `AI Proposal Review`. Compare the response with your human plan and record a real revision there. It also replaced broad financial-commitment wording with proposed budget ceiling and kept the exact agreed-start condition.
+
+> **Reference run:** In this run, the first purpose message cited roles as its source fact: the review replaced that mapping with the actual Purpose phrase.
 5. Keep the required six-part story: merge budget with Decisions, include schedule and the success criterion in Scope/Next Steps, restore **Current Tasks** using a separately checked workbook, and end with conditional next actions. No unsupported claim was invented merely to demonstrate a correction.
 
 ![Record the human source-mapping and narrative revision](./images/c03-01-06-human-ai-comparison-and-revision.png)
@@ -86,7 +90,9 @@ An outline with a useful job and identifiable source for every slide, plus a rec
 
 1. Add the Heading 1 `Outline Acceptance Check`. Check that no calendar launch date, achieved success or numerical efficiency saving has been invented.
 2. Keep **RM 12000 proposed, not approved**, the unagreed start, four weeks from the agreed start and Friday reporting explicit. Confirm that the requested decision does not authorise purchasing.
-3. Rehearse the plan aloud for one minute before creating the deck. **Pending in the author run:** a written script or word count does not establish that a person rehearsed aloud.
+3. Rehearse the plan aloud for one minute before creating the deck.
+
+> **Reference run:** Pending: a written script or word count does not establish that a person rehearsed aloud.
 
 ![Check factual conditions and leave spoken rehearsal pending](./images/c03-01-07-outline-acceptance-and-pending-rehearsal.png)
 
@@ -101,14 +107,18 @@ A fact-checked outline. Record an actual spoken rehearsal separately when it hap
 
 ## 1.4 Build an Audience and Evidence Storyboard
 
-1. Add the Heading 1 `Audience and Evidence Storyboard` and a one-line description, then click **Insert**, **Table** and create a 5-column, 7-row table with **Slide**, **Audience question**, **Main message**, **Evidence**, **Visual approach**. Populate all six planned slides before opening the theme gallery. Landscape A4 was used in this reference run to keep the five-column table readable. Use **Format**, **Line & paragraph spacing**, **Add page break before** where needed to keep its heading and table together; inspect the resulting layout.
+1. Add the Heading 1 `Audience and Evidence Storyboard` and a one-line description, then click **Insert**, **Table** and create a 5-column, 7-row table with **Slide**, **Audience question**, **Main message**, **Evidence**, **Visual approach**. Populate all six planned slides before opening the theme gallery. Use **Format**, **Line & paragraph spacing**, **Add page break before** where needed to keep its heading and table together; inspect the resulting layout.
+
+> **Reference run:** Landscape A4 was used in this reference run to keep the five-column table readable.
 
 ![Complete the native seven-row, five-column storyboard before deck decoration](./images/c03-01-08-six-row-evidence-storyboard.png)
 
 *Complete the native seven-row, five-column storyboard before deck decoration.*
 
 2. Add the Heading 1 `Decisions and Claim Inventory`. Record both unresolved sponsor decisions and needed evidence. Budget approval needs an authorised decision identifying amount/conditions; a start date needs a recorded agreement. The supplied sources contain neither. A relative DueWeek value cannot supply a calendar date.
-3. Build the claim inventory from `project-facts.txt`, `checked-brief.txt` and the supplied **12-task** workbook. Inspect `Tasks!A2:H13` and statuses `F2:F13`: **4 Complete, 4 In Progress, 4 Not Started**, four tasks per team. Label these as a dataset snapshot. In the reference run, the supplied local XLSX was inspected directly; this does not claim a live Google Sheets test or prove final-two-weeks on-time submissions.
+3. Build the claim inventory from `project-facts.txt`, `checked-brief.txt` and the supplied **12-task** workbook. Inspect `Tasks!A2:H13` and statuses `F2:F13`: **4 Complete, 4 In Progress, 4 Not Started**, four tasks per team. Label these as a dataset snapshot.
+
+> **Reference run:** The supplied local XLSX was inspected directly; this does not claim a live Google Sheets test or prove final-two-weeks on-time submissions.
 
 ![Record the two decisions and verified twelve-task dataset snapshot](./images/c03-01-09-open-decisions-and-task-inventory.png)
 
@@ -120,20 +130,28 @@ A fact-checked outline. Record an actual spoken rehearsal separately when it hap
 
 *Classify supported requests and reject unsupported approval and efficiency claims.*
 
-5. Add the Heading 1 `Opening and Closing Scripts`. Draft a 60-second opening and 30-second closing request. Preserve the proposed budget and unresolved date. The reference drafts contain **125** and **63 words**; these are preparation, not measured speaking times. Keep actual rehearsal pending until performed.
+5. Add the Heading 1 `Opening and Closing Scripts`. Draft a 60-second opening and 30-second closing request. Preserve the proposed budget and unresolved date. Keep actual rehearsal pending until performed.
+
+> **Reference run:** The reference drafts contain **125** and **63 words**; these are preparation, not measured speaking times.
 
 ![Draft opening and closing scripts while leaving actual spoken duration pending](./images/c03-01-11-opening-closing-and-timing-limit.png)
 
 *Draft opening and closing scripts while leaving actual spoken duration pending.*
 
-6. Add the Heading 1 `Appendix Plan and Review Status`. Plan one appendix on **source definitions** and a second on **an audience question the evidence cannot answer**. The reference second topic asks what measurable efficiency improvement the pilot will deliver; the inputs cannot answer. Explain why these support questions stay outside the six-slide decision story.
+6. Add the Heading 1 `Appendix Plan and Review Status`. Plan one appendix on **source definitions** and a second on **an audience question the evidence cannot answer**. Explain why these support questions stay outside the six-slide decision story.
+
+> **Reference run:** The reference second topic asks what measurable efficiency improvement the pilot will deliver; the inputs cannot answer.
 
 ![Plan source definitions and an evidence-gap appendix, with partner review pending](./images/c03-01-12-appendices-and-pending-partner-review.png)
 
 *Plan source definitions and an evidence-gap appendix, with partner review pending.*
 
-7. **Pending until a partner is assigned:** walk them through the storyboard without decoration. Ask them to identify both decisions and explain why the task snapshot does not establish success. Record their actual confusion and any resulting revision. The reference author run contacted nobody and attributes no hesitation or repair to a partner.
-8. Click **File**, **Version history**, **Name current version**, type `Story plan checked` and click **Save**. Inspect the complete planning document and record genuine issues. The initial author PDF had nine pages with one blank page after the storyboard. Removing an extra **Add page break before** setting on the following claim-inventory heading repaired it. The separate final milestone is `Story plan checked - layout repaired`. The final **eight-page** PDF was rendered and visually checked offline, with no blank pages or text outside page bounds. Native readback confirmed **nine nonempty headings and a 7 x 5 native table**. Interactive PDF navigation is not claimed.
+7. **Pending until a partner is assigned:** walk them through the storyboard without decoration. Ask them to identify both decisions and explain why the task snapshot does not establish success. Record their actual confusion and any resulting revision.
+
+> **Reference run:** The reference author run contacted nobody and attributes no hesitation or repair to a partner.
+8. Click **File**, **Version history**, **Name current version**, type `Story plan checked` and click **Save**. Inspect the complete planning document and record genuine issues. The initial author PDF had nine pages with one blank page after the storyboard. Removing an extra **Add page break before** setting on the following claim-inventory heading repaired it. The separate final milestone is `Story plan checked - layout repaired`. The final **eight-page** PDF was rendered and visually checked offline, with no blank pages or text outside page bounds. Interactive PDF navigation is not claimed.
+
+> **Reference run:** Native readback confirmed **nine nonempty headings and a 7 x 5 native table**.
 
 ![Name the initial checked planning revision](./images/c03-01-13-story-plan-checked-version.png)
 

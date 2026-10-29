@@ -92,7 +92,9 @@ Use the checked advanced workbook with all-orders and delivered controls reconci
 
 ![chart and sparkline return to baseline](./images/c05-09-16-chart-and-sparkline-return-to-baseline.jpg)
 
-8. Confirm Pivot Review also returns to **3158**. Existing-row value refresh was automatic in this run; this does not establish automatic range extension for appended records.
+8. Confirm Pivot Review also returns to **3158**.
+
+> **Reference run:** Existing-row value refresh was automatic in this run; this does not establish automatic range extension for appended records.
 
 ![pivot restored to 3158](./images/c05-09-17-pivot-restored-to3158.jpg)
 

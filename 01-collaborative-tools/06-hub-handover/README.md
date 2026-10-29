@@ -25,29 +25,23 @@ Use the [copy-paste page](./prompts.md) and [shared practice files](../../shared
 
 ![The blank draft has its banner before other pages, body content or embeds are added](./images/c01-06-draft-banner.jpg)
 
-
 2. Create pages **Overview**, **Reporting** and **Decisions and Actions**. Write one sentence on each explaining the visitor’s next useful action.
 
 ![Three distinct pages exist before the detailed content and resource embeds](./images/c01-06-three-pages.jpg)
 
 ![Overview now tells the visitor what to do next; detailed context is still absent](./images/c01-06-visitor-action.jpg)
 
-
-
 3. On Overview add the project purpose, unresolved start date and proposed budget caveat. Link to the checked brief. Avoid copying long sections that could become stale.
 
 ![Overview adds the checked context and brief link without claiming an approved budget or start date](./images/c01-06-overview.jpg)
-
 
 4. On Reporting add a short status-definition guide and the Friday reporting cadence. Explain where to edit source records and where readers should look for checked updates.
 
 ![Reporting guidance directs edits to the source and preserves ambiguity for clarification](./images/c01-06-reporting-guidance.jpg)
 
-
 5. On Decisions and Actions add links to the meeting record and the brief’s decision section. Keep open decisions visibly separate from completed preparation work.
 
 ![Open decisions and preparation actions are distinguished, with links to their maintained records](./images/c01-06-decisions.jpg)
-
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -68,20 +62,15 @@ The draft hub has three distinct purposes and useful navigation. It directs edit
 
 ![Sites warns that site access would not grant file access; the private route used Don’t share](./images/c01-06-access-warning.jpg)
 
-
-
-
 2. Add a link to the project working folder. Embed the practice calendar only if an assigned training calendar exists; otherwise include a clearly labelled **Calendar integration pending** note. Do not expose a personal calendar.
 
 3. For each resource add a short caption: purpose, source file and who should maintain it. Label any not-yet-assigned maintainer as proposed.
 
 ![Direct file links, proposed maintainers, Calendar integration pending and the visitor-test limitation accompany the embeds](./images/c01-06-links-captions.jpg)
 
-
 4. Update the Workspace Register with a resource matrix: resource URL, intended audience, current file access, hub access, test performed and result.
 
 ![The verified seven-row, six-column matrix distinguishes resource access from hub access; URL keys are maintained separately in the private register](./images/c01-06-access-matrix.jpg)
-
 
 5. Inspect the Site sharing settings and each embedded file’s **Share** dialog separately. If using a training Shared Drive, inspect inherited membership too. Site access does not itself grant direct access to every embedded file.
 
@@ -90,9 +79,6 @@ The draft hub has three distinct purposes and useful navigation. It directs edit
 ![The embedded deck’s own Share dialog remains Restricted; account details are masked](./images/c01-06-deck-access.jpg)
 
 ![The native tracker’s own Share dialog is checked separately and remains Restricted](./images/c01-06-tracker-access.jpg)
-
-
-
 
 6. If an assigned test viewer and an authorised restricted published sandbox already exist, test that route and log the actual result. Otherwise record **Preview only - visitor access untested**. A preview in your own editor account cannot prove a visitor’s access.
 
@@ -111,7 +97,6 @@ Every embed has a useful caption and direct link. The resource matrix separates 
 
 **Reference-run limitation:** desktop and phone Preview opened with a blank content frame in this browser, including after reloading the saved draft and retrying desktop. Those layout and navigation checks remain unverified. The two native embeds rendered for the owner in the editor. Keep a failed preview distinct from a successful visitor test; do not publish or widen access to hide the limitation.
 
-
 2. Open the text links and confirm each resolves to the intended working file. Record whether a displayed chart is a linked snapshot in Docs/Slides or a direct spreadsheet embed.
 
 3. In the Workspace Register add a handover checklist: update task record, inspect validation and formulas, reconcile summary, refresh linked objects, revise narrative, export a new snapshot and check hub resources.
@@ -119,7 +104,6 @@ Every embed has a useful caption and direct link. The resource matrix separates 
 4. Add an exception route for ambiguous statuses and unresolved decisions: record the issue and ask the responsible role for clarification. Do not silently map ambiguity to Complete.
 
 ![The one-page operating guide includes five actual hyperlinks, the update checklist and two recovery procedures](./images/c01-06-operating-guide.jpg)
-
 
 5. Give a partner the hub and checklist, or use a fresh read-through if working alone. Ask them to locate the source tracker, open decisions and refresh instructions. Record one navigation or wording improvement.
 
@@ -132,11 +116,6 @@ Every embed has a useful caption and direct link. The resource matrix separates 
 ![The author read-through also widened clipped direct-link buttons so each file label is readable](./images/c01-06-readable-links.jpg)
 
 ![Decision-page link tiles are widened too, preserving the separate open-decision wording](./images/c01-06-readable-decisions.jpg)
-
-
-
-
-
 
 <details markdown="1">
 <summary>What should you see?</summary>

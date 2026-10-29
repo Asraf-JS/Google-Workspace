@@ -30,7 +30,9 @@ Use a new practice Google Doc containing the supplied fact sheet. The reference 
 
 ![gemini panel open](./images/c06-03-02-gemini-panel-open.jpg)
 
-2. Create a separate Doc from the supplied proposed reporting guidance. In the panel choose **Add sources → Add from Drive**, select the exact guidance document and confirm its chip. In the author run it was named **GW - AI - Proposed Reporting Guidance v1**. If the picker is unavailable, paste the complete guidance and record that fallback.
+2. Create a separate Doc from the supplied proposed reporting guidance. In the panel choose **Add sources → Add from Drive**, select the exact guidance document and confirm its chip. If the picker is unavailable, paste the complete guidance and record that fallback.
+
+> **Reference run:** It was named **GW - AI - Proposed Reporting Guidance v1**.
 
 ![proposed guidance source](./images/c06-03-03-proposed-guidance-source.jpg)
 
@@ -40,18 +42,24 @@ Use a new practice Google Doc containing the supplied fact sheet. The reference 
 
 ![update prompt](./images/c06-03-05-update-prompt.jpg)
 
-4. The first author request said panel only, yet Gemini proposed inserting text into the source document. The author rejected it and verified that the original remained intact. A second request explicitly saying “Do not insert, edit, or propose changes” returned a panel answer with links to both documents. A link is a pointer, not proof: inspect the original passages.
+4. The first author request said panel only, yet Gemini proposed inserting text into the source document. A second request explicitly saying “Do not insert, edit, or propose changes” returned a panel answer with links to both documents. A link is a pointer, not proof: inspect the original passages.
+
+> **Reference run:** The author rejected it and verified that the original remained intact.
 
 ![unexpected proposed edit](./images/c06-03-06-unexpected-proposed-edit.jpg)
 
-5. Check the unagreed start, proposed and unapproved RM 12,000 ceiling, four-week duration, Friday cadence and final-two-week success measure. The answer stated “Operations follow” the proposed guidance; the author corrected this to describe proposed training practice, not established operations or approved policy.
+5. Check the unagreed start, proposed and unapproved RM 12,000 ceiling, four-week duration, Friday cadence and final-two-week success measure.
+
+> **Reference run:** The answer stated “Operations follow” the proposed guidance; the author corrected this to describe proposed training practice, not established operations or approved policy.
 
 ![checked update](./images/c06-03-10-checked-update.jpg)
 
 ## 3.2 Adapt a Communication
 
 1. Ask for example message wording based on the checked update. Keep recipients blank and do not send. Explicitly request plain chat text and prohibit creating a Gmail draft, using tools or editing a file; inspect the result before proceeding.
-2. **Observed behaviour:** despite a panel-only request, Gemini created an unaddressed Gmail draft before the author could cancel. It remained unsent. A more explicit no-tools, no-draft request produced text in the panel. Instructions alone do not guarantee that Gemini will avoid actions; inspect the interface and saved drafts, and stop an unintended action when possible.
+2. It remained unsent. A more explicit no-tools, no-draft request produced text in the panel. Instructions alone do not guarantee that Gemini will avoid actions; inspect the interface and saved drafts, and stop an unintended action when possible.
+
+> **Reference run:** **Observed behaviour:** despite a panel-only request, Gemini created an unaddressed Gmail draft before the author could cancel.
 3. Copy or manually adapt the checked wording to a playbook. Preserve the unresolved decisions and proposed guidance; do not claim a launch or accepted commitment.
 
 ![unsent message](./images/c06-03-11-unsent-message.jpg)
@@ -59,14 +67,18 @@ Use a new practice Google Doc containing the supplied fact sheet. The reference 
 ## 3.3 Review Cross-App Actions
 
 1. Paste the complete scripted meeting record into the panel and ask Gemini to extract action, owner and relative practice week in chat only. Explicitly prohibit creating tasks, events, drafts or file changes.
-2. Check the output against the original: Aina prepares a draft template in week 1, Bala reviews status definitions in week 1, and Siti collects a fictional sample update in week 2. The author response correctly extracted those rows, but grouped “no purchase authorised” and “no external announcement planned” with unresolved decisions; those are stated constraints, not proof of additional pending approvals.
+2. Check the output against the original: Aina prepares a draft template in week 1, Bala reviews status definitions in week 1, and Siti collects a fictional sample update in week 2.
+
+> **Reference run:** The author response correctly extracted those rows, but grouped “no purchase authorised” and “no external announcement planned” with unresolved decisions; those are stated constraints, not proof of additional pending approvals.
 3. Record the checked list as text. A proposed action or extracted owner is not an assigned task, and a practice week is not a calendar date.
 
 ![action lineage](./images/c06-03-12-action-lineage.jpg)
 
 ## 3.4 Trace One Evidence Set Through Three Outputs
 
-1. Create an **Output Lineage** table mapping each output to its input and check: fact sheet and proposed guidance → checked coordinator update; checked update → unsent message; scripted meeting record → action list. The author used an editable Google Docs table after building the three outputs.
+1. Create an **Output Lineage** table mapping each output to its input and check: fact sheet and proposed guidance → checked coordinator update; checked update → unsent message; scripted meeting record → action list.
+
+> **Reference run:** The author used an editable Google Docs table after building the three outputs.
 
 ![lineage table](./images/c06-03-14-lineage-table.jpg)
 

@@ -32,7 +32,9 @@ Download [TaskRegister.xlsx](../../shared/sample-files/TaskRegister.xlsx). This 
 
 *Create the empty Foundation practice folder.*
 
-2. Upload **TaskRegister.xlsx** into this folder and confirm its **Microsoft Excel** type. In this author run the instructor uploaded the file manually: the extension still rejected file upload after its file-URL setting and browser restart. The captured uploaded file is real; the automated upload step is not claimed as passed.
+2. Upload **TaskRegister.xlsx** into this folder and confirm its **Microsoft Excel** type. The captured uploaded file is real; the automated upload step is not claimed as passed.
+
+> **Reference run:** The instructor uploaded the file manually: the extension still rejected file upload after its file-URL setting and browser restart.
 
 ![Inspect the uploaded original Excel file](./images/c04-01-02-uploaded-original-xlsx.png)
 
@@ -102,7 +104,9 @@ You can identify a cell address, a rectangular range and a worksheet tab.
 
 *Enter Practice only and widen its column on the duplicate.*
 
-3. Return to **Tasks** and inspect **A1:H13**. The reference source was compared with its initial native cell data and remained unchanged, including all twelve records.
+3. Return to **Tasks** and inspect **A1:H13**.
+
+> **Reference run:** The reference source was compared with its initial native cell data and remained unchanged, including all twelve records.
 
 ![Return to the unchanged original Tasks tab](./images/c04-01-10-original-tasks-after-practice-edit.png)
 
@@ -160,7 +164,9 @@ Experiments are on a clearly named copy; the baseline input is preserved.
 
 *Recreate the first three records with all eight fields.*
 
-4. Compare all eight fields by **TaskID** against **Tasks**. The reference three rows matched, so no copying error was invented or introduced. Record that result. The observed readability issue was clipped task text; widening the Entry Practice task column repaired the display without changing values.
+4. Compare all eight fields by **TaskID** against **Tasks**. Record that result. The observed readability issue was clipped task text; widening the Entry Practice task column repaired the display without changing values.
+
+> **Reference run:** The reference three rows matched, so no copying error was invented or introduced.
 
 5. Practise **B2** (one cell), **2:2** (whole row), **C:C** (whole column) and **A1:H4** (small table) through the name box. Record that **A1:H1** targets the header only, while a complete record must keep all its fields together. Selection alone does not move data.
 

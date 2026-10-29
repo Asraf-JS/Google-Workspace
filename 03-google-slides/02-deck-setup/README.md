@@ -49,7 +49,9 @@ The deck has six identifiable slides in the planned sequence.
 ## 2.2 Manage the Sequence
 
 1. In the filmstrip on the left, right-click the Risk slide and choose **Duplicate slide**. Change the copy's title to `Risk - alternative` and drag it to just after Decisions.
-2. Right-click the duplicate and choose **Skip slide**. The reference keeps **Risk - alternative** immediately after Decisions.
+2. Right-click the duplicate and choose **Skip slide**.
+
+> **Reference run:** The reference keeps **Risk - alternative** immediately after Decisions.
 
 ![Use the backup slide context menu](./images/c03-02-03-backup-skip-menu.png)
 
@@ -110,7 +112,9 @@ You can explain the formatting choice without mixing an unrelated slide into the
 
 *Inspect and edit the disposable theme accent.*
 
-The title follows the new green accent; the manually formatted subtitle remains red. Native readback confirmed the title uses ACCENT1 and the subtitle a fixed RGB value.
+The title follows the new green accent; the manually formatted subtitle remains red.
+
+> **Reference run:** Native readback confirmed the title uses ACCENT1 and the subtitle a fixed RGB value.
 
 ![Theme-linked title changes while manual text stays red](./images/c03-02-10-linked-versus-manual-colour.png)
 
@@ -120,9 +124,13 @@ The title follows the new green accent; the manually formatted subtitle remains 
 
 4. Create a deliberately different source slide with a different theme and an informative title. Import it twice: once keeping its original theme and once adopting the destination theme.
 
-5. Compare text, background and object formatting on the two imports. Choose the suitable version and keep only the useful practice result as a skipped slide at the end of the deck (**Slide**, **Move slide**, **Move slide to end**), so the slide numbers used in Labs 7 and 8 stay the same. **Reference status: steps 4-5 are pending because the import picker is blank. The working deck has no imported practice appendix.**
+5. Compare text, background and object formatting on the two imports. Choose the suitable version and keep only the useful practice result as a skipped slide at the end of the deck (**Slide**, **Move slide**, **Move slide to end**), so the slide numbers used in Labs 7 and 8 stay the same.
 
-6. On Decisions add **Review source definitions**, select that text and use **Ctrl+K > Slides in this presentation > Appendix A - Source Definitions**. Add **Return to Decisions** in Appendix A and link it to Decisions. Test both in **Slideshow**, by clicking the links. The reference moved from slide 5 to slide 8 and back to slide 5.
+> **Reference run:** Steps 4-5 are pending because the import picker is blank. The working deck has no imported practice appendix.
+
+6. On Decisions add **Review source definitions**, select that text and use **Ctrl+K > Slides in this presentation > Appendix A - Source Definitions**. Add **Return to Decisions** in Appendix A and link it to Decisions. Test both in **Slideshow**, by clicking the links.
+
+> **Reference run:** The reference moved from slide 5 to slide 8 and back to slide 5.
 
 ![Follow the decision slide link in presentation mode](./images/c03-02-11-decision-navigation.png)
 
@@ -132,7 +140,9 @@ The title follows the new green accent; the manually formatted subtitle remains 
 
 *Source definitions include a working return link.*
 
-7. Click **File**, **Make a copy**, **Entire presentation** and name it `GW - Slides - Reusable Six-Part Structure`. Leave sharing unchecked and remove speaker notes from the copy. Replace every case-specific message, number and source in the copy with descriptive placeholders. Preserve the six main topics, skipped backup and two appendices; restore internal links if text replacement removes them. The reference copy uses the default linked slide-title labels. Do not treat the earlier project evidence as evidence for a new topic.
+7. Click **File**, **Make a copy**, **Entire presentation** and name it `GW - Slides - Reusable Six-Part Structure`. Leave sharing unchecked and remove speaker notes from the copy. Replace every case-specific message, number and source in the copy with descriptive placeholders. Preserve the six main topics, skipped backup and two appendices; restore internal links if text replacement removes them. Do not treat the earlier project evidence as evidence for a new topic.
+
+> **Reference run:** The reference copy uses the default linked slide-title labels.
 
 ![Reusable decision placeholders replace case narrative](./images/c03-02-13-reusable-decisions.png)
 

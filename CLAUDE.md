@@ -26,6 +26,10 @@ Book PDFs are committed, so every rebuild adds the whole file to git history. `t
 
 The Google Docs course (02-google-docs) now follows the training-book-kit chapter skeleton: a `> **Prompts:**` callout, `**Estimated time:** NN minutes` (the planned split follows on the same line), a `---` rule before What You Will Learn, Independent Practice with an Evidence to Hand Over subsection, and an italic caption under every screenshot. Prompts pages are titled `NN - Title: Prompts` and use `## Part N: Name` headings, with Session/Grounding lines above Gemini prompts. Google Slides (03-google-slides) follows the same pattern. Apply it to the remaining four courses once their screenshot branches are merged. Image file names keep the course prefix (`c02-...`) because six courses share chapter numbers. The participant site follows the kit's BRAND.md: logo.png at the root (copied from training-book-kit/brand), navy/teal/purple tokens in assets/site.css with a dark-mode set, and a teal-cloud sidebar in light mode. The six review books keep their Google product palettes (assets/book-palette*.css), as BRAND.md allows for books. program-flow.png is rendered by _design/render-program-flow.py in the brand colours.
 
+## Reference-Run Notes
+
+Keep numbered steps as plain learner instructions. Anything that reports what happened in the author's own run (page counts, observed UI, what was or wasn't tested in the reference) goes in a `> **Reference run:** ...` line directly under its step. The site builder gives these a quieter style. Don't delete them: they are the evidence behind each chapter's status.
+
 ## Next Production Work
 
 Confirm the customer Workspace edition, enabled services, language and actual teaching timetable. Execute the untested lab routes in order, capture real screenshots, repair control wording and reconcile expected results with private assessment controls. Pilot the chapter timings. Publish only after the required review and the user's instruction to publish.

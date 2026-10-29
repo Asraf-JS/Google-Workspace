@@ -48,20 +48,26 @@ A clear response to missing information, with no fabricated assignment or sent r
 
 ## 8.2 Run the Review
 
-1. Click inside the table of contents and click its **Update table of contents** button (the circular arrow at its left). The reference review found that the contents also omitted earlier audience/audit headings; refreshing repaired that real issue.
+1. Click inside the table of contents and click its **Update table of contents** button (the circular arrow at its left).
+
+> **Reference run:** The reference review found that the contents also omitted earlier audience/audit headings; refreshing repaired that real issue.
 
 ![Refresh the native contents to include current headings](./images/c02-08-03-contents-refreshed.png)
 
 *Refresh the native contents to include current headings.*
 
-2. Test the new opening link. It must reach **Request Owner Clarification**, not merely resemble a link. In the reference run, selecting the link and pressing **Alt+Enter** followed it.
+2. Test the new opening link. It must reach **Request Owner Clarification**, not merely resemble a link.
+
+> **Reference run:** Selecting the link and pressing **Alt+Enter** followed it.
 
 ![Follow the opening link to Request Owner Clarification](./images/c02-08-04-opening-link-reaches-owner-route.png)
 
 *Follow the opening link to Request Owner Clarification.*
 
 3. Check all budget, approval and start-date references against `project-facts.txt` and `reporting-guidance.txt`. Retain **RM 12000 proposed ceiling**, **unagreed start**, **four weeks from the agreed start** and **every Friday**. Distinguish labelled flawed examples or rejected assertions from accepted facts; do not silently rewrite historical evidence.
-4. Inspect the entire print layout and sponsor summary. The reference core PDF had **11 pages**: all pages were rendered and visually reviewed offline, with no blank pages or text outside page bounds. The existing sponsor summary remained 100 words. This does not establish interactive PDF-link behaviour.
+4. Inspect the entire print layout and sponsor summary. The existing sponsor summary remained 100 words. This does not establish interactive PDF-link behaviour.
+
+> **Reference run:** The reference core PDF had **11 pages**: all pages were rendered and visually reviewed offline, with no blank pages or text outside page bounds.
 
 ![Inspect the core native-export PDF offline through its final page](./images/c02-08-19-core-pdf-layout-check.png)
 
@@ -121,7 +127,9 @@ A checked milestone and an honest handover that identifies the maintained source
 
 *Label the six-action checklist proposed practice.*
 
-4. Under **Quick Start**, add the link `Review unresolved owner, status and approval evidence`, targeting the new Heading 2. Retain and retest the earlier owner-clarification link. Refresh the contents and follow its escalation entry. Both opening links and the contents destination were tested natively in the reference run.
+4. Under **Quick Start**, add the link `Review unresolved owner, status and approval evidence`, targeting the new Heading 2. Retain and retest the earlier owner-clarification link. Refresh the contents and follow its escalation entry.
+
+> **Reference run:** Both opening links and the contents destination were tested natively in the reference run.
 
 5. Update the sponsor summary, contributor checklist and open decision questions to match the route. The checked sponsor version is **100 words**. Keep the original budget/date caveats and the canonical T001 source example. Add a separate **Capstone Incoming-Report Examples** table for the three supplied scenarios, with columns **Case**, **Incoming report**, **Author route and recorded action**, **Unresolved / stop condition**.
 
@@ -137,7 +145,9 @@ A checked milestone and an honest handover that identifies the maintained source
 
 *The refreshed contents entry reaches the escalation heading.*
 
-6. Add a **Reader-Test Status and Release Record**. Record the three author checks separately from an independent reader result. Name the checked revision `Procedure capstone checked`, export the complete single **Tab 1** including appendices to `Procedure-capstone-complete-r1.pdf`, and inspect every page. The reference PDF had **16 pages**. A page break kept the reader record together; an empty heading left by that break was changed to Normal text, the contents refreshed and the final PDF regenerated. Final readback confirmed **24 nonempty heading targets and seven native tables**. All final pages were rendered and visually inspected; no blank/out-of-page text was found. Native navigation was tested; interactive PDF navigation remains pending.
+6. Add a **Reader-Test Status and Release Record**. Record the three author checks separately from an independent reader result. Name the checked revision `Procedure capstone checked`, export the complete single **Tab 1** including appendices to `Procedure-capstone-complete-r1.pdf`, and inspect every page. A page break kept the reader record together; an empty heading left by that break was changed to Normal text, the contents refreshed and the final PDF regenerated. Final readback confirmed **24 nonempty heading targets and seven native tables**. Native navigation was tested; interactive PDF navigation remains pending.
+
+> **Reference run:** The reference PDF had **16 pages**. All final pages were rendered and visually inspected; no blank/out-of-page text was found.
 
 ![Name the checked capstone revision before its complete export](./images/c02-08-18-procedure-capstone-checked-version.png)
 
@@ -155,7 +165,9 @@ A checked milestone and an honest handover that identifies the maintained source
 
 *The refreshed contents includes the new route and capstone records.*
 
-7. **Pending until an independent reviewer is assigned:** give that person the document and unfamiliar CASE-R1 card. Ask them to follow it without coaching and record their actual decision path, hesitation and result. The reference run prepared the card but contacted nobody. Do not fill this result with the author's own walkthrough.
+7. **Pending until an independent reviewer is assigned:** give that person the document and unfamiliar CASE-R1 card. Ask them to follow it without coaching and record their actual decision path, hesitation and result. Do not fill this result with the author's own walkthrough.
+
+> **Reference run:** The reference run prepared the card but contacted nobody.
 
 <details markdown="1">
 <summary>What should you see?</summary>

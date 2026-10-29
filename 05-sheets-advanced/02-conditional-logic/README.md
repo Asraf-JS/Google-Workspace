@@ -213,7 +213,6 @@ Visible row calculations and explicit criteria make advanced logic checkable.
 
 **Check yourself:** Which references in the summary grid must stay fixed when copied across and down?
 
-
 ## Zero-Match Check
 
 The supplied baseline has no Pending record with Amount at least 200. Record that result explicitly. Use a separately labelled synthetic case to prove the positive branch; do not edit baseline records just to obtain a highlight.

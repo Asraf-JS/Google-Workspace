@@ -24,7 +24,9 @@ Use the supplied project fact sheet. Use a fresh approved AI conversation for ea
 
 ## 2.1 Try a Vague Request
 
-1. In a fresh Gemini conversation using your approved training account, type **Write a project update**. The author run used Flash. Record the model, date, prompt and what the response assumes or asks.
+1. In a fresh Gemini conversation using your approved training account, type **Write a project update**. Record the model, date, prompt and what the response assumes or asks.
+
+> **Reference run:** The author run used Flash.
 
 ![vague flash before send](./images/c06-02-03-vague-flash-before-send.jpg)
 

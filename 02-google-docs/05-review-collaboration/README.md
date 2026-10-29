@@ -204,7 +204,9 @@ For an exact pre-edit reference, open the maintained document’s version histor
 
 *Make a copy from version history preserves the historical baseline separately.*
 
-On the baseline copy, choose **Tools**, **Compare documents**, select the comparison input and inspect any generated suggestions. In the reference run, the file picker stayed blank, so no report was generated. If the command or picker is unavailable, inspect the two documents manually and record that fallback; the reference author switched between their open tabs.
+On the baseline copy, choose **Tools**, **Compare documents**, select the comparison input and inspect any generated suggestions. If the command or picker is unavailable, inspect the two documents manually and record that fallback.
+
+> **Reference run:** The file picker stayed blank, so no report was generated. The reference author switched between their open tabs.
 
 ![Tools includes the native Compare documents command](./images/c02-05-28-tools-compare-command.png)
 

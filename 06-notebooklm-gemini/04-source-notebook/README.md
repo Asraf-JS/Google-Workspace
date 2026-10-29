@@ -52,7 +52,9 @@ Use the three-file fictional source pack from Chapter 1. Gemini Notebook creatio
 
 ![decisions prompt](./images/c06-04-08-decisions-prompt.jpg)
 
-2. The author answer identified budget approval and start-date agreement as unresolved. Do not treat its “before the pilot can start” phrasing as evidence of a separate formal launch gate.
+2. Do not treat its “before the pilot can start” phrasing as evidence of a separate formal launch gate.
+
+> **Reference run:** The author answer identified budget approval and start-date agreement as unresolved.
 
 ![decisions answer](./images/c06-04-09-decisions-answer.jpg)
 
@@ -74,7 +76,9 @@ Use the three-file fictional source pack from Chapter 1. Gemini Notebook creatio
 
 ![meeting only scope](./images/c06-04-13-meeting-only-scope.jpg)
 
-4. The author answer retained Aina’s template in week 1, Bala’s status-definition review in week 1, Siti’s fictional sample in week 2 and the unapproved budget. Open the citation to check those exact statements. This conversation retained earlier answers; the scope demonstration does not isolate selection as a causal effect. For a fresh-context comparison, repeat in a separate notebook with the intended originals only.
+4. Open the citation to check those exact statements. This conversation retained earlier answers; the scope demonstration does not isolate selection as a causal effect. For a fresh-context comparison, repeat in a separate notebook with the intended originals only.
+
+> **Reference run:** The author answer retained Aina’s template in week 1, Bala’s status-definition review in week 1, Siti’s fictional sample in week 2 and the unapproved budget.
 
 ![meeting only answer](./images/c06-04-14-meeting-only-answer.jpg)
 
@@ -119,7 +123,9 @@ Use the three-file fictional source pack from Chapter 1. Gemini Notebook creatio
 
 ![revision citation proof](./images/c06-04-27-revision-citation-proof.jpg)
 
-8. Record a six-row citation audit in your review log, including source, exact claim support and repairs. The author created an editable Google Docs table and a conflict/version note. The budget and date results are checks of fictional supplied evidence, not real approvals.
+8. Record a six-row citation audit in your review log, including source, exact claim support and repairs. The budget and date results are checks of fictional supplied evidence, not real approvals.
+
+> **Reference run:** The author created an editable Google Docs table and a conflict/version note.
 
 ![six question audit table](./images/c06-04-29-six-question-audit-table.jpg)
 

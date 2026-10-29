@@ -38,7 +38,9 @@ Use the checked FAQ and [review examples](../../shared/sample-files/review-examp
 ## 6.2 Review Inputs and Sources
 
 1. Classify the supplied fictional facts, a hypothetical customer contract and a hypothetical medical-record category. Do not obtain real confidential examples for this exercise.
-2. Record unresolved questions about approved accounts/tools, permitted data/access, retention, reuse and external review. No organisation AI/data policy was supplied or reviewed in the author case; an actual owner or specialist must resolve those questions for real work.
+2. Record unresolved questions about approved accounts/tools, permitted data/access, retention, reuse and external review.
+
+> **Reference run:** No organisation AI/data policy was supplied or reviewed in the author case; an actual owner or specialist must resolve those questions for real work.
 
 ![input suitability and policy questions](./images/c06-06-03-input-suitability-and-policy-questions.jpg)
 
@@ -51,7 +53,9 @@ Use the checked FAQ and [review examples](../../shared/sample-files/review-examp
 
 ## 6.4 Build and Apply an Evidence Review Protocol
 
-1. Review earlier generated outputs that already exist by this chapter. The actual Lab 2 “ready to begin” assertion lacks support. The earlier source-free generic template omits the pilot's required caveats for an intended handover, but no original pack was supplied for that response. Shorter FAQ headings are an author's optional style proposal, separate from either issue. Do not blame an answer for source facts that were not supplied.
+1. Review earlier generated outputs that already exist by this chapter. The actual Lab 2 “ready to begin” assertion lacks support. The earlier source-free generic template omits the pilot's required caveats for an intended handover, but no original pack was supplied for that response. Do not blame an answer for source facts that were not supplied.
+
+> **Reference run:** Shorter FAQ headings are an author's optional style proposal, separate from either issue.
 
 ![output review categories](./images/c06-06-05-output-review-categories.jpg)
 
@@ -70,7 +74,6 @@ Use the checked FAQ and [review examples](../../shared/sample-files/review-examp
 5. Save the maintained wording and handover record. Original sources and earlier written reference remain available. Human policy/rights decisions, independent challenge, partner review and classroom timing remain untested. No real confidential record was uploaded and no external message or access change occurred.
 
 ![checked casework handover](./images/c06-06-09-checked-casework-handover.jpg)
-
 
 ## Independent Challenge
 

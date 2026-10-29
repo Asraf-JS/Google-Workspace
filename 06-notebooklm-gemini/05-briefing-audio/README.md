@@ -28,11 +28,15 @@ Use the evidence notebook with the three processed sources. Audio generation ava
 
 ![faq prompt](./images/c06-05-01-faq-prompt.jpg)
 
-2. Check each answer against its original passage. The author response retained the required facts, but the question framed decisions as conditions “before the pilot can start.” Record the open decisions without inferring a formal launch gate. For the explicit no-purchase-authorisation statement, use S2; S1 provides scope context rather than that exact statement.
+2. Check each answer against its original passage. For the explicit no-purchase-authorisation statement, use S2; S1 provides scope context rather than that exact statement.
+
+> **Reference run:** The author response retained the required facts, but the question framed decisions as conditions “before the pilot can start.” Record the open decisions without inferring a formal launch gate.
 
 ![generated faq](./images/c06-05-02-generated-faq.jpg)
 
-3. Open the cited fact sheet, scripted meeting record and proposed guidance. Read the surrounding text, not only the citation marker. The author checked all five retained answers against those original bodies.
+3. Open the cited fact sheet, scripted meeting record and proposed guidance. Read the surrounding text, not only the citation marker.
+
+> **Reference run:** The author checked all five retained answers against those original bodies.
 
 ![faq fact citation](./images/c06-05-03-faq-fact-citation.jpg)
 
@@ -50,11 +54,15 @@ Use the evidence notebook with the three processed sources. Audio generation ava
 
 ![audio custom instructions](./images/c06-05-07-audio-custom-instructions.jpg)
 
-2. Choose **Generate** once. Record generation time separately from active work. The author prepared the written briefing and unscored audit sheet while generation was processing. Notification permission is not required for this exercise.
+2. Choose **Generate** once. Record generation time separately from active work. Notification permission is not required for this exercise.
+
+> **Reference run:** The author prepared the written briefing and unscored audit sheet while generation was processing.
 
 ![audio generating](./images/c06-05-08-audio-generating.jpg)
 
-3. The generated item was titled **Preparing the Seri Maju Reporting Pilot**, with duration **1:31**, format Brief and three sources. Opening it started playback; the displayed counter advanced to 00:05 before the author paused it. This confirms player operation, not factual review.
+3. The generated item was titled **Preparing the Seri Maju Reporting Pilot**, with duration **1:31**, format Brief and three sources. This confirms player operation, not factual review.
+
+> **Reference run:** Opening it started playback; the displayed counter advanced to 00:05 before the author paused it.
 
 ![audio ready](./images/c06-05-11-audio-ready.jpg)
 
@@ -70,13 +78,19 @@ Use the evidence notebook with the three processed sources. Audio generation ava
 
 ![written briefing](./images/c06-05-09-written-briefing.jpg)
 
-2. Prepare the manually checked fallback script and a claim-audit table. The author table has six topics plus its header. Before listening, leave timestamp/claim cells **Not yet reviewed** and verdicts **Not tested**. The script has a 60-second target; its reading duration has not been measured.
+2. Prepare the manually checked fallback script and a claim-audit table. Before listening, leave timestamp/claim cells **Not yet reviewed** and verdicts **Not tested**. The script has a 60-second target; its reading duration has not been measured.
+
+> **Reference run:** The author table has six topics plus its header.
 
 ![audit sheet before listening](./images/c06-05-10-audit-sheet-before-listening.jpg)
 
 3. Once listening is complete, replace the placeholders with the actual claims and approximate timestamps. Compare media with the written briefing for budget/date caveats, actors, cadence, success measure and omissions. Audit every substantive claim; do not manufacture six claims just to fill a template.
-4. If Audio Overview is unavailable in your account, use the flawed practice script on the prompts page, label that script route and retain audio generation/playback as untested. In this author run audio generation was available, so a script audit cannot be presented as a review of the generated clip.
-5. Keep an output manifest: checked FAQ note and written briefing are maintained text; the generated overview is an output snapshot with its actual source selection and review status. The author's current media status is **Generated — review pending**. Independent comprehension testing and reviewer agreement are still pending.
+4. If Audio Overview is unavailable in your account, use the flawed practice script on the prompts page, label that script route and retain audio generation/playback as untested.
+
+> **Reference run:** Audio generation was available, so a script audit cannot be presented as a review of the generated clip.
+5. Keep an output manifest: checked FAQ note and written briefing are maintained text; the generated overview is an output snapshot with its actual source selection and review status. Independent comprehension testing and reviewer agreement are still pending.
+
+> **Reference run:** The author's current media status is **Generated — review pending**.
 
 **Author-run scope:** five FAQ entries and original passages checked, corrected output note saved and deselected, Brief audio generated from three originals, initial playback counter verified, written briefing and unscored audit table saved. Audio download failed; full listening, timestamped verdicts, independent challenge, human review and classroom timing remain pending.
 

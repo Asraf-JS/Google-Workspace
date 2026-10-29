@@ -72,7 +72,9 @@ Use Orders A1:J25, including Amount. Keep criteria outside the source table.
 
 1. Create **Database Semantics**, with separate labelled blocks: A2:B3 for **Delivered AND PJ-A**; A8:A10 for **Delivered OR Pending**; A15:B17 for **Delivered OR PJ-A**. The OR cases use separate data rows. In the overlapping block, put Delivered alone on row 16 and PJ-A alone in B17; leave the other cell on each row blank. Those blanks mean the corresponding field is unrestricted on that OR row, not a requirement for a blank source value.
 
-2. Record predictions before actual formulas. The reference's initial prediction card below contains a mistaken disjoint-OR mean of 23. Treat it as a prediction to investigate, not an answer key. Final source-derived expectations are **556 /4 /25**, **1938 /18 /352÷18**, and **1902 /16 /23.1875**. The later audit-repair stages show why that one prediction changed.
+2. Record predictions before actual formulas. Treat it as a prediction to investigate, not an answer key. Final source-derived expectations are **556 /4 /25**, **1938 /18 /352÷18**, and **1902 /16 /23.1875**. The later audit-repair stages show why that one prediction changed.
+
+> **Reference run:** The reference's initial prediction card below contains a mistaken disjoint-OR mean of 23.
 
 ![three populations and expectations](./images/c05-08-11-three-populations-and-expectations.jpg)
 

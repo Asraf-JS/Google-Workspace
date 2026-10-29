@@ -38,7 +38,9 @@ Use the checked FAQ, evidence review and pilot timing record. Keep the playbook 
 
 ## 8.2 Test Another Run
 
-1. Open a fresh conversation using only the documented pack. As a controlled preflight case, inspect the draft template with its unfilled slots. The author stopped before Send because the literal source slots were still present. This is not a failed model answer or a human comprehension test.
+1. Open a fresh conversation using only the documented pack. As a controlled preflight case, inspect the draft template with its unfilled slots. This is not a failed model answer or a human comprehension test.
+
+> **Reference run:** The author stopped before Send because the literal source slots were still present.
 
 ![placeholder preflight stop](./images/c06-08-04-placeholder-preflight-stop.jpg)
 
@@ -46,7 +48,9 @@ Use the checked FAQ, evidence review and pilot timing record. Keep the playbook 
 
 ![version 1 1 instruction repair](./images/c06-08-05-version-1-1-instruction-repair.jpg)
 
-3. Retest the affected assembly step. Confirm all three full originals appear in the actual input and that no slot remains. The author caught a mixed old/new composer input, cleared it and repasted before any Send. The final input matched the intended prompt after whitespace normalisation. This was an automation-input repair, not a source defect.
+3. Retest the affected assembly step. Confirm all three full originals appear in the actual input and that no slot remains. The final input matched the intended prompt after whitespace normalisation. This was an automation-input repair, not a source defect.
+
+> **Reference run:** The author caught a mixed old/new composer input, cleared it and repasted before any Send.
 
 ![complete sources ready to send](./images/c06-08-06-complete-sources-ready-to-send.jpg)
 
@@ -69,7 +73,9 @@ Use the checked FAQ, evidence review and pilot timing record. Keep the playbook 
 ## 8.3 Present the Handover
 
 1. Prepare a two-minute explanation of the task, source roles, fresh-session inputs, source checks and checked output. Include the prompt-contract mismatch and incomplete rerun from the earlier pilot without claiming a measured productivity benefit.
-2. Name the next narrow participant trial: aligned manual/assisted tasks with complete phase timing and a reviewer. The author prepared the written script below; spoken delivery and the two-minute target remain unmeasured. Class discussion and distribution require an actual approved channel and have not occurred in this author run.
+2. Name the next narrow participant trial: aligned manual/assisted tasks with complete phase timing and a reviewer.
+
+> **Reference run:** The author prepared the written script below; spoken delivery and the two-minute target remain unmeasured. Class discussion and distribution require an actual approved channel and have not occurred in this author run.
 
 ![prepared handover script](./images/c06-08-13-prepared-handover-script.jpg)
 
@@ -90,7 +96,6 @@ Use the checked FAQ, evidence review and pilot timing record. Keep the playbook 
 [Open the current version 1.1 playbook overview](./images/c06-08-15-current-playbook-release.jpg).
 
 4. Retain the version 1.1 instruction repair and actual fresh-context result. The [playbook reference](./playbook-v1.1.md) records the usable method and remaining limits. This is author reproduction with prior familiarity; partner reproducibility, independent learner work, spoken delivery and classroom timing remain separate checks.
-
 
 ## Independent Challenge
 

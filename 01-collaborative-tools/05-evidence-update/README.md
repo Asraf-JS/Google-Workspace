@@ -25,18 +25,15 @@ Use the [copy-paste page](./prompts.md) and [shared practice files](../../shared
 
 ![A newly named deck contains only the initial blank slide; later content is absent](./images/c01-05-created.jpg)
 
-
 2. For each slide write one audience takeaway and its source in the speaker notes. Label proposed mitigations as proposals.
 
 ![The first message and source notes before adding the other slides](./images/c01-05-first-message.jpg)
-
 
 3. Use the optional AI outline prompt only after pasting checked facts and final summary values. Compare the outline with your five planned messages; reject invented progress percentages or approvals.
 
 4. Write the two decision requests explicitly. Keep budget approval and pilot start-date agreement unresolved. Do not present a Calendar practice slot as the project schedule.
 
 ![Five planned messages and source notes, before importing either chart or drawing the process](./images/c01-05-story-plan.jpg)
-
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -59,13 +56,9 @@ The deck tells a decision-focused story with a source for every numeric or factu
 
 ![Select the team-cost chart with Link to spreadsheet checked](./images/c01-05-cost-link.jpg)
 
-
-
-
 3. Check category labels, title and contrast at presentation size. Avoid a colour-only status distinction by retaining explicit labels.
 
 ![The second linked chart fits with the baseline figures; the process diagram is still absent](./images/c01-05-cost-chart.jpg)
-
 
 4. In speaker notes record the source link, 13-task dataset scope and the actual-minus-planned variance definition. State that the task costs are practice data and the proposed ceiling is not approved.
 
@@ -73,11 +66,9 @@ The deck tells a decision-focused story with a source for every numeric or factu
 
 ![Three editable process shapes accompany a clearly labelled proposed response](./images/c01-05-process.jpg)
 
-
 6. Use **Present** to check every slide. Inspect any clipped labels and notes that accidentally became slide text. Remove effects that make the chart harder to read.
 
 ![Presentation view of the checked baseline cost slide before the source correction](./images/c01-05-present-baseline.jpg)
-
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -98,14 +89,11 @@ Five slides have coherent layouts, two linked charts and useful notes. Both sour
 
 ![Name the checked baseline after the layout review](./images/c01-05-version.jpg)
 
-
 4. Download a PDF through **File**, **Download**. Open every page and inspect charts and layout. Record that the PDF is a dated snapshot and will need a new export after source updates.
 
 ![The File > Download menu offers PDF document](./images/c01-05-download.jpg)
 
 ![Page three rendered from the actual five-page baseline PDF, with the earlier RM 6,800 actual cost](./images/c01-05-pdf-r1.jpg)
-
-
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -118,7 +106,9 @@ The learner can explain the figures and limitations without reading raw slide te
 
 ## Independent Challenge
 
-Use the Lab 5 cost-correction card. The following captures are a scripted reference run; learners should make their own predictions before inspecting the result.
+Use the Lab 5 cost-correction card.
+
+> **Reference run:** The following captures are a scripted reference run; learners should make their own predictions before inspecting the result.
 
 1. Locate T013 in the source and record its current actual cost before editing.
 

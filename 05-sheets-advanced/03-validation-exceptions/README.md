@@ -36,7 +36,9 @@ Use a practice copy of Orders. Restore all temporary tests before completing the
 
 ![Require whole nonnegative Quantity with a custom reject rule](./images/c05-03-03-whole-nonnegative-custom-rule-reject.jpg)
 
-4. Inspect the saved rules for **E2:E25 / G2:G25**. Native readback later confirms strict rules on every cell through row 25, with the quantity reference adjusted per row. A visible dropdown or coloured cell alone does not prove rejection behavior.
+4. Inspect the saved rules for **E2:E25 / G2:G25**. A visible dropdown or coloured cell alone does not prove rejection behavior.
+
+> **Reference run:** Native readback later confirms strict rules on every cell through row 25, with the quantity reference adjusted per row.
 
 ![Inspect the saved categorical and numeric ranges](./images/c05-03-04-saved-validation-rule-coverage.jpg)
 
@@ -150,7 +152,9 @@ Use a practice copy of Orders. Restore all temporary tests before completing the
 
 ![Exclude Cancelled 200 from the flag](./images/c05-03-30-cancelled-200-flag-false.jpg)
 
-20. Check both range boundaries without appending a record. Temporarily set **PO001 row 2** to Quantity 1, UnitCost 200, Pending, and **PO024 row 25** to Quantity 1, UnitCost 201, Pending. Both flags and row highlights are TRUE. Inspect the final row explicitly; the first cell alone does not prove full coverage. Native readback retained both positive boundary states before restoration.
+20. Check both range boundaries without appending a record. Temporarily set **PO001 row 2** to Quantity 1, UnitCost 200, Pending, and **PO024 row 25** to Quantity 1, UnitCost 201, Pending. Both flags and row highlights are TRUE. Inspect the final row explicitly; the first cell alone does not prove full coverage.
+
+> **Reference run:** Native readback retained both positive boundary states before restoration.
 
 ![Check the final bounded source row with a positive case](./images/c05-03-31-final-source-row-positive-coverage.jpg)
 
@@ -220,7 +224,6 @@ Record the defect or uncertainty you investigated, the evidence used, the repair
 Data rules constrain entry; conditional formatting draws attention to defined exceptions.
 
 **Check yourself:** How does a validation rule differ from a coloured warning?
-
 
 ## Zero-Match Check
 

@@ -44,7 +44,9 @@ Upload [TaskRegister.xlsx](../../shared/sample-files/TaskRegister.xlsx) and save
 
 *Fill through B4 and confirm four tasks in each category.*
 
-4. Select **Summary!A1:B4**, then click **Insert**, **Chart**. In **Chart editor > Setup**, choose **Column chart** if Sheets initially suggests another type. In **Customise > Chart and axis titles**, set the chart title to **Pilot task status**. Check all three status labels and the count axis. The reference uses one series and the imported workbook styling.
+4. Select **Summary!A1:B4**, then click **Insert**, **Chart**. In **Chart editor > Setup**, choose **Column chart** if Sheets initially suggests another type. In **Customise > Chart and axis titles**, set the chart title to **Pilot task status**. Check all three status labels and the count axis.
+
+> **Reference run:** The reference uses one series and the imported workbook styling.
 
 ![Choose a column chart and set Pilot task status](./images/c03-05-04-column-chart-title-and-counts.png)
 
@@ -71,7 +73,9 @@ Three formula-backed counts of four and a column chart accounting for twelve tas
 
 *Keep Link to spreadsheet selected when pasting.*
 
-3. Resize proportionally with a corner handle and move the chart beside the explanatory text. Keep the title and all category labels visible. The reference narrows the existing text placeholder to a left column and uses **12-task snapshot**, **4 tasks per status**, and **Not evidence of pilot success**; the chart supplies the three named categories. Retain the full source qualifications in notes.
+3. Resize proportionally with a corner handle and move the chart beside the explanatory text. Keep the title and all category labels visible. Retain the full source qualifications in notes.
+
+> **Reference run:** The reference narrows the existing text placeholder to a left column and uses **12-task snapshot**, **4 tasks per status**, and **Not evidence of pilot success**; the chart supplies the three named categories.
 
 ![Fit the linked chart beside the qualified twelve-task snapshot](./images/c03-05-07-linked-chart-and-qualified-snapshot.png)
 
@@ -106,7 +110,9 @@ A linked chart with readable labels and qualified commentary. The source has 4/4
 
 *Source counts change to five four three.*
 
-3. Return to the Current Tasks slide. Before updating, compare the cached chart with the changed source. The reference still showed 4/4/4.
+3. Return to the Current Tasks slide. Before updating, compare the cached chart with the changed source.
+
+> **Reference run:** The reference still showed 4/4/4.
 
 ![Slides still shows the cached four four four chart](./images/c03-05-11-slides-cached-before-update.png)
 

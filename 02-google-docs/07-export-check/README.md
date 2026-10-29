@@ -44,7 +44,9 @@ Two local practice exports and the unchanged maintained native source.
 
 ## 7.2 Inspect the Copies
 
-1. Open both exports in approved available viewers. Inspect all pages, including the last. In this reference run, browser controls blocked local PDF URLs, so the PDF was rendered and inspected offline. DOCX heading/table structure was inspected before the native Docs round trip in 7.4. **Microsoft Word desktop rendering was not tested.**
+1. Open both exports in approved available viewers. Inspect all pages, including the last. DOCX heading/table structure was inspected before the native Docs round trip in 7.4.
+
+> **Reference run:** Browser controls blocked local PDF URLs, so the PDF was rendered and inspected offline. **Microsoft Word desktop rendering was not tested.**
 
 ![The initial PDF reader copy is inspected offline from the first page to the last](./images/c02-07-23-initial-pdf-reader-copy.png)
 
@@ -74,7 +76,9 @@ A check through the final page, with viewer limitations and real defects recorde
 
 *The separate release practice copy excludes sharing and review comments.*
 
-2. Rename the main tab **Procedure** (click the three dots on the tab, then **Rename**). Add a separate **Examples** tab with the supplied fictional appendix and scope marker. Name the baseline version `Practice release r1`. Select **Procedure** before exporting the main-only file. With multiple tabs, the Download dialog offers **Current Tab** and **All Tabs**. Inspect the setting for **every** export; the reference dialog reset to Current Tab.
+2. Rename the main tab **Procedure** (click the three dots on the tab, then **Rename**). Add a separate **Examples** tab with the supplied fictional appendix and scope marker. Name the baseline version `Practice release r1`. Select **Procedure** before exporting the main-only file. With multiple tabs, the Download dialog offers **Current Tab** and **All Tabs**. Inspect the setting for **every** export.
+
+> **Reference run:** The reference dialog reset to Current Tab.
 
 ![A separate Examples tab has a recognisable complete-handout marker](./images/c02-07-04-examples-tab-scope-marker.png)
 
@@ -94,15 +98,23 @@ Export `Procedure-r1-main.pdf` with **Current Tab**, then `Procedure-r1-complete
 
 *The editable Word handover also deliberately includes all tabs.*
 
-3. Inspect the files through their final page. The reference main-only PDF had **12 pages without the Examples marker**; the complete PDF had **13 pages with it**. The clean Word export contained no comment metadata or tracked insertions/deletions. Check three internal links, the contents list, a table and the final procedure/appendix paragraphs. PDF structural checks resolved the three quick-link destinations to the expected pages; interactive PDF viewing remained pending.
-4. Add a native defect table with **Source location**, **Format**, **Observed difference**, **Severity/action**. Record no-difference findings for elements actually checked. The reference record includes the initial Word comment, unnumbered Examples page, preserved heading hierarchy/table dimensions and tab flattening after import. A PDF parser also reported a duplicate title destination key: retain that warning rather than claiming every PDF link is validated.
-5. Upload `Procedure-r1-complete.docx` as a distinct practice file and open/convert it in Docs, named `GW - Procedure r1 - Round Trip Practice`. Do not replace the scenario or maintained source. The browser upload required an unavailable extension permission in this run, so connected Drive imported only this authorised fictional DOCX. **Browser upload was not verified.**
+3. Inspect the files through their final page. The clean Word export contained no comment metadata or tracked insertions/deletions. Check three internal links, the contents list, a table and the final procedure/appendix paragraphs. PDF structural checks resolved the three quick-link destinations to the expected pages; interactive PDF viewing remained pending.
+
+> **Reference run:** The reference main-only PDF had **12 pages without the Examples marker**; the complete PDF had **13 pages with it**.
+4. Add a native defect table with **Source location**, **Format**, **Observed difference**, **Severity/action**. Record no-difference findings for elements actually checked. A PDF parser also reported a duplicate title destination key: retain that warning rather than claiming every PDF link is validated.
+
+> **Reference run:** The reference record includes the initial Word comment, unnumbered Examples page, preserved heading hierarchy/table dimensions and tab flattening after import.
+5. Upload `Procedure-r1-complete.docx` as a distinct practice file and open/convert it in Docs, named `GW - Procedure r1 - Round Trip Practice`. Do not replace the scenario or maintained source.
+
+> **Reference run:** The browser upload required an unavailable extension permission in this run, so connected Drive imported only this authorised fictional DOCX. **Browser upload was not verified.**
 
 ![The imported round-trip copy retains headings and quick links in one tab](./images/c02-07-09-round-trip-heading-and-links.png)
 
 *The imported round-trip copy retains headings and quick links in one tab.*
 
-6. Compare heading hierarchy, table dimensions, links and final content. The reference import retained **six table structures and 16 heading targets**, including Examples, but flattened two native tabs into one. Follow the three quick links and a contents entry; the reference reached Status Definitions, Missing Information, Questions for the Sponsor and Submission Example. Find/select the link label and use **Alt+Enter**, or use its link popup.
+6. Compare heading hierarchy, table dimensions, links and final content. Follow the three quick links and a contents entry. Find/select the link label and use **Alt+Enter**, or use its link popup.
+
+> **Reference run:** The reference import retained **six table structures and 16 heading targets**, including Examples, but flattened two native tabs into one. The reference reached Status Definitions, Missing Information, Questions for the Sponsor and Submission Example.
 
 ![The imported bookmark lands at Status Definitions](./images/c02-07-10-round-trip-status-link-destination.png)
 
@@ -116,7 +128,9 @@ Export `Procedure-r1-main.pdf` with **Current Tab**, then `Procedure-r1-complete
 
 *A converted contents entry reaches Submission Example.*
 
-Use **Tools**, **Compare documents** if available. Choose the observed source, exclude comments and inspect the generated report. Prefer the matching frozen r1 reference for an exact wording comparison. In this run the current source already contained later review-record additions, so those expected additions were distinguished from conversion effects. The generated report flagged margins, styles, sections and headers/footers. Do not accept all suggestions or interpret the report's comment count as a defect count.
+Use **Tools**, **Compare documents** if available. Choose the observed source, exclude comments and inspect the generated report. Prefer the matching frozen r1 reference for an exact wording comparison. The generated report flagged margins, styles, sections and headers/footers. Do not accept all suggestions or interpret the report's comment count as a defect count.
+
+> **Reference run:** In this run the current source already contained later review-record additions, so those expected additions were distinguished from conversion effects.
 
 ![Native comparison generates suggestions for structure and formatting; these are inspected rather than accepted together](./images/c02-07-16-native-comparison-format-flags.png)
 
@@ -142,7 +156,9 @@ Update the source checklist to r2 filenames and record the inspected comparison,
 
 *The revised native source receives a distinct release milestone.*
 
-Check the new files and record results in an external release manifest. The reference r2 main-only PDF had **13 pages** and excluded Examples; the complete PDF had **14 pages**, included Examples and displayed **Examples - page 1**. The revised instruction was present in both scopes, and the earlier working snapshots retained their original hashes. These are fictional training copies, not project approval or a distributed release.
+Check the new files and record results in an external release manifest. The revised instruction was present in both scopes, and the earlier working snapshots retained their original hashes. These are fictional training copies, not project approval or a distributed release.
+
+> **Reference run:** The reference r2 main-only PDF had **13 pages** and excluded Examples; the complete PDF had **14 pages**, included Examples and displayed **Examples - page 1**.
 
 ![The final complete PDF includes the fictional Examples appendix and its repaired page number](./images/c02-07-24-r2-pdf-numbered-examples.png)
 

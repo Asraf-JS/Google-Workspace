@@ -115,7 +115,6 @@ The repeated elements are consistent and page numbering changes automatically ac
 
 <!-- Reference run: the native PDF was retrieved through the connected Drive export after requesting the browser download; browser download completion is unverified. -->
 
-
 ![File > Download offers PDF document for a print-layout snapshot](./images/c02-04-pdf-menu.png)
 
 *File > Download offers PDF document for a print-layout snapshot.*
@@ -163,7 +162,9 @@ Every page has usable content, legible page elements and no avoidable blank page
 
 *All six fields are populated before adjusting widths and reviewing pagination.*
 
-2. Place the cursor in each column and open **Table options**, **Column**. Enable **Column width** and use **3 cm**, **4.5 cm**, **4.5 cm** and **5 cm** respectively. Inspect **Cell padding** for the selected cell; the reference run tests **0.15 cm** there. Keep the table editable. Add a descriptive link to the supplied Tasks.csv example and verify T001 against the original input.
+2. Place the cursor in each column and open **Table options**, **Column**. Enable **Column width** and use **3 cm**, **4.5 cm**, **4.5 cm** and **5 cm** respectively. Inspect **Cell padding** for the selected cell. Keep the table editable. Add a descriptive link to the supplied Tasks.csv example and verify T001 against the original input.
+
+> **Reference run:** The reference run tests **0.15 cm** there.
 
 ![The Check column is 5 cm wide; 0.15 cm padding is tested on the selected cell](./images/c02-04-width-padding.png)
 
@@ -203,7 +204,9 @@ Every page has usable content, legible page elements and no avoidable blank page
 
 7. Export a fresh PDF and inspect every page. Record page numbers for defects, repair them in the native document, then export again.
 
-In the reference draft, the first field row split between pages **1 and 2**. A deliberate break before **Prepare** moved the complete reference table onto page **2**. This leaves the introduction and navigation as the first page.
+A deliberate break before **Prepare** moved the complete reference table onto page **2**. This leaves the introduction and navigation as the first page.
+
+> **Reference run:** In the reference draft, the first field row split between pages **1 and 2**.
 
 ![A deliberate break before Prepare moves the field-reference section to a clean page](./images/c02-04-prepare-break-control.png)
 
