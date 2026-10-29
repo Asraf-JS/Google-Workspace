@@ -16,7 +16,7 @@ Sponsor questions: Does four Complete tasks prove the pilot succeeded? Is RM 12,
 
 Presenter view opens a separate window. Pause the timer during setup; the captured 00:00:24 is not a speaking rehearsal. Opening notes describe a proposed four-week pilot from an agreed start. Decisions notes retain the unapproved RM 12000 ceiling and unagreed start. Next from slide 5 reached 7, skipping backup 6. Audience Tools shows Start new, left untouched. Share shows Restricted and owner only. Publish to web says the document is not published; Link/Embed inspected, Close selected.
 
-Spoken rehearsals, interactive PDF clicks, fallback rehearsal and independent challenge remain pending. Appendix round-trip, PDF scope/render/destination checks and a fallback plan were completed in7.4. Do not turn the source questions below into invented approval or success claims.
+Spoken rehearsals, interactive PDF clicks, fallback rehearsal and independent challenge remain pending. Appendix round-trip, PDF scope/render/destination checks and a fallback plan were completed in 7.4. Do not turn the source questions below into invented approval or success claims.
 
 ## Part 3: Three-Minute Run Sheet - Planned Checkpoints
 
@@ -29,16 +29,16 @@ Spoken rehearsals, interactive PDF clicks, fallback rehearsal and independent ch
 |2:00-2:40|5|Seek approval of proposed RM 12000 and agreement of start date; both remain unresolved.|
 |2:40-3:00|7|After agreement confirm start and coordinate Friday updates; measure final-two-weeks on-time submissions.|
 
-These targets are not measured speaking times. Rehearsal1 and2 results, hesitation and improvement remain pending a human spoken run.
+These targets are not measured speaking times. Rehearsal 1 and 2 results, hesitation and improvement remain pending a human spoken run.
 
 ## Part 4: Sponsor Answers
 
-1. **Does four Complete prove success?** No. It is a snapshot of12 task records, not a measured success result. Source: supplied register/Summary and checked brief Success Measure. The future criterion is all three teams submitting on time in the final two weeks.
+1. **Does four Complete prove success?** No. It is a snapshot of 12 task records, not a measured success result. Source: supplied register/Summary and checked brief Success Measure. The future criterion is all three teams submitting on time in the final two weeks.
 2. **Is RM 12000 approved?** No. It is a proposed ceiling. Source: checked brief Budget/Decisions Needed and project facts. Approval remains unresolved.
 3. **What is the confirmed start date?** None is supplied. Source: checked brief Schedule and project facts. The proposed four weeks run from an agreed start.
 
 ## Part 5: Export and Fallback Checkpoint
 
-Direct File Download PDF:14-pages including skipped slides. Print preview,1 slide without notes,Include skipped slides off,Download as PDF:8-pages/source 1, 2,3,4,5,7,8,9. PDF internal destinations5 to 7 and 7 to 5 resolve. Actual source Slideshow links 5 to 8 and 8 to 5 clicked successfully. All8 PDF pages rendered and inspected; interactive PDF click test blocked by local-file browser policy and remains unverified. No browser workaround attempted.
+Direct File Download PDF: 14 pages including skipped slides. Print preview, 1 slide without notes, Include skipped slides off, Download as PDF: 8 pages from source slides 1, 2, 3, 4, 5, 7, 8, 9. PDF internal destinations 5 to 7 and 7 to 5 resolve. Actual source Slideshow links 5 to 8 and 8 to 5 clicked successfully. All 8 PDF pages rendered and inspected; interactive PDF click test blocked by local-file browser policy and remains unverified. No browser workaround attempted.
 
-Fallback: explain all workflow stages verbally, keep the run sheet separate, use PDFpage 5 for Decisions/page7Definitions/page6NextSteps. No PDF animation, speaker notes, presenter timer or Q&A. Spoken fallback rehearsal pending. Final author source milestone: Sponsor update - delivery export checked. See the [release record](./release-manifest.md).
+Fallback: explain all workflow stages verbally, keep the run sheet separate, use PDF page 5 for Decisions, page 7 for Definitions and page 6 for Next Steps. No PDF animation, speaker notes, presenter timer or Q&A. Spoken fallback rehearsal pending. Final author source milestone: Sponsor update - delivery export checked. See the [release record](./release-manifest.md).

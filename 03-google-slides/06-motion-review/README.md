@@ -229,7 +229,7 @@ The named milestone is available and the current checked deck remains intact aft
 
 *Keep both tested practice alternatives skipped.*
 
-8. Open the original **Decisions** slide in Slideshow separately. The reference showed the proposed RM 12000 ceiling, unresolved approval and start to be agreed immediately, with **zero** reveal advances. Reject the card's suggestion **Thank you for approving the budget** because the sources do not support that commitment. Do not hide unresolved qualifications when asking for a decision.
+8. Open the original **Decisions** slide in Slideshow separately. The reference showed the proposed RM 12000 ceiling, unresolved approval and start to be agreed immediately, with **zero** reveal advances. Reject the suggestion **Thank you for approving the budget** in Part 2 of the prompts page because the sources do not support that commitment. Do not hide unresolved qualifications when asking for a decision.
 
 ![Decisions remain visible immediately with unresolved facts](./images/c03-06-34-decisions-slideshow-zero-reveals.png)
 

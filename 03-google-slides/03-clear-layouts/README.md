@@ -26,7 +26,7 @@ Open the working deck and checked brief.
 
 ## 3.1 Build the Core Messages
 
-1. Open `GW - Slides - Sponsor Update`. Change the Purpose title to **Test consistent weekly reporting**. Add **A proposed four-week Project Reporting Pilot** and the fictional-training label below it. This describes a purpose, not a measured benefit.
+1. Open `GW - Slides - Sponsor Update`. Change the Purpose title to **Test consistent weekly reporting**. In the subtitle, type **A proposed four-week Project Reporting Pilot** and, on the next line, **Fictional training example**. This describes a purpose, not a measured benefit.
 
 ![State the reporting-pilot purpose descriptively](./images/c03-03-01-descriptive-purpose.png)
 
@@ -115,13 +115,13 @@ Each main slide has a descriptive message and supporting source notes. The propo
 
 ## 3.4 Redesign Dense Content Without Losing Evidence
 
-1. In Drive, click **New**, **Google Slides**, **Blank presentation** and name it `GW - Slides - Layout Practice`. Use **Title and body** for the first slide. Title it **Dense draft - full paragraph**, then paste the complete dense draft from the copy-paste card. Preserve it unchanged for comparison.
+1. In Drive, click **New**, **Google Slides**, **Blank presentation** and name it `GW - Slides - Layout Practice`. Use **Title and body** for the first slide. Title it **Dense draft - full paragraph**, then paste the complete dense draft from Part 1 of the [prompts page](./prompts.md). Preserve it unchanged for comparison.
 
 ![Preserve the exact dense paragraph in a separate practice deck](./images/c03-03-12-dense-draft-preserved.png)
 
 *Preserve the exact dense paragraph in a separate practice deck.*
 
-2. Add a second Title and body slide titled **Sponsor decisions are needed before the pilot starts**. Use no more than three main points: three teams/four outputs; four weeks from an agreed start with Friday updates; future success target for the final two weeks. Add a rectangular **Sponsor decisions pending** callout with the proposed RM 12,000 ceiling approval and pilot start-date agreement. The reference uses 18 pt body and 20 pt callout text. Put the full paragraph and meaning audit in notes, retaining organisation/location, names, all numbers and approval qualifications.
+2. Add a second Title and body slide titled **Sponsor decisions are needed before the pilot starts** (Part 3 of the prompts page has all of its text). Use no more than three main points: three teams/four outputs; four weeks from an agreed start with Friday updates; future success target for the final two weeks. Add a rectangular **Sponsor decisions pending** callout with the proposed RM 12,000 ceiling approval and pilot start-date agreement. The reference uses 18 pt body and 20 pt callout text. Put the full paragraph and meaning audit in notes, retaining organisation/location, names, all numbers and approval qualifications.
 
 ![Redesign as three points plus a pending-decision callout](./images/c03-03-13-three-point-redesign.png)
 

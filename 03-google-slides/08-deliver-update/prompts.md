@@ -14,11 +14,11 @@ Final brief: Reduce the update to two minutes. In a scenario copy, T003 becomes 
 
 ## Part 2: Author Reference Values and Feedback
 
-- Baseline status: Complete 4, In Progress 4, Not Started 4;12 task records.
+- Baseline status: Complete 4, In Progress 4, Not Started 4; 12 task records.
 - Baseline evidence: Summary!B2 **=COUNTIF(Tasks!$F$2:$F$13,A2)**; T003 is Tasks!A4:G4 and status F4 is Not Started.
 - Practice copy: **GW - Slides - Final Practice**.
 - Author feedback: name the 12-task population in the status headline. This is not partner feedback.
-- Revised title: **12 tasks show current work, not pilot success**; 25 pt, one line,4/4/4 and chart unchanged.
+- Revised title: **12 tasks show current work, not pilot success**; 25 pt, one line, 4/4/4 and chart unchanged.
 - Practice version: **Final practice - source and wording checked**.
 
 ## Part 3: Scenario Isolation and Impact Plan
@@ -28,8 +28,8 @@ Scenario deck: **GW - Slides - Changed Scenario**. Scenario workbook: **GW - Sli
 | Request | Classification | Consequence |
 |---|---|---|
 |Reduce update to two minutes|Editorial|Plan a shorter narrative; preserve the source caveats and useful decision request. Actual speaking time unmeasured.|
-|T003 becomes Complete|Data scenario|Edit only copied Tasks!F4 after verifying workbook identity; expected 5/4/3still totals12. Verify recalculation before replacing the deck chart.|
-|Say approved budget|Unsupported claim|Reject; supplied budget remains proposed RM12000 and not approved.|
+|T003 becomes Complete|Data scenario|Edit only copied Tasks!F4 after verifying workbook identity; expected 5/4/3 still totals 12. Verify recalculation before replacing the deck chart.|
+|Say approved budget|Unsupported claim|Reject; supplied budget remains proposed RM 12000 and not approved.|
 |Say pilot already successful|Unsupported claim|Reject; no new reporting-performance evidence accompanies the phrase.|
 
 Impact list: record status and cost chart sources; verify copied workbook identity; change the scenario task; check COUNTIF population; replace/relink intended status chart; inspect cost source too; update counts/descriptions/source notes/narrative; retain proposed budget / unagreed start; export and compare the changed-scenario handout. Setup captures show the earlier 4/4/4 stage. Later captures verify T003 Complete, 5/4/3, the scenario chart source, revised narrative/description and eight-page handout. Spoken delivery and reviewer test remain pending.
