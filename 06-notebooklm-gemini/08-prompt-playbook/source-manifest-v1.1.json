@@ -1,0 +1,25 @@
+{
+  "version": "1.1",
+  "fictional_training_only": true,
+  "sources": [
+    {
+      "id": "S1",
+      "path": "../../shared/sample-files/project-facts.txt",
+      "role": "Original fact sheet",
+      "sha256": "06a861f0c3e2640a634cbdf46c2be076b29f815c8bd31dd375420af80ed6c177"
+    },
+    {
+      "id": "S2",
+      "path": "../../shared/sample-files/meeting-record.txt",
+      "role": "Scripted practice record",
+      "sha256": "838f7b1a6feb792a5da9da82328654c44eae067c6ed95a2314cfeed751e7af91"
+    },
+    {
+      "id": "S3",
+      "path": "../../shared/sample-files/reporting-guidance.txt",
+      "role": "Proposed guidance v1",
+      "sha256": "a5aa2ccf8d8a812521ed0334aedc9a5c8b5e802d9176ad550356e330fdae9656"
+    }
+  ],
+  "note": "The assembled prompt is a snapshot. Reassemble and recheck it when an original changes."
+}

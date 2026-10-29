@@ -8,7 +8,7 @@ In this chapter you will explain the workflow, review criteria, time observation
 
 **Your result:** A reusable, tested prompt playbook and short handover.
 
-> **Status:** expanded review draft, revision 0.4. Complete the casework and independent challenge as well as the guided steps. The expanded route, screenshots and timing have not yet been validated in the learner application.
+> **Status:** author reference with 17 staged captures. Version1.1 source assembly was retested in a fresh session; the returned FAQ passed five factual checks and its maintained copy repairs list numbering. Partner reproduction, independent challenge, spoken handover, human effort and classroom timing remain unvalidated.
 
 ## What You Will Learn
 
@@ -24,73 +24,73 @@ Use the checked FAQ, evidence review and pilot timing record. Keep the playbook 
 
 ## 8.1 Build the Playbook
 
-1. Create sections Task, Input Sources, Prompt, Review Checks, Output and Known Limits.
-2. Include the exact bounded prompt and a note describing which placeholders must be replaced.
-3. Add the source-check and missing-information steps that proved useful during the pilot.
+1. Create `GW - AI - Prompt Playbook` with Task, Input Sources, Prompt, Review Checks, Output and Known Limits. Keep the first draft and current version distinguishable. The task is a five-topic FAQ, not an unattended automation.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![task and review boundary](./images/c06-08-01-task-and-review-boundary.jpg)
 
-The playbook describes a repeatable task rather than a collection of disconnected prompts.
+2. Add the three-original-source manifest and account/feature preflight. S1 controls project facts; S2 is scripted practice; S3 is proposed guidance. Use fictional data and the trainer-approved account. Record the visible mode without assuming every learner has the same features.
 
-</details>
+![source manifest and preflight](./images/c06-08-02-source-manifest-and-preflight.jpg)
 
-<!-- VERIFY: execute 8.1 in the target account and reconcile control names. Capture images/c06-08-01.jpg only from the real app. -->
+3. Add the exact bounded prompt and acceptance rule. Preserve the agreed-start qualification, all teams, Friday/final-two-week success measure, proposed/unapproved RM12,000 ceiling and unresolved date/sponsor decision. Source slots in a reusable template must be replaced before submission.
+
+![bounded template before test](./images/c06-08-03-bounded-template-before-test.jpg)
 
 ## 8.2 Test Another Run
 
-1. Give a partner the fictional pack and your playbook, or follow it yourself in a fresh session.
-2. Check whether they can identify the required sources and acceptance criteria without extra explanation.
-3. Record a confusing instruction and revise it. Do not overwrite the source evidence to make an output appear correct.
+1. Open a fresh conversation using only the documented pack. As a controlled preflight case, inspect the draft template with its unfilled slots. The author stopped before Send because the literal source slots were still present. This is not a failed model answer or a human comprehension test.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![placeholder preflight stop](./images/c06-08-04-placeholder-preflight-stop.jpg)
 
-The playbook has been tried by a new run and improved from a specific observation.
+2. Revise the instructions to version 1.1: name the three files and their supplied folder; paste each complete original text into its corresponding slot; retain source labels; require zero `[PASTE_` slots before Send. A filename or an old generated FAQ does not supply the original text.
 
-</details>
+![version 1 1 instruction repair](./images/c06-08-05-version-1-1-instruction-repair.jpg)
 
-<!-- VERIFY: execute 8.2 in the target account and reconcile control names. Capture images/c06-08-02.jpg only from the real app. -->
+3. Retest the affected assembly step. Confirm all three full originals appear in the actual input and that no slot remains. The author caught a mixed old/new composer input, cleared it and repasted before any Send. The final input matched the intended prompt after whitespace normalisation. This was an automation-input repair, not a source defect.
+
+![complete sources ready to send](./images/c06-08-06-complete-sources-ready-to-send.jpg)
+
+![assembly retest record](./images/c06-08-07-assembly-retest-record.jpg)
+
+4. Submit once in the recorded mode and retain the actual response separately from the maintained reference. A correct preflight does not prove answer quality. Review all five topics and original passages before accepting the result; an absent answer receives no factual score.
+
+![fresh faq response](./images/c06-08-10-fresh-faq-response.jpg)
+
+![fresh faq budget and decision](./images/c06-08-11-fresh-faq-budget-and-decision.jpg)
+
+![source audit and format repair](./images/c06-08-12-source-audit-and-format-repair.jpg)
+
+5. The fresh author response preserved all five factual topics and their S1 support: **5/5 factual checks**. Its rendered list restarted at1 for each question. Keep the raw response unchanged and repair the maintained copy's numbering to1–5; this is a formatting repair, not a factual correction. The answer arrived during the final wait check, so no cancellation or alternative session took place. The long observation interval is not a measured productivity gain.
+
+![maintained faq numbering](./images/c06-08-16-maintained-faq-numbering.jpg)
+
+![maintained faq tail](./images/c06-08-17-maintained-faq-tail.jpg)
 
 ## 8.3 Present the Handover
 
-1. Give a two-minute explanation of the task, tool access, source boundary and checked result.
-2. Share the method in the class discussion; only distribute files through a trainer-approved channel.
-3. Name the next small trial and the evidence required before using it with real organisational material.
+1. Prepare a two-minute explanation of the task, source roles, fresh-session inputs, source checks and checked output. Include the prompt-contract mismatch and incomplete rerun from the earlier pilot without claiming a measured productivity benefit.
+2. Name the next narrow participant trial: aligned manual/assisted tasks with complete phase timing and a reviewer. The author prepared the written script below; spoken delivery and the two-minute target remain unmeasured. Class discussion and distribution require an actual approved channel and have not occurred in this author run.
 
-<details markdown="1">
-<summary>What should you see?</summary>
-
-The final handover identifies useful results and remaining limits.
-
-</details>
-
-<!-- VERIFY: execute 8.3 in the target account and reconcile control names. Capture images/c06-08-03.jpg only from the real app. -->
+![prepared handover script](./images/c06-08-13-prepared-handover-script.jpg)
 
 ## 8.4 Make a Playbook Another User Can Reproduce
 
-1. Extend the playbook with source manifest, account/feature preflight, exact prompt, expected evidence, review rubric, known failures and fallback route.
+1. Include concrete recovery instructions for missing facts, conflicting source roles/versions, stale imported text, unavailable audio and a no-answer run. Preserve a failed or missing output as unscored. Keep checked text as the fallback; do not call it a new generated answer.
 
-2. Add an example accepted output and an example rejected claim with the source reason. Keep rejected text clearly labelled so it cannot be mistaken for a fact.
+![recovery routes](./images/c06-08-08-recovery-routes.jpg)
 
-3. Document how to start a fresh session/context and verify the intended sources. Identify placeholders that must be replaced before submitting a prompt.
+2. Include an accepted maintained example and a clearly rejected claim with the exact source reason. Supplier appointment and PO issuance are not established by the pack. “No purchase authorised” does not prove that no appointment or unauthorised order exists. Do not invent the opposite of an unsupported claim.
 
-4. Add recovery procedures for missing facts, conflicting sources, stale imported content and unavailable audio. Do not promise features not tested in the account.
+![accepted and rejected examples](./images/c06-08-09-accepted-and-rejected-examples.jpg)
 
-5. Give a partner only the playbook and fictional pack, or use a fresh session yourself. Record each extra explanation needed to reproduce a checked FAQ.
+3. Keep a handover manifest: originals and roles, source hashes, prompt version, raw response, reviewed output, review evidence, known failures and remaining checks. Keep account-specific URLs in private trainer notes. The self-contained [version 1.1 prompt](./faq-prompt-v1.1.txt) contains the three originals; [source hashes](./source-manifest-v1.1.json) identify its input snapshot. Reassemble it if an original changes.
 
-6. Revise at least one confusing instruction or test an additional edge case if no confusion is found. Rerun the affected step.
+![versioned handover manifest](./images/c06-08-14-versioned-handover-manifest.jpg)
 
-7. Prepare a handover manifest identifying sources, prompt version, checked output, review evidence and remaining limitations. Keep any account-specific URLs in private notes.
+[Open the current version 1.1 playbook overview](./images/c06-08-15-current-playbook-release.jpg).
 
-<details markdown="1">
-<summary>What should you see?</summary>
+4. Retain the version 1.1 instruction repair and actual fresh-context result. The [playbook reference](./playbook-v1.1.md) records the usable method and remaining limits. This is author reproduction with prior familiarity; partner reproducibility, independent learner work, spoken delivery and classroom timing remain separate checks.
 
-Versioned playbook with exact input and review/recovery instructions. The result must be supported by the recorded checks; an attractive output or an AI assurance is insufficient.
-
-</details>
-
-<!-- VERIFY: execute expanded section 8.4 and independent challenge; capture images/c06-08-04.jpg only after real application success. -->
 
 ## Independent Challenge
 
@@ -119,8 +119,4 @@ Record the defect or uncertainty you investigated, the evidence used, the repair
 | A menu or feature is unavailable | Confirm the account and the shared access notes; record the missing step and ask the trainer for its fallback |
 | The result differs from the checkpoint | Compare the exact source range, wording and conditions before repeating the action |
 
-## Lesson Summary
-
-You can carry a bounded, checked AI workflow into an approved workplace setting.
-
-**Check yourself:** Could another person tell whether an answer is unsupported using your playbook?
+**Lesson summary:** Carry a bounded, checked AI workflow into an approved workplace setting. **Check yourself:** Could another person tell whether an answer is unsupported using your playbook?

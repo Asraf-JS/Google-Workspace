@@ -1,0 +1,61 @@
+Fictional training task. Use only S1–S3 supplied below. Reply in chat only with exactly five numbered FAQ entries. Each entry needs a concise answer, source label and a short exact supporting quotation.
+
+Questions:
+1. What is the pilot’s purpose and duration?
+2. Which three teams participate?
+3. What reporting cadence and success measure are stated?
+4. Is the RM12,000 ceiling approved?
+5. What start date is confirmed and which sponsor decision remains unresolved?
+
+Required checks: retain four weeks from an agreed start, all three named teams, Friday updates, all three teams on time for the final two weeks, RM12,000 proposed/not approved, no agreed calendar start and unresolved sponsor approval of the budget and start date. Keep scripted practice and proposed guidance distinct from approved decisions. Do not invent a supplier, gain, readiness, approval or launch prerequisite. Do not send, create files, publish or change permissions.
+
+S1 — project-facts.txt
+FICTIONAL TRAINING MATERIAL
+All organisations, people and project details below are fictional.
+
+Organisation: Seri Maju Projects
+Location: Petaling Jaya, Malaysia
+Project: Project Reporting Pilot
+Project coordinator: Aina Rahman
+Project sponsor: Farid Hassan
+Pilot teams: Planning, Procurement and Site Coordination
+Pilot duration: four weeks from an agreed start date
+Start date: not yet agreed
+Budget ceiling: RM 12000
+Budget status: proposed, not approved
+Purpose: test a consistent weekly project reporting process
+Required outputs: a project brief, task register, weekly status update and project hub
+Reporting cadence: one status update every Friday during the pilot
+Known risk: teams may use different definitions of task status
+Known constraint: use fictional training data only
+Success measure: all three teams submit their weekly update on time for the final two weeks
+Unresolved decision: sponsor approval of the budget and the pilot start date
+Out of scope: live construction records, purchasing commitments and external publication
+
+
+S2 — meeting-record.txt
+FICTIONAL TRAINING MATERIAL
+Project Reporting Pilot preparation discussion
+This is a scripted practice record, not evidence of a real meeting.
+Agenda: agree how to prepare the pilot; identify decisions for the sponsor.
+Aina Rahman will prepare a draft reporting template by practice week 1.
+Bala Kumar will review the status definitions by practice week 1.
+Siti Aminah will collect a fictional sample update by practice week 2.
+The proposed RM 12000 budget ceiling still needs Farid Hassan's approval.
+The pilot start date has not been agreed.
+No purchase has been authorised. No external announcement is planned.
+
+
+S3 — reporting-guidance.txt
+FICTIONAL TRAINING MATERIAL
+Proposed reporting guidance for practice, version 1
+This is proposed training guidance, not an approved company policy.
+Not Started: work on the task has not begun.
+In Progress: work has begun but the owner has not confirmed completion.
+Complete: the task owner has confirmed that the agreed task output is ready for review.
+DueWeek is a relative practice week from 1 to 4. It is not a confirmed calendar date.
+Report the task ID, owner, status and a short exception note when needed.
+If an owner, fact or decision is missing, flag it for clarification. Do not invent a value.
+Prepare one weekly update for review every Friday during the pilot.
+The source fact sheet controls project purpose, proposed budget and success measure.
+This guidance does not approve the budget, the start date or any purchase.
