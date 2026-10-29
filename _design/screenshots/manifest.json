@@ -13257,7 +13257,7 @@
         "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/02-format-data.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-01-first-variance.jpg": {
+    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-01-first-variance.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/03-basic-calculations/c04-03-01-first-variance.png",
       "dimensions": [
         1591,
@@ -13275,10 +13275,11 @@
       ],
       "sha256": "b42c7009f1e1d61a1353aef2747596898998ceceb52eb893e91d2be6a3e63835",
       "notes": [
-        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending."
+        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-02-fill-variance.jpg": {
+    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-02-fill-variance.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/03-basic-calculations/c04-03-02-fill-variance.png",
       "dimensions": [
         1591,
@@ -13296,10 +13297,11 @@
       ],
       "sha256": "269a57f6da2d5b0328b3ba727aa34bcd21d733fabd2389478ef2b5f87bbadef6",
       "notes": [
-        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending."
+        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-03-inspect-middle.jpg": {
+    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-03-inspect-middle.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/03-basic-calculations/c04-03-03-inspect-middle.png",
       "dimensions": [
         1591,
@@ -13317,10 +13319,11 @@
       ],
       "sha256": "8a0bc8be3ac7bc82abf7c537bb430376d5586b7a2d1dc2fe3cc647841d90939d",
       "notes": [
-        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending."
+        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-04-inspect-final.jpg": {
+    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-04-inspect-final.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/03-basic-calculations/c04-03-04-inspect-final.png",
       "dimensions": [
         1591,
@@ -13338,10 +13341,11 @@
       ],
       "sha256": "d3fba06692d8b98987378ef24928d8051e295e783497b7b0d6d3ff6ee55da8cf",
       "notes": [
-        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending."
+        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-05-three-totals.jpg": {
+    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-05-three-totals.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/03-basic-calculations/c04-03-05-three-totals.png",
       "dimensions": [
         1591,
@@ -13359,10 +13363,11 @@
       ],
       "sha256": "fdea77fbf655bcbf4b8cdcfd843f12425dc7c22c4f1837378739d37b28af9cd3",
       "notes": [
-        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending."
+        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-06-average-count.jpg": {
+    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-06-average-count.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/03-basic-calculations/c04-03-06-average-count.png",
       "dimensions": [
         1591,
@@ -13380,10 +13385,11 @@
       ],
       "sha256": "37f96fd4ee928722affdd92bdf0d3cdc4a683f774368e942b144dd6bc9d33f27",
       "notes": [
-        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending."
+        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-07-count-formula.jpg": {
+    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-07-count-formula.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/03-basic-calculations/c04-03-07-count-formula.png",
       "dimensions": [
         1591,
@@ -13401,10 +13407,11 @@
       ],
       "sha256": "6a7f920a83dd215da1a8f066049a38a0b8bcca5e17615f6ae9221157c573c1c8",
       "notes": [
-        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending."
+        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-08-practice-assumption.jpg": {
+    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-08-practice-assumption.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/03-basic-calculations/c04-03-08-practice-assumption.png",
       "dimensions": [
         1591,
@@ -13422,10 +13429,11 @@
       ],
       "sha256": "4a86651d9bdc3bf293a0ab470b30290c8b0e5672836b9c0a245efbe07d9ddc50",
       "notes": [
-        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending."
+        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-09-first-anchored-formula.jpg": {
+    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-09-first-anchored-formula.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/03-basic-calculations/c04-03-09-first-anchored-formula.png",
       "dimensions": [
         1591,
@@ -13443,10 +13451,11 @@
       ],
       "sha256": "598fee54ff6c39cfa8a7430c021d6ecc1b45b987c2e6831eaa1d63b52c75f78d",
       "notes": [
-        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending."
+        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-10-fixed-final-reference.jpg": {
+    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-10-fixed-final-reference.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/03-basic-calculations/c04-03-10-fixed-final-reference.png",
       "dimensions": [
         1591,
@@ -13464,10 +13473,11 @@
       ],
       "sha256": "742ee2dcb4883513c516afc359efe134957d601094ce0efb34cd20623d582f2d",
       "notes": [
-        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending."
+        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-11-assumption-1point2.jpg": {
+    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-11-assumption-1point2.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/03-basic-calculations/c04-03-11-assumption-1point2.png",
       "dimensions": [
         1591,
@@ -13485,10 +13495,11 @@
       ],
       "sha256": "50efecb898aa45775d1fe403d376900d92ab99920e8142262d7e1d68afe14257",
       "notes": [
-        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending."
+        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-12-restored-assumption.jpg": {
+    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-12-restored-assumption.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/03-basic-calculations/c04-03-12-restored-assumption.png",
       "dimensions": [
         1591,
@@ -13506,10 +13517,11 @@
       ],
       "sha256": "4780ed3bac881ab112a175768097ce581c1424675bba281bc27079d74cd4d285",
       "notes": [
-        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending."
+        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-13-four-test-pairs.jpg": {
+    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-13-four-test-pairs.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/03-basic-calculations/c04-03-13-four-test-pairs.png",
       "dimensions": [
         1591,
@@ -13527,10 +13539,11 @@
       ],
       "sha256": "d3038b3535d94c8f360f4f50dc5bc013b3530363f8842caa8be9d81e4c88b9f7",
       "notes": [
-        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending."
+        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-14-zero-blank-meaning.jpg": {
+    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-14-zero-blank-meaning.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/03-basic-calculations/c04-03-14-zero-blank-meaning.png",
       "dimensions": [
         1591,
@@ -13548,10 +13561,11 @@
       ],
       "sha256": "8638dcd7c870e99981517a5f3f03e53571f3d99082f864f53586034a1b33c54a",
       "notes": [
-        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending."
+        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-15-count-zero-blank-text.jpg": {
+    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-15-count-zero-blank-text.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/03-basic-calculations/c04-03-15-count-zero-blank-text.png",
       "dimensions": [
         1591,
@@ -13569,10 +13583,11 @@
       ],
       "sha256": "a8a45909de1225844edc237a6754200c4d0b3629abb2c525ee8a756dbee9dd7f",
       "notes": [
-        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending."
+        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-16-deliberate-wrong-reference.jpg": {
+    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-16-deliberate-wrong-reference.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/03-basic-calculations/c04-03-16-deliberate-wrong-reference.png",
       "dimensions": [
         1591,
@@ -13590,10 +13605,11 @@
       ],
       "sha256": "4369158bde073dc691a8e4337651cc255f27b0a836381fadf39a59e1ecb0b2e8",
       "notes": [
-        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending."
+        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-17-repaired-reference.jpg": {
+    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-17-repaired-reference.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/03-basic-calculations/c04-03-17-repaired-reference.png",
       "dimensions": [
         1591,
@@ -13611,10 +13627,11 @@
       ],
       "sha256": "719712d3d0f7c7e87a5005f61194a19738daf6e45faf6ae2642781bb4c081204",
       "notes": [
-        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending."
+        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-18-two-reference-types.jpg": {
+    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-18-two-reference-types.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/03-basic-calculations/c04-03-18-two-reference-types.png",
       "dimensions": [
         1591,
@@ -13632,10 +13649,11 @@
       ],
       "sha256": "6b5d1ddf5b5c061e875d54acb1e20242e064ef5487bac6e7989c743348c18b1f",
       "notes": [
-        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending."
+        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-19-relative-reference-moved.jpg": {
+    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-19-relative-reference-moved.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/03-basic-calculations/c04-03-19-relative-reference-moved.png",
       "dimensions": [
         1591,
@@ -13653,10 +13671,11 @@
       ],
       "sha256": "1b7f2c54676af23e7f81932ad1b7010974e22009d3d6198629e969940503784c",
       "notes": [
-        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending."
+        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-20-absolute-reference-retained.jpg": {
+    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-20-absolute-reference-retained.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/03-basic-calculations/c04-03-20-absolute-reference-retained.png",
       "dimensions": [
         1591,
@@ -13674,10 +13693,11 @@
       ],
       "sha256": "14c98013710c5ce4ec0ff47c3b4434d1eef46f9c061794e3175217247316ab3d",
       "notes": [
-        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending."
+        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-21-reference-test-1point2.jpg": {
+    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-21-reference-test-1point2.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/03-basic-calculations/c04-03-21-reference-test-1point2.png",
       "dimensions": [
         1591,
@@ -13695,10 +13715,11 @@
       ],
       "sha256": "6c05929effcb8617c8ee2ec430dbfd2a3b09b7ebb199e358ec8183b0e7c2dd1a",
       "notes": [
-        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending."
+        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-22-reference-test-restored.jpg": {
+    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-22-reference-test-restored.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/03-basic-calculations/c04-03-22-reference-test-restored.png",
       "dimensions": [
         1591,
@@ -13716,10 +13737,11 @@
       ],
       "sha256": "e58276353452d5f33c2720655a9d4fed43e4c98d866044d53b7b96e14ccdd771",
       "notes": [
-        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending."
+        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-23-reconciliation-zero-difference.jpg": {
+    "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-23-reconciliation-zero-difference.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/03-basic-calculations/c04-03-23-reconciliation-zero-difference.png",
       "dimensions": [
         1591,
@@ -13737,7 +13759,8 @@
       ],
       "sha256": "aa2c8b7fbec65d5de2032a607f258349118472d8694c4ac5d63b91c5602d0d5d",
       "notes": [
-        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending."
+        "Actual learner UI captured before subsequent stages; original dimensions retained without cropping or resizing. Account avatar masked. Fictional Tasks A1:H13 values unchanged. Practice assumptions restored to 1.1. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
     "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-01-raw-dirty-text.jpg": {
