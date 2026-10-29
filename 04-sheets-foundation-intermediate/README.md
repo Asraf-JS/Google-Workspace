@@ -1,6 +1,6 @@
 # Google Sheets Fundamental and Intermediate
 
-**Status:** review draft, revision 0.4. Labs 1-8 have 213 staged author-reference captures. Browser upload, CSV import and values-only format preservation are unverified (Lab 2's values-only check did not pass in the controlled session and needs a manual retest). Independent challenges, partner review and learner timing are still pending. Each chapter's status note and the [validation status](../planning/VALIDATION-STATUS.md) record the details.
+**Status:** review draft, revision 0.4. Labs 1-8 have 213 annotated author-reference images. Browser upload, CSV import and values-only format preservation are unverified (Lab 2's values-only check did not pass in the controlled session and needs a manual retest). Independent challenges, partner review and learner timing are still pending. Each chapter's status note and the [validation status](../planning/VALIDATION-STATUS.md) record the details.
 
 **Duration:** 1 day. Each day has 390 teaching minutes, excluding lunch and breaks.
 
