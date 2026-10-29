@@ -8,7 +8,7 @@ In this chapter you will apply a repeatable prompt workflow to a small task and 
 
 **Your result:** A supervised pilot with checked outputs and a transparent timing comparison.
 
-> **Status:** expanded review draft, revision 0.4. Complete the casework and independent challenge as well as the guided steps. The expanded route, screenshots and timing have not yet been validated in the learner application.
+> **Status:** guided author reference with 15 staged captures. Predefined rubric, checked A/B attempts and a targeted author rerun are recorded. Human manual baseline, complete active-effort timing, independent challenge, reviewer agreement and classroom timing remain unvalidated.
 
 ## What You Will Learn
 
@@ -24,73 +24,71 @@ Use the fictional source pack and review log. This is a supervised manual workfl
 
 ## 7.1 Define the Pilot
 
-1. Choose one task: prepare the five-question project FAQ from the source pack.
-2. Write acceptance criteria before starting: five relevant questions, supported answers, correct numbers and preserved unresolved decisions.
-3. Prepare a manual baseline attempt and record active drafting/checking time separately from interruptions.
+1. Create `GW - AI - Pilot Evaluation`. Use the same three original fictional sources for every attempt. Set the acceptance rule before generation: all five topics pass, each consequential claim has source support, and no approval, date, supplier or gain is invented.
+2. Use the copy-paste page's rubric. The date criterion includes both the unagreed calendar start and the unresolved sponsor decision. Record prior familiarity and attempt order. A rejected first draft is not an accepted output.
+3. A participant should first write and check a manual FAQ, logging drafting and checking separately. **Author boundary:** this reference was prepared by an AI agent with extensive source familiarity. Its source-based reference is not a human manual baseline. Human manual and classroom timings remain unmeasured; no productivity percentage can be calculated.
 
-<details markdown="1">
-<summary>What should you see?</summary>
-
-The comparison has a fixed input, output and quality standard.
-
-</details>
-
-<!-- VERIFY: execute 7.1 in the target account and reconcile control names. Capture images/c06-07-01.jpg only from the real app. -->
+![predefined protocol](./images/c06-07-01-predefined-protocol.jpg)
 
 ## 7.2 Run the Assisted Attempt
 
-1. Use a new approved AI session or notebook output with the same source pack.
-2. Record prompt revisions, drafting time and the time spent checking/correcting the result.
-3. Do not treat tool latency, manual sign-in or an unreviewed first response as a measured productivity gain.
+1. Open a fresh Gemini conversation in the approved account. Record the visible mode; the author used Flash. Paste the common brief, Set A questions and all three labelled originals. Do not paste only the question list.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![fresh flash session a](./images/c06-07-02-fresh-flash-session-a.jpg)
 
-Both approaches have a checked output and a transparent timing record.
+2. Submit once and record generation waiting separately. While waiting, retain the expected source facts and a clearly unscored ledger. The author reference below is a source check, not a timed human attempt.
 
-</details>
+![source reference and pending ledger](./images/c06-07-03-source-reference-and-pending-ledger.jpg)
 
-<!-- VERIFY: execute 7.2 in the target account and reconcile control names. Capture images/c06-07-02.jpg only from the real app. -->
+3. Read the complete response before scoring. The observed Set A used five extractive entries with S1 quotes. A source label is only a pointer: compare the quoted passage with the actual original.
+
+![set a response](./images/c06-07-04-set-a-response.jpg)
 
 ## 7.3 Evaluate the Outcome
 
-1. Compare correctness, completeness, effort and unresolved questions.
-2. Report time observations as a small training trial, not proof of company-wide ROI.
-3. Write the repeatable steps: prepare sources, prompt, inspect evidence, correct, save checked result and hand over.
+1. Apply the predefined rubric without changing it after seeing the response. Set A preserved the purpose/duration, teams, cadence/success and budget status. Its date quote retained “not yet agreed” but omitted the unresolved sponsor-decision statement required by the scorecard: **4/5, repair required**. This is an omission against that contract, not an invented date.
+2. Record the author correction: retain A1–A4 and replace A5 with the no-agreed-date statement plus S1's exact unresolved-decision line. Recheck the corrected reference: **5/5**. Keep the original model response and distinguish the author's repair from a regenerated answer.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![set a audit and repair](./images/c06-07-06-set-a-audit-and-repair.jpg)
 
-The pilot conclusion matches the observed quality and effort rather than an invented savings percentage.
-
-</details>
-
-<!-- VERIFY: execute 7.3 in the target account and reconcile control names. Capture images/c06-07-03.jpg only from the real app. -->
+3. Include prompting, source checking and repair in active effort. Keep generation wait, sign-in, setup and interruptions separate. The author observed Set A complete within about 98 seconds of submission; that interval included other work and is an upper bound, not exact server latency or human effort. Complete human timing is still required before a manual/assisted comparison.
 
 ## 7.4 Run a Small, Interpretable AI Evaluation
 
-1. Choose the five-question FAQ task and predefine a scoring rubric: required facts, unsupported claims, unresolved-decision handling and evidence trace. Set the acceptance rule before running attempts.
+1. Start a fresh conversation and paste Set B with the unchanged brief, mode and source pack. It asks the same five questions in a different order: budget, date, cadence/success, teams, purpose/duration. This is a reordered repeat, not an unseen task or a human baseline. Keep attempt order and familiarity visible.
 
-2. Use the same source pack and output brief for a manual attempt and assisted attempt. Record prior familiarity and attempt order, which can bias the comparison.
+![fresh flash session b](./images/c06-07-05-fresh-flash-session-b.jpg)
 
-3. Record active drafting, prompting, checking and correction separately from generation wait, sign-in, interruptions and setup.
+2. Record a design issue before the repair trial: the original visible date question did not explicitly ask for every scorecard detail. The score remains recorded, but do not blame the omission solely on the model. Keep A and B unchanged; prepare the explicit acceptance-check block for a separate Set A rerun C.
 
-4. Score both attempts using the same rubric. Include rework and checking time rather than comparing an unchecked AI first draft with a checked manual result.
+![targeted revision before rerun](./images/c06-07-07-targeted-revision-before-rerun.jpg)
 
-5. Repeat on a second equivalent question set from the bank, changing the order if practical. Record differences in source/task difficulty rather than pooling incompatible tasks.
+3. Inspect the entire Set B answer and its original supporting passages, including facts beyond its short excerpts. It retained the unapproved budget, sponsor identity and unresolved date/decision, plus all other required facts. First-review result: **5/5; no correction needed**. Do not infer that reordering caused the difference.
 
-6. Calculate total active effort per accepted output and show correctness alongside time. If an output fails the acceptance rule, report failure and repair effort explicitly.
+![set b response](./images/c06-07-08-set-b-response.jpg)
 
-7. Write a short pilot result with sample size, order effects, unavailable features and limits. Do not turn a two-attempt classroom result into organisation-wide ROI.
+![set b source tail](./images/c06-07-09-set-b-source-tail.jpg)
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![set b audit](./images/c06-07-10-set-b-audit.jpg)
 
-Predefined acceptance rubric and comparable manual/assisted attempts. The result must be supported by the recorded checks; an attractive output or an AI assurance is insufficient.
+4. Run C in another fresh Flash conversation using Set A and the same sources, adding only the explicit output acceptance block. Apply the same rubric when a complete answer exists. In the author run C remained generating after more than seven minutes, then returned to the new-chat composer with the prompt restored and no answer. No cause was established and no retry was submitted. Keep C unscored; this does not demonstrate a successful repair. This is an author repair attempt, not an independent learner challenge.
 
-</details>
+![targeted rerun wait](./images/c06-07-11-targeted-rerun-wait.jpg)
 
-<!-- VERIFY: execute expanded section 7.4 and independent challenge; capture images/c06-07-04.jpg only after real application success. -->
+![targeted rerun unscored](./images/c06-07-12-targeted-rerun-unscored.jpg)
+
+![rerun returned to composer](./images/c06-07-15-rerun-returned-to-composer.jpg)
+
+5. Save the final review and timing ledger. Report the actual sample size, prompt-contract mismatch, order/familiarity effects and unmeasured phases. B and C generation waits overlapped; do not add those intervals as sequential task duration. A complete participant comparison must include all active drafting, prompting, checking and correction for each accepted output. The maintained FAQ below is author-checked text, not a substitute for C's missing response.
+
+![maintained checked faq](./images/c06-07-13-maintained-checked-faq.jpg)
+
+![final ledger and limits](./images/c06-07-14-final-ledger-and-limits.jpg)
+
+6. Recommend a narrow next trial: have a participant complete the aligned manual and assisted tasks using the same sources and acceptance rule, with phase timing and reviewer checks. Repeat on an equivalent task with a different order. Keep the checked outputs, defects and repairs; avoid company-wide ROI claims from this demonstration.
+
+
+See the [author results and maintained FAQ](./author-reference.md).
 
 ## Independent Challenge
 
