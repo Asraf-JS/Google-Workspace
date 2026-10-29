@@ -13,7 +13,7 @@ The table links each lesson image to its retained source. The [manifest](./manif
 Use Pillow to render an adjusted crop without editing the source:
 
 ```text
-python _design/screenshots/render-crop.py --image 01-collaborative-tools/01-workspace-governance/images/c01-01-02-convert.jpg --box 0 0 1432 781 --output preview.jpg
+python _design/screenshots/render-crop.py --image 05-sheets-advanced/01-source-audit/images/c05-01-01-empty-advanced-folder.jpg --box 0 0 1432 781 --output preview.jpg
 ```
 
 Review the output before replacing a participant image or rebuilding books.
@@ -24,24 +24,24 @@ Google Docs and Google Slides lesson images are no longer hand-cropped. They are
 
 These three early workspace images need recapture for a wider view:
 
-- [c01-01-01.jpg](../../01-collaborative-tools/01-workspace-governance/images/c01-01-01.jpg)
-- [c01-01-02-folders.jpg](../../01-collaborative-tools/01-workspace-governance/images/c01-01-02-folders.jpg)
-- [c01-01-02-sources.jpg](../../01-collaborative-tools/01-workspace-governance/images/c01-01-02-sources.jpg)
+- [c01-01-01.png](../../01-collaborative-tools/01-workspace-governance/images/c01-01-01.png)
+- [c01-01-02-folders.png](../../01-collaborative-tools/01-workspace-governance/images/c01-01-02-folders.png)
+- [c01-01-02-sources.png](../../01-collaborative-tools/01-workspace-governance/images/c01-01-02-sources.png)
 
 ## Available Sources
 
 | Lesson image | Retained source | Size | Source type |
 |---|---|---|---|
-| [c01-01-02-convert.jpg](../../01-collaborative-tools/01-workspace-governance/images/c01-01-02-convert.jpg) | [PNG](full/01-collaborative-tools/01-workspace-governance/c01-01-02-convert.png) | 2360 x 1111 | application-window |
-| [c01-01-02-links.jpg](../../01-collaborative-tools/01-workspace-governance/images/c01-01-02-links.jpg) | [PNG](full/01-collaborative-tools/01-workspace-governance/c01-01-02-links.png) | 2360 x 1112 | application-window |
-| [c01-01-02-search.jpg](../../01-collaborative-tools/01-workspace-governance/images/c01-01-02-search.jpg) | [PNG](full/01-collaborative-tools/01-workspace-governance/c01-01-02-search.png) | 1912 x 948 | application-window |
-| [c01-01-02-summary.jpg](../../01-collaborative-tools/01-workspace-governance/images/c01-01-02-summary.jpg) | [PNG](full/01-collaborative-tools/01-workspace-governance/c01-01-02-summary.png) | 2360 x 1112 | application-window |
-| [c01-01-02.jpg](../../01-collaborative-tools/01-workspace-governance/images/c01-01-02.jpg) | [PNG](full/01-collaborative-tools/01-workspace-governance/c01-01-02.png) | 2360 x 1112 | application-window |
-| [c01-01-03-matrix.jpg](../../01-collaborative-tools/01-workspace-governance/images/c01-01-03-matrix.jpg) | [PNG](full/01-collaborative-tools/01-workspace-governance/c01-01-03-matrix.png) | 2360 x 1112 | application-window |
-| [c01-01-03-restricted.jpg](../../01-collaborative-tools/01-workspace-governance/images/c01-01-03-restricted.jpg) | [PNG](full/01-collaborative-tools/01-workspace-governance/c01-01-03-restricted.png) | 2360 x 1112 | application-window |
-| [c01-01-03-shortcut-menu.jpg](../../01-collaborative-tools/01-workspace-governance/images/c01-01-03-shortcut-menu.jpg) | [PNG](full/01-collaborative-tools/01-workspace-governance/c01-01-03-shortcut-menu.png) | 1912 x 948 | application-window |
-| [c01-01-03-shortcut.jpg](../../01-collaborative-tools/01-workspace-governance/images/c01-01-03-shortcut.jpg) | [PNG](full/01-collaborative-tools/01-workspace-governance/c01-01-03-shortcut.png) | 1912 x 948 | application-window |
-| [c01-01-03.jpg](../../01-collaborative-tools/01-workspace-governance/images/c01-01-03.jpg) | [PNG](full/01-collaborative-tools/01-workspace-governance/c01-01-03.png) | 2360 x 1112 | application-window |
+| [c01-01-02-convert.png](../../01-collaborative-tools/01-workspace-governance/images/c01-01-02-convert.png) | [PNG](full/01-collaborative-tools/01-workspace-governance/c01-01-02-convert.png) | 2360 x 1111 | application-window |
+| [c01-01-02-links.png](../../01-collaborative-tools/01-workspace-governance/images/c01-01-02-links.png) | [PNG](full/01-collaborative-tools/01-workspace-governance/c01-01-02-links.png) | 2360 x 1112 | application-window |
+| [c01-01-02-search.png](../../01-collaborative-tools/01-workspace-governance/images/c01-01-02-search.png) | [PNG](full/01-collaborative-tools/01-workspace-governance/c01-01-02-search.png) | 1912 x 948 | application-window |
+| [c01-01-02-summary.png](../../01-collaborative-tools/01-workspace-governance/images/c01-01-02-summary.png) | [PNG](full/01-collaborative-tools/01-workspace-governance/c01-01-02-summary.png) | 2360 x 1112 | application-window |
+| [c01-01-02.png](../../01-collaborative-tools/01-workspace-governance/images/c01-01-02.png) | [PNG](full/01-collaborative-tools/01-workspace-governance/c01-01-02.png) | 2360 x 1112 | application-window |
+| [c01-01-03-matrix.png](../../01-collaborative-tools/01-workspace-governance/images/c01-01-03-matrix.png) | [PNG](full/01-collaborative-tools/01-workspace-governance/c01-01-03-matrix.png) | 2360 x 1112 | application-window |
+| [c01-01-03-restricted.png](../../01-collaborative-tools/01-workspace-governance/images/c01-01-03-restricted.png) | [PNG](full/01-collaborative-tools/01-workspace-governance/c01-01-03-restricted.png) | 2360 x 1112 | application-window |
+| [c01-01-03-shortcut-menu.png](../../01-collaborative-tools/01-workspace-governance/images/c01-01-03-shortcut-menu.png) | [PNG](full/01-collaborative-tools/01-workspace-governance/c01-01-03-shortcut-menu.png) | 1912 x 948 | application-window |
+| [c01-01-03-shortcut.png](../../01-collaborative-tools/01-workspace-governance/images/c01-01-03-shortcut.png) | [PNG](full/01-collaborative-tools/01-workspace-governance/c01-01-03-shortcut.png) | 1912 x 948 | application-window |
+| [c01-01-03.png](../../01-collaborative-tools/01-workspace-governance/images/c01-01-03.png) | [PNG](full/01-collaborative-tools/01-workspace-governance/c01-01-03.png) | 2360 x 1112 | application-window |
 | [c01-02-01-start.jpg](../../01-collaborative-tools/02-checked-brief/images/c01-02-01-start.jpg) | [PNG](full/01-collaborative-tools/02-checked-brief/c01-02-01-start.png) | 2360 x 1112 | application-window |
 | [c01-02-01-panel.jpg](../../01-collaborative-tools/02-checked-brief/images/c01-02-01-panel.jpg) | [PNG](full/01-collaborative-tools/02-checked-brief/c01-02-01-panel.png) | 2360 x 1112 | application-window |
 | [c01-02-01-audit.jpg](../../01-collaborative-tools/02-checked-brief/images/c01-02-01-audit.jpg) | [PNG](full/01-collaborative-tools/02-checked-brief/c01-02-01-audit.png) | 2360 x 1112 | application-window |

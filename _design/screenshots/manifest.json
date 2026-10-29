@@ -2,7 +2,7 @@
   "version": 1,
   "coordinate_system": "Original capture pixels; crop is [left, top, right, bottom]. No resizing has been applied.",
   "sources": {
-    "01-collaborative-tools/01-workspace-governance/images/c01-01-02-convert.jpg": {
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-02-convert.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/01-workspace-governance/c01-01-02-convert.png",
       "dimensions": [
         2360,
@@ -31,9 +31,11 @@
         ]
       ],
       "sha256": "01b1c5634c3025172073c1d8d39829acd78c8fd8278e964cbbb6478c9bcc5d64",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/01-workspace-governance.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/01-workspace-governance/images/c01-01-02-links.jpg": {
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-02-links.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/01-workspace-governance/c01-01-02-links.png",
       "dimensions": [
         2360,
@@ -62,9 +64,11 @@
         ]
       ],
       "sha256": "9afcdce265d3c7b216deae6d8014291445640d7653cb1e75525a6af895bd4410",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/01-workspace-governance.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/01-workspace-governance/images/c01-01-02-search.jpg": {
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-02-search.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/01-workspace-governance/c01-01-02-search.png",
       "dimensions": [
         1912,
@@ -87,9 +91,11 @@
         ]
       ],
       "sha256": "25b75865e4ea2f0ae742f6a49bef2d5e4770860669546264cfe79a02ad8794b5",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/01-workspace-governance.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/01-workspace-governance/images/c01-01-02-summary.jpg": {
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-02-summary.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/01-workspace-governance/c01-01-02-summary.png",
       "dimensions": [
         2360,
@@ -118,9 +124,11 @@
         ]
       ],
       "sha256": "96a4c473eea861d6cf724338e0250d9430684774651ce9333ecd51baa98fef91",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/01-workspace-governance.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/01-workspace-governance/images/c01-01-02.jpg": {
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-02.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/01-workspace-governance/c01-01-02.png",
       "dimensions": [
         2360,
@@ -149,9 +157,11 @@
         ]
       ],
       "sha256": "50f1628f7b67aea09091f26e74d13a5be727e3508407014792eb746f559ebe19",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/01-workspace-governance.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/01-workspace-governance/images/c01-01-03-matrix.jpg": {
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-03-matrix.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/01-workspace-governance/c01-01-03-matrix.png",
       "dimensions": [
         2360,
@@ -180,9 +190,11 @@
         ]
       ],
       "sha256": "ff57950abaecef472f68c9d298d5f867876f1ebada7fd9aa98b57a5e80266e09",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/01-workspace-governance.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/01-workspace-governance/images/c01-01-03-restricted.jpg": {
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-03-restricted.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/01-workspace-governance/c01-01-03-restricted.png",
       "dimensions": [
         2360,
@@ -217,9 +229,11 @@
         ]
       ],
       "sha256": "90fbf44796076e3e2ac9011db90bda9c998d3a9ae44ad51647660915c0ee5454",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/01-workspace-governance.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/01-workspace-governance/images/c01-01-03-shortcut-menu.jpg": {
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-03-shortcut-menu.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/01-workspace-governance/c01-01-03-shortcut-menu.png",
       "dimensions": [
         1912,
@@ -242,9 +256,11 @@
         ]
       ],
       "sha256": "0bb79b960873d6508fb78c06d142cd094c21c293f632794b1bf3df7907db3d03",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/01-workspace-governance.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/01-workspace-governance/images/c01-01-03-shortcut.jpg": {
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-03-shortcut.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/01-workspace-governance/c01-01-03-shortcut.png",
       "dimensions": [
         1912,
@@ -267,9 +283,11 @@
         ]
       ],
       "sha256": "15df6f29c9a971471a1d017678d969c6ac680717bff23c811551f757824d26d6",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/01-workspace-governance.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/01-workspace-governance/images/c01-01-03.jpg": {
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-03.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/01-workspace-governance/c01-01-03.png",
       "dimensions": [
         2360,
@@ -298,7 +316,9 @@
         ]
       ],
       "sha256": "ac89e5b7d1cda3db480b1516a503762623630fd420d25ef94c472bcc736f63a0",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/01-workspace-governance.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
     "01-collaborative-tools/02-checked-brief/images/c01-02-01-start.jpg": {
       "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-01-start.png",
@@ -28357,8 +28377,8 @@
     }
   },
   "missing_originals": [
-    "01-collaborative-tools/01-workspace-governance/images/c01-01-01.jpg",
-    "01-collaborative-tools/01-workspace-governance/images/c01-01-02-folders.jpg",
-    "01-collaborative-tools/01-workspace-governance/images/c01-01-02-sources.jpg"
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-01.png",
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-02-folders.png",
+    "01-collaborative-tools/01-workspace-governance/images/c01-01-02-sources.png"
   ]
 }
