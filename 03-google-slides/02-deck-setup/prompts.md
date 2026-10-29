@@ -1,4 +1,4 @@
-# 02 - Create and Organise the Deck: Prompts and Values
+# 02 - Create and Organise the Deck: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -12,8 +12,7 @@ GW - Slides - Sponsor Update
 Fictional training example
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -21,14 +20,14 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Reuse brief: Keep the six-part story structure, source-note placeholders and appendix navigation. Use a new accent colour and a new topic title only in the reuse copy. No old project evidence should accidentally appear as evidence for the new topic.
 ```
 
-## Reference Deck Names and Theme Test
+## Part 3: Reference Deck Names and Theme Test
 
 ```text
 GW - Slides - Import Practice Source
 GW - Slides - Reusable Six-Part Structure
-Risk — alternative
-Appendix A — Source Definitions
-Appendix B — Unanswered Question
+Risk - alternative
+Appendix A - Source Definitions
+Appendix B - Unanswered Question
 Review source definitions
 Return to Decisions
 Manual colour stays fixed

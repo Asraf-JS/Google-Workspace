@@ -1,0 +1,354 @@
+{
+ "raw": "../raw/03-google-slides/05-linked-data",
+ "repoRoot": "../../../03-google-slides",
+ "shots": {
+  "c03-05-01-native-source-blank-summary.png": {
+   "boxes": [
+    [
+     40,
+     168,
+     348,
+     304,
+     1
+    ]
+   ]
+  },
+  "c03-05-02-countif-formula-before-fill.png": {
+   "boxes": [
+    [
+     200,
+     204,
+     424,
+     242,
+     2
+    ]
+   ]
+  },
+  "c03-05-03-baseline-counts-four-each.png": {
+   "boxes": [
+    [
+     204,
+     206,
+     346,
+     310,
+     3
+    ]
+   ]
+  },
+  "c03-05-04-column-chart-title-and-counts.png": {
+   "boxes": [
+    [
+     324,
+     316,
+     938,
+     698,
+     4
+    ],
+    [
+     1276,
+     380,
+     1552,
+     428,
+     4
+    ]
+   ]
+  },
+  "c03-05-05-copy-chart-native-menu.png": {
+   "boxes": [
+    [
+     910,
+     322,
+     942,
+     350,
+     1,
+     "left"
+    ],
+    [
+     912,
+     482,
+     1106,
+     514,
+     1
+    ]
+   ]
+  },
+  "c03-05-06-link-to-spreadsheet-paste-dialog.png": {
+   "boxes": [
+    [
+     612,
+     354,
+     836,
+     400,
+     2
+    ],
+    [
+     884,
+     520,
+     982,
+     568,
+     2
+    ]
+   ]
+  },
+  "c03-05-07-linked-chart-and-qualified-snapshot.png": {
+   "boxes": [
+    [
+     756,
+     300,
+     1330,
+     668,
+     3
+    ],
+    [
+     406,
+     272,
+     706,
+     494,
+     3
+    ]
+   ]
+  },
+  "c03-05-08-source-definitions-and-refresh-pending.png": {
+   "boxes": [
+    [
+     244,
+     548,
+     1460,
+     708,
+     4
+    ]
+   ]
+  },
+  "c03-05-09-t003-original-status.png": {
+   "boxes": [
+    [
+     868,
+     272,
+     1024,
+     310,
+     1
+    ]
+   ]
+  },
+  "c03-05-10-source-counts-five-four-three.png": {
+   "boxes": [
+    [
+     40,
+     206,
+     350,
+     302,
+     2
+    ],
+    [
+     326,
+     318,
+     938,
+     700,
+     2
+    ]
+   ]
+  },
+  "c03-05-11-slides-cached-before-update.png": {
+   "boxes": [
+    [
+     752,
+     336,
+     1364,
+     700,
+     3
+    ]
+   ]
+  },
+  "c03-05-12-slides-updated-five-four-three.png": {
+   "boxes": [
+    [
+     752,
+     336,
+     1316,
+     700,
+     4
+    ]
+   ],
+   "arrows": [
+    [
+     742,
+     386,
+     650,
+     386
+    ]
+   ]
+  },
+  "c03-05-13-source-restored-four-four-four.png": {
+   "boxes": [
+    [
+     40,
+     204,
+     350,
+     310,
+     5
+    ]
+   ]
+  },
+  "c03-05-14-slides-restored-four-four-four.png": {
+   "boxes": [
+    [
+     752,
+     340,
+     1316,
+     700,
+     6
+    ]
+   ]
+  },
+  "c03-05-15-team-cost-sumif-and-total.png": {
+   "boxes": [
+    [
+     136,
+     118,
+     464,
+     140,
+     2
+    ],
+    [
+     40,
+     164,
+     282,
+     270,
+     2
+    ]
+   ]
+  },
+  "c03-05-16-team-cost-chart.png": {
+   "boxes": [
+    [
+     326,
+     318,
+     940,
+     700,
+     3
+    ]
+   ]
+  },
+  "c03-05-17-linked-cost-appendix.png": {
+   "boxes": [
+    [
+     366,
+     206,
+     996,
+     266,
+     4
+    ],
+    [
+     530,
+     282,
+     1292,
+     726,
+     4
+    ]
+   ]
+  },
+  "c03-05-18-paste-unlinked-dialog.png": {
+   "boxes": [
+    [
+     612,
+     480,
+     812,
+     524,
+     5
+    ],
+    [
+     884,
+     548,
+     982,
+     596,
+     5
+    ]
+   ]
+  },
+  "c03-05-19-second-source-change-five-four-three.png": {
+   "boxes": [
+    [
+     40,
+     206,
+     350,
+     304,
+     6
+    ]
+   ]
+  },
+  "c03-05-20-static-image-stays-four-four-four.png": {
+   "boxes": [
+    [
+     498,
+     268,
+     1254,
+     734,
+     6
+    ]
+   ]
+  },
+  "c03-05-21-linked-chart-second-refresh.png": {
+   "boxes": [
+    [
+     752,
+     336,
+     1386,
+     704,
+     7
+    ]
+   ]
+  },
+  "c03-05-22-cost-source-unchanged.png": {
+   "boxes": [
+    [
+     40,
+     160,
+     284,
+     270,
+     7
+    ]
+   ]
+  },
+  "c03-05-23-restored-chart-and-two-linked-objects.png": {
+   "boxes": [
+    [
+     1418,
+     72,
+     1454,
+     110,
+     8,
+     "left"
+    ],
+    [
+     1198,
+     136,
+     1500,
+     292,
+     8
+    ]
+   ]
+  },
+  "c03-05-24-cost-checklist-and-source-notes.png": {
+   "boxes": [
+    [
+     244,
+     566,
+     1460,
+     690,
+     9
+    ]
+   ]
+  },
+  "c03-05-25-static-comparison-final-checklist.png": {
+   "boxes": [
+    [
+     244,
+     568,
+     1460,
+     724,
+     9
+    ]
+   ]
+  }
+ }
+}

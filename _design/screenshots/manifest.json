@@ -3785,7 +3785,7 @@
       "sha256": "46a5d6cd3430dcbb79ad7df1350e11a20b33d28642f6c61eb279a44f243f0a34",
       "notes": []
     },
-    "02-google-docs/01-document-sources/images/c02-01-folder.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-folder.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-folder.png",
       "dimensions": [
         1912,
@@ -3815,7 +3815,7 @@
       "sha256": "d4c9b8b7dd02f22518c15f9d7829f571c649dac5d0efb2d01a23009e6b1a63c3",
       "notes": []
     },
-    "02-google-docs/01-document-sources/images/c02-01-starter-brief.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-starter-brief.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-starter-brief.png",
       "dimensions": [
         2360,
@@ -3851,7 +3851,7 @@
       "sha256": "49a5f74c687491c983605de360042b47fbcb2b979ddc15037a65ab7569f2ec20",
       "notes": []
     },
-    "02-google-docs/01-document-sources/images/c02-01-requirements.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-requirements.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-requirements.png",
       "dimensions": [
         2360,
@@ -3887,7 +3887,7 @@
       "sha256": "90fd3c1585265d8559e78c0ca971f6cb73e21ed306fa0c19b1c4c4a1da079943",
       "notes": []
     },
-    "02-google-docs/01-document-sources/images/c02-01-saved-folder.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-saved-folder.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-saved-folder.png",
       "dimensions": [
         1912,
@@ -3917,7 +3917,7 @@
       "sha256": "17b57b93c53aec81f796f0888baa8b697873735083e89af8b1cc112da313e34b",
       "notes": []
     },
-    "02-google-docs/01-document-sources/images/c02-01-restricted-access.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-restricted-access.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-restricted-access.png",
       "dimensions": [
         2360,
@@ -3965,7 +3965,7 @@
       "sha256": "e0ade93ef69683d3a48523bdf3909df6e0458efb948a4ccd7be4e35640da4bab",
       "notes": []
     },
-    "02-google-docs/01-document-sources/images/c02-01-source-register.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-source-register.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-source-register.png",
       "dimensions": [
         2360,
@@ -4001,7 +4001,7 @@
       "sha256": "6335253e49fea9527aed49cff2b3e993282abb10bb154bc2a2135c2dba00e2f3",
       "notes": []
     },
-    "02-google-docs/01-document-sources/images/c02-01-reader-questions.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-reader-questions.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-reader-questions.png",
       "dimensions": [
         2360,
@@ -4037,7 +4037,7 @@
       "sha256": "b805b272cdcf3149585cebb110f07ca733e63fd9ba9b0068a5232c514f9b3b59",
       "notes": []
     },
-    "02-google-docs/01-document-sources/images/c02-01-uploaded-sources.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-uploaded-sources.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-uploaded-sources.png",
       "dimensions": [
         1912,
@@ -4067,7 +4067,7 @@
       "sha256": "f5b55bdc987f5c37e0ba364c841155c53e857738c2a9b5aaa916ed02ad010c26",
       "notes": []
     },
-    "02-google-docs/01-document-sources/images/c02-01-descriptive-links.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-descriptive-links.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-descriptive-links.png",
       "dimensions": [
         2360,
@@ -4103,7 +4103,7 @@
       "sha256": "77e38cf6519c9efd9117a118fb14bf5cce9f524ca6823118a33cae27e5ebcaef",
       "notes": []
     },
-    "02-google-docs/01-document-sources/images/c02-01-facts-source.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-facts-source.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-facts-source.png",
       "dimensions": [
         1912,
@@ -4133,7 +4133,7 @@
       "sha256": "683cafcf1f7e42d0d6f9e19b87833c9b62bc871f2e2c0300f58c7dee48c17200",
       "notes": []
     },
-    "02-google-docs/01-document-sources/images/c02-01-brief-source.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-brief-source.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-brief-source.png",
       "dimensions": [
         1912,
@@ -4163,7 +4163,7 @@
       "sha256": "4f34f9607b1a9ac3b65a095104d334e14128bf51c2bd19b9f17297444dec8bad",
       "notes": []
     },
-    "02-google-docs/01-document-sources/images/c02-01-guidance-source.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-guidance-source.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-guidance-source.png",
       "dimensions": [
         1912,
@@ -4193,7 +4193,7 @@
       "sha256": "34866c0fc55c9403a67497b9b9c906ce2ea6ce635c50d35dd879a0f317a59bed",
       "notes": []
     },
-    "02-google-docs/01-document-sources/images/c02-01-memo-classification.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-memo-classification.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-memo-classification.png",
       "dimensions": [
         2360,
@@ -4229,7 +4229,7 @@
       "sha256": "1f1b9fd3792d92500522867e3dc90aed0c174b847aef37f36821af045d8ae13f",
       "notes": []
     },
-    "02-google-docs/01-document-sources/images/c02-01-purpose-scope.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-purpose-scope.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-purpose-scope.png",
       "dimensions": [
         2360,
@@ -4265,7 +4265,7 @@
       "sha256": "4fa5054318d5728c36b51e59666d29a52e6940f10a9a333cd0c83a8ff2000402",
       "notes": []
     },
-    "02-google-docs/01-document-sources/images/c02-01-authoring-boundary.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-authoring-boundary.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-authoring-boundary.png",
       "dimensions": [
         2360,
@@ -4301,7 +4301,7 @@
       "sha256": "f9a8257f6dff7613acfd7bfd70c4089907bf4ed32a698018870797748ece0259",
       "notes": []
     },
-    "02-google-docs/01-document-sources/images/c02-01-reopened-log.jpg": {
+    "02-google-docs/01-document-sources/images/c02-01-reopened-log.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-reopened-log.png",
       "dimensions": [
         2360,
@@ -4337,7 +4337,7 @@
       "sha256": "1cdc2fab9d33256673e69256658ce607b30596f5cce12afb584340fc31678860",
       "notes": []
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-source-grounded-prompt.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-source-grounded-prompt.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-source-grounded-prompt.png",
       "dimensions": [
         2360,
@@ -4373,7 +4373,7 @@
       "sha256": "b19658db4c7fa2e16a69d39bda2f52221275c41226502eb8fce203211510041c",
       "notes": []
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-unreviewed-response.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-unreviewed-response.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-unreviewed-response.png",
       "dimensions": [
         2360,
@@ -4409,7 +4409,7 @@
       "sha256": "318e2c2ab854b74f00a895652135de46ee57f7cf5f35ef399150e81997580407",
       "notes": []
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-response-checks.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-response-checks.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-response-checks.png",
       "dimensions": [
         2360,
@@ -4445,7 +4445,7 @@
       "sha256": "5104de1f1c3121fd793c54b5f1832f23e4738e79154f52a260ca86a3a7ae3294",
       "notes": []
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-human-review.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-human-review.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-human-review.png",
       "dimensions": [
         2360,
@@ -4481,7 +4481,7 @@
       "sha256": "1f53790fe27e0714742a002352aec5ebc0a73fe2ac1b4695e8c8e0c363110ccc",
       "notes": []
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-checked-draft.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-checked-draft.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-checked-draft.png",
       "dimensions": [
         2360,
@@ -4517,7 +4517,7 @@
       "sha256": "55c798817743c871f37dfa6be661af16e62d1886d94be5ef4a8f7fd3bf9ba505",
       "notes": []
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-open-decisions.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-open-decisions.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-open-decisions.png",
       "dimensions": [
         2360,
@@ -4553,7 +4553,7 @@
       "sha256": "55c798817743c871f37dfa6be661af16e62d1886d94be5ef4a8f7fd3bf9ba505",
       "notes": []
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-plan-first-steps.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-plan-first-steps.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-plan-first-steps.png",
       "dimensions": [
         2360,
@@ -4591,7 +4591,7 @@
         "Later outline entries appear outside the approved table crop. Recapture this earlier step before using the whole frame in participant notes."
       ]
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-plan-final-steps.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-plan-final-steps.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-plan-final-steps.png",
       "dimensions": [
         2360,
@@ -4629,7 +4629,7 @@
         "The normal and exception examples appear below the approved plan crop. Recapture the plan-only stage before using the whole frame in participant notes."
       ]
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-normal-and-exception.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-normal-and-exception.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-normal-and-exception.png",
       "dimensions": [
         2360,
@@ -4665,7 +4665,7 @@
       "sha256": "7e6c588141c4e5fde269472dbd2c98df19c92ffa8edeab7e71aba3a74be6d6a1",
       "notes": []
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-status-repair.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-status-repair.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-status-repair.png",
       "dimensions": [
         2360,
@@ -4701,7 +4701,7 @@
       "sha256": "8e6fc77b665ed6572fd289ab8af21b2c2c3f42878fc1547fdb7c5a6a5c4850b3",
       "notes": []
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-clarity-rewrite.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-clarity-rewrite.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-clarity-rewrite.png",
       "dimensions": [
         2360,
@@ -4737,7 +4737,7 @@
       "sha256": "c709e21ee905088b1a844b322182abeac5c40f14cd62bc64c444f97cbc73cce1",
       "notes": []
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-paper-walkthroughs.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-paper-walkthroughs.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-paper-walkthroughs.png",
       "dimensions": [
         2360,
@@ -4773,7 +4773,7 @@
       "sha256": "10f1d6154a9fcb1afd74b3968edb15e6f9af634a8ba651a7a01172c688f0ca51",
       "notes": []
     },
-    "02-google-docs/02-draft-procedure/images/c02-02-submission-distinction.jpg": {
+    "02-google-docs/02-draft-procedure/images/c02-02-submission-distinction.png": {
       "source": "_design/screenshots/full/02-google-docs/02-draft-procedure/c02-02-submission-distinction.png",
       "dimensions": [
         2360,
@@ -4809,7 +4809,7 @@
       "sha256": "b46cc2bf09fc3e309aa4dc39f0d0664526d5a1db8b7548b29cd065be0d5d5e42",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-title-style.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-title-style.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-title-style.png",
       "dimensions": [
         2360,
@@ -4845,7 +4845,7 @@
       "sha256": "97d8fbd7ad193c5595567c58495ca20b909c4f9d6870e626b02f9fa94aea8fe0",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-heading-outline.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-heading-outline.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-heading-outline.png",
       "dimensions": [
         2360,
@@ -4881,7 +4881,7 @@
       "sha256": "c113ef8700d1334e7ed0fa5272785c0e43c2a311e871ceb64f7d0e3118542cb0",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-generated-contents.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-generated-contents.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-generated-contents.png",
       "dimensions": [
         2360,
@@ -4917,7 +4917,7 @@
       "sha256": "f60995d401ef9b7ffe7730100c3cd2ff012409fab1bbf83ba645240991658e2d",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-stale-contents.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-stale-contents.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-stale-contents.png",
       "dimensions": [
         2360,
@@ -4953,7 +4953,7 @@
       "sha256": "a864a94618cfe190e0cbcc2dea60acad9e04b8531c7f7c0d7708576064fcc303",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-refreshed-contents.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-refreshed-contents.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-refreshed-contents.png",
       "dimensions": [
         2360,
@@ -4989,7 +4989,7 @@
       "sha256": "b3d6cc379e6ce243c814e23443bf947ef498b255e99273169a755c562ecb387a",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-bookmark.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-bookmark.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-bookmark.png",
       "dimensions": [
         2360,
@@ -5025,7 +5025,7 @@
       "sha256": "09d543aa38a0cfb13627c69e6ef99e4328ea88b722e261603e12bb32c2bb278a",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-opening-bookmark.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-opening-bookmark.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-opening-bookmark.png",
       "dimensions": [
         2360,
@@ -5061,7 +5061,7 @@
       "sha256": "8a8fd74c5935f4840ea199217f1800879b8e25cc899c36195c54ab534458196c",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-subsection-outline.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-subsection-outline.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-subsection-outline.png",
       "dimensions": [
         2360,
@@ -5097,7 +5097,7 @@
       "sha256": "32821f27c852fe3faf519552d74c87afca3d1a78e45e697719985922a2c08e7b",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-quick-start.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-quick-start.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-quick-start.png",
       "dimensions": [
         2360,
@@ -5133,7 +5133,7 @@
       "sha256": "6caadd38c7427e7b6de8fbf6f6ffac17a22b5301ee097a2098ff61dec4671f8b",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-missing-owner-destination.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-missing-owner-destination.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-missing-owner-destination.png",
       "dimensions": [
         2360,
@@ -5169,7 +5169,7 @@
       "sha256": "a1de9e0414f8928b6f58fa8e00e106321715819ae530c0c973e7aa89550bd17a",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-sponsor-destination.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-sponsor-destination.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-sponsor-destination.png",
       "dimensions": [
         2360,
@@ -5205,7 +5205,7 @@
       "sha256": "e319b7fe5d90e4c2d030715b1ebea0d48bdae879028b51fada8f7159a606aa12",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-practice-copy.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-practice-copy.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-practice-copy.png",
       "dimensions": [
         2360,
@@ -5241,7 +5241,7 @@
       "sha256": "a0b9df48e12b9d5418846e184aaa9fe1b0018b7bb02d3a609cc34316d88a16a8",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-examples-tab.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-examples-tab.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-examples-tab.png",
       "dimensions": [
         2360,
@@ -5277,7 +5277,7 @@
       "sha256": "298771a843be99629a02b920ea585784935823d42883ad077e5154b1a50dd818",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-examples-return.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-examples-return.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-examples-return.png",
       "dimensions": [
         2360,
@@ -5313,7 +5313,7 @@
       "sha256": "4ed690e36dc4733604d4ac486f96f52fc4d4d64ad85b5d2124864c4fff50be2d",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-return-main.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-return-main.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-return-main.png",
       "dimensions": [
         2360,
@@ -5349,7 +5349,7 @@
       "sha256": "4308b4b0a17b94847639477c1984bae90601592217b7eb9dbcab492509aed49a",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-main-examples-link.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-main-examples-link.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-main-examples-link.png",
       "dimensions": [
         2360,
@@ -5385,7 +5385,7 @@
       "sha256": "769c92a298ca2aecf180d0217b710bac862072b2d87787f37225712ee32bfea5",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-examples-contents.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-examples-contents.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-examples-contents.png",
       "dimensions": [
         2360,
@@ -5421,7 +5421,7 @@
       "sha256": "03d3fd6c46fb885c3bb2f358a61fd27753681c9f7381bc4cd21c28c34db1658b",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-main-contents.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-main-contents.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-main-contents.png",
       "dimensions": [
         2360,
@@ -5457,7 +5457,7 @@
       "sha256": "b35922d792175270f12c7f4739ad99d6b50f63a764bc0bc16e244e00a35f79e5",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-move-selection.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-move-selection.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-move-selection.png",
       "dimensions": [
         2360,
@@ -5493,7 +5493,7 @@
       "sha256": "23ef87f888bd63075114076ba15dfb3f86d42e9ca30533fcc0636e1aad5f3b50",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-moved-subsection.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-moved-subsection.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-moved-subsection.png",
       "dimensions": [
         2360,
@@ -5529,7 +5529,7 @@
       "sha256": "db582e1177cbcf4aef2dba5cf1160ee1e8b4d5b8abc138a519e6f5293767c9ce",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-renamed-subsection.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-renamed-subsection.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-renamed-subsection.png",
       "dimensions": [
         2360,
@@ -5565,7 +5565,7 @@
       "sha256": "c8d3ba30b3a32656e6211252c8ddf89a08fe226cdd5d4c4b2014786d0efa8b1e",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-renamed-contents.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-renamed-contents.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-renamed-contents.png",
       "dimensions": [
         2360,
@@ -5601,7 +5601,7 @@
       "sha256": "56bf3460123180cfbf3ace44b7922663e7fb85d2c8eacb5baab5b6882a82e413",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-incoming-link-retested.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-incoming-link-retested.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-incoming-link-retested.png",
       "dimensions": [
         2360,
@@ -5637,7 +5637,7 @@
       "sha256": "15795bfa5ee2a1cf64e75d0a6ff9ba5f7e3bc6f02cdccbe5899d93cf156d6be4",
       "notes": []
     },
-    "02-google-docs/03-styles-navigation/images/c02-03-navigation-check.jpg": {
+    "02-google-docs/03-styles-navigation/images/c02-03-navigation-check.png": {
       "source": "_design/screenshots/full/02-google-docs/03-styles-navigation/c02-03-navigation-check.png",
       "dimensions": [
         2360,
@@ -5673,7 +5673,7 @@
       "sha256": "e575d040b0951d004f4b8e2e0fd59dae6ba58a95a339075bb27fbfc9a56f2a80",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-page-setup-before.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-page-setup-before.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-page-setup-before.png",
       "dimensions": [
         2360,
@@ -5703,7 +5703,7 @@
       "sha256": "d781d16a281f1d0e92bf543c1ca54494191ce3c82ae047097b6c624c623e55e9",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-pageless-inspection.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-pageless-inspection.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-pageless-inspection.png",
       "dimensions": [
         2360,
@@ -5733,7 +5733,7 @@
       "sha256": "dd58b62730f1ef6f5f5b940c8a806a3c5faf154a277972e9efb046982ffb863b",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-a4-margins.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-a4-margins.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-a4-margins.png",
       "dimensions": [
         2360,
@@ -5763,7 +5763,7 @@
       "sha256": "af54ac3c4eb1ba2444aca1dded3b9403cf5ead5e49c592bcd138df9587018259",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-first-page.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-first-page.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-first-page.png",
       "dimensions": [
         2360,
@@ -5793,7 +5793,7 @@
       "sha256": "82e208d90a8957703535ef36eb3e9a8eeefb0c2a215cf7bcfb95a36ecc5daa0f",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-page-elements-menu.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-page-elements-menu.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-page-elements-menu.png",
       "dimensions": [
         2360,
@@ -5823,7 +5823,7 @@
       "sha256": "c946bbb6e0c6dc959fb8448d30c0be450f6fcb3dfc649ea446b0d40de3819b7b",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-header.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-header.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-header.png",
       "dimensions": [
         2360,
@@ -5853,7 +5853,7 @@
       "sha256": "d7b784ce23196efedd608526cc93fa4b89ffc643f52cae55ab246630093a8a73",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-footer.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-footer.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-footer.png",
       "dimensions": [
         2360,
@@ -5883,7 +5883,7 @@
       "sha256": "7c2de1222535d572a190ae19d703853c01cd8a2ec945730710657dd55bd645ab",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-live-number.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-live-number.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-live-number.png",
       "dimensions": [
         2360,
@@ -5913,7 +5913,7 @@
       "sha256": "51ea59b767716aff42f37f80dacadfc39f5b08f457e80d541a605522f4a15c93",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-page-boundary.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-page-boundary.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-page-boundary.png",
       "dimensions": [
         2360,
@@ -5943,7 +5943,7 @@
       "sha256": "48843ecab586c30909664ac01242f5a8427d893773b6a1edd32fa7c5df87e944",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-heading-pagination.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-heading-pagination.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-heading-pagination.png",
       "dimensions": [
         2360,
@@ -5973,7 +5973,7 @@
       "sha256": "571fe24f0f099da5511b650ece65c8e4feaee634a6735098e4f1c0d63d864dcc",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-log-break-control.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-log-break-control.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-log-break-control.png",
       "dimensions": [
         2360,
@@ -6003,7 +6003,7 @@
       "sha256": "c85ae3d61a5ff611e6fdd42ae91be5defef46e6558bcdfd0ba66ee3742838766",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-log-new-page.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-log-new-page.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-log-new-page.png",
       "dimensions": [
         2360,
@@ -6033,7 +6033,7 @@
       "sha256": "8cc970cd70ab3a1fa9d2f64d81e78ba1bdfe5d7409ca8937fde7b023a34fb49b",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-pdf-menu.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-pdf-menu.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-pdf-menu.png",
       "dimensions": [
         2360,
@@ -6063,7 +6063,7 @@
       "sha256": "18a1b0d09d65617e71bb1091db29dd183dd2e0f5bc8a7f118f42ba1cbf71158c",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-plan-header-unpinned.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-plan-header-unpinned.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-plan-header-unpinned.png",
       "dimensions": [
         2360,
@@ -6093,7 +6093,7 @@
       "sha256": "5407641a623babbf76ea37d3cf45490bc4ab782485aeb18602f4fe2cd2d1fc19",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-plan-header-pinned.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-plan-header-pinned.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-plan-header-pinned.png",
       "dimensions": [
         2360,
@@ -6123,7 +6123,7 @@
       "sha256": "42cfaedb19265feae572371675596dc43f6d33c4efcb7516c21e1f7b3704fc5f",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-plan-continuation.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-plan-continuation.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-plan-continuation.png",
       "dimensions": [
         2360,
@@ -6153,7 +6153,7 @@
       "sha256": "122569cd0882a165c19b58aa14a36acc9f784de104b87236a85c032ef5e632d7",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-field-table-empty.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-field-table-empty.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-field-table-empty.png",
       "dimensions": [
         2360,
@@ -6183,7 +6183,7 @@
       "sha256": "ecaee90467f5a61ac2c6209bcaee76e38ba2d972996a3736d0b1dc702314b74f",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-field-table-headings.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-field-table-headings.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-field-table-headings.png",
       "dimensions": [
         2360,
@@ -6213,7 +6213,7 @@
       "sha256": "486360905448651cde881ca403d99c9d0d10d38e2a88cf20dc2915d886d03c4e",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-field-table-populated.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-field-table-populated.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-field-table-populated.png",
       "dimensions": [
         2360,
@@ -6243,7 +6243,7 @@
       "sha256": "bf87ae33e7c841c69de0aea68985f78c121f595eb30c8b39ec12e76ee2bd0baf",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-width-padding.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-width-padding.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-width-padding.png",
       "dimensions": [
         2360,
@@ -6273,7 +6273,7 @@
       "sha256": "96450fd7fa4c12817ded700ee01b33488e8e2705961fb48d1755ddd3a5efea37",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-field-header-pinned.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-field-header-pinned.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-field-header-pinned.png",
       "dimensions": [
         2360,
@@ -6303,7 +6303,7 @@
       "sha256": "dbdd1d77c9db5ce93767559dff3c8e087ee4f9c1e501f038e2e3daec591f0031",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-practice-copy.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-practice-copy.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-practice-copy.png",
       "dimensions": [
         2360,
@@ -6333,7 +6333,7 @@
       "sha256": "87e70452098e998fe0a7a3a819b4aeb36ea3d86db8e8b82b6b0eb4d42dc7016a",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-pageless-warning.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-pageless-warning.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-pageless-warning.png",
       "dimensions": [
         2360,
@@ -6363,7 +6363,7 @@
       "sha256": "ab3521a7ccbe54a0c0cef71f95251b7018c358228cc73575857a9ba0606cdfd0",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-pageless-table.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-pageless-table.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-pageless-table.png",
       "dimensions": [
         2360,
@@ -6393,7 +6393,7 @@
       "sha256": "3f555149ee0bdad692e6fdc12b78ff1d9edfb71b51987e094cf3a69b618c2716",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-maintained-pages.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-maintained-pages.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-maintained-pages.png",
       "dimensions": [
         2360,
@@ -6423,7 +6423,7 @@
       "sha256": "57c9c9284247aa6d0b2295362c8a1ebb47e459d8d7702282e78d3ddecc15b631",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-numbered-checklist.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-numbered-checklist.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-numbered-checklist.png",
       "dimensions": [
         2360,
@@ -6453,7 +6453,7 @@
       "sha256": "8f88770bb89a1e4331c391e3fbf1b56c42f559afa0ddc6c9d599d83a93d24086",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-prepare-break-control.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-prepare-break-control.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-prepare-break-control.png",
       "dimensions": [
         2360,
@@ -6483,7 +6483,7 @@
       "sha256": "1e511c91666753f4b2498a0645330cd969781489fca0e82bc1f0623c7efedd51",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-prepare-after-break.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-prepare-after-break.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-prepare-after-break.png",
       "dimensions": [
         2360,
@@ -6513,7 +6513,7 @@
       "sha256": "cbff699e72b2b165b42635f784fefb198eef3c7a1aba69fca556ac7585c819d7",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-print-field-table.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-print-field-table.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-print-field-table.png",
       "dimensions": [
         2360,
@@ -6543,7 +6543,7 @@
       "sha256": "4f27a39413699d8fe5cdcd78b8b6867a777d67f7331d74734d887092b8db50ec",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-cleaned-spacing.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-cleaned-spacing.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-cleaned-spacing.png",
       "dimensions": [
         2360,
@@ -6573,7 +6573,7 @@
       "sha256": "dad4befb982ccc98893fb0e74935dfa55402c20c9e7d76274c176d8bf3b1e4c6",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-label-pagination.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-label-pagination.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-label-pagination.png",
       "dimensions": [
         2360,
@@ -6603,7 +6603,7 @@
       "sha256": "a71dbb435ba3e5f18a65d0b0ca5f5d224af72c81bcd58667e41edbd7043eba34",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-label-repaired.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-label-repaired.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-label-repaired.png",
       "dimensions": [
         2360,
@@ -6633,7 +6633,7 @@
       "sha256": "80799610677da39aedf9a3e5a93a201d9ea411a0e842155bb33f242581b592f0",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-pdf-baseline.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-pdf-baseline.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-pdf-baseline.png",
       "dimensions": [
         775,
@@ -6650,7 +6650,7 @@
       "sha256": "b511c98aaee6a2b7691efd100e481941d6bab79eac4eb321800808404433fe08",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-pdf-field-table.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-pdf-field-table.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-pdf-field-table.png",
       "dimensions": [
         775,
@@ -6667,7 +6667,7 @@
       "sha256": "cfbdddf41110276736092c175d4ddd215b9f5cc3dce296c323501255e905ff64",
       "notes": []
     },
-    "02-google-docs/04-page-layout/images/c02-04-pdf-label.jpg": {
+    "02-google-docs/04-page-layout/images/c02-04-pdf-label.png": {
       "source": "_design/screenshots/full/02-google-docs/04-page-layout/c02-04-pdf-label.png",
       "dimensions": [
         775,
@@ -6684,7 +6684,7 @@
       "sha256": "3530883f3ac53cd56ed4995792689108e39239c47a7b40c44c1b79022ddfdf21",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-01-mode-menu.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-01-mode-menu.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-01-mode-menu.png",
       "dimensions": [
         2360,
@@ -6714,7 +6714,7 @@
       "sha256": "936a7077d54858ce13de43d07d2003f2690e5c74714e283d41822767eaf18b7c",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-02-clarity-pending.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-02-clarity-pending.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-02-clarity-pending.png",
       "dimensions": [
         2360,
@@ -6750,7 +6750,7 @@
       "sha256": "e409a1c138d00e9b7ce2f4b0ead4b85a015cd0ee7152530a74d3fe2b0ca875e7",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-03-clarity-accepted.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-03-clarity-accepted.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-03-clarity-accepted.png",
       "dimensions": [
         2360,
@@ -6780,7 +6780,7 @@
       "sha256": "e2b1ac32001d09659938131e6c7026ae14426195d0d9e5aebfdc263573749cd7",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-04-budget-pending.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-04-budget-pending.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-04-budget-pending.png",
       "dimensions": [
         2360,
@@ -6816,7 +6816,7 @@
       "sha256": "983b74887bd18a9e4ff94a51d3b369a5eeba33046d1c326ec6c00b0de7a1c97b",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-05-budget-rejected.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-05-budget-rejected.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-05-budget-rejected.png",
       "dimensions": [
         2360,
@@ -6846,7 +6846,7 @@
       "sha256": "e72059f742a9d9f4b924535522561c00bc8e3f434b4c939b22d9f02165b39b66",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-06-date-comment-draft.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-06-date-comment-draft.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-06-date-comment-draft.png",
       "dimensions": [
         2360,
@@ -6882,7 +6882,7 @@
       "sha256": "78338eadd7d8fcb1bd46566169c2e79d527e1ea4b5bb202224d75c5cd34e1ded",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-07-date-source-reply.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-07-date-source-reply.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-07-date-source-reply.png",
       "dimensions": [
         2360,
@@ -6918,7 +6918,7 @@
       "sha256": "1d9da5884dd4413894079bb9413f2e5129d61dd8df64daa864c794f1071e5e45",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-08-date-reply-posted.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-08-date-reply-posted.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-08-date-reply-posted.png",
       "dimensions": [
         2360,
@@ -6960,7 +6960,7 @@
       "sha256": "fcc51d77e82a61d090e61581c2551779c8c6b389cd8cc71b17dd71cdd598cb74",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-09-date-editorial-resolved.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-09-date-editorial-resolved.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-09-date-editorial-resolved.png",
       "dimensions": [
         2360,
@@ -6990,7 +6990,7 @@
       "sha256": "f1392355010582b7061c7f68e472c26f1a7e97a4cb21239466efc042d2ba1331",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-10-version-menu.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-10-version-menu.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-10-version-menu.png",
       "dimensions": [
         2360,
@@ -7020,7 +7020,7 @@
       "sha256": "45902ccc367cbd6f5b05d7aa9e0e3e78cb322bfc3988605885a63493141348b6",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-11-milestone-name.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-11-milestone-name.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-11-milestone-name.png",
       "dimensions": [
         2360,
@@ -7050,7 +7050,7 @@
       "sha256": "25ad3753626afc3b4da1b74688fcf9f3d1987c183d2884273c29028bc09c1e3a",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-12-named-history.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-12-named-history.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-12-named-history.png",
       "dimensions": [
         2360,
@@ -7074,7 +7074,7 @@
       "sha256": "6a5a90525e8884b20773aa844d741a5f7bfc88b8d8f70d07e61e2418691e1ede",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-13-prior-version-inspection.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-13-prior-version-inspection.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-13-prior-version-inspection.png",
       "dimensions": [
         2360,
@@ -7098,7 +7098,7 @@
       "sha256": "e1a010ce02a14f8a679c55e9ea2a3d0ef4494700910953aa1077b302754c2b1f",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-15-editorial-baseline-name.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-15-editorial-baseline-name.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-15-editorial-baseline-name.png",
       "dimensions": [
         1591,
@@ -7122,7 +7122,7 @@
       "sha256": "36603702b23cd94fe4c198a70fa034f4f473500075ae7d1072d11d0dbb21974d",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-16-controlled-clarity-pending.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-16-controlled-clarity-pending.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-16-controlled-clarity-pending.png",
       "dimensions": [
         1591,
@@ -7152,7 +7152,7 @@
       "sha256": "67b2c42be3615a8a50f8ca95490729b9f7950967728af683af39a7819bd6d31b",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-17-controlled-clarity-accepted.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-17-controlled-clarity-accepted.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-17-controlled-clarity-accepted.png",
       "dimensions": [
         1591,
@@ -7176,7 +7176,7 @@
       "sha256": "58e4b5660a278e20ffe67eed345dbb297fe28fb13a527437e188de0d847c0bc1",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-18-budget-rejection-reason.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-18-budget-rejection-reason.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-18-budget-rejection-reason.png",
       "dimensions": [
         1591,
@@ -7212,7 +7212,7 @@
       "sha256": "5f922c2b1646ec5b2e2d17849ec43f774af0e868ef4fcbaa409b5c7bf671ff7d",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-19-controlled-budget-rejected.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-19-controlled-budget-rejected.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-19-controlled-budget-rejected.png",
       "dimensions": [
         1591,
@@ -7236,7 +7236,7 @@
       "sha256": "4d39bf130da481ef5a70c29b1464d23eeaeb8abfbc2e6030f2b45c3c19850eb9",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-20-contact-deferred-open.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-20-contact-deferred-open.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-20-contact-deferred-open.png",
       "dimensions": [
         1591,
@@ -7266,7 +7266,7 @@
       "sha256": "a0b07cba908d23aa3c0fe69b761ae3ded2ffe493213d589ccd276e94181d128e",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-21-friday-question-posted.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-21-friday-question-posted.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-21-friday-question-posted.png",
       "dimensions": [
         1591,
@@ -7296,7 +7296,7 @@
       "sha256": "9fbbc6ee461086276f7ad37cb0220b75254fa275e468451c48f4f5b56537374d",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-22-friday-source-reply.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-22-friday-source-reply.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-22-friday-source-reply.png",
       "dimensions": [
         1591,
@@ -7332,7 +7332,7 @@
       "sha256": "08cee1b0398dc05b93cee677b4bad96d1561dc4ac8e74bb0dc22f148636c01f1",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-23-friday-editorial-resolved.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-23-friday-editorial-resolved.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-23-friday-editorial-resolved.png",
       "dimensions": [
         1591,
@@ -7356,7 +7356,7 @@
       "sha256": "111193129732b868a035cca2b56d5071b05ef37dc3d1599e2e5a07971ebe392f",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-24-review-comparison-copy.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-24-review-comparison-copy.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-24-review-comparison-copy.png",
       "dimensions": [
         1591,
@@ -7380,7 +7380,7 @@
       "sha256": "ff2e7ec9ec3ec2487c627e84d36626805c9ff47c04b0949bc1862ba04d1562f7",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-25-baseline-history-selected.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-25-baseline-history-selected.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-25-baseline-history-selected.png",
       "dimensions": [
         1591,
@@ -7397,7 +7397,7 @@
       "sha256": "cc9224d4f2e0ef9bf867736b7c6c9ac9cb1c1c9d6922e53525c3c0a3513df2c9",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-26-baseline-version-copy.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-26-baseline-version-copy.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-26-baseline-version-copy.png",
       "dimensions": [
         1591,
@@ -7414,7 +7414,7 @@
       "sha256": "1ce1035df6c3dc5c7b27389fdf15ee21f7678a4391f6eb8e7d73eacf0dbbe5bd",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-27-comparison-only-approval-proposal.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-27-comparison-only-approval-proposal.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-27-comparison-only-approval-proposal.png",
       "dimensions": [
         1591,
@@ -7438,7 +7438,7 @@
       "sha256": "69cc6750153cc0a459244e9e5c271b9ea55eb109e9130437ad079bf0e009c24e",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-28-tools-compare-command.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-28-tools-compare-command.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-28-tools-compare-command.png",
       "dimensions": [
         1591,
@@ -7462,7 +7462,7 @@
       "sha256": "ee2a3c9b33645e9326f3b8cc224dc666cc2df971681094b0f6b87659260faa5b",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-30-baseline-original-clarity.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-30-baseline-original-clarity.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-30-baseline-original-clarity.png",
       "dimensions": [
         1591,
@@ -7486,7 +7486,7 @@
       "sha256": "39a4b0714b4582c4ce3ef39208454b4289ba1ebdb0355724cbb5aecb034ce9de",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-31-comparison-accepted-clarity.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-31-comparison-accepted-clarity.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-31-comparison-accepted-clarity.png",
       "dimensions": [
         1591,
@@ -7510,7 +7510,7 @@
       "sha256": "3f2e653362359209987aa988ad9c997a0812dfc99fe1508cf40685a1b7e1d7d3",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-32-baseline-proposed-budget.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-32-baseline-proposed-budget.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-32-baseline-proposed-budget.png",
       "dimensions": [
         1591,
@@ -7534,7 +7534,7 @@
       "sha256": "eeea5b07c4d153707fc38ee19edcc963b431afaeb0869eee79b057f95fe6f947",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-33-four-review-decisions.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-33-four-review-decisions.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-33-four-review-decisions.png",
       "dimensions": [
         1591,
@@ -7558,7 +7558,7 @@
       "sha256": "a218c99be26d959f34fcf0306a610c42e2ed138611f14ba611d236e131d68f1f",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-34-manual-comparison-record.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-34-manual-comparison-record.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-34-manual-comparison-record.png",
       "dimensions": [
         1591,
@@ -7582,7 +7582,7 @@
       "sha256": "691bde98e314a88aa63bf258664d6ecc4b06fdc30bbc741b0a1a26eaba016ad6",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-35-checked-milestone-name.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-35-checked-milestone-name.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-35-checked-milestone-name.png",
       "dimensions": [
         1591,
@@ -7606,7 +7606,7 @@
       "sha256": "b82f9a84cef2b7c96590d8e4065e26a168992a208de6865ce339508cf7df1e0f",
       "notes": []
     },
-    "02-google-docs/05-review-collaboration/images/c02-05-36-baseline-and-checked-history.jpg": {
+    "02-google-docs/05-review-collaboration/images/c02-05-36-baseline-and-checked-history.png": {
       "source": "_design/screenshots/full/02-google-docs/05-review-collaboration/c02-05-36-baseline-and-checked-history.png",
       "dimensions": [
         1591,
@@ -7623,7 +7623,7 @@
       "sha256": "e55d32f544498c11fa18400798aab615e2bb760da6437fa022c3c795d8c781a7",
       "notes": []
     },
-    "02-google-docs/06-adapt-accessibility/images/c02-06-01-sponsor-panel-request.jpg": {
+    "02-google-docs/06-adapt-accessibility/images/c02-06-01-sponsor-panel-request.png": {
       "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-01-sponsor-panel-request.png",
       "dimensions": [
         1591,
@@ -7649,7 +7649,7 @@
         "Current-stage capture; raw unmasked original retained privately."
       ]
     },
-    "02-google-docs/06-adapt-accessibility/images/c02-06-04-sponsor-summary-complete.jpg": {
+    "02-google-docs/06-adapt-accessibility/images/c02-06-04-sponsor-summary-complete.png": {
       "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-04-sponsor-summary-complete.png",
       "dimensions": [
         1591,
@@ -7675,7 +7675,7 @@
         "Current-stage capture; raw unmasked original retained privately."
       ]
     },
-    "02-google-docs/06-adapt-accessibility/images/c02-06-06-malay-panel-draft.jpg": {
+    "02-google-docs/06-adapt-accessibility/images/c02-06-06-malay-panel-draft.png": {
       "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-06-malay-panel-draft.png",
       "dimensions": [
         1591,
@@ -7701,7 +7701,7 @@
         "Current-stage capture; raw unmasked original retained privately."
       ]
     },
-    "02-google-docs/06-adapt-accessibility/images/c02-06-07-malay-practice-inserted.jpg": {
+    "02-google-docs/06-adapt-accessibility/images/c02-06-07-malay-practice-inserted.png": {
       "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-07-malay-practice-inserted.png",
       "dimensions": [
         1591,
@@ -7727,7 +7727,7 @@
         "Current-stage capture; raw unmasked original retained privately."
       ]
     },
-    "02-google-docs/06-adapt-accessibility/images/c02-06-08-glossary-and-review-pending.jpg": {
+    "02-google-docs/06-adapt-accessibility/images/c02-06-08-glossary-and-review-pending.png": {
       "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-08-glossary-and-review-pending.png",
       "dimensions": [
         1591,
@@ -7753,7 +7753,7 @@
         "Current-stage capture; raw unmasked original retained privately."
       ]
     },
-    "02-google-docs/06-adapt-accessibility/images/c02-06-09-structure-and-descriptive-links.jpg": {
+    "02-google-docs/06-adapt-accessibility/images/c02-06-09-structure-and-descriptive-links.png": {
       "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-09-structure-and-descriptive-links.png",
       "dimensions": [
         1591,
@@ -7785,7 +7785,7 @@
         "Current-stage capture; raw unmasked original retained privately."
       ]
     },
-    "02-google-docs/06-adapt-accessibility/images/c02-06-14-complete-meaning-table.jpg": {
+    "02-google-docs/06-adapt-accessibility/images/c02-06-14-complete-meaning-table.png": {
       "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-14-complete-meaning-table.png",
       "dimensions": [
         1591,
@@ -7811,7 +7811,7 @@
         "Current-stage capture; raw unmasked original retained privately."
       ]
     },
-    "02-google-docs/06-adapt-accessibility/images/c02-06-17-final-analysis-clean-view.jpg": {
+    "02-google-docs/06-adapt-accessibility/images/c02-06-17-final-analysis-clean-view.png": {
       "source": "_design/screenshots/full/02-google-docs/06-adapt-accessibility/c02-06-17-final-analysis-clean-view.png",
       "dimensions": [
         1591,
@@ -7837,7 +7837,7 @@
         "Current-stage capture; raw unmasked original retained privately."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-01-download-formats.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-01-download-formats.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-01-download-formats.png",
       "dimensions": [
         1591,
@@ -7863,7 +7863,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-02-release-copy-excludes-comments.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-02-release-copy-excludes-comments.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-02-release-copy-excludes-comments.png",
       "dimensions": [
         1591,
@@ -7889,7 +7889,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-04-examples-tab-scope-marker.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-04-examples-tab-scope-marker.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-04-examples-tab-scope-marker.png",
       "dimensions": [
         1591,
@@ -7915,7 +7915,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-06-current-tab-export-scope.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-06-current-tab-export-scope.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-06-current-tab-export-scope.png",
       "dimensions": [
         1591,
@@ -7941,7 +7941,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-07-all-tabs-complete-scope.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-07-all-tabs-complete-scope.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-07-all-tabs-complete-scope.png",
       "dimensions": [
         1591,
@@ -7967,7 +7967,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-08-word-all-tabs-scope.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-08-word-all-tabs-scope.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-08-word-all-tabs-scope.png",
       "dimensions": [
         1591,
@@ -7993,7 +7993,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-09-round-trip-heading-and-links.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-09-round-trip-heading-and-links.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-09-round-trip-heading-and-links.png",
       "dimensions": [
         1591,
@@ -8019,7 +8019,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-10-round-trip-status-link-destination.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-10-round-trip-status-link-destination.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-10-round-trip-status-link-destination.png",
       "dimensions": [
         1591,
@@ -8045,7 +8045,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-11-round-trip-missing-owner-destination.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-11-round-trip-missing-owner-destination.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-11-round-trip-missing-owner-destination.png",
       "dimensions": [
         1591,
@@ -8071,7 +8071,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-13-round-trip-contents-destination.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-13-round-trip-contents-destination.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-13-round-trip-contents-destination.png",
       "dimensions": [
         1591,
@@ -8097,7 +8097,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-16-native-comparison-format-flags.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-16-native-comparison-format-flags.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-16-native-comparison-format-flags.png",
       "dimensions": [
         1591,
@@ -8147,7 +8147,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-17-examples-numbering-repaired.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-17-examples-numbering-repaired.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-17-examples-numbering-repaired.png",
       "dimensions": [
         1591,
@@ -8173,7 +8173,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-19-r2-procedure-instruction-checked.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-19-r2-procedure-instruction-checked.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-19-r2-procedure-instruction-checked.png",
       "dimensions": [
         1591,
@@ -8199,7 +8199,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-21-r2-source-record-clean.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-21-r2-source-record-clean.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-21-r2-source-record-clean.png",
       "dimensions": [
         1591,
@@ -8225,7 +8225,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-22-release-r2-name.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-22-release-r2-name.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-22-release-r2-name.png",
       "dimensions": [
         1591,
@@ -8251,7 +8251,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-23-initial-pdf-reader-copy.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-23-initial-pdf-reader-copy.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-23-initial-pdf-reader-copy.png",
       "dimensions": [
         656,
@@ -8265,7 +8265,7 @@
         "Offline native-export page render; browser local-file URL was blocked."
       ]
     },
-    "02-google-docs/07-export-check/images/c02-07-24-r2-pdf-numbered-examples.jpg": {
+    "02-google-docs/07-export-check/images/c02-07-24-r2-pdf-numbered-examples.png": {
       "source": "_design/screenshots/full/02-google-docs/07-export-check/c02-07-24-r2-pdf-numbered-examples.png",
       "dimensions": [
         656,
@@ -8279,7 +8279,7 @@
         "Offline native-export page render; browser local-file URL was blocked."
       ]
     },
-    "02-google-docs/08-procedure-challenge/images/c02-08-01-owner-clarification-subsection.jpg": {
+    "02-google-docs/08-procedure-challenge/images/c02-08-01-owner-clarification-subsection.png": {
       "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-01-owner-clarification-subsection.png",
       "dimensions": [
         1591,
@@ -8305,7 +8305,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/08-procedure-challenge/images/c02-08-02-opening-owner-clarification-link.jpg": {
+    "02-google-docs/08-procedure-challenge/images/c02-08-02-opening-owner-clarification-link.png": {
       "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-02-opening-owner-clarification-link.png",
       "dimensions": [
         1591,
@@ -8337,7 +8337,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/08-procedure-challenge/images/c02-08-03-contents-refreshed.jpg": {
+    "02-google-docs/08-procedure-challenge/images/c02-08-03-contents-refreshed.png": {
       "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-03-contents-refreshed.png",
       "dimensions": [
         1591,
@@ -8369,7 +8369,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/08-procedure-challenge/images/c02-08-04-opening-link-reaches-owner-route.jpg": {
+    "02-google-docs/08-procedure-challenge/images/c02-08-04-opening-link-reaches-owner-route.png": {
       "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-04-opening-link-reaches-owner-route.png",
       "dimensions": [
         1591,
@@ -8395,7 +8395,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/08-procedure-challenge/images/c02-08-05-core-review-and-handover-record.jpg": {
+    "02-google-docs/08-procedure-challenge/images/c02-08-05-core-review-and-handover-record.png": {
       "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-05-core-review-and-handover-record.png",
       "dimensions": [
         1591,
@@ -8421,7 +8421,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/08-procedure-challenge/images/c02-08-06-procedure-challenge-checked-version.jpg": {
+    "02-google-docs/08-procedure-challenge/images/c02-08-06-procedure-challenge-checked-version.png": {
       "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-06-procedure-challenge-checked-version.png",
       "dimensions": [
         1591,
@@ -8447,7 +8447,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/08-procedure-challenge/images/c02-08-07-capstone-copy-private.jpg": {
+    "02-google-docs/08-procedure-challenge/images/c02-08-07-capstone-copy-private.png": {
       "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-07-capstone-copy-private.png",
       "dimensions": [
         1591,
@@ -8473,7 +8473,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/08-procedure-challenge/images/c02-08-08-impact-list-before-route-edits.jpg": {
+    "02-google-docs/08-procedure-challenge/images/c02-08-08-impact-list-before-route-edits.png": {
       "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-08-impact-list-before-route-edits.png",
       "dimensions": [
         1591,
@@ -8499,7 +8499,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/08-procedure-challenge/images/c02-08-09-three-case-escalation-route.jpg": {
+    "02-google-docs/08-procedure-challenge/images/c02-08-09-three-case-escalation-route.png": {
       "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-09-three-case-escalation-route.png",
       "dimensions": [
         1591,
@@ -8525,7 +8525,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/08-procedure-challenge/images/c02-08-10-proposed-review-checklist.jpg": {
+    "02-google-docs/08-procedure-challenge/images/c02-08-10-proposed-review-checklist.png": {
       "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-10-proposed-review-checklist.png",
       "dimensions": [
         1591,
@@ -8551,7 +8551,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/08-procedure-challenge/images/c02-08-12-two-audience-versions-checked.jpg": {
+    "02-google-docs/08-procedure-challenge/images/c02-08-12-two-audience-versions-checked.png": {
       "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-12-two-audience-versions-checked.png",
       "dimensions": [
         1591,
@@ -8577,7 +8577,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/08-procedure-challenge/images/c02-08-13-three-case-author-walkthrough.jpg": {
+    "02-google-docs/08-procedure-challenge/images/c02-08-13-three-case-author-walkthrough.png": {
       "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-13-three-case-author-walkthrough.png",
       "dimensions": [
         1591,
@@ -8603,7 +8603,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/08-procedure-challenge/images/c02-08-15-contents-link-reaches-escalation.jpg": {
+    "02-google-docs/08-procedure-challenge/images/c02-08-15-contents-link-reaches-escalation.png": {
       "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-15-contents-link-reaches-escalation.png",
       "dimensions": [
         1591,
@@ -8629,7 +8629,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/08-procedure-challenge/images/c02-08-16-reader-test-explicitly-pending.jpg": {
+    "02-google-docs/08-procedure-challenge/images/c02-08-16-reader-test-explicitly-pending.png": {
       "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-16-reader-test-explicitly-pending.png",
       "dimensions": [
         1591,
@@ -8655,7 +8655,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/08-procedure-challenge/images/c02-08-17-capstone-opening-and-refreshed-contents.jpg": {
+    "02-google-docs/08-procedure-challenge/images/c02-08-17-capstone-opening-and-refreshed-contents.png": {
       "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-17-capstone-opening-and-refreshed-contents.png",
       "dimensions": [
         1591,
@@ -8681,7 +8681,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/08-procedure-challenge/images/c02-08-18-procedure-capstone-checked-version.jpg": {
+    "02-google-docs/08-procedure-challenge/images/c02-08-18-procedure-capstone-checked-version.png": {
       "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-18-procedure-capstone-checked-version.png",
       "dimensions": [
         1591,
@@ -8707,7 +8707,7 @@
         "Real current-stage application-window capture."
       ]
     },
-    "02-google-docs/08-procedure-challenge/images/c02-08-19-core-pdf-layout-check.jpg": {
+    "02-google-docs/08-procedure-challenge/images/c02-08-19-core-pdf-layout-check.png": {
       "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-19-core-pdf-layout-check.png",
       "dimensions": [
         656,
@@ -8721,7 +8721,7 @@
         "Offline native-export page render; not an interactive PDF-viewer test."
       ]
     },
-    "02-google-docs/08-procedure-challenge/images/c02-08-20-complete-pdf-reader-record.jpg": {
+    "02-google-docs/08-procedure-challenge/images/c02-08-20-complete-pdf-reader-record.png": {
       "source": "_design/screenshots/full/02-google-docs/08-procedure-challenge/c02-08-20-complete-pdf-reader-record.png",
       "dimensions": [
         656,
@@ -8735,7 +8735,7 @@
         "Offline native-export page render; not an interactive PDF-viewer test."
       ]
     },
-    "03-google-slides/01-story-plan/images/c03-01-01-sponsor-decision-and-conditions.jpg": {
+    "03-google-slides/01-story-plan/images/c03-01-01-sponsor-decision-and-conditions.png": {
       "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-01-sponsor-decision-and-conditions.png",
       "dimensions": [
         1591,
@@ -8761,7 +8761,7 @@
         "Real current-stage planning-Doc/Gemini application-window capture."
       ]
     },
-    "03-google-slides/01-story-plan/images/c03-01-02-human-six-slide-outline.jpg": {
+    "03-google-slides/01-story-plan/images/c03-01-02-human-six-slide-outline.png": {
       "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-02-human-six-slide-outline.png",
       "dimensions": [
         1591,
@@ -8787,7 +8787,7 @@
         "Real current-stage planning-Doc/Gemini application-window capture."
       ]
     },
-    "03-google-slides/01-story-plan/images/c03-01-03-grounded-outline-prompt.jpg": {
+    "03-google-slides/01-story-plan/images/c03-01-03-grounded-outline-prompt.png": {
       "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-03-grounded-outline-prompt.png",
       "dimensions": [
         1591,
@@ -8813,7 +8813,7 @@
         "Real current-stage planning-Doc/Gemini application-window capture."
       ]
     },
-    "03-google-slides/01-story-plan/images/c03-01-04-gemini-purpose-and-scope-proposal.jpg": {
+    "03-google-slides/01-story-plan/images/c03-01-04-gemini-purpose-and-scope-proposal.png": {
       "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-04-gemini-purpose-and-scope-proposal.png",
       "dimensions": [
         1591,
@@ -8839,7 +8839,7 @@
         "Real current-stage planning-Doc/Gemini application-window capture."
       ]
     },
-    "03-google-slides/01-story-plan/images/c03-01-05-gemini-budget-and-decision-proposal.jpg": {
+    "03-google-slides/01-story-plan/images/c03-01-05-gemini-budget-and-decision-proposal.png": {
       "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-05-gemini-budget-and-decision-proposal.png",
       "dimensions": [
         1591,
@@ -8865,7 +8865,7 @@
         "Real current-stage planning-Doc/Gemini application-window capture."
       ]
     },
-    "03-google-slides/01-story-plan/images/c03-01-06-human-ai-comparison-and-revision.jpg": {
+    "03-google-slides/01-story-plan/images/c03-01-06-human-ai-comparison-and-revision.png": {
       "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-06-human-ai-comparison-and-revision.png",
       "dimensions": [
         1591,
@@ -8891,7 +8891,7 @@
         "Real current-stage planning-Doc/Gemini application-window capture."
       ]
     },
-    "03-google-slides/01-story-plan/images/c03-01-07-outline-acceptance-and-pending-rehearsal.jpg": {
+    "03-google-slides/01-story-plan/images/c03-01-07-outline-acceptance-and-pending-rehearsal.png": {
       "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-07-outline-acceptance-and-pending-rehearsal.png",
       "dimensions": [
         1591,
@@ -8917,7 +8917,7 @@
         "Real current-stage planning-Doc/Gemini application-window capture."
       ]
     },
-    "03-google-slides/01-story-plan/images/c03-01-08-six-row-evidence-storyboard.jpg": {
+    "03-google-slides/01-story-plan/images/c03-01-08-six-row-evidence-storyboard.png": {
       "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-08-six-row-evidence-storyboard.png",
       "dimensions": [
         1591,
@@ -8943,7 +8943,7 @@
         "Real current-stage planning-Doc/Gemini application-window capture."
       ]
     },
-    "03-google-slides/01-story-plan/images/c03-01-09-open-decisions-and-task-inventory.jpg": {
+    "03-google-slides/01-story-plan/images/c03-01-09-open-decisions-and-task-inventory.png": {
       "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-09-open-decisions-and-task-inventory.png",
       "dimensions": [
         1591,
@@ -8969,7 +8969,7 @@
         "Real current-stage planning-Doc/Gemini application-window capture."
       ]
     },
-    "03-google-slides/01-story-plan/images/c03-01-10-stakeholder-claim-classification.jpg": {
+    "03-google-slides/01-story-plan/images/c03-01-10-stakeholder-claim-classification.png": {
       "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-10-stakeholder-claim-classification.png",
       "dimensions": [
         1591,
@@ -8995,7 +8995,7 @@
         "Real current-stage planning-Doc/Gemini application-window capture."
       ]
     },
-    "03-google-slides/01-story-plan/images/c03-01-11-opening-closing-and-timing-limit.jpg": {
+    "03-google-slides/01-story-plan/images/c03-01-11-opening-closing-and-timing-limit.png": {
       "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-11-opening-closing-and-timing-limit.png",
       "dimensions": [
         1591,
@@ -9021,7 +9021,7 @@
         "Real current-stage planning-Doc/Gemini application-window capture."
       ]
     },
-    "03-google-slides/01-story-plan/images/c03-01-12-appendices-and-pending-partner-review.jpg": {
+    "03-google-slides/01-story-plan/images/c03-01-12-appendices-and-pending-partner-review.png": {
       "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-12-appendices-and-pending-partner-review.png",
       "dimensions": [
         1591,
@@ -9047,7 +9047,7 @@
         "Real current-stage planning-Doc/Gemini application-window capture."
       ]
     },
-    "03-google-slides/01-story-plan/images/c03-01-13-story-plan-checked-version.jpg": {
+    "03-google-slides/01-story-plan/images/c03-01-13-story-plan-checked-version.png": {
       "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-13-story-plan-checked-version.png",
       "dimensions": [
         1591,
@@ -9073,7 +9073,7 @@
         "Real current-stage planning-Doc/Gemini application-window capture."
       ]
     },
-    "03-google-slides/01-story-plan/images/c03-01-14-checked-layout-repair-version.jpg": {
+    "03-google-slides/01-story-plan/images/c03-01-14-checked-layout-repair-version.png": {
       "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-14-checked-layout-repair-version.png",
       "dimensions": [
         1591,
@@ -9099,7 +9099,7 @@
         "Real current-stage planning-Doc/Gemini application-window capture."
       ]
     },
-    "03-google-slides/01-story-plan/images/c03-01-15-pdf-storyboard-layout-checked.jpg": {
+    "03-google-slides/01-story-plan/images/c03-01-15-pdf-storyboard-layout-checked.png": {
       "source": "_design/screenshots/full/03-google-slides/01-story-plan/c03-01-15-pdf-storyboard-layout-checked.png",
       "dimensions": [
         927,
@@ -9113,7 +9113,7 @@
         "Offline native-export PDF page render; not an interactive PDF-viewer test."
       ]
     },
-    "03-google-slides/02-deck-setup/images/c03-02-01-simple-light-theme.jpg": {
+    "03-google-slides/02-deck-setup/images/c03-02-01-simple-light-theme.png": {
       "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-01-simple-light-theme.png",
       "dimensions": [
         1591,
@@ -9134,7 +9134,7 @@
         "Real current-stage Slides UI. Full original application window retained."
       ]
     },
-    "03-google-slides/02-deck-setup/images/c03-02-02-six-slide-structure.jpg": {
+    "03-google-slides/02-deck-setup/images/c03-02-02-six-slide-structure.png": {
       "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-02-six-slide-structure.png",
       "dimensions": [
         1591,
@@ -9155,7 +9155,7 @@
         "Real current-stage Slides UI. Full original application window retained."
       ]
     },
-    "03-google-slides/02-deck-setup/images/c03-02-03-backup-skip-menu.jpg": {
+    "03-google-slides/02-deck-setup/images/c03-02-03-backup-skip-menu.png": {
       "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-03-backup-skip-menu.png",
       "dimensions": [
         1591,
@@ -9176,7 +9176,7 @@
         "Real current-stage Slides UI. Full original application window retained."
       ]
     },
-    "03-google-slides/02-deck-setup/images/c03-02-04-skipped-backup.jpg": {
+    "03-google-slides/02-deck-setup/images/c03-02-04-skipped-backup.png": {
       "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-04-skipped-backup.png",
       "dimensions": [
         1591,
@@ -9197,7 +9197,7 @@
         "Real current-stage Slides UI. Full original application window retained."
       ]
     },
-    "03-google-slides/02-deck-setup/images/c03-02-05-slideshow-skips-backup.jpg": {
+    "03-google-slides/02-deck-setup/images/c03-02-05-slideshow-skips-backup.png": {
       "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-05-slideshow-skips-backup.png",
       "dimensions": [
         1591,
@@ -9218,7 +9218,7 @@
         "Real current-stage Slides UI. Full original application window retained."
       ]
     },
-    "03-google-slides/02-deck-setup/images/c03-02-06-disposable-source.jpg": {
+    "03-google-slides/02-deck-setup/images/c03-02-06-disposable-source.png": {
       "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-06-disposable-source.png",
       "dimensions": [
         1591,
@@ -9239,7 +9239,7 @@
         "Real current-stage Slides UI. Full original application window retained."
       ]
     },
-    "03-google-slides/02-deck-setup/images/c03-02-07-import-picker-blank.jpg": {
+    "03-google-slides/02-deck-setup/images/c03-02-07-import-picker-blank.png": {
       "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-07-import-picker-blank.png",
       "dimensions": [
         1591,
@@ -9260,7 +9260,7 @@
         "Real current-stage Slides UI. Full original application window retained. Import picker capture documents an unresolved blocker."
       ]
     },
-    "03-google-slides/02-deck-setup/images/c03-02-08-evidence-gap-appendix.jpg": {
+    "03-google-slides/02-deck-setup/images/c03-02-08-evidence-gap-appendix.png": {
       "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-08-evidence-gap-appendix.png",
       "dimensions": [
         1591,
@@ -9281,7 +9281,7 @@
         "Real current-stage Slides UI. Full original application window retained."
       ]
     },
-    "03-google-slides/02-deck-setup/images/c03-02-09-practice-theme-accent.jpg": {
+    "03-google-slides/02-deck-setup/images/c03-02-09-practice-theme-accent.png": {
       "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-09-practice-theme-accent.png",
       "dimensions": [
         1591,
@@ -9302,7 +9302,7 @@
         "Real current-stage Slides UI. Full original application window retained."
       ]
     },
-    "03-google-slides/02-deck-setup/images/c03-02-10-linked-versus-manual-colour.jpg": {
+    "03-google-slides/02-deck-setup/images/c03-02-10-linked-versus-manual-colour.png": {
       "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-10-linked-versus-manual-colour.png",
       "dimensions": [
         1591,
@@ -9323,7 +9323,7 @@
         "Real current-stage Slides UI. Full original application window retained."
       ]
     },
-    "03-google-slides/02-deck-setup/images/c03-02-11-decision-navigation.jpg": {
+    "03-google-slides/02-deck-setup/images/c03-02-11-decision-navigation.png": {
       "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-11-decision-navigation.png",
       "dimensions": [
         1591,
@@ -9344,7 +9344,7 @@
         "Real current-stage Slides UI. Full original application window retained."
       ]
     },
-    "03-google-slides/02-deck-setup/images/c03-02-12-source-appendix-navigation.jpg": {
+    "03-google-slides/02-deck-setup/images/c03-02-12-source-appendix-navigation.png": {
       "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-12-source-appendix-navigation.png",
       "dimensions": [
         1591,
@@ -9365,7 +9365,7 @@
         "Real current-stage Slides UI. Full original application window retained."
       ]
     },
-    "03-google-slides/02-deck-setup/images/c03-02-13-reusable-decisions.jpg": {
+    "03-google-slides/02-deck-setup/images/c03-02-13-reusable-decisions.png": {
       "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-13-reusable-decisions.png",
       "dimensions": [
         1591,
@@ -9386,7 +9386,7 @@
         "Real current-stage Slides UI. Full original application window retained."
       ]
     },
-    "03-google-slides/02-deck-setup/images/c03-02-14-reusable-structure-grid.jpg": {
+    "03-google-slides/02-deck-setup/images/c03-02-14-reusable-structure-grid.png": {
       "source": "_design/screenshots/full/03-google-slides/02-deck-setup/c03-02-14-reusable-structure-grid.png",
       "dimensions": [
         1591,
@@ -9407,7 +9407,7 @@
         "Real current-stage Slides UI. Full original application window retained."
       ]
     },
-    "03-google-slides/03-clear-layouts/images/c03-03-01-descriptive-purpose.jpg": {
+    "03-google-slides/03-clear-layouts/images/c03-03-01-descriptive-purpose.png": {
       "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-01-descriptive-purpose.png",
       "dimensions": [
         1591,
@@ -9428,7 +9428,7 @@
         "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
       ]
     },
-    "03-google-slides/03-clear-layouts/images/c03-03-02-teams-and-outputs.jpg": {
+    "03-google-slides/03-clear-layouts/images/c03-03-02-teams-and-outputs.png": {
       "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-02-teams-and-outputs.png",
       "dimensions": [
         1591,
@@ -9449,7 +9449,7 @@
         "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
       ]
     },
-    "03-google-slides/03-clear-layouts/images/c03-03-03-decision-conditions.jpg": {
+    "03-google-slides/03-clear-layouts/images/c03-03-03-decision-conditions.png": {
       "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-03-decision-conditions.png",
       "dimensions": [
         1591,
@@ -9470,7 +9470,7 @@
         "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
       ]
     },
-    "03-google-slides/03-clear-layouts/images/c03-03-04-align-placeholders-menu.jpg": {
+    "03-google-slides/03-clear-layouts/images/c03-03-04-align-placeholders-menu.png": {
       "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-04-align-placeholders-menu.png",
       "dimensions": [
         1591,
@@ -9491,7 +9491,7 @@
         "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
       ]
     },
-    "03-google-slides/03-clear-layouts/images/c03-03-05-scope-source-notes.jpg": {
+    "03-google-slides/03-clear-layouts/images/c03-03-05-scope-source-notes.png": {
       "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-05-scope-source-notes.png",
       "dimensions": [
         1591,
@@ -9512,7 +9512,7 @@
         "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
       ]
     },
-    "03-google-slides/03-clear-layouts/images/c03-03-06-evidence-title-and-notes.jpg": {
+    "03-google-slides/03-clear-layouts/images/c03-03-06-evidence-title-and-notes.png": {
       "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-06-evidence-title-and-notes.png",
       "dimensions": [
         1591,
@@ -9533,7 +9533,7 @@
         "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
       ]
     },
-    "03-google-slides/03-clear-layouts/images/c03-03-07-budget-title-and-notes.jpg": {
+    "03-google-slides/03-clear-layouts/images/c03-03-07-budget-title-and-notes.png": {
       "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-07-budget-title-and-notes.png",
       "dimensions": [
         1591,
@@ -9554,7 +9554,7 @@
         "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
       ]
     },
-    "03-google-slides/03-clear-layouts/images/c03-03-08-purpose-presentation-check.jpg": {
+    "03-google-slides/03-clear-layouts/images/c03-03-08-purpose-presentation-check.png": {
       "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-08-purpose-presentation-check.png",
       "dimensions": [
         1591,
@@ -9568,7 +9568,7 @@
         "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
       ]
     },
-    "03-google-slides/03-clear-layouts/images/c03-03-09-risk-presentation-check.jpg": {
+    "03-google-slides/03-clear-layouts/images/c03-03-09-risk-presentation-check.png": {
       "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-09-risk-presentation-check.png",
       "dimensions": [
         1591,
@@ -9582,7 +9582,7 @@
         "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
       ]
     },
-    "03-google-slides/03-clear-layouts/images/c03-03-10-decisions-presentation-check.jpg": {
+    "03-google-slides/03-clear-layouts/images/c03-03-10-decisions-presentation-check.png": {
       "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-10-decisions-presentation-check.png",
       "dimensions": [
         1591,
@@ -9596,7 +9596,7 @@
         "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
       ]
     },
-    "03-google-slides/03-clear-layouts/images/c03-03-11-next-steps-presentation-check.jpg": {
+    "03-google-slides/03-clear-layouts/images/c03-03-11-next-steps-presentation-check.png": {
       "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-11-next-steps-presentation-check.png",
       "dimensions": [
         1591,
@@ -9610,7 +9610,7 @@
         "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
       ]
     },
-    "03-google-slides/03-clear-layouts/images/c03-03-12-dense-draft-preserved.jpg": {
+    "03-google-slides/03-clear-layouts/images/c03-03-12-dense-draft-preserved.png": {
       "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-12-dense-draft-preserved.png",
       "dimensions": [
         1591,
@@ -9631,7 +9631,7 @@
         "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
       ]
     },
-    "03-google-slides/03-clear-layouts/images/c03-03-13-three-point-redesign.jpg": {
+    "03-google-slides/03-clear-layouts/images/c03-03-13-three-point-redesign.png": {
       "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-13-three-point-redesign.png",
       "dimensions": [
         1591,
@@ -9652,7 +9652,7 @@
         "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
       ]
     },
-    "03-google-slides/03-clear-layouts/images/c03-03-14-distribute-team-cards-menu.jpg": {
+    "03-google-slides/03-clear-layouts/images/c03-03-14-distribute-team-cards-menu.png": {
       "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-14-distribute-team-cards-menu.png",
       "dimensions": [
         1591,
@@ -9673,7 +9673,7 @@
         "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
       ]
     },
-    "03-google-slides/03-clear-layouts/images/c03-03-15-aligned-team-layout.jpg": {
+    "03-google-slides/03-clear-layouts/images/c03-03-15-aligned-team-layout.png": {
       "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-15-aligned-team-layout.png",
       "dimensions": [
         1591,
@@ -9694,7 +9694,7 @@
         "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
       ]
     },
-    "03-google-slides/03-clear-layouts/images/c03-03-16-proposed-output-diagram.jpg": {
+    "03-google-slides/03-clear-layouts/images/c03-03-16-proposed-output-diagram.png": {
       "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-16-proposed-output-diagram.png",
       "dimensions": [
         1591,
@@ -9715,7 +9715,7 @@
         "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
       ]
     },
-    "03-google-slides/03-clear-layouts/images/c03-03-17-dense-presentation-check.jpg": {
+    "03-google-slides/03-clear-layouts/images/c03-03-17-dense-presentation-check.png": {
       "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-17-dense-presentation-check.png",
       "dimensions": [
         1591,
@@ -9729,7 +9729,7 @@
         "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
       ]
     },
-    "03-google-slides/03-clear-layouts/images/c03-03-18-redesign-presentation-check.jpg": {
+    "03-google-slides/03-clear-layouts/images/c03-03-18-redesign-presentation-check.png": {
       "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-18-redesign-presentation-check.png",
       "dimensions": [
         1591,
@@ -9743,7 +9743,7 @@
         "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
       ]
     },
-    "03-google-slides/03-clear-layouts/images/c03-03-19-teams-presentation-check.jpg": {
+    "03-google-slides/03-clear-layouts/images/c03-03-19-teams-presentation-check.png": {
       "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-19-teams-presentation-check.png",
       "dimensions": [
         1591,
@@ -9757,7 +9757,7 @@
         "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
       ]
     },
-    "03-google-slides/03-clear-layouts/images/c03-03-20-outputs-presentation-check.jpg": {
+    "03-google-slides/03-clear-layouts/images/c03-03-20-outputs-presentation-check.png": {
       "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-20-outputs-presentation-check.png",
       "dimensions": [
         1591,
@@ -9771,7 +9771,7 @@
         "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
       ]
     },
-    "03-google-slides/03-clear-layouts/images/c03-03-21-explanation-and-pending-review.jpg": {
+    "03-google-slides/03-clear-layouts/images/c03-03-21-explanation-and-pending-review.png": {
       "source": "_design/screenshots/full/03-google-slides/03-clear-layouts/c03-03-21-explanation-and-pending-review.png",
       "dimensions": [
         1591,
@@ -9792,7 +9792,7 @@
         "Real current-stage Slides editor or Slideshow application-window capture. Full original dimensions retained; no crops."
       ]
     },
-    "03-google-slides/04-visual-assets/images/c03-04-01-labelled-scope-workflow.jpg": {
+    "03-google-slides/04-visual-assets/images/c03-04-01-labelled-scope-workflow.png": {
       "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-01-labelled-scope-workflow.png",
       "dimensions": [
         1591,
@@ -9813,7 +9813,7 @@
         "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
       ]
     },
-    "03-google-slides/04-visual-assets/images/c03-04-02-bounded-image-prompt.jpg": {
+    "03-google-slides/04-visual-assets/images/c03-04-02-bounded-image-prompt.png": {
       "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-02-bounded-image-prompt.png",
       "dimensions": [
         1591,
@@ -9834,7 +9834,7 @@
         "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
       ]
     },
-    "03-google-slides/04-visual-assets/images/c03-04-03-generated-office-illustration.jpg": {
+    "03-google-slides/04-visual-assets/images/c03-04-03-generated-office-illustration.png": {
       "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-03-generated-office-illustration.png",
       "dimensions": [
         1591,
@@ -9855,7 +9855,7 @@
         "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
       ]
     },
-    "03-google-slides/04-visual-assets/images/c03-04-04-inserted-context-illustration.jpg": {
+    "03-google-slides/04-visual-assets/images/c03-04-04-inserted-context-illustration.png": {
       "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-04-inserted-context-illustration.png",
       "dimensions": [
         1591,
@@ -9876,7 +9876,7 @@
         "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
       ]
     },
-    "03-google-slides/04-visual-assets/images/c03-04-05-meaningful-image-alt-text.jpg": {
+    "03-google-slides/04-visual-assets/images/c03-04-05-meaningful-image-alt-text.png": {
       "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-05-meaningful-image-alt-text.png",
       "dimensions": [
         1591,
@@ -9897,7 +9897,7 @@
         "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
       ]
     },
-    "03-google-slides/04-visual-assets/images/c03-04-06-illustration-provenance-and-video-limit.jpg": {
+    "03-google-slides/04-visual-assets/images/c03-04-06-illustration-provenance-and-video-limit.png": {
       "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-06-illustration-provenance-and-video-limit.png",
       "dimensions": [
         1591,
@@ -9918,7 +9918,7 @@
         "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
       ]
     },
-    "03-google-slides/04-visual-assets/images/c03-04-07-workflow-origin-and-purpose.jpg": {
+    "03-google-slides/04-visual-assets/images/c03-04-07-workflow-origin-and-purpose.png": {
       "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-07-workflow-origin-and-purpose.png",
       "dimensions": [
         1591,
@@ -9939,7 +9939,7 @@
         "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
       ]
     },
-    "03-google-slides/04-visual-assets/images/c03-04-08-linear-workflow-and-exception.jpg": {
+    "03-google-slides/04-visual-assets/images/c03-04-08-linear-workflow-and-exception.png": {
       "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-08-linear-workflow-and-exception.png",
       "dimensions": [
         1591,
@@ -9960,7 +9960,7 @@
         "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
       ]
     },
-    "03-google-slides/04-visual-assets/images/c03-04-09-responsibility-workflow-and-exception.jpg": {
+    "03-google-slides/04-visual-assets/images/c03-04-09-responsibility-workflow-and-exception.png": {
       "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-09-responsibility-workflow-and-exception.png",
       "dimensions": [
         1591,
@@ -9981,7 +9981,7 @@
         "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
       ]
     },
-    "03-google-slides/04-visual-assets/images/c03-04-10-compared-designs-and-review-status.jpg": {
+    "03-google-slides/04-visual-assets/images/c03-04-10-compared-designs-and-review-status.png": {
       "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-10-compared-designs-and-review-status.png",
       "dimensions": [
         1591,
@@ -10002,7 +10002,7 @@
         "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
       ]
     },
-    "03-google-slides/04-visual-assets/images/c03-04-11-visual-register.jpg": {
+    "03-google-slides/04-visual-assets/images/c03-04-11-visual-register.png": {
       "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-11-visual-register.png",
       "dimensions": [
         1591,
@@ -10023,7 +10023,7 @@
         "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
       ]
     },
-    "03-google-slides/04-visual-assets/images/c03-04-12-resized-illustration-purpose-retained.jpg": {
+    "03-google-slides/04-visual-assets/images/c03-04-12-resized-illustration-purpose-retained.png": {
       "source": "_design/screenshots/full/03-google-slides/04-visual-assets/c03-04-12-resized-illustration-purpose-retained.png",
       "dimensions": [
         1591,
@@ -10044,7 +10044,7 @@
         "Real current-stage Slides application-window capture. Full original dimensions retained; no crops. Avatar masked."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-01-native-source-blank-summary.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-01-native-source-blank-summary.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-01-native-source-blank-summary.png",
       "dimensions": [
         1591,
@@ -10065,7 +10065,7 @@
         "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-02-countif-formula-before-fill.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-02-countif-formula-before-fill.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-02-countif-formula-before-fill.png",
       "dimensions": [
         1591,
@@ -10086,7 +10086,7 @@
         "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-03-baseline-counts-four-each.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-03-baseline-counts-four-each.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-03-baseline-counts-four-each.png",
       "dimensions": [
         1591,
@@ -10107,7 +10107,7 @@
         "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-04-column-chart-title-and-counts.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-04-column-chart-title-and-counts.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-04-column-chart-title-and-counts.png",
       "dimensions": [
         1591,
@@ -10128,7 +10128,7 @@
         "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-05-copy-chart-native-menu.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-05-copy-chart-native-menu.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-05-copy-chart-native-menu.png",
       "dimensions": [
         1591,
@@ -10149,7 +10149,7 @@
         "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-06-link-to-spreadsheet-paste-dialog.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-06-link-to-spreadsheet-paste-dialog.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-06-link-to-spreadsheet-paste-dialog.png",
       "dimensions": [
         1590,
@@ -10170,7 +10170,7 @@
         "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-07-linked-chart-and-qualified-snapshot.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-07-linked-chart-and-qualified-snapshot.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-07-linked-chart-and-qualified-snapshot.png",
       "dimensions": [
         1590,
@@ -10191,7 +10191,7 @@
         "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-08-source-definitions-and-refresh-pending.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-08-source-definitions-and-refresh-pending.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-08-source-definitions-and-refresh-pending.png",
       "dimensions": [
         1590,
@@ -10212,7 +10212,7 @@
         "Real current-stage Sheets or Slides application-window capture. Full original dimensions retained, no crop; avatar masked."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-09-t003-original-status.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-09-t003-original-status.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-09-t003-original-status.png",
       "dimensions": [
         1591,
@@ -10233,7 +10233,7 @@
         "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-10-source-counts-five-four-three.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-10-source-counts-five-four-three.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-10-source-counts-five-four-three.png",
       "dimensions": [
         1591,
@@ -10254,7 +10254,7 @@
         "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-11-slides-cached-before-update.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-11-slides-cached-before-update.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-11-slides-cached-before-update.png",
       "dimensions": [
         1591,
@@ -10275,7 +10275,7 @@
         "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-12-slides-updated-five-four-three.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-12-slides-updated-five-four-three.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-12-slides-updated-five-four-three.png",
       "dimensions": [
         1591,
@@ -10296,7 +10296,7 @@
         "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-13-source-restored-four-four-four.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-13-source-restored-four-four-four.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-13-source-restored-four-four-four.png",
       "dimensions": [
         1591,
@@ -10317,7 +10317,7 @@
         "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-14-slides-restored-four-four-four.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-14-slides-restored-four-four-four.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-14-slides-restored-four-four-four.png",
       "dimensions": [
         1591,
@@ -10338,7 +10338,7 @@
         "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-15-team-cost-sumif-and-total.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-15-team-cost-sumif-and-total.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-15-team-cost-sumif-and-total.png",
       "dimensions": [
         1591,
@@ -10359,7 +10359,7 @@
         "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-16-team-cost-chart.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-16-team-cost-chart.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-16-team-cost-chart.png",
       "dimensions": [
         1591,
@@ -10380,7 +10380,7 @@
         "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-17-linked-cost-appendix.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-17-linked-cost-appendix.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-17-linked-cost-appendix.png",
       "dimensions": [
         1591,
@@ -10401,7 +10401,7 @@
         "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-18-paste-unlinked-dialog.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-18-paste-unlinked-dialog.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-18-paste-unlinked-dialog.png",
       "dimensions": [
         1591,
@@ -10422,7 +10422,7 @@
         "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-19-second-source-change-five-four-three.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-19-second-source-change-five-four-three.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-19-second-source-change-five-four-three.png",
       "dimensions": [
         1591,
@@ -10443,7 +10443,7 @@
         "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-20-static-image-stays-four-four-four.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-20-static-image-stays-four-four-four.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-20-static-image-stays-four-four-four.png",
       "dimensions": [
         1591,
@@ -10464,7 +10464,7 @@
         "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-21-linked-chart-second-refresh.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-21-linked-chart-second-refresh.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-21-linked-chart-second-refresh.png",
       "dimensions": [
         1591,
@@ -10485,7 +10485,7 @@
         "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-22-cost-source-unchanged.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-22-cost-source-unchanged.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-22-cost-source-unchanged.png",
       "dimensions": [
         1591,
@@ -10506,7 +10506,7 @@
         "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-23-restored-chart-and-two-linked-objects.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-23-restored-chart-and-two-linked-objects.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-23-restored-chart-and-two-linked-objects.png",
       "dimensions": [
         1591,
@@ -10527,7 +10527,7 @@
         "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-24-cost-checklist-and-source-notes.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-24-cost-checklist-and-source-notes.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-24-cost-checklist-and-source-notes.png",
       "dimensions": [
         1591,
@@ -10548,7 +10548,7 @@
         "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
       ]
     },
-    "03-google-slides/05-linked-data/images/c03-05-25-static-comparison-final-checklist.jpg": {
+    "03-google-slides/05-linked-data/images/c03-05-25-static-comparison-final-checklist.png": {
       "source": "_design/screenshots/full/03-google-slides/05-linked-data/c03-05-25-static-comparison-final-checklist.png",
       "dimensions": [
         1591,
@@ -10569,7 +10569,7 @@
         "Real current-stage application-window capture. Full original dimensions retained; no crop. Avatar masked. Temporary mismatched narrative in refresh-test captures is a deliberate audit finding, restored before completion."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-01-workflow-fade-transition.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-01-workflow-fade-transition.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-01-workflow-fade-transition.png",
       "dimensions": [
         1591,
@@ -10590,7 +10590,7 @@
         "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-02-project-hub-appear-on-click.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-02-project-hub-appear-on-click.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-02-project-hub-appear-on-click.png",
       "dimensions": [
         1591,
@@ -10611,7 +10611,7 @@
         "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-03-preview-before-project-hub-reveal.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-03-preview-before-project-hub-reveal.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-03-preview-before-project-hub-reveal.png",
       "dimensions": [
         1591,
@@ -10632,7 +10632,7 @@
         "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-04-preview-after-one-advance.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-04-preview-after-one-advance.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-04-preview-after-one-advance.png",
       "dimensions": [
         1591,
@@ -10653,7 +10653,7 @@
         "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-05-keyboard-order-title.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-05-keyboard-order-title.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-05-keyboard-order-title.png",
       "dimensions": [
         1591,
@@ -10674,7 +10674,7 @@
         "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-06-keyboard-order-explanation.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-06-keyboard-order-explanation.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-06-keyboard-order-explanation.png",
       "dimensions": [
         1591,
@@ -10695,7 +10695,7 @@
         "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-07-keyboard-order-source-register.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-07-keyboard-order-source-register.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-07-keyboard-order-source-register.png",
       "dimensions": [
         1591,
@@ -10716,7 +10716,7 @@
         "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-08-keyboard-order-checked-update.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-08-keyboard-order-checked-update.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-08-keyboard-order-checked-update.png",
       "dimensions": [
         1591,
@@ -10737,7 +10737,7 @@
         "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-09-keyboard-order-project-hub.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-09-keyboard-order-project-hub.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-09-keyboard-order-project-hub.png",
       "dimensions": [
         1591,
@@ -10758,7 +10758,7 @@
         "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-10-keyboard-connectors-after-labelled-stages.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-10-keyboard-connectors-after-labelled-stages.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-10-keyboard-connectors-after-labelled-stages.png",
       "dimensions": [
         1591,
@@ -10779,7 +10779,7 @@
         "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-11-workflow-alt-text-source-stage.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-11-workflow-alt-text-source-stage.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-11-workflow-alt-text-source-stage.png",
       "dimensions": [
         1591,
@@ -10800,7 +10800,7 @@
         "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-12-workflow-alt-text-final-stage.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-12-workflow-alt-text-final-stage.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-12-workflow-alt-text-final-stage.png",
       "dimensions": [
         1591,
@@ -10821,7 +10821,7 @@
         "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-13-status-chart-alt-text-and-values.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-13-status-chart-alt-text-and-values.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-13-status-chart-alt-text-and-values.png",
       "dimensions": [
         1591,
@@ -10842,7 +10842,7 @@
         "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-14-cost-chart-alt-text-and-units.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-14-cost-chart-alt-text-and-units.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-14-cost-chart-alt-text-and-units.png",
       "dimensions": [
         1591,
@@ -10863,7 +10863,7 @@
         "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-15-status-values-repeated-at-22pt.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-15-status-values-repeated-at-22pt.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-15-status-values-repeated-at-22pt.png",
       "dimensions": [
         1591,
@@ -10884,7 +10884,7 @@
         "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-16-status-chart-follows-text-with-tab.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-16-status-chart-follows-text-with-tab.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-16-status-chart-follows-text-with-tab.png",
       "dimensions": [
         1591,
@@ -10905,7 +10905,7 @@
         "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-17-motion-and-accessibility-review-notes.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-17-motion-and-accessibility-review-notes.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-17-motion-and-accessibility-review-notes.png",
       "dimensions": [
         1591,
@@ -10926,7 +10926,7 @@
         "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-18-proposed-workflow-title-repair.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-18-proposed-workflow-title-repair.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-18-proposed-workflow-title-repair.png",
       "dimensions": [
         1591,
@@ -10947,7 +10947,7 @@
         "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-19-name-current-version-dialog.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-19-name-current-version-dialog.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-19-name-current-version-dialog.png",
       "dimensions": [
         1591,
@@ -10968,7 +10968,7 @@
         "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-20-reviewed-milestone-in-version-history.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-20-reviewed-milestone-in-version-history.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-20-reviewed-milestone-in-version-history.png",
       "dimensions": [
         1591,
@@ -10989,7 +10989,7 @@
         "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-21-earlier-version-view-only.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-21-earlier-version-view-only.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-21-earlier-version-view-only.png",
       "dimensions": [
         1591,
@@ -11010,7 +11010,7 @@
         "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-22-return-to-current-reviewed-deck.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-22-return-to-current-reviewed-deck.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-22-return-to-current-reviewed-deck.png",
       "dimensions": [
         1591,
@@ -11031,7 +11031,7 @@
         "Real current-stage Slides application window. Full original dimensions retained, no crop; account-avatar region masked. History views are comparison only; earlier version was not restored."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-23-static-practice-without-motion.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-23-static-practice-without-motion.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-23-static-practice-without-motion.png",
       "dimensions": [
         1591,
@@ -11052,7 +11052,7 @@
         "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-24-staged-practice-three-on-click-effects.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-24-staged-practice-three-on-click-effects.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-24-staged-practice-three-on-click-effects.png",
       "dimensions": [
         1591,
@@ -11073,7 +11073,7 @@
         "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-25-staged-reveal-script-before-test.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-25-staged-reveal-script-before-test.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-25-staged-reveal-script-before-test.png",
       "dimensions": [
         1591,
@@ -11094,7 +11094,7 @@
         "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-26-slideshow-static-zero-reveal-advances.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-26-slideshow-static-zero-reveal-advances.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-26-slideshow-static-zero-reveal-advances.png",
       "dimensions": [
         1591,
@@ -11115,7 +11115,7 @@
         "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-27-staged-start-shows-orphan-connectors.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-27-staged-start-shows-orphan-connectors.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-27-staged-start-shows-orphan-connectors.png",
       "dimensions": [
         1591,
@@ -11136,7 +11136,7 @@
         "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-28-staged-connectors-with-destination-effects.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-28-staged-connectors-with-destination-effects.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-28-staged-connectors-with-destination-effects.png",
       "dimensions": [
         1162,
@@ -11157,7 +11157,7 @@
         "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-29-staged-slideshow-initial-no-orphan-arrows.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-29-staged-slideshow-initial-no-orphan-arrows.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-29-staged-slideshow-initial-no-orphan-arrows.png",
       "dimensions": [
         1162,
@@ -11178,7 +11178,7 @@
         "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-30-staged-slideshow-first-source.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-30-staged-slideshow-first-source.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-30-staged-slideshow-first-source.png",
       "dimensions": [
         1162,
@@ -11199,7 +11199,7 @@
         "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-31-staged-slideshow-second-checked-and-connector.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-31-staged-slideshow-second-checked-and-connector.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-31-staged-slideshow-second-checked-and-connector.png",
       "dimensions": [
         1162,
@@ -11220,7 +11220,7 @@
         "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-32-staged-slideshow-third-hub-and-connector.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-32-staged-slideshow-third-hub-and-connector.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-32-staged-slideshow-third-hub-and-connector.png",
       "dimensions": [
         1162,
@@ -11241,7 +11241,7 @@
         "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-33-practice-alternatives-skipped-after-testing.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-33-practice-alternatives-skipped-after-testing.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-33-practice-alternatives-skipped-after-testing.png",
       "dimensions": [
         1162,
@@ -11262,7 +11262,7 @@
         "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-34-decisions-slideshow-zero-reveals.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-34-decisions-slideshow-zero-reveals.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-34-decisions-slideshow-zero-reveals.png",
       "dimensions": [
         1162,
@@ -11283,7 +11283,7 @@
         "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-35-staged-keyboard-connectors-follow-labelled-stages.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-35-staged-keyboard-connectors-follow-labelled-stages.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-35-staged-keyboard-connectors-follow-labelled-stages.png",
       "dimensions": [
         1162,
@@ -11304,7 +11304,7 @@
         "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-36-motion-selection-and-factual-review-comment.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-36-motion-selection-and-factual-review-comment.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-36-motion-selection-and-factual-review-comment.png",
       "dimensions": [
         1162,
@@ -11331,7 +11331,7 @@
         "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-37-name-motion-checked-review-version.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-37-name-motion-checked-review-version.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-37-name-motion-checked-review-version.png",
       "dimensions": [
         1162,
@@ -11358,7 +11358,7 @@
         "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
       ]
     },
-    "03-google-slides/06-motion-review/images/c03-06-38-motion-checked-milestone-in-history.jpg": {
+    "03-google-slides/06-motion-review/images/c03-06-38-motion-checked-milestone-in-history.png": {
       "source": "_design/screenshots/full/03-google-slides/06-motion-review/c03-06-38-motion-checked-milestone-in-history.png",
       "dimensions": [
         1162,
@@ -11379,7 +11379,7 @@
         "Actual learner UI, current stage only. Full original capture dimensions retained without cropping. Account avatars masked. The 23 October captures are 1591 x 868; the reconnected 24 October browser supplied 1162 x 920 windows. No rescaling of retained originals."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-01-presenter-view-launch-menu.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-01-presenter-view-launch-menu.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-01-presenter-view-launch-menu.png",
       "dimensions": [
         1162,
@@ -11406,7 +11406,7 @@
         "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-02-presenter-opening-with-speaker-notes.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-02-presenter-opening-with-speaker-notes.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-02-presenter-opening-with-speaker-notes.png",
       "dimensions": [
         730,
@@ -11420,7 +11420,7 @@
         "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-03-audience-opening-without-speaker-notes.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-03-audience-opening-without-speaker-notes.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-03-audience-opening-without-speaker-notes.png",
       "dimensions": [
         1162,
@@ -11434,7 +11434,7 @@
         "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-04-presenter-decisions-with-notes.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-04-presenter-decisions-with-notes.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-04-presenter-decisions-with-notes.png",
       "dimensions": [
         730,
@@ -11448,7 +11448,7 @@
         "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-05-next-skips-backup-slide-six.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-05-next-skips-backup-slide-six.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-05-next-skips-backup-slide-six.png",
       "dimensions": [
         730,
@@ -11462,7 +11462,7 @@
         "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-06-audience-tools-session-not-started.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-06-audience-tools-session-not-started.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-06-audience-tools-session-not-started.png",
       "dimensions": [
         730,
@@ -11476,7 +11476,7 @@
         "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-07-share-dialog-restricted-owner-only.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-07-share-dialog-restricted-owner-only.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-07-share-dialog-restricted-owner-only.png",
       "dimensions": [
         1162,
@@ -11509,7 +11509,7 @@
         "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-08-file-share-publish-to-web-option.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-08-file-share-publish-to-web-option.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-08-file-share-publish-to-web-option.png",
       "dimensions": [
         1162,
@@ -11530,7 +11530,7 @@
         "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-09-publish-dialog-not-published.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-09-publish-dialog-not-published.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-09-publish-dialog-not-published.png",
       "dimensions": [
         1162,
@@ -11551,7 +11551,7 @@
         "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-10-publish-embed-options-before-close.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-10-publish-embed-options-before-close.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-10-publish-embed-options-before-close.png",
       "dimensions": [
         1162,
@@ -11572,7 +11572,7 @@
         "Real current-stage application capture, full original window dimensions retained without cropping or rescaling. Presenter popup is730x537; editor/audience1162x920. Account/avatar/email masked where visible. Presenter timer paused during setup; not a measured speaking rehearsal. No Q&A session, recipient invitation, access change or publication performed."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-11-three-minute-run-sheet-planned-not-spoken.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-11-three-minute-run-sheet-planned-not-spoken.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-11-three-minute-run-sheet-planned-not-spoken.png",
       "dimensions": [
         730,
@@ -11586,7 +11586,7 @@
         "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-12-source-based-sponsor-answers.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-12-source-based-sponsor-answers.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-12-source-based-sponsor-answers.png",
       "dimensions": [
         730,
@@ -11600,7 +11600,7 @@
         "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-13-live-decisions-before-appendix-link.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-13-live-decisions-before-appendix-link.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-13-live-decisions-before-appendix-link.png",
       "dimensions": [
         1162,
@@ -11614,7 +11614,7 @@
         "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-14-live-appendix-opened-from-decisions.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-14-live-appendix-opened-from-decisions.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-14-live-appendix-opened-from-decisions.png",
       "dimensions": [
         1162,
@@ -11628,7 +11628,7 @@
         "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-15-live-return-to-decisions-without-restart.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-15-live-return-to-decisions-without-restart.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-15-live-return-to-decisions-without-restart.png",
       "dimensions": [
         1162,
@@ -11642,7 +11642,7 @@
         "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-16-native-pdf-download-menu.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-16-native-pdf-download-menu.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-16-native-pdf-download-menu.png",
       "dimensions": [
         1162,
@@ -11663,7 +11663,7 @@
         "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-17-print-preview-include-skipped-enabled.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-17-print-preview-include-skipped-enabled.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-17-print-preview-include-skipped-enabled.png",
       "dimensions": [
         1162,
@@ -11684,7 +11684,7 @@
         "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-18-print-preview-skipped-excluded.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-18-print-preview-skipped-excluded.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-18-print-preview-skipped-excluded.png",
       "dimensions": [
         1162,
@@ -11705,7 +11705,7 @@
         "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-19-handout-decisions-native-pdf-page.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-19-handout-decisions-native-pdf-page.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-19-handout-decisions-native-pdf-page.png",
       "dimensions": [
         1080,
@@ -11719,7 +11719,7 @@
         "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-20-handout-appendix-native-pdf-page.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-20-handout-appendix-native-pdf-page.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-20-handout-appendix-native-pdf-page.png",
       "dimensions": [
         1080,
@@ -11733,7 +11733,7 @@
         "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-21-handout-static-workflow-native-pdf-page.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-21-handout-static-workflow-native-pdf-page.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-21-handout-static-workflow-native-pdf-page.png",
       "dimensions": [
         1080,
@@ -11747,7 +11747,7 @@
         "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-22-name-delivery-export-checkpoint.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-22-name-delivery-export-checkpoint.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-22-name-delivery-export-checkpoint.png",
       "dimensions": [
         1162,
@@ -11768,7 +11768,7 @@
         "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
       ]
     },
-    "03-google-slides/07-delivery-sharing/images/c03-07-23-delivery-export-milestone-verified.jpg": {
+    "03-google-slides/07-delivery-sharing/images/c03-07-23-delivery-export-milestone-verified.png": {
       "source": "_design/screenshots/full/03-google-slides/07-delivery-sharing/c03-07-23-delivery-export-milestone-verified.png",
       "dimensions": [
         1162,
@@ -11782,7 +11782,7 @@
         "Current-stage evidence retained at original dimensions, uncropped. Native PDF pages19/20/21 are complete page renders from the actual8page print-preview download, not fabricated browser screenshots. Presenter timer00:00:32 is paused setup, not speaking time. Actual Slideshow links tested; PDF destinations structurally resolved, interactive PDF click test unverified because browser policy blocks local-file URLs."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-01-baseline-task-snapshot-and-qualification.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-01-baseline-task-snapshot-and-qualification.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-01-baseline-task-snapshot-and-qualification.png",
       "dimensions": [
         1162,
@@ -11803,7 +11803,7 @@
         "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-02-baseline-countif-source-and-four-four-four.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-02-baseline-countif-source-and-four-four-four.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-02-baseline-countif-source-and-four-four-four.png",
       "dimensions": [
         1162,
@@ -11824,7 +11824,7 @@
         "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-03-baseline-t003-not-started-record.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-03-baseline-t003-not-started-record.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-03-baseline-t003-not-started-record.png",
       "dimensions": [
         1162,
@@ -11845,7 +11845,7 @@
         "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-04-final-practice-copy-without-sharing-comments.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-04-final-practice-copy-without-sharing-comments.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-04-final-practice-copy-without-sharing-comments.png",
       "dimensions": [
         1162,
@@ -11866,7 +11866,7 @@
         "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-05-author-feedback-recorded-before-revision.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-05-author-feedback-recorded-before-revision.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-05-author-feedback-recorded-before-revision.png",
       "dimensions": [
         1162,
@@ -11887,7 +11887,7 @@
         "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-06-revised-headline-keeps-twelve-task-population-and-caveat.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-06-revised-headline-keeps-twelve-task-population-and-caveat.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-06-revised-headline-keeps-twelve-task-population-and-caveat.png",
       "dimensions": [
         1162,
@@ -11908,7 +11908,7 @@
         "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-07-revised-practice-status-in-slideshow.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-07-revised-practice-status-in-slideshow.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-07-revised-practice-status-in-slideshow.png",
       "dimensions": [
         1162,
@@ -11922,7 +11922,7 @@
         "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-08-name-final-practice-milestone.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-08-name-final-practice-milestone.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-08-name-final-practice-milestone.png",
       "dimensions": [
         1162,
@@ -11943,7 +11943,7 @@
         "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-09-final-practice-milestone-in-history.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-09-final-practice-milestone-in-history.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-09-final-practice-milestone-in-history.png",
       "dimensions": [
         1162,
@@ -11957,7 +11957,7 @@
         "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-10-create-separate-changed-scenario-deck.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-10-create-separate-changed-scenario-deck.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-10-create-separate-changed-scenario-deck.png",
       "dimensions": [
         1162,
@@ -11978,7 +11978,7 @@
         "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-11-create-separate-scenario-data-workbook.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-11-create-separate-scenario-data-workbook.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-11-create-separate-scenario-data-workbook.png",
       "dimensions": [
         1162,
@@ -11999,7 +11999,7 @@
         "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-12-scenario-classification-and-impact-plan.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-12-scenario-classification-and-impact-plan.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-12-scenario-classification-and-impact-plan.png",
       "dimensions": [
         1162,
@@ -12026,7 +12026,7 @@
         "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-13-scenario-data-copy-still-baseline-before-change.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-13-scenario-data-copy-still-baseline-before-change.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-13-scenario-data-copy-still-baseline-before-change.png",
       "dimensions": [
         1162,
@@ -12047,7 +12047,7 @@
         "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-14-scenario-deck-copy-before-data-replacement.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-14-scenario-deck-copy-before-data-replacement.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-14-scenario-deck-copy-before-data-replacement.png",
       "dimensions": [
         1162,
@@ -12068,7 +12068,7 @@
         "Actual current-stage learner application, full original dimensions retained without cropping/rescaling. Account region and scenario source-identity lines masked. Author feedback example, not partner feedback. Scenario setup still has T003NotStarted and4/4/4; changed data/chart/handout not yet verified."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-15-scenario-t003-complete-in-separate-workbook.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-15-scenario-t003-complete-in-separate-workbook.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-15-scenario-t003-complete-in-separate-workbook.png",
       "dimensions": [
         1591,
@@ -12089,7 +12089,7 @@
         "Full original-size current-stage source retained; no cropping or rescaling. Native learner UI except explicitly labelled offline renders of the actual native PDF export. Human speech, reviewer acceptance and independent challenge remain pending."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-16-scenario-countif-recalculates-five-four-three.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-16-scenario-countif-recalculates-five-four-three.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-16-scenario-countif-recalculates-five-four-three.png",
       "dimensions": [
         1591,
@@ -12110,7 +12110,7 @@
         "Full original-size current-stage source retained; no cropping or rescaling. Native learner UI except explicitly labelled offline renders of the actual native PDF export. Human speech, reviewer acceptance and independent challenge remain pending."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-17-paste-scenario-chart-as-linked.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-17-paste-scenario-chart-as-linked.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-17-paste-scenario-chart-as-linked.png",
       "dimensions": [
         1591,
@@ -12131,7 +12131,7 @@
         "Full original-size current-stage source retained; no cropping or rescaling. Native learner UI except explicitly labelled offline renders of the actual native PDF export. Human speech, reviewer acceptance and independent challenge remain pending."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-18-scenario-chart-and-narrative-five-four-three.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-18-scenario-chart-and-narrative-five-four-three.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-18-scenario-chart-and-narrative-five-four-three.png",
       "dimensions": [
         1591,
@@ -12152,7 +12152,7 @@
         "Full original-size current-stage source retained; no cropping or rescaling. Native learner UI except explicitly labelled offline renders of the actual native PDF export. Human speech, reviewer acceptance and independent challenge remain pending."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-19-scenario-source-notes-and-evidence-boundary.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-19-scenario-source-notes-and-evidence-boundary.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-19-scenario-source-notes-and-evidence-boundary.png",
       "dimensions": [
         1591,
@@ -12173,7 +12173,7 @@
         "Full original-size current-stage source retained; no cropping or rescaling. Native learner UI except explicitly labelled offline renders of the actual native PDF export. Human speech, reviewer acceptance and independent challenge remain pending."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-20-scenario-labelled-and-two-minute-narrative-recorded.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-20-scenario-labelled-and-two-minute-narrative-recorded.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-20-scenario-labelled-and-two-minute-narrative-recorded.png",
       "dimensions": [
         1591,
@@ -12194,7 +12194,7 @@
         "Full original-size current-stage source retained; no cropping or rescaling. Native learner UI except explicitly labelled offline renders of the actual native PDF export. Human speech, reviewer acceptance and independent challenge remain pending."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-21-scenario-handout-excludes-skipped-slides.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-21-scenario-handout-excludes-skipped-slides.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-21-scenario-handout-excludes-skipped-slides.png",
       "dimensions": [
         1591,
@@ -12215,7 +12215,7 @@
         "Full original-size current-stage source retained; no cropping or rescaling. Native learner UI except explicitly labelled offline renders of the actual native PDF export. Human speech, reviewer acceptance and independent challenge remain pending."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-22-changed-scenario-handout-cover-native-pdf-page.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-22-changed-scenario-handout-cover-native-pdf-page.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-22-changed-scenario-handout-cover-native-pdf-page.png",
       "dimensions": [
         1080,
@@ -12229,7 +12229,7 @@
         "Full original-size current-stage source retained; no cropping or rescaling. Native learner UI except explicitly labelled offline renders of the actual native PDF export. Human speech, reviewer acceptance and independent challenge remain pending."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-23-changed-scenario-handout-status-native-pdf-page.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-23-changed-scenario-handout-status-native-pdf-page.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-23-changed-scenario-handout-status-native-pdf-page.png",
       "dimensions": [
         1080,
@@ -12243,7 +12243,7 @@
         "Full original-size current-stage source retained; no cropping or rescaling. Native learner UI except explicitly labelled offline renders of the actual native PDF export. Human speech, reviewer acceptance and independent challenge remain pending."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-24-changed-scenario-handout-decisions-native-pdf-page.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-24-changed-scenario-handout-decisions-native-pdf-page.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-24-changed-scenario-handout-decisions-native-pdf-page.png",
       "dimensions": [
         1080,
@@ -12257,7 +12257,7 @@
         "Full original-size current-stage source retained; no cropping or rescaling. Native learner UI except explicitly labelled offline renders of the actual native PDF export. Human speech, reviewer acceptance and independent challenge remain pending."
       ]
     },
-    "03-google-slides/08-deliver-update/images/c03-08-25-changed-scenario-data-and-handout-milestone.jpg": {
+    "03-google-slides/08-deliver-update/images/c03-08-25-changed-scenario-data-and-handout-milestone.png": {
       "source": "_design/screenshots/full/03-google-slides/08-deliver-update/c03-08-25-changed-scenario-data-and-handout-milestone.png",
       "dimensions": [
         1591,
@@ -27614,7 +27614,7 @@
       ],
       "sha256": "af373f5594b30b20e6fda54d7854ef35c6afa9bb4835171d426f15f3995c425d",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1\u20135. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1–5. No independent partner, spoken handover or classroom timing claimed."
       ]
     },
     "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-02-source-manifest-and-preflight.jpg": {
@@ -27635,7 +27635,7 @@
       ],
       "sha256": "664f28a4275942f08ac2d1913d93c4f8ff7c6a3fda4036727e0261d8b9cff1da",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1\u20135. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1–5. No independent partner, spoken handover or classroom timing claimed."
       ]
     },
     "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-03-bounded-template-before-test.jpg": {
@@ -27656,7 +27656,7 @@
       ],
       "sha256": "c6edeb7510ae1deaa585b03dc79da40363352d900e04c4baef08f96d05e1e280",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1\u20135. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1–5. No independent partner, spoken handover or classroom timing claimed."
       ]
     },
     "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-04-placeholder-preflight-stop.jpg": {
@@ -27677,7 +27677,7 @@
       ],
       "sha256": "ef2a169cb47032636d0796c6cd5e6e59ebd2bfbe5a32979fa6c9c94d7d35910f",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1\u20135. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1–5. No independent partner, spoken handover or classroom timing claimed."
       ]
     },
     "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-05-version-1-1-instruction-repair.jpg": {
@@ -27698,7 +27698,7 @@
       ],
       "sha256": "e0ece5b2c924b4493c2fdeb848c6e2ca6846e8f7ef112ae0f5cd2850717285c8",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1\u20135. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1–5. No independent partner, spoken handover or classroom timing claimed."
       ]
     },
     "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-06-complete-sources-ready-to-send.jpg": {
@@ -27719,7 +27719,7 @@
       ],
       "sha256": "3b884d229603d2d9b10fae82dc8ea10e93b618db6f7dde00fc7888199ab48b7a",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1\u20135. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1–5. No independent partner, spoken handover or classroom timing claimed."
       ]
     },
     "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-07-assembly-retest-record.jpg": {
@@ -27740,7 +27740,7 @@
       ],
       "sha256": "17dabd0e33d7712074abacb9ac7b8346f5f4ff142ca62bc874addd95048a4cb1",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1\u20135. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1–5. No independent partner, spoken handover or classroom timing claimed."
       ]
     },
     "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-08-recovery-routes.jpg": {
@@ -27761,7 +27761,7 @@
       ],
       "sha256": "e53092f7e5132385912ff2e6f7584cb058dc5919241c2843aa1727b775daac9c",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1\u20135. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1–5. No independent partner, spoken handover or classroom timing claimed."
       ]
     },
     "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-09-accepted-and-rejected-examples.jpg": {
@@ -27782,7 +27782,7 @@
       ],
       "sha256": "8cf4285dea1b5cf069620530f0b820352c183a48cae5f6c07c461f28e8d4b2e5",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1\u20135. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1–5. No independent partner, spoken handover or classroom timing claimed."
       ]
     },
     "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-10-fresh-faq-response.jpg": {
@@ -27803,7 +27803,7 @@
       ],
       "sha256": "3e0fb3bc530f447e2261e06a5f6246b67c36db093d08960f97203b34b8a4d34d",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1\u20135. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1–5. No independent partner, spoken handover or classroom timing claimed."
       ]
     },
     "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-11-fresh-faq-budget-and-decision.jpg": {
@@ -27824,7 +27824,7 @@
       ],
       "sha256": "c5f3e1ead013bf50c3300cbf549769e8de34bfa536be20dc2cfe85eb0dd17d0e",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1\u20135. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1–5. No independent partner, spoken handover or classroom timing claimed."
       ]
     },
     "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-12-source-audit-and-format-repair.jpg": {
@@ -27845,7 +27845,7 @@
       ],
       "sha256": "c6c5df312665046d0ec3a99ab8d121e37bd41b8e14b7142bc709c33156ef99bf",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1\u20135. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1–5. No independent partner, spoken handover or classroom timing claimed."
       ]
     },
     "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-13-prepared-handover-script.jpg": {
@@ -27866,7 +27866,7 @@
       ],
       "sha256": "8be7422b7972372f905decbee9ad02a73f3b58e755f7511b08f3e2c4759b036e",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1\u20135. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1–5. No independent partner, spoken handover or classroom timing claimed."
       ]
     },
     "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-14-versioned-handover-manifest.jpg": {
@@ -27887,7 +27887,7 @@
       ],
       "sha256": "6aea49774cddf94f9405d6b910e77f9391bacd8f28ab988a8b2967f5eab5b367",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1\u20135. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1–5. No independent partner, spoken handover or classroom timing claimed."
       ]
     },
     "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-15-current-playbook-release.jpg": {
@@ -27908,7 +27908,7 @@
       ],
       "sha256": "f676a1f11b730c0b766040dcccdd8e686802df13f3044548b0e1492dacf93e22",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1\u20135. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1–5. No independent partner, spoken handover or classroom timing claimed."
       ]
     },
     "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-16-maintained-faq-numbering.jpg": {
@@ -27929,7 +27929,7 @@
       ],
       "sha256": "81e6de3e56aca83e2d2a2e23654798d29e1acd8f31d8d6ae6f2bb5a205b66cb8",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1\u20135. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1–5. No independent partner, spoken handover or classroom timing claimed."
       ]
     },
     "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-17-maintained-faq-tail.jpg": {
@@ -27950,7 +27950,7 @@
       ],
       "sha256": "aa731aeaa6c0592cf243ae2d122850be3f103fef1c5c6b46fd288287894fa94f",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1\u20135. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked5/5 facts. Raw list numbering restarted at1; maintained native copy repaired1–5. No independent partner, spoken handover or classroom timing claimed."
       ]
     },
     "06-notebooklm-gemini/06-responsible-review/images/c06-06-01-originals-and-unreviewed-claims.jpg": {
