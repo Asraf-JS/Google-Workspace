@@ -39,7 +39,7 @@ Logic matrix must cover below/on/above thresholds, zero quantity, Delivered, Pen
 
 ## Captured Conditional-Calculation Reference
 
-Preserve the supplied K1 fictional-data label in M1 before using K for ActiveAmount. Original A:I inputs, Rates, Source Snapshot and intake audit remain intact. J2=E2*F2 and K2=IF(G2="Cancelled",0,J2), filled to25; source totals3158 and1938. Spot checks J2/J13/J25 are90/32/64.
+Preserve the supplied K1 fictional-data label in M1 before using K for ActiveAmount. Original A:I inputs, Rates, Source Snapshot and intake audit remain intact. J2=E2*F2 and K2=IF(G2="Cancelled",0,J2), filled to 25; source totals 3158 and 1938. Spot checks J2/J13/J25 are 90/32/64.
 
 Amount grid B4:D6:556/64/360;578/276/350;344/120/510. D6 uses $A6 and D$3. Count grid B9:D11:4/2/2 for each project. B9 seed:
 
@@ -71,7 +71,7 @@ All = Active + Cancelled	=C15+C17	=C14	=B25-C25
 Status population	=SUM(D16:D18)	=D14	=B26-C26
 ```
 
-B28 baseline check **=COUNTIFS(Orders!G2:G25,"Pending",Orders!J2:J25,">=200")** gives0. All3158/24, Active1938/18, Delivered1478/12, Cancelled1220/6, Pending460/6. Every reconciliation difference0.
+B28 baseline check **=COUNTIFS(Orders!G2:G25,"Pending",Orders!J2:J25,">=200")** gives 0. All 3158/24, Active 1938/18, Delivered 1478/12, Cancelled 1220/6, Pending 460/6. Every reconciliation difference 0.
 
 ### Manual subset inputs — Subset Checks A1:H7
 
@@ -87,11 +87,11 @@ PJ-B	Pending	PO010	10	18	180
 PJ-B	Pending	PO014	8	12	96
 ```
 
-G2 **=D2*E2**, H2 **=G2-F2**, fill to7. The two subsets total556 and276; their counts4 and2 also match the maintained grids.
+G2 **=D2*E2**, H2 **=G2-F2**, fill to 7. The two subsets total 556 and 276; their counts 4 and 2 also match the maintained grids.
 
 ### Logic matrix input/expectations — Logic Tests A1:J22
 
-Actual columns G/I/J are deliberately empty on this input card. D calculates Quantity times a known UnitCost. Zero Quantity is numeric0; it is not an unresolved rate lookup. Expected flags are Boolean TRUE/FALSE.
+Actual columns G/I/J are deliberately empty on this input card. D calculates Quantity times a known UnitCost. Zero Quantity is numeric 0; it is not an unresolved rate lookup. Expected flags are Boolean TRUE/FALSE.
 
 ```text
 TestID	Quantity	UnitCost	Amount	Status	Expected band	Actual band	Expected flag	Actual flag	Pass
@@ -118,10 +118,10 @@ LT20	1	201	=B21*C21	Pending	High		TRUE
 LT21	1	201	=B22*C22	Cancelled	High		FALSE
 ```
 
-G2 **=IF(D2<100,"Low",IF(D2<200,"Medium","High"))**; I2 **=AND(E2="Pending",D2>=200)**; J2 **=AND(F2=G2,H2=I2)**. Fill each to22. Expected21passes/0mismatches,2positiveflags,3zero-quantitycases,6High/9Medium/6Low. Synthetic Pending200/201 exercise the positive flag branch; baseline remains0.
+G2 **=IF(D2<100,"Low",IF(D2<200,"Medium","High"))**; I2 **=AND(E2="Pending",D2>=200)**; J2 **=AND(F2=G2,H2=I2)**. Fill each to 22. Expected21passes/0mismatches,2positiveflags,3zero-quantitycases,6High/9Medium/6Low. Synthetic Pending 200/201 exercise the positive flag branch; baseline remains 0.
 
 ### Repaired mixed-reference scenario
 
-Duplicate Analysis as Mixed Reference Tests. On that copy only, remove the column anchor from B4's $A4 criterion, then refill across/down. C4 incorrectly uses B4 as project criterion and gives0; total1478, discrepancy-1680 from3158. Restore $A4 and refill: grid3158, difference0; D6 uses $A6 and D$3. The actual fault snapshot was retained before repair. The maintained Analysis grid was never damaged.
+Duplicate Analysis as Mixed Reference Tests. On that copy only, remove the column anchor from B4's $A4 criterion, then refill across/down. C4 incorrectly uses B4 as project criterion and gives 0; total 1478, discrepancy-1680 from 3158. Restore $A4 and refill: grid 3158, difference 0; D6 uses $A6 and D$3. The actual fault snapshot was retained before repair. The maintained Analysis grid was never damaged.
 
-Independent project threshold summary, filtered-source reconciliation, threshold250 change/restoration and reviewer/learner-timing checks remain pending. Practice bands and flags are fictional training rules, not procurement policy.
+Independent project threshold summary, filtered-source reconciliation, threshold 250 change/restoration and reviewer/learner-timing checks remain pending. Practice bands and flags are fictional training rules, not procurement policy.

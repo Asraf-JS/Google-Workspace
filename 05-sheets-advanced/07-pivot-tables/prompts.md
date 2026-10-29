@@ -109,7 +109,7 @@ Sum of row products	=SUM(D32:D33)
 Product of sums	=SUM(B32:B33)*SUM(C32:C33)
 ```
 
-### Scenario Orders A26:K26 — after inserting row26
+### Scenario Orders A26:K26 — after inserting row 26
 
 ```text
 PO025	PJ-A	Planning	IT01	2	45	Delivered	4	Additional practice line	=E26*F26	=IF(G26="Cancelled",0,J26)
@@ -137,10 +137,10 @@ PJ-A Delivered count	=COUNTIFS(Orders!B2:B26,"PJ-A",Orders!G2:G26,"Delivered")	=
 
 ```text
 Scenario scope	Record
-Source	Orders A1:K26 includes PO025, amount90
+Source	Orders A1:K26 includes PO025, amount 90
 Pivots	Pivot Review SUM Amount; Pivot Counts COUNTA OrderID; both A1:K26
 Earlier sheets	Copied baseline checks and calculated pivot still target24rows; historical comparison only
-Authoritative expanded checks	Coverage Controls A1:D7; six differences0; independent learner challenge pending
+Authoritative expanded checks	Coverage Controls A1:D7; six differences 0; independent learner challenge pending
 ```
 
 ### Pivot Notes A1:B10 — baseline handover
@@ -149,12 +149,12 @@ Authoritative expanded checks	Coverage Controls A1:D7; six differences0; indepen
 Analysis note	Definition / evidence
 Baseline source	Orders A1:K25;24records; Cancelled retained
 Amount pivot	Pivot Review: Project rows, Status columns, SUM Amount; no final filter
-Filter test	Delivered only1478; removed filter restores3158
+Filter test	Delivered only 1478; removed filter restores 3158
 Count pivot	Pivot Counts: same source/groups, COUNTA OrderID;24total/12Delivered
-Calculated field	Pivot Calculations: Average line amount =SUM(Amount)/COUNTA(OrderID), Custom; all131.5833333
-Drilldown	Actual Detail1-PJ-A-Delivered contains PO001/004/005/008; amounts90/144/250/72 sum556
-Aggregation trap	Two rows2x45 and4x12: SUM row products138; product of sums342
-Coverage experiment	Separate Pivot Coverage workbook only: confirmed A1:K26 gives3248/25; Delivered1568/13
+Calculated field	Pivot Calculations: Average line amount =SUM(Amount)/COUNTA(OrderID), Custom; all 131.5833333
+Drilldown	Actual Detail1-PJ-A-Delivered contains PO001/004/005/008; amounts 90/144/250/72 sum 556
+Aggregation trap	Two rows2x45 and4x12: SUM row products 138; product of sums 342
+Coverage experiment	Separate Pivot Coverage workbook only: confirmed A1:K26 gives 3248/25; Delivered 1568/13
 Validation limit	Guided author reference; independent learner diagnosis/presentation and75minute timing pending
 ```
 
@@ -168,8 +168,8 @@ Validation limit	Guided author reference; independent learner diagnosis/presenta
 | Scenario Pivot Review | Orders A1:K26 | Project | Status | SUM of Amount | None |
 | Scenario Pivot Counts | Orders A1:K26 | Project | Status | COUNTA of OrderID | None |
 
-Use **Select data range > Range > OK** to confirm range edits. Inspect recalculation, not just input text. Expected baseline3158/1478/24/12; scenario3248/1568/25/13. PJ-A Delivered changes556/4 to646/5. Do not include summary rows27–28 in the scenario pivot source.
+Use **Select data range > Range > OK** to confirm range edits. Inspect recalculation, not just input text. Expected baseline 3158/1478/24/12; scenario 3248/1568/25/13. PJ-A Delivered changes 556/4 to 646/5. Do not include summary rows 27–28 in the scenario pivot source.
 
-The two-row trap has row products90 and48, sum138; multiplying the summed quantities6 by summed costs57 returns342. These metrics have different meanings. The original ambiguous multiplication prompt has been replaced by the actually verified average field; retain SUM of row Amount for authoritative totals.
+The two-row trap has row products 90 and 48, sum 138; multiplying the summed quantities 6 by summed costs 57 returns 342. These metrics have different meanings. The original ambiguous multiplication prompt has been replaced by the actually verified average field; retain SUM of row Amount for authoritative totals.
 
-Earlier copied scenario checks/calculated pivots remain24-row references. Only the expanded source summaries and Coverage Controls A1:D7 establish25-row coverage. Independent Delivered pivot/output, learner diagnosis/presentation and timing remain pending.
+Earlier copied scenario checks/calculated pivots remain 24-row references. Only the expanded source summaries and Coverage Controls A1:D7 establish 25-row coverage. Independent Delivered pivot/output, learner diagnosis/presentation and timing remain pending.

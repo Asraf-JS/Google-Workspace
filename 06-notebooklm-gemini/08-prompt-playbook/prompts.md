@@ -24,10 +24,10 @@ Questions:
 1. What is the pilot’s purpose and duration?
 2. Which three teams participate?
 3. What reporting cadence and success measure are stated?
-4. Is the RM12,000 ceiling approved?
+4. Is the RM 12,000 ceiling approved?
 5. What start date is confirmed and which sponsor decision remains unresolved?
 
-Required checks: retain four weeks from an agreed start, all three named teams, Friday updates, all three teams on time for the final two weeks, RM12,000 proposed/not approved, no agreed calendar start and unresolved sponsor approval of the budget and start date. Keep scripted practice and proposed guidance distinct from approved decisions. Do not invent a supplier, gain, readiness, approval or launch prerequisite. Do not send, create files, publish or change permissions.
+Required checks: retain four weeks from an agreed start, all three named teams, Friday updates, all three teams on time for the final two weeks, RM 12,000 proposed/not approved, no agreed calendar start and unresolved sponsor approval of the budget and start date. Keep scripted practice and proposed guidance distinct from approved decisions. Do not invent a supplier, gain, readiness, approval or launch prerequisite. Do not send, create files, publish or change permissions.
 ```
 
 Append the complete text of S1 project-facts.txt, S2 meeting-record.txt and S3 reporting-guidance.txt under their matching labels. Alternatively use the [self-contained prompt](./faq-prompt-v1.1.txt). A filename, link or earlier answer is insufficient. Verify all three full originals and zero `[PASTE_` slots in the actual input before sending. If replacement leaves mixed old text, clear and repaste before Send.

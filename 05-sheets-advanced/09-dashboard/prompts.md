@@ -56,11 +56,11 @@ Week coverage	=SUM(Orders!J2:J25)	=SUM(B16:E16)	=C19-B19
 ### Dashboard Data A22:D28 - first test predictions
 
 ```text
-Refresh test	Baseline	Predicted quantity3	Restore target
+Refresh test	Baseline	Predicted quantity 3	Restore target
 PO001 Quantity	2	3	2
 PO001 Amount	90	135	90
 PJ-A all Amount	980	1025	980
-Week1 Amount	728	773	728
+Week 1 Amount	728	773	728
 All Amount	3158	3203	3158
 Record count	24	24	24
 ```
@@ -131,9 +131,9 @@ Audience	Fictional project reporting reviewer; training evidence, not company po
 Source / units	Orders A1:K25;24records; Amount and cost values in RM
 Population	All includes Cancelled; Active excludes Cancelled; Delivered is a separate status subset
 Questions	Largest Delivered project? Pending Amount? Largest all-orders practice week?
-Practice sequence	Numeric weeks1,2,3,4; no invented real calendar dates
+Practice sequence	Numeric weeks 1,2,3,4; no invented real calendar dates
 Chart / filter scope	Dashboard A5:B8 linked to checked all-project totals; saved source views do not filter these SUMIFS totals
-Scenario prediction	Copy only: PO001 Quantity2 to4 adds90; line180/PJ-Aall1070/Week1 818/all3248/active2028/Delivered1568/count24
+Scenario prediction	Copy only: PO001 Quantity 2 to 4 adds 90; line 180/PJ-Aall1070/Week1 818/all3248/active2028/Delivered1568/count24
 Expected ranking change	Largest Delivered project changes from PJ-B578 to PJ-A646; peakweek remains3at850
 Validation limit	Guided author casework; independent new-row coverage, reviewer and70minute learner timing pending
 ```
@@ -150,13 +150,13 @@ Sparkline bounds	Dashboard B15 uses Dashboard Data B16:E16, numeric practice wee
 Filter scope	Dashboard has no filter. Source saved filter views do not filter these SUMIFS totals. Exit source views after inspection.
 Snapshot and export	Static exports or generated analysis snapshots need regeneration and verification after source changes. No generated snapshot was tested here.
 New-row coverage	New rows require checking every source, formula, pivot and chart bound; PO025 extension is independent work, not executed.
-Maintained refresh test	Quantity 2 to 3 added RM45: line135, PJ-A1025, week1773, total3203. Restored2 and baseline3158.
-Copy refresh test	Dashboard Refresh copy: quantity2 to4 added RM90: line180, PJ-A1070, week1818, total3248, active2028, Delivered1568.
-Copy audience result	Top Delivered changed from PJ-B578 to PJ-A646. Pending460 and peak week3 at850 stayed unchanged. All four Checks differences0.
-Final restoration	Both workbooks restored to quantity2, line90, total3158, active1938, Delivered1478, count24.
+Maintained refresh test	Quantity 2 to 3 added RM45: line 135, PJ-A1025, week 1773, total 3203. Restored 2 and baseline 3158.
+Copy refresh test	Dashboard Refresh copy: quantity 2 to 4 added RM90: line 180, PJ-A1070, week 1818, total 3248, active 2028, Delivered 1568.
+Copy audience result	Top Delivered changed from PJ-B578 to PJ-A646. Pending 460 and peak week 3 at 850 stayed unchanged. All four Checks differences 0.
+Final restoration	Both workbooks restored to quantity 2, line 90, total 3158, active 1938, Delivered 1478, count 24.
 Refresh limit	No manual refresh was required for these existing-row value tests. This does not prove automatic new-row coverage. Independent reviewer and learner timing pending.
 ```
 
 ### Controlled refresh tests
 
-Maintained workbook E2:2 to3, observe +45 then restore2. Separate whole-workbook copy E2:2 to4, observe +90 then restore2. Never perform the copy test on maintained source. Copy-test expected KPIs:24 /3248 /2028 /1568; chart PJ-A1070; Week1818; Delivered leader PJ-A646. Final baseline:24 /3158 /1938 /1478; weeks728/754/850/826; Delivered leader PJ-B578, Pending460, peak week3 at850. Independent PO025 extension is not covered by existing-row refresh.
+Maintained workbook E2:2 to 3, observe +45 then restore 2. Separate whole-workbook copy E2:2 to 4, observe +90 then restore 2. Never perform the copy test on maintained source. Copy-test expected KPIs:24 /3248 /2028 /1568; chart PJ-A1070; Week 1818; Delivered leader PJ-A646. Final baseline:24 /3158 /1938 /1478; weeks 728/754/850/826; Delivered leader PJ-B578, Pending 460, peak week 3 at 850. Independent PO025 extension is not covered by existing-row refresh.

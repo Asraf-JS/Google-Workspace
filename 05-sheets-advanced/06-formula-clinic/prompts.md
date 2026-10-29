@@ -21,9 +21,9 @@ Create a whole-workbook copy named **GW - Sheets Advanced - Formula Clinic**. Ke
 
 ```text
 Defect	Expected behaviour	Planned fault	Test that should detect it
-Match mode	Known IT01 returns45; unknown IT99 must be an explicit missing match	Remove FALSE from Lookup Practice N2	Test IT99; sorted approximate lookup may return an unrelated rate
-Shifted row	Orders J2 multiplies its own Quantity2 by UnitCost45 =90	Change J2 from E2*F2 to E2*F3	Compare first-row product and inspect references
-Omitted row	All24 Orders amounts sum3158; final PO024 contributes64	Change J27 SUM range to J2:J24	Inspect final-row coverage and compare full control total
+Match mode	Known IT01 returns 45; unknown IT99 must be an explicit missing match	Remove FALSE from Lookup Practice N2	Test IT99; sorted approximate lookup may return an unrelated rate
+Shifted row	Orders J2 multiplies its own Quantity 2 by UnitCost 45 =90	Change J2 from E2*F2 to E2*F3	Compare first-row product and inspect references
+Omitted row	All 24 Orders amounts sum 3158; final PO024 contributes64	Change J27 SUM range to J2:J24	Inspect final-row coverage and compare full control total
 ```
 
 ### Clinic Checks A1:D3 — expected values before actuals
@@ -65,9 +65,9 @@ Analysis PJ-A Delivered	=SUM(D13:D16)	=Analysis!B4	=C19-B19
 
 ```text
 Cause	Why the control detects it
-Match mode	Removing FALSE leaves approximate matching: a known IT01 still looked correct45, but unknown IT99 incorrectly returned8. Exact matching keeps absence explicit.
-Shifted row	E2*F3 uses the next item price12, so Quantity2 gives24 instead of90. Inspecting same-row inputs catches a plausible numeric error.
-Omitted row	SUM(J2:J24) excludes PO024 amount64. After repairing J2, it gives3094 instead of3158; a final-row coverage test catches the omission.
+Match mode	Removing FALSE leaves approximate matching: a known IT01 still looked correct 45, but unknown IT99 incorrectly returned 8. Exact matching keeps absence explicit.
+Shifted row	E2*F3 uses the next item price 12, so Quantity 2 gives 24 instead of 90. Inspecting same-row inputs catches a plausible numeric error.
+Omitted row	SUM(J2:J24) excludes PO024 amount 64. After repairing J2, it gives 3094 instead of 3158; a final-row coverage test catches the omission.
 ```
 
 ### Clinic Comparisons A1:E4 — live isolated expressions
@@ -129,12 +129,12 @@ Troubleshooting step	Evidence to check
 | Target on clinic copy | Fault | Repair / restore |
 |---|---|---|
 | Lookup Practice N2 | =VLOOKUP(D2,Rates!$A$2:$D$7,3) | =VLOOKUP(D2,Rates!$A$2:$D$7,3,FALSE) |
-| Lookup Practice D2 | IT99 to expose approximate result8 | IT01; exact result45 |
-| Orders J2 | =E2*F3 returns24 | =E2*F2 returns90 |
-| Orders J27 | =SUM(J2:J24); combinedfault3028, after rowrepair3094 | =SUM(J2:J25) returns3158 |
-| Orders E2 | 0 gives valid zero line amount; total3068 | 2; total3158 |
-| Orders E3 | four gives #VALUE! in J3 and total | 4; J3=48; total3158 |
-| Orders E25 | 0 gives J25=0 and total3094 | 8; J25=64; total3158 |
+| Lookup Practice D2 | IT99 to expose approximate result 8 | IT01; exact result 45 |
+| Orders J2 | =E2*F3 returns 24 | =E2*F2 returns 90 |
+| Orders J27 | =SUM(J2:J24); combinedfault3028, after rowrepair3094 | =SUM(J2:J25) returns 3158 |
+| Orders E2 | 0 gives valid zero line amount; total 3068 | 2; total 3158 |
+| Orders E3 | four gives #VALUE! in J3 and total | 4; J3=48; total 3158 |
+| Orders E25 | 0 gives J25=0 and total 3094 | 8; J25=64; total 3158 |
 
 ### Filtered population helpers outside the source range
 
@@ -145,8 +145,8 @@ Visible Amount	Visible Count
 =SUBTOTAL(109,J2:J25)	=SUBTOTAL(103,A2:A25)
 ```
 
-Paste in **N26:O27**. With the Delivered filter active, expect1478/12. Remove the filter after recording the result; the helpers then show3158/24. SUM over the source remains an all-record total. Keep Cancelled records.
+Paste in **N26:O27**. With the Delivered filter active, expect 1478/12. Remove the filter after recording the result; the helpers then show 3158/24. SUM over the source remains an all-record total. Keep Cancelled records.
 
-In Clinic Checks **E13** use **=B13*C13** and F13 **=E13-D13**, then fill both through row16. The manual amounts must be recorded before these comparisons. Expected differences are0; subset sum556.
+In Clinic Checks **E13** use **=B13*C13** and F13 **=E13-D13**, then fill both through row 16. The manual amounts must be recorded before these comparisons. Expected differences are 0; subset sum 556.
 
-The numeric-text and duplicate-key cases classify source type/uniqueness problems separately from formula logic. Do not replace missing or invalid values with0. Independent hidden-fault diagnosis, partner presentation, reviewer work and learner duration remain pending.
+The numeric-text and duplicate-key cases classify source type/uniqueness problems separately from formula logic. Do not replace missing or invalid values with 0. Independent hidden-fault diagnosis, partner presentation, reviewer work and learner duration remain pending.

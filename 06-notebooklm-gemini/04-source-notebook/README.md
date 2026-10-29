@@ -56,7 +56,7 @@ Use the three-file fictional source pack from Chapter 1. Gemini Notebook creatio
 
 ![decisions answer](./images/c06-04-09-decisions-answer.jpg)
 
-3. Click the citation beside budget approval. The observed UI opens the imported note in the right panel with its text selected. Read the complete surrounding passage: the scripted meeting record says the proposed RM12,000 ceiling still needs Farid Hassan’s approval and the start date has not been agreed. A citation marker alone does not establish support.
+3. Click the citation beside budget approval. The observed UI opens the imported note in the right panel with its text selected. Read the complete surrounding passage: the scripted meeting record says the proposed RM 12,000 ceiling still needs Farid Hassan’s approval and the start date has not been agreed. A citation marker alone does not establish support.
 
 ![budget citation context](./images/c06-04-10-budget-citation-context.jpg)
 
@@ -74,7 +74,7 @@ Use the three-file fictional source pack from Chapter 1. Gemini Notebook creatio
 
 ![meeting only scope](./images/c06-04-13-meeting-only-scope.jpg)
 
-4. The author answer retained Aina’s template in week1, Bala’s status-definition review in week1, Siti’s fictional sample in week2 and the unapproved budget. Open the citation to check those exact statements. This conversation retained earlier answers; the scope demonstration does not isolate selection as a causal effect. For a fresh-context comparison, repeat in a separate notebook with the intended originals only.
+4. The author answer retained Aina’s template in week 1, Bala’s status-definition review in week 1, Siti’s fictional sample in week 2 and the unapproved budget. Open the citation to check those exact statements. This conversation retained earlier answers; the scope demonstration does not isolate selection as a causal effect. For a fresh-context comparison, repeat in a separate notebook with the intended originals only.
 
 ![meeting only answer](./images/c06-04-14-meeting-only-answer.jpg)
 
@@ -107,11 +107,11 @@ Use the three-file fictional source pack from Chapter 1. Gemini Notebook creatio
 
 ![conflict citation context](./images/c06-04-23-conflict-citation-context.jpg)
 
-6. Add the labelled **B revision2** test source from the prompts page using **Add sources → Copied text**. This additional fictional test input withdraws the Wednesday proposal and proposes no alternative; it does not modify the core project facts. Open the imported body to prove which revision is present. The earlier answer still shows the original proposals.
+6. Add the labelled **B revision 2** test source from the prompts page using **Add sources → Copied text**. This additional fictional test input withdraws the Wednesday proposal and proposes no alternative; it does not modify the core project facts. Open the imported body to prove which revision is present. The earlier answer still shows the original proposals.
 
 ![revised source old answer](./images/c06-04-24-revised-source-old-answer.jpg)
 
-7. Retain original B as evidence but deselect it. Leave A and revision2 selected, then rerun the identical approved-day question. The new answer cited revision2, recognised the withdrawal and retained the lack of approval. Open the revision citation to verify the text. The unchanged old answer remains a record of its earlier source scope.
+7. Retain original B as evidence but deselect it. Leave A and revision 2 selected, then rerun the identical approved-day question. The new answer cited revision 2, recognised the withdrawal and retained the lack of approval. Open the revision citation to verify the text. The unchanged old answer remains a record of its earlier source scope.
 
 ![revised selection rerun](./images/c06-04-25-revised-selection-rerun.jpg)
 

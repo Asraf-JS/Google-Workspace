@@ -8,7 +8,7 @@ In this chapter you will choose charts, sparklines and filter views; distinguish
 
 **Your result:** A compact source-linked dashboard with a tested update path.
 
-> **Status:** author reference with31 staged application captures through9.4. Native column chart, weekly sparkline, distinct KPI populations and recalculating Checks are verified. Existing-row +45 and scenario-copy +90 tests were restored. Independent PO025 coverage, reviewer and learner timing remain pending.
+> **Status:** author reference with 31 staged application captures through 9.4. Native column chart, weekly sparkline, distinct KPI populations and recalculating Checks are verified. Existing-row +45 and scenario-copy +90 tests were restored. Independent PO025 coverage, reviewer and learner timing remain pending.
 
 ## What You Will Learn
 
@@ -28,11 +28,11 @@ Use the checked advanced workbook with all-orders and delivered controls reconci
 
 ![checked project summary links](./images/c05-09-01-checked-project-summary-links.jpg)
 
-2. Create **Dashboard**. Set column A to220 pixels and B:H to140. Add the title and scope label. Link **A5:D8** to Dashboard Data A1:D4; this is a formula-linked view rather than copied static numbers.
+2. Create **Dashboard**. Set column A to 220 pixels and B:H to 140. Add the title and scope label. Link **A5:D8** to Dashboard Data A1:D4; this is a formula-linked view rather than copied static numbers.
 
 ![dashboard linked project view](./images/c05-09-02-dashboard-linked-project-view.jpg)
 
-3. Select Dashboard **A5:B8 > Insert chart**. In the Chart editor Setup, choose **Column chart**, retaining header row5 and project labels in column A. The automatic initial suggestion may be Pie; change the type explicitly.
+3. Select Dashboard **A5:B8 > Insert chart**. In the Chart editor Setup, choose **Column chart**, retaining header row 5 and project labels in column A. The automatic initial suggestion may be Pie; change the type explicitly.
 
 ![native column chart source range](./images/c05-09-03-native-column-chart-source-range.jpg)
 
@@ -44,13 +44,13 @@ Use the checked advanced workbook with all-orders and delivered controls reconci
 
 ![labelled project chart positioned](./images/c05-09-05-labelled-project-chart-positioned.jpg)
 
-6. In Dashboard Data A7:B10 create a status record-count table using **COUNTIF(Orders!$G$2:$G$25,A8)** and corresponding status labels. Link it to Dashboard F5:G8. **Delivered12 /Pending6 /Cancelled6** reconcile to24 records.
+6. In Dashboard Data A7:B10 create a status record-count table using **COUNTIF(Orders!$G$2:$G$25,A8)** and corresponding status labels. Link it to Dashboard F5:G8. **Delivered 12 /Pending6 /Cancelled6** reconcile to 24 records.
 
 ![separate status count view](./images/c05-09-06-separate-status-count-view.jpg)
 
 ## 9.2 Show the Weekly Sequence
 
-1. Use **Dashboard Data A15:E16**, because the draft's Analysis B16:E16 cells already contain earlier work. Put numeric week labels1/2/3/4 in B15:E15. B16 is **=SUMIFS(Orders!$J$2:$J$25,Orders!$H$2:$H$25,B$15)**; fill across. The four practice-week totals are **728 /754 /850 /826**.
+1. Use **Dashboard Data A15:E16**, because the draft's Analysis B16:E16 cells already contain earlier work. Put numeric week labels 1/2/3/4 in B15:E15. B16 is **=SUMIFS(Orders!$J$2:$J$25,Orders!$H$2:$H$25,B$15)**; fill across. The four practice-week totals are **728 /754 /850 /826**.
 
 ![numeric week sequence 728 754 850 826](./images/c05-09-07-numeric-week-sequence-728-754-850-826.jpg)
 
@@ -58,47 +58,47 @@ Use the checked advanced workbook with all-orders and delivered controls reconci
 
 ![weekly total reconciles to 3158](./images/c05-09-08-weekly-total-reconciles-to-3158.jpg)
 
-3. Link Dashboard B12:E13 to the week labels and amounts. Merge B15:E15 and enter **=SPARKLINE('Dashboard Data'!B16:E16)** in B15. Set row15 height40 and label the trend in A15. B16 **=SUM(B13:E13)** returns3158.
+3. Link Dashboard B12:E13 to the week labels and amounts. Merge B15:E15 and enter **=SPARKLINE('Dashboard Data'!B16:E16)** in B15. Set row 15 height40 and label the trend in A15. B16 **=SUM(B13:E13)** returns 3158.
 
 ![chart and chronological sparkline](./images/c05-09-09-chart-and-chronological-sparkline.jpg)
 
 ## 9.3 Test a Refresh
 
-1. Before changing source, record the predicted **+45** delta for PO001 Quantity **2 to3** at UnitCost45. Expected line135, PJ-A all amount1025, Week 1 amount 773, total3203 and unchanged record count24.
+1. Before changing source, record the predicted **+45** delta for PO001 Quantity **2 to 3** at UnitCost 45. Expected line 135, PJ-A all amount 1025, Week 1 amount 773, total 3203 and unchanged record count 24.
 
 ![predicted refresh delta 45](./images/c05-09-10-predicted-refresh-delta-45.jpg)
 
-2. On maintained Orders, change **E2 to3**. Inspect the PO001 source line and its calculated **Amount135**. This is a temporary change to an existing record, not a new-row coverage test.
+2. On maintained Orders, change **E2 to 3**. Inspect the PO001 source line and its calculated **Amount 135**. This is a temporary change to an existing record, not a new-row coverage test.
 
-![temporary po001 quantity3 amount135](./images/c05-09-11-temporary-po001-quantity3-amount135.jpg)
+![temporary po001 quantity 3 amount 135](./images/c05-09-11-temporary-po001-quantity3-amount135.jpg)
 
 3. Inspect Dashboard. The project table and chart update PJ-A to **1025**; Week 1 becomes **773**, the sparkline shape changes and the weekly total becomes **3203**.
 
-![chart and week1 refresh plus45](./images/c05-09-12-chart-and-week1-refresh-plus45.jpg)
+![chart and week 1 refresh plus 45](./images/c05-09-12-chart-and-week1-refresh-plus45.jpg)
 
-4. Inspect the existing native **Pivot Review**: its all-record total also becomes3203 without a manual refresh in this captured test. Its source bounds remain the same24-record table.
+4. Inspect the existing native **Pivot Review**: its all-record total also becomes 3203 without a manual refresh in this captured test. Its source bounds remain the same 24-record table.
 
-![native pivot refresh total3203](./images/c05-09-13-native-pivot-refresh-total3203.jpg)
+![native pivot refresh total 3203](./images/c05-09-13-native-pivot-refresh-total3203.jpg)
 
-5. Inspect Dashboard Data's weekly totals and source comparison. Both totals are3203 and the difference remains0. Preserve the transient observation before restoration.
+5. Inspect Dashboard Data's weekly totals and source comparison. Both totals are 3203 and the difference remains 0. Preserve the transient observation before restoration.
 
 ![weekly refresh and source control](./images/c05-09-14-weekly-refresh-and-source-control.jpg)
 
-6. Restore **Orders E2 to2**, returning the line Amount to90.
+6. Restore **Orders E2 to 2**, returning the line Amount to 90.
 
-![source quantity restored to2](./images/c05-09-15-source-quantity-restored-to2.jpg)
+![source quantity restored to 2](./images/c05-09-15-source-quantity-restored-to2.jpg)
 
-7. Verify Dashboard returns to PJ-A980, Week 1 = 728 and total3158; the chart and sparkline return to baseline.
+7. Verify Dashboard returns to PJ-A980, Week 1 = 728 and total 3158; the chart and sparkline return to baseline.
 
 ![chart and sparkline return to baseline](./images/c05-09-16-chart-and-sparkline-return-to-baseline.jpg)
 
 8. Confirm Pivot Review also returns to **3158**. Existing-row value refresh was automatic in this run; this does not establish automatic range extension for appended records.
 
-![pivot restored to3158](./images/c05-09-17-pivot-restored-to3158.jpg)
+![pivot restored to 3158](./images/c05-09-17-pivot-restored-to3158.jpg)
 
 ## 9.4 Design a Dashboard With a Visible Refresh Contract
 
-1. Create **Dashboard Contract** and record the audience, source **Orders A1:K25**, units RM,24-record population and practice weeks. Keep **all orders including Cancelled**, **ActiveAmount excluding Cancelled**, and **Delivered only** distinct. Predict the separate copy test before editing: Quantity2 to4 adds90, giving line180, PJ-A = 1,070, Week 1 = 818, total3248, Active2028 and Delivered1568. Count remains24.
+1. Create **Dashboard Contract** and record the audience, source **Orders A1:K25**, units RM,24-record population and practice weeks. Keep **all orders including Cancelled**, **ActiveAmount excluding Cancelled**, and **Delivered only** distinct. Predict the separate copy test before editing: Quantity 2 to 4 adds 90, giving line 180, PJ-A = 1,070, Week 1 = 818, total 3248, Active 2028 and Delivered 1568. Count remains 24.
 
 ![dashboard brief and refresh predictions](./images/c05-09-18-dashboard-brief-and-refresh-predictions.jpg)
 
@@ -106,11 +106,11 @@ Use the checked advanced workbook with all-orders and delivered controls reconci
 
 ![distinct kpi populations](./images/c05-09-19-distinct-kpi-populations.jpg)
 
-3. Add D18:E23 **Checks**. Compare count with Pivot Counts E6, all amount with source SUM J2:J25, active with Analysis C15, and Delivered with Database Analysis D10. All four differences are0. E23 uses **=IF(COUNTIF(E19:E22,0)=4,"All checks pass","Review mismatch")**; it is a recalculating result, not typed assurance.
+3. Add D18:E23 **Checks**. Compare count with Pivot Counts E6, all amount with source SUM J2:J25, active with Analysis C15, and Delivered with Database Analysis D10. All four differences are 0. E23 uses **=IF(COUNTIF(E19:E22,0)=4,"All checks pass","Review mismatch")**; it is a recalculating result, not typed assurance.
 
 ![recalculating difference checks](./images/c05-09-20-recalculating-difference-checks.jpg)
 
-4. Answer the audience questions using formulas in A24:C27. Largest Delivered project is **PJ-B = 578**; total Pending Amount is **460**; largest practice week is **3 at850**. Keep the chart's all-orders comparison distinct from the Delivered ranking.
+4. Answer the audience questions using formulas in A24:C27. Largest Delivered project is **PJ-B = 578**; total Pending Amount is **460**; largest practice week is **3 at 850**. Keep the chart's all-orders comparison distinct from the Delivered ranking.
 
 ![audience answers and dashboard baseline](./images/c05-09-21-audience-answers-and-dashboard-baseline.jpg)
 
@@ -118,31 +118,31 @@ Use the checked advanced workbook with all-orders and delivered controls reconci
 
 ![scenario copy dialog](./images/c05-09-22-scenario-copy-dialog.jpg)
 
-6. Open the new workbook and inspect Dashboard before editing. It starts at the same24/3158/1938/1478 baseline and has its own source, formulas and chart.
+6. Open the new workbook and inspect Dashboard before editing. It starts at the same 24/3158/1938/1478 baseline and has its own source, formulas and chart.
 
 ![scenario copy baseline](./images/c05-09-23-scenario-copy-baseline.jpg)
 
-7. In this **copy only**, change Orders **E2 to4**. PO001 Amount becomes **180**, a90 increase.
+7. In this **copy only**, change Orders **E2 to 4**. PO001 Amount becomes **180**, a90 increase.
 
 ![scenario quantity four](./images/c05-09-24-scenario-quantity-four.jpg)
 
-8. Inspect the copied dashboard: PJ-A all amount **1070**, Week1 **818**, all amount **3248**, active **2028**, Delivered **1568**, count24 and all Checks differences0. The chart label and sparkline change. Largest Delivered project changes to **PJ-A = 646**; Pending remains460 and week 3 remains largest at850.
+8. Inspect the copied dashboard: PJ-A all amount **1070**, Week 1 **818**, all amount **3248**, active **2028**, Delivered **1568**, count 24 and all Checks differences 0. The chart label and sparkline change. Largest Delivered project changes to **PJ-A = 646**; Pending remains 460 and week 3 remains largest at 850.
 
 ![scenario dashboard refresh](./images/c05-09-25-scenario-dashboard-refresh.jpg)
 
-9. Check the copied native Pivot Review total **3248**. Pivot Counts remains24. The copy retains its native source and pivot relationships.
+9. Check the copied native Pivot Review total **3248**. Pivot Counts remains 24. The copy retains its native source and pivot relationships.
 
 ![scenario pivot refresh](./images/c05-09-26-scenario-pivot-refresh.jpg)
 
-10. Check copied Dashboard Data: weekly amounts **818 /754 /850 /826**, weekly sum and source amount3248, difference0.
+10. Check copied Dashboard Data: weekly amounts **818 /754 /850 /826**, weekly sum and source amount 3248, difference 0.
 
 ![scenario weekly refresh](./images/c05-09-27-scenario-weekly-refresh.jpg)
 
-11. Restore the copy's **Orders E2 to2**, returning line Amount90.
+11. Restore the copy's **Orders E2 to 2**, returning line Amount 90.
 
 ![scenario source restored](./images/c05-09-28-scenario-source-restored.jpg)
 
-12. Confirm the copied Dashboard returns to **24 /3158 /1938 /1478**, PJ-B = 578, Pending = 460, peak week 3 at850 and four zero differences. Retain the restored copy as evidence of the controlled test.
+12. Confirm the copied Dashboard returns to **24 /3158 /1938 /1478**, PJ-B = 578, Pending = 460, peak week 3 at 850 and four zero differences. Retain the restored copy as evidence of the controlled test.
 
 ![scenario dashboard restored](./images/c05-09-29-scenario-dashboard-restored.jpg)
 
@@ -154,7 +154,7 @@ Use the checked advanced workbook with all-orders and delivered controls reconci
 
 ![final maintained dashboard](./images/c05-09-31-final-maintained-dashboard.jpg)
 
-> **Validation boundary:** guided9.1-9.3 and author casework9.4 were executed through learner UI, with read-only native evidence of both temporary changes and restoration. This is not an independent learner attempt. PO025 range extension, human reviewer and the planned70-minute classroom allocation remain unverified.
+> **Validation boundary:** guided 9.1-9.3 and author casework 9.4 were executed through learner UI, with read-only native evidence of both temporary changes and restoration. This is not an independent learner attempt. PO025 range extension, human reviewer and the planned 70-minute classroom allocation remain unverified.
 
 ## Independent Challenge
 

@@ -26,10 +26,10 @@ Rule test values: status Complete, In Progress, Not Started, Done and blank; Due
 
 - Tasks status range **F2:F13**; single-selection dropdown Complete / In Progress / Not Started, **Reject the input**. Spare N2 has the copied validation and is empty after the rejected Done test.
 - Rule Tests status inputs **B2:B6** use that same strict rule. B2:B4 retain Complete / In Progress / Not Started; attempted Done in B5 was rejected, and clearing B6 was allowed. A2:A6 retain the attempted test values; observations are separate in D.
-- Entry Rule Practice **E2:E4**: custom formula **=AND(ISNUMBER(E2),E2=INT(E2),E2>=1,E2<=4)**, reject invalid input. Help text: Enter a whole practice week from 1 to 4. This is not a calendar date. Test E4 with0/1/4/5/1.5, then clearing. Observed reject/accept/accept/reject/reject/clearing allowed. Restore E4 to1. The bounded rule does not cover the copied notes below the three-record table.
-- Tasks **I15 SUM costs / J15 =SUM(G2:G13)** displays10400 before and during either view. Ordinary SUM includes hidden rows.
+- Entry Rule Practice **E2:E4**: custom formula **=AND(ISNUMBER(E2),E2=INT(E2),E2>=1,E2<=4)**, reject invalid input. Help text: Enter a whole practice week from 1 to 4. This is not a calendar date. Test E4 with 0/1/4/5/1.5, then clearing. Observed reject/accept/accept/reject/reject/clearing allowed. Restore E4 to 1. The bounded rule does not cover the copied notes below the three-record table.
+- Tasks **I15 SUM costs / J15 =SUM(G2:G13)** displays 10400 before and during either view. Ordinary SUM includes hidden rows.
 - **Incomplete tasks**, Tasks A1:I13: exclude Complete; eight IDs T002,T003,T005,T006,T008,T009,T011,T012.
 - **Planning incomplete tasks**, same range: Team Planning and Status excluding Complete; two IDs T002,T003.
-- Both views were reopened and checked, then closed with all12 rows visible. Entry guide and view observations are in Rule Tests A18:B24/A27:E31.
+- Both views were reopened and checked, then closed with all 12 rows visible. Entry guide and view observations are in Rule Tests A18:B24/A27:E31.
 
 Source Tasks A1:L13 values/formulas and the original Entry Practice records remain unchanged. Testing clearing does not guarantee all required fields are complete. Independent Procurement/new-row coverage challenges and classroom timing remain pending.

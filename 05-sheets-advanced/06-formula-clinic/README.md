@@ -34,13 +34,13 @@ Use a challenge copy of your advanced workbook. Keep the baseline original untou
 
 ![record intended behaviour and fault predictions](./images/c05-06-03-record-intended-behaviour-and-fault-predictions.jpg)
 
-3. On the copy Lookup Practice N2 remove FALSE. With known IT01 it still returns 45. Temporarily test D2=IT99: the omitted mode returns8 from the sorted mapping, an incorrect rate for an absent key. Preserve that observation, then restore D2=IT01.
+3. On the copy Lookup Practice N2 remove FALSE. With known IT01 it still returns 45. Temporarily test D2=IT99: the omitted mode returns 8 from the sorted mapping, an incorrect rate for an absent key. Preserve that observation, then restore D2=IT01.
 
 ![omitted match mode still looks correct for known key](./images/c05-06-04-omitted-match-mode-still-looks-correct-for-known-key.jpg)
 
 ![unknown key exposes approximate rate 8](./images/c05-06-05-unknown-key-exposes-approximate-rate-8.jpg)
 
-4. On copy Orders J2 use =E2*F3. The numeric 24 is plausible but wrong because the next row's cost is12.
+4. On copy Orders J2 use =E2*F3. The numeric 24 is plausible but wrong because the next row's cost is 12.
 
 ![shifted multiplication uses next row unit cost](./images/c05-06-06-shifted-multiplication-uses-next-row-unit-cost.jpg)
 
@@ -118,7 +118,7 @@ Use a challenge copy of your advanced workbook. Keep the baseline original untou
 
 ![duplicate sandbox before](./images/c05-06-24-duplicate-sandbox-before.jpg)
 
-6. Append **IT03 / Duplicate cable rate /99 /Equipment** at A8:D8 on that test tab only. Original IT03 remains30.
+6. Append **IT03 / Duplicate cable rate /99 /Equipment** at A8:D8 on that test tab only. Original IT03 remains 30.
 
 ![duplicate key in sandbox](./images/c05-06-25-duplicate-key-in-sandbox.jpg)
 

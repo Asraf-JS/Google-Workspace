@@ -32,7 +32,7 @@ Use your baseline workbook and separate capstone copy.
 
 ![named filter views inactive](./images/c05-12-02-named-filter-views-inactive.jpg)
 
-3. On Dashboard verify **24 records / all Amount3,158 / Active 1,938 / Delivered 1,478**. Status counts are **12 Delivered /6 Pending /6 Cancelled**. The four control differences are zero and status reads **All checks pass**. Record these baseline values before any extension. The baseline chart shows project all-order amounts **980 /1,204 /974**; practice weeks are **728 /754 /850 /826**.
+3. On Dashboard verify **24 records / all Amount 3,158 / Active 1,938 / Delivered 1,478**. Status counts are **12 Delivered /6 Pending /6 Cancelled**. The four control differences are zero and status reads **All checks pass**. Record these baseline values before any extension. The baseline chart shows project all-order amounts **980 /1,204 /974**; practice weeks are **728 /754 /850 /826**.
 
 ![baseline dashboard controls](./images/c05-12-03-baseline-dashboard-controls.jpg)
 
@@ -60,11 +60,11 @@ Distinguish live source checks from historical practice. Validation Practice has
 
 ![whole workbook extension copy](./images/c05-12-07-whole-workbook-extension-copy.jpg)
 
-2. Add **Extension Checks** before editing Orders. Write predictions: **25 unique records, all 3,248, Active 2,028, Delivered 1,568, PJ-A Delivered 646, week 4 all Amount916, Pending>=200 count 0**. Keep the original 2:25 calculations separate from the predicted and observed extension columns.
+2. Add **Extension Checks** before editing Orders. Write predictions: **25 unique records, all 3,248, Active 2,028, Delivered 1,568, PJ-A Delivered 646, week 4 all Amount 916, Pending>=200 count 0**. Keep the original 2:25 calculations separate from the predicted and observed extension columns.
 
 ![controls and predictions before append](./images/c05-12-08-controls-and-predictions-before-append.jpg)
 
-3. In this extension copy only, select Orders row 26 and **Insert 1 row above**. This preserves the copied total labels and totals below the new order. Enter **PO025 / PJ-A / Planning / IT01 / quantity 2 / UnitCost 45 / Delivered / week 4 / fictional handover description**. Use J26=E26*F26 and K26=IF(G26="Cancelled",0,J26). The new Amount and ActiveAmount are both90.
+3. In this extension copy only, select Orders row 26 and **Insert 1 row above**. This preserves the copied total labels and totals below the new order. Enter **PO025 / PJ-A / Planning / IT01 / quantity 2 / UnitCost 45 / Delivered / week 4 / fictional handover description**. Use J26=E26*F26 and K26=IF(G26="Cancelled",0,J26). The new Amount and ActiveAmount are both 90.
 
 ![po025 entered in extension only](./images/c05-12-09-po025-entered-in-extension-only.jpg)
 
@@ -72,11 +72,11 @@ Distinguish live source checks from historical practice. Validation Practice has
 
 ![new line formulas and old source totals](./images/c05-12-10-new-line-formulas-and-old-source-totals.jpg)
 
-5. Reopen Dashboard **before** extending dependencies. In the captured run, the old source ranges still returned24 records/all 3,158, old chart values and **All checks pass**. Both summaries and controls omitted PO025. This is a deliberately observed coverage failure: internal agreement is insufficient when all participating ranges are stale.
+5. Reopen Dashboard **before** extending dependencies. In the captured run, the old source ranges still returned 24 records/all 3,158, old chart values and **All checks pass**. Both summaries and controls omitted PO025. This is a deliberately observed coverage failure: internal agreement is insufficient when all participating ranges are stale.
 
 ![stale dashboard before range update](./images/c05-12-11-stale-dashboard-before-range-update.jpg)
 
-6. Follow the inventory. Extend Orders total SUM bounds through 26 at J28/K28. In Analysis extend source endpoints to26 for B4:D6, B9:D11, C14:D18 and B28, preserving criteria and absolute anchors. Update scenario population wording. Check the all/status/active reconciliations; the expected all-order total is3,248, not the old baseline total.
+6. Follow the inventory. Extend Orders total SUM bounds through 26 at J28/K28. In Analysis extend source endpoints to 26 for B4:D6, B9:D11, C14:D18 and B28, preserving criteria and absolute anchors. Update scenario population wording. Check the all/status/active reconciliations; the expected all-order total is 3,248, not the old baseline total.
 
 ![extended source and conditional analysis](./images/c05-12-12-extended-source-and-conditional-analysis.jpg)
 
@@ -84,11 +84,11 @@ Distinguish live source checks from historical practice. Validation Practice has
 
 ![database rectangle includes new row](./images/c05-12-13-database-rectangle-includes-new-row.jpg)
 
-8. Extend Dashboard Data B8:B10 status-count bounds, B16:E16 weekly bounds and B19 source-total bounds. The project table continues to link to the updated Analysis summary. Confirm statuses **13 /6 /6**, weeks **728 /754 /850 /916**, and weekly/source total3,248. Rows22:28 are historical Lab 9 predictions; they are not refreshed scenario results.
+8. Extend Dashboard Data B8:B10 status-count bounds, B16:E16 weekly bounds and B19 source-total bounds. The project table continues to link to the updated Analysis summary. Confirm statuses **13 /6 /6**, weeks **728 /754 /850 /916**, and weekly/source total 3,248. Rows 22:28 are historical Lab 9 predictions; they are not refreshed scenario results.
 
 ![status and weekly summary refresh](./images/c05-12-14-status-and-weekly-summary-refresh.jpg)
 
-9. Extend Dashboard B19 record-count, B21 Active and E20 source-check bounds to26. Keep the existing links to the updated summaries and database calculation. Label the view **PO025 extension test,25 orders**. The chart and sparkline now show the refreshed summaries, but the count control still reports **1** and **Review mismatch** until its independent pivot is updated. Do not remove the control to make the output look complete.
+9. Extend Dashboard B19 record-count, B21 Active and E20 source-check bounds to 26. Keep the existing links to the updated summaries and database calculation. Label the view **PO025 extension test,25 orders**. The chart and sparkline now show the refreshed summaries, but the count control still reports **1** and **Review mismatch** until its independent pivot is updated. Do not remove the control to make the output look complete.
 
 ![dashboard exposes unextended count pivot](./images/c05-12-15-dashboard-exposes-unextended-count-pivot.jpg)
 
@@ -116,15 +116,15 @@ Distinguish live source checks from historical practice. Validation Practice has
 
 ![amount pivot committed 3248 total](./images/c05-12-24-amount-pivot-committed-3248-total.jpg)
 
-16. Return to Dashboard. All four differences must now be zero and status **All checks pass**, alongside the independently predicted 25-record totals. The all-order chart is **1,070 /1,204 /974**; the Delivered leader is **PJ-A646**; the largest practice week is **4 at916**. These are fictional Amount comparisons, not profit, savings or project-performance conclusions.
+16. Return to Dashboard. All four differences must now be zero and status **All checks pass**, alongside the independently predicted 25-record totals. The all-order chart is **1,070 /1,204 /974**; the Delivered leader is **PJ-A646**; the largest practice week is **4 at 916**. These are fictional Amount comparisons, not profit, savings or project-performance conclusions.
 
 ![verified extension dashboard](./images/c05-12-25-verified-extension-dashboard.jpg)
 
-17. Inspect **Chart editor > Setup**. Its data range remains **A5:B8** on Dashboard, using the fixed three-project summary. Confirm actual refreshed values rather than assuming the chart is linked. Dashboard B15 SPARKLINE follows Dashboard Data B16:E16, whose week 4 value is now916.
+17. Inspect **Chart editor > Setup**. Its data range remains **A5:B8** on Dashboard, using the fixed three-project summary. Confirm actual refreshed values rather than assuming the chart is linked. Dashboard B15 SPARKLINE follows Dashboard Data B16:E16, whose week 4 value is now 916.
 
 ![chart fixed summary source verified](./images/c05-12-26-chart-fixed-summary-source-verified.jpg)
 
-18. Complete Extension Checks observed columnD with expanded2:26 calculations and compare with predictions inC. All eight differences inE must be zero. Retain a second arithmetic check: baseline 3,158+new90=3,248 and baseline Delivered 1,478+90=1,568; compare with the native pivots. Keep original-bound calculations inB labelled as such rather than relabelling them current.
+18. Complete Extension Checks observed columnD with expanded 2:26 calculations and compare with predictions inC. All eight differences inE must be zero. Retain a second arithmetic check: baseline 3,158+new90=3,248 and baseline Delivered 1,478+90=1,568; compare with the native pivots. Keep original-bound calculations inB labelled as such rather than relabelling them current.
 
 ![extension controls and independent reconciliation](./images/c05-12-27-extension-controls-and-independent-reconciliation.jpg)
 
@@ -134,11 +134,11 @@ Distinguish live source checks from historical practice. Validation Practice has
 
 ![key route inputs before lookup](./images/c05-12-28-key-route-inputs-before-lookup.jpg)
 
-2. Guard the exact lookup: when match count is not one, return **Unresolved rate**. IT99 must display **Open - unmapped key** and **Hold - no numeric amount**. Known keys yield45 and12. Record open issueK01 and the evidence needed to resolve it. Do not add an invented Rates mapping or convert the missing rate to 0. No source-owner response was requested during this walkthrough.
+2. Guard the exact lookup: when match count is not one, return **Unresolved rate**. IT99 must display **Open - unmapped key** and **Hold - no numeric amount**. Known keys yield45 and 12. Record open issueK01 and the evidence needed to resolve it. Do not add an invented Rates mapping or convert the missing rate to 0. No source-owner response was requested during this walkthrough.
 
 ![unmapped key visible unresolved](./images/c05-12-29-unmapped-key-visible-unresolved.jpg)
 
-3. Add **Handover Issues**. Record what failed, the evidence and the repair. Version1 needed an explicit pivot confirmation action and a separate count-pivot check. The stale green dashboard also justified a release gate based on independently predicted totals. Clarify historical-tab and manual-validation boundaries. Keep K01 open; a numeric-looking fallback would conceal it.
+3. Add **Handover Issues**. Record what failed, the evidence and the repair. Version 1 needed an explicit pivot confirmation action and a separate count-pivot check. The stale green dashboard also justified a release gate based on independently predicted totals. Clarify historical-tab and manual-validation boundaries. Keep K01 open; a numeric-looking fallback would conceal it.
 
 In this author attempt, typing a range in the sidebar and pressing Enter did not persist. The author corrected the interaction using the range picker and OK, then verified actual totals. This is an automation correction, not evidence that a student made an error or that every future interface behaves identically. Uncommitted captures are excluded from the lesson.
 
@@ -172,7 +172,7 @@ In this author attempt, typing a range in the sidebar and pressing Enter did not
 
 ![fresh view runbook read through](./images/c05-12-37-fresh-view-runbook-read-through.jpg)
 
-11. Use the runbook to locate Orders and inspect PO025 source/formula cells. Confirm the line is present once, IT01 maps uniquely, and J/K each equal90. Keep baseline and scenario sources distinct.
+11. Use the runbook to locate Orders and inspect PO025 source/formula cells. Confirm the line is present once, IT01 maps uniquely, and J/K each equal 90. Keep baseline and scenario sources distinct.
 
 ![runbook source check in fresh view](./images/c05-12-38-runbook-source-check-in-fresh-view.jpg)
 
@@ -184,7 +184,7 @@ In this author attempt, typing a range in the sidebar and pressing Enter did not
 
 ![final fixed summary with live checks](./images/c05-12-40-final-fixed-summary-with-live-checks.jpg)
 
-**Author verification:** guided12.1–12.4 was executed in the learner UI. Recovery baseline values/formats and original source rows/Rates are preserved; active extension/new formulas are error-free; native amount/count pivots and refreshed chart/sparkline were checked. Independent PO026, actual partner review, spoken delivery and classroom timing remain unperformed.
+**Author verification:** guided 12.1–12.4 was executed in the learner UI. Recovery baseline values/formats and original source rows/Rates are preserved; active extension/new formulas are error-free; native amount/count pivots and refreshed chart/sparkline were checked. Independent PO026, actual partner review, spoken delivery and classroom timing remain unperformed.
 
 ## Independent Challenge
 

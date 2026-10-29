@@ -8,7 +8,7 @@ In this chapter you will generate and inspect formula proposals and chart summar
 
 **Your result:** A checked AI formula proposal and evidence-based findings.
 
-> **Status:** author reference with 41 staged application captures through10.4. Gemini formula proposals and findings were checked; its generated-chart direct-link claim was disproved by a source-change test. Boundary, copied-reference, missing-key and isolated new-row cases are verified. Independent PO025 pivot/chart coverage, reviewer and learner timing remain pending.
+> **Status:** author reference with 41 staged application captures through 10.4. Gemini formula proposals and findings were checked; its generated-chart direct-link claim was disproved by a source-change test. Boundary, copied-reference, missing-key and isolated new-row cases are verified. Independent PO025 pivot/chart coverage, reviewer and learner timing remain pending.
 
 ## What You Will Learn
 
@@ -40,7 +40,7 @@ Use the native checked workbook and usable Gemini in Sheets access. If unavailab
 
 ![gemini sumif proposal](./images/c05-10-04-gemini-sumif-proposal.jpg)
 
-5. Create **AI Proposals**, with column A at250 pixels and B:D at210. Enter the proposal in **B2**, compare with **='Database Analysis'!D10** in C2 and calculate B2-C2 in D2. Add a Delivered record-count check in row3. Actual/control values are **1,478 /1,478** and **12 /12**, with both differences0. Row4 uses a formula to report whether both controls match.
+5. Create **AI Proposals**, with column A at 250 pixels and B:D at 210. Enter the proposal in **B2**, compare with **='Database Analysis'!D10** in C2 and calculate B2-C2 in D2. Add a Delivered record-count check in row 3. Actual/control values are **1,478 /1,478** and **12 /12**, with both differences 0. Row 4 uses a formula to report whether both controls match.
 
 ![proposal tested against controls](./images/c05-10-05-proposal-tested-against-controls.jpg)
 
@@ -80,35 +80,35 @@ Use the native checked workbook and usable Gemini in Sheets access. If unavailab
 
 ![preview before insertion](./images/c05-10-13-preview-before-insertion.jpg)
 
-4. Create a separate **AI Visual Test** tab, reopen Gemini and select the chart card's **Insert**. In this run, Insert created its own new **[Chart1] Generated project amount - incl. Cancelled (RM)** tab, regardless of the selected blank destination. The app reported that source data was at the bottom of the new sheet. Its generated table is **A3:B6**.
+4. Create a separate **AI Visual Test** tab, reopen Gemini and select the chart card's **Insert**. In this run, Insert created its own new **[Chart 1] Generated project amount - incl. Cancelled (RM)** tab, regardless of the selected blank destination. The app reported that source data was at the bottom of the new sheet. Its generated table is **A3:B6**.
 
 ![generated chart created new source tab](./images/c05-10-14-generated-chart-created-new-source-tab.jpg)
 
-5. Double-click the inserted chart and inspect **Chart editor > Setup**. Its actual data range is **A3:B6 on the generated tab**, not Dashboard A5:B8. Inspect generated **B4:B6**: they contain the numbers980/1204/974 rather than formulas linking to Dashboard. This is already evidence against the direct-link claim, but perform the change test as well.
+5. Double-click the inserted chart and inspect **Chart editor > Setup**. Its actual data range is **A3:B6 on the generated tab**, not Dashboard A5:B8. Inspect generated **B4:B6**: they contain the numbers 980/1204/974 rather than formulas linking to Dashboard. This is already evidence against the direct-link claim, but perform the change test as well.
 
 ![actual generated chart range](./images/c05-10-15-actual-generated-chart-range.jpg)
 
-6. In AI Visual Test A1:B8, record the AI claim, observed table/range and predictions before editing. Changing this copy's **Orders E2 from2 to3**, at UnitCost45, should produce line Amount135, live PJ-A1025 and total3203. Predict that the generated number table and its chart will remain at980/1204/974.
+6. In AI Visual Test A1:B8, record the AI claim, observed table/range and predictions before editing. Changing this copy's **Orders E2 from 2 to 3**, at UnitCost 45, should produce line Amount 135, live PJ-A1025 and total 3203. Predict that the generated number table and its chart will remain at 980/1204/974.
 
 ![visual refresh predictions](./images/c05-10-16-visual-refresh-predictions.jpg)
 
-7. Change **Orders E2 to3** in the AI Audit copy. Inspect the PO001 line Amount **135**. Do not alter the maintained workbook.
+7. Change **Orders E2 to 3** in the AI Audit copy. Inspect the PO001 line Amount **135**. Do not alter the maintained workbook.
 
 ![source quantity three](./images/c05-10-17-source-quantity-three.jpg)
 
-8. Inspect the checked **Dashboard**: PJ-A all Amount becomes **1,025**, Week1 becomes773 and total Amount becomes **3,203**. The source-linked chart updates.
+8. Inspect the checked **Dashboard**: PJ-A all Amount becomes **1,025**, Week 1 becomes 773 and total Amount becomes **3,203**. The source-linked chart updates.
 
 ![linked dashboard refreshes](./images/c05-10-18-linked-dashboard-refreshes.jpg)
 
-9. Return to the generated tab. **B4 remains980** and its chart retains the original values. The observed change test contradicts Gemini's direct-refresh statement. Preserve this transient evidence before restoration.
+9. Return to the generated tab. **B4 remains 980** and its chart retains the original values. The observed change test contradicts Gemini's direct-refresh statement. Preserve this transient evidence before restoration.
 
 ![generated snapshot stays stale](./images/c05-10-19-generated-snapshot-stays-stale.jpg)
 
-10. Restore the AI Audit copy's **Orders E2 to2**, returning PO001 Amount to90.
+10. Restore the AI Audit copy's **Orders E2 to 2**, returning PO001 Amount to 90.
 
 ![source restored](./images/c05-10-20-source-restored.jpg)
 
-11. Check Dashboard returns to **24 records /3,158 all Amount /1,938 ActiveAmount /1,478 Delivered**, with all four difference checks0.
+11. Check Dashboard returns to **24 records /3,158 all Amount /1,938 ActiveAmount /1,478 Delivered**, with all four difference checks 0.
 
 ![live dashboard restored](./images/c05-10-21-live-dashboard-restored.jpg)
 
@@ -116,13 +116,13 @@ Use the native checked workbook and usable Gemini in Sheets access. If unavailab
 
 ![snapshot labelled after test](./images/c05-10-22-snapshot-labelled-after-test.jpg)
 
-13. Complete AI Visual Test A10:B11 with the observed live1025 versus static980 result and source restoration. Record the actual source range and refresh behaviour, rather than relying on the original AI description.
+13. Complete AI Visual Test A10:B11 with the observed live 1025 versus static 980 result and source restoration. Record the actual source range and refresh behaviour, rather than relying on the original AI description.
 
 ![visual refresh audit result](./images/c05-10-23-visual-refresh-audit-result.jpg)
 
 ## 10.4 Evaluate AI Proposals Against Known Test Cases
 
-1. Create **AI Test Matrix** before the next formula request. Record expected outcomes: Delivered1478/12; Pending Amount>=200 gives0 amount/0 records; missing IT99 is not a confirmed zero rate; rows2:24 total3094 rather than3158; ActiveAmount1938 differs from Delivered1478. Plan separate threshold, copied-reference and new-row fixtures. The copy-paste page supplies the full matrix.
+1. Create **AI Test Matrix** before the next formula request. Record expected outcomes: Delivered 1478/12; Pending Amount>=200 gives 0 amount/0 records; missing IT99 is not a confirmed zero rate; rows 2:24 total 3094 rather than 3158; ActiveAmount 1938 differs from Delivered 1478. Plan separate threshold, copied-reference and new-row fixtures. The copy-paste page supplies the full matrix.
 
 ![prewritten proposal test matrix](./images/c05-10-24-prewritten-proposal-test-matrix.jpg)
 
@@ -138,19 +138,19 @@ Use the native checked workbook and usable Gemini in Sheets access. If unavailab
 
 ![gemini fixed threshold formulas](./images/c05-10-26-gemini-fixed-threshold-formulas.jpg)
 
-4. In AI Proposals rows7:11, execute both proposals and compare with the prewritten expectations. Both threshold results are0. Separate controls confirm all Pending Amount460 and maximum Pending Amount180. A zero threshold result does not, by itself, establish that source coverage is complete.
+4. In AI Proposals rows 7:11, execute both proposals and compare with the prewritten expectations. Both threshold results are 0. Separate controls confirm all Pending Amount 460 and maximum Pending Amount 180. A zero threshold result does not, by itself, establish that source coverage is complete.
 
 ![threshold proposals tested on source](./images/c05-10-27-threshold-proposals-tested-on-source.jpg)
 
-5. Trace the six Pending records in AI Proposals A14:D21 by linking the actual source cells. IDs are **PO002 /PO006 /PO010 /PO014 /PO018 /PO022**, with amounts **48 /16 /180 /96 /48 /72**. They sum to460; none meets >=200. This checks the actual contributing population.
+5. Trace the six Pending records in AI Proposals A14:D21 by linking the actual source cells. IDs are **PO002 /PO006 /PO010 /PO014 /PO018 /PO022**, with amounts **48 /16 /180 /96 /48 /72**. They sum to 460; none meets >=200. This checks the actual contributing population.
 
 ![six pending records manually traced](./images/c05-10-28-six-pending-records-manually-traced.jpg)
 
-6. Create **AI Boundary Cases**. Enter four explicitly fictional fixtures: Pending199.99, Pending200, Pending200.01 and Delivered250. Predict TRUE only for the two Pending amounts at/above200 before adding result formulas.
+6. Create **AI Boundary Cases**. Enter four explicitly fictional fixtures: Pending 199.99, Pending 200, Pending 200.01 and Delivered 250. Predict TRUE only for the two Pending amounts at/above200 before adding result formulas.
 
 ![isolated boundary inputs](./images/c05-10-29-isolated-boundary-inputs.jpg)
 
-7. Compare the two rules in rows8:10. Correct **>=200** gives **2 records /400.01 amount**; incorrect **>200** gives **1 /200.01**. The Delivered250 line is excluded by the status condition. Actual-minus-expected differences for the correct rule are0.
+7. Compare the two rules in rows 8:10. Correct **>=200** gives **2 records /400.01 amount**; incorrect **>200** gives **1 /200.01**. The Delivered 250 line is excluded by the status condition. Actual-minus-expected differences for the correct rule are 0.
 
 ![exact threshold versus greater than](./images/c05-10-30-exact-threshold-versus-greater-than.jpg)
 
@@ -166,7 +166,7 @@ Use the native checked workbook and usable Gemini in Sheets access. If unavailab
 
 ![supplied flaws executed and rejected](./images/c05-10-33-supplied-flaws-executed-and-rejected.jpg)
 
-11. Add manual repairs below the originals. Full bounded SUM returns **3158**; exact **IFNA(VLOOKUP(...,FALSE),"Missing rate")** preserves the missing IT99 mapping; Active excluding only Cancelled returns **1938**. Known IT01 returns45, while ISNA on the missing IT99 lookup is TRUE. A missing mapping is not evidence of a numeric zero. Keep the original and repaired formulas together for comparison.
+11. Add manual repairs below the originals. Full bounded SUM returns **3158**; exact **IFNA(VLOOKUP(...,FALSE),"Missing rate")** preserves the missing IT99 mapping; Active excluding only Cancelled returns **1938**. Known IT01 returns 45, while ISNA on the missing IT99 lookup is TRUE. A missing mapping is not evidence of a numeric zero. Keep the original and repaired formulas together for comparison.
 
 ![original and corrected formulas](./images/c05-10-34-original-and-corrected-formulas.jpg)
 
@@ -178,15 +178,15 @@ Use the native checked workbook and usable Gemini in Sheets access. If unavailab
 
 ![coverage controls before new row](./images/c05-10-36-coverage-controls-before-new-row.jpg)
 
-14. On AI Row Test select row26 and **Insert 1 row above**, preserving the totals below it. Enter **TEST025 /PJ-A /Planning /IT01 /2 /45 /Delivered /4 /Author range-coverage fixture**, then line Amount **=E26*F26** and ActiveAmount **=IF(G26="Cancelled",0,J26)**. The new line contributes90. This is authorised guided casework, not the independent PO025 attempt.
+14. On AI Row Test select row 26 and **Insert 1 row above**, preserving the totals below it. Enter **TEST025 /PJ-A /Planning /IT01 /2 /45 /Delivered /4 /Author range-coverage fixture**, then line Amount **=E26*F26** and ActiveAmount **=IF(G26="Cancelled",0,J26)**. The new line contributes90. This is authorised guided casework, not the independent PO025 attempt.
 
 ![new record outside original bounds](./images/c05-10-37-new-record-outside-original-bounds.jpg)
 
-15. Return to AI Row Checks. The original formulas still end at25 and return3158/1478/24, omitting the new row. The old difference cells still show0 because their expected values are also the old baseline. Matching a stale expected value is not proof of current population coverage.
+15. Return to AI Row Checks. The original formulas still end at 25 and return 3158/1478/24, omitting the new row. The old difference cells still show 0 because their expected values are also the old baseline. Matching a stale expected value is not proof of current population coverage.
 
 ![original bounds omit new record](./images/c05-10-38-original-bounds-omit-new-record.jpg)
 
-16. Add the expanded **2:26** comparisons at A7:F10. Expected current values are **3248 /1568 /25**. Original bounds are short by **90 /90 /1**, while all expanded differences are0. Independent controls verify old3158+new90=3248,25 unique IDs, TEST025 at row26 and maintained Orders still3158. Retain the isolated fixture; this does not test new-row pivot/chart coverage.
+16. Add the expanded **2:26** comparisons at A7:F10. Expected current values are **3248 /1568 /25**. Original bounds are short by **90 /90 /1**, while all expanded differences are 0. Independent controls verify old 3158+new90=3248,25 unique IDs, TEST025 at row 26 and maintained Orders still 3158. Retain the isolated fixture; this does not test new-row pivot/chart coverage.
 
 ![expanded range repairs coverage](./images/c05-10-39-expanded-range-repairs-coverage.jpg)
 
@@ -198,7 +198,7 @@ Use the native checked workbook and usable Gemini in Sheets access. If unavailab
 
 ![final source grounded findings](./images/c05-10-41-final-source-grounded-findings.jpg)
 
-> **Validation boundary:** guided10.1-10.3 and author casework10.4 were executed through learner UI, with native read-only evidence. Gemini's formula proposals passed these cases, but its generated-chart direct-link claim was disproved by the actual source-change test. Independent PO025 coverage across pivots/charts, human reviewer and the planned55-minute learner allocation remain unverified.
+> **Validation boundary:** guided 10.1-10.3 and author casework 10.4 were executed through learner UI, with native read-only evidence. Gemini's formula proposals passed these cases, but its generated-chart direct-link claim was disproved by the actual source-change test. Independent PO025 coverage across pivots/charts, human reviewer and the planned 55-minute learner allocation remain unverified.
 
 
 ## Independent Challenge

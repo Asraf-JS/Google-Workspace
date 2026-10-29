@@ -27,11 +27,11 @@ Keep source facts separate from inferred workflow. For a fresh-context rerun, pa
 ## Panel-only Examples
 
 ```text
-Reply in chat text only. Do not insert, edit, or propose changes to the document. Summarise the project fact sheet and attached proposed guidance in a coordinator update of about 150 words. Preserve the unagreed start date, four-week duration, Friday cadence, final-two-week success measure and proposed, unapproved RM12,000 ceiling. Label proposed practice and missing decisions.
+Reply in chat text only. Do not insert, edit, or propose changes to the document. Summarise the project fact sheet and attached proposed guidance in a coordinator update of about 150 words. Preserve the unagreed start date, four-week duration, Friday cadence, final-two-week success measure and proposed, unapproved RM 12,000 ceiling. Label proposed practice and missing decisions.
 ```
 
 ```text
-Reply only as plain chat text. Do not use tools, create a Gmail draft, send, or edit any document. Provide example wording for a message requesting team preparation. Mention the proposed guidance, unagreed start date and unapproved RM12,000 ceiling. Do not assert that preparation has been accepted or the pilot has begun.
+Reply only as plain chat text. Do not use tools, create a Gmail draft, send, or edit any document. Provide example wording for a message requesting team preparation. Mention the proposed guidance, unagreed start date and unapproved RM 12,000 ceiling. Do not assert that preparation has been accepted or the pilot has begun.
 ```
 
 ```text

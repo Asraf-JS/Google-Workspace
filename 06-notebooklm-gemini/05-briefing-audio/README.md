@@ -60,7 +60,7 @@ Use the evidence notebook with the three processed sources. Audio generation ava
 
 ## 5.3 Review the Audio Claims
 
-1. Listen for claims about the proposed RM12,000 ceiling, unagreed start, four-week duration, three teams, Friday cadence, final-two-week success measure, scripted actions and authority. Record approximate timestamps, the actual claim, source passage and verdict.
+1. Listen for claims about the proposed RM 12,000 ceiling, unagreed start, four-week duration, three teams, Friday cadence, final-two-week success measure, scripted actions and authority. Record approximate timestamps, the actual claim, source passage and verdict.
 2. **Author decision (29 October 2026):** listening and timestamped checks were skipped at the instructor’s request after both author and instructor encountered the 403 failure. This does not establish a service-wide outage. Audio generation and initial playback were observed, but substantive listening and timestamped claim checks remain incomplete. The download action opened a Google 403 Forbidden page and browser control disconnected. No audio claim is marked supported merely because generation completed. The written source checks do not establish the contents of the generated clip.
 3. Keep the checked written briefing as the maintained handover while media review is pending. Retain the audio as **Generated — review pending**; do not label it reviewed or externally distribute it during this exercise.
 

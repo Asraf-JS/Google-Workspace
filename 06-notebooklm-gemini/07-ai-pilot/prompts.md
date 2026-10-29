@@ -26,7 +26,7 @@ Keep source facts separate from inferred workflow. For a fresh-context rerun, pa
 
 ## Predefined author rubric
 
-All five topics must pass with supporting original evidence and no unsupported consequential claim: purpose and four weeks from an agreed start; all three teams; Friday and all three teams on time in the final two weeks; RM12,000 proposed/not approved; no agreed calendar date and the unresolved sponsor decision. Record an omission separately from a false assertion. Human manual baseline and complete active-effort timing must be measured by a participant.
+All five topics must pass with supporting original evidence and no unsupported consequential claim: purpose and four weeks from an agreed start; all three teams; Friday and all three teams on time in the final two weeks; RM 12,000 proposed/not approved; no agreed calendar date and the unresolved sponsor decision. Record an omission separately from a false assertion. Human manual baseline and complete active-effort timing must be measured by a participant.
 
 ## Attempt A
 
@@ -37,7 +37,7 @@ Set A questions:
 1. What is the pilot’s purpose and duration?
 2. Which three teams participate?
 3. What reporting cadence and success measure are stated?
-4. Is the RM12,000 ceiling approved?
+4. Is the RM 12,000 ceiling approved?
 5. What start date is confirmed?
 ```
 
@@ -49,7 +49,7 @@ Append `S1 — project-facts.txt`, `S2 — meeting-record.txt` and `S3 — repor
 Fictional training evaluation. Use only S1–S3 below. Reply in chat only with exactly five numbered FAQ entries in the requested order. For each answer, include a source label and quote a short exact supporting passage. Preserve proposed versus approved status, unknown dates, relative weeks and the source roles. Do not invent approvals, suppliers, gains, calendar dates, readiness or launch prerequisites. No file creation, sending or app actions.
 
 Set B questions:
-1. Is the RM12,000 ceiling approved?
+1. Is the RM 12,000 ceiling approved?
 2. What start date is confirmed?
 3. What reporting cadence and success measure are stated?
 4. Which three teams participate?
@@ -67,10 +67,10 @@ Set A questions:
 1. What is the pilot’s purpose and duration?
 2. Which three teams participate?
 3. What reporting cadence and success measure are stated?
-4. Is the RM12,000 ceiling approved?
+4. Is the RM 12,000 ceiling approved?
 5. What start date is confirmed?
 
-Output acceptance check: in the budget answer retain RM12,000 and proposed/not-approved status. In the start-date answer, explicitly retain both no agreed calendar date and S1’s unresolved sponsor approval of the budget and the pilot start date. Do not turn those pending decisions into a before-launch prerequisite. Check every quoted passage against its named source.
+Output acceptance check: in the budget answer retain RM 12,000 and proposed/not-approved status. In the start-date answer, explicitly retain both no agreed calendar date and S1’s unresolved sponsor approval of the budget and the pilot start date. Do not turn those pending decisions into a before-launch prerequisite. Check every quoted passage against its named source.
 ```
 
 Append `S1 — project-facts.txt`, `S2 — meeting-record.txt` and `S3 — reporting-guidance.txt`, each followed by its complete [original text](../../shared/sample-files/README.md). Use a fresh conversation with the same recorded mode.

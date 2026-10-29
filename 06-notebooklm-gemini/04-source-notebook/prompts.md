@@ -59,7 +59,7 @@ Use only the three selected original sources. Answer each numbered question and 
 1. What is the pilot’s purpose and duration?
 2. Which three teams participate?
 3. What reporting cadence and success measure are stated?
-4. Is the RM12,000 ceiling approved?
+4. Is the RM 12,000 ceiling approved?
 5. What start date is confirmed?
 6. Which preparation actions, owners and due weeks are explicit?
 ```

@@ -8,7 +8,7 @@ In this chapter you will use LEFT, RIGHT, MID and concatenation; check AI catego
 
 **Your result:** Text extraction and labels with checked category mappings.
 
-> **Status:** author reference with32 staged application captures through4.4. Leading-zero text, raw/clean provenance, actual Gemini proposals, explicit category comparisons, NBSP exception and separate identifier syntax/reference checks verified. Maintained source preserved. Independent mixed intake, reviewer reconstruction, native file import and learner timing remain pending.
+> **Status:** author reference with 32 staged application captures through 4.4. Leading-zero text, raw/clean provenance, actual Gemini proposals, explicit category comparisons, NBSP exception and separate identifier syntax/reference checks verified. Maintained source preserved. Independent mixed intake, reviewer reconstruction, native file import and learner timing remain pending.
 
 ## What You Will Learn
 
@@ -24,7 +24,7 @@ Use Orders and Rates. The supplied IDs follow PO plus three digits; this is a tr
 
 ## 4.1 Extract Identifier Parts
 
-1. Create a separate **Text Practice** tab. Copy OrderID, Project and ItemCode values from Orders rows2,3,25 using the card. Put headers OrderID / Project / ItemCode / Prefix / Right suffix / Mid suffix in A1:F1. Leave the original Orders fields unchanged.
+1. Create a separate **Text Practice** tab. Copy OrderID, Project and ItemCode values from Orders rows 2,3,25 using the card. Put headers OrderID / Project / ItemCode / Prefix / Right suffix / Mid suffix in A1:F1. Leave the original Orders fields unchanged.
 
 ![Record source samples before extraction](./images/c05-04-01-source-identifiers-on-separate-practice-tab.jpg)
 
@@ -98,7 +98,7 @@ Use Orders and Rates. The supplied IDs follow PO plus three digits; this is a tr
 
 ![Record whitespace expectations before results](./images/c05-04-17-space-test-expectations-before-trim.jpg)
 
-5. Use D13 **=TRIM(B13)**, E13 **=LEN(D13)**, F13 **=E13=C13**, H13 **=UNICODE(LEFT(B13,1))**; fill the formula columns through row15. Ordinary spaces are removed. The NBSP result remains length **10**, with first code point **160**. Keep that exception for review rather than silently treating TRIM as universal whitespace cleaning.
+5. Use D13 **=TRIM(B13)**, E13 **=LEN(D13)**, F13 **=E13=C13**, H13 **=UNICODE(LEFT(B13,1))**; fill the formula columns through row 15. Ordinary spaces are removed. The NBSP result remains length **10**, with first code point **160**. Keep that exception for review rather than silently treating TRIM as universal whitespace cleaning.
 
 ![Observe non-breaking spaces retained by TRIM](./images/c05-04-18-trim-leaves-nonbreaking-spaces-for-review.jpg)
 
@@ -110,7 +110,7 @@ Use Orders and Rates. The supplied IDs follow PO plus three digits; this is a tr
 
 ![Record eight identifier expectations before formulas](./images/c05-04-20-eight-identifier-expectations-before-extraction.jpg)
 
-8. Normalise B with TRIM in E; apply LEFT(E2,2), RIGHT(E2,3) and MID(E2,3,3) in F:H and fill through row9. **PO1** still yields substrings despite being malformed. For IT01, RIGHT3 returns **T01**, while MID returns **01**; the three-digit order-suffix convention must not be applied blindly to item keys.
+8. Normalise B with TRIM in E; apply LEFT(E2,2), RIGHT(E2,3) and MID(E2,3,3) in F:H and fill through row 9. **PO1** still yields substrings despite being malformed. For IT01, RIGHT3 returns **T01**, while MID returns **01**; the three-digit order-suffix convention must not be applied blindly to item keys.
 
 ![Observe extraction on malformed PO1](./images/c05-04-21-substrings-can-succeed-on-malformed-key.jpg)
 
@@ -126,7 +126,7 @@ Use Orders and Rates. The supplied IDs follow PO plus three digits; this is a tr
 
 ![Keep malformed blank and unmapped decisions distinct](./images/c05-04-24-separate-accepted-malformed-blank-and-unmapped-decisions.jpg)
 
-12. In L2 compare **=K2=D2** and fill through row9. All eight decisions match their recorded expected outcomes. These are guided author cases, not the independent mixed-intake challenge.
+12. In L2 compare **=K2=D2** and fill through row 9. All eight decisions match their recorded expected outcomes. These are guided author cases, not the independent mixed-intake challenge.
 
 ![Compare all eight decisions with expected results](./images/c05-04-25-eight-decisions-match-recorded-expectations.jpg)
 
@@ -158,7 +158,7 @@ Use Orders and Rates. The supplied IDs follow PO plus three digits; this is a tr
 
 ![Inspect six completed AI-reference comparisons](./images/c05-04-32-six-ai-reference-comparisons-complete.jpg)
 
-> **Validation boundary:** guided4.1–4.3 and author casework4.4 were executed through learner UI with bounded read-only native-cell proof. Independent mixed-intake work, human reviewer reconstruction, native CSV file import and planned60-minute learner timing remain unverified. Clipboard whitespace loss was detected and repaired before cleaning; the raw three-row CSV now matches exactly.
+> **Validation boundary:** guided 4.1–4.3 and author casework 4.4 were executed through learner UI with bounded read-only native-cell proof. Independent mixed-intake work, human reviewer reconstruction, native CSV file import and planned 60-minute learner timing remain unverified. Clipboard whitespace loss was detected and repaired before cleaning; the raw three-row CSV now matches exactly.
 
 ## Independent Challenge
 

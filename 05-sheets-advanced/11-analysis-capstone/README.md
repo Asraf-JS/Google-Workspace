@@ -76,7 +76,7 @@ Count Delivered records with COUNTIFS using the same Project and Status criteria
 
 ![disposable rate copy](./images/c05-11-11-disposable-rate-copy.jpg)
 
-7. Add a conflicting **IT01** fixture at row8 with rate 99. Test keys IT01, IT99 and IT02 in F2:F4. Count matches before accepting a lookup result. IT01 has two matches, IT99 none, IT02 one. The raw exact VLOOKUP returns the first IT01 rate 45, **Missing rate** for IT99, and 12 for IT02. A guarded result must show **Review key** whenever the match count is not one. A missing rate is not a confirmed numeric zero.
+7. Add a conflicting **IT01** fixture at row 8 with rate 99. Test keys IT01, IT99 and IT02 in F2:F4. Count matches before accepting a lookup result. IT01 has two matches, IT99 none, IT02 one. The raw exact VLOOKUP returns the first IT01 rate 45, **Missing rate** for IT99, and 12 for IT02. A guarded result must show **Review key** whenever the match count is not one. A missing rate is not a confirmed numeric zero.
 
 ![duplicate and missing key dispositions](./images/c05-11-12-duplicate-and-missing-key-dispositions.jpg)
 
@@ -104,7 +104,7 @@ Count Delivered records with COUNTIFS using the same Project and Status criteria
 
 ## 11.4 Complete a Decision Analysis With Independent Evidence
 
-1. Add **PO025 Plan** before changing any source. Predict the supplied case: PJ-A, Planning, IT01, quantity 2, unit cost 45, Delivered, week 4; Amount 90 and ActiveAmount 90. Baseline Delivered project amounts are 556/578/344. Predict **PJ-A 646** becoming the Delivered leader, total Delivered **1,568**, all Amount **3,248**, ActiveAmount **2,028**, **25 records**. Week4 should become **916**, exceeding week 3 850. Pending>=200 remains zero.
+1. Add **PO025 Plan** before changing any source. Predict the supplied case: PJ-A, Planning, IT01, quantity 2, unit cost 45, Delivered, week 4; Amount 90 and ActiveAmount 90. Baseline Delivered project amounts are 556/578/344. Predict **PJ-A 646** becoming the Delivered leader, total Delivered **1,568**, all Amount **3,248**, ActiveAmount **2,028**, **25 records**. Week 4 should become **916**, exceeding week 3 850. Pending>=200 remains zero.
 
 ![po025 predictions before source edit](./images/c05-11-18-po025-predictions-before-source-edit.jpg)
 
@@ -112,19 +112,19 @@ Count Delivered records with COUNTIFS using the same Project and Status criteria
 
 ![separate po025 orders copy](./images/c05-11-19-separate-po025-orders-copy.jpg)
 
-3. Before appending, record original-bound scenario controls using rows2:25. They agree with the baseline: all 3158, Delivered 1478, Active 1938, count 24, week 4 826. A zero difference here describes only the original population.
+3. Before appending, record original-bound scenario controls using rows 2:25. They agree with the baseline: all 3158, Delivered 1478, Active 1938, count 24, week 4 826. A zero difference here describes only the original population.
 
 ![original bounds before append](./images/c05-11-20-original-bounds-before-append.jpg)
 
-4. In PO025 Orders select row26 and use **Insert 1 row above** to preserve the copied totals below it. Enter PO025 at A26:K26 using the exact case row on the copy-paste page. J26=E26*F26 and K26 excludes Cancelled. Check Amount and ActiveAmount are 90. Do not add this record to baseline Orders.
+4. In PO025 Orders select row 26 and use **Insert 1 row above** to preserve the copied totals below it. Enter PO025 at A26:K26 using the exact case row on the copy-paste page. J26=E26*F26 and K26 excludes Cancelled. Check Amount and ActiveAmount are 90. Do not add this record to baseline Orders.
 
 ![po025 added](./images/c05-11-21-po025-added.jpg)
 
-5. Revisit PO025 Analysis without changing its formulas. In the captured run, fixed ranges ending at25 still returned **3158 / 1478 / 1938 / 24 / 826**. They still matched the old baseline despite omitting PO025. Verify the actual range text in your own run; an old zero-difference control does not prove new-row coverage.
+5. Revisit PO025 Analysis without changing its formulas. In the captured run, fixed ranges ending at 25 still returned **3158 / 1478 / 1938 / 24 / 826**. They still matched the old baseline despite omitting PO025. Verify the actual range text in your own run; an old zero-difference control does not prove new-row coverage.
 
 ![original bounds miss po025](./images/c05-11-22-original-bounds-miss-po025.jpg)
 
-6. Expand scenario ranges consistently to row26, including the copied source totals now at J28/K28. Compare scenario results against baseline with expected deltas **90 / 90 / 90 / 1 / 90**. Differences against these new expectations must be zero. Label baseline comparisons as deltas, rather than treating every legitimate scenario difference as an error.
+6. Expand scenario ranges consistently to row 26, including the copied source totals now at J28/K28. Compare scenario results against baseline with expected deltas **90 / 90 / 90 / 1 / 90**. Differences against these new expectations must be zero. Label baseline comparisons as deltas, rather than treating every legitimate scenario difference as an error.
 
 ![expanded scenario controls](./images/c05-11-23-expanded-scenario-controls.jpg)
 
@@ -146,7 +146,7 @@ Count Delivered records with COUNTIFS using the same Project and Status criteria
 
 ![executive scenario comparison](./images/c05-11-28-executive-scenario-comparison.jpg)
 
-11. Add the source populations, fictional-data limitation, row26 refresh contract and pending review status. Keep the baseline executive output separate.
+11. Add the source populations, fictional-data limitation, row 26 refresh contract and pending review status. Keep the baseline executive output separate.
 
 ![comparison with populations limits](./images/c05-11-29-comparison-with-populations-limits.jpg)
 

@@ -27,7 +27,7 @@ Separate intake anomalies: duplicate PO001 with changed quantity; missing OrderI
 
 ## Captured Source-Audit Reference
 
-The supplied source has 24 unique OrderIDs PO001–PO024, six unique Rates keys IT01–IT06, Quantity total140 and unit-price checksum552 (not spend). All24 Quantity/UnitCost/Week entries are numeric, all24 item keys map, statuses are12 Delivered/6 Pending/6 Cancelled. Source tables retain their supplied values and formats; Analysis is empty. Manual upload handoff was required; native conversion and audit were executed in the application.
+The supplied source has 24 unique OrderIDs PO001–PO024, six unique Rates keys IT01–IT06, Quantity total 140 and unit-price checksum552 (not spend). All 24 Quantity/UnitCost/Week entries are numeric, all 24 item keys map, statuses are 12 Delivered/6 Pending/6 Cancelled. Source tables retain their supplied values and formats; Analysis is empty. Manual upload handoff was required; native conversion and audit were executed in the application.
 
 ### Baseline row diagnostics — Audit Checks A1:G25
 
@@ -89,7 +89,7 @@ Maximum Week	=MAX(Orders!H2:H25)
 
 ### Raw practice intake — Audit Intake A1:I7
 
-Rows2–7 are practice copies of source PO001–PO006. Changes: PO001 Quantity2→3; PO002 ID removed; PO003 practice ID QA003 and ItemCode IT99; PO004 practice ID QA004 and Quantity text four; PO005 practice ID QA005 and numeric Quantity0; PO006 practice ID QA006 and status Cancelled. Other fields are copied only as fictional practice context. Do not insert these into Orders or replace the blank with PO002.
+Rows 2–7 are practice copies of source PO001–PO006. Changes: PO001 Quantity 2→3; PO002 ID removed; PO003 practice ID QA003 and ItemCode IT99; PO004 practice ID QA004 and Quantity text four; PO005 practice ID QA005 and numeric Quantity 0; PO006 practice ID QA006 and status Cancelled. Other fields are copied only as fictional practice context. Do not insert these into Orders or replace the blank with PO002.
 
 ```text
 OrderID	Project	Team	ItemCode	Quantity	UnitCost	Status	Week	Description
@@ -132,7 +132,7 @@ Case 5	6	='Audit Intake'!A6	=IF(C6="",0,COUNTIF(Orders!$A$2:$A$25,C6))	=IF(C6=""
 Case 6	7	='Audit Intake'!A7	=IF(C7="",0,COUNTIF(Orders!$A$2:$A$25,C7))	=IF(C7="",0,COUNTIF('Audit Intake'!$A$2:$A$7,C7))	=COUNTIF(Rates!$A$2:$A$7,'Audit Intake'!D7)	=ISNUMBER('Audit Intake'!E7)	=IF(ISNUMBER('Audit Intake'!E7),AND('Audit Intake'!E7>=0,MOD('Audit Intake'!E7,1)=0),FALSE)	=AND(ISNUMBER('Audit Intake'!F7),'Audit Intake'!F7>=0)	=OR('Audit Intake'!G7="Delivered",'Audit Intake'!G7="Pending",'Audit Intake'!G7="Cancelled")
 ```
 
-Supporting comparison cells: B11 **=Orders!E2** gives2; E11 **='Audit Intake'!E2** gives3; H11 **=Orders!E2='Audit Intake'!E2** givesFALSE. E13 **=SUMPRODUCT(--(Orders!A2:I2='Source Snapshot'!A2:I2))** gives9 identical fields in the preserved copy. A repeated copy is not an additional order; the conflicting PO001 intake remains quarantined.
+Supporting comparison cells: B11 **=Orders!E2** gives 2; E11 **='Audit Intake'!E2** gives 3; H11 **=Orders!E2='Audit Intake'!E2** givesFALSE. E13 **=SUMPRODUCT(--(Orders!A2:I2='Source Snapshot'!A2:I2))** gives 9 identical fields in the preserved copy. A repeated copy is not an additional order; the conflicting PO001 intake remains quarantined.
 
 ### Proposed exception register — Audit Intake J1:L7
 
@@ -140,12 +140,12 @@ These are guided author-reference dispositions, not completed independent decisi
 
 ```text
 Issue	Evidence	Disposition
-Conflicting duplicate OrderID	Practice PO001: source ID count1; Orders Quantity2 vs intake3, equality FALSE. Other fields copied from PO001.	Quarantine pending evidenced correction. Clarify with the source owner; do not overwrite Orders or count both.
+Conflicting duplicate OrderID	Practice PO001: source ID count 1; Orders Quantity 2 vs intake 3, equality FALSE. Other fields copied from PO001.	Quarantine pending evidenced correction. Clarify with the source owner; do not overwrite Orders or count both.
 Missing OrderID	Raw intake A3 is empty. This is a labelled copy of PO002 with only its ID removed; do not infer that missing ID.	Clarify the required key; quarantine pending evidence. Do not invent an ID or silently fill PO002.
 Unknown ItemCode	IT99 has zero exact matches in Rates A2:A7. Other fields are practice copies of PO003. Cancelled itself is allowed.	Clarify the intended item key and rate with evidence. Keep raw IT99; quarantine pending evidence.
 Non-numeric Quantity	Quantity is the text four: ISNUMBER is FALSE and the non-negative whole-number rule is FALSE. Other fields copied from PO004.	Clarify the intended numeric quantity with evidence; propose correction separately. Do not replace raw text by guessing 4.
-Valid zero Quantity	Quantity0 is numeric and passes the explicit non-negative whole-number rule. Other fields copied from PO005 under a practice ID.	Retain as a valid training example. No insertion into baseline Orders; zero does not prove a delivery or spend.
-Valid Cancelled status	Cancelled passes the status contract; numeric Quantity2, UnitCost8 and key IT06 are valid. Practice copy of PO006 with status changed.	Retain as a valid all-orders training example. Later status exclusions need a stated analysis question, not a dirty-data label.
+Valid zero Quantity	Quantity 0 is numeric and passes the explicit non-negative whole-number rule. Other fields copied from PO005 under a practice ID.	Retain as a valid training example. No insertion into baseline Orders; zero does not prove a delivery or spend.
+Valid Cancelled status	Cancelled passes the status contract; numeric Quantity 2, UnitCost 8 and key IT06 are valid. Practice copy of PO006 with status changed.	Retain as a valid all-orders training example. Later status exclusions need a stated analysis question, not a dirty-data label.
 ```
 
 Independent release conditions, independent disposition reasoning, reviewer challenge and learner timing remain pending. The six intake examples never enter baseline controls. A preserved Source Snapshot is a copy, not a protected-range permission or automatic archive.

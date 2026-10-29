@@ -37,7 +37,7 @@ Name the corrected note `OUTPUT - Checked FAQ - training reference`. Verify all 
 Choose Brief, English and the three original sources.
 
 ```text
-Give a short orientation to this fictional Project Reporting Pilot using only the three selected original sources. Preserve the proposed, unapproved RM12,000 ceiling and the unagreed pilot start date. Include the four-week duration, three teams, Friday reporting cadence and success measure of all three teams on time for the final two weeks. If mentioning actions, retain Aina/template/week1, Bala/status definitions/week1 and Siti/fictional sample/week2. Label guidance proposed, not approved policy; label meeting record scripted. Do not invent calendar dates, readiness, purchase approval, guaranteed benefits or percentages.
+Give a short orientation to this fictional Project Reporting Pilot using only the three selected original sources. Preserve the proposed, unapproved RM 12,000 ceiling and the unagreed pilot start date. Include the four-week duration, three teams, Friday reporting cadence and success measure of all three teams on time for the final two weeks. If mentioning actions, retain Aina/template/week1, Bala/status definitions/week1 and Siti/fictional sample/week2. Label guidance proposed, not approved policy; label meeting record scripted. Do not invent calendar dates, readiness, purchase approval, guaranteed benefits or percentages.
 ```
 
 ## Manually checked fallback script
@@ -45,7 +45,7 @@ Give a short orientation to this fictional Project Reporting Pilot using only th
 This is maintained written text. Its 60-second reading target is unmeasured; it is not a transcript of the generated audio.
 
 ```text
-This is a fictional training briefing for Seri Maju Projects. The proposed pilot tests a consistent weekly reporting process across Planning, Procurement and Site Coordination. Its duration is four weeks from an agreed start date, and that date has not yet been agreed. The RM12,000 budget ceiling is proposed and not approved. Teams are to submit one update every Friday during the pilot. Success means all three teams submit on time for the final two weeks. In the scripted preparation record, Aina prepares a draft template in practice week one, Bala reviews status definitions in week one, and Siti collects a fictional sample in week two. These are relative weeks, not calendar dates. The guidance is proposed training practice, not approved policy. Clarify the budget decision and start date; do not invent them.
+This is a fictional training briefing for Seri Maju Projects. The proposed pilot tests a consistent weekly reporting process across Planning, Procurement and Site Coordination. Its duration is four weeks from an agreed start date, and that date has not yet been agreed. The RM 12,000 budget ceiling is proposed and not approved. Teams are to submit one update every Friday during the pilot. Success means all three teams submit on time for the final two weeks. In the scripted preparation record, Aina prepares a draft template in practice week one, Bala reviews status definitions in week one, and Siti collects a fictional sample in week two. These are relative weeks, not calendar dates. The guidance is proposed training practice, not approved policy. Clarify the budget decision and start date; do not invent them.
 ```
 
 ## Current author output manifest

@@ -40,7 +40,7 @@ Use Orders A1:K25 after calculating Amount in J and ActiveAmount in K. A recover
 
 ![status columns added](./images/c05-07-04-status-columns-added.jpg)
 
-5. Use **Values > Add > Amount** and inspect **Summarise by SUM**. The native grand total is **3,158**: Cancelled1,220, Delivered1,478 and Pending460. PJ-A totals980, PJ-B1,204 and PJ-C974. Cancelled records remain part of the all-orders population.
+5. Use **Values > Add > Amount** and inspect **Summarise by SUM**. The native grand total is **3,158**: Cancelled 1,220, Delivered 1,478 and Pending 460. PJ-A totals 980, PJ-B1,204 and PJ-C974. Cancelled records remain part of the all-orders population.
 
 ![native sum pivot 3158](./images/c05-07-05-native-sum-pivot-3158.jpg)
 
@@ -68,11 +68,11 @@ Use Orders A1:K25 after calculating Amount in J and ActiveAmount in K. A recover
 
 ![average calculated field dialog](./images/c05-07-10-average-calculated-field-dialog.jpg)
 
-3. Inspect the native results: **122.5 /150.5 /121.75** for PJ-A/B/C and **131.5833333** overall. The overall result is total Amount divided by all24 lines; it is not a sum of the project averages.
+3. Inspect the native results: **122.5 /150.5 /121.75** for PJ-A/B/C and **131.5833333** overall. The overall result is total Amount divided by all 24 lines; it is not a sum of the project averages.
 
 ![average calculated field native result](./images/c05-07-11-average-calculated-field-native-result.jpg)
 
-4. Widen column C to190 pixels so its heading is readable. Preserve the unrounded calculated result for reconciliation; display rounding alone is not a formula repair.
+4. Widen column C to 190 pixels so its heading is readable. Preserve the unrounded calculated result for reconciliation; display rounding alone is not a formula repair.
 
 ![readable average line amount](./images/c05-07-12-readable-average-line-amount.jpg)
 
@@ -80,21 +80,21 @@ Use Orders A1:K25 after calculating Amount in J and ActiveAmount in K. A recover
 
 ![average expectations before checks](./images/c05-07-13-average-expectations-before-checks.jpg)
 
-6. Add source SUMIF/COUNTIF averages in C, native Pivot Calculations references in D, and D minus C in E. All four differences are0. Widen A:E to170 pixels. This target UI supports the specified calculated field, so an unavailable-feature fallback was not needed in this author run.
+6. Add source SUMIF/COUNTIF averages in C, native Pivot Calculations references in D, and D minus C in E. All four differences are 0. Widen A:E to 170 pixels. This target UI supports the specified calculated field, so an unavailable-feature fallback was not needed in this author run.
 
 ![average source pivot reconciled](./images/c05-07-14-average-source-pivot-reconciled.jpg)
 
 ## 7.4 Reconcile Pivot Semantics and New-Row Coverage
 
-1. Duplicate **Pivot Review** as **Pivot Counts**. Select A1 and open its Edit control if the editor is closed. Remove Amount from Values, then add **OrderID**, inspecting **COUNTA**. Keep Project rows, Status columns and source Orders A1:K25. The grand total is24: Cancelled6, Delivered12 and Pending6. Each project has8 lines.
+1. Duplicate **Pivot Review** as **Pivot Counts**. Select A1 and open its Edit control if the editor is closed. Remove Amount from Values, then add **OrderID**, inspecting **COUNTA**. Keep Project rows, Status columns and source Orders A1:K25. The grand total is 24: Cancelled 6, Delivered 12 and Pending 6. Each project has 8 lines.
 
 ![native count pivot 24](./images/c05-07-15-native-count-pivot-24.jpg)
 
-2. In Pivot Checks A8:D18, compare all nine project/status categories with bounded source **COUNTIFS** and the corresponding count-pivot cells. Add a total COUNTA check. All ten differences are0. COUNT on text OrderID would answer a different question, so inspect the aggregation explicitly.
+2. In Pivot Checks A8:D18, compare all nine project/status categories with bounded source **COUNTIFS** and the corresponding count-pivot cells. Add a total COUNTA check. All ten differences are 0. COUNT on text OrderID would answer a different question, so inspect the aggregation explicitly.
 
 ![countifs and pivot counts reconcile](./images/c05-07-16-countifs-and-pivot-counts-reconcile.jpg)
 
-3. Return to Pivot Review and double-click the **PJ-A / Delivered** value556 in C3. The application creates **Detail1-PJ-A-Delivered** with actual contributing records **PO001 /PO004 /PO005 /PO008**. This is a snapshot of the drilldown at this point; do not treat it as a live refreshable source table.
+3. Return to Pivot Review and double-click the **PJ-A / Delivered** value 556 in C3. The application creates **Detail1-PJ-A-Delivered** with actual contributing records **PO001 /PO004 /PO005 /PO008**. This is a snapshot of the drilldown at this point; do not treat it as a live refreshable source table.
 
 ![actual drilldown four contributors](./images/c05-07-17-actual-drilldown-four-contributors.jpg)
 
@@ -102,11 +102,11 @@ Use Orders A1:K25 after calculating Amount in J and ActiveAmount in K. A recover
 
 ![manual contributor expectations](./images/c05-07-18-manual-contributor-expectations.jpg)
 
-5. Calculate each row product and difference in E/F. At A27:D28 compare the manual sum556 with SUM of the actual detail sheet's J2:J5. All four row differences and the total difference are0.
+5. Calculate each row product and difference in E/F. At A27:D28 compare the manual sum 556 with SUM of the actual detail sheet's J2:J5. All four row differences and the total difference are 0.
 
 ![drilldown manual reconciliation 556](./images/c05-07-19-drilldown-manual-reconciliation-556.jpg)
 
-6. Build the separate two-row practice table at A31:D33: **2×45=90** and **4×12=48**. Record expected138, SUM the row products, and separately calculate **SUM(Quantity)*SUM(UnitCost)**. The first returns138; the second342 includes cross-products that do not belong to either order. Retain SUM of source row Amount as the authoritative total. Do not substitute this product-of-sums calculation for it.
+6. Build the separate two-row practice table at A31:D33: **2×45=90** and **4×12=48**. Record expected 138, SUM the row products, and separately calculate **SUM(Quantity)*SUM(UnitCost)**. The first returns 138; the second 342 includes cross-products that do not belong to either order. Retain SUM of source row Amount as the authoritative total. Do not substitute this product-of-sums calculation for it.
 
 ![aggregation trap 138 versus 342](./images/c05-07-20-aggregation-trap-138-versus-342.jpg)
 
@@ -114,31 +114,31 @@ Use Orders A1:K25 after calculating Amount in J and ActiveAmount in K. A recover
 
 ![separate coverage copy dialog](./images/c05-07-21-separate-coverage-copy-dialog.jpg)
 
-8. Verify the new title and separate file URL before editing. On its Orders, select row26 and **Insert1 row above**. This reserves a new data row before the existing summary labels; those labels move to row27 and their totals to row28.
+8. Verify the new title and separate file URL before editing. On its Orders, select row 26 and **Insert 1 row above**. This reserves a new data row before the existing summary labels; those labels move to row 27 and their totals to row 28.
 
 ![coverage workbook before new row](./images/c05-07-22-coverage-workbook-before-new-row.jpg)
 
-9. Enter the supplied **PO025** record in A26:I26, **=E26*F26** in J26 and **=IF(G26="Cancelled",0,J26)** in K26. Its amount is90. Expect all Amount3,248, Delivered1,568, count25 and Delivered count13 once coverage is repaired. The copied summary J28 still uses J2:J25 at this point, so it remains3,158.
+9. Enter the supplied **PO025** record in A26:I26, **=E26*F26** in J26 and **=IF(G26="Cancelled",0,J26)** in K26. Its amount is 90. Expect all Amount 3,248, Delivered 1,568, count 25 and Delivered count 13 once coverage is repaired. The copied summary J28 still uses J2:J25 at this point, so it remains 3,158.
 
 ![po025 source row outside fixed range](./images/c05-07-23-po025-source-row-outside-fixed-range.jpg)
 
-10. Inspect the copied **Pivot Review**. Its source is still Orders A1:K25, its total3,158 and PJ-A Delivered556: the new record has not entered the pivot.
+10. Inspect the copied **Pivot Review**. Its source is still Orders A1:K25, its total 3,158 and PJ-A Delivered 556: the new record has not entered the pivot.
 
 ![fixed amount pivot still 3158](./images/c05-07-24-fixed-amount-pivot-still-3158.jpg)
 
-11. Inspect copied **Pivot Counts**. It still counts24 and Delivered12. Matching the old total is not proof that a new source record was included.
+11. Inspect copied **Pivot Counts**. It still counts 24 and Delivered 12. Matching the old total is not proof that a new source record was included.
 
 ![fixed count pivot still 24](./images/c05-07-25-fixed-count-pivot-still-24.jpg)
 
-12. Use the editor's **Select data range** button, enter **Orders!A1:K26** in the Range dialog and confirm **OK** for each pivot. In the captured intermediate state, the count editor displayed typed A1:K26 text but the count was still24. Verify the applied native definition and recalculated results; typed field text alone is insufficient evidence.
+12. Use the editor's **Select data range** button, enter **Orders!A1:K26** in the Range dialog and confirm **OK** for each pivot. In the captured intermediate state, the count editor displayed typed A1:K26 text but the count was still 24. Verify the applied native definition and recalculated results; typed field text alone is insufficient evidence.
 
 ![typed range not yet applied](./images/c05-07-26-typed-range-not-yet-applied.jpg)
 
-13. After confirming the Amount pivot range, inspect **3,248** overall, **1,568** Delivered, and **646** PJ-A Delivered. This is the original556 plus the new90.
+13. After confirming the Amount pivot range, inspect **3,248** overall, **1,568** Delivered, and **646** PJ-A Delivered. This is the original 556 plus the new 90.
 
 ![amount range extended to 3248](./images/c05-07-27-amount-range-extended-to-3248.jpg)
 
-14. Confirm the count pivot's range through the same dialog. It now counts **25** overall, **13** Delivered and **5** PJ-A Delivered. Both pivots must cover row26.
+14. Confirm the count pivot's range through the same dialog. It now counts **25** overall, **13** Delivered and **5** PJ-A Delivered. Both pivots must cover row 26.
 
 ![count range confirmed 25](./images/c05-07-28-count-range-confirmed-25.jpg)
 
@@ -146,11 +146,11 @@ Use Orders A1:K25 after calculating Amount in J and ActiveAmount in K. A recover
 
 ![source summary repaired to 3248](./images/c05-07-29-source-summary-repaired-to-3248.jpg)
 
-16. In the scenario Pivot Checks A41:D47, compare expanded source formulas and both native pivots for all/Delivered amount and count plus the changed PJ-A contribution. All six differences are0.
+16. In the scenario Pivot Checks A41:D47, compare expanded source formulas and both native pivots for all/Delivered amount and count plus the changed PJ-A contribution. All six differences are 0.
 
 ![expanded formulas and pivots reconciled](./images/c05-07-30-expanded-formulas-and-pivots-reconciled.jpg)
 
-17. Create a clearly separate **Coverage Controls** tab containing the same six expanded controls at A1:D7. Widen A:D to200 pixels. Record scenario scope below it: earlier copied checks/calculated pivots still describe the24-row baseline and must not be presented as fully refreshed25-row analysis. The expanded controls are the authoritative checks for this experiment. Retain PO025 only on this named scenario copy.
+17. Create a clearly separate **Coverage Controls** tab containing the same six expanded controls at A1:D7. Widen A:D to 200 pixels. Record scenario scope below it: earlier copied checks/calculated pivots still describe the 24-row baseline and must not be presented as fully refreshed 25-row analysis. The expanded controls are the authoritative checks for this experiment. Retain PO025 only on this named scenario copy.
 
 ![isolated expanded coverage controls](./images/c05-07-31-isolated-expanded-coverage-controls.jpg)
 
@@ -166,7 +166,7 @@ Use Orders A1:K25 after calculating Amount in J and ActiveAmount in K. A recover
 
 ![baseline count pivot unchanged](./images/c05-07-34-baseline-count-pivot-unchanged.jpg)
 
-> **Validation boundary:** guided7.1–7.3 and author casework7.4 were executed through learner UI and bounded native pivot/cell evidence. Custom average is supported in this target UI. PO025 is retained only in the separate coverage workbook; baseline source and pivots are preserved. Independent Delivered-output construction, diagnosis/presentation, human reviewer and the planned75-minute learner allocation remain unverified.
+> **Validation boundary:** guided 7.1–7.3 and author casework 7.4 were executed through learner UI and bounded native pivot/cell evidence. Custom average is supported in this target UI. PO025 is retained only in the separate coverage workbook; baseline source and pivots are preserved. Independent Delivered-output construction, diagnosis/presentation, human reviewer and the planned 75-minute learner allocation remain unverified.
 
 ## Independent Challenge
 

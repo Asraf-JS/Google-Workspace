@@ -8,7 +8,7 @@ In this chapter you will explain the workflow, review criteria, time observation
 
 **Your result:** A reusable, tested prompt playbook and short handover.
 
-> **Status:** author reference with 17 staged captures. Version1.1 source assembly was retested in a fresh session; the returned FAQ passed five factual checks and its maintained copy repairs list numbering. Partner reproduction, independent challenge, spoken handover, human effort and classroom timing remain unvalidated.
+> **Status:** author reference with 17 staged captures. Version 1.1 source assembly was retested in a fresh session; the returned FAQ passed five factual checks and its maintained copy repairs list numbering. Partner reproduction, independent challenge, spoken handover, human effort and classroom timing remain unvalidated.
 
 ## What You Will Learn
 
@@ -32,7 +32,7 @@ Use the checked FAQ, evidence review and pilot timing record. Keep the playbook 
 
 ![source manifest and preflight](./images/c06-08-02-source-manifest-and-preflight.jpg)
 
-3. Add the exact bounded prompt and acceptance rule. Preserve the agreed-start qualification, all teams, Friday/final-two-week success measure, proposed/unapproved RM12,000 ceiling and unresolved date/sponsor decision. Source slots in a reusable template must be replaced before submission.
+3. Add the exact bounded prompt and acceptance rule. Preserve the agreed-start qualification, all teams, Friday/final-two-week success measure, proposed/unapproved RM 12,000 ceiling and unresolved date/sponsor decision. Source slots in a reusable template must be replaced before submission.
 
 ![bounded template before test](./images/c06-08-03-bounded-template-before-test.jpg)
 
@@ -60,7 +60,7 @@ Use the checked FAQ, evidence review and pilot timing record. Keep the playbook 
 
 ![source audit and format repair](./images/c06-08-12-source-audit-and-format-repair.jpg)
 
-5. The fresh author response preserved all five factual topics and their S1 support: **5/5 factual checks**. Its rendered list restarted at1 for each question. Keep the raw response unchanged and repair the maintained copy's numbering to1–5; this is a formatting repair, not a factual correction. The answer arrived during the final wait check, so no cancellation or alternative session took place. The long observation interval is not a measured productivity gain.
+5. The fresh author response preserved all five factual topics and their S1 support: **5/5 factual checks**. Its rendered list restarted at 1 for each question. Keep the raw response unchanged and repair the maintained copy's numbering to 1–5; this is a formatting repair, not a factual correction. The answer arrived during the final wait check, so no cancellation or alternative session took place. The long observation interval is not a measured productivity gain.
 
 ![maintained faq numbering](./images/c06-08-16-maintained-faq-numbering.jpg)
 

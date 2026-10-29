@@ -8,7 +8,7 @@ In this chapter you will use dropdowns, custom validation and formula-based cond
 
 **Your result:** Validation rules and a tested pending-order exception highlight.
 
-> **Status:** author reference with39 staged application captures through3.4. Separate practice copy, strict categorical/numeric rules, actual rejection behavior, ten input observations including blank clearing, five exception cases, first/final-row coverage and flag/highlight/filtered-ID agreement checked. Temporary values restored; maintained source preserved. Independent appended-row repair, bulk-paste/CSV numeric-text behavior, reviewer and learner timing remain pending.
+> **Status:** author reference with 39 staged application captures through 3.4. Separate practice copy, strict categorical/numeric rules, actual rejection behavior, ten input observations including blank clearing, five exception cases, first/final-row coverage and flag/highlight/filtered-ID agreement checked. Temporary values restored; maintained source preserved. Independent appended-row repair, bulk-paste/CSV numeric-text behavior, reviewer and learner timing remain pending.
 
 ## What You Will Learn
 
@@ -24,7 +24,7 @@ Use a practice copy of Orders. Restore all temporary tests before completing the
 
 ## 3.1 Validate New Entries
 
-1. Duplicate **Orders** as **Validation Practice** in the existing Advanced workbook. Verify the separate tab name before editing. It retains the24 original records, Amount/ActiveAmount formulas and outside-table totals. Maintain Orders, Analysis, Rates and Source Snapshot unchanged.
+1. Duplicate **Orders** as **Validation Practice** in the existing Advanced workbook. Verify the separate tab name before editing. It retains the 24 original records, Amount/ActiveAmount formulas and outside-table totals. Maintain Orders, Analysis, Rates and Source Snapshot unchanged.
 
 ![Create a separate Validation Practice copy](./images/c05-03-01-separate-validation-practice-copy.jpg)
 
@@ -36,17 +36,17 @@ Use a practice copy of Orders. Restore all temporary tests before completing the
 
 ![Require whole nonnegative Quantity with a custom reject rule](./images/c05-03-03-whole-nonnegative-custom-rule-reject.jpg)
 
-4. Inspect the saved rules for **E2:E25 / G2:G25**. Native readback later confirms strict rules on every cell through row25, with the quantity reference adjusted per row. A visible dropdown or coloured cell alone does not prove rejection behavior.
+4. Inspect the saved rules for **E2:E25 / G2:G25**. Native readback later confirms strict rules on every cell through row 25, with the quantity reference adjusted per row. A visible dropdown or coloured cell alone does not prove rejection behavior.
 
 ![Inspect the saved categorical and numeric ranges](./images/c05-03-04-saved-validation-rule-coverage.jpg)
 
 ## 3.2 Flag Pending High Amounts
 
-1. Select **A2:K25**, open **Format > Conditional formatting**, choose **Custom formula is**, and enter **=AND($G2="Pending",$J2>=200)**. Use a readable light fill; the captured rule uses **#b7e1cd**. Save with Done. Columns G/J are fixed while the row follows each record, starting at source row2.
+1. Select **A2:K25**, open **Format > Conditional formatting**, choose **Custom formula is**, and enter **=AND($G2="Pending",$J2>=200)**. Use a readable light fill; the captured rule uses **#b7e1cd**. Save with Done. Columns G/J are fixed while the row follows each record, starting at source row 2.
 
 ![Define the row-aligned Pending high-amount format](./images/c05-03-05-pending-high-conditional-format-rule.jpg)
 
-2. Close the rule sidebar and inspect the baseline. It contains **no Pending record with Amount at least200**, so no row qualifies. Keep this valid zero-match result; do not change the maintained source merely to obtain a highlight.
+2. Close the rule sidebar and inspect the baseline. It contains **no Pending record with Amount at least 200**, so no row qualifies. Keep this valid zero-match result; do not change the maintained source merely to obtain a highlight.
 
 ![Inspect the zero-match baseline without forced highlights](./images/c05-03-06-baseline-no-qualifying-highlights.jpg)
 
@@ -56,19 +56,19 @@ Use a practice copy of Orders. Restore all temporary tests before completing the
 
 ![Observe actual invalid-status rejection](./images/c05-03-07-invalid-status-rejected.jpg)
 
-2. Try **1.5** in E3 using the same method. The native validation dialog rejects it. Dismiss and exit editing; original Quantity4 remains. A rejected value was not saved, so do not blindly undo the newly configured rule.
+2. Try **1.5** in E3 using the same method. The native validation dialog rejects it. Dismiss and exit editing; original Quantity 4 remains. A rejected value was not saved, so do not blindly undo the newly configured rule.
 
 ![Observe actual fractional-quantity rejection](./images/c05-03-08-fractional-quantity-rejected.jpg)
 
-3. In the practice row only, set **E3=1 / F3=199**, keeping Pending. J3 is199 and the row is not highlighted.
+3. In the practice row only, set **E3=1 / F3=199**, keeping Pending. J3 is 199 and the row is not highlighted.
 
-![Test Pending199 without highlighting](./images/c05-03-09-pending-199-not-highlighted.jpg)
+![Test Pending 199 without highlighting](./images/c05-03-09-pending-199-not-highlighted.jpg)
 
-4. Change F3 to **200**. J3 becomes200 and the intended row is highlighted. Delivered and Cancelled records elsewhere do not qualify merely because their amount is high.
+4. Change F3 to **200**. J3 becomes 200 and the intended row is highlighted. Delivered and Cancelled records elsewhere do not qualify merely because their amount is high.
 
-![Test Pending200 with highlighting](./images/c05-03-10-pending-200-highlighted.jpg)
+![Test Pending 200 with highlighting](./images/c05-03-10-pending-200-highlighted.jpg)
 
-5. Restore **E3=4 / F3=12 / G3=Pending**. Amount returns to48 and the highlight disappears. The maintained source was never changed.
+5. Restore **E3=4 / F3=12 / G3=Pending**. Amount returns to 48 and the highlight disappears. The maintained source was never changed.
 
 ![Restore the guided practice row](./images/c05-03-11-guided-values-restored.jpg)
 
@@ -78,23 +78,23 @@ Use a practice copy of Orders. Restore all temporary tests before completing the
 
 ![Record input expectations before harness tests](./images/c05-03-12-validation-case-expectations-before-tests.jpg)
 
-2. On practice E3, enter numeric **0**. It is accepted by the nonnegative whole-number rule. Record the result, then restore4.
+2. On practice E3, enter numeric **0**. It is accepted by the nonnegative whole-number rule. Record the result, then restore 4.
 
 ![Accept numeric zero Quantity](./images/c05-03-13-zero-quantity-accepted.jpg)
 
-3. Enter **2**. It is accepted. Record the result, then restore4.
+3. Enter **2**. It is accepted. Record the result, then restore 4.
 
 ![Accept a positive whole Quantity](./images/c05-03-14-positive-integer-accepted.jpg)
 
-4. Enter **-1**. The actual dialog rejects it; dismiss and retain4.
+4. Enter **-1**. The actual dialog rejects it; dismiss and retain 4.
 
 ![Reject negative Quantity](./images/c05-03-15-negative-quantity-rejected.jpg)
 
-5. Enter **1.5**. It is rejected in the harness test too; retain4.
+5. Enter **1.5**. It is rejected in the harness test too; retain 4.
 
 ![Reject fractional Quantity in the harness](./images/c05-03-16-fractional-quantity-rejected-in-harness.jpg)
 
-6. Enter the text **two**. It is rejected. Preserve the observed input and result in the report rather than silently translating it into numeric2.
+6. Enter the text **two**. It is rejected. Preserve the observed input and result in the report rather than silently translating it into numeric 2.
 
 ![Reject text Quantity](./images/c05-03-17-text-quantity-rejected.jpg)
 
@@ -114,7 +114,7 @@ Use a practice copy of Orders. Restore all temporary tests before completing the
 
 ![Reject an unknown status](./images/c05-03-21-unknown-status-rejected.jpg)
 
-11. Select E3 and use **Delete** to clear it. In this account the cell became blank **without a blocking dialog**, while the custom validation rule remained. Record this limit: the input rule does not enforce requiredness against clearing, and a complete row still needs a numeric Quantity check. Save the blank observation before restoring4. Do not report this as a successful blank-rejection test.
+11. Select E3 and use **Delete** to clear it. In this account the cell became blank **without a blocking dialog**, while the custom validation rule remained. Record this limit: the input rule does not enforce requiredness against clearing, and a complete row still needs a numeric Quantity check. Save the blank observation before restoring 4. Do not report this as a successful blank-rejection test.
 
 ![Observe clearing a quantity cell without a blocking dialog](./images/c05-03-22-blank-clear-behavior.jpg)
 
@@ -122,43 +122,43 @@ Use a practice copy of Orders. Restore all temporary tests before completing the
 
 ![Record input results including the blank-clearing limit](./images/c05-03-23-observed-input-validation-results.jpg)
 
-13. In Validation Practice, enter **PendingHigh** in L1 and **=AND($G2="Pending",$J2>=200)** in L2, then fill through L25. The restored baseline has24 FALSE flags, agreeing with no highlighted rows. For a full-width view, adjust only practice columns: A:H about110pixels, C150, I220, J:L120; later G140/H80 makes the status labels readable. Keep maintained-source widths unchanged.
+13. In Validation Practice, enter **PendingHigh** in L1 and **=AND($G2="Pending",$J2>=200)** in L2, then fill through L25. The restored baseline has 24 FALSE flags, agreeing with no highlighted rows. For a full-width view, adjust only practice columns: A:H about110pixels, C150, I220, J:L120; later G140/H80 makes the status labels readable. Keep maintained-source widths unchanged.
 
 ![Create explicit row flags matching the format logic](./images/c05-03-24-explicit-flag-baseline-zero.jpg)
 
-14. On Validation Tests, enter the five exception expectations in **A15:H20** before trying them: Pending199 FALSE; Pending200 TRUE; Pending201 TRUE; Delivered200 FALSE; Cancelled200 FALSE. Actual flag/highlight/ID/result columns start empty. These are sequential temporary versions of practice PO002, not additional source records.
+14. On Validation Tests, enter the five exception expectations in **A15:H20** before trying them: Pending 199 FALSE; Pending 200 TRUE; Pending 201 TRUE; Delivered 200 FALSE; Cancelled 200 FALSE. Actual flag/highlight/ID/result columns start empty. These are sequential temporary versions of practice PO002, not additional source records.
 
 ![Record exception expectations before testing](./images/c05-03-25-exception-matrix-expectations-before-tests.jpg)
 
 15. With E3=1, test **Pending / F3=199**. L3 is FALSE and the row is not highlighted. The amount condition excludes it.
 
-![Check Pending199 flag is FALSE](./images/c05-03-26-pending-199-flag-false.jpg)
+![Check Pending 199 flag is FALSE](./images/c05-03-26-pending-199-flag-false.jpg)
 
 16. Test **Pending /200**. L3 is TRUE and PO002 is highlighted; the threshold is inclusive.
 
-![Check Pending200 flag is TRUE](./images/c05-03-27-pending-200-flag-true.jpg)
+![Check Pending 200 flag is TRUE](./images/c05-03-27-pending-200-flag-true.jpg)
 
 17. Test **Pending /201**. L3 remains TRUE and the row remains highlighted.
 
-![Check Pending201 flag is TRUE](./images/c05-03-28-pending-201-flag-true.jpg)
+![Check Pending 201 flag is TRUE](./images/c05-03-28-pending-201-flag-true.jpg)
 
 18. Test **Delivered /200**. L3 is FALSE and the highlight is absent because the status condition fails.
 
-![Exclude Delivered200 from the flag](./images/c05-03-29-delivered-200-flag-false.jpg)
+![Exclude Delivered 200 from the flag](./images/c05-03-29-delivered-200-flag-false.jpg)
 
-19. Test **Cancelled /200**. L3 is FALSE, the highlight is absent and ActiveAmount is0. Record the observed cases, then restore E3/F3/G3 to **4/12/Pending**.
+19. Test **Cancelled /200**. L3 is FALSE, the highlight is absent and ActiveAmount is 0. Record the observed cases, then restore E3/F3/G3 to **4/12/Pending**.
 
-![Exclude Cancelled200 from the flag](./images/c05-03-30-cancelled-200-flag-false.jpg)
+![Exclude Cancelled 200 from the flag](./images/c05-03-30-cancelled-200-flag-false.jpg)
 
-20. Check both range boundaries without appending a record. Temporarily set **PO001 row2** to Quantity1, UnitCost200, Pending, and **PO024 row25** to Quantity1, UnitCost201, Pending. Both flags and row highlights are TRUE. Inspect the final row explicitly; the first cell alone does not prove full coverage. Native readback retained both positive boundary states before restoration.
+20. Check both range boundaries without appending a record. Temporarily set **PO001 row 2** to Quantity 1, UnitCost 200, Pending, and **PO024 row 25** to Quantity 1, UnitCost 201, Pending. Both flags and row highlights are TRUE. Inspect the final row explicitly; the first cell alone does not prove full coverage. Native readback retained both positive boundary states before restoration.
 
 ![Check the final bounded source row with a positive case](./images/c05-03-31-final-source-row-positive-coverage.jpg)
 
-21. Create a native filter over **A1:L25** and filter PendingHigh to **TRUE**. Navigate to A2 so both records are visible. Expect **2 of24 rows displayed: PO001 and PO024**, with matching TRUE flags and highlights. The ordinary SUM controls still include the full practice population while rows are hidden; they are not filtered subtotals.
+21. Create a native filter over **A1:L25** and filter PendingHigh to **TRUE**. Navigate to A2 so both records are visible. Expect **2 of 24 rows displayed: PO001 and PO024**, with matching TRUE flags and highlights. The ordinary SUM controls still include the full practice population while rows are hidden; they are not filtered subtotals.
 
 ![Filter the two flags and compare actual highlighted IDs](./images/c05-03-32-filtered-ids-match-two-highlighted-rows.jpg)
 
-22. Remove the filter. Restore row2 to **2/45/Delivered** and row25 to **8/8/Delivered**; row3 remains **4/12/Pending**. Leave every original OrderID intact.
+22. Remove the filter. Restore row 2 to **2/45/Delivered** and row 25 to **8/8/Delivered**; row 3 remains **4/12/Pending**. Leave every original OrderID intact.
 
 ![Remove the filter and restore all original practice values](./images/c05-03-33-filter-removed-and-practice-values-restored.jpg)
 
@@ -166,7 +166,7 @@ Use a practice copy of Orders. Restore all temporary tests before completing the
 
 ![Recheck the restored final-row flag](./images/c05-03-34-restored-final-row-flag-false.jpg)
 
-24. Record exact ranges, restoration and limitations in **Validation Tests J1:K9**, outside the matrices. Use wide wrapped note columns (about250/1000pixels) so they remain readable without widening the test tables. State that the independent appended PO-TEST row, new-row coverage repair, bulk paste, CSV numeric text and human/timing checks remain pending.
+24. Record exact ranges, restoration and limitations in **Validation Tests J1:K9**, outside the matrices. Use wide wrapped note columns (about 250/1000pixels) so they remain readable without widening the test tables. State that the independent appended PO-TEST row, new-row coverage repair, bulk paste, CSV numeric text and human/timing checks remain pending.
 
 ![Record exact ranges restoration and untested behaviors](./images/c05-03-35-rule-ranges-restoration-and-limits.jpg)
 
@@ -182,11 +182,11 @@ Use a practice copy of Orders. Restore all temporary tests before completing the
 
 ![Verify the maintained source is preserved](./images/c05-03-38-maintained-source-preserved.jpg)
 
-28. Leave **Validation Practice** saved with24 original records, original Amount/ActiveAmount formulas, the two strict validation rules, the conditional format and24 FALSE explicit flags. All temporary values and the filter are removed.
+28. Leave **Validation Practice** saved with 24 original records, original Amount/ActiveAmount formulas, the two strict validation rules, the conditional format and 24 FALSE explicit flags. All temporary values and the filter are removed.
 
 ![Leave restored Validation Practice ready for the next lab](./images/c05-03-39-restored-validation-practice-ready.jpg)
 
-> **Validation boundary:** guided3.1–3.3 and author casework3.4 are checked in the learner UI. Nine ordinary entry cases match expectations; blank clearing is allowed and explicitly documented as a completeness limit. Five exception cases and first/final-row flag/highlight/filtered-ID agreement are checked. Independent appended-row coverage diagnosis/repair, bulk-paste/CSV numeric-text behavior, reviewer and learner timing remain pending. The65-minute classroom allocation is unmeasured.
+> **Validation boundary:** guided 3.1–3.3 and author casework 3.4 are checked in the learner UI. Nine ordinary entry cases match expectations; blank clearing is allowed and explicitly documented as a completeness limit. Five exception cases and first/final-row flag/highlight/filtered-ID agreement are checked. Independent appended-row coverage diagnosis/repair, bulk-paste/CSV numeric-text behavior, reviewer and learner timing remain pending. The 65-minute classroom allocation is unmeasured.
 
 ## Independent Challenge
 
