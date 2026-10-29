@@ -29,13 +29,14 @@ const selected=process.argv[2]?courses.filter(c=>c.path===process.argv[2]):cours
 if(!selected.length)throw new Error('Unknown course: '+process.argv[2]);
 // Chromium embeds every screenshot as a lossless full-size image, so a captured course book
 // can pass GitHub's 50 MB warning size. Ghostscript re-encodes the images at 200 ppi JPEG
-// quality 85, keeping text, links and bookmarks, which cuts the file by about three quarters.
+// quality 85, keeping text, links and bookmarks. The 1.0 threshold resamples anything above
+// 200 ppi; the default (1.5) skipped the Sheets screenshots, which print at 215-285 ppi.
 const ghostscript=spawnSync('gs',['--version']).status===0;
 if(!ghostscript)console.warn('Ghostscript (gs) not found: books are written uncompressed. Install it before committing rebuilt PDFs.');
 function compress(pdf){
  const tmp=pdf+'.tmp.pdf';
  const r=spawnSync('gs',['-q','-dNOPAUSE','-dBATCH','-dSAFER','-sDEVICE=pdfwrite','-dCompatibilityLevel=1.6',
-  '-dDownsampleColorImages=true','-dColorImageResolution=200','-dColorImageDownsampleType=/Bicubic',
+  '-dDownsampleColorImages=true','-dColorImageResolution=200','-dColorImageDownsampleThreshold=1.0','-dColorImageDownsampleType=/Bicubic',
   '-dAutoFilterColorImages=false','-dColorImageFilter=/DCTEncode','-dJPEGQ=85','-sOutputFile='+tmp,pdf],{stdio:'inherit'});
  if(r.status!==0)throw new Error('Ghostscript failed on '+pdf);
  const [before,after]=[pdf,tmp].map(f=>statSync(f).size);
