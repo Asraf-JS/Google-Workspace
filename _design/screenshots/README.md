@@ -1543,3 +1543,7 @@ AI6 UI capture catch-up adds nine original-dimension stages in a separate casewo
 | [c06-06-07-reusable-review-protocol.jpg](../../06-notebooklm-gemini/06-responsible-review/images/c06-06-07-reusable-review-protocol.jpg) | [PNG](full/06-notebooklm-gemini/06-responsible-review/c06-06-07-reusable-review-protocol.png) | 1591 x 868 | application-window |
 | [c06-06-08-second-pass-no-change-review.jpg](../../06-notebooklm-gemini/06-responsible-review/images/c06-06-08-second-pass-no-change-review.jpg) | [PNG](full/06-notebooklm-gemini/06-responsible-review/c06-06-08-second-pass-no-change-review.png) | 1591 x 868 | application-window |
 | [c06-06-09-checked-casework-handover.jpg](../../06-notebooklm-gemini/06-responsible-review/images/c06-06-09-checked-casework-handover.jpg) | [PNG](full/06-notebooklm-gemini/06-responsible-review/c06-06-09-checked-casework-handover.png) | 1591 x 868 | application-window |
+
+## Lossless optimization
+
+All 1,198 retained PNGs and 1,201 lesson JPEGs were checked during the final lossless compression pass. Dimensions and decoded pixels are preserved. See the [optimization report](../../planning/IMAGE-OPTIMIZATION.md) for measured savings and verification.

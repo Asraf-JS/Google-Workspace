@@ -4,9 +4,11 @@ Participant lab drafts, practice files and review books for six Google Workspace
 
 You do not need a GitHub account to read the materials.
 
-**Version 0.4**, last updated 27 October 2026.
+**Version 0.4**, last updated 29 October 2026.
 
 The programme has 50 draft chapters: six expanded masterclass labs and 44 expanded specialist labs. All now include staged author-reference images, with 1,201 captures across the programme and limitations recorded per lab. The package includes the participant site, practice files and six review books. The hub Preview remains blocked; feature-specific checks, independent challenges, human review and learner timing pilots remain required. See the [validation status](./planning/VALIDATION-STATUS.md).
+
+The final lossless image pass saved **134.4 MB (17.65%)** while preserving screenshot dimensions and decoded pixels. See the [optimization report](./planning/IMAGE-OPTIMIZATION.md).
 
 ## Program Flow
 
