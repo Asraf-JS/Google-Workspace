@@ -1,0 +1,512 @@
+{
+ "raw": "../raw/04-sheets-foundation-intermediate/05-validation-filtering",
+ "repoRoot": "../../../04-sheets-foundation-intermediate",
+ "shots": {
+  "c04-05-01-status-range-and-options.png": {
+   "boxes": [
+    [
+     1272,
+     136,
+     1572,
+     196,
+     1
+    ],
+    [
+     1270,
+     300,
+     1520,
+     446,
+     1
+    ]
+   ]
+  },
+  "c04-05-02-reject-invalid-input.png": {
+   "boxes": [
+    [
+     1290,
+     566,
+     1464,
+     594
+    ],
+    [
+     1286,
+     720,
+     1464,
+     748,
+     2
+    ],
+    [
+     1480,
+     780,
+     1576,
+     814
+    ]
+   ]
+  },
+  "c04-05-03-existing-status-dropdown.png": {
+   "boxes": [
+    [
+     728,
+     224,
+     926,
+     380,
+     3
+    ]
+   ]
+  },
+  "c04-05-04-temporary-filter-range.png": {
+   "boxes": [
+    [
+     60,
+     144,
+     350,
+     176,
+     1
+    ],
+    [
+     1436,
+     142,
+     1556,
+     178
+    ]
+   ]
+  },
+  "c04-05-05-name-incomplete-view.png": {
+   "boxes": [
+    [
+     628,
+     408,
+     972,
+     446,
+     2
+    ],
+    [
+     886,
+     478,
+     974,
+     514
+    ]
+   ]
+  },
+  "c04-05-06-exclude-complete-filter.png": {
+   "boxes": [
+    [
+     744,
+     538,
+     1000,
+     572,
+     3
+    ],
+    [
+     930,
+     700,
+     1002,
+     736
+    ]
+   ]
+  },
+  "c04-05-07-eight-incomplete-records.png": {
+   "boxes": [
+    [
+     40,
+     244,
+     1362,
+     404,
+     4
+    ],
+    [
+     1380,
+     842,
+     1580,
+     866,
+     4
+    ]
+   ]
+  },
+  "c04-05-08-all-twelve-after-closing.png": {
+   "boxes": [
+    [
+     40,
+     206,
+     1366,
+     448,
+     5
+    ]
+   ]
+  },
+  "c04-05-09-paste-validation-only-menu.png": {
+   "boxes": [
+    [
+     104,
+     240,
+     400,
+     270
+    ],
+    [
+     420,
+     378,
+     600,
+     404,
+     1
+    ]
+   ]
+  },
+  "c04-05-10-done-rejected-in-spare-cell.png": {
+   "boxes": [
+    [
+     520,
+     340,
+     1082,
+     534,
+     2
+    ]
+   ]
+  },
+  "c04-05-11-spare-test-cleared.png": {
+   "boxes": [
+    [
+     1512,
+     206,
+     1588,
+     234,
+     3
+    ]
+   ]
+  },
+  "c04-05-12-reopened-incomplete-view.png": {
+   "boxes": [
+    [
+     60,
+     144,
+     350,
+     176,
+     4
+    ],
+    [
+     40,
+     244,
+     1362,
+     404
+    ]
+   ]
+  },
+  "c04-05-13-status-test-plan.png": {
+   "boxes": [
+    [
+     44,
+     166,
+     652,
+     286,
+     1
+    ]
+   ]
+  },
+  "c04-05-14-three-canonical-statuses-accepted.png": {
+   "boxes": [
+    [
+     148,
+     184,
+     252,
+     248,
+     2,
+     "below"
+    ]
+   ]
+  },
+  "c04-05-15-invalid-status-matrix-rejection.png": {
+   "boxes": [
+    [
+     518,
+     346,
+     1082,
+     526,
+     3
+    ]
+   ]
+  },
+  "c04-05-16-status-matrix-blank-limitation.png": {
+   "boxes": [
+    [
+     148,
+     264,
+     460,
+     288,
+     4,
+     "below"
+    ]
+   ]
+  },
+  "c04-05-17-week-boundary-test-plan.png": {
+   "boxes": [
+    [
+     44,
+     328,
+     652,
+     468,
+     5
+    ]
+   ]
+  },
+  "c04-05-18-whole-week-custom-rule.png": {
+   "boxes": [
+    [
+     1276,
+     250,
+     1572,
+     350,
+     6
+    ],
+    [
+     1276,
+     410,
+     1544,
+     488,
+     6
+    ],
+    [
+     1276,
+     578,
+     1442,
+     608,
+     6
+    ],
+    [
+     1480,
+     780,
+     1574,
+     816
+    ]
+   ]
+  },
+  "c04-05-19-week-zero-rejected.png": {
+   "boxes": [
+    [
+     518,
+     346,
+     1082,
+     526,
+     7
+    ]
+   ]
+  },
+  "c04-05-20-week-four-accepted.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     260,
+     140
+    ],
+    [
+     1160,
+     224,
+     1264,
+     248,
+     8,
+     "below"
+    ]
+   ]
+  },
+  "c04-05-21-week-five-rejected.png": {
+   "boxes": [
+    [
+     518,
+     346,
+     1082,
+     526,
+     9
+    ]
+   ]
+  },
+  "c04-05-22-fractional-week-rejected.png": {
+   "boxes": [
+    [
+     518,
+     346,
+     1082,
+     526,
+     9
+    ]
+   ]
+  },
+  "c04-05-23-week-clearing-allowed.png": {
+   "boxes": [
+    [
+     1160,
+     224,
+     1264,
+     248,
+     10,
+     "below"
+    ]
+   ]
+  },
+  "c04-05-24-original-practice-week-restored.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     260,
+     140
+    ],
+    [
+     1160,
+     224,
+     1264,
+     248,
+     11,
+     "below"
+    ]
+   ]
+  },
+  "c04-05-25-completed-rule-matrix-guide.png": {
+   "boxes": [
+    [
+     44,
+     508,
+     600,
+     652,
+     12
+    ]
+   ]
+  },
+  "c04-05-26-unfiltered-ordinary-sum.png": {
+   "boxes": [
+    [
+     1290,
+     470,
+     1434,
+     494,
+     13
+    ]
+   ]
+  },
+  "c04-05-27-name-planning-focused-view.png": {
+   "boxes": [
+    [
+     628,
+     408,
+     972,
+     446,
+     14
+    ],
+    [
+     886,
+     478,
+     974,
+     514
+    ]
+   ]
+  },
+  "c04-05-28-planning-team-filter.png": {
+   "boxes": [
+    [
+     48,
+     540,
+     290,
+     570,
+     15
+    ],
+    [
+     230,
+     700,
+     302,
+     736
+    ]
+   ]
+  },
+  "c04-05-29-two-planning-tasks-sum-unchanged.png": {
+   "boxes": [
+    [
+     40,
+     246,
+     1362,
+     280,
+     16
+    ],
+    [
+     1294,
+     306,
+     1434,
+     326,
+     16
+    ],
+    [
+     1380,
+     842,
+     1560,
+     866
+    ]
+   ]
+  },
+  "c04-05-30-two-saved-filter-views.png": {
+   "boxes": [
+    [
+     1198,
+     190,
+     1440,
+     248,
+     17
+    ]
+   ]
+  },
+  "c04-05-31-reopened-incomplete-sum-unchanged.png": {
+   "boxes": [
+    [
+     60,
+     144,
+     350,
+     176,
+     18
+    ],
+    [
+     1294,
+     426,
+     1434,
+     446,
+     18
+    ]
+   ]
+  },
+  "c04-05-32-reopened-planning-two-records.png": {
+   "boxes": [
+    [
+     60,
+     144,
+     350,
+     176,
+     18
+    ],
+    [
+     44,
+     246,
+     1368,
+     280,
+     18
+    ]
+   ]
+  },
+  "c04-05-33-all-source-rows-restored.png": {
+   "boxes": [
+    [
+     40,
+     206,
+     1366,
+     430,
+     19
+    ]
+   ]
+  },
+  "c04-05-34-final-rule-and-view-evidence.png": {
+   "boxes": [
+    [
+     44,
+     688,
+     1168,
+     786,
+     20
+    ]
+   ]
+  }
+ }
+}

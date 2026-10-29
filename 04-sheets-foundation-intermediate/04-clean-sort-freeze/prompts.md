@@ -48,3 +48,46 @@ Cleaning Intake Raw A1:C6 contains the five supplied C records. The reference ex
 Sort A1:F6 by CleanTeam then TaskID, with the header option: C001,C004,C002,C002,C003. Inspect C001/C002/C003 status relationships before and after. In a disposable Sort Safety Test copy, sorting only E2:E6 A→Z makes C001 Blocked and C003 Not Started; Undo restores Complete and Blocked respectively. C002 remains In Progress through this test.
 
 PlannedCosts bounds: **'Sorting Practice'!G2:G13**, twelve numeric cells. SUM(PlannedCosts)=10400, explicit SUM of that range=10400, difference 0. No new-row expansion test is claimed. Tasks A1:L13 values/formulas remain unchanged. Independent challenge and learner timing remain pending.
+
+## Part 5: Cleaning Intake Check Tables
+
+Section 4.4. Columns are separated by tabs, so you can paste a block into its first cell, then fill in what you observe.
+
+A9:D12 (step 5):
+
+```text
+ID check	Raw status	Clean status	Disposition
+C001
+C002 (both)
+C003
+```
+
+A14:D17 (step 7):
+
+```text
+ID after sort	Raw status	Clean status	Outcome
+C001
+C002 (both)
+C003
+```
+
+A19:A21 (step 8), with the two SUM formulas and their difference in B19:B21:
+
+```text
+Named total
+Explicit total
+Difference
+```
+
+A24:D27 and A29 (step 12, on Sort Safety Test):
+
+```text
+ID check	Correct	Bad sort	After Undo
+C001
+C002 (both)
+C003
+```
+
+```text
+Final state
+```

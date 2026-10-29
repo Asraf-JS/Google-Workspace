@@ -2,7 +2,7 @@
 
 Lesson screenshots follow the series style from training-book-kit: the real app window at 1600 px wide, a 3 px red (232, 17, 35) box around each thing to click and a numbered circle for the step it belongs to. The boxes are drawn by the kit's `annotate-shots`, so they can be moved and redrawn without recapturing.
 
-Converted so far: all eight Google Docs labs (165 images), all eight Google Slides labs (173 images) and Sheets Foundation Lab 1 (26 images). The other courses still use the earlier hand-cropped `.jpg` images.
+Converted so far: all eight Google Docs labs (165 images), all eight Google Slides labs (173 images) and all eight Sheets Foundation labs (213 images). The other courses still use the earlier hand-cropped `.jpg` images.
 
 ## Files
 

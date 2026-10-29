@@ -24,3 +24,31 @@ Entry Practice type block: A7:B12, labelled numeric 600 / text RM 600 / week 2 /
 Paste comparison: D9 normal paste from B9 gives numeric 600 with currency format; F9 format-only retains 123 and displays RM123. **Values-only target-format preservation remains unverified**: both shortcut and menu carried the RM format in this controlled session after setting E9 to number format 0. Repeat manually and compare formats as well as values. Do not claim this property-transfer check passed.
 
 Source controls: **=COUNT(Tasks!G2:H13)** gives 24; **=COUNT(Tasks!E2:E13)** gives 12. All twelve source records retain their original underlying values. The source header already had readable contrast and its widths were retained; wrapping and Fit to data were applied. Entry Practice header/widths/wrapping were improved. Independent intake repair, partner test and classroom timing remain pending.
+
+## Part 3: Type Tests Block
+
+Section 2.4, step 1. Type these into **A7:B12** of Entry Practice (column A, then column B):
+
+```text
+Type Tests	Practice only
+Field	Input
+Numeric cost	600
+Text cost	RM 600
+Week index	2
+Practice date	2026-10-24
+```
+
+## Part 4: Results Block Labels
+
+Section 2.4, step 7. Type these labels in **A17:A24** and `Explanation` in B17, then write your own observation for each row in column B. Use **=COUNT(Tasks!G2:H13)** in B22 and **=COUNT(Tasks!E2:E13)** in B23.
+
+```text
+Observed result
+SUM and COUNT
+Paste result
+Date boundary
+Source checks
+Source cost cells
+Source week cells
+Source values
+```
