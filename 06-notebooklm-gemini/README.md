@@ -1,6 +1,6 @@
 # Gemini Notebook and Gemini
 
-**Status:** review draft, revision 0.4. Labs 1-4 have 73 author-reference captures; Lab 2 includes a fresh-conversation repeat after user-assisted retries. Labs 5-8 still need guided author validation; independent challenges, human review and classroom timing remain pending.
+**Status:** review draft, revision 0.4. Labs 1-4 and the partial Lab 5 route have 84 author-reference captures; Lab 2 includes a fresh-conversation repeat after user-assisted retries. Lab 5 listening is skipped after a 403 failure. Lab 6 has a checked written reference through connected Docs tools; its UI screenshots and Labs 7-8 still need guided author validation; independent challenges, human review and classroom timing remain pending.
 
 **Duration:** 1 day. Each day has 390 teaching minutes, excluding lunch and breaks.
 

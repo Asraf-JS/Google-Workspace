@@ -8,7 +8,9 @@ In this chapter you will identify unsupported claims, sensitive inputs, bias and
 
 **Your result:** Evidence-based corrections and recorded unresolved policy questions.
 
-> **Status:** expanded review draft, revision 0.4. Complete the casework and independent challenge as well as the guided steps. The expanded route, screenshots and timing have not yet been validated in the learner application.
+> **Status:** checked written author reference prepared in native Google Docs through connected tools. Three claim reviews, input classification, generated-output review and a separate author second pass are recorded. Learner UI execution, screenshots, independent challenge, human policy review and classroom timing remain pending.
+
+See the [checked author reference](./author-reference.md) for evidence, corrections and unresolved questions. Treat it as a comparison after attempting the exercise. Lab 5 audio listening was skipped at the instructor’s request after a 403 download failure; it receives no accuracy score.
 
 ## What You Will Learn
 
@@ -92,6 +94,10 @@ Claim-by-claim evidence review with meaningful correction categories. The result
 
 <!-- VERIFY: execute expanded section 6.4 and independent challenge; capture images/c06-06-04.jpg only after real application success. -->
 
+## Author Reference Findings
+
+Budget approval is contradicted; the benefit guarantee and supplier/PO events are unestablished. The checked reference separates factual claims, omissions and style choices, and records unresolved policy questions.
+
 ## Independent Challenge
 
 Close the earlier step lists for the first attempt. Use the case input and your own reasoning. If you need help, record the hint and repeat the affected check independently.
@@ -119,8 +125,4 @@ Record the defect or uncertainty you investigated, the evidence used, the repair
 | A menu or feature is unavailable | Confirm the account and the shared access notes; record the missing step and ask the trainer for its fallback |
 | The result differs from the checkpoint | Compare the exact source range, wording and conditions before repeating the action |
 
-## Lesson Summary
-
-Responsible review uses source checks, permitted inputs and appropriate escalation.
-
-**Check yourself:** Can a citation or a confident answer establish legal approval by itself?
+**Lesson summary:** Responsible review uses source checks, permitted inputs and appropriate escalation. **Check yourself:** Can a citation or a confident answer establish legal approval by itself?

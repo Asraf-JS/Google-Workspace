@@ -27049,6 +27049,237 @@
       "notes": [
         "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
       ]
+    },
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-01-faq-prompt.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-01-faq-prompt.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "a3c162b6d68d84038773b828c756ba512e783ffe261fa6db59f03e34543cfc56",
+      "notes": [
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened403; no audio transcript or review success claimed."
+      ]
+    },
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-02-generated-faq.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-02-generated-faq.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "12ddf34a24a67634ddf181fe5fdddc748260991fe8c50832eb97652f50f8e7c5",
+      "notes": [
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened403; no audio transcript or review success claimed."
+      ]
+    },
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-03-faq-fact-citation.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-03-faq-fact-citation.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "7dadea3ea5d7f8c7a51b9001843a690f58c9a6b5626af4445f648cf5af969732",
+      "notes": [
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened403; no audio transcript or review success claimed."
+      ]
+    },
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-04-faq-scripted-citation.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-04-faq-scripted-citation.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "306ec329098e96e93e7ccd7239fbdaf83454e639c8cb021cc66c6f8c172d9b0b",
+      "notes": [
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened403; no audio transcript or review success claimed."
+      ]
+    },
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-05-faq-guidance-citation.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-05-faq-guidance-citation.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "70762def65d7ad67ac56cbf57065569c5aef78a00abe1edeaa529f2af549d655",
+      "notes": [
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened403; no audio transcript or review success claimed."
+      ]
+    },
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-06-checked-faq-note.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-06-checked-faq-note.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "1805cab5d14518e45606ca8dcc1182b26519fa665aa61f441962006081939403",
+      "notes": [
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened403; no audio transcript or review success claimed."
+      ]
+    },
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-07-audio-custom-instructions.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-07-audio-custom-instructions.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "67ba4582a23c9d20966ac9f87f95e4699e05b8d20403d753e7c0c246f773f7ef",
+      "notes": [
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened403; no audio transcript or review success claimed."
+      ]
+    },
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-08-audio-generating.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-08-audio-generating.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "f38aa310757fd3a94f882b9765179ad0c9adb01832371dc581ba082166af4262",
+      "notes": [
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened403; no audio transcript or review success claimed."
+      ]
+    },
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-09-written-briefing.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-09-written-briefing.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "0703a4a0060992a1fc017e708bd5861bf4bf9f819218e05b22a40edc8430eccf",
+      "notes": [
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened403; no audio transcript or review success claimed."
+      ]
+    },
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-10-audit-sheet-before-listening.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-10-audit-sheet-before-listening.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1511,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "508da0382fce11e10767203d5ef88c8a7c99c0fd3ed70bc4d3269cc3026f601f",
+      "notes": [
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened403; no audio transcript or review success claimed."
+      ]
+    },
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-11-audio-ready.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-11-audio-ready.png",
+      "dimensions": [
+        1432,
+        781
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1352,
+          0,
+          1432,
+          65
+        ]
+      ],
+      "sha256": "be92cc535840c4715addbae8439bad470c20898584e44c5b9fae22ca4aa6f147",
+      "notes": [
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened403; no audio transcript or review success claimed."
+      ]
     }
   },
   "missing_originals": [
