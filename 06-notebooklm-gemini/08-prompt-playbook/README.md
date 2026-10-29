@@ -87,7 +87,7 @@ Use the checked FAQ, evidence review and pilot timing record. Keep the playbook 
 
 ![versioned handover manifest](./images/c06-08-14-versioned-handover-manifest.jpg)
 
-![current playbook release](./images/c06-08-15-current-playbook-release.jpg)
+[Open the current version 1.1 playbook overview](./images/c06-08-15-current-playbook-release.jpg).
 
 4. Retain the version 1.1 instruction repair and actual fresh-context result. The [playbook reference](./playbook-v1.1.md) records the usable method and remaining limits. This is author reproduction with prior familiarity; partner reproducibility, independent learner work, spoken delivery and classroom timing remain separate checks.
 
@@ -119,8 +119,4 @@ Record the defect or uncertainty you investigated, the evidence used, the repair
 | A menu or feature is unavailable | Confirm the account and the shared access notes; record the missing step and ask the trainer for its fallback |
 | The result differs from the checkpoint | Compare the exact source range, wording and conditions before repeating the action |
 
-## Lesson Summary
-
-You can carry a bounded, checked AI workflow into an approved workplace setting.
-
-**Check yourself:** Could another person tell whether an answer is unsupported using your playbook?
+**Lesson summary:** Carry a bounded, checked AI workflow into an approved workplace setting. **Check yourself:** Could another person tell whether an answer is unsupported using your playbook?
