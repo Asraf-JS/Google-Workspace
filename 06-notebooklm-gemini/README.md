@@ -1,6 +1,6 @@
 # Gemini Notebook and Gemini
 
-**Status:** review draft, revision 0.4. All eight AI labs now have staged author-reference captures (125 total). Lab 5 audio listening was skipped after 403, and the separate Lab 7 repair rerun remains unscored. Lab 8 has a checked fresh-session FAQ and version 1.1 playbook; Lab 6 now includes staged UI casework. Human effort comparisons, policy/rights decisions, partner/independent checks, spoken handover and classroom timing remain unvalidated.
+**Status:** review draft, revision 0.4. All eight AI labs have annotated author-reference images (125 total). Lab 5 audio listening was skipped after 403, and the separate Lab 7 repair rerun remains unscored. Lab 8 has a checked fresh-session FAQ and version 1.1 playbook; Lab 6 now includes staged UI casework. Human effort comparisons, policy/rights decisions, partner/independent checks, spoken handover and classroom timing remain unvalidated.
 
 **Duration:** 1 day. Each day has 390 teaching minutes, excluding lunch and breaks.
 
