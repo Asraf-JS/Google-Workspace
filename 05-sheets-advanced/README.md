@@ -12,22 +12,22 @@
 
 **Your result:** A reconciled analysis workbook with tested formulas, lookups, pivots and a project dashboard.
 
-## Proposed Chapters
+## Chapters
 
-| Day | # | Chapter | Prompts and values | What you will do | Minutes |
+| Day | # | Chapter | Prompts | What you will do | Time |
 |---|---|---|---|---|---|
-| 1 | 01 | [Audit the Source Register](./01-source-audit/README.md) | [Prompts and values](./01-source-audit/prompts.md) | Quarantine Bad Rows and Write a Data Contract. | 45 |
-| 1 | 02 | [Build Conditional Calculations](./02-conditional-logic/README.md) | [Prompts and values](./02-conditional-logic/prompts.md) | Reconcile Three Populations and Test Conditional Boundaries. | 75 |
-| 1 | 03 | [Validate Entries and Flag Exceptions](./03-validation-exceptions/README.md) | [Prompts and values](./03-validation-exceptions/prompts.md) | Create a Rule Test Harness and Reconcile Exceptions. | 65 |
-| 1 | 04 | [Combine and Clean Text](./04-text-cleaning/README.md) | [Prompts and values](./04-text-cleaning/prompts.md) | Build a Reversible Text Normalisation Pipeline. | 60 |
-| 1 | 05 | [Match Records and Handle Errors](./05-lookups-errors/README.md) | [Prompts and values](./05-lookups-errors/prompts.md) | Challenge Exact Lookups With Missing and Duplicate Keys. | 80 |
-| 1 | 06 | [Complete the Formula Clinic](./06-formula-clinic/README.md) | [Prompts and values](./06-formula-clinic/prompts.md) | Run an Independent Formula Fault Clinic. | 65 |
-| 2 | 07 | [Summarise with Pivot Tables](./07-pivot-tables/README.md) | [Prompts and values](./07-pivot-tables/prompts.md) | Reconcile Pivot Semantics and New-Row Coverage. | 75 |
-| 2 | 08 | [Query Structured Criteria](./08-database-functions/README.md) | [Prompts and values](./08-database-functions/prompts.md) | Prove AND, OR and Overlapping Criteria. | 60 |
-| 2 | 09 | [Build a Dashboard](./09-dashboard/README.md) | [Prompts and values](./09-dashboard/prompts.md) | Design a Dashboard With a Visible Refresh Contract. | 70 |
-| 2 | 10 | [Use Gemini as an Analysis Partner](./10-gemini-analysis/README.md) | [Prompts and values](./10-gemini-analysis/prompts.md) | Evaluate AI Proposals Against Known Test Cases. | 55 |
-| 2 | 11 | [Complete the Analysis Capstone](./11-analysis-capstone/README.md) | [Prompts and values](./11-analysis-capstone/prompts.md) | Complete a Decision Analysis With Independent Evidence. | 80 |
-| 2 | 12 | [Review and Handover](./12-handover/README.md) | [Prompts and values](./12-handover/prompts.md) | Make the Analysis Operable by Another Analyst. | 50 |
+| 1 | 01 | [Audit the Source Register](./01-source-audit/README.md) | [Prompts](./01-source-audit/prompts.md) | Quarantine Bad Rows and Write a Data Contract. | 45 min |
+| 1 | 02 | [Build Conditional Calculations](./02-conditional-logic/README.md) | [Prompts](./02-conditional-logic/prompts.md) | Reconcile Three Populations and Test Conditional Boundaries. | 75 min |
+| 1 | 03 | [Validate Entries and Flag Exceptions](./03-validation-exceptions/README.md) | [Prompts](./03-validation-exceptions/prompts.md) | Create a Rule Test Harness and Reconcile Exceptions. | 65 min |
+| 1 | 04 | [Combine and Clean Text](./04-text-cleaning/README.md) | [Prompts](./04-text-cleaning/prompts.md) | Build a Reversible Text Normalisation Pipeline. | 60 min |
+| 1 | 05 | [Match Records and Handle Errors](./05-lookups-errors/README.md) | [Prompts](./05-lookups-errors/prompts.md) | Challenge Exact Lookups With Missing and Duplicate Keys. | 80 min |
+| 1 | 06 | [Complete the Formula Clinic](./06-formula-clinic/README.md) | [Prompts](./06-formula-clinic/prompts.md) | Run an Independent Formula Fault Clinic. | 65 min |
+| 2 | 07 | [Summarise with Pivot Tables](./07-pivot-tables/README.md) | [Prompts](./07-pivot-tables/prompts.md) | Reconcile Pivot Semantics and New-Row Coverage. | 75 min |
+| 2 | 08 | [Query Structured Criteria](./08-database-functions/README.md) | [Prompts](./08-database-functions/prompts.md) | Prove AND, OR and Overlapping Criteria. | 60 min |
+| 2 | 09 | [Build a Dashboard](./09-dashboard/README.md) | [Prompts](./09-dashboard/prompts.md) | Design a Dashboard With a Visible Refresh Contract. | 70 min |
+| 2 | 10 | [Use Gemini as an Analysis Partner](./10-gemini-analysis/README.md) | [Prompts](./10-gemini-analysis/prompts.md) | Evaluate AI Proposals Against Known Test Cases. | 55 min |
+| 2 | 11 | [Complete the Analysis Capstone](./11-analysis-capstone/README.md) | [Prompts](./11-analysis-capstone/prompts.md) | Complete a Decision Analysis With Independent Evidence. | 80 min |
+| 2 | 12 | [Review and Handover](./12-handover/README.md) | [Prompts](./12-handover/prompts.md) | Make the Analysis Operable by Another Analyst. | 50 min |
 
 ## Inputs and Checks
 

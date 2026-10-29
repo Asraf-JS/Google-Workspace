@@ -1,6 +1,6 @@
-# 01 - Build a Governed Project Workspace: Prompts and Values
+# 01 - Build a Governed Project Workspace: Prompts
 
-## Names
+## Part 1: Names
 ```text
 GW - Project Reporting Pilot
 01 Sources
@@ -9,11 +9,11 @@ GW - Project Reporting Pilot
 GW - Project Reporting Pilot - Workspace Register
 GW - Pilot Task Register
 ```
-## Asset Table Headings
+## Part 2: Asset Table Headings
 ```text
 Asset | Source file | Maintainer role | Intended reader role | Review gate
 ```
-## Access Plan Headings
+## Part 3: Access Plan Headings
 ```text
 Role | Asset | Proposed access | Reason | Actually tested? | Result
 ```

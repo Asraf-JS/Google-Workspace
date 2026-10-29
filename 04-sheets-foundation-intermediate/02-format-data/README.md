@@ -2,13 +2,15 @@
 
 In this chapter you will use dates, numbers, currency, wrapping and sensible column widths.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
+> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
-**Target allocation:** 45 minutes: 10 explanation/demonstration, 15 guided build and casework, 15 independent challenge, 5 verification and repair. The active portion is 35 minutes by design. These are unmeasured targets awaiting a learner pilot.
+**Estimated time:** 45 minutes, planned as 10 explanation and demonstration, 15 guided build and casework, 15 independent practice and 5 verification and repair, with 35 active minutes by design. Not yet timed with learners.
 
 **Your result:** A readable register with numeric currency values and sensible dimensions.
 
 > **Status:** partial author reference with 18 staged application captures through 2.4. Currency/week formats, wrapping/row fit, numeric versus text tests, SUM/COUNT and format-only behaviour checked. Values-only target-format preservation did not pass in the controlled session and needs manual verification. Source values remain unchanged; independent challenge and learner timing are pending.
+
+---
 
 ## What You Will Learn
 
@@ -28,15 +30,23 @@ Use your original Tasks tab. If needed, reopen a fresh native copy of [TaskRegis
 
 ![Inspect numeric 600 in the formula bar](./images/c04-02-01-numeric-cost-in-formula-bar.jpg)
 
+*Inspect numeric 600 in the formula bar.*
+
 2. Select **G2:H13**. Open **More formats > Custom currency**, choose **Malaysian Ringgit**, select **RM1,000** without decimals, and **Apply**. The toolbar currency shortcut follows the workbook locale, so it may offer pounds; select RM explicitly.
 
 ![Select Malaysian ringgit without decimal places](./images/c04-02-02-custom-ringgit-no-decimals-selected.jpg)
 
+*Select Malaysian ringgit without decimal places.*
+
 ![Apply the RM display to the source cost range](./images/c04-02-03-cost-range-displays-ringgit-numeric-values.jpg)
+
+*Apply the RM display to the source cost range.*
 
 3. Select **E2:E13**, use **More formats > Custom number format**, enter **0** and **Apply**. DueWeek remains an index from 1 to 4, not a calendar date.
 
 ![Keep DueWeek as a whole-number index](./images/c04-02-04-week-index-whole-number-not-date.jpg)
+
+*Keep DueWeek as a whole-number index.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -49,17 +59,25 @@ Costs show their currency while remaining numeric. Week values still range from 
 
 ## 2.2 Improve Readability
 
-1. Select **A1:H1** and inspect its contrast. The starter already has bold white labels on a dark blue fill, so the reference retains that suitable style. A reasoned no-change decision is preferable to changing a readable header just to demonstrate a button.
+1. Select **A1:H1** and inspect its contrast. A reasoned no-change decision is preferable to changing a readable header just to demonstrate a button.
+
+> **Reference run:** The starter already has bold white labels on a dark blue fill, so the reference retains that suitable style.
 
 ![Retain the existing readable source header contrast](./images/c04-02-05-retain-readable-header-contrast.jpg)
+
+*Retain the existing readable source header contrast.*
 
 2. Inspect Task and Owner widths and widen only if text is cut off. The supplied source widths already show each task and owner. Select **C2:C13**, choose **Text wrapping > Wrap**, and inspect complete descriptions.
 
 ![Wrap source task descriptions without merging fields](./images/c04-02-06-wrapped-task-text-and-readable-owner-widths.jpg)
 
+*Wrap source task descriptions without merging fields.*
+
 3. Select rows **2:13**, open the row-header menu, choose **Resize rows 2–13 > Fit to data > OK**. Keep each data column separate; do not merge cells in the register.
 
 ![Fit source row heights to data](./images/c04-02-07-fit-source-row-heights-to-data.jpg)
+
+*Fit source row heights to data.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -72,17 +90,27 @@ Headers, names and cost figures are readable without cutting off text.
 
 ## 2.3 Inspect Formatting Effects
 
-1. On **Navigation Practice**, enter **2026-10-24** in **J2**, commit it, then use **More formats > Date**. In the reference locale it displays **24/10/2026**. This is a practice example only, not an agreed pilot start.
+1. On **Navigation Practice**, enter **2026-10-24** in **J2**, commit it, then use **More formats > Date**. This is a practice example only, not an agreed pilot start.
+
+> **Reference run:** In the reference locale it displays **24/10/2026**.
 
 ![Keep the example date outside the source register](./images/c04-02-08-practice-date-outside-source-register.jpg)
+
+*Keep the example date outside the source register.*
 
 2. Enter **Numeric cost / Text cost** in **J4:K4**, then numeric **600** in **J5** and text **RM 600** in **K5**. Apply RM currency to J5. Select each cell and compare its formula-bar value.
 
 ![Inspect the numeric practice cost](./images/c04-02-09-numeric-ringgit-practice-formula-bar.jpg)
 
+*Inspect the numeric practice cost.*
+
 ![Inspect the typed text cost](./images/c04-02-10-text-cost-practice-formula-bar.jpg)
 
-3. Keep these clearly labelled practice entries as evidence, or undo them when no longer useful. The reference retains them outside the baseline. Compare the original source values before and after formatting; display changes must not alter the twelve records.
+*Inspect the typed text cost.*
+
+3. Keep these clearly labelled practice entries as evidence, or undo them when no longer useful. Compare the original source values before and after formatting; display changes must not alter the twelve records.
+
+> **Reference run:** The reference retains them outside the baseline.
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -99,11 +127,17 @@ You can explain why number formatting does not convert arbitrary text into a num
 
 ![Create labelled type tests outside the copied records](./images/c04-02-11-labelled-type-test-inputs-on-entry-practice.jpg)
 
+*Create labelled type tests outside the copied records.*
+
 2. Apply RM currency to **B9:B10**, then inspect both values. B9 remains a number and B10 remains text. Give B12 a date display; keep the practice date outside the source week column.
 
-3. Add **=SUM(B9:B10)** in B14 and **=COUNT(B9:B10)** in B15. The reference results are **600** and **1**: numeric 600 contributes, while text RM 600 is ignored by this range SUM. Widen the label column if needed. These checks remain on the practice tab.
+3. Add **=SUM(B9:B10)** in B14 and **=COUNT(B9:B10)** in B15. Widen the label column if needed. These checks remain on the practice tab.
+
+> **Reference run:** The reference results are **600** and **1**: numeric 600 contributes, while text RM 600 is ignored by this range SUM.
 
 ![Observe SUM 600 and COUNT 1 for numeric and text costs](./images/c04-02-12-sum-count-check-distinguishes-number-and-text.jpg)
+
+*Observe SUM 600 and COUNT 1 for numeric and text costs.*
 
 4. Give **G2:H4** the same custom RM currency display and **E2:E4** custom number format **0**. B11 remains a whole-number practice index. Dates stay in B12 and Navigation Practice J2; they do not supply missing source schedule evidence.
 
@@ -111,15 +145,23 @@ You can explain why number formatting does not convert arbitrary text into a num
 
 ![Format the practice table with readable headers and wrapped task text](./images/c04-02-13-practice-table-header-wrap-and-number-formats.jpg)
 
+*Format the practice table with readable headers and wrapped task text.*
+
 6. Prepare **D8:F9** as a separate paste comparison: headers **Normal paste / Values only / Format only**, with **123** already in F9. Use B9 (numeric 600 with RM display) as the source. Select destination cells without pasting a cell address over your copied clipboard content.
 
 ![Prepare separate paste targets including the existing 123](./images/c04-02-14-paste-comparison-targets-before-transfer.jpg)
+
+*Prepare separate paste targets including the existing 123.*
 
 Use **Edit > Paste special** to test the two special transfers separately from normal paste. Normal paste D9 was verified as numeric 600 with RM display. Format-only F9 retained numeric **123** and displayed **RM123**.
 
 ![Inspect the actual Paste special menu](./images/c04-02-16-paste-special-format-only-command.jpg)
 
+*Inspect the actual Paste special menu.*
+
 ![Verify format-only retains 123 while displaying RM123](./images/c04-02-17-format-only-keeps-target-value-123.jpg)
+
+*Verify format-only retains 123 while displaying RM123.*
 
 > **Verification limitation:** the controlled session's values-only shortcut and direct menu both carried the RM format onto E9 even after its target was explicitly set to number format 0. The number remained 600, but expected preservation of the target format was **not verified**. Repeat this step manually, compare E9's number format before and after, and record the outcome. Do not treat visually similar cells or an attempted command as proof that the property transfer passed.
 
@@ -127,9 +169,13 @@ Use **Edit > Paste special** to test the two special transfers separately from n
 
 ![Record source counts and the unresolved values-only format behaviour](./images/c04-02-18-observations-and-source-numeric-counts-recorded.jpg)
 
+*Record source counts and the unresolved values-only format behaviour.*
+
 Return to **Tasks > G2** and inspect **600** again. Formatting did not create a confirmed calendar date or change the twelve records.
 
 ![Inspect the unchanged source value after formatting](./images/c04-02-19-final-source-values-preserved-after-formatting.jpg)
+
+*Inspect the unchanged source value after formatting.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -140,7 +186,7 @@ Type-test block with observed calculation behaviour. The result must be supporte
 
 <!-- VERIFIED: author UI/source-value checks; values-only format preservation, independent challenge and learner timing remain pending. -->
 
-## Independent Challenge
+## Independent Practice
 
 Close the earlier step lists for the first attempt. Use the case input and your own reasoning. If you need help, record the hint and repeat the affected check independently.
 
@@ -150,7 +196,7 @@ Close the earlier step lists for the first attempt. Use the case input and your 
 
 3. Give a partner two visually similar cost cells and ask them which one can be calculated reliably. Use formula-bar and SUM evidence in your explanation.
 
-## Evidence to Hand Over
+### Evidence to Hand Over
 
 - Type-test block with observed calculation behaviour.
 - Raw-to-clean intake table and readable entry-practice layout.

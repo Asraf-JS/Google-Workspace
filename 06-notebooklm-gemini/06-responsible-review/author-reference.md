@@ -8,7 +8,7 @@ Fictional training exercise. Prepared through connected Google Docs tools on 29 
 
 ## Source authority
 
-S1 project-facts.txt is the original fact sheet: budget status proposed, not approved; start date not yet agreed. S2 meeting-record.txt is scripted practice: sponsor approval still needed; no purchase authorised; Aina/template/week1, Bala/status definitions/week1, Siti/fictional sample/week2. S3 reporting-guidance.txt version 1 is proposed training guidance, not approved policy. The deliberate review examples are critique material, not evidence that their claims are true.
+S1 project-facts.txt is the original fact sheet: budget status proposed, not approved; start date not yet agreed. S2 meeting-record.txt is scripted practice: sponsor approval still needed; no purchase authorised; Aina/template/week 1, Bala/status definitions/week 1, Siti/fictional sample/week 2. S3 reporting-guidance.txt version 1 is proposed training guidance, not approved policy. The deliberate review examples are critique material, not evidence that their claims are true.
 
 ## Claim Review
 
@@ -38,13 +38,13 @@ Only the supplied fictional inputs were used. No real customer contract or emplo
 
 | Observed output | Category | Evidence / impact | Disposition |
 | --- | --- | --- | --- |
-| Lab2 refinement: ready to begin | Unsupported factual assertion | S1 supplies no readiness assessment | Repair: proposed pilot; unresolved date/budget |
-| Lab2 source-free generic template | Omission for intended handover | No actual pilot budget/date caveats; no sources supplied | Add original facts; do not treat examples as status |
+| Lab 2 refinement: ready to begin | Unsupported factual assertion | S1 supplies no readiness assessment | Repair: proposed pilot; unresolved date/budget |
+| Lab 2 source-free generic template | Omission for intended handover | No actual pilot budget/date caveats; no sources supplied | Add original facts; do not treat examples as status |
 | FAQ presentation / short headings | Style preference | Layout choice changes no project fact | Optional edit; keep separate from factual repair |
 
 ## Escalation note
 
-Issue: the real sponsor refinement described the pilot as “ready to begin.” S1 states that the start date is not yet agreed and the budget is proposed, not approved; the pack supplies no readiness determination. Correction: “The proposed four-week pilot has an unagreed start date and a proposed, unapproved RM12,000 ceiling.” Needed evidence: an actual sponsor decision, an agreed date and a documented readiness assessment if readiness is to be claimed. Keep the output as a corrected training draft; do not send or publish it as a project decision.
+Issue: the real sponsor refinement described the pilot as “ready to begin.” S1 states that the start date is not yet agreed and the budget is proposed, not approved; the pack supplies no readiness determination. Correction: “The proposed four-week pilot has an unagreed start date and a proposed, unapproved RM 12,000 ceiling.” Needed evidence: an actual sponsor decision, an agreed date and a documented readiness assessment if readiness is to be claimed. Keep the output as a corrected training draft; do not send or publish it as a project decision.
 
 ## Source-instruction analysis
 
@@ -60,7 +60,7 @@ Separate author pass on the three corrections: (1) proposed/not-approved budget 
 
 ## Maintained corrected wording
 
-The pilot’s RM12,000 ceiling is proposed and not approved. The pilot is intended to test a consistent weekly reporting process; the sources supply no measured efficiency gain or guarantee. The sources do not establish supplier appointment or purchase-order issuance, and S2 states that no purchase has been authorised.
+The pilot’s RM 12,000 ceiling is proposed and not approved. The pilot is intended to test a consistent weekly reporting process; the sources supply no measured efficiency gain or guarantee. The sources do not establish supplier appointment or purchase-order issuance, and S2 states that no purchase has been authorised.
 
 ## Validation boundary
 

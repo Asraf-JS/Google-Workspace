@@ -1,6 +1,6 @@
 # Google Slides
 
-**Status:** review draft, revision 0.4. Lab 1 has 15 staged author-reference images covering the story plan, real Gemini proposal, evidence storyboard and layout repair. Spoken rehearsal, partner review, independent challenges and learner timing remain pending. Lab 2 adds 14 full-window captures for deck structure, skipping, theme colours, appendix navigation and a reusable copy; import comparisons remain blocked by a blank picker. Lab 3 adds 21 captures for descriptive titles, source notes, dense/redesigned alternatives, aligned team cards and a proposed output diagram; spoken timing and reviewer retrieval remain pending. Lab 4 adds 12 captures for native workflow diagrams, reviewed image generation, provenance/alt text, compared designs, a visual register and proportional resizing. Video was not supplied; independent design and reviewer comprehension remain pending. Lab 5 adds 25 captures through 5.4: COUNTIF and SUMIF sources, two linked charts, tested refresh/restoration and a frozen static comparison. Both temporary status changes are restored; independent new-row repair and learner timing remain pending. Lab 6 has 38 captures through 6.4: motion preview, keyboard/visual inspection, descriptions, readable status values, version comparison and static/staged Slideshow tests. Floating connectors were repaired and retested; author review preserves unresolved facts. Independent and assistive-technology checks remain pending. Lab 7 has23 captures: presenter/notes separation, skipped navigation, unstarted audience tools, restricted/unpublished inspection, planned run sheet/source answers, live appendix links and14to8-page PDF scope repair. Rendered handout/internal destinations checked and fallback plan saved; spoken rehearsals, interactive PDF clicks and independent validation remain pending. Slides Lab 8 now has 25 stages: separate practice revision/milestone; isolated scenario workbook with T003 Complete and bounded 5/4/3 counts; status chart replaced with a verified Scenario Data link; visible counts, description and source notes aligned; two-minute narrative planned with unsupported claims rejected; labelled eight-page native handout rendered and compared; saved scenario milestone. Baseline remains 4/4/4. Cost appendix deliberately retains its unchanged baseline source and stays excluded from the handout. Speech, partner/reviewer acceptance, interactive PDF clicks, independent challenge and learner timing remain pending.
+**Status:** review draft, revision 0.4. Labs 1-8 have 173 annotated author-reference images. The Import slides picker stayed blank in the author run, so Lab 2's import comparison is unverified. Spoken rehearsals, partner and reviewer checks, interactive PDF clicks, independent challenges and learner timing are still pending. Each chapter's status note and the [validation status](../planning/VALIDATION-STATUS.md) record the details.
 
 **Duration:** 1 day. Each day has 390 teaching minutes, excluding lunch and breaks.
 
@@ -12,18 +12,18 @@
 
 **Your result:** A concise project update deck with a linked chart, source notes and a rehearsed delivery.
 
-## Proposed Chapters
+## Chapters
 
-| Day | # | Chapter | Prompts and values | What you will do | Minutes |
+| Day | # | Chapter | Prompts | What you will do | Time |
 |---|---|---|---|---|---|
-| 1 | 01 | [Read the Brief and Plan the Story](./01-story-plan/README.md) | [Prompts and values](./01-story-plan/prompts.md) | Build an Audience and Evidence Storyboard. | 40 |
-| 1 | 02 | [Create and Organise the Deck](./02-deck-setup/README.md) | [Prompts and values](./02-deck-setup/prompts.md) | Create a Reusable Deck Structure and Import Test. | 45 |
-| 1 | 03 | [Build Clear Slide Layouts](./03-clear-layouts/README.md) | [Prompts and values](./03-clear-layouts/prompts.md) | Redesign Dense Content Without Losing Evidence. | 55 |
-| 1 | 04 | [Create and Check Visual Assets](./04-visual-assets/README.md) | [Prompts and values](./04-visual-assets/prompts.md) | Produce Visuals With a Clear Information Purpose. | 55 |
-| 1 | 05 | [Link and Explain Project Data](./05-linked-data/README.md) | [Prompts and values](./05-linked-data/prompts.md) | Extend the Source and Audit Every Representation. | 55 |
-| 1 | 06 | [Polish Motion and Review](./06-motion-review/README.md) | [Prompts and values](./06-motion-review/prompts.md) | Test Motion, Reading Order and Review Decisions. | 45 |
-| 1 | 07 | [Rehearse and Distribute](./07-delivery-sharing/README.md) | [Prompts and values](./07-delivery-sharing/prompts.md) | Rehearse an Accessible Delivery and Test Distribution. | 45 |
-| 1 | 08 | [Deliver the Project Update](./08-deliver-update/README.md) | [Prompts and values](./08-deliver-update/prompts.md) | Handle a Last-Minute Sponsor Change. | 50 |
+| 1 | 01 | [Read the Brief and Plan the Story](./01-story-plan/README.md) | [Prompts](./01-story-plan/prompts.md) | Build an Audience and Evidence Storyboard. | 40 min |
+| 1 | 02 | [Create and Organise the Deck](./02-deck-setup/README.md) | [Prompts](./02-deck-setup/prompts.md) | Create a Reusable Deck Structure and Import Test. | 45 min |
+| 1 | 03 | [Build Clear Slide Layouts](./03-clear-layouts/README.md) | [Prompts](./03-clear-layouts/prompts.md) | Redesign Dense Content Without Losing Evidence. | 55 min |
+| 1 | 04 | [Create and Check Visual Assets](./04-visual-assets/README.md) | [Prompts](./04-visual-assets/prompts.md) | Produce Visuals With a Clear Information Purpose. | 55 min |
+| 1 | 05 | [Link and Explain Project Data](./05-linked-data/README.md) | [Prompts](./05-linked-data/prompts.md) | Extend the Source and Audit Every Representation. | 55 min |
+| 1 | 06 | [Polish Motion and Review](./06-motion-review/README.md) | [Prompts](./06-motion-review/prompts.md) | Test Motion, Reading Order and Review Decisions. | 45 min |
+| 1 | 07 | [Rehearse and Distribute](./07-delivery-sharing/README.md) | [Prompts](./07-delivery-sharing/prompts.md) | Rehearse an Accessible Delivery and Test Distribution. | 45 min |
+| 1 | 08 | [Deliver the Project Update](./08-deliver-update/README.md) | [Prompts](./08-deliver-update/prompts.md) | Handle a Last-Minute Sponsor Change. | 50 min |
 
 ## Inputs and Checks
 

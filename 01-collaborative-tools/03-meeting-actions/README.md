@@ -2,9 +2,13 @@
 
 **Your assignment:** Prepare an unsent kick-off message, a private practice event and a checked action register with a follow-up process.
 
-**Target allocation:** 55 minutes: 17 demonstration and discussion, 18 guided build, 15 independent challenge, 5 verification and repair. These are design allocations, not measured completion times. Finish the challenge and checks before moving on; finishing the guided clicks is not completion of the lab.
+> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
-**Status:** the unsent Gmail draft was saved and reopened with recipients empty. The meeting record contains three manually checked actions, an unsent follow-up and a named baseline. Calendar uses the documented event-specification fallback because no practice slot was assigned; no actual event, time-zone UI test or invitation is claimed. Independent challenge and learner timing remain unvalidated.
+**Estimated time:** 55 minutes, planned as 17 demonstration and discussion, 18 guided build, 15 independent practice and 5 verification and repair. Not yet timed with learners. Finish the challenge and checks before moving on; finishing the guided clicks is not completion of the lab.
+
+> **Status:** the unsent Gmail draft was saved and reopened with recipients empty. The meeting record contains three manually checked actions, an unsent follow-up and a named baseline. Calendar uses the documented event-specification fallback because no practice slot was assigned; no actual event, time-zone UI test or invitation is claimed. Independent challenge and learner timing remain unvalidated.
+
+---
 
 ## What You Will Learn
 
@@ -17,7 +21,7 @@
 
 Use the checked brief and [meeting-record.txt](../../shared/sample-files/meeting-record.txt). You need Gmail, Calendar and Docs. Use a trainer-assigned future practice slot for the Calendar test; this is not the pilot start date. If Calendar is unavailable, build and label an event specification in the meeting Doc instead.
 
-Use the [copy-paste page](./prompts.md) and [shared practice files](../../shared/sample-files/README.md). Keep fictional role names as text. Use only trainer-assigned test identities for any access test.
+Use the [prompts page](./prompts.md) and [shared practice files](../../shared/sample-files/README.md). Keep fictional role names as text. Use only trainer-assigned test identities for any access test.
 
 ## 3.1 Prepare the Communication
 
@@ -25,21 +29,31 @@ Use the [copy-paste page](./prompts.md) and [shared practice files](../../shared
 
 ![Fresh unsent draft with an empty recipient field, before body content is added](./images/c01-03-01-start.jpg)
 
+*Fresh unsent draft with an empty recipient field, before body content is added.*
+
 2. Write the purpose and a three-part agenda: confirm reporting outputs, review proposed status definitions and identify sponsor decisions.
 
 ![Purpose and agenda before links, approval caveats and preparation instructions are added](./images/c01-03-01-agenda.jpg)
+
+*Purpose and agenda before links, approval caveats and preparation instructions are added.*
 
 3. Include links to the checked brief and tracker. Write **Pilot start date: To be confirmed** and preserve the proposed budget wording.
 
 ![Source links and unresolved project decisions before the preparation paragraph](./images/c01-03-01-links.jpg)
 
+*Source links and unresolved project decisions before the preparation paragraph.*
+
 4. Add a requested preparation paragraph: read the brief, inspect the status definitions and bring questions. Treat this as a draft request, not proof that someone accepted an action.
 
 ![The preparation request is labelled as a draft, with no recipients or accepted commitments](./images/c01-03-01-preparation.jpg)
 
+*The preparation request is labelled as a draft, with no recipients or accepted commitments.*
+
 5. Close the compose window, reopen the saved draft and check subject, links and unresolved decisions. Keep recipients empty and leave it unsent.
 
 ![Reopened saved draft with the To field empty; no message has been sent](./images/c01-03-01.jpg)
+
+*Reopened saved draft with the To field empty; no message has been sent.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -64,6 +78,8 @@ The saved draft contains a purpose, agenda, preparation request and useful links
 
 ![The permitted event-specification fallback before the meeting record or action table exists; no Calendar event is claimed](./images/c01-03-02.jpg)
 
+*The permitted event-specification fallback before the meeting record or action table exists; no Calendar event is claimed.*
+
 <details markdown="1">
 <summary>What should you see?</summary>
 
@@ -87,13 +103,19 @@ Keep **Actions** and its table together; insert a page break before the heading 
 
 ![Exactly three scripted actions before adding the follow-up paragraph; status and missing evidence are explicit](./images/c01-03-03-table.jpg)
 
+*Exactly three scripted actions before adding the follow-up paragraph; status and missing evidence are explicit.*
+
 5. Add a draft follow-up paragraph for any action with no completion evidence. A reminder is proposed communication, not a new due date or a sent message.
 
 ![The action table and unsent follow-up preserve source weeks and do not create assignments or deadlines](./images/c01-03-03.jpg)
 
+*The action table and unsent follow-up preserve source weeks and do not create assignments or deadlines.*
+
 6. Name a version `Actions checked against scripted record`. Explain why a meeting-notes template and an AI extraction do not create or synchronise assigned Tasks automatically.
 
 ![Name the action baseline after checking all three source commitments](./images/c01-03-03-version.jpg)
+
+*Name the action baseline after checking all three source commitments.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -104,11 +126,11 @@ Exactly three source commitments have traceable owners and due weeks. Unknown co
 
 <!-- CAPTURED: core section 3.3; independent challenge and learner timing pending. -->
 
-## Independent Challenge
+## Independent Practice
 
 Use the Lab 3 change card in masterclass-challenges.txt. A later message says that Bala’s review is delayed, but provides no replacement week. Update the action record without inventing a deadline. Prepare an unsent escalation paragraph for the coordinator and add a proposed decision-focused agenda for the next review. Demonstrate which source changed, which status is your assumption and which items still need confirmation. Recheck the private event for an accidental guest or changed time zone.
 
-## Evidence to Hand Over
+### Evidence to Hand Over
 
 - Reopened unsent Gmail draft and a checked private event or fallback specification.
 - Meeting record with three traceable actions and two unresolved project decisions.
@@ -122,6 +144,6 @@ Use the Lab 3 change card in masterclass-challenges.txt. A later message says th
 | AI supplies a new deadline | Remove it unless the change card supplies one; retain **To be confirmed**. |
 | Action extraction seems to assign Tasks | Inspect the actual destination; extracted text is not an assigned task. |
 
-## Check Yourself
+## Lesson Summary
 
-Explain one error you found, how you proved the correction, and which downstream result it could affect. A finished-looking file alone is not evidence that it is correct.
+**Check yourself:** Explain one error you found, how you proved the correction, and which downstream result it could affect. A finished-looking file alone is not evidence that it is correct.

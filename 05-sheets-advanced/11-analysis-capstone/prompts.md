@@ -1,11 +1,10 @@
-# 11 - Complete the Analysis Capstone: Prompts and Values
+# 11 - Complete the Analysis Capstone: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
 Use the exact staged inputs and formulas below. Predict each test before entering its actual calculation.
 
-
-## Depth Case Input
+## Part 1: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -13,7 +12,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Capstone questions: Largest Delivered amount by project; Pending records with Amount >=200 and their IDs; highest all-orders Amount by practice week. Scenario PO025: PJ-A, Planning, IT01, Quantity 2, UnitCost 45, Delivered, week 4. No actual budget or profit data is supplied.
 ```
 
-## Captured Author-Run Reference
+## Part 2: Captured Author-Run Reference
 
 Build the isolated **GW - Sheets Advanced - Capstone** copy in guide order. Source baseline is Orders A1:K25 and Rates A1:D7. Paste only the current stage; later blocks would reveal objects not created yet. Independent reviewer/spoken work and classroom timing remain pending.
 
@@ -21,16 +20,16 @@ Build the isolated **GW - Sheets Advanced - Capstone** copy in guide order. Sour
 
 ```text
 Analysis specification	Fictional training decision analysis
-Source and scope	Orders A1:K25: header plus24 records; Rates A1:D7: header plus6 items. Amount in RM; practice weeks1 to4. No real purchasing data.
-Question1	Which project has the largest Delivered order amount? Sum Amount J by Project B where Status G equals Delivered; exclude Pending and Cancelled.
-Question2	Which Pending records have Amount>=200? Require both criteria and retain OrderIDs. Report zero matches explicitly if none qualify. Threshold200 is inclusive.
-Question3	Which supplied practice week has highest all-orders Amount? Sum J by numeric Week H, including Cancelled. These are practice periods, not real calendar dates.
-Control expectations	Baseline24 records; all Amount3158; Delivered Amount1478. Six unique item rates; source totals are not profit or approved budget.
+Source and scope	Orders A1:K25: header plus 24 records; Rates A1:D7: header plus 6 items. Amount in RM; practice weeks 1 to 4. No real purchasing data.
+Question 1	Which project has the largest Delivered order amount? Sum Amount J by Project B where Status G equals Delivered; exclude Pending and Cancelled.
+Question 2	Which Pending records have Amount>=200? Require both criteria and retain OrderIDs. Report zero matches explicitly if none qualify. Threshold200 is inclusive.
+Question 3	Which supplied practice week has highest all-orders Amount? Sum J by numeric Week H, including Cancelled. These are practice periods, not real calendar dates.
+Control expectations	Baseline 24 records; all Amount 3158; Delivered Amount 1478. Six unique item rates; source totals are not profit or approved budget.
 Evidence methods	SUMIFS/COUNTIFS and qualifying-ID traces; independent native Pivot Review/source-row reconciliation; source-cell checks.
 Ranking rule	Rank within the specified population. Report ties rather than claiming an unsupported unique winner.
 Scenario isolation	Keep baseline analysis unchanged. PO025 scenario and lookup-key tests remain separate; label synthetic boundary fixtures.
 Limits and audience	Fictional project reporting reviewer. No cost/outcome/budget approval data, so no profitability, savings, performance or purchasing approval conclusion.
-Reviewer boundary	Author source challenges may be prepared; actual independent human review and80-minute classroom timing remain unverified.
+Reviewer boundary	Author source challenges may be prepared; actual independent human review and 80-minute classroom timing remain unverified.
 ```
 
 ### Capstone Calculations A1:C9 - initial ranking
@@ -137,9 +136,9 @@ IT02	=COUNTIF($A$2:$A$8,F4)	=IFNA(VLOOKUP(F4,$A$2:$D$8,3,FALSE),"Missing rate")	
 
 ```text
 Fixture only: baseline Rates and Orders unchanged.
-Reversing conflicting IT01 rates changed the raw lookup from45 to99.
-Match count stayed2; the guarded result remained Review key.
-Fixture order restored45 then99. Keep the conflict visible for resolution; do not choose a rate automatically.
+Reversing conflicting IT01 rates changed the raw lookup from 45 to 99.
+Match count stayed 2; the guarded result remained Review key.
+Fixture order restored 45 then 99. Keep the conflict visible for resolution; do not choose a rate automatically.
 ```
 
 ### Capstone Calculations A25:D31 - chronological baseline weeks
@@ -164,7 +163,6 @@ Delivered-only comparison	Amount (RM)	Records
 ='Capstone Calculations'!A3	='Capstone Calculations'!B3	='Capstone Calculations'!C3
 ='Capstone Calculations'!A4	='Capstone Calculations'!B4	='Capstone Calculations'!C4
 
-
 Audience question	Answer	Amount (RM)
 Largest Delivered project	='Capstone Calculations'!B8	='Capstone Calculations'!C8
 Pending records >=200	='Capstone Calculations'!B12	='Capstone Calculations'!B13
@@ -175,7 +173,7 @@ All Amount (RM)	='Capstone Calculations'!B19		=IF(AND(COUNTIF('Capstone Calculat
 Delivered Amount (RM)	='Capstone Calculations'!B5
 All record count	='Capstone Calculations'!B21
 
-Source population	24 fictional Orders, rows2:25. RM. All-orders includes Cancelled; Delivered comparison excludes Pending and Cancelled.
+Source population	24 fictional Orders, rows 2:25. RM. All-orders includes Cancelled; Delivered comparison excludes Pending and Cancelled.
 Interpretation limit	Order amount is not profit, efficiency, savings or budget approval. No outcome/cost evidence supports those conclusions.
 Future refresh	Extend source/formula/pivot/visual bounds for new records; check qualifying IDs and weekly totals. Keep scenario results separate.
 ```
@@ -185,16 +183,16 @@ Future refresh	Extend source/formula/pivot/visual bounds for new records; check 
 ```text
 PO025 scenario plan	Predictions before adding the new source record
 Isolation	Duplicate Orders as PO025 Orders. Keep baseline Orders, Capstone Calculations and Capstone Executive unchanged. Use separate scenario analysis/results.
-Exact scenario record	PO025; PJ-A; Planning; IT01; Quantity2; UnitCost45; Delivered; practice week4. New Amount90 and ActiveAmount90.
-Baseline comparison	Delivered projects556/578/344: PJ-B578 leads. All-week totals728/754/850/826: week3 at850 leads.
-Predicted new totals	25 records; all Amount3248; Delivered1568; Active2028. Pending>=200 remains0 matches.
-Predicted ranking	PJ-A Delivered646 becomes largest, ahead of PJ-B578/PJ-C344. Week4 becomes916 and exceeds week3 at850.
-Coverage and controls	Add row26 before copied totals. Check all relevant source/formula bounds2:26; reconcile source totals, project sums, ID traces and practice weeks.
+Exact scenario record	PO025; PJ-A; Planning; IT01; Quantity 2; UnitCost 45; Delivered; practice week 4. New Amount 90 and ActiveAmount 90.
+Baseline comparison	Delivered projects 556/578/344: PJ-B578 leads. All-week totals 728/754/850/826: week 3 at 850 leads.
+Predicted new totals	25 records; all Amount 3248; Delivered 1568; Active 2028. Pending>=200 remains 0 matches.
+Predicted ranking	PJ-A Delivered 646 becomes largest, ahead of PJ-B578/PJ-C344. Week 4 becomes 916 and exceeds week 3 at 850.
+Coverage and controls	Add row 26 before copied totals. Check all relevant source/formula bounds 2:26; reconcile source totals, project sums, ID traces and practice weeks.
 Interpretation	An extra fictional Delivered order changes the descriptive ranking, not profit, efficiency or a purchasing approval decision.
 Review boundary	Author source challenges will be documented; independent human reviewer and spoken recommendation remain pending.
 ```
 
-### PO025 Orders A26:K26 - insert a row above26 first
+### PO025 Orders A26:K26 - insert a row above 26 first
 
 ```text
 PO025	PJ-A	Planning	IT01	2	45	Delivered	4	Capstone PO025 scenario - fictional	=E26*F26	=IF(G26="Cancelled",0,J26)
@@ -215,7 +213,7 @@ All Amount (RM)	=SUM('PO025 Orders'!J2:J26)	='Capstone Calculations'!B19	=B2-C2	
 Delivered Amount (RM)	=SUMIF('PO025 Orders'!G2:G26,"Delivered",'PO025 Orders'!J2:J26)	='Capstone Calculations'!B5	=B3-C3	90	=D3-E3
 Active Amount (RM)	=SUM('PO025 Orders'!K2:K26)	=Analysis!C15	=B4-C4	90	=D4-E4
 Record count	=COUNTA('PO025 Orders'!A2:A26)	='Capstone Calculations'!B21	=B5-C5	1	=D5-E5
-Week4 all Amount (RM)	=SUMIFS('PO025 Orders'!J2:J26,'PO025 Orders'!H2:H26,4)	='Capstone Calculations'!B29	=B6-C6	90	=D6-E6
+Week 4 all Amount (RM)	=SUMIFS('PO025 Orders'!J2:J26,'PO025 Orders'!H2:H26,4)	='Capstone Calculations'!B29	=B6-C6	90	=D6-E6
 ```
 
 ### PO025 Analysis A9:E13 - scenario projects
@@ -279,11 +277,11 @@ Highest practice week	='Capstone Calculations'!B31	='PO025 Analysis'!B25	Week 3 
 Largest week all Amount (RM)	='Capstone Calculations'!C31	='PO025 Analysis'!C25	Different week populations
 Pending >=200 record count	='Capstone Calculations'!B12	='PO025 Analysis'!B27	=C10-B10
 Pending >=200 Amount (RM)	='Capstone Calculations'!B13	='PO025 Analysis'!B28	=C11-B11
-Expanded range checks	Baseline preserved	=IF(COUNTIF('PO025 Analysis'!F2:F6,0)=5,"All scenario checks pass","Review mismatch")	Row26 included
+Expanded range checks	Baseline preserved	=IF(COUNTIF('PO025 Analysis'!F2:F6,0)=5,"All scenario checks pass","Review mismatch")	Row 26 included
 
 Source populations	Baseline Orders A1:K25; scenario PO025 Orders A1:K26. Delivered uses Status=Delivered; weekly/all totals include Cancelled.
 Interpretation limit	Fictional order Amount is not profit, savings, budget approval or evidence of project performance.
-Refresh contract	Include row26 in scenario source, project, weekly, trace and control ranges; baseline remains 24 orders.
+Refresh contract	Include row 26 in scenario source, project, weekly, trace and control ranges; baseline remains 24 orders.
 Review status	Author-prepared source challenge only. Independent reviewer, spoken delivery and learner timing remain pending.
 ```
 
@@ -293,30 +291,30 @@ Review status	Author-prepared source challenge only. Independent reviewer, spoke
 Audit appendix - baseline	Evidence, assumptions and boundaries
 Source bounds	Orders A1:K25,24 fictional records; Rates A1:D7,6 unique item keys. Source values and baseline totals are preserved.
 Question populations	Delivered-only project ranking; Pending AND Amount>=200 exception IDs; all-status Amount by numeric practice week.
-Baseline answers	PJ-B Delivered578; no qualifying Pending IDs/count0/amount0; practice week3 highest all-orders amount850.
-Independent reconciliation	New SUMIFS totals556/578/344 match native Pivot Review Delivered cellsC3:C5. Delivered1478 and all3158 reconcile to pivot/source controls.
-Source trace	Capstone Trace retains PJ-B Delivered PO009/PO012/PO013/PO016 with amounts240/32/270/36, sum578.
-Zero-match proof	Source PO010 is Pending180 and does not meet>=200. Separate synthetic Pending200 and250 qualify; synthetic figures are excluded from baseline answers.
+Baseline answers	PJ-B Delivered 578; no qualifying Pending IDs/count 0/amount 0; practice week 3 highest all-orders amount 850.
+Independent reconciliation	New SUMIFS totals 556/578/344 match native Pivot Review Delivered cellsC3:C5. Delivered 1478 and all 3158 reconcile to pivot/source controls.
+Source trace	Capstone Trace retains PJ-B Delivered PO009/PO012/PO013/PO016 with amounts 240/32/270/36, sum 578.
+Zero-match proof	Source PO010 is Pending 180 and does not meet>=200. Separate synthetic Pending 200 and 250 qualify; synthetic figures are excluded from baseline answers.
 Lookup assumptions	Exact matching requires one authorised rate per key. Disposable duplicateIT01 and missingIT99 tests return Review key rather than forcing a price.
-First-match effect	Reversing the two conflicting fixture rates changes raw VLOOKUP45->99; match count stays2 and guarded result stays Review key. Fixture order restored.
+First-match effect	Reversing the two conflicting fixture rates changes raw VLOOKUP45->99; match count stays 2 and guarded result stays Review key. Fixture order restored.
 Interpretation limits	No actual budget/profit/cost-outcome evidence. Order amount alone does not establish profitability, savings, project performance or purchasing approval.
 Refresh contract	New records require explicit source/formula/pivot/visual bounds, qualifying-ID traces and weekly reconciliation. Check outputs after extension rather than relying on old baseline expectations.
-PO025 scenario observed	Separate PO025 Orders A1:K26: 25 records, all3248, active2028, Delivered1568. PJ-A646 leads; week4 reaches916 and leads. Baseline unchanged.
-Review status	Author evidence prepared. No independent human reviewer, spoken recommendation or80-minute learner pilot has been completed.
+PO025 scenario observed	Separate PO025 Orders A1:K26: 25 records, all 3248, active 2028, Delivered 1568. PJ-A646 leads; week 4 reaches 916 and leads. Baseline unchanged.
+Review status	Author evidence prepared. No independent human reviewer, spoken recommendation or 80-minute learner pilot has been completed.
 
-Author challenge - baseline leader	Why PJ-B? PO009/012/013/016 contribute240+32+270+36=578; SUMIFS and native Pivot Review both give578.
-Author challenge - genuine zero	Pending>=200 has0 baseline records. PO010 isPending180 and fails; separate synthetic Pending200 qualifies, while Delivered250 fails.
-Author challenge - week shift	Baseline week4 is826; PO025 adds90:916>week3 850. Expanded SUMIFS and SUM(FILTER) agree; source includes row26.
-Scenario trace	PJ-A orders PO001/004/005/008/025 contribute90+144+250+72+90=646. Compare separately with unchanged baseline leader578.
+Author challenge - baseline leader	Why PJ-B? PO009/012/013/016 contribute240+32+270+36=578; SUMIFS and native Pivot Review both give 578.
+Author challenge - genuine zero	Pending>=200 has 0 baseline records. PO010 isPending180 and fails; separate synthetic Pending 200 qualifies, while Delivered 250 fails.
+Author challenge - week shift	Baseline week 4 is 826; PO025 adds 90:916>week 3 850. Expanded SUMIFS and SUM(FILTER) agree; source includes row 26.
+Scenario trace	PJ-A orders PO001/004/005/008/025 contribute90+144+250+72+90=646. Compare separately with unchanged baseline leader 578.
 Human review still pending	These are author-prepared source challenge responses. No independent reviewer or spoken delivery was performed; 80-minute classroom target is unmeasured.
 ```
 
 ### Intermediate experiments - do these in order
 
-Before PO025 is added, build PO025 Analysis A1:D6 with the same final controls but source bounds ending at25, labels Original bound result and Difference, and no expected-scenario delta columns. Baseline results3158/1478/1938/24/826. After inserting row26, inspect these unchanged ranges before expanding to26. They still match the old baseline while omitting PO025. Only then paste the expanded control block and expected deltas90/90/90/1/90.
+Before PO025 is added, build PO025 Analysis A1:D6 with the same final controls but source bounds ending at 25, labels Original bound result and Difference, and no expected-scenario delta columns. Baseline results 3158/1478/1938/24/826. After inserting row 26, inspect these unchanged ranges before expanding to 26. They still match the old baseline while omitting PO025. Only then paste the expanded control block and expected deltas 90/90/90/1/90.
 
-On the duplicated Capstone Key Test only, reverse conflicting IT01 values C2=99 and C8=45 after recording initial45. Raw H2 changes99; guarded I2 stays Review key. Then restore C2=45 and C8=99. Keep the conflict labelled; do not repair actual Rates automatically.
+On the duplicated Capstone Key Test only, reverse conflicting IT01 values C2=99 and C8=45 after recording initial 45. Raw H2 changes 99; guarded I2 stays Review key. Then restore C2=45 and C8=99. Keep the conflict labelled; do not repair actual Rates automatically.
 
-For the baseline audit at11.3, write rows1:13 with row12 describing the planned isolated PO025 test. After actual scenario testing, update row12 to observed results and add the author-prepared challenge responses at15:19. These are not evidence of an independent human review.
+For the baseline audit at 11.3, write rows 1:13 with row 12 describing the planned isolated PO025 test. After actual scenario testing, update row 12 to observed results and add the author-prepared challenge responses at 15:19. These are not evidence of an independent human review.
 
-Baseline Delivered leader PJ-B 578 has IDs PO009/012/013/016. Scenario leader PJ-A 646 has PO001/004/005/008/025. Weekly source includes Cancelled: baseline728/754/850/826; scenario728/754/850/916. Amount is not profit, savings or approval. A tie needs explicit handling rather than choosing the first INDEX/MATCH result.
+Baseline Delivered leader PJ-B 578 has IDs PO009/012/013/016. Scenario leader PJ-A 646 has PO001/004/005/008/025. Weekly source includes Cancelled: baseline 728/754/850/826; scenario 728/754/850/916. Amount is not profit, savings or approval. A tie needs explicit handling rather than choosing the first INDEX/MATCH result.

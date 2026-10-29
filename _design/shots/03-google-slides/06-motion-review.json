@@ -1,0 +1,438 @@
+{
+ "raw": "../raw/03-google-slides/06-motion-review",
+ "repoRoot": "../../../03-google-slides",
+ "shots": {
+  "c03-06-01-workflow-fade-transition.png": {
+   "boxes": [
+    [
+     836,
+     72,
+     896,
+     96,
+     1,
+     "below"
+    ],
+    [
+     1220,
+     196,
+     1494,
+     224,
+     1
+    ]
+   ]
+  },
+  "c03-06-02-project-hub-appear-on-click.png": {
+   "boxes": [
+    [
+     896,
+     494,
+     1128,
+     624,
+     2
+    ],
+    [
+     1230,
+     368,
+     1508,
+     474,
+     2
+    ]
+   ]
+  },
+  "c03-06-03-preview-before-project-hub-reveal.png": {
+   "boxes": []
+  },
+  "c03-06-04-preview-after-one-advance.png": {
+   "boxes": [
+    [
+     940,
+     500,
+     1192,
+     632,
+     4
+    ]
+   ]
+  },
+  "c03-06-05-keyboard-order-title.png": {
+   "boxes": [
+    [
+     392,
+     196,
+     1358,
+     268,
+     2
+    ]
+   ]
+  },
+  "c03-06-06-keyboard-order-explanation.png": {
+   "boxes": [
+    [
+     396,
+     276,
+     1360,
+     664,
+     2
+    ]
+   ]
+  },
+  "c03-06-07-keyboard-order-source-register.png": {
+   "boxes": [
+    [
+     414,
+     500,
+     674,
+     640,
+     2
+    ]
+   ]
+  },
+  "c03-06-08-keyboard-order-checked-update.png": {
+   "boxes": [
+    [
+     742,
+     496,
+     1000,
+     640,
+     2
+    ]
+   ]
+  },
+  "c03-06-09-keyboard-order-project-hub.png": {
+   "boxes": [
+    [
+     1056,
+     488,
+     1316,
+     624,
+     2
+    ]
+   ]
+  },
+  "c03-06-10-keyboard-connectors-after-labelled-stages.png": {
+   "boxes": [
+    [
+     668,
+     548,
+     756,
+     580,
+     2
+    ]
+   ]
+  },
+  "c03-06-11-workflow-alt-text-source-stage.png": {
+   "boxes": [
+    [
+     1222,
+     456,
+     1500,
+     484,
+     3
+    ],
+    [
+     1222,
+     600,
+     1500,
+     690,
+     3
+    ]
+   ]
+  },
+  "c03-06-12-workflow-alt-text-final-stage.png": {
+   "boxes": [
+    [
+     1226,
+     456,
+     1510,
+     484,
+     3
+    ],
+    [
+     1226,
+     600,
+     1510,
+     690,
+     3
+    ]
+   ]
+  },
+  "c03-06-13-status-chart-alt-text-and-values.png": {
+   "boxes": [
+    [
+     612,
+     296,
+     1148,
+     640,
+     4
+    ],
+    [
+     1222,
+     656,
+     1486,
+     838,
+     4
+    ]
+   ]
+  },
+  "c03-06-14-cost-chart-alt-text-and-units.png": {
+   "boxes": [
+    [
+     432,
+     244,
+     1084,
+     656,
+     5
+    ],
+    [
+     1232,
+     632,
+     1492,
+     810,
+     5
+    ]
+   ]
+  },
+  "c03-06-15-status-values-repeated-at-22pt.png": {
+   "boxes": [
+    [
+     430,
+     266,
+     742,
+     628,
+     6
+    ]
+   ]
+  },
+  "c03-06-16-status-chart-follows-text-with-tab.png": {
+   "boxes": [
+    [
+     766,
+     298,
+     1306,
+     634,
+     6
+    ]
+   ]
+  },
+  "c03-06-17-motion-and-accessibility-review-notes.png": {
+   "boxes": [
+    [
+     244,
+     592,
+     1460,
+     830,
+     7
+    ]
+   ]
+  },
+  "c03-06-18-proposed-workflow-title-repair.png": {
+   "boxes": [
+    [
+     398,
+     200,
+     1358,
+     268,
+     1
+    ]
+   ]
+  },
+  "c03-06-19-name-current-version-dialog.png": {
+   "boxes": [
+    [
+     626,
+     410,
+     974,
+     474,
+     2
+    ],
+    [
+     910,
+     500,
+     966,
+     526,
+     2
+    ]
+   ]
+  },
+  "c03-06-20-reviewed-milestone-in-version-history.png": {
+   "boxes": [
+    [
+     1308,
+     140,
+     1576,
+     222,
+     3
+    ]
+   ]
+  },
+  "c03-06-21-earlier-version-view-only.png": {
+   "boxes": [
+    [
+     1318,
+     226,
+     1542,
+     262,
+     4
+    ],
+    [
+     178,
+     2,
+     364,
+     38
+    ]
+   ]
+  },
+  "c03-06-22-return-to-current-reviewed-deck.png": {
+   "boxes": [
+    [
+     400,
+     202,
+     1290,
+     248,
+     4
+    ]
+   ]
+  },
+  "c03-06-23-static-practice-without-motion.png": {
+   "boxes": [
+    [
+     288,
+     202,
+     966,
+     258,
+     1
+    ],
+    [
+     1222,
+     190,
+     1502,
+     234,
+     1
+    ]
+   ]
+  },
+  "c03-06-24-staged-practice-three-on-click-effects.png": {
+   "boxes": [
+    [
+     1220,
+     314,
+     1512,
+     468,
+     2
+    ]
+   ]
+  },
+  "c03-06-25-staged-reveal-script-before-test.png": {
+   "boxes": [
+    [
+     244,
+     496,
+     1460,
+     666,
+     2
+    ]
+   ]
+  },
+  "c03-06-26-slideshow-static-zero-reveal-advances.png": {
+   "boxes": []
+  },
+  "c03-06-27-staged-start-shows-orphan-connectors.png": {
+   "boxes": [
+    [
+     468,
+     604,
+     1100,
+     660,
+     4
+    ]
+   ]
+  },
+  "c03-06-28-staged-connectors-with-destination-effects.png": {
+   "boxes": [
+    [
+     1080,
+     594,
+     1484,
+     824,
+     5
+    ]
+   ]
+  },
+  "c03-06-29-staged-slideshow-initial-no-orphan-arrows.png": {
+   "boxes": []
+  },
+  "c03-06-30-staged-slideshow-first-source.png": {
+   "boxes": []
+  },
+  "c03-06-31-staged-slideshow-second-checked-and-connector.png": {
+   "boxes": []
+  },
+  "c03-06-32-staged-slideshow-third-hub-and-connector.png": {
+   "boxes": []
+  },
+  "c03-06-33-practice-alternatives-skipped-after-testing.png": {
+   "boxes": [
+    [
+     54,
+     878,
+     274,
+     1156,
+     7
+    ]
+   ]
+  },
+  "c03-06-34-decisions-slideshow-zero-reveals.png": {
+   "boxes": []
+  },
+  "c03-06-35-staged-keyboard-connectors-follow-labelled-stages.png": {
+   "boxes": [
+    [
+     1016,
+     792,
+     1114,
+     826,
+     9
+    ]
+   ]
+  },
+  "c03-06-36-motion-selection-and-factual-review-comment.png": {
+   "boxes": [
+    [
+     1068,
+     290,
+     1462,
+     1136,
+     10
+    ]
+   ]
+  },
+  "c03-06-37-name-motion-checked-review-version.png": {
+   "boxes": [
+    [
+     566,
+     604,
+     1034,
+     682,
+     11
+    ],
+    [
+     962,
+     720,
+     1022,
+     760,
+     11
+    ]
+   ]
+  },
+  "c03-06-38-motion-checked-milestone-in-history.png": {
+   "boxes": [
+    [
+     1196,
+     184,
+     1582,
+     322,
+     11
+    ]
+   ]
+  }
+ }
+}

@@ -1,11 +1,10 @@
-# 01 - Prepare the AI Workspace: Prompts and Values
+# 01 - Prepare the AI Workspace: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
 Use the original source files and the staged reference tables below. Do not submit a FAQ prompt or fill in results in this lab.
 
-
-## Depth Case Input
+## Part 1: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -13,7 +12,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Core sources: project-facts.txt, meeting-record.txt, reporting-guidance.txt. Critique material: review-examples.txt. An AI-written draft is an output to check. A hypothetical customer contract or employee medical record is not part of this fictional exercise. Do not upload real examples.
 ```
 
-## Evidence Question Bank
+## Part 2: Evidence Question Bank
 
 1. What is the pilot’s purpose and duration?
 2. Which three teams participate?
@@ -24,7 +23,7 @@ Core sources: project-facts.txt, meeting-record.txt, reporting-guidance.txt. Cri
 
 Keep source facts separate from inferred workflow. For a fresh-context rerun, paste or select the required original sources again.
 
-## Captured Author-Run Reference
+## Part 3: Captured Author-Run Reference
 
 Create the sections in order. Paste only the current table, then inspect its editable cells. These author observations are examples to compare with your own account, not promises of access or policy approval.
 
@@ -32,21 +31,21 @@ Create the sections in order. Paste only the current table, then inspect its edi
 
 ```text
 Source / label	Permitted use	Can establish	Cannot establish
-S1 · project-facts.txt / Supplied fact sheet; no version stated; original plain text	Fictional drafting and factual checks only	Purpose, four-week duration, teams, Friday cadence, final-two-weeks success measure; proposed RM12,000	Approved budget, agreed calendar start, purchasing authority or actual outcomes
+S1 · project-facts.txt / Supplied fact sheet; no version stated; original plain text	Fictional drafting and factual checks only	Purpose, four-week duration, teams, Friday cadence, final-two-weeks success measure; proposed RM 12,000	Approved budget, agreed calendar start, purchasing authority or actual outcomes
 ```
 
 ### S2 scripted meeting card
 
 ```text
 Source / label	Permitted use	Can establish	Cannot establish
-meeting-record.txt / Supplied scripted preparation discussion; no version stated; original plain text	Practice action extraction and unresolved-decision checks	Aina: draft template, week1; Bala: review status definitions, week1; Siti: collect fictional sample update, week2	A real meeting, completed actions, purchase authorisation, approved budget or agreed start date
+meeting-record.txt / Supplied scripted preparation discussion; no version stated; original plain text	Practice action extraction and unresolved-decision checks	Aina: draft template, week 1; Bala: review status definitions, week 1; Siti: collect fictional sample update, week 2	A real meeting, completed actions, purchase authorisation, approved budget or agreed start date
 ```
 
 ### S3 proposed guidance card
 
 ```text
 Source / label	Permitted use	Can establish	Cannot establish
-reporting-guidance.txt / Proposed reporting guidance for practice, version1; original plain text	Explain proposed status definitions and clarification practice	Not Started/In Progress/Complete definitions; relative DueWeek1–4; Friday review update; flag missing facts	Approved company policy, budget/start-date approval, purchase authority or a calendar conversion
+reporting-guidance.txt / Proposed reporting guidance for practice, version 1; original plain text	Explain proposed status definitions and clarification practice	Not Started/In Progress/Complete definitions; relative DueWeek 1–4; Friday review update; flag missing facts	Approved company policy, budget/start-date approval, purchase authority or a calendar conversion
 ```
 
 ### Five-topic task contract
@@ -55,7 +54,7 @@ reporting-guidance.txt / Proposed reporting guidance for practice, version1; ori
 FAQ topic	Required evidence behaviour
 1. Purpose, duration and teams	Use S1; retain four weeks from an agreed start and all three teams.
 2. Reporting cadence and success	Use S1; distinguish every-Friday cadence from on-time updates by all three teams in the final two weeks. S3 corroborates the proposed workflow.
-3. Budget status	Use S1 and S2; RM12,000 is proposed and unapproved, not spending authority.
+3. Budget status	Use S1 and S2; RM 12,000 is proposed and unapproved, not spending authority.
 4. Pilot start	State not yet agreed. No confirmed calendar date can be supplied.
 5. Preparation actions	Use S2; retain each action, named owner and relative due week. Do not claim completion.
 ```
@@ -88,9 +87,9 @@ Test	Question	Expected evidence behaviour	Prediction
 T01	What is the pilot purpose and duration?	S1: consistent weekly reporting; four weeks from an agreed start.	Answerable from S1
 T02	Which three teams participate?	S1: Planning, Procurement, Site Coordination; retain all three.	Answerable from S1
 T03	What reporting cadence and success measure are stated?	S1 supplies both. S3 corroborates Friday review updates, not project success.	Answerable; optional corroboration
-T04	Is the RM12,000 ceiling approved?	S1 explicitly proposed, not approved. S2 corroborates approval still needed.	Answerable: not approved
+T04	Is the RM 12,000 ceiling approved?	S1 explicitly proposed, not approved. S2 corroborates approval still needed.	Answerable: not approved
 T05	What start date is confirmed?	S1/S2 say not agreed. No confirmed calendar date is available; return that gap.	Date value lacks evidence
-T06	Which preparation actions, owners and due weeks are explicit?	S2: Aina draft template/week1; Bala status review/week1; Siti fictional sample/week2.	Answerable from scripted S2
+T06	Which preparation actions, owners and due weeks are explicit?	S2: Aina draft template/week 1; Bala status review/week 1; Siti fictional sample/week 2.	Answerable from scripted S2
 ```
 
 ### Scoring plan - not completed results
@@ -100,7 +99,7 @@ TestID	Required facts	Unsupported claims	Citation support	Decision	Repair
 T01	Purpose + four weeks	Not assessed	Expected S1; unchecked	Not run	Await response
 T02	All three teams	Not assessed	Expected S1; unchecked	Not run	Await response
 T03	Friday + final-two-weeks measure	Not assessed	Expected S1; S3 corroborates cadence	Not run	Await response
-T04	RM12,000 proposed/unapproved	Not assessed	Expected S1; S2 corroborates	Not run	Await response
+T04	RM 12,000 proposed/unapproved	Not assessed	Expected S1; S2 corroborates	Not run	Await response
 T05	No agreed calendar start	Not assessed	Expected S1/S2 gap statement	Not run	Await response
 T06	Three exact action/owner/week triples	Not assessed	Expected S2; scripted context	Not run	Await response
 ```
@@ -109,7 +108,7 @@ T06	Three exact action/owner/week triples	Not assessed	Expected S2; scripted con
 
 ```text
 Question / gap	Current source-backed status
-Has the sponsor approved RM12,000?	S1/S2: proposed, not approved; approval still needed.
+Has the sponsor approved RM 12,000?	S1/S2: proposed, not approved; approval still needed.
 Which calendar start is agreed?	S1/S2: not agreed. Relative DueWeek does not answer this.
 Which cut-off, submission channel and clarification deadline apply?	Not supplied by the core pack; request evidence rather than inventing a value.
 Are the training services approved for a customer class?	Actual training-account access observed only. Customer policy, licence, approved source types and availability remain to be confirmed.

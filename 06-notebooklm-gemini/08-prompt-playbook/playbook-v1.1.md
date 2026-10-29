@@ -25,14 +25,14 @@ Inspect original support for each consequential assertion. Pass only when all fi
 | Purpose/duration | Test a consistent weekly reporting process; four weeks from an agreed start |
 | Teams | Planning, Procurement and Site Coordination |
 | Cadence/success | Every Friday; all three teams on time for the final two weeks |
-| Budget | RM12,000 ceiling; proposed and not approved; sponsor decision pending |
+| Budget | RM 12,000 ceiling; proposed and not approved; sponsor decision pending |
 | Start/decision | No agreed calendar start; unresolved sponsor approval of budget and start date |
 
 Read exact passages, numbers and qualifications. A source label or an AI assurance is not proof. Separate an omission, an unsupported assertion and a style preference. Correct the maintained draft and recheck it, while retaining the raw response. A missing answer receives no factual score.
 
 ## Examples and recovery
 
-Accepted maintained example: “The RM12,000 ceiling is proposed and not approved; sponsor Farid Hassan's decision remains pending.” Check S1's budget, sponsor and unresolved-decision lines.
+Accepted maintained example: “The RM 12,000 ceiling is proposed and not approved; sponsor Farid Hassan's decision remains pending.” Check S1's budget, sponsor and unresolved-decision lines.
 
 Rejected deliberate example: “A supplier has been appointed and a purchase order issued.” Neither event is established by the pack. S2 says no purchase has been authorised; that does not prove no appointment or unauthorised order exists. State the evidence gap and request the relevant original decision before naming a supplier.
 
@@ -52,4 +52,4 @@ Next, have a new participant reproduce the aligned task using only this playbook
 
 ## Author reproduction record — 29 October 2026
 
-The complete-source and zero-slot composer checks passed in a fresh Flash conversation. The returned FAQ passed all five factual checks against S1. Its raw numbered lists restarted at1; the [maintained FAQ](./accepted-faq-v1.1.md) repairs that formatting without factual changes. The long wait was observed while other author work continued, not measured as server latency or human effort. No fallback session or cancellation occurred because the response arrived during the final wait check. This is prior-familiarity author reproduction, not an unaided partner trial.
+The complete-source and zero-slot composer checks passed in a fresh Flash conversation. The returned FAQ passed all five factual checks against S1. Its raw numbered lists restarted at 1; the [maintained FAQ](./accepted-faq-v1.1.md) repairs that formatting without factual changes. The long wait was observed while other author work continued, not measured as server latency or human effort. No fallback session or cancellation occurred because the response arrived during the final wait check. This is prior-familiarity author reproduction, not an unaided partner trial.

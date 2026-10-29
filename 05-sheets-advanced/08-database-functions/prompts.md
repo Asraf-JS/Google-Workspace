@@ -1,4 +1,4 @@
-# 08 - Query Structured Criteria: Prompts and Values
+# 08 - Query Structured Criteria: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -28,8 +28,7 @@ Average delivered unit cost
 =DAVERAGE(Orders!A1:J25,"UnitCost",A10:A11)
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -37,9 +36,9 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Criteria cases: Status=Delivered AND Project=PJ-A; Status=Delivered OR Status=Pending; Status=Delivered OR Project=PJ-A. The last case overlaps. DCOUNT uses numeric Quantity; OrderID is text and must not be treated as a numeric record count.
 ```
 
-## Captured Author-Run Reference
+## Part 3: Captured Author-Run Reference
 
-Use a separate **Database Analysis** tab because the earlier Analysis cells are occupied. Maintained source is **Orders A1:J25**. Predict results before actual formulas. These cards show the final corrected source-derived mean352/18; the historical first-pass prediction23 in screenshots is investigated in the guide. Independent learner work remains a separate task.
+Use a separate **Database Analysis** tab because the earlier Analysis cells are occupied. Maintained source is **Orders A1:J25**. Predict results before actual formulas. These cards show the final corrected source-derived mean 352/18; the historical first-pass prediction 23 in screenshots is investigated in the guide. Independent learner work remains a separate task.
 
 ### Database Analysis A10:B11 — criteria
 
@@ -184,9 +183,9 @@ T04	0	unknown	Delivered
 
 ```text
 Metric	Expected	Actual	Difference	Meaning
-Numeric Quantity	2			Includes numeric2 and valid0; excludes blank/text
+Numeric Quantity	2			Includes numeric 2 and valid 0; excludes blank/text
 Populated Quantity	3			Nonblank count includes text four
-Numeric UnitCost	2			Only numeric10 and20
+Numeric UnitCost	2			Only numeric 10 and 20
 Mean UnitCost	15			Two numeric costs; blank/text excluded
 Numeric OrderID	0			Text IDs are not numeric values
 Populated OrderID	4			Four populated text IDs
@@ -222,7 +221,7 @@ Observed amount	Criterion requirement
 
 ```text
 Header observation	Interpretation
-Statuz returned0; restored Status returns1478	No visible error does not prove correct criteria
+Statuz returned 0; restored Status returns 1478	No visible error does not prove correct criteria
 ```
 
 ### Database Tests A26:D28 — weighted-price inputs
@@ -246,18 +245,18 @@ Total line cost	260	=SUM(D27:D28)	=C34-B34
 
 ```text
 Database analysis note	Definition / evidence
-Source boundary	Orders A1:J25;24baseline records; maintained values/formats preserved
+Source boundary	Orders A1:J25;24 baseline records; maintained values/formats preserved
 Practice placement	Separate Database Analysis tab avoids existing Analysis A10:D12 work
-Delivered	DSUM1478; DCOUNT Quantity12; DAVERAGE UnitCost23; text OrderID DCOUNT0 versus DCOUNTA12
-AND	Status and Project on same row: Delivered AND PJ-A gives556/4/25
-Disjoint OR	Status alternatives on separate rows: Delivered OR Pending gives1938/18/19.55555556
-Overlapping OR	Separate Delivered row and PJ-A row:1902/16/23.1875; each matching record once
-Overlap proof	Delivered1478 + PJ-A980 - overlap556 =1902; counts12+8-4=16
-Source IDs	FILTER lists reconcile4/18/16 unique IDs and amounts556/1938/1902; saved views DB8 Delivered and DB8 Delivered AND PJ-A
-Field types	Test table: numeric Quantity count2 includes zero; populated Quantity3 includes text; numeric UnitCost mean15 ignores blank/text
-Mean meaning / header test	Two-row unweighted20 versus quantity-weighted26; Statuz criterion returned0 before Status repair1478
+Delivered	DSUM1478; DCOUNT Quantity 12; DAVERAGE UnitCost 23; text OrderID DCOUNT0 versus DCOUNTA12
+AND	Status and Project on same row: Delivered AND PJ-A gives 556/4/25
+Disjoint OR	Status alternatives on separate rows: Delivered OR Pending gives 1938/18/19.55555556
+Overlapping OR	Separate Delivered row and PJ-A row: 1902/16/23.1875; each matching record once
+Overlap proof	Delivered 1478 + PJ-A980 - overlap 556 =1902; counts 12+8-4=16
+Source IDs	FILTER lists reconcile 4/18/16 unique IDs and amounts 556/1938/1902; saved views DB8 Delivered and DB8 Delivered AND PJ-A
+Field types	Test table: numeric Quantity count 2 includes zero; populated Quantity 3 includes text; numeric UnitCost mean 15 ignores blank/text
+Mean meaning / header test	Two-row unweighted 20 versus quantity-weighted26; Statuz criterion returned 0 before Status repair 1478
 Validation boundary	Guided author casework; independent learner question/OR diagnosis/reviewer and60minute timing pending
-Prediction repair	Initial expected mean23 was wrong: Delivered cost sum276 plus Pending76 =352 across18 numeric costs; corrected expectation352/18 matches DAVERAGE
+Prediction repair	Initial expected mean 23 was wrong: Delivered cost sum 276 plus Pending 76 =352 across 18 numeric costs; corrected expectation352/18 matches DAVERAGE
 ```
 
 ### AND F2:G4
@@ -308,8 +307,8 @@ Select **Orders A1:J25 > Data > Create filter view**. Save **DB8 - Delivered** a
 
 Database Tests criteria are **F1:F2 = Status / Delivered**. Preserve genuine blanks B3/C4, text four/unknown and numeric zero B5 in that isolated table. DCOUNT counts numbers; DCOUNTA counts populated fields; DAVERAGE's denominator includes only numeric values of the selected field.
 
-For the disposable header test, capture D19 with exact Status, then temporarily change A19 to Statuz. The observed result was0; restore Status and verify1478. Do not treat an error-free numeric result as proof of correct criteria.
+For the disposable header test, capture D19 with exact Status, then temporarily change A19 to Statuz. The observed result was 0; restore Status and verify 1478. Do not treat an error-free numeric result as proof of correct criteria.
 
-The disjoint-OR mean is352/18 =19.55555556, not23. Final expected E10 is **=352/18**, while actual F10 remains DAVERAGE. Delivered UnitCost sum276 plus Pending76 explains the mean. Keep prediction errors distinct from formula/source defects.
+The disjoint-OR mean is 352/18 =19.55555556, not 23. Final expected E10 is **=352/18**, while actual F10 remains DAVERAGE. Delivered UnitCost sum 276 plus Pending 76 explains the mean. Keep prediction errors distinct from formula/source defects.
 
-Final populations: Delivered1478/12/23; Delivered AND PJ-A556/4/25; Delivered OR Pending1938/18/19.55555556; Delivered OR PJ-A1902/16/23.1875. Amount/numeric Quantity count/mean UnitCost are different metrics. Independent question, learner diagnosis and timing remain pending.
+Final populations: Delivered 1478/12/23; Delivered AND PJ-A556/4/25; Delivered OR Pending 1938/18/19.55555556; Delivered OR PJ-A1902/16/23.1875. Amount/numeric Quantity count/mean UnitCost are different metrics. Independent question, learner diagnosis and timing remain pending.

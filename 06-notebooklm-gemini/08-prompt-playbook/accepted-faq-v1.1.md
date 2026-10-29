@@ -1,6 +1,6 @@
 # Checked FAQ — version 1.1 maintained output
 
-Fresh Flash response checked against S1. All five factual topics pass; no unsupported consequential claim identified. The raw response rendered each list at1. This maintained copy repairs numbering1–5 and retains the observed answers and quotations. This is author review, not partner agreement.
+Fresh Flash response checked against S1. All five factual topics pass; no unsupported consequential claim identified. The raw response rendered each list at 1. This maintained copy repairs numbering 1–5 and retains the observed answers and quotations. This is author review, not partner agreement.
 
 ## 1. What is the pilot’s purpose and duration?
 
@@ -20,9 +20,9 @@ The cadence is one status update every Friday during the pilot, and the success 
 
 Source: S1. Supporting quotation: "Reporting cadence: one status update every Friday during the pilot" and "Success measure: all three teams submit their weekly update on time for the final two weeks"
 
-## 4. Is the RM12,000 ceiling approved?
+## 4. Is the RM 12,000 ceiling approved?
 
-No, the RM12,000 ceiling is proposed and not approved.
+No, the RM 12,000 ceiling is proposed and not approved.
 
 Source: S1. Supporting quotation: "Budget status: proposed, not approved"
 

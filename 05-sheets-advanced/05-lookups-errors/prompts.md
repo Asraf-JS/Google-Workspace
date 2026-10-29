@@ -1,4 +1,4 @@
-# 05 - Match Records and Handle Errors: Prompts and Values
+# 05 - Match Records and Handle Errors: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -24,8 +24,7 @@ LookupRate
 =IFNA(VLOOKUP("IT99",Rates!$A$2:$D$7,3,FALSE),"Unmapped item")
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -33,11 +32,11 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Lookup challenge: Known IT01 and IT06; unknown IT99; blank; space-padded IT03. Duplicate-test mapping adds IT03 with UnitCost 99 only on a disposable copy. Baseline IT03 remains 30. Keep the supplied six-key Rates source intact.
 ```
 
-## Captured Author-Run Reference
+## Part 3: Captured Author-Run Reference
 
 Fictional training material. Use separate practice/copy tabs, preserve raw keys and record expectations before actual results. This is not independent learner validation.
 
-### Lookup Practice N1:Q2 — seed formulas, fill row2 through25
+### Lookup Practice N1:Q2 — seed formulas, fill row 2 through 25
 
 ```text
 LookupRate	IndexMatchRate	VLookup difference	Index difference
@@ -120,18 +119,18 @@ Return column outside range	=VLOOKUP("IT03",Rates!$A$2:$B$7,3,FALSE)	=IFNA(B9,"U
 ```text
 Topic	Verified result and assumptions
 Preserved baseline	Orders, Analysis, Rates and Source Snapshot remain unchanged. Lookup Practice is an Orders copy; Horizontal Lookup avoids the occupied Analysis F/G area.
-Vertical lookup	VLOOKUP uses Rates A2:D7, keys in the first column, return column3, FALSE for exact match. All24 copied Orders rows reconcile to original UnitCost.
-INDEX MATCH	INDEX returns Rates C2:C7 and MATCH searches the aligned A2:A7 range with0. All24 copied rows reconcile; exact matching still returns a first match, not a uniqueness guarantee.
-Horizontal lookup	G1:L1 contains the six keys and G2:L2 their rates. HLOOKUP uses row2 and FALSE. IT03 returned30, IT06 returned8, then IT03 was restored; three methods agree at30.
+Vertical lookup	VLOOKUP uses Rates A2:D7, keys in the first column, return column 3, FALSE for exact match. All 24 copied Orders rows reconcile to original UnitCost.
+INDEX MATCH	INDEX returns Rates C2:C7 and MATCH searches the aligned A2:A7 range with 0. All 24 copied rows reconcile; exact matching still returns a first match, not a uniqueness guarantee.
+Horizontal lookup	G1:L1 contains the six keys and G2:L2 their rates. HLOOKUP uses row 2 and FALSE. IT03 returned 30, IT06 returned 8, then IT03 was restored; three methods agree at 30.
 Input matrix	Nine expected cases include all six known keys, IT99, blank and padded IT03. Raw key retained beside TRIM. Nine comparisons pass; seven accepted cases, one unmapped, one blank.
-Duplicate copy	Rates Duplicate Test appends IT03 with UnitCost99. First VLOOKUP and INDEX MATCH return30, but COUNTIF=2 means Review duplicate. Baseline IT03 remains30. Retain the labelled experimental copy.
-Reordered copy	Rates Reordered sorts only A2:D7 descending. Exact lookup of IT03 returns30; omitted match mode returned45 in this actual test. Approximate mode assumes ascending keys; that experiment is not authoritative mapping.
-Error distinction	Raw missing IT99 gives NA, misspelled VLOKUP gives NAME, and return column3 on range A:B gives REF. IFNA handles only NA; IFERROR hid all three behind the same fallback text.
-Repair and final state	Function and range defects were repaired to return30. One raw expected missing-key NA remains as a labelled demonstration; Unmapped item is not zero. Conflicting and reordered mappings exist only in scenario tabs.
-Pending independent work	Independent Rate/MatchCount/Decision output, zero-rate distinction, column-move diagnosis, rejected-key handover, reviewer and classroom80-minute timing remain pending. These author cases are not independent learner validation.
+Duplicate copy	Rates Duplicate Test appends IT03 with UnitCost 99. First VLOOKUP and INDEX MATCH return 30, but COUNTIF=2 means Review duplicate. Baseline IT03 remains 30. Retain the labelled experimental copy.
+Reordered copy	Rates Reordered sorts only A2:D7 descending. Exact lookup of IT03 returns 30; omitted match mode returned 45 in this actual test. Approximate mode assumes ascending keys; that experiment is not authoritative mapping.
+Error distinction	Raw missing IT99 gives NA, misspelled VLOKUP gives NAME, and return column 3 on range A:B gives REF. IFNA handles only NA; IFERROR hid all three behind the same fallback text.
+Repair and final state	Function and range defects were repaired to return 30. One raw expected missing-key NA remains as a labelled demonstration; Unmapped item is not zero. Conflicting and reordered mappings exist only in scenario tabs.
+Pending independent work	Independent Rate/MatchCount/Decision output, zero-rate distinction, column-move diagnosis, rejected-key handover, reviewer and classroom 80-minute timing remain pending. These author cases are not independent learner validation.
 ```
 
-### Lookup Tests seed formulas — fill each column from row2 through10
+### Lookup Tests seed formulas — fill each column from row 2 through 10
 
 **C2:C10**
 

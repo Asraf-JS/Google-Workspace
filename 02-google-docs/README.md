@@ -1,6 +1,6 @@
 # Google Docs
 
-**Status:** review draft, revision 0.4. Labs 1-8 have 165 real stage images. Lab 5 includes a manual comparison fallback after the native picker stayed blank. The capstone author route and complete export are recorded. Independent reader/partner review, independent challenges and classroom timings remain pending.
+**Status:** review draft, revision 0.4. Labs 1-8 have 165 real stage images. Lab 5 includes a manual comparison fallback after the native picker stayed blank. The capstone author route and complete export are recorded. Independent reader/partner review, independent practice tasks and classroom timings remain pending.
 
 **Duration:** 1 day. Each day has 390 teaching minutes, excluding lunch and breaks.
 
@@ -12,18 +12,18 @@
 
 **Your result:** A structured procedure with navigation, review history and a checked distribution copy.
 
-## Proposed Chapters
+## Chapters
 
-| Day | # | Chapter | Prompts and values | What you will do | Minutes |
+| Day | # | Chapter | Prompts | What you will do | Time |
 |---|---|---|---|---|---|
-| 1 | 01 | [Prepare the Document and Sources](./01-document-sources/README.md) | [Prompts and values](./01-document-sources/prompts.md) | Build a Source and Requirements Register. | 40 |
-| 1 | 02 | [Plan and Draft with Gemini](./02-draft-procedure/README.md) | [Prompts and values](./02-draft-procedure/prompts.md) | Develop an Executable Procedure and Test Its Logic. | 55 |
-| 1 | 03 | [Apply Styles and Navigation](./03-styles-navigation/README.md) | [Prompts and values](./03-styles-navigation/prompts.md) | Organise a Longer Document and Repair Its Navigation. | 55 |
-| 1 | 04 | [Prepare a Professional Page Layout](./04-page-layout/README.md) | [Prompts and values](./04-page-layout/prompts.md) | Lay Out a Usable Multi-Page Procedure. | 50 |
-| 1 | 05 | [Review and Collaborate](./05-review-collaboration/README.md) | [Prompts and values](./05-review-collaboration/prompts.md) | Run a Controlled Editorial Review. | 55 |
-| 1 | 06 | [Adapt and Check the Document](./06-adapt-accessibility/README.md) | [Prompts and values](./06-adapt-accessibility/prompts.md) | Adapt for Two Readers and Audit Meaning. | 50 |
-| 1 | 07 | [Export and Check Interoperability](./07-export-check/README.md) | [Prompts and values](./07-export-check/prompts.md) | Test Conversion and Issue a Reproducible Release. | 40 |
-| 1 | 08 | [Complete the Procedure Challenge](./08-procedure-challenge/README.md) | [Prompts and values](./08-procedure-challenge/prompts.md) | Complete an Unfamiliar Revision and Reader Test. | 45 |
+| 1 | 01 | [Prepare the Document and Sources](./01-document-sources/README.md) | [Prompts](./01-document-sources/prompts.md) | Build a Source and Requirements Register. | 40 min |
+| 1 | 02 | [Plan and Draft with Gemini](./02-draft-procedure/README.md) | [Prompts](./02-draft-procedure/prompts.md) | Develop an Executable Procedure and Test Its Logic. | 55 min |
+| 1 | 03 | [Apply Styles and Navigation](./03-styles-navigation/README.md) | [Prompts](./03-styles-navigation/prompts.md) | Organise a Longer Document and Repair Its Navigation. | 55 min |
+| 1 | 04 | [Prepare a Professional Page Layout](./04-page-layout/README.md) | [Prompts](./04-page-layout/prompts.md) | Lay Out a Usable Multi-Page Procedure. | 50 min |
+| 1 | 05 | [Review and Collaborate](./05-review-collaboration/README.md) | [Prompts](./05-review-collaboration/prompts.md) | Run a Controlled Editorial Review. | 55 min |
+| 1 | 06 | [Adapt and Check the Document](./06-adapt-accessibility/README.md) | [Prompts](./06-adapt-accessibility/prompts.md) | Adapt for Two Readers and Audit Meaning. | 50 min |
+| 1 | 07 | [Export and Check Interoperability](./07-export-check/README.md) | [Prompts](./07-export-check/prompts.md) | Test Conversion and Issue a Reproducible Release. | 40 min |
+| 1 | 08 | [Complete the Procedure Challenge](./08-procedure-challenge/README.md) | [Prompts](./08-procedure-challenge/prompts.md) | Complete an Unfamiliar Revision and Reader Test. | 45 min |
 
 ## Inputs and Checks
 

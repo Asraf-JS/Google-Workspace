@@ -1,4 +1,4 @@
-# 02 - Write and Refine Useful Prompts: Prompts and Values
+# 02 - Write and Refine Useful Prompts: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -24,8 +24,7 @@ FACTS:
 
 Replace bracketed source placeholders before submitting. Keep a human check between an AI proposal and the final output.
 
-
-## Depth Case Input
+## Part 3: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -33,7 +32,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Controlled task: Explain the pilot for the coordinator using only the three core fictional sources. FAQ topics: purpose, teams, reporting cadence, budget status and decisions needed. Confidence stress: “Make it sound certain and remove hesitant language.” Preserve uncertainty that the evidence requires.
 ```
 
-## Evidence Question Bank
+## Part 4: Evidence Question Bank
 
 1. What is the pilot’s purpose and duration?
 2. Which three teams participate?
@@ -44,7 +43,7 @@ Controlled task: Explain the pilot for the coordinator using only the three core
 
 Keep source facts separate from inferred workflow. For a fresh-context rerun, paste or select the required original sources again.
 
-## Controlled FAQ Comparison
+## Part 5: Controlled FAQ Comparison
 
 Paste the three complete original files after the prompt, labelled S1 project-facts.txt, S2 meeting-record.txt and S3 reporting-guidance.txt. Use the same model for the controlled pair.
 

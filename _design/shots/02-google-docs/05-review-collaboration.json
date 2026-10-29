@@ -1,0 +1,487 @@
+{
+ "raw": "../raw/02-google-docs/05-review-collaboration",
+ "repoRoot": "../../../02-google-docs",
+ "shots": {
+  "c02-05-01-mode-menu.png": {
+   "boxes": [
+    [
+     1288,
+     44,
+     1388,
+     68
+    ],
+    [
+     1218,
+     100,
+     1388,
+     132,
+     1
+    ]
+   ]
+  },
+  "c02-05-02-clarity-pending.png": {
+   "boxes": [
+    [
+     388,
+     110,
+     832,
+     160,
+     2
+    ],
+    [
+     1110,
+     128,
+     1134,
+     152,
+     3,
+     "left"
+    ]
+   ]
+  },
+  "c02-05-03-clarity-accepted.png": {
+   "boxes": [
+    [
+     484,
+     108,
+     924,
+     150,
+     3
+    ]
+   ]
+  },
+  "c02-05-04-budget-pending.png": {
+   "boxes": [
+    [
+     386,
+     108,
+     828,
+     142
+    ],
+    [
+     1142,
+     128,
+     1164,
+     152,
+     3,
+     "left"
+    ]
+   ]
+  },
+  "c02-05-05-budget-rejected.png": {
+   "boxes": [
+    [
+     484,
+     114,
+     930,
+     138,
+     3
+    ]
+   ]
+  },
+  "c02-05-06-date-comment-draft.png": {
+   "boxes": [
+    [
+     388,
+     302,
+     814,
+     330,
+     1
+    ],
+    [
+     1100,
+     404,
+     1172,
+     432,
+     1
+    ]
+   ]
+  },
+  "c02-05-07-date-source-reply.png": {
+   "boxes": [
+    [
+     906,
+     398,
+     1174,
+     516,
+     3
+    ]
+   ]
+  },
+  "c02-05-08-date-reply-posted.png": {
+   "boxes": [
+    [
+     1114,
+     318,
+     1138,
+     342
+    ],
+    [
+     900,
+     400,
+     1176,
+     522,
+     3
+    ]
+   ]
+  },
+  "c02-05-09-date-editorial-resolved.png": {
+   "boxes": []
+  },
+  "c02-05-10-version-menu.png": {
+   "boxes": [
+    [
+     38,
+     20,
+     62,
+     40,
+     1,
+     "below"
+    ],
+    [
+     256,
+     340,
+     448,
+     364,
+     1
+    ]
+   ]
+  },
+  "c02-05-11-milestone-name.png": {
+   "boxes": [
+    [
+     604,
+     340,
+     838,
+     380,
+     2
+    ],
+    [
+     790,
+     396,
+     834,
+     420,
+     2
+    ]
+   ]
+  },
+  "c02-05-12-named-history.png": {
+   "boxes": [
+    [
+     1232,
+     92,
+     1428,
+     168,
+     2
+    ]
+   ]
+  },
+  "c02-05-13-prior-version-inspection.png": {
+   "boxes": [
+    [
+     6,
+     8,
+     30,
+     32,
+     3,
+     "right"
+    ],
+    [
+     1250,
+     192,
+     1420,
+     222,
+     3
+    ]
+   ]
+  },
+  "c02-05-15-editorial-baseline-name.png": {
+   "boxes": [
+    [
+     624,
+     436,
+     976,
+     498,
+     2
+    ],
+    [
+     896,
+     520,
+     976,
+     564,
+     2
+    ]
+   ]
+  },
+  "c02-05-16-controlled-clarity-pending.png": {
+   "boxes": [
+    [
+     374,
+     160,
+     1028,
+     230,
+     3
+    ]
+   ]
+  },
+  "c02-05-17-controlled-clarity-accepted.png": {
+   "boxes": [
+    [
+     454,
+     166,
+     1054,
+     228,
+     3
+    ]
+   ]
+  },
+  "c02-05-18-budget-rejection-reason.png": {
+   "boxes": [
+    [
+     1134,
+     314,
+     1536,
+     430,
+     3
+    ]
+   ]
+  },
+  "c02-05-19-controlled-budget-rejected.png": {
+   "boxes": [
+    [
+     454,
+     166,
+     1094,
+     200,
+     3
+    ]
+   ]
+  },
+  "c02-05-20-contact-deferred-open.png": {
+   "boxes": [
+    [
+     446,
+     412,
+     978,
+     452,
+     4
+    ],
+    [
+     1126,
+     418,
+     1548,
+     602,
+     4
+    ]
+   ]
+  },
+  "c02-05-21-friday-question-posted.png": {
+   "boxes": [
+    [
+     572,
+     412,
+     840,
+     440,
+     5,
+     "above"
+    ],
+    [
+     1126,
+     418,
+     1548,
+     562,
+     5
+    ]
+   ]
+  },
+  "c02-05-22-friday-source-reply.png": {
+   "boxes": [
+    [
+     1126,
+     556,
+     1548,
+     736,
+     5
+    ]
+   ]
+  },
+  "c02-05-23-friday-editorial-resolved.png": {
+   "boxes": [
+    [
+     572,
+     412,
+     840,
+     436,
+     5,
+     "above"
+    ]
+   ]
+  },
+  "c02-05-24-review-comparison-copy.png": {
+   "boxes": [
+    [
+     600,
+     278,
+     998,
+     340,
+     6
+    ],
+    [
+     604,
+     466,
+     960,
+     548
+    ],
+    [
+     862,
+     614,
+     998,
+     662,
+     6
+    ]
+   ]
+  },
+  "c02-05-25-baseline-history-selected.png": {
+   "boxes": [
+    [
+     1318,
+     240,
+     1594,
+     300,
+     6
+    ]
+   ]
+  },
+  "c02-05-26-baseline-version-copy.png": {
+   "boxes": [
+    [
+     600,
+     322,
+     998,
+     380,
+     6
+    ],
+    [
+     862,
+     570,
+     998,
+     616,
+     6
+    ]
+   ]
+  },
+  "c02-05-27-comparison-only-approval-proposal.png": {
+   "boxes": [
+    [
+     454,
+     444,
+     968,
+     476,
+     6
+    ]
+   ]
+  },
+  "c02-05-28-tools-compare-command.png": {
+   "boxes": [
+    [
+     296,
+     40,
+     336,
+     64,
+     6,
+     "right"
+    ],
+    [
+     302,
+     160,
+     470,
+     188,
+     6
+    ]
+   ]
+  },
+  "c02-05-30-baseline-original-clarity.png": {
+   "boxes": [
+    [
+     374,
+     778,
+     954,
+     806,
+     6
+    ]
+   ]
+  },
+  "c02-05-31-comparison-accepted-clarity.png": {
+   "boxes": [
+    [
+     374,
+     830,
+     960,
+     860,
+     6
+    ]
+   ]
+  },
+  "c02-05-32-baseline-proposed-budget.png": {
+   "boxes": [
+    [
+     454,
+     172,
+     998,
+     204,
+     6
+    ]
+   ]
+  },
+  "c02-05-33-four-review-decisions.png": {
+   "boxes": [
+    [
+     374,
+     464,
+     1028,
+     812,
+     7
+    ]
+   ]
+  },
+  "c02-05-34-manual-comparison-record.png": {
+   "boxes": [
+    [
+     374,
+     230,
+     1036,
+     772,
+     7
+    ]
+   ]
+  },
+  "c02-05-35-checked-milestone-name.png": {
+   "boxes": [
+    [
+     626,
+     410,
+     974,
+     474,
+     7
+    ],
+    [
+     912,
+     500,
+     962,
+     528,
+     7
+    ]
+   ]
+  },
+  "c02-05-36-baseline-and-checked-history.png": {
+   "boxes": [
+    [
+     1290,
+     138,
+     1590,
+     374,
+     7
+    ]
+   ]
+  }
+ }
+}

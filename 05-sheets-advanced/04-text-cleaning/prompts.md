@@ -1,4 +1,4 @@
-# 04 - Combine and Clean Text: Prompts and Values
+# 04 - Combine and Clean Text: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -20,8 +20,7 @@ Copy the values below when following the chapter. Review pasted text before subm
 =A2&" - "&B2
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -29,7 +28,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Identifier intake: PO001; PO024; PO1; blank; IT01; IT06; IT99; “ IT03 ”. Order IDs require PO plus three digits; mapped item keys are the six supplied Rates codes. Do not treat every extracted suffix as a valid key.
 ```
 
-## Captured Author-Run Reference
+## Part 3: Captured Author-Run Reference
 
 Fictional training material. Expectations precede actual formulas; actual results are recorded separately. Preserve spaces using single-cell entry where noted. This is not independent learner validation.
 
@@ -44,7 +43,7 @@ PO024	PJ-C	IT06
 
 ### Text Practice source-padded team A8
 
-Enter one ordinary space, then `Planning`, then one ordinary space. The raw value must have length10; enter this cell separately from a multi-cell paste.
+Enter one ordinary space, then `Planning`, then one ordinary space. The raw value must have length 10; enter this cell separately from a multi-cell paste.
 
 ### Gemini proposal-only prompt
 
@@ -117,13 +116,13 @@ Reference matches	=COUNTIF(J2:J9,TRUE)	5	=B21-C21
 Pipeline stage	Evidence and reversibility
 Raw source	DirtyText.csv raw values retained in Text Audit A:C; Orders and Rates unchanged. CSV block paste trimmed spaces; affected raw cells restored individually before cleaning.
 Normalised	Text Audit D uses TRIM. E uses explicit case handling only for complete / in progress / not started. Whitespace and case changes are not invertible without the raw source.
-Unusual whitespace	The literal NBSP case keeps length10 after TRIM and code point160. Retain it for review; do not silently replace unusual characters.
+Unusual whitespace	The literal NBSP case keeps length 10 after TRIM and code point 160. Retain it for review; do not silently replace unusual characters.
 Validated	Identifier Tests checks complete ^PO[0-9]{3}$ or ^IT[0-9]{2}$ patterns and reference membership separately. PO1 malformed; blank remains blank; IT99 syntactically valid but unmapped.
 Category output	Known item categories come from exact Rates mapping. Six Gemini proposals were compared individually; they repeated the supplied mapping, not an independent test on unseen items.
 Display output	Text Practice combines OrderID and Project only for display. Separate keys and original zeros remain; LEFT/RIGHT/MID outputs are text, not new identifiers.
-Reconstruction	Clean Planning traces to Text Audit B2 with raw length10, TRIM D2 length8. Preserve raw B2 to recover discarded spaces; do not attempt to reverse TRIM from clean text alone.
+Reconstruction	Clean Planning traces to Text Audit B2 with raw length 10, TRIM D2 length 8. Preserve raw B2 to recover discarded spaces; do not attempt to reverse TRIM from clean text alone.
 Author evidence	Three raw/clean rows, three space cases, eight expected-versus-actual identifier cases and six AI/reference comparisons checked. Maintained Orders/Analysis/Rates/Source Snapshot unchanged.
-Pending checks	Independent mixed-intake attempt and reviewer reconstruction not performed. File-import route and classroom60-minute timing remain unverified.
+Pending checks	Independent mixed-intake attempt and reviewer reconstruction not performed. File-import route and classroom 60-minute timing remain unverified.
 ```
 
 ### Seed formulas — fill each stated column down
@@ -266,4 +265,4 @@ Pending checks	Independent mixed-intake attempt and reviewer reconstruction not 
 =C2=D2
 ```
 
-Raw whitespace cases include literal NBSP (U+00A0) padding; if copying changes it, verify the first code point160 and raw length10. Do not substitute ordinary spaces and claim the same test. Independent mixed intake, reviewer reconstruction, native file import and learner timing remain pending.
+Raw whitespace cases include literal NBSP (U+00A0) padding; if copying changes it, verify the first code point 160 and raw length 10. Do not substitute ordinary spaces and claim the same test. Independent mixed intake, reviewer reconstruction, native file import and learner timing remain pending.

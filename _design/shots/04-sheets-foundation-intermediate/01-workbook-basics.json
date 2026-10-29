@@ -1,0 +1,437 @@
+{
+ "raw": "../raw/04-sheets-foundation-intermediate/01-workbook-basics",
+ "repoRoot": "../../../04-sheets-foundation-intermediate",
+ "shots": {
+  "c04-01-01-empty-foundation-practice-folder.png": {
+   "boxes": [
+    [
+     16,
+     92,
+     122,
+     136,
+     1
+    ],
+    [
+     470,
+     96,
+     912,
+     128,
+     1
+    ]
+   ]
+  },
+  "c04-01-02-uploaded-original-xlsx.png": {
+   "boxes": [
+    [
+     304,
+     254,
+     1580,
+     296,
+     2
+    ]
+   ]
+  },
+  "c04-01-03-excel-format-save-as-google-sheets.png": {
+   "boxes": [
+    [
+     54,
+     10,
+     232,
+     38,
+     3,
+     "right"
+    ],
+    [
+     86,
+     196,
+     244,
+     222,
+     3
+    ]
+   ]
+  },
+  "c04-01-04-named-native-copy-two-tabs.png": {
+   "boxes": [
+    [
+     54,
+     10,
+     304,
+     38,
+     4,
+     "right"
+    ],
+    [
+     176,
+     840,
+     340,
+     870,
+     4
+    ]
+   ]
+  },
+  "c04-01-05-select-full-source-range.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     108,
+     140,
+     1,
+     "right"
+    ],
+    [
+     40,
+     178,
+     1306,
+     604,
+     1
+    ]
+   ]
+  },
+  "c04-01-06-d5-owner-and-task-record.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     108,
+     140,
+     2,
+     "right"
+    ],
+    [
+     574,
+     312,
+     756,
+     338
+    ],
+    [
+     44,
+     312,
+     160,
+     338
+    ]
+   ]
+  },
+  "c04-01-07-summary-tab-before-calculations.png": {
+   "boxes": [
+    [
+     252,
+     840,
+     356,
+     870,
+     3
+    ],
+    [
+     40,
+     164,
+     346,
+     302
+    ]
+   ]
+  },
+  "c04-01-08-named-navigation-practice-duplicate.png": {
+   "boxes": [
+    [
+     256,
+     840,
+     432,
+     870,
+     1
+    ]
+   ]
+  },
+  "c04-01-09-practice-only-label-and-resized-column.png": {
+   "boxes": [
+    [
+     1290,
+     160,
+     1514,
+     226,
+     2
+    ]
+   ]
+  },
+  "c04-01-10-original-tasks-after-practice-edit.png": {
+   "boxes": [
+    [
+     176,
+     840,
+     232,
+     870,
+     3
+    ],
+    [
+     40,
+     178,
+     1306,
+     604,
+     3
+    ]
+   ]
+  },
+  "c04-01-11-workbook-guide-tab-purposes.png": {
+   "boxes": [
+    [
+     40,
+     164,
+     930,
+     240,
+     1
+    ],
+    [
+     258,
+     840,
+     408,
+     870,
+     1
+    ]
+   ]
+  },
+  "c04-01-12-source-address-a2.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     108,
+     140,
+     2,
+     "right"
+    ],
+    [
+     44,
+     212,
+     160,
+     238
+    ]
+   ]
+  },
+  "c04-01-13-source-address-d5.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     108,
+     140,
+     2,
+     "right"
+    ],
+    [
+     44,
+     312,
+     160,
+     338
+    ],
+    [
+     574,
+     312,
+     756,
+     338
+    ]
+   ]
+  },
+  "c04-01-14-source-address-f8.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     108,
+     140,
+     2,
+     "right"
+    ],
+    [
+     44,
+     412,
+     160,
+     438
+    ],
+    [
+     872,
+     412,
+     1040,
+     438
+    ]
+   ]
+  },
+  "c04-01-15-source-address-h13.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     108,
+     140,
+     2,
+     "right"
+    ],
+    [
+     44,
+     576,
+     160,
+     602
+    ],
+    [
+     1180,
+     576,
+     1304,
+     602
+    ]
+   ]
+  },
+  "c04-01-16-four-address-record-checks-in-guide.png": {
+   "boxes": [
+    [
+     40,
+     286,
+     1144,
+     388,
+     2
+    ]
+   ]
+  },
+  "c04-01-17-three-record-entry-practice-reconstruction.png": {
+   "boxes": [
+    [
+     40,
+     164,
+     1108,
+     242,
+     3
+    ],
+    [
+     416,
+     840,
+     552,
+     870,
+     3
+    ]
+   ]
+  },
+  "c04-01-18-select-one-cell.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     108,
+     140,
+     5,
+     "right"
+    ],
+    [
+     146,
+     184,
+     252,
+     206
+    ]
+   ]
+  },
+  "c04-01-19-select-complete-row.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     108,
+     140,
+     5,
+     "right"
+    ],
+    [
+     40,
+     184,
+     1590,
+     206
+    ]
+   ]
+  },
+  "c04-01-20-select-whole-column.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     108,
+     140,
+     5,
+     "right"
+    ],
+    [
+     250,
+     150,
+     604,
+     822
+    ]
+   ]
+  },
+  "c04-01-21-select-header-and-three-records.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     108,
+     140,
+     5,
+     "right"
+    ],
+    [
+     40,
+     164,
+     1108,
+     242
+    ]
+   ]
+  },
+  "c04-01-22-reconstruction-and-selection-checks-recorded.png": {
+   "boxes": [
+    [
+     40,
+     406,
+     932,
+     570,
+     5
+    ]
+   ]
+  },
+  "c04-01-23-entry-practice-reordered-after-navigation.png": {
+   "boxes": [
+    [
+     416,
+     840,
+     734,
+     870,
+     6
+    ]
+   ]
+  },
+  "c04-01-24-native-and-original-file-types-in-folder.png": {
+   "boxes": [
+    [
+     304,
+     238,
+     1580,
+     314,
+     6
+    ]
+   ]
+  },
+  "c04-01-25-reopened-workbook-source-identity-and-edit-instructions.png": {
+   "boxes": [
+    [
+     40,
+     606,
+     932,
+     746,
+     7
+    ]
+   ]
+  },
+  "c04-01-26-complete-workbook-guide-after-reopen.png": {
+   "boxes": [
+    [
+     40,
+     164,
+     1144,
+     746,
+     7
+    ]
+   ]
+  }
+ }
+}

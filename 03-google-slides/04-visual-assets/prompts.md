@@ -1,11 +1,10 @@
-# 04 - Create and Check Visual Assets: Prompts and Values
+# 04 - Create and Check Visual Assets: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
 This chapter uses the supplied files and visible controls. No additional prompt or typed code is required.
 
-
-## Depth Case Input
+## Part 1: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -13,7 +12,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Visual brief: Help a new coordinator understand where an unclear task status is corrected. An office photograph may illustrate context but cannot show the correction path. No visual may imply real construction activity, a confirmed launch or an approved purchase.
 ```
 
-## Captured Workflow and Casework Values
+## Part 2: Captured Workflow and Casework Values
 
 ```text
 GW - Slides - Visual Casework
@@ -26,7 +25,7 @@ Collect / Source register
 Check / With task owner
 Report / Checked update → hub
 
-Who corrects the status? — proposed roles
+Who corrects the status? - proposed roles
 Contributor → Correct maintained register
 Reviewer → Recheck update against source
 Coordinator → Report checked update → hub
@@ -38,7 +37,7 @@ Missing owner? Flag for clarification; never guess.
 
 Roles are proposed training practice, not approved policy. The same source-of-truth and exception route must appear in both designs.
 
-## Bounded Prompt Used in the Reference
+## Part 3: Bounded Prompt Used in the Reference
 
 ```text
 Create a simple flat editorial illustration of a generic office team reviewing a fictional project register on a blank screen. Use faceless silhouettes; no identifiable people, no logos, no brands, no readable text, no construction site, no safety equipment or machinery, no dates, no currency or approval symbols. Clearly conceptual office context, not documentary evidence. Wide 16:9 composition with neutral colours.
@@ -46,13 +45,13 @@ Create a simple flat editorial illustration of a generic office team reviewing a
 
 The actual result contains five generic people and a blank grid. Inspect your own result; the prompt alone does not establish suitability.
 
-## Image Alternative Text
+## Part 4: Image Alternative Text
 
 ```text
 AI-generated conceptual office illustration: five generic people review a blank project grid. It illustrates a discussion only; it does not explain the correction path or depict real project activity.
 ```
 
-## Visual Register Reference
+## Part 5: Visual Register Reference
 
 | Asset | Purpose | Origin | Rights / reuse | Text alternative |
 |---|---|---|---|---|

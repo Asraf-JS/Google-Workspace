@@ -2,9 +2,13 @@
 
 **Your assignment:** Produce a structured brief with traceable facts, a decision table, a review history and a checked PDF.
 
-**Target allocation:** 65 minutes: 20 demonstration and discussion, 25 guided build, 15 independent challenge, 5 verification and repair. These are design allocations, not measured completion times. Finish the challenge and checks before moving on; finishing the guided clicks is not completion of the lab.
+> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
-**Status:** core sections 2.1–2.3 executed and captured in a fresh private document: ten fact checks, eight section headings, decision table, verified links, two named versions, an accepted editorial suggestion, a rejected factual distortion, an open review thread and a three-page PDF inspected page by page. The independent challenge and classroom timings remain unvalidated.
+**Estimated time:** 65 minutes, planned as 20 demonstration and discussion, 25 guided build, 15 independent practice and 5 verification and repair. Not yet timed with learners. Finish the challenge and checks before moving on; finishing the guided clicks is not completion of the lab.
+
+> **Status:** core sections 2.1–2.3 executed and captured in a fresh private document: ten fact checks, eight section headings, decision table, verified links, two named versions, an accepted editorial suggestion, a rejected factual distortion, an open review thread and a three-page PDF inspected page by page. The independent challenge and classroom timings remain unvalidated.
+
+---
 
 ## What You Will Learn
 
@@ -17,7 +21,7 @@
 
 Use the workspace from Lab 1. Have project-facts.txt, checked-brief.txt and review-examples.txt available. If Gemini is unavailable, use checked-brief.txt for the draft and perform the same factual audit and revision tasks manually.
 
-Use the [copy-paste page](./prompts.md) and [shared practice files](../../shared/sample-files/README.md). Keep fictional role names as text. Use only trainer-assigned test identities for any access test.
+Use the [prompts page](./prompts.md) and [shared practice files](../../shared/sample-files/README.md). Keep fictional role names as text. Use only trainer-assigned test identities for any access test.
 
 ## 2.1 Draft and Audit the Facts
 
@@ -25,9 +29,13 @@ Use the [copy-paste page](./prompts.md) and [shared practice files](../../shared
 
 ![A fresh labelled brief before any AI draft, audit table or headings have been added](./images/c01-02-01-start.jpg)
 
-2. If available, open **Ask Gemini** and use the panel-only prompt on the copy-paste page with the full fact sheet. If it proposes an in-place edit, inspect it before accepting. Reject any replacement of known facts with placeholders; use the recovery prompt.
+*A fresh labelled brief before any AI draft, audit table or headings have been added.*
+
+2. If available, open **Ask Gemini** and use the panel-only prompt on the prompts page with the full fact sheet. If it proposes an in-place edit, inspect it before accepting. Reject any replacement of known facts with placeholders; use the recovery prompt.
 
 ![The draft stays in Gemini while the document contains only its fictional-material label](./images/c01-02-01-panel.jpg)
+
+*The draft stays in Gemini while the document contains only its fictional-material label.*
 
 3. Create a check table at the end of the document: Claim, Source wording and Verdict. Check duration, teams, coordinator, sponsor, budget condition, reporting cadence, risk and success measure.
 
@@ -35,9 +43,13 @@ Use the [copy-paste page](./prompts.md) and [shared practice files](../../shared
 
 ![Ten source-backed checks before inserting the draft; unresolved facts remain unresolved](./images/c01-02-01-audit.jpg)
 
+*Ten source-backed checks before inserting the draft; unresolved facts remain unresolved.*
+
 5. Insert the checked brief. Remove unsupported benefits, suppliers or approvals. If no AI is available, copy the recovery brief and still complete all ten factual checks.
 
 ![Checked plain text before paragraph styles, decision tables, source links or comments exist](./images/c01-02-01.jpg)
+
+*Checked plain text before paragraph styles, decision tables, source links or comments exist.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -56,6 +68,8 @@ The brief preserves the four-week duration and proposed RM 12,000 ceiling. It do
 
 ![The Title and eight section headings appear in the outline before review comments or suggestions](./images/c01-02-02-headings.jpg)
 
+*The Title and eight section headings appear in the outline before review comments or suggestions.*
+
 3. Under **Decisions Needed**, insert a four-column table: Decision, Decision-maker, Current state and Evidence required. Add the budget ceiling and start date as two unresolved decisions. The sponsor decides budget approval; mark the start-date decision-maker **To be confirmed** unless the source names one.
 
 If the decision heading and table split across pages, insert a page break before **Decisions Needed**. Keep the completed audit on its own page.
@@ -66,9 +80,13 @@ If the decision heading and table split across pages, insert a page break before
 
 ![The decision table and verified source links before editorial review begins](./images/c01-02-02.jpg)
 
+*The decision table and verified source links before editorial review begins.*
+
 5. Use **File**, **Version history**, **Name current version** and name it `Brief checked against source facts`. This baseline precedes the independent editorial revision.
 
 ![Name the checked baseline before accepting or rejecting suggestions](./images/c01-02-02-version.jpg)
+
+*Name the checked baseline before accepting or rejecting suggestions.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -85,25 +103,39 @@ Eight main headings navigate correctly. The decision table keeps open items open
 
 ![The first budget evidence question before later suggestions or replies; reviewer identity is masked](./images/c01-02-03-comment.jpg)
 
+*The first budget evidence question before later suggestions or replies; reviewer identity is masked.*
+
 2. Switch from **Editing** to **Suggesting**. Propose a clearer purpose sentence without changing facts. Inspect the suggestion, then accept it only if the meaning is preserved.
 
 ![Inspect the proposed purpose replacement before accepting it; reviewer identity is masked](./images/c01-02-03-purpose.jpg)
+
+*Inspect the proposed purpose replacement before accepting it; reviewer identity is masked.*
 
 3. Add a second suggestion that incorrectly removes the word **proposed** from the budget. Reject it and explain why this is a factual change rather than an editorial improvement.
 
 ![The incorrect deletion is still pending here, immediately before rejection; reviewer identities are masked](./images/c01-02-03-reject.jpg)
 
+*The incorrect deletion is still pending here, immediately before rejection; reviewer identities are masked.*
+
 4. Reply to the budget comment that approval evidence is still missing. Leave that issue open. Name a new version `Brief reviewed - decisions still open`.
 
 ![The restored proposed-budget wording and open review thread after rejecting the factual distortion](./images/c01-02-03.jpg)
 
+*The restored proposed-budget wording and open review thread after rejecting the factual distortion.*
+
 ![Name the reviewed version while project decisions remain open](./images/c01-02-03-version.jpg)
+
+*Name the reviewed version while project decisions remain open.*
 
 5. Choose **File**, **Download**, **PDF Document**. Open the exported PDF and inspect every page, table break and heading. Compare its budget wording with the native document.
 
 ![The real File > Download menu before creating the PDF snapshot](./images/c01-02-03-download.jpg)
 
+*The real File > Download menu before creating the PDF snapshot.*
+
 ![Page two of the actual exported PDF: the unresolved decisions and table remain readable and together](./images/c01-02-03-export.jpg)
+
+*Page two of the actual exported PDF: the unresolved decisions and table remain readable and together.*
 
 6. Record which file is maintained and which is a snapshot. After a later revision, the PDF must be regenerated; it does not track the native document.
 
@@ -116,11 +148,11 @@ There is a demonstrable accepted suggestion, a rejected factual distortion and a
 
 <!-- CAPTURED: core section 2.3 on 17 October 2026; independent challenge and learner timing pending. -->
 
-## Independent Challenge
+## Independent Practice
 
 Read review-examples.txt. Create a **Review Response** section identifying each unsupported claim, its correction and the missing evidence. Independently write an 80 to 100 word sponsor update that preserves the proposed budget and unresolved start date. Give a partner the source and your update to audit, or perform a second-pass audit if working alone. Correct one issue or document why no correction was needed, then name the revised version. Do not treat completion of this exercise as sponsor approval.
 
-## Evidence to Hand Over
+### Evidence to Hand Over
 
 - Native brief with eight main headings, source links and a decision table.
 - Ten factual checks, review response and independently written sponsor update.
@@ -134,6 +166,6 @@ Read review-examples.txt. Create a **Review Response** section identifying each 
 | Headings do not appear in the outline | Apply named paragraph styles to entire heading paragraphs. |
 | The PDF differs from the working file | Re-export after changes and inspect the new copy. |
 
-## Check Yourself
+## Lesson Summary
 
-Explain one error you found, how you proved the correction, and which downstream result it could affect. A finished-looking file alone is not evidence that it is correct.
+**Check yourself:** Explain one error you found, how you proved the correction, and which downstream result it could affect. A finished-looking file alone is not evidence that it is correct.

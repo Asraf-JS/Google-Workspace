@@ -1,4 +1,4 @@
-# 03 - Validate Entries and Flag Exceptions: Prompts and Values
+# 03 - Validate Entries and Flag Exceptions: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -8,8 +8,7 @@ Copy the values below when following the chapter. Review pasted text before subm
 =AND($G2="Pending",$J2>=200)
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -17,13 +16,13 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Synthetic coverage record, test copy only: PO-TEST | PJ-A | Planning | IT01 | Quantity 5 | UnitCost 45 | Pending | week 4 | Coverage test. Quantity candidates: 0, 2, -1, 1.5, text “two”, blank and numeric text imported from a CSV.
 ```
 
-## Captured Validation Reference
+## Part 3: Captured Validation Reference
 
-Use the separate Validation Practice tab. G2:G25: single-choice Delivered/Pending/Cancelled, strict Reject input. E2:E25: Custom formula is **=AND(ISNUMBER(E2),E2>=0,MOD(E2,1)=0)**, explicitly select Reject input (the custom editor defaulted to warning). Conditional format A2:K25: **=AND($G2="Pending",$J2>=200)**, light fill#b7e1cd. L2 uses that same formula, filled to25.
+Use the separate Validation Practice tab. G2:G25: single-choice Delivered/Pending/Cancelled, strict Reject input. E2:E25: Custom formula is **=AND(ISNUMBER(E2),E2>=0,MOD(E2,1)=0)**, explicitly select Reject input (the custom editor defaulted to warning). Conditional format A2:K25: **=AND($G2="Pending",$J2>=200)**, light fill#b7e1cd. L2 uses that same formula, filled to 25.
 
 ### Input expectations — Validation Tests A1:H11
 
-Observed columns F:H start empty. Each entry test uses cell-edit mode, not a bulk-range paste. Restore E3=4 or G3=Pending after each accepted test; rejected input retains the original value. Test clearing separately with Delete and restore4 afterward.
+Observed columns F:H start empty. Each entry test uses cell-edit mode, not a bulk-range paste. Restore E3=4 or G3=Pending after each accepted test; rejected input retains the original value. Test clearing separately with Delete and restore 4 afterward.
 
 ```text
 Case	Target	Input	Expected value rule	Expected UI	Observed UI	Result	Saved test value
@@ -43,7 +42,7 @@ Nine ordinary cases matched accept/reject expectations. Delete cleared E3 withou
 
 ### Exception expectations — Validation Tests A15:H20
 
-Use temporary practice PO002 (row3), Quantity1 and the listed UnitCost/Amount; restore4/12/Pending after all five cases. Observed columns E:H start empty.
+Use temporary practice PO002 (row 3), Quantity 1 and the listed UnitCost/Amount; restore 4/12/Pending after all five cases. Observed columns E:H start empty.
 
 ```text
 Case	Status	Amount	Expected flag	Observed flag	Observed highlight	Qualifying OrderID	Result
@@ -54,24 +53,24 @@ X04	Delivered	200	FALSE
 X05	Cancelled	200	FALSE
 ```
 
-Actual flags/highlights were FALSE/none, TRUE/PO002, TRUE/PO002, FALSE/none, FALSE/none. The two positive rows in the report are sequential tests of one record. Delivered/Cancelled fail the status condition even at200.
+Actual flags/highlights were FALSE/none, TRUE/PO002, TRUE/PO002, FALSE/none, FALSE/none. The two positive rows in the report are sequential tests of one record. Delivered/Cancelled fail the status condition even at 200.
 
 ### First/final-row coverage check
 
-On the practice copy only, set row2 PO001 to Quantity1/UnitCost200/Pending and row25 PO024 to Quantity1/UnitCost201/Pending. Flags L2/L25 and row highlights are TRUE. Filter A1:L25 on PendingHigh TRUE:2of24 records, PO001 and PO024. Remove the filter; restore row2 to2/45/Delivered and row25 to8/8/Delivered. Leave row3 at4/12/Pending. Original24IDs and J/K formulas remain, totals3158/1938 and24FALSE flags.
+On the practice copy only, set row 2 PO001 to Quantity 1/UnitCost200/Pending and row 25 PO024 to Quantity 1/UnitCost201/Pending. Flags L2/L25 and row highlights are TRUE. Filter A1:L25 on PendingHigh TRUE:2of24 records, PO001 and PO024. Remove the filter; restore row 2 to 2/45/Delivered and row 25 to 8/8/Delivered. Leave row 3 at 4/12/Pending. Original24IDs and J/K formulas remain, totals 3158/1938 and24FALSE flags.
 
 ### Handover notes — Validation Tests J1:K9
 
 ```text
 Validation handover	Author-run guided and casework evidence
-Restoration	Practice E3/F3/G3 restored to4/12/Pending. First row restored2/45/Delivered; final row restored8/8/Delivered. Filter removed.
+Restoration	Practice E3/F3/G3 restored to 4/12/Pending. First row restored 2/45/Delivered; final row restored 8/8/Delivered. Filter removed.
 Validation coverage	Validation Practice G2:G25: Delivered/Pending/Cancelled, single choice, Reject input. E2:E25 custom formula =AND(ISNUMBER(E2),E2>=0,MOD(E2,1)=0), Reject input.
 Exception coverage	Conditional format A2:K25 uses =AND($G2="Pending",$J2>=200). Explicit flags L2:L25 use the same row logic.
-Boundary reconciliation	First and final rows tested positive as PO001/Pending200 and PO024/Pending201; flags TRUE, both highlighted, filter showed2of24 matching IDs. All values now restored; baseline flags0.
+Boundary reconciliation	First and final rows tested positive as PO001/Pending200 and PO024/Pending201; flags TRUE, both highlighted, filter showed2of24 matching IDs. All values now restored; baseline flags 0.
 Blank limit	Delete cleared E3 without a blocking dialog, while the custom rule remained. A complete row still needs numeric Quantity; do not claim requiredness is enforced by this input rule.
 Input method limit	Tests used cell-edit mode with text pasted into the editor and Enter. Bulk range paste and CSV-imported numeric text were not tested.
 Independent work pending	No PO-TEST row was appended. New-row rule/formula/format coverage diagnosis and repair, independent report, reviewer and learner timing remain pending.
-Source boundary	Maintained Orders/Analysis/Rates and original Source Snapshot were not altered. Practice copy restored with24 original IDs and no current exceptions.
+Source boundary	Maintained Orders/Analysis/Rates and original Source Snapshot were not altered. Practice copy restored with 24 original IDs and no current exceptions.
 ```
 
 No PO-TEST row was appended. Independent new-row validation/formula/format coverage repair, bulk paste, CSV numeric text, reviewer and learner timing remain pending. Maintained Orders/Analysis/Rates and Source Snapshot were unchanged.

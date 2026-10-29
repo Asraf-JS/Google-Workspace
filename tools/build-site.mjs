@@ -26,7 +26,8 @@ async function walk(dir){for(const entry of await fs.readdir(dir,{withFileTypes:
    const [file,anchor]=token.href.split('#');const target=path.resolve(path.dirname(p),decodeURIComponent(file));
    const r=path.relative(root,target);if(!r.startsWith('..'))token.href=url(route(r))+(anchor?'#'+anchor:'');
   }}});
-  const html=marked.parse(source);
+  // Author-run evidence notes get a quieter style than learner callouts.
+  const html=marked.parse(source).replace(/<blockquote>(\n<p><strong>(?:Reference run|Validation boundary|Verification limitation|Author-run limitation):<\/strong>)/g,'<blockquote class="ref-run">$1');
   const nav=c?c.chapters.map(ch=>`<a class="nav-item" href="${url(c.path+'/'+ch.slug+'/')}"><span class="nav-number">${String(ch.number).padStart(2,'0')}</span><span class="nav-name">${escape(ch.title)}</span></a>`).join(''):'<p class="nav-hint">Choose a course to see its chapters.</p>';
   const links=courses.map(co=>`<a class="course-link ${c===co?'active':''}" href="${url(co.path+'/')}">${escape(co.title)}</a>`).join('');
   const rendered=template.replaceAll('{{base}}',base).replace('{{title}}',escape(title)).replace('{{courseTitle}}',escape(c?.title||'Programme overview')).replace('{{courseLinks}}',links).replace('{{chapterNav}}',nav).replace('{{content}}',html);
