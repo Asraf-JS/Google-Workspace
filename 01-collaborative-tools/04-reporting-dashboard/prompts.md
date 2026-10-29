@@ -16,7 +16,19 @@ Team | Planned | Actual | Variance
 Planning
 Procurement
 Site Coordination
+Total
 Pilot task status
+```
+
+Independent check labels for H2:H7 (section 4.2, step 4). Leave H5 empty. Put `=SUM(Tasks!G2:G13)` and `=SUM(Tasks!H2:H13)` in I3:I4, and `=E6=I3` and `=F6=I4` in I6:I7:
+
+```text
+Independent checks
+Planned
+Actual
+
+Planned agrees?
+Actual agrees?
 ```
 ## Part 3: Status Intake Headings
 ```text

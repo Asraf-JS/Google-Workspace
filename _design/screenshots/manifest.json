@@ -1252,19 +1252,14 @@
         "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/03-meeting-actions.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01-freeze.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01-freeze.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-01-freeze.png",
       "dimensions": [
         2360,
         1168
       ],
       "kind": "application-window",
-      "approved_crop": [
-        125,
-        40,
-        725,
-        400
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -1286,21 +1281,18 @@
         ]
       ],
       "sha256": "cfe01df707950fb1275568f8f8dc322cec5b5ef5ce785109de7855d9f3af9bb9",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01-baseline.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01-baseline.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-01-baseline.png",
       "dimensions": [
         2360,
         1168
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        105,
-        1435,
-        630
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -1322,21 +1314,18 @@
         ]
       ],
       "sha256": "d7b90b2a94b96df12a4cd80da4d9a95c081ab9c34e13c725e057f4aeb17b84d9",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01-intake-raw.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01-intake-raw.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-01-intake-raw.png",
       "dimensions": [
         2360,
         1168
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        105,
-        960,
-        340
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -1358,21 +1347,18 @@
         ]
       ],
       "sha256": "418e87d7f9acb7fd1b9f9f26a3cbeabe07680892f192b2bd3a47c27f134dd6da",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01-intake.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01-intake.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-01-intake.png",
       "dimensions": [
         2360,
         1168
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        105,
-        960,
-        460
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -1394,21 +1380,18 @@
         ]
       ],
       "sha256": "e0e7eaa32ddda799dd6cc861d7862d37d401545cb8f8c76039b6459f2a6344d7",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01-validation.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01-validation.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-01-validation.png",
       "dimensions": [
         2360,
         1168
       ],
       "kind": "application-window",
-      "approved_crop": [
-        1790,
-        65,
-        2115,
-        555
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -1430,21 +1413,18 @@
         ]
       ],
       "sha256": "17f35b5d1fb931c9999599111b437d886525129e2c8f78296b76d3a1547e96c5",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01-reject-setting.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01-reject-setting.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-01-reject-setting.png",
       "dimensions": [
         2360,
         1168
       ],
       "kind": "application-window",
-      "approved_crop": [
-        1790,
-        560,
-        2115,
-        930
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -1466,21 +1446,18 @@
         ]
       ],
       "sha256": "17f35b5d1fb931c9999599111b437d886525129e2c8f78296b76d3a1547e96c5",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01-invalid.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01-invalid.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-01-invalid.png",
       "dimensions": [
         2360,
         1168
       ],
       "kind": "application-window",
-      "approved_crop": [
-        780,
-        425,
-        1345,
-        625
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2055,
@@ -1496,123 +1473,102 @@
         ]
       ],
       "sha256": "ff51da334ceded1cab718c269505f2b5214fc9f96665c36d03248baa54a739ca",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-01.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-01.png",
       "dimensions": [
         1833,
         733
       ],
       "kind": "focused-capture",
-      "approved_crop": [
-        0,
-        0,
-        1833,
-        670
-      ],
+      "approved_crop": null,
       "privacy_masks": [],
       "sha256": "52ff9081d5614a60ef70675b9446e3a975d0bb35024411edcb829493f42bef61",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-02-counts.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-02-counts.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-02-counts.png",
       "dimensions": [
         1278,
         378
       ],
       "kind": "focused-capture",
-      "approved_crop": [
-        0,
-        0,
-        720,
-        270
-      ],
+      "approved_crop": null,
       "privacy_masks": [],
       "sha256": "f3c895bb886cb2f580a4ec03ba4a46bc7cdc61df15ca91480c024269f34ed813",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-02-team-labels.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-02-team-labels.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-02-team-labels.png",
       "dimensions": [
         1556,
         389
       ],
       "kind": "focused-capture",
-      "approved_crop": [
-        0,
-        0,
-        820,
-        270
-      ],
+      "approved_crop": null,
       "privacy_masks": [],
       "sha256": "fbe616431ca0261a3de60a61a3181751ae0c99f8ac19a1b79b585a6b1041e8c2",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-02-reconciled.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-02-reconciled.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-02-reconciled.png",
       "dimensions": [
         1722,
         367
       ],
       "kind": "focused-capture",
-      "approved_crop": [
-        0,
-        0,
-        1100,
-        290
-      ],
+      "approved_crop": null,
       "privacy_masks": [],
       "sha256": "ca7214d9ae00cbdb2227569f951f725158a2d965797e4b7ec7634003fe82bf19",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-02-first-chart.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-02-first-chart.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-02-first-chart.png",
       "dimensions": [
         1722,
         822
       ],
       "kind": "focused-capture",
-      "approved_crop": [
-        575,
-        250,
-        1215,
-        665
-      ],
+      "approved_crop": null,
       "privacy_masks": [],
       "sha256": "ca5bf891a7756ef9664d6f4d3809779952d09bb8aed8bef357d3b280bee3a866",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-02-charts.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-02-charts.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-02-charts.png",
       "dimensions": [
         1722,
         822
       ],
       "kind": "focused-capture",
-      "approved_crop": [
-        80,
-        250,
-        1440,
-        675
-      ],
+      "approved_crop": null,
       "privacy_masks": [],
       "sha256": "09383c83a2ff77da4829a1e48c3a1d81ec58bcf5c08c7078301ae0fb751ced8d",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-02-filter.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-02-filter.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-02-filter.png",
       "dimensions": [
         2913,
         1441
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        105,
-        1435,
-        355
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2562,
@@ -1628,21 +1584,18 @@
         ]
       ],
       "sha256": "4fcb69e2fa6d8cfb5d96563211f4414924b8c4aee17d8666e74a991d3d3f7dfc",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-02.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-02.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-02.png",
       "dimensions": [
         2913,
         1441
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        105,
-        1485,
-        800
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2562,
@@ -1658,21 +1611,18 @@
         ]
       ],
       "sha256": "2cdd1ea506bd81602c81ad20f0bec7719b02173f850e22ccabe42a49b5fcc949",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-03-link.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-03-link.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-03-link.png",
       "dimensions": [
         2360,
         1168
       ],
       "kind": "application-window",
-      "approved_crop": [
-        860,
-        370,
-        1265,
-        680
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -1694,21 +1644,18 @@
         ]
       ],
       "sha256": "17c3ad191d281a7e066bf0efe7dd37f866255cd4840f952307c746da6e83a07c",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-03-baseline.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-03-baseline.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-03-baseline.png",
       "dimensions": [
         2360,
         1168
       ],
       "kind": "application-window",
-      "approved_crop": [
-        585,
-        485,
-        1220,
-        940
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -1730,21 +1677,18 @@
         ]
       ],
       "sha256": "0204dc36ca9866b7984a8518a7a4a675274bec74c92a280d8c138c6803d0585e",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-03-source-changed.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-03-source-changed.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-03-source-changed.png",
       "dimensions": [
         2913,
         1441
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        105,
-        1485,
-        800
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2562,
@@ -1760,21 +1704,18 @@
         ]
       ],
       "sha256": "375059965f207a9dad009a56955a2bfd33394dbc7dd237efa3f6d5d2d54e29dc",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-03-changed.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-03-changed.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-03-changed.png",
       "dimensions": [
         2360,
         1168
       ],
       "kind": "application-window",
-      "approved_crop": [
-        585,
-        485,
-        1220,
-        940
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -1796,21 +1737,18 @@
         ]
       ],
       "sha256": "6aa9b8dd3dd288ee30bf6058c175dcbaddc52bbc167ba15f7b80ece46f90b89f",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-03-refresh-panel.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-03-refresh-panel.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-03-refresh-panel.png",
       "dimensions": [
         2360,
         1168
       ],
       "kind": "application-window",
-      "approved_crop": [
-        1790,
-        65,
-        2115,
-        570
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -1832,21 +1770,18 @@
         ]
       ],
       "sha256": "6935512b116331e91c8ed92d6ebe7c0ff57651585a871f74faaf3159018dd7e2",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-03-restored.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-03-restored.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-03-restored.png",
       "dimensions": [
         2360,
         1168
       ],
       "kind": "application-window",
-      "approved_crop": [
-        585,
-        485,
-        1220,
-        940
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -1868,21 +1803,18 @@
         ]
       ],
       "sha256": "b9f371839041af9b1dee5066fdc9dfccd5388d9759f49d4d0d837ff049650f62",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-03.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-03.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-03.png",
       "dimensions": [
         2360,
         1168
       ],
       "kind": "application-window",
-      "approved_crop": [
-        585,
-        625,
-        1220,
-        985
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -1904,21 +1836,18 @@
         ]
       ],
       "sha256": "748aa2da47efedfa995321658fbfd54855f8c7e0da3de39c00c5ce2e1e7cea81",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-new-task.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-new-task.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-challenge-new-task.png",
       "dimensions": [
         2913,
         1441
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        105,
-        1435,
-        650
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2562,
@@ -1934,21 +1863,18 @@
         ]
       ],
       "sha256": "599f57fb2d4b078acf5cb762bcd0dd3d558049d21a76e8532aa446117a55ce47",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-range-failure.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-range-failure.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-challenge-range-failure.png",
       "dimensions": [
         2913,
         1441
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        105,
-        1435,
-        800
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2562,
@@ -1964,21 +1890,18 @@
         ]
       ],
       "sha256": "22e342922fc2bb03b24d6d471dd0c48202684729a04957b4cb2aa5aa8f170a71",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-repaired.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-repaired.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-challenge-repaired.png",
       "dimensions": [
         2913,
         1441
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        105,
-        1435,
-        800
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2562,
@@ -1994,21 +1917,18 @@
         ]
       ],
       "sha256": "89af1c3747190b501c5fdaa70fad956605b83e722a4277d1b42919b99ebdbb96",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-rule.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-rule.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-challenge-rule.png",
       "dimensions": [
         2913,
         1441
       ],
       "kind": "application-window",
-      "approved_crop": [
-        2280,
-        65,
-        2615,
-        605
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2562,
@@ -2024,21 +1944,18 @@
         ]
       ],
       "sha256": "85ba7b7651e29a998d977b6b237d1652f2b1da698341a64516bf7816567bd3cc",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-positive.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-positive.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-challenge-positive.png",
       "dimensions": [
         2913,
         1441
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        535,
-        1380,
-        650
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2562,
@@ -2054,21 +1971,18 @@
         ]
       ],
       "sha256": "66d6bfa7a8d50f5a478ccca1978854bef8ce05f25899106298a8b46e9ef1516d",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-restored.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-restored.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-challenge-restored.png",
       "dimensions": [
         2913,
         1441
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        535,
-        1380,
-        650
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2562,
@@ -2084,21 +1998,18 @@
         ]
       ],
       "sha256": "5ea2a8eb74da3048c4108191899d2fc2b81da6313fe20531fb561bb96dd2b497",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-final.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-final.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-challenge-final.png",
       "dimensions": [
         2913,
         1441
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        105,
-        1435,
-        800
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2562,
@@ -2114,21 +2025,18 @@
         ]
       ],
       "sha256": "3e59a80376948439e523c29dba1f4374eefeb5e2729a180fcf9d7e92894f6d22",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-brief.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-brief.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-challenge-brief.png",
       "dimensions": [
         2360,
         1168
       ],
       "kind": "application-window",
-      "approved_crop": [
-        585,
-        160,
-        1210,
-        575
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -2150,21 +2058,18 @@
         ]
       ],
       "sha256": "3a28540aefb4f232ba710d48e4cc746efce85e3c9c9d52beacaf39c593fddb6e",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-log.jpg": {
+    "01-collaborative-tools/04-reporting-dashboard/images/c01-04-challenge-log.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/04-reporting-dashboard/c01-04-challenge-log.png",
       "dimensions": [
         2360,
         1168
       ],
       "kind": "application-window",
-      "approved_crop": [
-        585,
-        640,
-        1220,
-        985
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -2186,7 +2091,9 @@
         ]
       ],
       "sha256": "93c7f08ea2c4b584ad481c5afd7c0e4a8ce413d6baa1724a727e07fb2c3c1548",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
     "01-collaborative-tools/05-evidence-update/images/c01-05-created.jpg": {
       "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-created.png",
