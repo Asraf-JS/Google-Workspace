@@ -16158,7 +16158,7 @@
         "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/07-sharing-print.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-01-private-workbook-copy.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-01-private-workbook-copy.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-01-private-workbook-copy.png",
       "dimensions": [
         1591,
@@ -16176,10 +16176,11 @@
       ],
       "sha256": "7cc5fdbe37c7f62635e2fd579d4b28d35937326d1aaee90ac93229e16f207192",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-02-named-challenge-baseline.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-02-named-challenge-baseline.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-02-named-challenge-baseline.png",
       "dimensions": [
         1591,
@@ -16197,10 +16198,11 @@
       ],
       "sha256": "e3ad96d872e65ec9768d0b5be346be3a4e8b30e68128398e5472ad01af826c47",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-03-thirteenth-task-before-extensions.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-03-thirteenth-task-before-extensions.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-03-thirteenth-task-before-extensions.png",
       "dimensions": [
         1591,
@@ -16218,10 +16220,11 @@
       ],
       "sha256": "6685ce57749918068e1c3d1691600fd81d3c1d8f55e1f27f50ff969fe65f696c",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-04-new-row-variance.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-04-new-row-variance.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-04-new-row-variance.png",
       "dimensions": [
         1591,
@@ -16239,10 +16242,11 @@
       ],
       "sha256": "c48e2d009c3d7fda7b6bb2e037656b21dc6712bbaad25e3945c1d167fd33fb0f",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-05-status-rule-extended.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-05-status-rule-extended.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-05-status-rule-extended.png",
       "dimensions": [
         1591,
@@ -16260,10 +16264,11 @@
       ],
       "sha256": "fcb7a827d3b335f261aa4d94ff5d278bb68f78166b64d2cdb2bd64990e645bcb",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-06-task-controls-extended.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-06-task-controls-extended.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-06-task-controls-extended.png",
       "dimensions": [
         1591,
@@ -16281,10 +16286,11 @@
       ],
       "sha256": "39aa64b9e2b53641f2ae28baac1ce95cd41452de9ef903e4a7f46ab546ad0c0f",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-07-challenge-named-range.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-07-challenge-named-range.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-07-challenge-named-range.png",
       "dimensions": [
         1591,
@@ -16302,10 +16308,11 @@
       ],
       "sha256": "b5243bad95477e73375392bf05c17cb893670353e29a0179660708bb57f99722",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-08-thirteen-record-summary.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-08-thirteen-record-summary.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-08-thirteen-record-summary.png",
       "dimensions": [
         1591,
@@ -16323,10 +16330,11 @@
       ],
       "sha256": "3f48ed0ef99d24637d7d98f58652a835e8ac54cb61ed940df66d64486a3b8efa",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-09-deliberate-wrong-row-reference.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-09-deliberate-wrong-row-reference.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-09-deliberate-wrong-row-reference.png",
       "dimensions": [
         1591,
@@ -16344,10 +16352,11 @@
       ],
       "sha256": "477b3216864b83b261d5cf4fea290ba9f37aff5d501c3f642e96e1019a1ee187",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-10-variance-reference-repaired.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-10-variance-reference-repaired.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-10-variance-reference-repaired.png",
       "dimensions": [
         1591,
@@ -16365,10 +16374,11 @@
       ],
       "sha256": "0750ed028724ea1cd7fa1de554f9686a2091669a209f1c80b3c1b1fd2f429a99",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-11-reconciled-thirteen-record-totals.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-11-reconciled-thirteen-record-totals.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-11-reconciled-thirteen-record-totals.png",
       "dimensions": [
         1591,
@@ -16386,10 +16396,11 @@
       ],
       "sha256": "2632fbd602d78ae14acd6896582c2886ea1a2096e4e8f9d86052391668e98112",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-12-extended-summary-and-findings.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-12-extended-summary-and-findings.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-12-extended-summary-and-findings.png",
       "dimensions": [
         1591,
@@ -16407,10 +16418,11 @@
       ],
       "sha256": "0ce63b6f385e9c3a5e69d42e9db1de33af4fc6de6b4c4303c5d759b6b6b52f0f",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-13-new-row-status-rejection.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-13-new-row-status-rejection.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-13-new-row-status-rejection.png",
       "dimensions": [
         1591,
@@ -16428,10 +16440,11 @@
       ],
       "sha256": "2756c365df40d2b10a08a0593eab27c4ccf1b92f1cb655b35d072b57b0d36ebc",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-14-valid-status-retained.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-14-valid-status-retained.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-14-valid-status-retained.png",
       "dimensions": [
         1591,
@@ -16449,10 +16462,11 @@
       ],
       "sha256": "26d6d12b0ad38fe7e7e3403ee569c5e919e29cd6aa96c8a780ae0d422532a6f5",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-15-checked-reference-explanation.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-15-checked-reference-explanation.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-15-checked-reference-explanation.png",
       "dimensions": [
         1591,
@@ -16470,10 +16484,11 @@
       ],
       "sha256": "6f4fe5017956d582bb4e9c1a744e9c2dbf45ed47f8a64ed4e3efdc000d126b85",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-16-range-coverage-log.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-16-range-coverage-log.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-16-range-coverage-log.png",
       "dimensions": [
         1591,
@@ -16491,10 +16506,11 @@
       ],
       "sha256": "390f281b7567c5f8759aded10132f0c6fc2ec282d1d94d5d902e03a3c08305ce",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-17-all-variance-formulas.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-17-all-variance-formulas.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-17-all-variance-formulas.png",
       "dimensions": [
         1591,
@@ -16512,10 +16528,11 @@
       ],
       "sha256": "5e6ba936514e8fed60018922b5964ce00023cee160fc923910f98261b1a09d3b",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-18-before-cost-correction-controls.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-18-before-cost-correction-controls.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-18-before-cost-correction-controls.png",
       "dimensions": [
         1591,
@@ -16533,10 +16550,11 @@
       ],
       "sha256": "5e95bc356bc3a56e822c7af95bfcf5927b778c3078fb6a4342c8743db0c916d7",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-19-two-method-controls-and-prediction.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-19-two-method-controls-and-prediction.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-19-two-method-controls-and-prediction.png",
       "dimensions": [
         1591,
@@ -16554,10 +16572,11 @@
       ],
       "sha256": "136b01b4d672cfd3df1feeef20675cd529cc5f59585d2b6429a51c76e228e1c0",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-20-corrected-actual-cost-row.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-20-corrected-actual-cost-row.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-20-corrected-actual-cost-row.png",
       "dimensions": [
         1591,
@@ -16575,10 +16594,11 @@
       ],
       "sha256": "4a163a48c3faed01a9271eedabaa2c33ab2af84afc5deca7e0ca22740c12bbac",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-21-corrected-summary-controls.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-21-corrected-summary-controls.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-21-corrected-summary-controls.png",
       "dimensions": [
         1591,
@@ -16596,10 +16616,11 @@
       ],
       "sha256": "ec4047c1ff54486575c1a44c0bd780fa0be09d0e880686e9db53f5bf3412429d",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-22-corrected-two-method-reconciliation.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-22-corrected-two-method-reconciliation.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-22-corrected-two-method-reconciliation.png",
       "dimensions": [
         1591,
@@ -16617,10 +16638,11 @@
       ],
       "sha256": "0b78d32bb0300101fc2238ec40246885a44c608027c57d9ae2a82ce1f1bf9e92",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-23-extended-incomplete-view.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-23-extended-incomplete-view.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-23-extended-incomplete-view.png",
       "dimensions": [
         1591,
@@ -16638,10 +16660,11 @@
       ],
       "sha256": "a6b76fe9073ac572663bfc22dafd46bf6f336cd4fdb65eb8544c96ec4c70b461",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-24-planning-view-includes-t013.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-24-planning-view-includes-t013.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-24-planning-view-includes-t013.png",
       "dimensions": [
         1591,
@@ -16659,10 +16682,11 @@
       ],
       "sha256": "4ef0b3379270384c58d56836afe02f5334fa125b3c9acbce1f6bfc1ca33d0406",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-25-all-thirteen-records-restored.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-25-all-thirteen-records-restored.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-25-all-thirteen-records-restored.png",
       "dimensions": [
         1591,
@@ -16680,10 +16704,11 @@
       ],
       "sha256": "da362b3df0a384de5b8ad33b20f5c9dee9a1d887e0ebdc5446a8ace9e535d974",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-26-corrected-sponsor-summary.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-26-corrected-sponsor-summary.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-26-corrected-sponsor-summary.png",
       "dimensions": [
         1591,
@@ -16701,10 +16726,11 @@
       ],
       "sha256": "03adaf0ab70129b3c4e2c710b55d4a9452a8ff96ec8127cba63b6ad9192e12d8",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-27-challenge-export-preview.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-27-challenge-export-preview.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-27-challenge-export-preview.png",
       "dimensions": [
         1591,
@@ -16715,10 +16741,11 @@
       "privacy_masks": [],
       "sha256": "3b361f1f091acd5eecaa89b0f5245af74a96453a3fbec7ea595a3e9c8532a867",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-28-corrected-challenge-pdf-page.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-28-corrected-challenge-pdf-page.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-28-corrected-challenge-pdf-page.png",
       "dimensions": [
         1191,
@@ -16729,10 +16756,11 @@
       "privacy_masks": [],
       "sha256": "866b6e112cb62f1b43d46a70d2729f113e2f208154b47ff763437d118c38e4f9",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-29-operating-guide-and-export-identity.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-29-operating-guide-and-export-identity.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-29-operating-guide-and-export-identity.png",
       "dimensions": [
         1591,
@@ -16750,10 +16778,11 @@
       ],
       "sha256": "82d71567542ae9b1b31432ed3ffa809765f03e6ce3defd75975a6c00b94a1f45",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-30-final-coverage-and-control-table.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-30-final-coverage-and-control-table.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-30-final-coverage-and-control-table.png",
       "dimensions": [
         1591,
@@ -16771,10 +16800,11 @@
       ],
       "sha256": "83f4bef0ab8fb84dcecc022cc4c4c091d128d21f91e7a36c43322dbcb6a71334",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-31-original-baseline-preserved.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-31-original-baseline-preserved.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-31-original-baseline-preserved.png",
       "dimensions": [
         1591,
@@ -16792,10 +16822,11 @@
       ],
       "sha256": "b936099c400f1e83e6c178d922e87a7faafada211618bb60908f8d2a63976061",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-32-corrected-challenge-handover.jpg": {
+    "04-sheets-foundation-intermediate/08-register-challenge/images/c04-08-32-corrected-challenge-handover.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/08-register-challenge/c04-08-32-corrected-challenge-handover.png",
       "dimensions": [
         1591,
@@ -16813,7 +16844,8 @@
       ],
       "sha256": "642753584805bfa35e163e4c4cc561ef6cca277309cc329c3bc826efdfa3b42f",
       "notes": [
-        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending."
+        "Actual staged learner UI or complete page render from native downloaded challenge PDF; no crop or resize. Account avatar masked on application views, export controls retained. Separate corrected 13-record workbook retained; original 12-record baseline unchanged. First status-range text edit failed to commit, repaired through picker and verified by actual rejection. Partner/T014/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
     "05-sheets-advanced/01-source-audit/images/c05-01-01-empty-advanced-folder.jpg": {
