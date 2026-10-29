@@ -12271,7 +12271,7 @@
         "Full original-size current-stage source retained; no cropping or rescaling. Native learner UI except explicitly labelled offline renders of the actual native PDF export. Human speech, reviewer acceptance and independent challenge remain pending."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-01-empty-foundation-practice-folder.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-01-empty-foundation-practice-folder.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-01-empty-foundation-practice-folder.png",
       "dimensions": [
         1432,
@@ -12289,10 +12289,11 @@
       ],
       "sha256": "16cb8d3a7e6d6f5b0e437d8563f80a832b989e2cf0f8265a52151137f415b9b6",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-02-uploaded-original-xlsx.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-02-uploaded-original-xlsx.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-02-uploaded-original-xlsx.png",
       "dimensions": [
         1432,
@@ -12316,10 +12317,11 @@
       ],
       "sha256": "c7d33ae10fb911e7ce37cbab47033719c81dcddfe0c4dc8bfbd7d24c993aa32c",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-03-excel-format-save-as-google-sheets.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-03-excel-format-save-as-google-sheets.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-03-excel-format-save-as-google-sheets.png",
       "dimensions": [
         1591,
@@ -12337,10 +12339,11 @@
       ],
       "sha256": "9cdb26c87c1098a9ccde3b8fe4460cfeae26d11262e89c9fe788f76f2fede90d",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-04-named-native-copy-two-tabs.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-04-named-native-copy-two-tabs.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-04-named-native-copy-two-tabs.png",
       "dimensions": [
         1591,
@@ -12358,10 +12361,11 @@
       ],
       "sha256": "d50bbffcb0a6d487979ed5202f7f0834e7736aa0622cc049242be4598fc0e96b",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-05-select-full-source-range.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-05-select-full-source-range.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-05-select-full-source-range.png",
       "dimensions": [
         1591,
@@ -12379,10 +12383,11 @@
       ],
       "sha256": "567bba52c541a781dfb9e64d2e428cd217d6ad908ae6e327764032421d5f90ff",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-06-d5-owner-and-task-record.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-06-d5-owner-and-task-record.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-06-d5-owner-and-task-record.png",
       "dimensions": [
         1591,
@@ -12400,10 +12405,11 @@
       ],
       "sha256": "4bc55ea765e9965a934a81bd06dd1d392ba3b541afbf9a484a80c3e12c212ac8",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-07-summary-tab-before-calculations.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-07-summary-tab-before-calculations.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-07-summary-tab-before-calculations.png",
       "dimensions": [
         1591,
@@ -12421,10 +12427,11 @@
       ],
       "sha256": "d31a8b5755cc7d62c1fa04b21f50f9342dd7b7e61f3300cd9d8d9952a13dd5a8",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-08-named-navigation-practice-duplicate.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-08-named-navigation-practice-duplicate.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-08-named-navigation-practice-duplicate.png",
       "dimensions": [
         1591,
@@ -12442,10 +12449,11 @@
       ],
       "sha256": "73e167472f060cdd10afa5c1c4435e64eeb094f5a30356c51b5bcf876817c8eb",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-09-practice-only-label-and-resized-column.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-09-practice-only-label-and-resized-column.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-09-practice-only-label-and-resized-column.png",
       "dimensions": [
         1591,
@@ -12463,10 +12471,11 @@
       ],
       "sha256": "b7f5c7cbc71852a49d28ff85dd1731ba4023d6edf91b5338bc5d6425629e1540",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-10-original-tasks-after-practice-edit.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-10-original-tasks-after-practice-edit.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-10-original-tasks-after-practice-edit.png",
       "dimensions": [
         1591,
@@ -12484,10 +12493,11 @@
       ],
       "sha256": "3074affbe306c2017e88bb3a19053cf365ae6c1964a01f2128a25ce3cf78b0d3",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-11-workbook-guide-tab-purposes.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-11-workbook-guide-tab-purposes.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-11-workbook-guide-tab-purposes.png",
       "dimensions": [
         1591,
@@ -12505,10 +12515,11 @@
       ],
       "sha256": "83146e0d44b9b6b373d2d15b3865c05c870483300a91153d7de141a37ee60599",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-12-source-address-a2.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-12-source-address-a2.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-12-source-address-a2.png",
       "dimensions": [
         1591,
@@ -12526,10 +12537,11 @@
       ],
       "sha256": "74bc6f5aba3a92d6248d63e140f687c967527ba8d7499cf87b85a209416a6bfa",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-13-source-address-d5.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-13-source-address-d5.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-13-source-address-d5.png",
       "dimensions": [
         1591,
@@ -12547,10 +12559,11 @@
       ],
       "sha256": "7d53890a1fd3676b63a78f3f0bc44490678ab96900adef03ddf01c280a0014af",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-14-source-address-f8.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-14-source-address-f8.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-14-source-address-f8.png",
       "dimensions": [
         1591,
@@ -12568,10 +12581,11 @@
       ],
       "sha256": "e00f2d6b5453211401a9cb8c2fb63e9a8fa66d102179adef890ff538c2b4624d",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-15-source-address-h13.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-15-source-address-h13.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-15-source-address-h13.png",
       "dimensions": [
         1591,
@@ -12589,10 +12603,11 @@
       ],
       "sha256": "ef329c795f9bbc4af66824de5f8ce99e02e096f8f856c293e3954e7ffdd84314",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-16-four-address-record-checks-in-guide.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-16-four-address-record-checks-in-guide.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-16-four-address-record-checks-in-guide.png",
       "dimensions": [
         1591,
@@ -12610,10 +12625,11 @@
       ],
       "sha256": "db917653f88e7f0ce4aab4f45f9d5ab69c45d46d52ad979511ca306e91ae5a6e",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-17-three-record-entry-practice-reconstruction.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-17-three-record-entry-practice-reconstruction.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-17-three-record-entry-practice-reconstruction.png",
       "dimensions": [
         1591,
@@ -12631,10 +12647,11 @@
       ],
       "sha256": "421ba1a7e49d4c2fa06858f075b947145e718549a6b0cd4a04abd72c1458d2d6",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-18-select-one-cell.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-18-select-one-cell.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-18-select-one-cell.png",
       "dimensions": [
         1591,
@@ -12652,10 +12669,11 @@
       ],
       "sha256": "128569a5016a8573cc8047ef604fa084ee54c20158ee7d71cc46f2c172e8c715",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-19-select-complete-row.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-19-select-complete-row.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-19-select-complete-row.png",
       "dimensions": [
         1591,
@@ -12673,10 +12691,11 @@
       ],
       "sha256": "aea19099c9e23a2597bcdfa6705ff958499d15e5b3743901d8d79201fd8ae969",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-20-select-whole-column.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-20-select-whole-column.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-20-select-whole-column.png",
       "dimensions": [
         1591,
@@ -12694,10 +12713,11 @@
       ],
       "sha256": "3ae2260a3d0889a595cf283e490436401535791fe85292e948600613917f5afe",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-21-select-header-and-three-records.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-21-select-header-and-three-records.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-21-select-header-and-three-records.png",
       "dimensions": [
         1591,
@@ -12715,10 +12735,11 @@
       ],
       "sha256": "d3cae2624897bb184e93587190888f65d675de3cb3fd89fbce219def73b53d01",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-22-reconstruction-and-selection-checks-recorded.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-22-reconstruction-and-selection-checks-recorded.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-22-reconstruction-and-selection-checks-recorded.png",
       "dimensions": [
         1591,
@@ -12736,10 +12757,11 @@
       ],
       "sha256": "4b0dd27c8c0aacf871da994134a749af00a520dfffb2ef676db117e3aaedb6dc",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-23-entry-practice-reordered-after-navigation.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-23-entry-practice-reordered-after-navigation.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-23-entry-practice-reordered-after-navigation.png",
       "dimensions": [
         1591,
@@ -12757,10 +12779,11 @@
       ],
       "sha256": "918822e73b721af2fd58d078435fd93d666d45e432e1f33cb45f15884ab1ddaa",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-24-native-and-original-file-types-in-folder.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-24-native-and-original-file-types-in-folder.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-24-native-and-original-file-types-in-folder.png",
       "dimensions": [
         1432,
@@ -12790,10 +12813,11 @@
       ],
       "sha256": "49f21732911c37674a1e3b87db714aa9470218e21cbd7f1a6007c22e6508b67a",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-25-reopened-workbook-source-identity-and-edit-instructions.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-25-reopened-workbook-source-identity-and-edit-instructions.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-25-reopened-workbook-source-identity-and-edit-instructions.png",
       "dimensions": [
         1591,
@@ -12811,10 +12835,11 @@
       ],
       "sha256": "5b94004a7db7af09d2ce441106760a363af5f1b9f369464b41dcb58125992afd",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-26-complete-workbook-guide-after-reopen.jpg": {
+    "04-sheets-foundation-intermediate/01-workbook-basics/images/c04-01-26-complete-workbook-guide-after-reopen.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/01-workbook-basics/c04-01-26-complete-workbook-guide-after-reopen.png",
       "dimensions": [
         1591,
@@ -12832,10 +12857,11 @@
       ],
       "sha256": "98e33a71a459d49b0c9ca1c37fa8e534b715e51dd19731d341029fb44ec0c032",
       "notes": [
-        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed."
+        "Actual current-stage learner UI; uncropped original dimensions retained. Account/owner avatar regions masked. Original XLSX uploaded manually by the instructor because browser upload permission remained blocked. Conversion, navigation and practice/casework performed in native UI. Independent challenge and learner timing remain unperformed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/01-workbook-basics.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-01-numeric-cost-in-formula-bar.jpg": {
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-01-numeric-cost-in-formula-bar.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-01-numeric-cost-in-formula-bar.png",
       "dimensions": [
         1591,
@@ -12853,10 +12879,11 @@
       ],
       "sha256": "d7ecfbff8ab42301d0797e1ad35c72a7afd6ad88dcb6ceddc2011e14cbbcc40f",
       "notes": [
-        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/02-format-data.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-02-custom-ringgit-no-decimals-selected.jpg": {
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-02-custom-ringgit-no-decimals-selected.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-02-custom-ringgit-no-decimals-selected.png",
       "dimensions": [
         1591,
@@ -12874,10 +12901,11 @@
       ],
       "sha256": "23b25e8dc169711aaf2c1c55e9a90242dab9194b953b3f2ebc2546583b3af4ec",
       "notes": [
-        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/02-format-data.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-03-cost-range-displays-ringgit-numeric-values.jpg": {
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-03-cost-range-displays-ringgit-numeric-values.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-03-cost-range-displays-ringgit-numeric-values.png",
       "dimensions": [
         1591,
@@ -12895,10 +12923,11 @@
       ],
       "sha256": "db304cc0353a810c5157765d57883d8085ce55c4df36a936f54abee6668df8eb",
       "notes": [
-        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/02-format-data.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-04-week-index-whole-number-not-date.jpg": {
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-04-week-index-whole-number-not-date.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-04-week-index-whole-number-not-date.png",
       "dimensions": [
         1591,
@@ -12916,10 +12945,11 @@
       ],
       "sha256": "87a4852914050aa0ff6f6879c2df6d240c34ea92f3689ae8343bfe3009f24630",
       "notes": [
-        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/02-format-data.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-05-retain-readable-header-contrast.jpg": {
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-05-retain-readable-header-contrast.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-05-retain-readable-header-contrast.png",
       "dimensions": [
         1591,
@@ -12937,10 +12967,11 @@
       ],
       "sha256": "e6c6c75db4c0ad7921b85ccecd014e1d1b2fe41ac08c60e5faeac458f333f12a",
       "notes": [
-        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/02-format-data.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-06-wrapped-task-text-and-readable-owner-widths.jpg": {
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-06-wrapped-task-text-and-readable-owner-widths.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-06-wrapped-task-text-and-readable-owner-widths.png",
       "dimensions": [
         1591,
@@ -12958,10 +12989,11 @@
       ],
       "sha256": "774f72e40c767dc1c59c3a9906ffaedff8a1e668142bd72eab4d33268b843023",
       "notes": [
-        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/02-format-data.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-07-fit-source-row-heights-to-data.jpg": {
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-07-fit-source-row-heights-to-data.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-07-fit-source-row-heights-to-data.png",
       "dimensions": [
         1591,
@@ -12979,10 +13011,11 @@
       ],
       "sha256": "fac7355d03b3e787b53450cf6379a638cde3588cc128acaf25d749e466087472",
       "notes": [
-        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/02-format-data.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-08-practice-date-outside-source-register.jpg": {
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-08-practice-date-outside-source-register.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-08-practice-date-outside-source-register.png",
       "dimensions": [
         1591,
@@ -13000,10 +13033,11 @@
       ],
       "sha256": "e9e58bd7119f067491bbf36264c996182257d8111bb66e8d89aff16c8e3cde19",
       "notes": [
-        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/02-format-data.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-09-numeric-ringgit-practice-formula-bar.jpg": {
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-09-numeric-ringgit-practice-formula-bar.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-09-numeric-ringgit-practice-formula-bar.png",
       "dimensions": [
         1591,
@@ -13021,10 +13055,11 @@
       ],
       "sha256": "1e7a26c8a7d73c86e702af7acc3280a2179ce39a6547399b68cbc052b86015cb",
       "notes": [
-        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/02-format-data.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-10-text-cost-practice-formula-bar.jpg": {
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-10-text-cost-practice-formula-bar.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-10-text-cost-practice-formula-bar.png",
       "dimensions": [
         1591,
@@ -13042,10 +13077,11 @@
       ],
       "sha256": "4bb21e3b10da7aca95a92f2dec955e5133f3e9fce60e87c859ccd97feee210e5",
       "notes": [
-        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/02-format-data.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-11-labelled-type-test-inputs-on-entry-practice.jpg": {
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-11-labelled-type-test-inputs-on-entry-practice.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-11-labelled-type-test-inputs-on-entry-practice.png",
       "dimensions": [
         1591,
@@ -13063,10 +13099,11 @@
       ],
       "sha256": "26e580637a4b228ccbb173e7805b2a5f14d4f903e5977317eb4ad78eff742254",
       "notes": [
-        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/02-format-data.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-12-sum-count-check-distinguishes-number-and-text.jpg": {
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-12-sum-count-check-distinguishes-number-and-text.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-12-sum-count-check-distinguishes-number-and-text.png",
       "dimensions": [
         1591,
@@ -13084,10 +13121,11 @@
       ],
       "sha256": "e1183689ac57e4bee448160fdf232ef8f2b5f1715818ca913b44e3b0b8917f61",
       "notes": [
-        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/02-format-data.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-13-practice-table-header-wrap-and-number-formats.jpg": {
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-13-practice-table-header-wrap-and-number-formats.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-13-practice-table-header-wrap-and-number-formats.png",
       "dimensions": [
         1591,
@@ -13105,10 +13143,11 @@
       ],
       "sha256": "d7d1132c43ea31734bc8496af109409cd8e410f7c74ee9c9f92e44c7e3ed4622",
       "notes": [
-        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/02-format-data.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-14-paste-comparison-targets-before-transfer.jpg": {
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-14-paste-comparison-targets-before-transfer.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-14-paste-comparison-targets-before-transfer.png",
       "dimensions": [
         1591,
@@ -13126,10 +13165,11 @@
       ],
       "sha256": "ac919c40d6060fbbd44fc493662d8bb28c2e5169e693c433ab1e67b16dca53e2",
       "notes": [
-        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/02-format-data.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-16-paste-special-format-only-command.jpg": {
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-16-paste-special-format-only-command.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-16-paste-special-format-only-command.png",
       "dimensions": [
         1591,
@@ -13147,10 +13187,11 @@
       ],
       "sha256": "a3dab69dd1ffc9be78e937a702dcbecbd9d7e0d576f41bd6299dcb5eb38da745",
       "notes": [
-        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/02-format-data.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-17-format-only-keeps-target-value-123.jpg": {
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-17-format-only-keeps-target-value-123.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-17-format-only-keeps-target-value-123.png",
       "dimensions": [
         1591,
@@ -13168,10 +13209,11 @@
       ],
       "sha256": "f124119a6d118403a9e83748b09f57913612ec17019798d817ea7a60423c7850",
       "notes": [
-        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/02-format-data.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-18-observations-and-source-numeric-counts-recorded.jpg": {
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-18-observations-and-source-numeric-counts-recorded.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-18-observations-and-source-numeric-counts-recorded.png",
       "dimensions": [
         1591,
@@ -13189,10 +13231,11 @@
       ],
       "sha256": "fe1094c4a6c1382b3f5814436a836e29819081c6394fc52c2a0324b3eb309819",
       "notes": [
-        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/02-format-data.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-19-final-source-values-preserved-after-formatting.jpg": {
+    "04-sheets-foundation-intermediate/02-format-data/images/c04-02-19-final-source-values-preserved-after-formatting.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/02-format-data/c04-02-19-final-source-values-preserved-after-formatting.png",
       "dimensions": [
         1591,
@@ -13210,7 +13253,8 @@
       ],
       "sha256": "1cccc55c3b459fa4ecde2fd0f01b0ddeeeaf4679e433afb2746bcb309abd6356",
       "notes": [
-        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; full original dimensions retained without cropping/rescaling. Account avatar masked. Source values unchanged; practice dates do not establish a pilot start. Values-only target-format preservation remains unverified: both shortcut and direct menu carried currency formatting in this controlled session. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/02-format-data.json (crop and boxes in 1600 px coordinates)."
       ]
     },
     "04-sheets-foundation-intermediate/03-basic-calculations/images/c04-03-01-first-variance.jpg": {
