@@ -69,3 +69,7 @@ Three deliberate claims reviewed, three input categories classified, one real un
 ## Evidence trail
 
 Original fictional inputs: [fact sheet](../../shared/sample-files/project-facts.txt), [scripted meeting](../../shared/sample-files/meeting-record.txt), [proposed guidance](../../shared/sample-files/reporting-guidance.txt) and [deliberate review examples](../../shared/sample-files/review-examples.txt). The real generated examples are recorded in [Lab 2](../02-prompt-design/README.md): the sponsor refinement and source-free generic template. This reference uses those observed outputs; it does not claim a new model test.
+
+## Staged UI casework — 29 October 2026
+
+A separate casework file was built through the learner-facing UI from the original inputs, with nine full-dimension staged captures. Four native tables and a nine-item protocol were verified by readback, and its nine-page PDF was inspected. The existing reference above remains available. The staged examples use earlier Lab 2 outputs, so later exercises are absent from the screenshots. Human, independent and classroom limitations remain unchanged.

@@ -4,7 +4,7 @@ This review book accompanies Gemini Notebook and Gemini. Work through its chapte
 
 ## Current Status
 
-Labs 1–5 and 7–8 include 116 author-reference screenshots. Lab 6 has a checked written reference, with UI captures pending. Lab 5 listening was skipped after 403, and the separate Lab 7 repair rerun remains unscored. Lab 8 records a checked fresh-session FAQ and version 1.1 playbook. Human effort comparisons, partner/independent checks, spoken handover and classroom timing remain unvalidated. This is a review draft.
+All eight AI labs now include staged author-reference captures (125 total). Lab 5 listening was skipped after 403, and the separate Lab 7 repair rerun remains unscored. Lab 6 has staged UI casework and Lab 8 has a checked fresh-session FAQ and version 1.1 playbook. Human effort comparisons, policy/rights decisions, partner/independent checks, spoken handover and classroom timing remain unvalidated. This is a review draft.
 
 Gemini Notebook was formerly NotebookLM. The [official rename announcement](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/) was published on 16 July 2026.
 
