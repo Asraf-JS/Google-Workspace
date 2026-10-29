@@ -24,6 +24,8 @@ Read the [case input](./prompts.md) and use a separate named casework copy for d
 
 Use your own procedure. A partner exercise requires a trainer-approved test account and explicit classroom sharing instructions.
 
+This lab reviews three sentences you wrote earlier, so find them first. In the purpose statement: `The RM 12000 budget remains a proposed ceiling, and the pilot start date remains unagreed.` and the routing sentence that starts `The submission channel, review recipient, cut-off time`. In procedure step 5: `The fact sheet requires Friday reporting.` If your wording is different, replace it with the reference sentences on the [Lab 1 prompts page](../01-document-sources/prompts.md) (Part 8) and the [Lab 2 prompts page](../02-draft-procedure/prompts.md) (Part 6) before you start.
+
 ## 5.1 Practise Suggestions
 
 1. Open the editing-mode menu at the upper right and choose **Suggesting**. Edits now become proposals.
@@ -134,7 +136,7 @@ A named milestone is present and the current checked wording remains intact.
 
 **Reference-run result:** the four requests have accept/reject/defer or verified-no-change decisions. The comparison used the documented manual fallback after the native picker remained blank.
 
-1. Create a **Review Log** with Change request, Evidence, Accept/reject/defer and Reason. Use all four requests from the card.
+1. Create a **Review Log** with Change request, Evidence, Accept/reject/defer and Reason. Use all four review requests in Part 2 of the prompts page.
 
 2. Name the current version `Procedure editorial review - baseline` before applying the controlled-review edits. Record that name and `project-facts.txt`, with the checked brief and reporting guidance as supporting inputs.
 
@@ -162,13 +164,13 @@ Make the budget approval request as a separate suggestion. Post the source-based
 
 *The maintained procedure retains proposed wording after rejection.*
 
-4. Select the unresolved routing sentence and add the missing-contact comment from the prompts page. Ask for the responsible role and authorised contact to be confirmed. Keep this comment **open**; no contact is supplied by the sources.
+4. Select the routing sentence in the purpose statement (it starts `The submission channel, review recipient`) and add the missing-contact comment from the prompts page. Ask for the responsible role and authorised contact to be confirmed. Keep this comment **open**; no contact is supplied by the sources.
 
 ![The missing-contact question remains open and asks for role confirmation](./images/c02-05-20-contact-deferred-open.png)
 
 *The missing-contact question remains open and asks for role confirmation.*
 
-5. On **The fact sheet requires Friday reporting.**, post the cadence question, then reply from the source. The reference sentence already matches, so record **no change**. Resolve only that editorial check; budget, start date and routing questions remain open.
+5. In procedure step 5, select **The fact sheet requires Friday reporting.** and post the cadence question, then reply from the source. The reference sentence already matches, so record **no change**. Resolve only that editorial check; budget, start date and routing questions remain open.
 
 ![A separate editorial comment asks whether Friday matches the fact sheet](./images/c02-05-21-friday-question-posted.png)
 

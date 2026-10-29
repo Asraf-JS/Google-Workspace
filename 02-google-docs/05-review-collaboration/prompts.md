@@ -32,7 +32,7 @@ Record the task ID, recorded owner and one supported status. Add a short excepti
 
 ## Part 4: Deliberately Incorrect Suggestion (Reject It)
 
-Select the opening budget/start-date sentence and suggest the following replacement. It is unsupported practice wording and must be rejected.
+In the purpose statement, select `The RM 12000 budget remains a proposed ceiling, and the pilot start date remains unagreed.` and suggest the following replacement. It is unsupported practice wording and must be rejected.
 
 ```text
 The RM 12000 budget is approved, and the pilot start date remains unagreed.
@@ -90,5 +90,5 @@ Is Friday the reporting cadence in the supplied project fact sheet? Check the so
 ```
 
 ```text
-Confirmed from project-fact-sheet.txt: the update is required every Friday. The existing sentence already matches, so no wording change is needed. Resolve this editorial cadence check only; the budget approval, calendar start and routing decisions remain open.
+Confirmed from project-facts.txt: the update is required every Friday. The existing sentence already matches, so no wording change is needed. Resolve this editorial cadence check only; the budget approval, calendar start and routing decisions remain open.
 ```

@@ -114,6 +114,16 @@ Paper walkthrough B - incomplete card T-TEST-A
 Submission distinction
 ```
 
+Reference wording for the repaired step 4 (step 2) and the rewritten step 5 (step 5). Lab 5 reviews the Friday sentence in step 5, so keep it in your version.
+
+```text
+4. Check the three proposed guidance categories: Not Started means work has not begun; In Progress means work has begun without owner-confirmed completion; Complete means the owner has confirmed the agreed output is ready for review. Preserve an unfamiliar label as a clarification query rather than inventing a mapping.
+```
+
+```text
+5. Prepare a review-ready draft containing task ID, recorded owner, one supported status and an exception note when needed. The fact sheet requires Friday reporting. Before sending, obtain agreement on the submission channel, review recipient and cut-off time; if any is missing, retain the draft and record a routing query. This exercise sends nothing.
+```
+
 | Record type | Observable distinction |
 |---|---|
 | Complete submission | |
