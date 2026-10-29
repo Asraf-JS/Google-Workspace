@@ -269,3 +269,7 @@ AI8 adds17 original-dimension captures: versioned playbook, three-source manifes
 ### 29 October 2026: AI6 staged casework catch-up
 
 AI6 UI capture catch-up adds nine original-dimension stages in a separate casework file: original claims, evidence classifications, hypothetical inputs/policy questions, escalation, earlier-Lab2 output distinctions, critique-only source instruction, nine-item review protocol, separate author second pass and checked handover. Four native tables verified; nine-page PDF inspected. No real confidential input, external send or permission change. No human policy decision, partner agreement, independent challenge or classroom timing claimed. Programme1,201 images;1,198 retained originals;125 AI captures. All50 draft chapters have staged author references; this does not establish full classroom validation.
+
+## Final lossless image pass — 29 October 2026
+
+The [image optimization report](./IMAGE-OPTIMIZATION.md) records 2,399 verified images and 134,445,408 bytes saved (17.65%). All image dimensions, decoded pixels and checked color/EXIF metadata were preserved. All 888 rebuilt book pages matched their baseline rendered pixels and extracted text. These packaging checks do not complete the remaining learner, human, timing or feature-specific validation.
