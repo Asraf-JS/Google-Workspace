@@ -1,0 +1,140 @@
+{
+ "raw": "../raw/06-notebooklm-gemini/06-responsible-review",
+ "repoRoot": "../../../06-notebooklm-gemini",
+ "shots": {
+  "c06-06-01-originals-and-unreviewed-claims.png": {
+   "boxes": [
+    [
+     466,
+     346,
+     1100,
+     424,
+     1
+    ],
+    [
+     466,
+     446,
+     1000,
+     530,
+     1
+    ]
+   ]
+  },
+  "c06-06-02-claim-evidence-verdicts.png": {
+   "boxes": [
+    [
+     486,
+     340,
+     1100,
+     662,
+     2
+    ],
+    [
+     486,
+     690,
+     1100,
+     770,
+     3
+    ]
+   ]
+  },
+  "c06-06-03-input-suitability-and-policy-questions.png": {
+   "boxes": [
+    [
+     472,
+     376,
+     1080,
+     584,
+     1
+    ],
+    [
+     472,
+     612,
+     1100,
+     716,
+     2
+    ]
+   ]
+  },
+  "c06-06-04-evidence-backed-escalation.png": {
+   "boxes": [
+    [
+     486,
+     288,
+     1100,
+     476,
+     1
+    ],
+    [
+     486,
+     500,
+     1100,
+     780,
+     2
+    ]
+   ]
+  },
+  "c06-06-05-output-review-categories.png": {
+   "boxes": [
+    [
+     472,
+     336,
+     1080,
+     660,
+     1
+    ]
+   ]
+  },
+  "c06-06-06-source-instruction-analysis.png": {
+   "boxes": [
+    [
+     486,
+     404,
+     1100,
+     700,
+     2
+    ]
+   ]
+  },
+  "c06-06-07-reusable-review-protocol.png": {
+   "boxes": [
+    [
+     486,
+     326,
+     1100,
+     670,
+     3
+    ]
+   ]
+  },
+  "c06-06-08-second-pass-no-change-review.png": {
+   "boxes": [
+    [
+     486,
+     400,
+     1100,
+     600,
+     4
+    ],
+    [
+     486,
+     710,
+     1100,
+     780,
+     4
+    ]
+   ]
+  },
+  "c06-06-09-checked-casework-handover.png": {
+   "boxes": [
+    [
+     466,
+     240,
+     1100,
+     710,
+     5
+    ]
+   ]
+  }
+ }
+}
