@@ -20424,7 +20424,7 @@
         "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-01-copy-workbook-with-private-settings.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-01-copy-workbook-with-private-settings.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-01-copy-workbook-with-private-settings.png",
       "dimensions": [
         1591,
@@ -20442,10 +20442,11 @@
       ],
       "sha256": "a16ff08d51f45e730e99f03f51dc321e01fb1f5b3579fd8464a1218c69b52380",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-02-separate-clinic-workbook-before-faults.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-02-separate-clinic-workbook-before-faults.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-02-separate-clinic-workbook-before-faults.png",
       "dimensions": [
         1591,
@@ -20463,10 +20464,11 @@
       ],
       "sha256": "0c8f9f27ee1488019214b131a10e49427f4304f840cfcc2ce3ff891cba7a98cf",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-03-record-intended-behaviour-and-fault-predictions.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-03-record-intended-behaviour-and-fault-predictions.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-03-record-intended-behaviour-and-fault-predictions.png",
       "dimensions": [
         1591,
@@ -20484,10 +20486,11 @@
       ],
       "sha256": "fbf34ccfd18cd035b851266e89f77e4f16ae5c6dfa2aa80d9f983608045db6f9",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-04-omitted-match-mode-still-looks-correct-for-known-key.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-04-omitted-match-mode-still-looks-correct-for-known-key.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-04-omitted-match-mode-still-looks-correct-for-known-key.png",
       "dimensions": [
         1591,
@@ -20505,10 +20508,11 @@
       ],
       "sha256": "7430f5ff49ae0b5812aaacc95a4ab83a9f5ad58ddf1f485a13bd753c529b615b",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-05-unknown-key-exposes-approximate-rate-8.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-05-unknown-key-exposes-approximate-rate-8.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-05-unknown-key-exposes-approximate-rate-8.png",
       "dimensions": [
         1591,
@@ -20526,10 +20530,11 @@
       ],
       "sha256": "00ceffcb76fc1f38124f84103d75c59e12fff7c05a6bf374fadb1205b2739148",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-06-shifted-multiplication-uses-next-row-unit-cost.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-06-shifted-multiplication-uses-next-row-unit-cost.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-06-shifted-multiplication-uses-next-row-unit-cost.png",
       "dimensions": [
         1591,
@@ -20547,10 +20552,11 @@
       ],
       "sha256": "cf5dae4ae9912f797c7a4444addce9b301e41a117640cedf29c6fa08e1722ec2",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-07-shortened-total-excludes-final-order.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-07-shortened-total-excludes-final-order.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-07-shortened-total-excludes-final-order.png",
       "dimensions": [
         1591,
@@ -20568,10 +20574,11 @@
       ],
       "sha256": "bb14e2b79c1fda4591084bef562082576ce8f05932a0f6656d19a9a6b2d0456b",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-08-restore-exact-match-mode-for-known-rate.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-08-restore-exact-match-mode-for-known-rate.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-08-restore-exact-match-mode-for-known-rate.png",
       "dimensions": [
         1591,
@@ -20589,10 +20596,11 @@
       ],
       "sha256": "b6cb16e8a875c88da606911d8a329879587e88a06da5c5bbdba54e7e39ff743d",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-09-repair-row-reference-total-still-misses-64.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-09-repair-row-reference-total-still-misses-64.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-09-repair-row-reference-total-still-misses-64.png",
       "dimensions": [
         1591,
@@ -20610,10 +20618,11 @@
       ],
       "sha256": "1ea76630b7bef61117486055c30461bf13a09333f7d7760f81ce4680cee85b46",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-10-restore-full-24-row-sum-to-3158.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-10-restore-full-24-row-sum-to-3158.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-10-restore-full-24-row-sum-to-3158.png",
       "dimensions": [
         1591,
@@ -20631,10 +20640,11 @@
       ],
       "sha256": "1c194fb822da978094c3c95ad5f98db49748e5dc36158ebe24ea891b836cf328",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-11-zero-quantity-produces-valid-zero-amount.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-11-zero-quantity-produces-valid-zero-amount.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-11-zero-quantity-produces-valid-zero-amount.png",
       "dimensions": [
         1591,
@@ -20652,10 +20662,11 @@
       ],
       "sha256": "454862404a9fc061796f90fe0c7a04463f46953defa2066d8b27cedc636781e9",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-12-restore-quantity-and-total-after-zero-test.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-12-restore-quantity-and-total-after-zero-test.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-12-restore-quantity-and-total-after-zero-test.png",
       "dimensions": [
         1591,
@@ -20673,10 +20684,11 @@
       ],
       "sha256": "b1e9bfb213fd2125bc8fdd9130eb13ed985436051159fc47c87ca6f8f384afaf",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-13-known-and-unknown-rates-remain-distinct.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-13-known-and-unknown-rates-remain-distinct.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-13-known-and-unknown-rates-remain-distinct.png",
       "dimensions": [
         1591,
@@ -20694,10 +20706,11 @@
       ],
       "sha256": "81da5d79fcb9b37f3eee1915ab4613793d78d79cd0089e6990172ad7e913e4c8",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-14-restored-all-and-delivered-controls-before-filter-check.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-14-restored-all-and-delivered-controls-before-filter-check.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-14-restored-all-and-delivered-controls-before-filter-check.png",
       "dimensions": [
         1591,
@@ -20715,10 +20728,11 @@
       ],
       "sha256": "2771b8d8db8fe373b53cb3507696bbc573831d9fc2e701e17eaec75753fb36fc",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-15-filtered-delivered-source-records.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-15-filtered-delivered-source-records.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-15-filtered-delivered-source-records.png",
       "dimensions": [
         1591,
@@ -20736,10 +20750,11 @@
       ],
       "sha256": "852f92d8ae6f1f3616076b0fd99109bcb97e65143c72ea3292067e8c0b6cf492",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-16-filtered-delivered-subtotal-1478-and-count-12.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-16-filtered-delivered-subtotal-1478-and-count-12.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-16-filtered-delivered-subtotal-1478-and-count-12.png",
       "dimensions": [
         1591,
@@ -20757,10 +20772,11 @@
       ],
       "sha256": "2db090a70abe6c616a2f46e5a632421970a1dea9a0b5babc3a29ac97de6828de",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-17-manual-delivered-subset-before-formula-comparison.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-17-manual-delivered-subset-before-formula-comparison.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-17-manual-delivered-subset-before-formula-comparison.png",
       "dimensions": [
         1591,
@@ -20778,10 +20794,11 @@
       ],
       "sha256": "f70f8f79cee5605a0d8f9a8685b6014095cd9ba3a019d95ecfdbf78ea62f010c",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-18-manual-subset-and-conditional-summary-agree-at-556.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-18-manual-subset-and-conditional-summary-agree-at-556.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-18-manual-subset-and-conditional-summary-agree-at-556.png",
       "dimensions": [
         1591,
@@ -20799,10 +20816,11 @@
       ],
       "sha256": "b39bd4691014bd383729d598e8db4e72585c9ea706699ebed7fed480268a29aa",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-19-record-causes-and-detecting-controls.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-19-record-causes-and-detecting-controls.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-19-record-causes-and-detecting-controls.png",
       "dimensions": [
         1591,
@@ -20820,10 +20838,11 @@
       ],
       "sha256": "6a5e5f48421f5d11ef919e54c18ea32ca34d4381940a37fad2e494e8aa6733ae",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-20-side-by-side-comparisons.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-20-side-by-side-comparisons.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-20-side-by-side-comparisons.png",
       "dimensions": [
         1591,
@@ -20841,10 +20860,11 @@
       ],
       "sha256": "9dacd0155ab0354a7a3dc379415700598e41a05ab5b57777a82f471f3eb083f3",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-21-regression-expectations.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-21-regression-expectations.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-21-regression-expectations.png",
       "dimensions": [
         1591,
@@ -20862,10 +20882,11 @@
       ],
       "sha256": "ca657689dafd020ff2343bf7b358062259f6d9e4946eee500e3b780915235544",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-22-numeric-text-error.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-22-numeric-text-error.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-22-numeric-text-error.png",
       "dimensions": [
         1591,
@@ -20883,10 +20904,11 @@
       ],
       "sha256": "dabf8e995c8aa02e27fdc0abbee5bfb13944c8941b66ce52daa86362ae065762",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-23-numeric-source-restored.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-23-numeric-source-restored.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-23-numeric-source-restored.png",
       "dimensions": [
         1591,
@@ -20904,10 +20926,11 @@
       ],
       "sha256": "b8adfff9bc7778c63461fe7ac0311c6037146d18c84315a10dfaca6592b53db5",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-24-duplicate-sandbox-before.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-24-duplicate-sandbox-before.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-24-duplicate-sandbox-before.png",
       "dimensions": [
         1591,
@@ -20925,10 +20948,11 @@
       ],
       "sha256": "8a024ff605aa44c4ed47b493f1986c52653f6f8d2db3ee551dfe6b1ff899fedc",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-25-duplicate-key-in-sandbox.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-25-duplicate-key-in-sandbox.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-25-duplicate-key-in-sandbox.png",
       "dimensions": [
         1591,
@@ -20946,10 +20970,11 @@
       ],
       "sha256": "334535466c0faf2dc47f1e0735ede196a0d540390bfd12da1f508609400e1a6f",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-26-duplicate-detected.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-26-duplicate-detected.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-26-duplicate-detected.png",
       "dimensions": [
         1591,
@@ -20967,10 +20992,11 @@
       ],
       "sha256": "124d50fbd6cbd7892835a66db5bce86f8c74b16e4f3d09d18cc388318927a66a",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-27-final-row-boundary.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-27-final-row-boundary.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-27-final-row-boundary.png",
       "dimensions": [
         1591,
@@ -20988,10 +21014,11 @@
       ],
       "sha256": "9886784d9d5acd0639c83ac23f97b40c6b0097c89482106aad452de8fe48ed3d",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-28-final-row-restored.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-28-final-row-restored.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-28-final-row-restored.png",
       "dimensions": [
         1591,
@@ -21009,10 +21036,11 @@
       ],
       "sha256": "7bf40fc328ae304e99c41c9abad946b28d2b6461de2ce530feed0da259d03ce3",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-29-regression-results.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-29-regression-results.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-29-regression-results.png",
       "dimensions": [
         1591,
@@ -21030,10 +21058,11 @@
       ],
       "sha256": "b25f2fff0b4ef801b6975bc4eee177a14d0aeb997906ccd8807f5216edeebd37",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-30-troubleshooting-path.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-30-troubleshooting-path.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-30-troubleshooting-path.png",
       "dimensions": [
         1591,
@@ -21051,10 +21080,11 @@
       ],
       "sha256": "d6bfccaa978aa0f88b60a788f7ea73a6cccb45d9d685ee260cc7c8b37deb20cf",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/06-formula-clinic/images/c05-06-31-final-reconciliation.jpg": {
+    "05-sheets-advanced/06-formula-clinic/images/c05-06-31-final-reconciliation.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/06-formula-clinic/c05-06-31-final-reconciliation.png",
       "dimensions": [
         1591,
@@ -21072,7 +21102,8 @@
       ],
       "sha256": "553a40b8d73148ff5188d352f2998a21b3c650dc8ec07d12133a8ce0aba8b7db",
       "notes": [
-        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending."
+        "Actual staged learner UI in a separate whole-workbook clinic copy. No crop or resize; avatar masked. Baseline restored and original unchanged. Independent diagnosis, partner/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/06-formula-clinic.json (crop and boxes in 1600 px coordinates)."
       ]
     },
     "05-sheets-advanced/07-pivot-tables/images/c05-07-01-pivot-source-range-dialog.jpg": {

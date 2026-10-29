@@ -1,0 +1,448 @@
+{
+ "raw": "../raw/05-sheets-advanced/06-formula-clinic",
+ "repoRoot": "../../../05-sheets-advanced",
+ "shots": {
+  "c05-06-01-copy-workbook-with-private-settings.png": {
+   "boxes": [
+    [
+     600,
+     300,
+     1000,
+     366,
+     1
+    ],
+    [
+     616,
+     494,
+     880,
+     606,
+     1
+    ],
+    [
+     866,
+     646,
+     1000,
+     684
+    ]
+   ]
+  },
+  "c05-06-02-separate-clinic-workbook-before-faults.png": {
+   "boxes": [
+    [
+     54,
+     10,
+     700,
+     40,
+     1
+    ]
+   ]
+  },
+  "c05-06-03-record-intended-behaviour-and-fault-predictions.png": {
+   "boxes": [
+    [
+     44,
+     166,
+     1270,
+     300,
+     2,
+     "below"
+    ]
+   ]
+  },
+  "c05-06-04-omitted-match-mode-still-looks-correct-for-known-key.png": {
+   "boxes": [
+    [
+     120,
+     112,
+     700,
+     140,
+     3
+    ],
+    [
+     1440,
+     214,
+     1592,
+     280,
+     3,
+     "left"
+    ]
+   ]
+  },
+  "c05-06-05-unknown-key-exposes-approximate-rate-8.png": {
+   "boxes": [
+    [
+     44,
+     214,
+     200,
+     246,
+     3
+    ],
+    [
+     1440,
+     214,
+     1592,
+     246
+    ]
+   ]
+  },
+  "c05-06-06-shifted-multiplication-uses-next-row-unit-cost.png": {
+   "boxes": [
+    [
+     120,
+     112,
+     500,
+     140,
+     4
+    ],
+    [
+     1444,
+     214,
+     1592,
+     246,
+     4,
+     "left"
+    ]
+   ]
+  },
+  "c05-06-07-shortened-total-excludes-final-order.png": {
+   "boxes": [
+    [
+     120,
+     112,
+     500,
+     140,
+     5
+    ],
+    [
+     1444,
+     780,
+     1592,
+     808,
+     5,
+     "left"
+    ]
+   ]
+  },
+  "c05-06-08-restore-exact-match-mode-for-known-rate.png": {
+   "boxes": [
+    [
+     120,
+     112,
+     700,
+     140,
+     1
+    ],
+    [
+     1440,
+     214,
+     1592,
+     280,
+     1,
+     "left"
+    ]
+   ]
+  },
+  "c05-06-09-repair-row-reference-total-still-misses-64.png": {
+   "boxes": [
+    [
+     1444,
+     780,
+     1592,
+     808,
+     2,
+     "left"
+    ]
+   ]
+  },
+  "c05-06-10-restore-full-24-row-sum-to-3158.png": {
+   "boxes": [
+    [
+     120,
+     112,
+     500,
+     140,
+     3
+    ],
+    [
+     1444,
+     780,
+     1592,
+     808,
+     3,
+     "left"
+    ]
+   ]
+  },
+  "c05-06-11-zero-quantity-produces-valid-zero-amount.png": {
+   "boxes": [
+    [
+     600,
+     214,
+     700,
+     246,
+     4
+    ],
+    [
+     1444,
+     214,
+     1592,
+     246,
+     4,
+     "left"
+    ]
+   ]
+  },
+  "c05-06-12-restore-quantity-and-total-after-zero-test.png": {
+   "boxes": [
+    [
+     1444,
+     780,
+     1592,
+     808,
+     4,
+     "left"
+    ]
+   ]
+  },
+  "c05-06-13-known-and-unknown-rates-remain-distinct.png": {
+   "boxes": [
+    [
+     44,
+     166,
+     1060,
+     226,
+     5,
+     "below"
+    ]
+   ]
+  },
+  "c05-06-14-restored-all-and-delivered-controls-before-filter-check.png": {
+   "boxes": [
+    [
+     44,
+     246,
+     1060,
+     346,
+     1,
+     "below"
+    ]
+   ]
+  },
+  "c05-06-15-filtered-delivered-source-records.png": {
+   "boxes": [
+    [
+     860,
+     166,
+     990,
+     206,
+     2
+    ],
+    [
+     1376,
+     846,
+     1590,
+     866
+    ]
+   ]
+  },
+  "c05-06-16-filtered-delivered-subtotal-1478-and-count-12.png": {
+   "boxes": [
+    [
+     1450,
+     600,
+     1600,
+     650,
+     2,
+     "left"
+    ]
+   ]
+  },
+  "c05-06-17-manual-delivered-subset-before-formula-comparison.png": {
+   "boxes": [
+    [
+     44,
+     386,
+     1060,
+     486,
+     3,
+     "below"
+    ]
+   ]
+  },
+  "c05-06-18-manual-subset-and-conditional-summary-agree-at-556.png": {
+   "boxes": [
+    [
+     44,
+     386,
+     1340,
+     546,
+     4,
+     "below"
+    ]
+   ]
+  },
+  "c05-06-19-record-causes-and-detecting-controls.png": {
+   "boxes": [
+    [
+     44,
+     326,
+     560,
+     508,
+     5
+    ]
+   ]
+  },
+  "c05-06-20-side-by-side-comparisons.png": {
+   "boxes": [
+    [
+     44,
+     166,
+     1460,
+     266,
+     1,
+     "below"
+    ]
+   ]
+  },
+  "c05-06-21-regression-expectations.png": {
+   "boxes": [
+    [
+     44,
+     306,
+     1080,
+     414,
+     2
+    ]
+   ]
+  },
+  "c05-06-22-numeric-text-error.png": {
+   "boxes": [
+    [
+     538,
+     248,
+     688,
+     278,
+     3
+    ],
+    [
+     1444,
+     248,
+     1592,
+     278,
+     3,
+     "left"
+    ]
+   ]
+  },
+  "c05-06-23-numeric-source-restored.png": {
+   "boxes": [
+    [
+     1444,
+     248,
+     1592,
+     278,
+     4,
+     "left"
+    ]
+   ]
+  },
+  "c05-06-24-duplicate-sandbox-before.png": {
+   "boxes": [
+    [
+     44,
+     166,
+     680,
+     406,
+     5
+    ]
+   ]
+  },
+  "c05-06-25-duplicate-key-in-sandbox.png": {
+   "boxes": [
+    [
+     44,
+     406,
+     680,
+     430,
+     6
+    ]
+   ]
+  },
+  "c05-06-26-duplicate-detected.png": {
+   "boxes": [
+    [
+     44,
+     460,
+     1380,
+     502,
+     7,
+     "below"
+    ]
+   ]
+  },
+  "c05-06-27-final-row-boundary.png": {
+   "boxes": [
+    [
+     580,
+     742,
+     712,
+     770
+    ],
+    [
+     1444,
+     780,
+     1592,
+     808,
+     8,
+     "left"
+    ]
+   ]
+  },
+  "c05-06-28-final-row-restored.png": {
+   "boxes": [
+    [
+     1444,
+     780,
+     1592,
+     808,
+     9,
+     "left"
+    ]
+   ]
+  },
+  "c05-06-29-regression-results.png": {
+   "boxes": [
+    [
+     44,
+     536,
+     1080,
+     700,
+     10
+    ]
+   ]
+  },
+  "c05-06-30-troubleshooting-path.png": {
+   "boxes": [
+    [
+     44,
+     736,
+     1120,
+     880,
+     11
+    ]
+   ]
+  },
+  "c05-06-31-final-reconciliation.png": {
+   "boxes": [
+    [
+     44,
+     246,
+     1420,
+     546,
+     12,
+     "below"
+    ]
+   ]
+  }
+ }
+}
