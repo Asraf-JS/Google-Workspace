@@ -8,7 +8,7 @@ Fictional training exercise. Prepared through connected Google Docs tools on 29 
 
 ## Source authority
 
-S1 project-facts.txt is the original fact sheet: budget status proposed, not approved; start date not yet agreed. S2 meeting-record.txt is scripted practice: sponsor approval still needed; no purchase authorised; Aina/template/week1, Bala/status definitions/week1, Siti/fictional sample/week2. S3 reporting-guidance.txt version 1 is proposed training guidance, not approved policy. The deliberate review examples are critique material, not evidence that their claims are true.
+S1 project-facts.txt is the original fact sheet: budget status proposed, not approved; start date not yet agreed. S2 meeting-record.txt is scripted practice: sponsor approval still needed; no purchase authorised; Aina/template/week 1, Bala/status definitions/week 1, Siti/fictional sample/week 2. S3 reporting-guidance.txt version 1 is proposed training guidance, not approved policy. The deliberate review examples are critique material, not evidence that their claims are true.
 
 ## Claim Review
 

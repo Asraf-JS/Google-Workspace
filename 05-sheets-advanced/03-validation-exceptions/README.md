@@ -122,7 +122,7 @@ Use a practice copy of Orders. Restore all temporary tests before completing the
 
 ![Record input results including the blank-clearing limit](./images/c05-03-23-observed-input-validation-results.jpg)
 
-13. In Validation Practice, enter **PendingHigh** in L1 and **=AND($G2="Pending",$J2>=200)** in L2, then fill through L25. The restored baseline has 24 FALSE flags, agreeing with no highlighted rows. For a full-width view, adjust only practice columns: A:H about110pixels, C150, I220, J:L120; later G140/H80 makes the status labels readable. Keep maintained-source widths unchanged.
+13. In Validation Practice, enter **PendingHigh** in L1 and **=AND($G2="Pending",$J2>=200)** in L2, then fill through L25. The restored baseline has 24 FALSE flags, agreeing with no highlighted rows. For a full-width view, adjust only practice columns: A:H about 110 pixels, C 150, I 220, J:L 120; later G140/H80 makes the status labels readable. Keep maintained-source widths unchanged.
 
 ![Create explicit row flags matching the format logic](./images/c05-03-24-explicit-flag-baseline-zero.jpg)
 
@@ -166,7 +166,7 @@ Use a practice copy of Orders. Restore all temporary tests before completing the
 
 ![Recheck the restored final-row flag](./images/c05-03-34-restored-final-row-flag-false.jpg)
 
-24. Record exact ranges, restoration and limitations in **Validation Tests J1:K9**, outside the matrices. Use wide wrapped note columns (about 250/1000pixels) so they remain readable without widening the test tables. State that the independent appended PO-TEST row, new-row coverage repair, bulk paste, CSV numeric text and human/timing checks remain pending.
+24. Record exact ranges, restoration and limitations in **Validation Tests J1:K9**, outside the matrices. Use wide wrapped note columns (about 250/1000 pixels) so they remain readable without widening the test tables. State that the independent appended PO-TEST row, new-row coverage repair, bulk paste, CSV numeric text and human/timing checks remain pending.
 
 ![Record exact ranges restoration and untested behaviors](./images/c05-03-35-rule-ranges-restoration-and-limits.jpg)
 

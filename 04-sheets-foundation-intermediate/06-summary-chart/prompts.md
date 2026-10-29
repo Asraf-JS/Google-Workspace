@@ -42,6 +42,6 @@ Baseline: status 4/4/4, total 12; team planned 2800/4000/3600, grand total 10400
 
 Summary Checks G2:J4: Task count H3=B5, I3=COUNTA(Tasks!A2:A13), J3=H3-I3; Planned cost (RM) H4=SUM(E2:E4), I4=SUM(Tasks!G2:G13), J4=H4-I4. Both differences zero.
 
-Chart titles: Task count by status (A1:B4), Planned cost by team (RM) (D1:E4). On Chart Range Tests, A1:B5 deliberately plots Total 12 as a fourth category; repair to A1:B4 using Select data range and OK. Misspell A4 Not Startd: COUNTIF0, total 8, difference-4; repair label to Not Started, retaining the formula.
+Chart titles: Task count by status (A1:B4), Planned cost by team (RM) (D1:E4). On Chart Range Tests, A1:B5 deliberately plots Total 12 as a fourth category; repair to A1:B4 using Select data range and OK. Misspell A4 Not Startd: COUNTIF 0, total 8, difference-4; repair label to Not Started, retaining the formula.
 
 Temporary source tests: Tasks F4 Not Started→Complete gives 5/4/3, then restore Not Started. Tasks G4 500→600 gives I4-600, Planning 2900 and both planned totals 10500; restore 500 gives I4-500, Planning 2800 and 10400. Source values/formulas restored. Summary Test Log retains observations. Independent dashboard/reviewer and learner timing pending.

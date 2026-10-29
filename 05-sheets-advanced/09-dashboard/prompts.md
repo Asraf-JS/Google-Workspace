@@ -128,12 +128,12 @@ Peak practice week	=INDEX(B12:E12,1,MATCH(MAX(B13:E13),B13:E13,0))	=MAX(B13:E13)
 ```text
 Dashboard brief	Definition
 Audience	Fictional project reporting reviewer; training evidence, not company policy
-Source / units	Orders A1:K25;24records; Amount and cost values in RM
+Source / units	Orders A1:K25;24 records; Amount and cost values in RM
 Population	All includes Cancelled; Active excludes Cancelled; Delivered is a separate status subset
 Questions	Largest Delivered project? Pending Amount? Largest all-orders practice week?
 Practice sequence	Numeric weeks 1,2,3,4; no invented real calendar dates
 Chart / filter scope	Dashboard A5:B8 linked to checked all-project totals; saved source views do not filter these SUMIFS totals
-Scenario prediction	Copy only: PO001 Quantity 2 to 4 adds 90; line 180/PJ-Aall1070/Week1 818/all3248/active2028/Delivered1568/count24
+Scenario prediction	Copy only: PO001 Quantity 2 to 4 adds 90; line 180/PJ-Aall1070/Week1 818/all 3248/active 2028/Delivered1568/count 24
 Expected ranking change	Largest Delivered project changes from PJ-B578 to PJ-A646; peakweek remains3at850
 Validation limit	Guided author casework; independent new-row coverage, reviewer and70minute learner timing pending
 ```

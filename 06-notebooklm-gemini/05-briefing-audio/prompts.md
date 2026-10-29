@@ -37,7 +37,7 @@ Name the corrected note `OUTPUT - Checked FAQ - training reference`. Verify all 
 Choose Brief, English and the three original sources.
 
 ```text
-Give a short orientation to this fictional Project Reporting Pilot using only the three selected original sources. Preserve the proposed, unapproved RM 12,000 ceiling and the unagreed pilot start date. Include the four-week duration, three teams, Friday reporting cadence and success measure of all three teams on time for the final two weeks. If mentioning actions, retain Aina/template/week1, Bala/status definitions/week1 and Siti/fictional sample/week2. Label guidance proposed, not approved policy; label meeting record scripted. Do not invent calendar dates, readiness, purchase approval, guaranteed benefits or percentages.
+Give a short orientation to this fictional Project Reporting Pilot using only the three selected original sources. Preserve the proposed, unapproved RM 12,000 ceiling and the unagreed pilot start date. Include the four-week duration, three teams, Friday reporting cadence and success measure of all three teams on time for the final two weeks. If mentioning actions, retain Aina/template/week 1, Bala/status definitions/week 1 and Siti/fictional sample/week 2. Label guidance proposed, not approved policy; label meeting record scripted. Do not invent calendar dates, readiness, purchase approval, guaranteed benefits or percentages.
 ```
 
 ## Manually checked fallback script

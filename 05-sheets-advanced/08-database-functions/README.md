@@ -168,7 +168,7 @@ Use Orders A1:J25, including Amount. Keep criteria outside the source table.
 
 ![final handover with mean reconciliation](./images/c05-08-35-final-handover-with-mean-reconciliation.jpg)
 
-25. Finish by inspecting **Database Analysis** with all Delivered and AND formulas visible. DSUM/SUMIF1478 and AND DSUM/SUMIFS556 have zero differences; the numeric/text count distinction remains explicit. This final view confirms the completed results after the earlier entry-stage captures.
+25. Finish by inspecting **Database Analysis** with all Delivered and AND formulas visible. DSUM/SUMIF 1478 and AND DSUM/SUMIFS556 have zero differences; the numeric/text count distinction remains explicit. This final view confirms the completed results after the earlier entry-stage captures.
 
 ![Completed Delivered and AND controls](./images/c05-08-36-final-delivered-and-sumifs-controls.jpg)
 

@@ -327,7 +327,7 @@ Eighteen sources retained on21October 2026: sixteen original-size application wi
 
 ## Slides 1: Story Planning Stages
 
-Fifteen retained sources:14original-size planning-Doc/Gemini windows and1offlinePDFpage. A planning Doc precedes deck creation; rehearsal and partner observations stay pending. Source library 286; programme 289.
+Fifteen retained sources:14 original-size planning-Doc/Gemini windows and1offlinePDFpage. A planning Doc precedes deck creation; rehearsal and partner observations stay pending. Source library 286; programme 289.
 
 | Lesson image | Full source | Dimensions | Kind |
 |---|---|---|---|
@@ -508,7 +508,7 @@ Sixteen additional original-size application captures, no crops. Actual Slidesho
 
 ## Slides 7: Presenter and Distribution Inspection
 
-Ten uncropped original-size captures verify separate presenter/audience windows, opening and decision notes, Next5to7 skipping backup 6, Audience Tools Start new left unstarted, Share Restricted/owneronly and Publish to web not-published state. Link/Embed settings inspected and Close selected without publishing. No file-access mutation, invitations or liveQ&A. The paused 00:00:24 timer is setup only, not speech. Distribution options documented. Spoken rehearsal,7.4 PDF/scope/links/fallback, independent challenge and learner timing remain pending. Programme409images; retained406sources.
+Ten uncropped original-size captures verify separate presenter/audience windows, opening and decision notes, Next5 to 7 skipping backup 6, Audience Tools Start new left unstarted, Share Restricted/owneronly and Publish to web not-published state. Link/Embed settings inspected and Close selected without publishing. No file-access mutation, invitations or liveQ&A. The paused 00:00:24 timer is setup only, not speech. Distribution options documented. Spoken rehearsal,7.4 PDF/scope/links/fallback, independent challenge and learner timing remain pending. Programme409images; retained406sources.
 
 | Lesson image | Full source | Dimensions | Kind |
 |---|---|---|---|
@@ -525,7 +525,7 @@ Ten uncropped original-size captures verify separate presenter/audience windows,
 
 ## Slides 7.4: Appendix Links and PDF Scope Repair
 
-Prepared three-minute target run sheet/source-based sponsor answers in native opening notes; no speaking-time claim. Actual Slideshow link round trip5to8to5 passed. Direct native PDF included all14slides; Print preview1slide without notes/Include skipped slides off produced8pages(source 1,2,3,4,5,7,8,9)without altering source sequence. All14diagnostic and8handout pages rendered/reviewed. Handout embedded destinations resolve5to7and7to5; interactive PDF clicks unverified due local-file browser policy, no workaround. Static fallback plan and release record saved; named source milestone Sponsor update - delivery export checked verified. Two spoken rehearsals/independent challenge/learner timing remain pending. Programme422images;retained419sources.
+Prepared three-minute target run sheet/source-based sponsor answers in native opening notes; no speaking-time claim. Actual Slideshow link round trip5to8 to 5 passed. Direct native PDF included all14slides; Print preview1slide without notes/Include skipped slides off produced8pages(source 1,2,3,4,5,7,8,9)without altering source sequence. All14diagnostic and8handout pages rendered/reviewed. Handout embedded destinations resolve5to7and7to5; interactive PDF clicks unverified due local-file browser policy, no workaround. Static fallback plan and release record saved; named source milestone Sponsor update - delivery export checked verified. Two spoken rehearsals/independent challenge/learner timing remain pending. Programme422images;retained419sources.
 
 | Lesson image | Full source | Dimensions | Kind |
 |---|---|---|---|
@@ -617,7 +617,7 @@ Foundation Lab 1 has 26 current-stage application captures through 1.4: isolated
 
 ## Foundation 2: Formats and Stored Values
 
-Foundation Lab 2 has 18 staged captures: numeric 600 versus currency display, custom RM/no-decimal and whole-week formats, retained source header/widths, wrapping and row fit, practice-only date, numeric/text cost tests with SUM600/COUNT1, practice-table readability and format-only123. Source counts24cost/12week and all original twelve records are unchanged. Values-only target-format preservation remains unverified after shortcut and direct-menu attempts; manual retest is required. Independent intake/partner and learner-timing checks remain pending. Programme 491 images; retained 488 sources.
+Foundation Lab 2 has 18 staged captures: numeric 600 versus currency display, custom RM/no-decimal and whole-week formats, retained source header/widths, wrapping and row fit, practice-only date, numeric/text cost tests with SUM 600/COUNT 1, practice-table readability and format-only123. Source counts24cost/12 week and all original twelve records are unchanged. Values-only target-format preservation remains unverified after shortcut and direct-menu attempts; manual retest is required. Independent intake/partner and learner-timing checks remain pending. Programme 491 images; retained 488 sources.
 
 | Lesson image | Full source | Dimensions | Kind |
 |---|---|---|---|
@@ -642,7 +642,7 @@ Foundation Lab 2 has 18 staged captures: numeric 600 versus currency display, cu
 
 ## Foundation 3: Calculations and References
 
-Foundation Lab 3 has 23 staged author-reference captures through 3.4: row variance formulas, totals 10400/6800/-3600, average 866.67/count12, fixed-multiplier change/restoration, zero/blank/text participation, wrong-reference20 repaired to-20, relative drift versus absolute reference, and reconciliation difference 0. Source Tasks A1:H13 values remain unchanged; both hypothetical assumptions are restored to 1.1. Independent estimate/omitted-range challenge and learner timing remain pending. Programme 514 images; retained 511 sources.
+Foundation Lab 3 has 23 staged author-reference captures through 3.4: row variance formulas, totals 10400/6800/-3600, average 866.67/count 12, fixed-multiplier change/restoration, zero/blank/text participation, wrong-reference20 repaired to-20, relative drift versus absolute reference, and reconciliation difference 0. Source Tasks A1:H13 values remain unchanged; both hypothetical assumptions are restored to 1.1. Independent estimate/omitted-range challenge and learner timing remain pending. Programme 514 images; retained 511 sources.
 
 | Lesson image | Full source | Dimensions | Kind |
 |---|---|---|---|
@@ -701,7 +701,7 @@ Foundation Lab 4 adds 22 staged captures: preserved raw text and TRIM/length che
 
 ## Foundation 5: Validation and Focused Views
 
-Foundation Lab 5 adds 34 staged captures: strict canonical status rules and actual Done rejection, planned status/week matrix, whole-week custom formula accepting 1/4 and rejecting 0/5/1.5, clearing limitations, restored practice week 1, entry guide, two saved bounded filter views with 8/2 checked IDs, and ordinary SUM10400 before/during filtering. Views are closed with all 12 source rows visible; source values/formulas and original practice records are unchanged. Independent Procurement/coverage repair and learner timing remain pending. Programme 570 images; retained 567 sources.
+Foundation Lab 5 adds 34 staged captures: strict canonical status rules and actual Done rejection, planned status/week matrix, whole-week custom formula accepting 1/4 and rejecting 0/5/1.5, clearing limitations, restored practice week 1, entry guide, two saved bounded filter views with 8/2 checked IDs, and ordinary SUM 10400 before/during filtering. Views are closed with all 12 source rows visible; source values/formulas and original practice records are unchanged. Independent Procurement/coverage repair and learner timing remain pending. Programme 570 images; retained 567 sources.
 
 | Lesson image | Full source | Dimensions | Kind |
 |---|---|---|---|
@@ -814,7 +814,7 @@ Foundation Lab 7 adds 29 staged captures (25 application views and 4 native PDF 
 
 ## Foundation 8: Corrected Challenge and Handover
 
-Foundation Lab 8 adds 32 staged captures (31 application views and 1 native PDF page): separate 13-record workbook, extended active ranges, named-source retargeting, own-row variance repair, actual new-cell validation rejection, full formula inspection, two-method controls, T013 actual 150 correction with totals 10600/6950/-3650, checked 9/3record views, current labelled PDF and operating guide. Original 12-record baseline remains unchanged. Partner explanation/handover, independent T014/range omission and learner timing remain pending. Programme 660 images; retained 657 sources.
+Foundation Lab 8 adds 32 staged captures (31 application views and 1 native PDF page): separate 13-record workbook, extended active ranges, named-source retargeting, own-row variance repair, actual new-cell validation rejection, full formula inspection, two-method controls, T013 actual 150 correction with totals 10600/6950/-3650, checked 9/3 record views, current labelled PDF and operating guide. Original 12-record baseline remains unchanged. Partner explanation/handover, independent T014/range omission and learner timing remain pending. Programme 660 images; retained 657 sources.
 
 | Lesson image | Full source | Dimensions | Kind |
 |---|---|---|---|
@@ -1222,7 +1222,7 @@ Advanced Lab 9 adds 31 original-dimension dashboard captures: native labelled co
 
 ## Advanced 10: Native Gemini proposal audit
 
-Advanced Lab 10 adds 41 original-dimension captures of native Gemini proposals/findings, a generated chart whose direct-link claim was disproved by source-change testing, exact threshold and Fill-down cases, supplied flawed formulas beside manual repairs, and an isolated TEST025 new-row coverage check. Source and earlier dashboard/pivots restored; snapshot labelled. Independent PO025 pivot/chart coverage, reviewer and learner timing pending. Programme 1,007images; retained 1,004sources.
+Advanced Lab 10 adds 41 original-dimension captures of native Gemini proposals/findings, a generated chart whose direct-link claim was disproved by source-change testing, exact threshold and Fill-down cases, supplied flawed formulas beside manual repairs, and an isolated TEST025 new-row coverage check. Source and earlier dashboard/pivots restored; snapshot labelled. Independent PO025 pivot/chart coverage, reviewer and learner timing pending. Programme 1,007 images; retained 1,004 sources.
 
 | Lesson image | Full source | Dimensions | Kind |
 |---|---|---|---|
@@ -1270,7 +1270,7 @@ Advanced Lab 10 adds 41 original-dimension captures of native Gemini proposals/f
 
 ## Advanced 11: Analysis capstone
 
-Advanced Lab 11 adds 32 original-dimension captures of a source-traceable capstone: three-question specification, native pivot/ID reconciliation, genuine zero and inclusive boundary, first-match conflict 45→99 with guarded disposition, baseline executive/audit and separate PO025 ranking/week scenario. Source and baseline preserved; independent challenge, human review, spoken delivery and learner timing pending. Programme 1,039images; retained 1,036sources.
+Advanced Lab 11 adds 32 original-dimension captures of a source-traceable capstone: three-question specification, native pivot/ID reconciliation, genuine zero and inclusive boundary, first-match conflict 45→99 with guarded disposition, baseline executive/audit and separate PO025 ranking/week scenario. Source and baseline preserved; independent challenge, human review, spoken delivery and learner timing pending. Programme 1,039 images; retained 1,036 sources.
 
 | Lesson image | Full source | Dimensions | Kind |
 |---|---|---|---|
@@ -1309,7 +1309,7 @@ Advanced Lab 11 adds 32 original-dimension captures of a source-traceable capsto
 
 ## Advanced 12: Review and handover
 
-Advanced Lab 12 adds 37 original-dimension captures of baseline recovery, runbook/range inventory, a whole-workbook PO025 refresh through conditional/database/weekly calculations and committed native pivots, chart/sparkline checks, unresolved IT99 disposition, repaired handover instructions, fixed snapshot and release manifest. Recovery source preserved; independent PO026, human review, spoken delivery and learner timing pending. Programme 1,076images; retained 1,073sources.
+Advanced Lab 12 adds 37 original-dimension captures of baseline recovery, runbook/range inventory, a whole-workbook PO025 refresh through conditional/database/weekly calculations and committed native pivots, chart/sparkline checks, unresolved IT99 disposition, repaired handover instructions, fixed snapshot and release manifest. Recovery source preserved; independent PO026, human review, spoken delivery and learner timing pending. Programme 1,076 images; retained 1,073 sources.
 
 | Lesson image | Full source | Dimensions | Kind |
 |---|---|---|---|
@@ -1468,7 +1468,7 @@ AI4 adds 29 original-dimension captures of a three-original-source notebook, dec
 
 ### 28 October 2026: AI5 FAQ and audio generation — partial
 
-AI5 partial route adds11original-dimension captures. Five-entry FAQ checked and corrected output note deselected; Brief English audio generated 1:31from3originals; playback counter advanced 00:05. Written briefing/fallback and six-topic unscored claim sheet saved. Download opened 403 and browser control disconnected. Full listening and timestamped audit remain pending; no audio accuracy verdict claimed. Programme 1,160images;1,157sources;3untouched AI routes. Independent/human/classroom timing pending.
+AI5 partial route adds11original-dimension captures. Five-entry FAQ checked and corrected output note deselected; Brief English audio generated 1:31from3originals; playback counter advanced 00:05. Written briefing/fallback and six-topic unscored claim sheet saved. Download opened 403 and browser control disconnected. Full listening and timestamped audit remain pending; no audio accuracy verdict claimed. Programme 1,160 images;1,157 sources;3 untouched AI routes. Independent/human/classroom timing pending.
 
 | Lesson image | Full source | Dimensions | Kind |
 |---|---|---|---|
@@ -1532,7 +1532,7 @@ AI8 adds 17 original-dimension captures: versioned playbook, three-source manife
 
 ### 29 October 2026: AI6 staged casework catch-up
 
-AI6 UI capture catch-up adds nine original-dimension stages in a separate casework file: original claims, evidence classifications, hypothetical inputs/policy questions, escalation, earlier-Lab2 output distinctions, critique-only source instruction, nine-item review protocol, separate author second pass and checked handover. Four native tables verified; nine-page PDF inspected. No real confidential input, external send or permission change. No human policy decision, partner agreement, independent challenge or classroom timing claimed. Programme 1,201 images;1,198 retained originals;125 AI captures. All 50 draft chapters have staged author references; this does not establish full classroom validation.
+AI6 UI capture catch-up adds nine original-dimension stages in a separate casework file: original claims, evidence classifications, hypothetical inputs/policy questions, escalation, earlier-Lab 2 output distinctions, critique-only source instruction, nine-item review protocol, separate author second pass and checked handover. Four native tables verified; nine-page PDF inspected. No real confidential input, external send or permission change. No human policy decision, partner agreement, independent challenge or classroom timing claimed. Programme 1,201 images;1,198 retained originals;125 AI captures. All 50 draft chapters have staged author references; this does not establish full classroom validation.
 
 | Lesson image | Full source | Dimensions | Kind |
 |---|---|---|---|

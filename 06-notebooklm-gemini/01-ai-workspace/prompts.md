@@ -90,7 +90,7 @@ T02	Which three teams participate?	S1: Planning, Procurement, Site Coordination;
 T03	What reporting cadence and success measure are stated?	S1 supplies both. S3 corroborates Friday review updates, not project success.	Answerable; optional corroboration
 T04	Is the RM 12,000 ceiling approved?	S1 explicitly proposed, not approved. S2 corroborates approval still needed.	Answerable: not approved
 T05	What start date is confirmed?	S1/S2 say not agreed. No confirmed calendar date is available; return that gap.	Date value lacks evidence
-T06	Which preparation actions, owners and due weeks are explicit?	S2: Aina draft template/week1; Bala status review/week1; Siti fictional sample/week2.	Answerable from scripted S2
+T06	Which preparation actions, owners and due weeks are explicit?	S2: Aina draft template/week 1; Bala status review/week 1; Siti fictional sample/week 2.	Answerable from scripted S2
 ```
 
 ### Scoring plan - not completed results

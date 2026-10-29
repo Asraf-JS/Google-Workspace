@@ -27,7 +27,7 @@ Editable fields	Orders A:I are inputs. F UnitCost is an evidenced input, not an 
 Formula columns	J=Quantity*UnitCost; K=IF(Status="Cancelled",0,Amount). Copy formulas to an added row and verify their actual references.
 Populations	All Amount includes Cancelled. Active excludes Cancelled. Delivered excludes Pending and Cancelled. Pending>=200 requires BOTH conditions and inclusive >=.
 Before update	Confirm 24 unique IDs, all 3158, active 1938, Delivered 1478, Pending 460; 12/6/6 Delivered/Pending/Cancelled records. Close active filter view before interpreting all-source totals.
-Source extension	On named extension copy only, insert a row above 26 before totals; add PO025 PJ-A/Planning/IT01/2/45/Delivered/week4, Amount 90. Extend input/formula bounds to 26 and totals now at row 28.
+Source extension	On named extension copy only, insert a row above 26 before totals; add PO025 PJ-A/Planning/IT01/2/45/Delivered/week 4, Amount 90. Extend input/formula bounds to 26 and totals now at row 28.
 Dependent update	Use Range Inventory. Extend source-dependent analysis, weekly/count/DB ranges and both pivots. Fixed summary chart follows Dashboard A5:B8; sparkline follows weekly summary. Check source coverage rather than assuming refresh.
 Expected scenario	25 unique IDs; all 3248; active 2028; Delivered 1568; Pending 460; PJA all 1070/Delivered646. Week 4 916; Delivered leader PJA646. Baseline remains unchanged.
 Unknown/duplicate key route	Count exact Rates matches before using a rate. Count 0=unmapped; count>1=conflict. Preserve unresolved warning; never replace missing with 0 or overwrite Rates to hide the issue.
@@ -49,7 +49,7 @@ Native count pivot	Pivot Counts; source Orders A1:K25	Extend pivot source to Ord
 Summary source	Dashboard Data A1:D4 links Analysis; B8:B10 COUNTIF; B16:E16 weekly; B19:D19 controls	Source-dependent bounds end 26. Fixed project/status/week summary shape stays; weekly 728/754/850/916 and all 3248. Rows 22:28 are historical Lab 9 predictions, not live results.
 Dashboard controls	Dashboard B19/B21 and E20 source bounds 2:25; summary links elsewhere	Extend source endpoints26; keep links to updated Analysis/Database Analysis/pivots. E19:E22 all 0. E23 All checks pass.
 Chart + sparkline	Dashboard chart uses A5:B8, sparkline B15 uses Dashboard Data B16:E16	Fixed summary ranges stay; verify chart PJA1070/PJB1204/PJC974 and weekly sparkline refresh. Update visible 25-order scenario label.
-Lookup mapping	Rates A2:D7 exact mapping; six unique ItemCodes	Do not extend Rates for PO025 IT01. Verify matchcount1/rate45. Unmapped IT99 stays unresolved on separate Key Handover tab.
+Lookup mapping	Rates A2:D7 exact mapping; six unique ItemCodes	Do not extend Rates for PO025 IT01. Verify matchcount1/rate 45. Unmapped IT99 stays unresolved on separate Key Handover tab.
 Validation practice	Validation Practice E2:E25 whole-number Quantity>=0; G2:G25 Status list; separate fixed lab copy	Not the Orders input range. Do not claim source dropdown protection. Check accepted source inputs manually before release; document future validation deployment separately.
 Conditional format practice	Validation Practice A2:K25; AND($G2="Pending",$J2>=200)	Fixed lab evidence. No Orders exception flag is implied. Active exception check is Analysis B28; separate Pending>=200 count must remain 0 for PO025.
 Filter views	Orders DB8 - Delivered and DB8 - Delivered AND PJ-A; inactive baseline	Keep named teaching views, close active view for all-source controls. In extension do not assume old saved-view range includes row 26; verify its range if using it.
@@ -259,7 +259,7 @@ Issue / observation	State	Evidence and disposition
 K01 - IT99 mapping	Open - unresolved	Key Handover B3=0/C3=Unresolved rate. Hold numeric amount; obtain authoritative mapping evidence before any real use. No Rates changes made.
 R01 - pivot commit instruction	Runbook repaired v2	Version 1 said extend pivots but omitted explicit confirmation. Added Select data range -> Orders!A1:K26 -> OK, then reopen and verify both pivots. Count 25 and amount 3248 prove saved coverage.
 R02 - historical practice coverage	Scope clarified	Validation Practice rules apply only there, not Orders. Historical snapshots/tests/old Lab 9 prediction rows/old Dashboard Contract remain fixed evidence; release manifest identifies active scenario tabs.
-R03 - independently expected controls	Added release gate	Stale Dashboard initially showed All checks pass at 24/3158. Require predicted count 25/all3248 plus independent source deltas and pivot reconciliation, not only internal zeros.
+R03 - independently expected controls	Added release gate	Stale Dashboard initially showed All checks pass at 24/3158. Require predicted count 25/all 3248 plus independent source deltas and pivot reconciliation, not only internal zeros.
 Automation note	Corrected before release	Typing a range into sidebar and pressing Enter did not persist in this attempt. Uncommitted captures excluded. Explicit picker + OK used and totals rechecked. This is not evidence of a learner error.
 Independent checks	Pending	Real partner/reviewer, independent PO026 update, spoken handover and 50-minute learner pilot have not been performed.
 ```
@@ -302,8 +302,8 @@ Peak week Amount (RM)	916	=Dashboard!C27	=B12-C12
 
 ```text
 Release manifest - training handover	27 October 2026; author-checked PO025 extension. No real project approval or external handover is implied.
-Maintained recovery baseline	GW - Sheets Advanced - Handover Baseline: Orders 24/all3158/active1938/Delivered1478; Runbook v2 and Range Inventory. Original GW - Sheets Advanced - Analysis remains unchanged.
-Scenario test	GW - Sheets Advanced - PO025 Extension Test: Orders 25/all3248/active2028/Delivered1568. PO025 included exactly once; no PO026. Keep separate from recovery baseline.
+Maintained recovery baseline	GW - Sheets Advanced - Handover Baseline: Orders 24/all 3158/active 1938/Delivered1478; Runbook v2 and Range Inventory. Original GW - Sheets Advanced - Analysis remains unchanged.
+Scenario test	GW - Sheets Advanced - PO025 Extension Test: Orders 25/all 3248/active 2028/Delivered1568. PO025 included exactly once; no PO026. Keep separate from recovery baseline.
 Active refresh path	Orders -> Analysis / Database Analysis / Pivot Review / Pivot Counts -> Dashboard Data -> Dashboard. Extension Checks independently compares predictions, source deltas and pivot totals.
 Current fixed summary	In GW - Sheets Advanced - PO025 Extension Test, Release Summary columnB holds fixed values dated27October2026; C:D are live comparison checks. Regenerate the snapshot after later updates. It is not a new live data source.
 Range contract	Active source ends row 26; database header rectangle A1:J26; both pivots Orders!A1:K26 confirmed with picker+OK. Chart remains Dashboard A5:B8; weekly sparkline follows Dashboard Data B16:E16.

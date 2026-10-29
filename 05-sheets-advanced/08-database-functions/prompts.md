@@ -246,7 +246,7 @@ Total line cost	260	=SUM(D27:D28)	=C34-B34
 
 ```text
 Database analysis note	Definition / evidence
-Source boundary	Orders A1:J25;24baseline records; maintained values/formats preserved
+Source boundary	Orders A1:J25;24 baseline records; maintained values/formats preserved
 Practice placement	Separate Database Analysis tab avoids existing Analysis A10:D12 work
 Delivered	DSUM1478; DCOUNT Quantity 12; DAVERAGE UnitCost 23; text OrderID DCOUNT0 versus DCOUNTA12
 AND	Status and Project on same row: Delivered AND PJ-A gives 556/4/25

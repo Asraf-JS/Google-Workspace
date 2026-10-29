@@ -23,7 +23,7 @@ PO025, challenge copy only: PJ-A | Planning | IT01 | Quantity 2 | UnitCost 45 | 
 
 ## Captured Author-Run Reference
 
-Use native **Insert > Pivot table**, not a typed summary. Baseline source **Orders A1:K25** contains24records. Keep source edits for the named whole-workbook **Pivot Coverage** copy only. These cards support guided casework, not an independent learner submission.
+Use native **Insert > Pivot table**, not a typed summary. Baseline source **Orders A1:K25** contains 24 records. Keep source edits for the named whole-workbook **Pivot Coverage** copy only. These cards support guided casework, not an independent learner submission.
 
 ### Calculated field — Average line amount, Summarise by Custom
 
@@ -147,10 +147,10 @@ Authoritative expanded checks	Coverage Controls A1:D7; six differences 0; indepe
 
 ```text
 Analysis note	Definition / evidence
-Baseline source	Orders A1:K25;24records; Cancelled retained
+Baseline source	Orders A1:K25;24 records; Cancelled retained
 Amount pivot	Pivot Review: Project rows, Status columns, SUM Amount; no final filter
 Filter test	Delivered only 1478; removed filter restores 3158
-Count pivot	Pivot Counts: same source/groups, COUNTA OrderID;24total/12Delivered
+Count pivot	Pivot Counts: same source/groups, COUNTA OrderID;24 total/12Delivered
 Calculated field	Pivot Calculations: Average line amount =SUM(Amount)/COUNTA(OrderID), Custom; all 131.5833333
 Drilldown	Actual Detail1-PJ-A-Delivered contains PO001/004/005/008; amounts 90/144/250/72 sum 556
 Aggregation trap	Two rows2x45 and4x12: SUM row products 138; product of sums 342

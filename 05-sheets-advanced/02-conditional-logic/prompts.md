@@ -118,7 +118,7 @@ LT20	1	201	=B21*C21	Pending	High		TRUE
 LT21	1	201	=B22*C22	Cancelled	High		FALSE
 ```
 
-G2 **=IF(D2<100,"Low",IF(D2<200,"Medium","High"))**; I2 **=AND(E2="Pending",D2>=200)**; J2 **=AND(F2=G2,H2=I2)**. Fill each to 22. Expected21passes/0mismatches,2positiveflags,3zero-quantitycases,6High/9Medium/6Low. Synthetic Pending 200/201 exercise the positive flag branch; baseline remains 0.
+G2 **=IF(D2<100,"Low",IF(D2<200,"Medium","High"))**; I2 **=AND(E2="Pending",D2>=200)**; J2 **=AND(F2=G2,H2=I2)**. Fill each to 22. Expected 21 passes/0 mismatches, 2 positive flags, 3 zero-quantitycases,6High/9Medium/6Low. Synthetic Pending 200/201 exercise the positive flag branch; baseline remains 0.
 
 ### Repaired mixed-reference scenario
 

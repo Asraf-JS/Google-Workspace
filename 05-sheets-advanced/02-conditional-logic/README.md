@@ -158,7 +158,7 @@ Use Orders A1:I25 and the Analysis tab from Chapter 1.
 
 ![Recheck maintained amount and count grids](./images/c05-02-32-maintained-count-and-amount-grids.jpg)
 
-18. Finish readable amount formats and inspect all five zero-difference control rows. In the captured Analysis layout A/B/C/D are approximately 240/220/180/180pixels, with wrapped definition and note cells; money formats are applied only to amount ranges, not the count grid.
+18. Finish readable amount formats and inspect all five zero-difference control rows. In the captured Analysis layout A/B/C/D are approximately 240/220/180/180 pixels, with wrapped definition and note cells; money formats are applied only to amount ranges, not the count grid.
 
 ![Inspect final maintained analysis controls](./images/c05-02-33-maintained-analysis-controls-complete.jpg)
 

@@ -146,7 +146,7 @@ Use the native checked workbook and usable Gemini in Sheets access. If unavailab
 
 ![six pending records manually traced](./images/c05-10-28-six-pending-records-manually-traced.jpg)
 
-6. Create **AI Boundary Cases**. Enter four explicitly fictional fixtures: Pending 199.99, Pending 200, Pending 200.01 and Delivered 250. Predict TRUE only for the two Pending amounts at/above200 before adding result formulas.
+6. Create **AI Boundary Cases**. Enter four explicitly fictional fixtures: Pending 199.99, Pending 200, Pending 200.01 and Delivered 250. Predict TRUE only for the two Pending amounts at/above 200 before adding result formulas.
 
 ![isolated boundary inputs](./images/c05-10-29-isolated-boundary-inputs.jpg)
 

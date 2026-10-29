@@ -293,7 +293,7 @@ Review status	Author-prepared source challenge only. Independent reviewer, spoke
 Audit appendix - baseline	Evidence, assumptions and boundaries
 Source bounds	Orders A1:K25,24 fictional records; Rates A1:D7,6 unique item keys. Source values and baseline totals are preserved.
 Question populations	Delivered-only project ranking; Pending AND Amount>=200 exception IDs; all-status Amount by numeric practice week.
-Baseline answers	PJ-B Delivered 578; no qualifying Pending IDs/count0/amount0; practice week 3 highest all-orders amount 850.
+Baseline answers	PJ-B Delivered 578; no qualifying Pending IDs/count 0/amount 0; practice week 3 highest all-orders amount 850.
 Independent reconciliation	New SUMIFS totals 556/578/344 match native Pivot Review Delivered cellsC3:C5. Delivered 1478 and all 3158 reconcile to pivot/source controls.
 Source trace	Capstone Trace retains PJ-B Delivered PO009/PO012/PO013/PO016 with amounts 240/32/270/36, sum 578.
 Zero-match proof	Source PO010 is Pending 180 and does not meet>=200. Separate synthetic Pending 200 and 250 qualify; synthetic figures are excluded from baseline answers.

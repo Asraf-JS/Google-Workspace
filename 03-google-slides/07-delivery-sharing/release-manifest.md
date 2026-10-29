@@ -5,7 +5,7 @@ Fictional training material. This records author UI/export checks on 24 October 
 | Artifact | Revision and intended use | Verified scope |
 |---|---|---|
 |Restricted editable GW - Slides - Sponsor Update|Source milestone: Sponsor update - delivery export checked. Author editing and presenter notes.|14 source slides retained. Skipped 6,10,11,12,13,14 remain in source. File remains at its existing restricted access; no audience invitations or publication.|
-|[Fixed handout](./resources/sponsor-update-handout-r1.pdf)|R1,24 October 2026. Author reference/offline handout for the fictional exercise.|8-pages,source 1, 2,3,4,5,7,8,9. Print preview/1 slide without notes/Include skipped slides off.|
+|[Fixed handout](./resources/sponsor-update-handout-r1.pdf)|R1,24 October 2026. Author reference/offline handout for the fictional exercise.|8 pages, source slides 1, 2, 3, 4, 5, 7, 8, 9. Print preview/1 slide without notes/Include skipped slides off.|
 
 Handout SHA-256:
 
