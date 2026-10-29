@@ -74,7 +74,7 @@ The draft distinguishes known project facts from a proposed training procedure. 
 
 ## 2.3 Insert the Checked Text
 
-1. Click at the end of the purpose statement at the top of the document (above **Authoring Log**) and press **Enter** twice. Type `Weekly reporting procedure - proposed training practice`, then write the checked procedure under four labels: Prepare, Check, Submit for Review and Resolve Questions, with eight numbered steps. Use the response only where your review in 2.2 found it correct, and fix the repairs you recorded. The prompts page has the reference wording if you want to compare.
+1. Click at the end of the purpose statement at the top of the document (above **Authoring Log**) and press **Enter** twice. Type `Weekly reporting procedure - proposed training practice`, then write the checked procedure under four labels: Prepare, Check, Submit for Review and Resolve Questions, with eight numbered steps. Use the response only where your review in 2.2 found it correct, and fix the repairs you recorded, except the missing status in step 4: leave that for section 2.4. The prompts page has the reference wording if you want to compare.
 
 ![The checked procedure inserted under the purpose statement, with eight numbered steps](./images/c02-02-checked-draft.png)
 

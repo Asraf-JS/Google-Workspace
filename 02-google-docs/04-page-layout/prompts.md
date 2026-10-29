@@ -41,7 +41,13 @@ https://github.com/Asraf-JS/Google-Workspace/blob/main/shared/sample-files/Tasks
 
 ## Part 4: Submission Checklist
 
-Paste these six paragraphs, select only them, then click Numbered list. Keep the label outside the list. These checks do not authorise a real submission.
+Type the label first, then paste the six paragraphs under it, select only them and click Numbered list.
+
+```text
+Submission checklist - proposed training practice
+```
+
+ Keep the label outside the list. These checks do not authorise a real submission.
 
 ```text
 Confirm the task ID against its supplied source record.

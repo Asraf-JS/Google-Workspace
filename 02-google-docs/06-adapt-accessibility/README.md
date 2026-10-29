@@ -106,9 +106,9 @@ The document can be followed through structure and text, with meaningful image d
 
 *A native table quotes both versions for all four source conditions.*
 
-3. Use the supplied glossary to produce or review a Malay practice summary. Mark language-review status explicitly and keep the English source alongside it.
+3. Check that the Malay practice summary from 6.2 is still in the Adaptation Practice copy, next to its English source, with **Language-review status: PENDING**. Don't add it to the Working document.
 
-4. Inspect the deliberately flawed adaptation on the card. Explain why approved and scheduled change meaning even if the prose reads smoothly.
+4. Inspect the deliberately flawed adaptation in Part 2 of the prompts page. Explain why approved and scheduled change meaning even if the prose reads smoothly.
 
 5. Inspect link labels before changing them. Replace a vague label if found; otherwise record source-supported no change. The reference document already used descriptive quick links. Repair any new audience/audit section that lacks a real heading style, then confirm it appears in the outline. Do not rely on red/green alone.
 

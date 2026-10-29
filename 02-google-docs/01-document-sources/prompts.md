@@ -126,3 +126,9 @@ Proposed reporting procedure - purpose and scope
 ```text
 Source context - supplied checked brief
 ```
+
+Reference statement (133 words), to compare with yours after you write it. Lab 5 reviews its budget and routing sentences, so if your own statement leaves either out, add the matching sentence from here.
+
+```text
+This proposed procedure helps team contributors in Planning, Procurement and Site Coordination prepare a consistent weekly update for the fictional Project Reporting Pilot at Seri Maju Projects. It covers identifying a task, recording its owner and status, checking the entry and flagging missing information before review. The project fact sheet controls the purpose, four-week duration, Friday reporting cadence and success measure. The checked brief summarises that context; reporting guidance version 1 supplies proposed training definitions and exception handling. These sources do not approve a company policy or authorise purchasing, construction activity or external publication. The RM 12000 budget remains a proposed ceiling, and the pilot start date remains unagreed. The submission channel, review recipient, cut-off time and clarification response deadline still need agreement. Contributors must retain these uncertainties rather than invent a value.
+```

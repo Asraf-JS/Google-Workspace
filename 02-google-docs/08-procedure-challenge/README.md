@@ -33,7 +33,7 @@ Use the procedure and source facts. Close the earlier step-by-step instructions 
 
 *Add the owner clarification instruction beneath its own Heading 3.*
 
-3. Add an opening link labelled `Draft an owner-clarification request`. Use **Insert link** and select the actual heading destination rather than typing a private document URL into the course notes.
+3. Under **Quick Start**, below the existing shortcut links, add a link labelled `Draft an owner-clarification request`. Use **Insert link** and select the actual heading destination rather than typing a private document URL into the course notes.
 
 ![Add an opening link to the new instruction](./images/c02-08-02-opening-owner-clarification-link.png)
 
@@ -121,7 +121,7 @@ A checked milestone and an honest handover that identifies the maintained source
 
 *Label the six-action checklist proposed practice.*
 
-4. Add the opening link `Review unresolved owner, status and approval evidence`, targeting the new Heading 2. Retain and retest the earlier owner-clarification link. Refresh the contents and follow its escalation entry. Both opening links and the contents destination were tested natively in the reference run.
+4. Under **Quick Start**, add the link `Review unresolved owner, status and approval evidence`, targeting the new Heading 2. Retain and retest the earlier owner-clarification link. Refresh the contents and follow its escalation entry. Both opening links and the contents destination were tested natively in the reference run.
 
 5. Update the sponsor summary, contributor checklist and open decision questions to match the route. The checked sponsor version is **100 words**. Keep the original budget/date caveats and the canonical T001 source example. Add a separate **Capstone Incoming-Report Examples** table for the three supplied scenarios, with columns **Case**, **Incoming report**, **Author route and recorded action**, **Unresolved / stop condition**.
 

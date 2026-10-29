@@ -111,7 +111,10 @@ The repeated elements are consistent and page numbering changes automatically ac
 
 *The Authoring Log starts on a new page; source wording is retained.*
 
-3. Click **File**, **Download**, **PDF document (.pdf)**. Open the snapshot and inspect every page. In the reference run, the native PDF was retrieved through the connected Drive export after requesting the browser download; browser download completion is unverified.
+3. Click **File**, **Download**, **PDF document (.pdf)**. Open the downloaded file and inspect every page.
+
+<!-- Reference run: the native PDF was retrieved through the connected Drive export after requesting the browser download; browser download completion is unverified. -->
+
 
 ![File > Download offers PDF document for a print-layout snapshot](./images/c02-04-pdf-menu.png)
 
@@ -166,7 +169,7 @@ Every page has usable content, legible page elements and no avoidable blank page
 
 *The Check column is 5 cm wide; 0.15 cm padding is tested on the selected cell.*
 
-3. Under **Submission Example**, add the six submission-check paragraphs from the prompts page. Select those six paragraphs and click **Numbered list**. Confirm you see **1** through **6**; pasted paragraphs may remain plain until you apply the list formatting. Keep the checklist label outside the list. Do not renumber the earlier eight-step procedure. Avoid filler.
+3. Under **Submission Example**, type the label `Submission checklist - proposed training practice`, press **Enter** and add the six submission-check paragraphs from the prompts page. Select those six paragraphs and click **Numbered list**. Confirm you see **1** through **6**; pasted paragraphs may remain plain until you apply the list formatting. Keep the checklist label outside the list. Do not renumber the earlier eight-step procedure. Avoid filler.
 
 ![Formatting verification confirms six real numbered-list items, preserving unresolved routing details](./images/c02-04-numbered-checklist.png)
 

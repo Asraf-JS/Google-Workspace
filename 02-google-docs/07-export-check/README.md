@@ -132,7 +132,7 @@ Use **Tools**, **Compare documents** if available. Choose the observed source, e
 
 *The r2 source explicitly requires a source recheck after clarification.*
 
-Update the source checklist to r2 filenames and record the inspected comparison, repair and viewer limitations. Name the revision `Practice release r2`. Export `Procedure-r2-main.pdf` with Current Tab, then the complete PDF and Word with All Tabs. Retain all r1 files and verify their hashes or unchanged bytes.
+Update the source checklist to r2 filenames and record the inspected comparison, repair and viewer limitations. Name the revision `Practice release r2`. Export `Procedure-r2-main.pdf` with Current Tab, then the complete PDF and Word with All Tabs. Keep all r1 files and check that they are unchanged (same file size and modified time in your downloads folder).
 
 ![The r2 source record distinguishes conversion evidence and pending viewer checks](./images/c02-07-21-r2-source-record-clean.png)
 
