@@ -14995,7 +14995,7 @@
         "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/05-validation-filtering.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-01-first-countif.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-01-first-countif.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-01-first-countif.png",
       "dimensions": [
         1591,
@@ -15013,10 +15013,11 @@
       ],
       "sha256": "44b283e7c7b21800efcd944b19e02d01ccb032acdf23d806789a12f367c94b9e",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-02-status-total.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-02-status-total.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-02-status-total.png",
       "dimensions": [
         1591,
@@ -15034,10 +15035,11 @@
       ],
       "sha256": "3579d772bf6f0274256a21e6dffbd070ff386d9cb91746895f51fb2a544b1302",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-03-first-sumif.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-03-first-sumif.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-03-first-sumif.png",
       "dimensions": [
         1591,
@@ -15055,10 +15057,11 @@
       ],
       "sha256": "a1a73f9877370f4a2a49ec4f092c4b72fd4b4b3b739f7561d8523cc19747390a",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-04-two-summaries.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-04-two-summaries.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-04-two-summaries.png",
       "dimensions": [
         1591,
@@ -15076,10 +15079,11 @@
       ],
       "sha256": "147d0c8c018bfa207cf04e8f38d6e3cfbd82d116c588fe6c22f91e505c32a3c4",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-05-column-chart-setup.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-05-column-chart-setup.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-05-column-chart-setup.png",
       "dimensions": [
         1591,
@@ -15097,10 +15101,11 @@
       ],
       "sha256": "97762daed5a961897b6467535e0b86ed07e63ff9b160a61b0ea39bf682e7ca62",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-06-status-title.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-06-status-title.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-06-status-title.png",
       "dimensions": [
         1591,
@@ -15118,10 +15123,11 @@
       ],
       "sha256": "606a292565792f498fc970eb6ac4a9c4df18e056c460074523bbc81bc283063f",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-07-linked-status-chart.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-07-linked-status-chart.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-07-linked-status-chart.png",
       "dimensions": [
         1591,
@@ -15139,10 +15145,11 @@
       ],
       "sha256": "38a356a0f3b250027700cbd1e4eea25946db026729dc4a944ce66119cb48a040",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-08-formula-prompt.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-08-formula-prompt.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-08-formula-prompt.png",
       "dimensions": [
         1591,
@@ -15160,10 +15167,11 @@
       ],
       "sha256": "cddcccc6377e0468a1c35db9dfa6adab00e33d3d40ba7beda0a03106a3c995fa",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-09-anchored-relative-explanation.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-09-anchored-relative-explanation.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-09-anchored-relative-explanation.png",
       "dimensions": [
         1591,
@@ -15181,10 +15189,11 @@
       ],
       "sha256": "3e29e07e32413ca33e4881fcacbae99b570213420be2e0ec2966d20996ded22c",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-10-original-t003-status.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-10-original-t003-status.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-10-original-t003-status.png",
       "dimensions": [
         1591,
@@ -15202,10 +15211,11 @@
       ],
       "sha256": "00a20b2683d1ff6405768bfb4005039e9c196bb00b6590683b5df0a06be044ed",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-11-temporary-complete.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-11-temporary-complete.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-11-temporary-complete.png",
       "dimensions": [
         1591,
@@ -15223,10 +15233,11 @@
       ],
       "sha256": "219e16c2ef22c199c93c666c7be7a745184fe1663a4d8b4ae9f6201c2db93586",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-12-status-change-chart.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-12-status-change-chart.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-12-status-change-chart.png",
       "dimensions": [
         1591,
@@ -15244,10 +15255,11 @@
       ],
       "sha256": "f428d26187c28dfbed1f284c74b977d4c4e391b5db858290ecd66a5d8273b0f0",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-13-status-restored-source.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-13-status-restored-source.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-13-status-restored-source.png",
       "dimensions": [
         1591,
@@ -15265,10 +15277,11 @@
       ],
       "sha256": "97228d7192d179d98ad5bef07a1f7af658dbc73a47a5d1d94b106d054ff428cd",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-14-status-baseline-restored.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-14-status-baseline-restored.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-14-status-baseline-restored.png",
       "dimensions": [
         1591,
@@ -15286,10 +15299,11 @@
       ],
       "sha256": "1159191cb035b83c7698822af9c3462b2225a902ca44d7a917df16ef0925d000",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-15-cost-chart-source.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-15-cost-chart-source.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-15-cost-chart-source.png",
       "dimensions": [
         1591,
@@ -15307,10 +15321,11 @@
       ],
       "sha256": "b777b287be7bc2c797d46806dbd9ad25c9af9356d69cb6ba690da0fa84af1a46",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-16-cost-units-title.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-16-cost-units-title.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-16-cost-units-title.png",
       "dimensions": [
         1591,
@@ -15328,10 +15343,11 @@
       ],
       "sha256": "8aa3d9913f6383ca7155cb50d4af20dc8c559c5ff02a4ad0770fe609d7125114",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-17-reconciliation-checks.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-17-reconciliation-checks.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-17-reconciliation-checks.png",
       "dimensions": [
         1591,
@@ -15349,10 +15365,11 @@
       ],
       "sha256": "dc789c25d279c7ebd4f5405aaffa5cd37dcf60624d978c9449fef16f717d1b6a",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-18-named-chart-copy.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-18-named-chart-copy.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-18-named-chart-copy.png",
       "dimensions": [
         1591,
@@ -15370,10 +15387,11 @@
       ],
       "sha256": "3cf5e03ecf26de2f5f941e61350eeee24f31920018d6c21f98173068a61e7c62",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-19-total-row-fault.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-19-total-row-fault.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-19-total-row-fault.png",
       "dimensions": [
         1591,
@@ -15391,10 +15409,11 @@
       ],
       "sha256": "31621046d87fed10f13bf1d61e0c0535292aadc2268b29588ee91a2b99461a42",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-20-chart-range-repaired.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-20-chart-range-repaired.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-20-chart-range-repaired.png",
       "dimensions": [
         1591,
@@ -15412,10 +15431,11 @@
       ],
       "sha256": "a0d80ae678235c69d848bd0bfd197ec946f5cd9c5d3f6a0eb9fbe383a4f03a14",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-21-misspelt-category-fault.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-21-misspelt-category-fault.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-21-misspelt-category-fault.png",
       "dimensions": [
         1591,
@@ -15433,10 +15453,11 @@
       ],
       "sha256": "4c6a381a1c870eb5579fa8e29f92b088a507b04e487f9bef7ad85ba3913cc3a0",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-22-category-repaired.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-22-category-repaired.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-22-category-repaired.png",
       "dimensions": [
         1591,
@@ -15454,10 +15475,11 @@
       ],
       "sha256": "96dcd8f28c4a1923f3085642e4193327f86e2554418d350e02ae33e1ec586247",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-23-supported-findings.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-23-supported-findings.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-23-supported-findings.png",
       "dimensions": [
         1591,
@@ -15475,10 +15497,11 @@
       ],
       "sha256": "fae8ea3df509a20ab33ceef8d981d84e487ed3c2f9e2acabb2f79046a977111b",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-24-original-planned-cost.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-24-original-planned-cost.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-24-original-planned-cost.png",
       "dimensions": [
         1591,
@@ -15496,10 +15519,11 @@
       ],
       "sha256": "4dab715025263327d59e4924dd9f46e91ba732dfc67b56a7b90ae1696cb7a476",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-25-temporary-cost-source.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-25-temporary-cost-source.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-25-temporary-cost-source.png",
       "dimensions": [
         1591,
@@ -15517,10 +15541,11 @@
       ],
       "sha256": "fc91bc3f9e126f822c6e389398caa87200aa15758f5a4b0370bcdbd65925f80a",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-26-cost-propagation.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-26-cost-propagation.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-26-cost-propagation.png",
       "dimensions": [
         1591,
@@ -15538,10 +15563,11 @@
       ],
       "sha256": "986fda2d6d1b44dc14bd04300ae24270fe3674b6908d92530c752b8828ea2414",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-27-planned-cost-restored.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-27-planned-cost-restored.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-27-planned-cost-restored.png",
       "dimensions": [
         1591,
@@ -15559,10 +15585,11 @@
       ],
       "sha256": "3c448c0d473718f2929233ea5fa94dbe2487e21f6d09add4d964c3569cfab486",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-28-two-charts-restored.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-28-two-charts-restored.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-28-two-charts-restored.png",
       "dimensions": [
         1591,
@@ -15580,10 +15607,11 @@
       ],
       "sha256": "b903910f07752bb589b139106bb258184245037a5b2a564433ede28adb1fe7fe",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-29-test-log.jpg": {
+    "04-sheets-foundation-intermediate/06-summary-chart/images/c04-06-29-test-log.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/06-summary-chart/c04-06-29-test-log.png",
       "dimensions": [
         1591,
@@ -15601,7 +15629,8 @@
       ],
       "sha256": "c2de2a3ed24d49c6fd0ffe63d19ebb9a5e4dc168c879b0212c72b7573387b8cb",
       "notes": [
-        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending."
+        "Actual current-stage learner UI; original dimensions, no crop or resize; account avatar masked. Temporary Tasks F4 status and G4 cost restored. Chart/category fault tests on a named copy, repaired. Gemini panel explanation compared to actual formula; no Insert applied. Independent challenge and learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/06-summary-chart.json (crop and boxes in 1600 px coordinates)."
       ]
     },
     "04-sheets-foundation-intermediate/07-sharing-print/images/c04-07-01-restricted-access.jpg": {

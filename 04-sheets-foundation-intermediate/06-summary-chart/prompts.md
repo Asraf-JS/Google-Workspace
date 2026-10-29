@@ -43,3 +43,28 @@ Summary Checks G2:J4: Task count H3=B5, I3=COUNTA(Tasks!A2:A13), J3=H3-I3; Plann
 Chart titles: Task count by status (A1:B4), Planned cost by team (RM) (D1:E4). On Chart Range Tests, A1:B5 deliberately plots Total 12 as a fourth category; repair to A1:B4 using Select data range and OK. Misspell A4 Not Startd: COUNTIF 0, total 8, difference-4; repair label to Not Started, retaining the formula.
 
 Temporary source tests: Tasks F4 Not Started→Complete gives 5/4/3, then restore Not Started. Tasks G4 500→600 gives I4-600, Planning 2900 and both planned totals 10500; restore 500 gives I4-500, Planning 2800 and 10400. Source values/formulas restored. Summary Test Log retains observations. Independent dashboard/reviewer and learner timing pending.
+
+## Part 4: Check Blocks
+
+Columns are separated by tabs, so you can paste each block into its first cell, then add the formulas the chapter gives.
+
+Summary Checks, G2:J4 (section 6.4, step 3). Put the formulas in H3:J4:
+
+```text
+Summary Checks	Summary	Source	Difference
+Task count
+Planned cost (RM)
+```
+
+Summary Test Log, A1:D8 (section 6.4, step 15). Record what you changed, expected, observed and restored in B:D:
+
+```text
+Check	Target / change	Expected and observed	Restored final state
+Status change
+Chart range fault
+Spelling fault
+Cost change
+Formula check
+Reconciliation
+Scope
+```
