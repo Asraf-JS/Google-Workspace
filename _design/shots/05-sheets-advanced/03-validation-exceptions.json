@@ -1,0 +1,495 @@
+{
+ "raw": "../raw/05-sheets-advanced/03-validation-exceptions",
+ "repoRoot": "../../../05-sheets-advanced",
+ "shots": {
+  "c05-03-01-separate-validation-practice-copy.png": {
+   "boxes": [
+    [
+     264,
+     838,
+     430,
+     870,
+     1
+    ]
+   ]
+  },
+  "c05-03-02-status-dropdown-and-reject-setting.png": {
+   "boxes": [
+    [
+     1284,
+     166,
+     1580,
+     196
+    ],
+    [
+     1284,
+     300,
+     1580,
+     452,
+     2,
+     "left"
+    ],
+    [
+     1290,
+     720,
+     1470,
+     750,
+     2
+    ]
+   ]
+  },
+  "c05-03-03-whole-nonnegative-custom-rule-reject.png": {
+   "boxes": [
+    [
+     1270,
+     250,
+     1572,
+     350,
+     3,
+     "left"
+    ],
+    [
+     1270,
+     530,
+     1572,
+     560
+    ]
+   ]
+  },
+  "c05-03-04-saved-validation-rule-coverage.png": {
+   "boxes": [
+    [
+     1284,
+     128,
+     1580,
+     284,
+     4,
+     "left"
+    ]
+   ]
+  },
+  "c05-03-05-pending-high-conditional-format-rule.png": {
+   "boxes": [
+    [
+     1270,
+     170,
+     1572,
+     240,
+     1,
+     "left"
+    ],
+    [
+     1270,
+     370,
+     1572,
+     410
+    ],
+    [
+     1270,
+     460,
+     1572,
+     500
+    ]
+   ]
+  },
+  "c05-03-06-baseline-no-qualifying-highlights.png": {
+   "boxes": [
+    [
+     40,
+     206,
+     1592,
+     830,
+     2,
+     "left"
+    ]
+   ]
+  },
+  "c05-03-07-invalid-status-rejected.png": {
+   "boxes": [
+    [
+     518,
+     346,
+     1082,
+     532,
+     1
+    ]
+   ]
+  },
+  "c05-03-08-fractional-quantity-rejected.png": {
+   "boxes": [
+    [
+     518,
+     346,
+     1082,
+     532,
+     2
+    ]
+   ]
+  },
+  "c05-03-09-pending-199-not-highlighted.png": {
+   "boxes": [
+    [
+     40,
+     250,
+     1592,
+     276,
+     3,
+     "below"
+    ]
+   ]
+  },
+  "c05-03-10-pending-200-highlighted.png": {
+   "boxes": [
+    [
+     40,
+     250,
+     1592,
+     276,
+     4,
+     "below"
+    ]
+   ]
+  },
+  "c05-03-11-guided-values-restored.png": {
+   "boxes": [
+    [
+     40,
+     250,
+     1592,
+     276,
+     5,
+     "below"
+    ]
+   ]
+  },
+  "c05-03-12-validation-case-expectations-before-tests.png": {
+   "boxes": [
+    [
+     40,
+     166,
+     1592,
+     404,
+     1,
+     "below"
+    ]
+   ]
+  },
+  "c05-03-13-zero-quantity-accepted.png": {
+   "boxes": [
+    [
+     576,
+     250,
+     712,
+     276,
+     2
+    ]
+   ]
+  },
+  "c05-03-14-positive-integer-accepted.png": {
+   "boxes": [
+    [
+     576,
+     250,
+     712,
+     276,
+     3
+    ]
+   ]
+  },
+  "c05-03-15-negative-quantity-rejected.png": {
+   "boxes": [
+    [
+     518,
+     346,
+     1082,
+     532,
+     4
+    ]
+   ]
+  },
+  "c05-03-16-fractional-quantity-rejected-in-harness.png": {
+   "boxes": [
+    [
+     518,
+     346,
+     1082,
+     532,
+     5
+    ]
+   ]
+  },
+  "c05-03-17-text-quantity-rejected.png": {
+   "boxes": [
+    [
+     518,
+     346,
+     1082,
+     532,
+     6
+    ]
+   ]
+  },
+  "c05-03-18-delivered-status-accepted.png": {
+   "boxes": [
+    [
+     860,
+     250,
+     1002,
+     276,
+     7
+    ]
+   ]
+  },
+  "c05-03-19-pending-status-accepted.png": {
+   "boxes": [
+    [
+     860,
+     250,
+     1002,
+     276,
+     8
+    ]
+   ]
+  },
+  "c05-03-20-cancelled-status-accepted.png": {
+   "boxes": [
+    [
+     860,
+     250,
+     1002,
+     276,
+     9
+    ]
+   ]
+  },
+  "c05-03-21-unknown-status-rejected.png": {
+   "boxes": [
+    [
+     518,
+     346,
+     1082,
+     532,
+     10
+    ]
+   ]
+  },
+  "c05-03-22-blank-clear-behavior.png": {
+   "boxes": [
+    [
+     576,
+     250,
+     712,
+     276,
+     11
+    ]
+   ]
+  },
+  "c05-03-23-observed-input-validation-results.png": {
+   "boxes": [
+    [
+     40,
+     166,
+     1500,
+     404,
+     12,
+     "below"
+    ]
+   ]
+  },
+  "c05-03-24-explicit-flag-baseline-zero.png": {
+   "boxes": [
+    [
+     1444,
+     166,
+     1592,
+     830,
+     13,
+     "left"
+    ]
+   ]
+  },
+  "c05-03-25-exception-matrix-expectations-before-tests.png": {
+   "boxes": [
+    [
+     40,
+     464,
+     1500,
+     586,
+     14
+    ]
+   ]
+  },
+  "c05-03-26-pending-199-flag-false.png": {
+   "boxes": [
+    [
+     1444,
+     250,
+     1580,
+     276,
+     15,
+     "below"
+    ]
+   ]
+  },
+  "c05-03-27-pending-200-flag-true.png": {
+   "boxes": [
+    [
+     40,
+     250,
+     1592,
+     276,
+     16,
+     "below"
+    ]
+   ]
+  },
+  "c05-03-28-pending-201-flag-true.png": {
+   "boxes": [
+    [
+     40,
+     250,
+     1592,
+     276,
+     17,
+     "below"
+    ]
+   ]
+  },
+  "c05-03-29-delivered-200-flag-false.png": {
+   "boxes": [
+    [
+     1444,
+     250,
+     1580,
+     276,
+     18,
+     "below"
+    ]
+   ]
+  },
+  "c05-03-30-cancelled-200-flag-false.png": {
+   "boxes": [
+    [
+     1444,
+     250,
+     1580,
+     276,
+     19,
+     "below"
+    ]
+   ]
+  },
+  "c05-03-31-final-source-row-positive-coverage.png": {
+   "boxes": [
+    [
+     40,
+     766,
+     1592,
+     794,
+     20,
+     "left"
+    ]
+   ]
+  },
+  "c05-03-32-filtered-ids-match-two-highlighted-rows.png": {
+   "boxes": [
+    [
+     40,
+     206,
+     1592,
+     268,
+     21,
+     "below"
+    ],
+    [
+     1370,
+     846,
+     1580,
+     866
+    ]
+   ]
+  },
+  "c05-03-33-filter-removed-and-practice-values-restored.png": {
+   "boxes": [
+    [
+     40,
+     206,
+     1592,
+     276,
+     22,
+     "below"
+    ]
+   ]
+  },
+  "c05-03-34-restored-final-row-flag-false.png": {
+   "boxes": [
+    [
+     1444,
+     798,
+     1592,
+     822,
+     23,
+     "left"
+    ]
+   ]
+  },
+  "c05-03-35-rule-ranges-restoration-and-limits.png": {
+   "boxes": [
+    [
+     318,
+     166,
+     1592,
+     380,
+     24,
+     "left"
+    ]
+   ]
+  },
+  "c05-03-36-completed-input-and-exception-matrices.png": {
+   "boxes": [
+    [
+     40,
+     166,
+     1500,
+     412,
+     25
+    ]
+   ]
+  },
+  "c05-03-37-completed-five-case-exception-matrix.png": {
+   "boxes": [
+    [
+     40,
+     502,
+     1500,
+     620,
+     26
+    ]
+   ]
+  },
+  "c05-03-38-maintained-source-preserved.png": {
+   "boxes": [
+    [
+     40,
+     206,
+     1592,
+     830,
+     27,
+     "left"
+    ]
+   ]
+  },
+  "c05-03-39-restored-validation-practice-ready.png": {
+   "boxes": [
+    [
+     40,
+     166,
+     1592,
+     830,
+     28,
+     "left"
+    ]
+   ]
+  }
+ }
+}
