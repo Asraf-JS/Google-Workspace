@@ -1,0 +1,316 @@
+{
+ "raw": "../raw/06-notebooklm-gemini/01-ai-workspace",
+ "repoRoot": "../../../06-notebooklm-gemini",
+ "shots": {
+  "c06-01-01-isolated-training-drive-folder.png": {
+   "boxes": [
+    [
+     470,
+     90,
+     730,
+     132,
+     1
+    ]
+   ]
+  },
+  "c06-01-02-gemini-training-account-surface.png": {
+   "boxes": [
+    [
+     636,
+     400,
+     1206,
+     470,
+     2
+    ]
+   ]
+  },
+  "c06-01-03-new-notebook-zero-sources.png": {
+   "boxes": [
+    [
+     36,
+     14,
+     930,
+     58,
+     3
+    ],
+    [
+     30,
+     500,
+     390,
+     640
+    ]
+   ]
+  },
+  "c06-01-04-advertised-source-types.png": {
+   "boxes": [
+    [
+     490,
+     416,
+     1120,
+     500,
+     4
+    ]
+   ]
+  },
+  "c06-01-05-original-fictional-fact-sheet-only.png": {
+   "boxes": [
+    [
+     500,
+     290,
+     1100,
+     586,
+     5
+    ],
+    [
+     970,
+     628,
+     1074,
+     666
+    ]
+   ]
+  },
+  "c06-01-06-imported-original-source-labelled.png": {
+   "boxes": [
+    [
+     1004,
+     144,
+     1588,
+     176,
+     6
+    ],
+    [
+     1006,
+     288,
+     1600,
+     762
+    ]
+   ]
+  },
+  "c06-01-07-one-source-preflight-complete.png": {
+   "boxes": [
+    [
+     30,
+     380,
+     390,
+     410,
+     7
+    ],
+    [
+     440,
+     340,
+     1170,
+     620
+    ]
+   ]
+  },
+  "c06-01-08-native-evidence-log-created.png": {
+   "boxes": [
+    [
+     60,
+     10,
+     800,
+     32,
+     1
+    ]
+   ]
+  },
+  "c06-01-09-fact-sheet-authority-and-limits.png": {
+   "boxes": [
+    [
+     470,
+     400,
+     1070,
+     590,
+     2
+    ]
+   ]
+  },
+  "c06-01-10-scripted-action-source-registered.png": {
+   "boxes": [
+    [
+     470,
+     630,
+     1070,
+     830,
+     3
+    ]
+   ]
+  },
+  "c06-01-11-proposed-guidance-and-evidence-boundary.png": {
+   "boxes": [
+    [
+     470,
+     166,
+     1070,
+     390,
+     4
+    ],
+    [
+     470,
+     676,
+     1080,
+     778,
+     4
+    ]
+   ]
+  },
+  "c06-01-12-five-question-coordinator-task-contract.png": {
+   "boxes": [
+    [
+     470,
+     200,
+     1080,
+     690,
+     2
+    ]
+   ]
+  },
+  "c06-01-13-fixed-facts-gaps-and-review-log.png": {
+   "boxes": [
+    [
+     470,
+     180,
+     1080,
+     250,
+     3
+    ],
+    [
+     470,
+     690,
+     1080,
+     800,
+     4
+    ]
+   ]
+  },
+  "c06-01-14-observed-feature-preflight-and-untested-routes.png": {
+   "boxes": [
+    [
+     480,
+     350,
+     1080,
+     490,
+     1
+    ]
+   ]
+  },
+  "c06-01-15-evidence-log-practice-folder-destination.png": {
+   "boxes": [
+    [
+     504,
+     336,
+     710,
+     364
+    ],
+    [
+     970,
+     630,
+     1086,
+     672,
+     2
+    ]
+   ]
+  },
+  "c06-01-17-scoring-table-not-run-and-acceptance-gates.png": {
+   "boxes": [
+    [
+     470,
+     120,
+     1080,
+     470,
+     3
+    ],
+    [
+     470,
+     490,
+     1080,
+     630,
+     3
+    ]
+   ]
+  },
+  "c06-01-18-open-questions-and-prepared-final-state.png": {
+   "boxes": [
+    [
+     470,
+     150,
+     1080,
+     540,
+     4
+    ],
+    [
+     470,
+     564,
+     1080,
+     750
+    ]
+   ]
+  },
+  "c06-01-19-evidence-log-final-outline.png": {
+   "boxes": [
+    [
+     60,
+     270,
+     280,
+     800,
+     5
+    ]
+   ]
+  },
+  "c06-01-20-evidence-log-move-confirmed.png": {
+   "boxes": [
+    [
+     0,
+     800,
+     680,
+     850,
+     6
+    ]
+   ]
+  },
+  "c06-01-21-six-question-bank-inserted-before-scoring.png": {
+   "boxes": [
+    [
+     470,
+     160,
+     1090,
+     630,
+     7
+    ]
+   ]
+  },
+  "c06-01-22-scoring-section-kept-with-table.png": {
+   "boxes": [
+    [
+     470,
+     780,
+     850,
+     816,
+     8
+    ]
+   ]
+  },
+  "c06-01-25-final-six-test-scoring-plan.png": {
+   "boxes": [
+    [
+     480,
+     430,
+     1100,
+     836,
+     8
+    ]
+   ]
+  },
+  "c06-01-26-evidence-log-saved-in-practice-folder.png": {
+   "boxes": [
+    [
+     310,
+     248,
+     1560,
+     274,
+     9
+    ]
+   ]
+  }
+ }
+}
