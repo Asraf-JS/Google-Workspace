@@ -27,31 +27,31 @@ Use the [prompts page](./prompts.md) and [shared practice files](../../shared/sa
 
 1. In Gmail choose **Compose**, leave recipients blank and use subject `Draft - Project Reporting Pilot kick-off`.
 
-![Fresh unsent draft with an empty recipient field, before body content is added](./images/c01-03-01-start.jpg)
+![Fresh unsent draft with an empty recipient field, before body content is added](./images/c01-03-01-start.png)
 
 *Fresh unsent draft with an empty recipient field, before body content is added.*
 
 2. Write the purpose and a three-part agenda: confirm reporting outputs, review proposed status definitions and identify sponsor decisions.
 
-![Purpose and agenda before links, approval caveats and preparation instructions are added](./images/c01-03-01-agenda.jpg)
+![Purpose and agenda before links, approval caveats and preparation instructions are added](./images/c01-03-01-agenda.png)
 
 *Purpose and agenda before links, approval caveats and preparation instructions are added.*
 
 3. Include links to the checked brief and tracker. Write **Pilot start date: To be confirmed** and preserve the proposed budget wording.
 
-![Source links and unresolved project decisions before the preparation paragraph](./images/c01-03-01-links.jpg)
+![Source links and unresolved project decisions before the preparation paragraph](./images/c01-03-01-links.png)
 
 *Source links and unresolved project decisions before the preparation paragraph.*
 
 4. Add a requested preparation paragraph: read the brief, inspect the status definitions and bring questions. Treat this as a draft request, not proof that someone accepted an action.
 
-![The preparation request is labelled as a draft, with no recipients or accepted commitments](./images/c01-03-01-preparation.jpg)
+![The preparation request is labelled as a draft, with no recipients or accepted commitments](./images/c01-03-01-preparation.png)
 
 *The preparation request is labelled as a draft, with no recipients or accepted commitments.*
 
 5. Close the compose window, reopen the saved draft and check subject, links and unresolved decisions. Keep recipients empty and leave it unsent.
 
-![Reopened saved draft with the To field empty; no message has been sent](./images/c01-03-01.jpg)
+![Reopened saved draft with the To field empty; no message has been sent](./images/c01-03-01.png)
 
 *Reopened saved draft with the To field empty; no message has been sent.*
 
@@ -72,11 +72,11 @@ The saved draft contains a purpose, agenda, preparation request and useful links
 
 3. Leave guests empty. Remove automatically added conferencing if it is not needed for this private test. Add the agenda and brief link in the description, labelled as fictional practice.
 
-4. Save the private event, reopen it and compare its title, duration, local time, guest list and description with your draft. If the class has no assigned slot, keep an event specification in the Doc instead of choosing a real project date.
+4. Save the private event, reopen it and compare its title, duration, local time, guest list and description with your draft. If the class has no assigned slot, type the event specification from Part 3 of the prompts page into the meeting record instead of choosing a real project date.
 
 5. Record why scheduling this private practice item does not agree the pilot start date. After the lab, delete only your own practice event if it is no longer needed.
 
-![The permitted event-specification fallback before the meeting record or action table exists; no Calendar event is claimed](./images/c01-03-02.jpg)
+![The permitted event-specification fallback before the meeting record or action table exists; no Calendar event is claimed](./images/c01-03-02.png)
 
 *The permitted event-specification fallback before the meeting record or action table exists; no Calendar event is claimed.*
 
@@ -95,25 +95,25 @@ A private practice event, or clearly labelled fallback specification, has the co
 
 Keep **Actions** and its table together; insert a page break before the heading if needed.
 
-2. Under Actions insert a table: ActionID, Action, Owner, Due practice week, Status and Evidence. Manually extract the three preparation commitments, or use the supplied extraction prompt then audit each row.
+2. Under Actions insert a 6-column, 4-row table with the headings ActionID, Action, Owner, Due practice week, Status and Evidence (Part 2 of the [prompts page](./prompts.md)). Manually extract the three preparation commitments, or use the extraction prompt in Part 1 of the prompts page, then audit each row.
 
 3. Compare every owner and due week against the source. Distinguish these three preparation commitments from the separate 12-row task dataset. Do not merge them by matching names.
 
 4. Set action status to **Not started - practice assumption** and evidence to **No completion evidence supplied**. Keep budget approval and start-date agreement in Decisions Needed, not in the completed-action list.
 
-![Exactly three scripted actions before adding the follow-up paragraph; status and missing evidence are explicit](./images/c01-03-03-table.jpg)
+![Exactly three scripted actions before adding the follow-up paragraph; status and missing evidence are explicit](./images/c01-03-03-table.png)
 
 *Exactly three scripted actions before adding the follow-up paragraph; status and missing evidence are explicit.*
 
 5. Add a draft follow-up paragraph for any action with no completion evidence. A reminder is proposed communication, not a new due date or a sent message.
 
-![The action table and unsent follow-up preserve source weeks and do not create assignments or deadlines](./images/c01-03-03.jpg)
+![The action table and unsent follow-up preserve source weeks and do not create assignments or deadlines](./images/c01-03-03.png)
 
 *The action table and unsent follow-up preserve source weeks and do not create assignments or deadlines.*
 
 6. Name a version `Actions checked against scripted record`. Explain why a meeting-notes template and an AI extraction do not create or synchronise assigned Tasks automatically.
 
-![Name the action baseline after checking all three source commitments](./images/c01-03-03-version.jpg)
+![Name the action baseline after checking all three source commitments](./images/c01-03-03-version.png)
 
 *Name the action baseline after checking all three source commitments.*
 
@@ -128,7 +128,7 @@ Exactly three source commitments have traceable owners and due weeks. Unknown co
 
 ## Independent Practice
 
-Use the Lab 3 change card in masterclass-challenges.txt. A later message says that Bala’s review is delayed, but provides no replacement week. Update the action record without inventing a deadline. Prepare an unsent escalation paragraph for the coordinator and add a proposed decision-focused agenda for the next review. Demonstrate which source changed, which status is your assumption and which items still need confirmation. Recheck the private event for an accidental guest or changed time zone.
+Use the Lab 3 change card in [masterclass-challenges.txt](../../shared/sample-files/masterclass-challenges.txt). A later message says that Bala’s review is delayed, but provides no replacement week. Update the action record without inventing a deadline. Prepare an unsent escalation paragraph for the coordinator and add a proposed decision-focused agenda for the next review. Demonstrate which source changed, which status is your assumption and which items still need confirmation. Recheck the private event for an accidental guest or changed time zone.
 
 ### Evidence to Hand Over
 
