@@ -50,7 +50,7 @@ Use the working deck. Only use supplied, self-created or otherwise permitted med
 
 *Inspect the actual generated office illustration.*
 
-3. Add a separate **Title only** slide titled **AI-generated context - optional illustration**. Select the reviewed result, inspect **Image preview**, then select **Insert**. If the result is unsuitable or generation unavailable, keep the native workflow instead.
+3. Add a separate **Title only** slide titled **AI-generated context - optional illustration** and move it to the end of the deck (**Slide**, **Move slide**, **Move slide to end**). Keep the earlier slides in their positions; Labs 7 and 8 refer to them by number. Select the reviewed result, inspect **Image preview**, then select **Insert**. If the result is unsuitable or generation unavailable, keep the native workflow instead.
 
 ![Insert the reviewed illustration on a separate optional slide](./images/c03-04-04-inserted-context-illustration.png)
 

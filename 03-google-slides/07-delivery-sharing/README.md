@@ -100,12 +100,12 @@ The Q&A session remains unstarted and file access remains at its existing restri
 
 *Inspect Embed settings then close without publishing.*
 
-3. Record a distribution choice using the table below. For this fictional draft, retain the restricted editable source for author work. A future approved reviewer handout can be a checked, dated PDF; the 7.4 reference checks its8-page scope, rendered order and embedded destinations. Interactive PDF clicks and spoken rehearsal remain pending. The source pack does not authorise public publication.
+3. Record a distribution choice using the table below. For this fictional draft, retain the restricted editable source for author work. A future approved reviewer handout can be a checked, dated PDF; the 7.4 reference checks its 8-page scope, rendered order and embedded destinations. Interactive PDF clicks and spoken rehearsal remain pending. The source pack does not authorise public publication.
 
 | Choice | Intended use and update behaviour | Access and evidence to check |
 |---|---|---|
 | Restricted file link | Author or approved reviewers use the current source; source edits remain in that file. | Recipient identity, role, current access and correct revision. The reference remains owner-only; no recipient test was performed. |
-| Downloaded PDF | A fixed handout or offline fallback at the recorded export revision; it does not refresh with later source edits. | Intended slide scope, skipped-slide inclusion, text and chart values, links, revision/date and permitted destination. The7.4 reference produced8-pages through Print preview; rendered pages and embedded destinations checked. Spoken fallback rehearsal and interactive PDF clicks remain pending. |
+| Downloaded PDF | A fixed handout or offline fallback at the recorded export revision; it does not refresh with later source edits. | Intended slide scope, skipped-slide inclusion, text and chart values, links, revision/date and permitted destination. The 7.4 reference produced 8 pages through Print preview; rendered pages and embedded destinations checked. Spoken fallback rehearsal and interactive PDF clicks remain pending. |
 | Published presentation | A separate web-viewing or embed distribution route. Published content and update settings need their own review. | Whether web exposure is authorised, audience suitability and published settings. The dialog was inspected and closed; this deck is not published. |
 
 <details markdown="1">
@@ -125,7 +125,7 @@ A documented choice with its checks. The native file remains restricted and unpu
 
 2. Perform a real first spoken rehearsal. Record total speaking time, one hesitation and unnecessary advances, excluding interruptions. This remains **unperformed in the author reference**. Do not substitute a timer left running during automation or window setup.
 
-3. Prepare the three sponsor answers from the card. Four Complete tasks are a snapshot, not pilot-success evidence; RM 12000 remains a proposed ceiling; no confirmed start date is supplied. Cite the task register/Summary, checked brief and project facts. The success criterion is future on-time submission by all three teams in the final two weeks, not an achieved result.
+3. Prepare the three sponsor answers to the questions in Part 1 of the prompts page. Four Complete tasks are a snapshot, not pilot-success evidence; RM 12000 remains a proposed ceiling; no confirmed start date is supplied. Cite the task register/Summary, checked brief and project facts. The success criterion is future on-time submission by all three teams in the final two weeks, not an achieved result.
 
 ![Prepare source-based answers to the sponsor questions](./images/c03-07-12-source-based-sponsor-answers.png)
 
@@ -190,7 +190,7 @@ A documented choice with its checks. The native file remains restricted and unpu
 <details markdown="1">
 <summary>What should you see?</summary>
 
-A planned run sheet, three grounded answers, live appendix navigation and an 8-page static handout with checked visual sequence and internal destinations. The14-page diagnostic explains the scope repair. Two real spoken rehearsals, interactive PDF clicks and independent validation remain open.
+A planned run sheet, three grounded answers, live appendix navigation and an 8-page static handout with checked visual sequence and internal destinations. The 14-page diagnostic explains the scope repair. Two real spoken rehearsals, interactive PDF clicks and independent validation remain open.
 
 </details>
 

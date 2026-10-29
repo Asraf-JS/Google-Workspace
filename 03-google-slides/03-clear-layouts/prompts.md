@@ -17,6 +17,8 @@ Dense draft: “Seri Maju Projects in Petaling Jaya proposes a four-week Project
 ```text
 GW - Slides - Layout Practice
 Test consistent weekly reporting
+A proposed four-week Project Reporting Pilot
+Fictional training example
 Three teams will produce four outputs
 The task snapshot is not a success result
 Teams may define task status differently

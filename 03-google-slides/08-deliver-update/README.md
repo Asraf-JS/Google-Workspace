@@ -34,7 +34,7 @@ Use the checked deck and keep the [source brief](../../shared/sample-files/check
 
 *Inspect the baseline status counts and qualification.*
 
-3. Keep the proposed RM12000 ceiling and unresolved start date explicit in the decision request. The supplied brief says **Budget: proposed ceiling RM12000, not approved**; its schedule is four weeks from an agreed start date. No new approval or performance evidence is supplied by the final change request.
+3. Keep the proposed RM 12000 ceiling and unresolved start date explicit in the decision request. The supplied brief says **Budget: proposed ceiling RM 12000, not approved**; its schedule is four weeks from an agreed start date. No new approval or performance evidence is supplied by the final change request.
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -76,13 +76,13 @@ An answer traceable to a source cell/formula or a stated evidence gap. The autho
 
 *Create a private final-practice copy with notes retained.*
 
-2. Record specific feedback in the status slide's speaker notes before revising. The author example is: **Name the 12-task evidence population in the headline so it remains explicit during a short update.** Label it **author practice feedback, not partner feedback**. Preserve4/4/4, the linked source and unresolved decisions.
+2. Record specific feedback in the status slide's speaker notes before revising. The author example is: **Name the 12-task evidence population in the headline so it remains explicit during a short update.** Label it **author practice feedback, not partner feedback**. Preserve 4/4/4, the linked source and unresolved decisions.
 
 ![Record specific author feedback before changing the headline](./images/c03-08-05-author-feedback-recorded-before-revision.png)
 
 *Record specific author feedback before changing the headline.*
 
-3. Replace the status title with **12 tasks show current work, not pilot success**. Keep the existing 25pt title size and inspect that it fits on one line. The three values, chart and visible qualification remain unchanged.
+3. Replace the status title with **12 tasks show current work, not pilot success**. Keep the existing 25 pt title size and inspect that it fits on one line. The three values, chart and visible qualification remain unchanged.
 
 ![Revise the headline while retaining counts and qualification](./images/c03-08-06-revised-headline-keeps-twelve-task-population-and-caveat.png)
 
@@ -163,13 +163,13 @@ A targeted revision in a separate practice deck with unchanged baseline counts, 
 
 *Update the scenario chart and visible counts together.*
 
-7. Record **Summary!A1:B4**, the bounded COUNTIF population and the T003 change in the status notes. The skipped cost appendix deliberately retains its baseline **Team Costs!A1:B4** source: RM2800, RM4000 and RM3600, total RM10400. A status-only scenario does not change planned costs. Record this retained source rather than claiming every chart was redirected. The cost appendix is excluded from this handout.
+7. Record **Summary!A1:B4**, the bounded COUNTIF population and the T003 change in the status notes. The skipped cost appendix deliberately retains its baseline **Team Costs!A1:B4** source: RM 2800, RM 4000 and RM 3600, total RM 10400. A status-only scenario does not change planned costs. Record this retained source rather than claiming every chart was redirected. The cost appendix is excluded from this handout.
 
 ![Record the scenario source and qualification in notes](./images/c03-08-19-scenario-source-notes-and-evidence-boundary.png)
 
 *Record the scenario source and qualification in notes.*
 
-8. Label the opening subtitle **Changed scenario · two-minute update**. Record a shorter narrative in the opening notes: purpose, changed 12-task snapshot, definition risk, requested budget/start decisions and next steps. Keep **proposed RM12000, not approved**, the **unagreed start** and the future reporting-performance success measure. Reject “approved budget” and “pilot already successful”: the change request supplies no evidence for them. The 0:00 to 2:00 allocations are a plan; actual speech and reviewer challenge remain pending. The author question “Does five Complete prove success?” is a source check, not partner feedback.
+8. Label the opening subtitle **Changed scenario · two-minute update**. Record a shorter narrative in the opening notes: purpose, changed 12-task snapshot, definition risk, requested budget/start decisions and next steps. Keep **proposed RM 12000, not approved**, the **unagreed start** and the future reporting-performance success measure. Reject “approved budget” and “pilot already successful”: the change request supplies no evidence for them. The 0:00 to 2:00 allocations are a plan; actual speech and reviewer challenge remain pending. The author question “Does five Complete prove success?” is a source check, not partner feedback.
 
 ![Label the scenario and record the shorter narrative](./images/c03-08-20-scenario-labelled-and-two-minute-narrative-recorded.png)
 

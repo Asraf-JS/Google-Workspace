@@ -59,7 +59,7 @@ The deck has six identifiable slides in the planned sequence.
 
 *Retain the alternative as skipped backup.*
 
-3. Delete only the duplicate after comparing alternatives, or retain it skipped as backup. Start **Slideshow** from Decisions and advance: the reference reaches Next Steps, bypassing the backup.
+3. Keep the duplicate skipped as backup: section 2.4 and Lab 7 count on it being slide 6. Start **Slideshow** from Decisions and advance: the reference reaches Next Steps, bypassing the backup.
 
 ![Slideshow reaches Next Steps after Decisions](./images/c03-02-05-slideshow-skips-backup.png)
 
@@ -120,7 +120,7 @@ The title follows the new green accent; the manually formatted subtitle remains 
 
 4. Create a deliberately different source slide with a different theme and an informative title. Import it twice: once keeping its original theme and once adopting the destination theme.
 
-5. Compare text, background and object formatting on the two imports. Choose the suitable version and keep only the useful practice result as a skipped appendix slide. **Reference status: steps 4-5 are pending because the import picker is blank. The working deck has no imported practice appendix.**
+5. Compare text, background and object formatting on the two imports. Choose the suitable version and keep only the useful practice result as a skipped slide at the end of the deck (**Slide**, **Move slide**, **Move slide to end**), so the slide numbers used in Labs 7 and 8 stay the same. **Reference status: steps 4-5 are pending because the import picker is blank. The working deck has no imported practice appendix.**
 
 6. On Decisions add **Review source definitions**, select that text and use **Ctrl+K > Slides in this presentation > Appendix A - Source Definitions**. Add **Return to Decisions** in Appendix A and link it to Decisions. Test both in **Slideshow**, by clicking the links. The reference moved from slide 5 to slide 8 and back to slide 5.
 

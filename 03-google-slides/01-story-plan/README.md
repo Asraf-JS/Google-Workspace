@@ -22,11 +22,13 @@ In this chapter you will choose the audience, decision and evidence; use Gemini 
 
 Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
-Open [checked brief](../../shared/sample-files/checked-brief.txt) and [TaskRegister.xlsx](../../shared/sample-files/TaskRegister.xlsx). This specialist course supplies its own inputs.
+Download [checked brief](../../shared/sample-files/checked-brief.txt), [project facts](../../shared/sample-files/project-facts.txt), [reporting guidance](../../shared/sample-files/reporting-guidance.txt) and [TaskRegister.xlsx](../../shared/sample-files/TaskRegister.xlsx). This specialist course supplies its own inputs.
+
+In Google Drive, click **New**, **New folder**, type `GW - Slides - Practice` and click **Create**. Open the folder and drag `TaskRegister.xlsx` into it (or click **New**, **File upload**). Double-click it to inspect the **Tasks** sheet in section 1.4; Lab 5 converts this same upload to Google Sheets. Create every file in this course inside the practice folder.
 
 ## 1.1 Read the Decision
 
-1. In Google Drive, click **New**, **Google Docs**, **Blank document**. Click **Untitled document**, type `GW - Sponsor Update - Story Plan` and press **Enter**. Keep it private in your approved practice location. Use the supplied specialist inputs; the masterclass's later task changes are not this course's baseline.
+1. In Google Drive, click **New**, **Google Docs**, **Blank document**. Click **Untitled document**, type `GW - Sponsor Update - Story Plan` and press **Enter**. Create it inside your `GW - Slides - Practice` folder and keep it private. Use the supplied specialist inputs; the masterclass's later task changes are not this course's baseline.
 2. Type `Sponsor Decision` and choose **Heading 1** from the style list. Underneath, identify **Farid Hassan, sponsor** as the audience. Write one decision sentence: decide whether to approve the **proposed RM 12000 ceiling** and agree the **pilot start date**. Aina Rahman coordinates the pilot.
 3. Separate purpose, future success criterion and unresolved approvals. The purpose is to test a consistent weekly reporting process. Success would mean all three teams submitting on time in the final two weeks; achievement is not yet evidenced.
 4. Record the facts the sponsor needs: the three teams, four outputs, four weeks from an agreed start, Friday updates and the status-definition risk. Preserve the exclusions for live construction records, purchasing commitments and external publication.
@@ -160,7 +162,7 @@ Close the earlier step lists for the first attempt. Use the case input and your 
 
 2. Compare the short and full outlines for all required facts. Restore any qualification lost through compression.
 
-3. Write a response to the unsupported request on the card, including what evidence would be needed to make that claim.
+3. Write a response to an unsupported request in the case input (Part 2 of the prompts page), including what evidence would be needed to make that claim.
 
 ### Evidence to Hand Over
 

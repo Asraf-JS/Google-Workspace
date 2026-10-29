@@ -161,7 +161,7 @@ Both source and linked slide finish at 4/4/4. The test demonstrated that chart d
 
 *Insert the linked cost chart in a skipped appendix.*
 
-5. Add a separate slide titled **Static comparison only**. Copy the status chart at the 4/4/4 baseline. In **Paste chart**, select **Paste unlinked**, then **Paste**. Keep all labels visible and skip this slide too.
+5. Add a separate slide titled **Static comparison only** and move it to the end of the deck too. Copy the status chart at the 4/4/4 baseline. In **Paste chart**, select **Paste unlinked**, then **Paste**. Keep all labels visible and skip this slide too.
 
 ![Choose Paste unlinked for the static comparison](./images/c03-05-18-paste-unlinked-dialog.png)
 
