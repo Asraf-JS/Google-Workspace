@@ -26,23 +26,23 @@ Use the checked FAQ, evidence review and pilot timing record. Keep the playbook 
 
 ## 8.1 Build the Playbook
 
-1. Create `GW - AI - Prompt Playbook` with Task, Input Sources, Prompt, Review Checks, Output and Known Limits. Keep the first draft and current version distinguishable. The task is a five-topic FAQ, not an unattended automation.
+1. In **GW - AI - Practice** create a Google Doc named `GW - AI - Prompt Playbook` with the headings Task, Input Sources, Prompt, Review Checks, Output and Known Limits. Keep the first draft and current version distinguishable. The task is a five-topic FAQ, not an unattended automation.
 
-![task and review boundary](./images/c06-08-01-task-and-review-boundary.jpg)
+![The Prompt Playbook version 1.0 draft with Task, Input Sources, Prompt, Review Checks, Output and Known Limits](./images/c06-08-01-task-and-review-boundary.png)
 
-*task and review boundary.*
+*The playbook starts as a draft. Nothing has been generated yet.*
 
 2. Add the three-original-source manifest and account/feature preflight. S1 controls project facts; S2 is scripted practice; S3 is proposed guidance. Use fictional data and the trainer-approved account. Record the visible mode without assuming every learner has the same features.
 
-![source manifest and preflight](./images/c06-08-02-source-manifest-and-preflight.jpg)
+![The input source manifest table and the account and feature preflight](./images/c06-08-02-source-manifest-and-preflight.png)
 
-*source manifest and preflight.*
+*S1 controls the facts; S2 is scripted and S3 is proposed.*
 
-3. Add the exact bounded prompt and acceptance rule. Preserve the agreed-start qualification, all teams, Friday/final-two-week success measure, proposed/unapproved RM 12,000 ceiling and unresolved date/sponsor decision. Source slots in a reusable template must be replaced before submission.
+3. Add the exact bounded prompt from Part 2 of the [prompts page](./prompts.md) and the acceptance rule. Preserve the agreed-start qualification, all teams, Friday/final-two-week success measure, proposed/unapproved RM 12,000 ceiling and unresolved date/sponsor decision. Source slots in a reusable template must be replaced before submission.
 
-![bounded template before test](./images/c06-08-03-bounded-template-before-test.jpg)
+![The bounded FAQ template, version 1.0 draft, with its five questions and required checks](./images/c06-08-03-bounded-template-before-test.png)
 
-*bounded template before test.*
+*The template still has source slots to fill before sending.*
 
 ## 8.2 Test Another Run
 
@@ -50,51 +50,53 @@ Use the checked FAQ, evidence review and pilot timing record. Keep the playbook 
 
 > **Reference run:** The author stopped before Send because the literal source slots were still present.
 
-![placeholder preflight stop](./images/c06-08-04-placeholder-preflight-stop.jpg)
+![The template pasted into Gemini with the source slots still unfilled](./images/c06-08-04-placeholder-preflight-stop.png)
 
-*placeholder preflight stop.*
+*Stop before Send: the [PASTE_] slots haven't been replaced.*
 
 2. Revise the instructions to version 1.1: name the three files and their supplied folder; paste each complete original text into its corresponding slot; retain source labels; require zero `[PASTE_` slots before Send. A filename or an old generated FAQ does not supply the original text.
 
-![version 1 1 instruction repair](./images/c06-08-05-version-1-1-instruction-repair.jpg)
+![The version 1.1 clarification naming the three files and requiring zero slots before Send](./images/c06-08-05-version-1-1-instruction-repair.png)
 
-*version 1 1 instruction repair.*
+*The repair is to the instructions, not to the sources.*
 
 3. Retest the affected assembly step. Confirm all three full originals appear in the actual input and that no slot remains. The final input matched the intended prompt after whitespace normalisation. This was an automation-input repair, not a source defect.
 
 > **Reference run:** The author caught a mixed old/new composer input, cleared it and repasted before any Send.
 
-![complete sources ready to send](./images/c06-08-06-complete-sources-ready-to-send.jpg)
+![The assembled prompt in Gemini with all three originals pasted](./images/c06-08-06-complete-sources-ready-to-send.png)
 
-*complete sources ready to send.*
+*Check the actual input contains all three originals before sending.*
 
-![assembly retest record](./images/c06-08-07-assembly-retest-record.jpg)
+![The record that the version 1.1 assembly retest passed](./images/c06-08-07-assembly-retest-record.png)
 
-*assembly retest record.*
+*The retest checks the affected step, not answer quality.*
 
 4. Submit once in the recorded mode and retain the actual response separately from the maintained reference. A correct preflight does not prove answer quality. Review all five topics and original passages before accepting the result; an absent answer receives no factual score.
 
-![fresh faq response](./images/c06-08-10-fresh-faq-response.jpg)
+![The fresh-session FAQ response with answers, sources and quotations](./images/c06-08-10-fresh-faq-response.png)
 
-*fresh faq response.*
+*Review all five topics against the originals before accepting.*
 
-![fresh faq budget and decision](./images/c06-08-11-fresh-faq-budget-and-decision.jpg)
+![The budget and start-date answers from the fresh response](./images/c06-08-11-fresh-faq-budget-and-decision.png)
 
-*fresh faq budget and decision.*
+*Budget stays proposed and the start date unresolved.*
 
-![source audit and format repair](./images/c06-08-12-source-audit-and-format-repair.jpg)
+![The fresh-context review table, all five criteria passing, and the numbering note](./images/c06-08-12-source-audit-and-format-repair.png)
 
-*source audit and format repair.*
+*The numbering fix is a format repair, not a factual correction.*
 
-5. The fresh author response preserved all five factual topics and their S1 support: **5/5 factual checks**. Its rendered list restarted at 1 for each question. Keep the raw response unchanged and repair the maintained copy's numbering to 1–5; this is a formatting repair, not a factual correction. The answer arrived during the final wait check, so no cancellation or alternative session took place. The long observation interval is not a measured productivity gain.
+5. Score the five factual topics. If the rendered list numbering is wrong, keep the raw response unchanged and repair only the maintained copy's numbering; that's a formatting repair, not a factual correction.
 
-![maintained faq numbering](./images/c06-08-16-maintained-faq-numbering.jpg)
+> **Reference run:** the fresh author response preserved all five factual topics and their S1 support (5/5 factual checks). Its rendered list restarted at 1 for each question, so the maintained copy was renumbered 1–5. The answer arrived during the final wait check, so no cancellation or alternative session took place. The long observation interval is not a measured productivity gain.
 
-*maintained faq numbering.*
+![The Maintained FAQ - numbering repaired heading and note](./images/c06-08-16-maintained-faq-numbering.png)
 
-![maintained faq tail](./images/c06-08-17-maintained-faq-tail.jpg)
+*The raw response stays unchanged; only this copy is renumbered.*
 
-*maintained faq tail.*
+![The maintained FAQ numbered 1 to 5](./images/c06-08-17-maintained-faq-tail.png)
+
+*Five numbered answers, each with its source and quotation.*
 
 ## 8.3 Present the Handover
 
@@ -103,31 +105,31 @@ Use the checked FAQ, evidence review and pilot timing record. Keep the playbook 
 
 > **Reference run:** The author prepared the written script below; spoken delivery and the two-minute target remain unmeasured. Class discussion and distribution require an actual approved channel and have not occurred in this author run.
 
-![prepared handover script](./images/c06-08-13-prepared-handover-script.jpg)
+![The prepared two-minute handover script, not yet rehearsed](./images/c06-08-13-prepared-handover-script.png)
 
-*prepared handover script.*
+*The script is written. Spoken timing is still unmeasured.*
 
 ## 8.4 Make a Playbook Another User Can Reproduce
 
 1. Include concrete recovery instructions for missing facts, conflicting source roles/versions, stale imported text, unavailable audio and a no-answer run. Preserve a failed or missing output as unscored. Keep checked text as the fallback; do not call it a new generated answer.
 
-![recovery routes](./images/c06-08-08-recovery-routes.jpg)
+![The known failures and recovery routes table](./images/c06-08-08-recovery-routes.png)
 
-*recovery routes.*
+*Each failure route says what to do and what evidence to keep.*
 
 2. Include an accepted maintained example and a clearly rejected claim with the exact source reason. Supplier appointment and PO issuance are not established by the pack. “No purchase authorised” does not prove that no appointment or unauthorised order exists. Do not invent the opposite of an unsupported claim.
 
-![accepted and rejected examples](./images/c06-08-09-accepted-and-rejected-examples.jpg)
+![An accepted maintained example and a rejected claim with its source reason](./images/c06-08-09-accepted-and-rejected-examples.png)
 
-*accepted and rejected examples.*
+*The rejected claim isn't replaced with an invented opposite.*
 
 3. Keep a handover manifest: originals and roles, source hashes, prompt version, raw response, reviewed output, review evidence, known failures and remaining checks. Keep account-specific URLs in private trainer notes. The self-contained [version 1.1 prompt](./faq-prompt-v1.1.txt) contains the three originals; [source hashes](./source-manifest-v1.1.json) identify its input snapshot. Reassemble it if an original changes.
 
-![versioned handover manifest](./images/c06-08-14-versioned-handover-manifest.jpg)
+![The version 1.1 handover manifest table](./images/c06-08-14-versioned-handover-manifest.png)
 
-*versioned handover manifest.*
+*The manifest separates originals, prompt, raw response and checked output.*
 
-[Open the current version 1.1 playbook overview](./images/c06-08-15-current-playbook-release.jpg).
+[Open the current version 1.1 playbook overview](./images/c06-08-15-current-playbook-release.png).
 
 4. Retain the version 1.1 instruction repair and actual fresh-context result. The [playbook reference](./playbook-v1.1.md) records the usable method and remaining limits. This is author reproduction with prior familiarity; partner reproducibility, independent learner work, spoken delivery and classroom timing remain separate checks.
 

@@ -27650,7 +27650,7 @@
         "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/07-ai-pilot.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-01-task-and-review-boundary.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-01-task-and-review-boundary.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-01-task-and-review-boundary.png",
       "dimensions": [
         1591,
@@ -27668,10 +27668,11 @@
       ],
       "sha256": "af373f5594b30b20e6fda54d7854ef35c6afa9bb4835171d426f15f3995c425d",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-02-source-manifest-and-preflight.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-02-source-manifest-and-preflight.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-02-source-manifest-and-preflight.png",
       "dimensions": [
         1591,
@@ -27689,10 +27690,11 @@
       ],
       "sha256": "664f28a4275942f08ac2d1913d93c4f8ff7c6a3fda4036727e0261d8b9cff1da",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-03-bounded-template-before-test.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-03-bounded-template-before-test.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-03-bounded-template-before-test.png",
       "dimensions": [
         1591,
@@ -27710,10 +27712,11 @@
       ],
       "sha256": "c6edeb7510ae1deaa585b03dc79da40363352d900e04c4baef08f96d05e1e280",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-04-placeholder-preflight-stop.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-04-placeholder-preflight-stop.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-04-placeholder-preflight-stop.png",
       "dimensions": [
         1909,
@@ -27731,10 +27734,11 @@
       ],
       "sha256": "ef2a169cb47032636d0796c6cd5e6e59ebd2bfbe5a32979fa6c9c94d7d35910f",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-05-version-1-1-instruction-repair.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-05-version-1-1-instruction-repair.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-05-version-1-1-instruction-repair.png",
       "dimensions": [
         1591,
@@ -27752,10 +27756,11 @@
       ],
       "sha256": "e0ece5b2c924b4493c2fdeb848c6e2ca6846e8f7ef112ae0f5cd2850717285c8",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-06-complete-sources-ready-to-send.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-06-complete-sources-ready-to-send.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-06-complete-sources-ready-to-send.png",
       "dimensions": [
         1909,
@@ -27773,10 +27778,11 @@
       ],
       "sha256": "3b884d229603d2d9b10fae82dc8ea10e93b618db6f7dde00fc7888199ab48b7a",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-07-assembly-retest-record.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-07-assembly-retest-record.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-07-assembly-retest-record.png",
       "dimensions": [
         1591,
@@ -27794,10 +27800,11 @@
       ],
       "sha256": "17dabd0e33d7712074abacb9ac7b8346f5f4ff142ca62bc874addd95048a4cb1",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-08-recovery-routes.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-08-recovery-routes.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-08-recovery-routes.png",
       "dimensions": [
         1591,
@@ -27815,10 +27822,11 @@
       ],
       "sha256": "e53092f7e5132385912ff2e6f7584cb058dc5919241c2843aa1727b775daac9c",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-09-accepted-and-rejected-examples.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-09-accepted-and-rejected-examples.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-09-accepted-and-rejected-examples.png",
       "dimensions": [
         1591,
@@ -27836,10 +27844,11 @@
       ],
       "sha256": "8cf4285dea1b5cf069620530f0b820352c183a48cae5f6c07c461f28e8d4b2e5",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-10-fresh-faq-response.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-10-fresh-faq-response.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-10-fresh-faq-response.png",
       "dimensions": [
         1909,
@@ -27857,10 +27866,11 @@
       ],
       "sha256": "3e0fb3bc530f447e2261e06a5f6246b67c36db093d08960f97203b34b8a4d34d",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-11-fresh-faq-budget-and-decision.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-11-fresh-faq-budget-and-decision.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-11-fresh-faq-budget-and-decision.png",
       "dimensions": [
         1909,
@@ -27878,10 +27888,11 @@
       ],
       "sha256": "c5f3e1ead013bf50c3300cbf549769e8de34bfa536be20dc2cfe85eb0dd17d0e",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-12-source-audit-and-format-repair.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-12-source-audit-and-format-repair.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-12-source-audit-and-format-repair.png",
       "dimensions": [
         1591,
@@ -27899,10 +27910,11 @@
       ],
       "sha256": "c6c5df312665046d0ec3a99ab8d121e37bd41b8e14b7142bc709c33156ef99bf",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-13-prepared-handover-script.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-13-prepared-handover-script.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-13-prepared-handover-script.png",
       "dimensions": [
         1591,
@@ -27920,10 +27932,11 @@
       ],
       "sha256": "8be7422b7972372f905decbee9ad02a73f3b58e755f7511b08f3e2c4759b036e",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-14-versioned-handover-manifest.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-14-versioned-handover-manifest.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-14-versioned-handover-manifest.png",
       "dimensions": [
         1591,
@@ -27941,10 +27954,11 @@
       ],
       "sha256": "6aea49774cddf94f9405d6b910e77f9391bacd8f28ab988a8b2967f5eab5b367",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-15-current-playbook-release.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-15-current-playbook-release.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-15-current-playbook-release.png",
       "dimensions": [
         1591,
@@ -27962,10 +27976,11 @@
       ],
       "sha256": "f676a1f11b730c0b766040dcccdd8e686802df13f3044548b0e1492dacf93e22",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-16-maintained-faq-numbering.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-16-maintained-faq-numbering.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-16-maintained-faq-numbering.png",
       "dimensions": [
         1591,
@@ -27983,10 +27998,11 @@
       ],
       "sha256": "81e6de3e56aca83e2d2a2e23654798d29e1acd8f31d8d6ae6f2bb5a205b66cb8",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-17-maintained-faq-tail.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-17-maintained-faq-tail.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-17-maintained-faq-tail.png",
       "dimensions": [
         1591,
@@ -28004,7 +28020,8 @@
       ],
       "sha256": "aa731aeaa6c0592cf243ae2d122850be3f103fef1c5c6b46fd288287894fa94f",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
     "06-notebooklm-gemini/06-responsible-review/images/c06-06-01-originals-and-unreviewed-claims.png": {
