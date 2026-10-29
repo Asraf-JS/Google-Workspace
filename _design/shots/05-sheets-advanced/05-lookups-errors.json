@@ -1,0 +1,452 @@
+{
+ "raw": "../raw/05-sheets-advanced/05-lookups-errors",
+ "repoRoot": "../../../05-sheets-advanced",
+ "shots": {
+  "c05-05-01-separate-orders-copy-for-lookup-practice.png": {
+   "boxes": [
+    [
+     264,
+     838,
+     412,
+     870,
+     1
+    ]
+   ]
+  },
+  "c05-05-02-first-exact-vlookup-rate.png": {
+   "boxes": [
+    [
+     1436,
+     206,
+     1600,
+     230,
+     2,
+     "left"
+    ]
+   ]
+  },
+  "c05-05-03-fill-exact-vlookup-through-24-orders.png": {
+   "boxes": [
+    [
+     1424,
+     790,
+     1592,
+     822,
+     3,
+     "left"
+    ]
+   ]
+  },
+  "c05-05-04-index-match-uses-explicit-zero-match-mode.png": {
+   "boxes": [
+    [
+     1436,
+     206,
+     1600,
+     822,
+     4,
+     "left"
+    ]
+   ]
+  },
+  "c05-05-05-both-methods-reconcile-to-original-unit-costs.png": {
+   "boxes": [
+    [
+     1264,
+     206,
+     1600,
+     822,
+     5,
+     "left"
+    ]
+   ]
+  },
+  "c05-05-06-horizontal-reference-and-test-key-before-formula.png": {
+   "boxes": [
+    [
+     408,
+     166,
+     1400,
+     206,
+     1
+    ],
+    [
+     408,
+     206,
+     612,
+     246,
+     1
+    ]
+   ]
+  },
+  "c05-05-07-hlookup-it03-returns-30.png": {
+   "boxes": [
+    [
+     596,
+     226,
+     718,
+     246,
+     2
+    ]
+   ]
+  },
+  "c05-05-08-hlookup-it06-returns-8.png": {
+   "boxes": [
+    [
+     408,
+     226,
+     612,
+     246,
+     3
+    ]
+   ]
+  },
+  "c05-05-09-hlookup-key-restored-to-it03.png": {
+   "boxes": [
+    [
+     408,
+     226,
+     718,
+     246,
+     4
+    ]
+   ]
+  },
+  "c05-05-10-missing-key-produces-na-error.png": {
+   "boxes": [
+    [
+     300,
+     186,
+     510,
+     206,
+     1
+    ],
+    [
+     512,
+     186,
+     742,
+     330
+    ]
+   ]
+  },
+  "c05-05-11-ifna-labels-the-intended-missing-match.png": {
+   "boxes": [
+    [
+     290,
+     186,
+     500,
+     206,
+     2
+    ]
+   ]
+  },
+  "c05-05-12-misspelled-function-is-a-different-error.png": {
+   "boxes": [
+    [
+     300,
+     206,
+     510,
+     226,
+     3
+    ],
+    [
+     512,
+     206,
+     742,
+     330
+    ]
+   ]
+  },
+  "c05-05-13-repair-function-name-and-recover-rate-30.png": {
+   "boxes": [
+    [
+     290,
+     206,
+     500,
+     226,
+     4
+    ]
+   ]
+  },
+  "c05-05-14-nine-key-expectations-before-lookups.png": {
+   "boxes": [
+    [
+     44,
+     166,
+     1200,
+     366,
+     1,
+     "below"
+    ]
+   ]
+  },
+  "c05-05-15-raw-padded-key-kept-beside-normalised-key.png": {
+   "boxes": [
+    [
+     44,
+     346,
+     500,
+     366,
+     2
+    ],
+    [
+     1320,
+     346,
+     1490,
+     366
+    ]
+   ]
+  },
+  "c05-05-16-normalised-exact-methods-handle-nine-cases.png": {
+   "boxes": [
+    [
+     1010,
+     186,
+     1330,
+     366,
+     3,
+     "below"
+    ]
+   ]
+  },
+  "c05-05-17-nine-results-match-rates-and-recorded-expectations.png": {
+   "boxes": [
+    [
+     918,
+     186,
+     1320,
+     366,
+     4,
+     "below"
+    ]
+   ]
+  },
+  "c05-05-18-nine-case-controls-have-zero-disagreements.png": {
+   "boxes": [
+    [
+     44,
+     406,
+     500,
+     620,
+     5
+    ]
+   ]
+  },
+  "c05-05-19-disposable-rates-copy-before-duplicate-test.png": {
+   "boxes": [
+    [
+     44,
+     166,
+     676,
+     406,
+     6
+    ],
+    [
+     832,
+     838,
+     1004,
+     870,
+     6
+    ]
+   ]
+  },
+  "c05-05-20-append-conflicting-it03-only-to-copy.png": {
+   "boxes": [
+    [
+     44,
+     406,
+     676,
+     430,
+     7
+    ]
+   ]
+  },
+  "c05-05-21-first-match-returns-30-but-count-two-blocks-acceptance.png": {
+   "boxes": [
+    [
+     44,
+     466,
+     1120,
+     510,
+     8
+    ]
+   ]
+  },
+  "c05-05-22-reordered-rates-copy-descending-key-order.png": {
+   "boxes": [
+    [
+     44,
+     206,
+     676,
+     406,
+     9
+    ]
+   ]
+  },
+  "c05-05-23-exact-versus-omitted-mode-on-descending-copy.png": {
+   "boxes": [
+    [
+     44,
+     446,
+     1360,
+     510,
+     10
+    ]
+   ]
+  },
+  "c05-05-24-missing-match-compares-narrow-and-broad-wrappers.png": {
+   "boxes": [
+    [
+     44,
+     266,
+     1320,
+     306,
+     11,
+     "below"
+    ]
+   ]
+  },
+  "c05-05-25-ifna-preserves-name-error-that-iferror-hides.png": {
+   "boxes": [
+    [
+     44,
+     306,
+     1400,
+     326,
+     12,
+     "below"
+    ]
+   ]
+  },
+  "c05-05-26-ifna-preserves-reference-error-that-iferror-hides.png": {
+   "boxes": [
+    [
+     44,
+     366,
+     1420,
+     392,
+     13
+    ]
+   ]
+  },
+  "c05-05-27-repaired-function-and-range-errors-return-30.png": {
+   "boxes": [
+    [
+     44,
+     306,
+     1420,
+     392,
+     14
+    ]
+   ]
+  },
+  "c05-05-28-three-methods-reconcile-it03-at-30.png": {
+   "boxes": [
+    [
+     700,
+     206,
+     1070,
+     248,
+     15
+    ]
+   ]
+  },
+  "c05-05-29-lookup-assumptions-experiments-and-repair-notes.png": {
+   "boxes": [
+    [
+     44,
+     166,
+     1420,
+     520,
+     16
+    ]
+   ]
+  },
+  "c05-05-30-final-nine-key-comparison-matrix.png": {
+   "boxes": [
+    [
+     44,
+     166,
+     1580,
+     366,
+     17,
+     "below"
+    ],
+    [
+     44,
+     406,
+     500,
+     620
+    ]
+   ]
+  },
+  "c05-05-31-final-order-rate-differences-remain-zero.png": {
+   "boxes": [
+    [
+     1264,
+     790,
+     1592,
+     822,
+     18,
+     "left"
+    ]
+   ]
+  },
+  "c05-05-32-first-order-exact-rates-and-zero-differences.png": {
+   "boxes": [
+    [
+     1264,
+     206,
+     1592,
+     232,
+     18,
+     "left"
+    ]
+   ]
+  },
+  "c05-05-33-baseline-rates-retain-six-unique-original-items.png": {
+   "boxes": [
+    [
+     44,
+     206,
+     676,
+     406,
+     19
+    ]
+   ]
+  },
+  "c05-05-34-earlier-analysis-band-preserved.png": {
+   "boxes": [
+    [
+     966,
+     166,
+     1310,
+     208,
+     20
+    ]
+   ]
+  },
+  "c05-05-35-final-repaired-error-comparison-with-labelled-missing-case.png": {
+   "boxes": [
+    [
+     44,
+     166,
+     1420,
+     392,
+     21
+    ]
+   ]
+  },
+  "c05-05-36-final-lookup-handover-ready.png": {
+   "boxes": [
+    [
+     44,
+     166,
+     1420,
+     520,
+     22
+    ]
+   ]
+  }
+ }
+}

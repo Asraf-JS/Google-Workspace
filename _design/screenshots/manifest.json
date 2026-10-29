@@ -19632,7 +19632,7 @@
         "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/04-text-cleaning.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-01-separate-orders-copy-for-lookup-practice.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-01-separate-orders-copy-for-lookup-practice.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-01-separate-orders-copy-for-lookup-practice.png",
       "dimensions": [
         1591,
@@ -19650,10 +19650,11 @@
       ],
       "sha256": "2e364ec3e2f60865bf909babf37c0a66ed9c8a91f2419aa9e4c3f5aebe3acb91",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-02-first-exact-vlookup-rate.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-02-first-exact-vlookup-rate.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-02-first-exact-vlookup-rate.png",
       "dimensions": [
         1591,
@@ -19671,10 +19672,11 @@
       ],
       "sha256": "14e38fa23e981b22b0336a23f1e0d801278b16378b844f74fc119c9bcc493221",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-03-fill-exact-vlookup-through-24-orders.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-03-fill-exact-vlookup-through-24-orders.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-03-fill-exact-vlookup-through-24-orders.png",
       "dimensions": [
         1591,
@@ -19692,10 +19694,11 @@
       ],
       "sha256": "9ec42fe515e05c5d624b3231a33be4b21de173aaf3ab2d87a0484cc4f90c46e3",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-04-index-match-uses-explicit-zero-match-mode.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-04-index-match-uses-explicit-zero-match-mode.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-04-index-match-uses-explicit-zero-match-mode.png",
       "dimensions": [
         1591,
@@ -19713,10 +19716,11 @@
       ],
       "sha256": "4a91e29b7d18832f4c86fdb5a81623f93804ebeef0c56ee2c2552f5dcee9c340",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-05-both-methods-reconcile-to-original-unit-costs.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-05-both-methods-reconcile-to-original-unit-costs.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-05-both-methods-reconcile-to-original-unit-costs.png",
       "dimensions": [
         1591,
@@ -19734,10 +19738,11 @@
       ],
       "sha256": "71c4960de7e8e1ae4a71d0ba3f786a3b24349d757540722e39e64b84e9bbbbf4",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-06-horizontal-reference-and-test-key-before-formula.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-06-horizontal-reference-and-test-key-before-formula.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-06-horizontal-reference-and-test-key-before-formula.png",
       "dimensions": [
         1591,
@@ -19755,10 +19760,11 @@
       ],
       "sha256": "8b65241baaa10b967a031e0e39bd25b5d19637b2643f3d02ebf1f75e17085605",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-07-hlookup-it03-returns-30.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-07-hlookup-it03-returns-30.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-07-hlookup-it03-returns-30.png",
       "dimensions": [
         1591,
@@ -19776,10 +19782,11 @@
       ],
       "sha256": "d0b7e5c662e8acc1188324f5818262fc6c08741648c7f1e4920f233483e4e024",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-08-hlookup-it06-returns-8.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-08-hlookup-it06-returns-8.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-08-hlookup-it06-returns-8.png",
       "dimensions": [
         1591,
@@ -19797,10 +19804,11 @@
       ],
       "sha256": "e659966e623bfe8c494013fb38564e0b167dfcd67d070923d0f8ec2e181a3eb4",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-09-hlookup-key-restored-to-it03.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-09-hlookup-key-restored-to-it03.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-09-hlookup-key-restored-to-it03.png",
       "dimensions": [
         1591,
@@ -19818,10 +19826,11 @@
       ],
       "sha256": "66c7bb1158fc5d26520f82cf908f90e571ea5a30d444c1a3e51bcbf8d431bf91",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-10-missing-key-produces-na-error.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-10-missing-key-produces-na-error.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-10-missing-key-produces-na-error.png",
       "dimensions": [
         1591,
@@ -19839,10 +19848,11 @@
       ],
       "sha256": "7abf8a17a8e685d45769aae8f7f5defb6961a4ae7cad4823922f1a769b4069a5",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-11-ifna-labels-the-intended-missing-match.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-11-ifna-labels-the-intended-missing-match.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-11-ifna-labels-the-intended-missing-match.png",
       "dimensions": [
         1591,
@@ -19860,10 +19870,11 @@
       ],
       "sha256": "deb6fb3e1bc217b42032eeed3887142d8f58e15f701d238cad02aca07e1480a6",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-12-misspelled-function-is-a-different-error.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-12-misspelled-function-is-a-different-error.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-12-misspelled-function-is-a-different-error.png",
       "dimensions": [
         1591,
@@ -19881,10 +19892,11 @@
       ],
       "sha256": "d2e29c2d52d02edeb35034db70e569e8bc4a2423089d29235543d9f6f474922c",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-13-repair-function-name-and-recover-rate-30.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-13-repair-function-name-and-recover-rate-30.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-13-repair-function-name-and-recover-rate-30.png",
       "dimensions": [
         1591,
@@ -19902,10 +19914,11 @@
       ],
       "sha256": "cb0cb7e20ef21e1ea30b58b1c4d9dd57782b7edfc2f5b46bf6fa67b774246b83",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-14-nine-key-expectations-before-lookups.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-14-nine-key-expectations-before-lookups.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-14-nine-key-expectations-before-lookups.png",
       "dimensions": [
         1591,
@@ -19923,10 +19936,11 @@
       ],
       "sha256": "97e0021b7ba85b1ef0d9b8605a2cc74f22fc5758db9cef444a026d5d3f17deaf",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-15-raw-padded-key-kept-beside-normalised-key.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-15-raw-padded-key-kept-beside-normalised-key.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-15-raw-padded-key-kept-beside-normalised-key.png",
       "dimensions": [
         1591,
@@ -19944,10 +19958,11 @@
       ],
       "sha256": "e2b3b1f90bc63f4d00e36d5ca68196f91a15159911f8d1fb3b49732528e03a76",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-16-normalised-exact-methods-handle-nine-cases.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-16-normalised-exact-methods-handle-nine-cases.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-16-normalised-exact-methods-handle-nine-cases.png",
       "dimensions": [
         1591,
@@ -19965,10 +19980,11 @@
       ],
       "sha256": "825d566735c8471c9e3a893ae572afaac64126f856a1bb9695d94b4fbc2002e7",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-17-nine-results-match-rates-and-recorded-expectations.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-17-nine-results-match-rates-and-recorded-expectations.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-17-nine-results-match-rates-and-recorded-expectations.png",
       "dimensions": [
         1591,
@@ -19986,10 +20002,11 @@
       ],
       "sha256": "e1b7102e8b885d522ccc3e930e3b1c4aad6c0d1d730843baa24506e33ef949de",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-18-nine-case-controls-have-zero-disagreements.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-18-nine-case-controls-have-zero-disagreements.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-18-nine-case-controls-have-zero-disagreements.png",
       "dimensions": [
         1591,
@@ -20007,10 +20024,11 @@
       ],
       "sha256": "3c30c58cabe87821e812081d15afe48205b5936dc747da7548a5edb419f5c251",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-19-disposable-rates-copy-before-duplicate-test.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-19-disposable-rates-copy-before-duplicate-test.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-19-disposable-rates-copy-before-duplicate-test.png",
       "dimensions": [
         1591,
@@ -20028,10 +20046,11 @@
       ],
       "sha256": "e7f6f942c1eaf8016bf63597bd01bc1f5f2ee791f1edb114ae5e88d8d39e7c49",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-20-append-conflicting-it03-only-to-copy.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-20-append-conflicting-it03-only-to-copy.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-20-append-conflicting-it03-only-to-copy.png",
       "dimensions": [
         1591,
@@ -20049,10 +20068,11 @@
       ],
       "sha256": "bdc3c352abe03354d07e908fb3f5af76f8ab9506ff471f05aea0eea9005586c5",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-21-first-match-returns-30-but-count-two-blocks-acceptance.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-21-first-match-returns-30-but-count-two-blocks-acceptance.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-21-first-match-returns-30-but-count-two-blocks-acceptance.png",
       "dimensions": [
         1591,
@@ -20070,10 +20090,11 @@
       ],
       "sha256": "0f3936ba1630540727b8a3d68631d04ea1209f759b1131c889659687164d4a31",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-22-reordered-rates-copy-descending-key-order.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-22-reordered-rates-copy-descending-key-order.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-22-reordered-rates-copy-descending-key-order.png",
       "dimensions": [
         1591,
@@ -20091,10 +20112,11 @@
       ],
       "sha256": "7fce358013a6a5608a3b3cabde0d4fca1d6fd2878b8745e0e083a6b2d4ed4410",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-23-exact-versus-omitted-mode-on-descending-copy.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-23-exact-versus-omitted-mode-on-descending-copy.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-23-exact-versus-omitted-mode-on-descending-copy.png",
       "dimensions": [
         1591,
@@ -20112,10 +20134,11 @@
       ],
       "sha256": "1472bd6946db651163120e217fcc6424df38f9414c3487c487bba08f48a6118e",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-24-missing-match-compares-narrow-and-broad-wrappers.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-24-missing-match-compares-narrow-and-broad-wrappers.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-24-missing-match-compares-narrow-and-broad-wrappers.png",
       "dimensions": [
         1591,
@@ -20133,10 +20156,11 @@
       ],
       "sha256": "07db80515fb6b467900c8edab5b066efdfdd799eec8c3bbfcc87d65f77d2c80d",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-25-ifna-preserves-name-error-that-iferror-hides.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-25-ifna-preserves-name-error-that-iferror-hides.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-25-ifna-preserves-name-error-that-iferror-hides.png",
       "dimensions": [
         1591,
@@ -20154,10 +20178,11 @@
       ],
       "sha256": "cafb29618d3ce6349827d598dff1341f5cbd232aecf851bca0a8673c4b4bc0c7",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-26-ifna-preserves-reference-error-that-iferror-hides.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-26-ifna-preserves-reference-error-that-iferror-hides.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-26-ifna-preserves-reference-error-that-iferror-hides.png",
       "dimensions": [
         1591,
@@ -20175,10 +20200,11 @@
       ],
       "sha256": "3ef30e70fcd548f92277a46a49e9bbb525af9899d5979f105913bd9defbb1d34",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-27-repaired-function-and-range-errors-return-30.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-27-repaired-function-and-range-errors-return-30.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-27-repaired-function-and-range-errors-return-30.png",
       "dimensions": [
         1591,
@@ -20196,10 +20222,11 @@
       ],
       "sha256": "f658806d0aa42a0c5fbdca45ff704702492dfee0f90ff31c5e1fa8d3a3a62505",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-28-three-methods-reconcile-it03-at-30.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-28-three-methods-reconcile-it03-at-30.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-28-three-methods-reconcile-it03-at-30.png",
       "dimensions": [
         1591,
@@ -20217,10 +20244,11 @@
       ],
       "sha256": "75ea9ec57b341c9ec5ab91e3f6afea2bc0c200bec53b5837e796a458460906d1",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-29-lookup-assumptions-experiments-and-repair-notes.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-29-lookup-assumptions-experiments-and-repair-notes.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-29-lookup-assumptions-experiments-and-repair-notes.png",
       "dimensions": [
         1591,
@@ -20238,10 +20266,11 @@
       ],
       "sha256": "d66fa3c51f0fb55da2cada9bf866954b47892266d5e5eec5534c1f5356e4e909",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-30-final-nine-key-comparison-matrix.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-30-final-nine-key-comparison-matrix.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-30-final-nine-key-comparison-matrix.png",
       "dimensions": [
         1591,
@@ -20259,10 +20288,11 @@
       ],
       "sha256": "2660540ebc380d05f237372f86a339aeec544d8628d72e214746f1364c4d0e87",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-31-final-order-rate-differences-remain-zero.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-31-final-order-rate-differences-remain-zero.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-31-final-order-rate-differences-remain-zero.png",
       "dimensions": [
         1591,
@@ -20280,10 +20310,11 @@
       ],
       "sha256": "5d7c197540607479a23cb320f39dbd28fdaf6d56c2d70714e9d273d4d9925377",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-32-first-order-exact-rates-and-zero-differences.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-32-first-order-exact-rates-and-zero-differences.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-32-first-order-exact-rates-and-zero-differences.png",
       "dimensions": [
         1591,
@@ -20301,10 +20332,11 @@
       ],
       "sha256": "6c6daa366245969667e9363c416ca65dfcaab28f5bc860eb4334e1dfda258077",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-33-baseline-rates-retain-six-unique-original-items.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-33-baseline-rates-retain-six-unique-original-items.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-33-baseline-rates-retain-six-unique-original-items.png",
       "dimensions": [
         1591,
@@ -20322,10 +20354,11 @@
       ],
       "sha256": "503e4a9e0f14daaddcaa3c4b76d5d3a6e092b97bb664d77bcf7f92f504147c1e",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-34-earlier-analysis-band-preserved.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-34-earlier-analysis-band-preserved.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-34-earlier-analysis-band-preserved.png",
       "dimensions": [
         1591,
@@ -20343,10 +20376,11 @@
       ],
       "sha256": "c39c0b36c6012d90fe9cccd4ebe9a629a4113ffa21b9e486b246d3efd6f56d63",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-35-final-repaired-error-comparison-with-labelled-missing-case.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-35-final-repaired-error-comparison-with-labelled-missing-case.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-35-final-repaired-error-comparison-with-labelled-missing-case.png",
       "dimensions": [
         1591,
@@ -20364,10 +20398,11 @@
       ],
       "sha256": "6e5d5ebd8e7fc4948cd3609f0618eeb20a3a28600167615c803ec17f04b30dd1",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/05-lookups-errors/images/c05-05-36-final-lookup-handover-ready.jpg": {
+    "05-sheets-advanced/05-lookups-errors/images/c05-05-36-final-lookup-handover-ready.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/05-lookups-errors/c05-05-36-final-lookup-handover-ready.png",
       "dimensions": [
         1591,
@@ -20385,7 +20420,8 @@
       ],
       "sha256": "17096474fab84c15e3eb2a2f2dcb12d662110ae46037c6a4a77124ef2d1fd774",
       "notes": [
-        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending."
+        "Actual staged learner UI; no crop or resize; avatar masked. Maintained source unchanged.24order reconciliations,9key cases,duplicate-count diagnostic,actual descending exact 30/omitted45 and error fault/repair captured. Independent zero-rate/column-move/output/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/05-lookups-errors.json (crop and boxes in 1600 px coordinates)."
       ]
     },
     "05-sheets-advanced/06-formula-clinic/images/c05-06-01-copy-workbook-with-private-settings.jpg": {
