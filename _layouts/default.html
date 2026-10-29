@@ -126,7 +126,16 @@ document.addEventListener("DOMContentLoaded", function () {
 
   box.addEventListener("click", close);
   document.addEventListener("keydown", function (e) {
-    if (e.key === "Escape" && box.classList.contains("open")) close();
+    if (!box.classList.contains("open")) return;
+    if (e.key === "Escape") { e.preventDefault(); close(); return; }
+    if (e.key === "Tab") {
+      const active = document.activeElement;
+      if (e.shiftKey && (active === popBtn || !box.contains(active))) {
+        e.preventDefault(); closeBtn.focus();
+      } else if (!e.shiftKey && (active === closeBtn || !box.contains(active))) {
+        e.preventDefault(); popBtn.focus();
+      }
+    }
   });
 });
 </script>

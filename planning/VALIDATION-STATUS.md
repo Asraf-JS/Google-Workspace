@@ -273,3 +273,15 @@ AI6 UI capture catch-up adds nine original-dimension stages in a separate casewo
 ## Final lossless image pass — 29 October 2026
 
 The [image optimization report](./IMAGE-OPTIMIZATION.md) records 2,399 verified images and 134,445,408 bytes saved (17.65%). All image dimensions, decoded pixels and checked color/EXIF metadata were preserved. All 888 rebuilt book pages matched their baseline rendered pixels and extracted text. These packaging checks do not complete the remaining learner, human, timing or feature-specific validation.
+
+## 29 October 2026: final site checks and instructor pilot started
+
+The instructor volunteered as pilot/reviewer; the Lab8 fresh-session reproduction and phase timing task was assigned. No completed FAQ, phase times or overall pilot verdict has yet been returned. Prior familiarity is recorded; this is not a novice learner or independent classroom sample.
+
+The bounded Lab8 FAQ Copy button showed Copied in Edge and the embedded browser. The automation clipboard channel returned unrelated/empty text and was inconclusive; the instructor separately confirmed that an actual paste into a blank document produces the exact prompt beginning Fictional training task. This is a human-confirmed copy check for that prompt, not all copy controls or a completed lab pilot.
+
+Edge screenshot pop-out loaded the expected task-and-review-boundary image at1591x868 and closed successfully. The lesson side-window moved content out of the main page; Bring it back restored the lesson and removed the return notice. Embedded-browser compact Courses navigation opened with aria-expanded true and visible course links, then closed with aria-expanded false. Copy inside a side window remains unverified.
+
+Built-site testing found two JSON assets omitted by the site builder: the Lab8 source manifest and Slides8 changed-scenario release manifest. Public course source manifests and resources JSON now ship, with existing private/design/build exclusions retained. The Lab8 link was verified in the browser after its404 was repaired. A built-site reference checker now runs after every build and verifies local href/src targets under the configured base path. The repaired build initially checked 121 pages and 3,864 local references; adding the final checklist brings this to 122 pages and 3,876 references. This does not test external links, fragment targets, customer access, or every interactive control.
+
+A controlled local fixture reused the generated lesson and made window.open return null, without changing browser security settings. Enter opened the image fallback at1591x868. Tab initially escaped the modal; the template now wraps Tab and Shift+Tab between its two buttons. Retest confirmed both directions stay inside, Escape removes the scroll lock and restores screenshot focus, and Space/reopen plus Close also works. This verifies the controlled fallback path, not an actual customer popup-policy setting. The temporary fixture is excluded from delivery and removed after testing. A deliberate omission of the built Lab8 manifest correctly caused the new reference checker to fail; the asset was then restored.
