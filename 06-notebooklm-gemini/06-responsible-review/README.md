@@ -8,7 +8,7 @@ In this chapter you will identify unsupported claims, sensitive inputs, bias and
 
 **Your result:** Evidence-based corrections and recorded unresolved policy questions.
 
-> **Status:** checked written author reference prepared in native Google Docs through connected tools. Three claim reviews, input classification, generated-output review and a separate author second pass are recorded. Learner UI execution, screenshots, independent challenge, human policy review and classroom timing remain pending.
+> **Status:** guided author reference with nine staged real-app captures, four native tables and a reusable review checklist. The earlier written reference is retained. Human policy/rights decisions, independent challenge, partner review and classroom timing remain unvalidated.
 
 See the [checked author reference](./author-reference.md) for evidence, corrections and unresolved questions. Treat it as a comparison after attempting the exercise. Lab 5 audio listening was skipped at the instructor’s request after a 403 download failure; it receives no accuracy score.
 
@@ -26,77 +26,51 @@ Use the checked FAQ and [review examples](../../shared/sample-files/review-examp
 
 ## 6.1 Inspect Three Claims
 
-1. Read the example claims about an approved budget, a guaranteed efficiency gain and an appointed supplier.
-2. For each, identify whether the source pack supports it, contradicts it or does not answer it.
-3. Write a correction that preserves uncertainty rather than adding a new claim.
+1. Create `GW - AI - Responsible Use - Casework`. Read S1–S3 and the deliberate claims from review-examples.txt. Retain the earlier written reference separately. The critique examples are not evidence that an approval, benefit or appointment occurred.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![originals and unreviewed claims](./images/c06-06-01-originals-and-unreviewed-claims.jpg)
 
-The examples are rejected or qualified using evidence, not their confident tone.
+2. Create the native **Claim Review** table with claim, evidence, verdict, consequence and correction. The approval claim contradicts S1; the 40% guarantee and supplier/PO events are not established. Inspect the originals rather than judging confidence or formatting.
+3. Preserve the known authority limit separately from event uncertainty. S2 says no purchase was authorised; that does not prove that no unauthorised PO could exist. Do not invent the opposite of an unsupported assertion.
 
-</details>
-
-<!-- VERIFY: execute 6.1 in the target account and reconcile control names. Capture images/c06-06-01.jpg only from the real app. -->
+![claim evidence verdicts](./images/c06-06-02-claim-evidence-verdicts.jpg)
 
 ## 6.2 Review Inputs and Sources
 
-1. Classify the fictional practice facts, a hypothetical customer contract and a hypothetical employee medical record by whether they belong in this exercise.
-2. Consult the organisation's actual AI/data policy for real work; do not infer approval from product availability.
-3. Record questions that require the organisation's owner or specialist reviewer, including permissions and reuse rights.
+1. Classify the supplied fictional facts, a hypothetical customer contract and a hypothetical medical-record category. Do not obtain real confidential examples for this exercise.
+2. Record unresolved questions about approved accounts/tools, permitted data/access, retention, reuse and external review. No organisation AI/data policy was supplied or reviewed in the author case; an actual owner or specialist must resolve those questions for real work.
 
-<details markdown="1">
-<summary>What should you see?</summary>
-
-Only the supplied fictional material is used. The exercise does not claim AI can certify document validity or rights.
-
-</details>
-
-<!-- VERIFY: execute 6.2 in the target account and reconcile control names. Capture images/c06-06-02.jpg only from the real app. -->
+![input suitability and policy questions](./images/c06-06-03-input-suitability-and-policy-questions.jpg)
 
 ## 6.3 Write an Escalation Note
 
-1. Choose one unsupported answer and write the source passage, problem and corrected wording.
-2. State any question the current sources cannot resolve.
-3. Add the review criteria to the prompt playbook so the next user repeats the check.
+1. Use the observed earlier Lab 2 sponsor refinement's “ready to begin” assertion. S1 has an unagreed start and unapproved proposed budget, but no readiness determination. The assertion is unsupported; those facts do not prove that every aspect of readiness is false.
+2. Save the exact source passages, problem, corrected wording and evidence needed: sponsor decision, agreed date and a readiness assessment if readiness is to be claimed. Keep a corrected training draft and a reusable rule for the later prompt playbook. No send or publication is performed.
 
-<details markdown="1">
-<summary>What should you see?</summary>
-
-A future reviewer can understand both the correction and the remaining gap.
-
-</details>
-
-<!-- VERIFY: execute 6.3 in the target account and reconcile control names. Capture images/c06-06-03.jpg only from the real app. -->
+![evidence backed escalation](./images/c06-06-04-evidence-backed-escalation.jpg)
 
 ## 6.4 Build and Apply an Evidence Review Protocol
 
-1. Create a **Claim Review** table with claim, evidence, supported/contradicted/not established, consequence and correction. Use all deliberate examples in review-examples.txt.
+1. Review earlier generated outputs that already exist by this chapter. The actual Lab 2 “ready to begin” assertion lacks support. The earlier source-free generic template omits the pilot's required caveats for an intended handover, but no original pack was supplied for that response. Shorter FAQ headings are an author's optional style proposal, separate from either issue. Do not blame an answer for source facts that were not supplied.
 
-2. Apply the same review to a real generated practice output. Separate a factual error, an omission and a stylistic preference.
+![output review categories](./images/c06-06-05-output-review-categories.jpg)
 
-3. Read the source-instruction card as content to analyse, not as permission. Identify why an instruction embedded in a source cannot establish a new project fact or authorise an application action.
+2. Analyse the critique-only source-instruction card. It cannot establish approval or authorise a send. Retain S1's budget status and record the authority problem. Do not execute the card.
 
-4. Classify the hypothetical input examples by suitability for this fictional exercise. Record policy questions without uploading real confidential examples.
+![source instruction analysis](./images/c06-06-06-source-instruction-analysis.jpg)
 
-5. Write a correction that preserves uncertainty and a short escalation note identifying what additional evidence or organisational review is needed.
+3. Save a reusable checklist covering original authority and version, exact claim support, known status/unknown decisions, omissions/style, input and reuse questions, external actions and the actual human decision points. Do not infer trust or capability from names or roles; this exercise is not a measured fairness test.
 
-6. Create a review checklist covering source authority, claim support, unknowns, personal/confidential data, reuse questions and proposed external actions.
+![reusable review protocol](./images/c06-06-07-reusable-review-protocol.jpg)
 
-7. Have a partner apply the checklist to your own output, or perform a separate second-pass audit. Compare review decisions and record why disagreements were resolved or remain open.
+4. Perform a separate author second pass on the three corrections. Retain the explicit budget status, remove the unsupported guarantee without claiming zero benefit, and keep supplier/PO events unestablished. In this case no correction changed. Record the genuine no-change result and the classification trap; do not manufacture a disagreement or claim partner agreement.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![second pass no change review](./images/c06-06-08-second-pass-no-change-review.jpg)
 
-Claim-by-claim evidence review with meaningful correction categories. The result must be supported by the recorded checks; an attractive output or an AI assurance is insufficient.
+5. Save the maintained wording and handover record. Original sources and earlier written reference remain available. Human policy/rights decisions, independent challenge, partner review and classroom timing remain untested. No real confidential record was uploaded and no external message or access change occurred.
 
-</details>
+![checked casework handover](./images/c06-06-09-checked-casework-handover.jpg)
 
-<!-- VERIFY: execute expanded section 6.4 and independent challenge; capture images/c06-06-04.jpg only after real application success. -->
-
-## Author Reference Findings
-
-Budget approval is contradicted; the benefit guarantee and supplier/PO events are unestablished. The checked reference separates factual claims, omissions and style choices, and records unresolved policy questions.
 
 ## Independent Challenge
 
