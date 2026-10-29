@@ -22,43 +22,43 @@ In this chapter you will add the pack to Gemini Notebook, ask questions and insp
 
 Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
-Use the three-file fictional source pack from Chapter 1. Gemini Notebook creation and source access must be available.
+Use the three files from Chapter 1: [project-facts.txt](../../shared/sample-files/project-facts.txt), [meeting-record.txt](../../shared/sample-files/meeting-record.txt) and [reporting-guidance.txt](../../shared/sample-files/reporting-guidance.txt). Gemini Notebook creation and source access must be available.
 
 ## 4.1 Create the Notebook
 
 1. Open Gemini Notebook in the training account and create **GW - Project Reporting Pilot - Evidence**. Verify the account before adding any sources.
 
-![blank evidence notebook](./images/c06-04-01-blank-evidence-notebook.jpg)
+![blank evidence notebook](./images/c06-04-01-blank-evidence-notebook.png)
 
 *blank evidence notebook.*
 
 2. Choose **Add sources → Copied text** and paste the complete supplied `project-facts.txt`. Choose **Insert**. In the observed interface, copied text appears under **Notes** and can be selected as a source. Open it, inspect its entire body and name it **S1 - project-facts.txt - supplied original**. The fact sheet has no supplied version number.
 
-![fact sheet before insert](./images/c06-04-02-fact-sheet-before-insert.jpg)
+![fact sheet before insert](./images/c06-04-02-fact-sheet-before-insert.png)
 
 *fact sheet before insert.*
 
-![fact sheet imported](./images/c06-04-03-fact-sheet-imported.jpg)
+![fact sheet imported](./images/c06-04-03-fact-sheet-imported.png)
 
 *fact sheet imported.*
 
 3. Repeat with the complete `meeting-record.txt`. Name it **S2 - meeting-record.txt - scripted original**. Confirm that the record says it is scripted and retains all three actions, owners and relative due weeks.
 
-![meeting before insert](./images/c06-04-04-meeting-before-insert.jpg)
+![meeting before insert](./images/c06-04-04-meeting-before-insert.png)
 
 *meeting before insert.*
 
-![scripted meeting imported](./images/c06-04-05-scripted-meeting-imported.jpg)
+![scripted meeting imported](./images/c06-04-05-scripted-meeting-imported.png)
 
 *scripted meeting imported.*
 
 4. Add the complete `reporting-guidance.txt` as **S3 - reporting-guidance.txt - proposed v1**. Inspect the statement that it is proposed training guidance, not approved company policy. Wait until processing finishes and all three checkboxes are selected. The generated overview is an AI output; it is not an additional original source.
 
-![guidance before insert](./images/c06-04-06-guidance-before-insert.jpg)
+![guidance before insert](./images/c06-04-06-guidance-before-insert.png)
 
 *guidance before insert.*
 
-![proposed guidance imported](./images/c06-04-07-proposed-guidance-imported.jpg)
+![proposed guidance imported](./images/c06-04-07-proposed-guidance-imported.png)
 
 *proposed guidance imported.*
 
@@ -66,7 +66,7 @@ Use the three-file fictional source pack from Chapter 1. Gemini Notebook creatio
 
 1. With all three sources selected, ask **What decisions are still needed before the pilot starts? Use only these sources.**
 
-![decisions prompt](./images/c06-04-08-decisions-prompt.jpg)
+![decisions prompt](./images/c06-04-08-decisions-prompt.png)
 
 *decisions prompt.*
 
@@ -74,13 +74,13 @@ Use the three-file fictional source pack from Chapter 1. Gemini Notebook creatio
 
 > **Reference run:** The author answer identified budget approval and start-date agreement as unresolved.
 
-![decisions answer](./images/c06-04-09-decisions-answer.jpg)
+![decisions answer](./images/c06-04-09-decisions-answer.png)
 
 *decisions answer.*
 
 3. Click the citation beside budget approval. The observed UI opens the imported note in the right panel with its text selected. Read the complete surrounding passage: the scripted meeting record says the proposed RM 12,000 ceiling still needs Farid Hassan’s approval and the start date has not been agreed. A citation marker alone does not establish support.
 
-![budget citation context](./images/c06-04-10-budget-citation-context.jpg)
+![budget citation context](./images/c06-04-10-budget-citation-context.png)
 
 *budget citation context.*
 
@@ -88,19 +88,19 @@ Use the three-file fictional source pack from Chapter 1. Gemini Notebook creatio
 
 1. Ask **What is the approved pilot start date?** The recorded answer said no approved start date exists and distinguished relative practice weeks from calendar dates.
 
-![missing date answer](./images/c06-04-11-missing-date-answer.jpg)
+![missing date answer](./images/c06-04-11-missing-date-answer.png)
 
 *missing date answer.*
 
 2. Open the fact-sheet citation and confirm **Start date: not yet agreed**. If your answer invents a date, mark it unsupported and repair it against this text.
 
-![date citation context](./images/c06-04-12-date-citation-context.jpg)
+![date citation context](./images/c06-04-12-date-citation-context.png)
 
 *date citation context.*
 
-3. Deselect S1 and S3, leaving only S2 selected. Ask for preparation actions, owners, due practice weeks and budget approval status using only the scripted record.
+3. Deselect S1 and S3, leaving only S2 selected. Ask the meeting-only question from Part 4 of the prompts page.
 
-![meeting only scope](./images/c06-04-13-meeting-only-scope.jpg)
+![meeting only scope](./images/c06-04-13-meeting-only-scope.png)
 
 *meeting only scope.*
 
@@ -108,74 +108,74 @@ Use the three-file fictional source pack from Chapter 1. Gemini Notebook creatio
 
 > **Reference run:** The author answer retained Aina’s template in week 1, Bala’s status-definition review in week 1, Siti’s fictional sample in week 2 and the unapproved budget.
 
-![meeting only answer](./images/c06-04-14-meeting-only-answer.jpg)
+![meeting only answer](./images/c06-04-14-meeting-only-answer.png)
 
 *meeting only answer.*
 
-![meeting action citation](./images/c06-04-15-meeting-action-citation.jpg)
+![meeting action citation](./images/c06-04-15-meeting-action-citation.png)
 
 *meeting action citation.*
 
 ## 4.4 Audit Citations, Source Selection and Conflicts
 
-1. Restore all three original source selections and run the six-question bank from the prompts page. Record the answer; keep approval status, unresolved decisions and proposed guidance distinct.
+1. Restore all three original source selections and run the six-question audit prompt from Part 4 of the [prompts page](./prompts.md). Record the answer; keep approval status, unresolved decisions and proposed guidance distinct.
 
-![six question answer](./images/c06-04-16-six-question-answer.jpg)
+![six question answer](./images/c06-04-16-six-question-answer.png)
 
 *six question answer.*
 
 2. Open the cited originals and compare each claim with its passage. In the recorded answer, the six core facts matched: S1 supports purpose/duration, teams, Friday cadence, success measure, proposed/unapproved ceiling and unagreed start; S2 supports the three action-owner-week tuples; S3 supports relative weeks and proposed Friday practice.
 
-![bank fact citation](./images/c06-04-17-bank-fact-citation.jpg)
+![bank fact citation](./images/c06-04-17-bank-fact-citation.png)
 
 *bank fact citation.*
 
-![bank action citation](./images/c06-04-18-bank-action-citation.jpg)
+![bank action citation](./images/c06-04-18-bank-action-citation.png)
 
 *bank action citation.*
 
-![bank guidance citation](./images/c06-04-19-bank-guidance-citation.jpg)
+![bank guidance citation](./images/c06-04-19-bank-guidance-citation.png)
 
 *bank guidance citation.*
 
 3. Record repairs as well as matches. The answer grouped known unapproved budget status under an “Unknown” label; the future sponsor decision is unresolved, while the current status is known. Its extra “no purchases authorised” claim included a fact-sheet citation that only gives related scope wording. S2 states the authorisation status explicitly; cite that exact passage rather than accepting a nearby topic mention.
-4. Create a separate notebook, **GW - Project Reporting Pilot - Conflict Practice**. Import extract A and extract B from the prompts page through Copied text. Inspect both complete bodies. Keep the core three-source notebook unchanged.
+4. Create a separate notebook, **GW - Project Reporting Pilot - Conflict Practice**. Import extract A and extract B from Part 4 of the prompts page through Copied text, as two separate sources. Inspect both complete bodies. Keep the core three-source notebook unchanged.
 
-![conflict source a](./images/c06-04-20-conflict-source-a.jpg)
+![conflict source a](./images/c06-04-20-conflict-source-a.png)
 
 *conflict source a.*
 
-![conflict source b](./images/c06-04-21-conflict-source-b.jpg)
+![conflict source b](./images/c06-04-21-conflict-source-b.png)
 
 *conflict source b.*
 
 5. Ask **Which reporting day is approved? Use only the selected sources and cite the supporting text.** The recorded answer said neither day is recorded as approved. Open both citations: A proposes Friday and B proposes Wednesday, and both say approval is not recorded. Titles and upload order do not establish authority.
 
-![conflict no approved day](./images/c06-04-22-conflict-no-approved-day.jpg)
+![conflict no approved day](./images/c06-04-22-conflict-no-approved-day.png)
 
 *conflict no approved day.*
 
-![conflict citation context](./images/c06-04-23-conflict-citation-context.jpg)
+![conflict citation context](./images/c06-04-23-conflict-citation-context.png)
 
 *conflict citation context.*
 
-6. Add the labelled **B revision 2** test source from the prompts page using **Add sources → Copied text**. This additional fictional test input withdraws the Wednesday proposal and proposes no alternative; it does not modify the core project facts. Open the imported body to prove which revision is present. The earlier answer still shows the original proposals.
+6. Add the labelled **B revision 2** test source from Part 4 of the prompts page using **Add sources → Copied text**. This additional fictional test input withdraws the Wednesday proposal and proposes no alternative; it does not modify the core project facts. Open the imported body to prove which revision is present. The earlier answer still shows the original proposals.
 
-![revised source old answer](./images/c06-04-24-revised-source-old-answer.jpg)
+![revised source old answer](./images/c06-04-24-revised-source-old-answer.png)
 
 *revised source old answer.*
 
 7. Retain original B as evidence but deselect it. Leave A and revision 2 selected, then rerun the identical approved-day question. The new answer cited revision 2, recognised the withdrawal and retained the lack of approval. Open the revision citation to verify the text. The unchanged old answer remains a record of its earlier source scope.
 
-![revised selection rerun](./images/c06-04-25-revised-selection-rerun.jpg)
+![revised selection rerun](./images/c06-04-25-revised-selection-rerun.png)
 
 *revised selection rerun.*
 
-![revised answer](./images/c06-04-26-revised-answer.jpg)
+![revised answer](./images/c06-04-26-revised-answer.png)
 
 *revised answer.*
 
-![revision citation proof](./images/c06-04-27-revision-citation-proof.jpg)
+![revision citation proof](./images/c06-04-27-revision-citation-proof.png)
 
 *revision citation proof.*
 
@@ -183,15 +183,15 @@ Use the three-file fictional source pack from Chapter 1. Gemini Notebook creatio
 
 > **Reference run:** The author created an editable Google Docs table and a conflict/version note.
 
-![six question audit table](./images/c06-04-29-six-question-audit-table.jpg)
+![six question audit table](./images/c06-04-29-six-question-audit-table.png)
 
 *six question audit table.*
 
-![audit limitations and conflict note](./images/c06-04-28-audit-limitations-and-conflict-note.jpg)
+![audit limitations and conflict note](./images/c06-04-28-audit-limitations-and-conflict-note.png)
 
 *audit limitations and conflict note.*
 
-**Author-run scope:** three Copied text imports inspected in full; decision/date citations, single-source action extraction, six-question bank, separate conflicting proposals and revised-source rerun checked. Native audit table has six result rows plus its header. The 60-minute classroom allocation, independent challenge and separate human review remain unvalidated.
+> **Reference run:** author-run scope: three Copied text imports inspected in full; decision/date citations, single-source action extraction, six-question bank, separate conflicting proposals and revised-source rerun checked. Native audit table has six result rows plus its header. The 60-minute classroom allocation, independent challenge and separate human review remain unvalidated.
 
 ## Independent Practice
 
