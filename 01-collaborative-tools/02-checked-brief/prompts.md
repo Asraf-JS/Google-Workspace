@@ -59,8 +59,16 @@ This exact request produced the successful panel response during the live test. 
 Reply in the side panel only. Do not edit the document. Draft the brief using the following facts in this message, not other files. Organisation: fictional Seri Maju Projects, Petaling Jaya. Project: Project Reporting Pilot. Purpose: test a consistent weekly project reporting process. Coordinator: Aina Rahman. Sponsor: Farid Hassan. Teams: Planning, Procurement and Site Coordination. Duration: four weeks. Start date: not agreed. Proposed budget ceiling: RM 12,000; NOT approved. Outputs: project brief, task register, weekly status update, project hub. Cadence: every Friday during the pilot. Risk: inconsistent definitions of task status. Success: all three teams submit on time for the final two weeks. Decisions needed: sponsor approval of the budget and start date. Only fictional training data; no live construction records, purchasing commitments or external publication. Use British English, fewer than 350 words, label Fictional training material, and headings Purpose, Scope and Outputs, Roles, Schedule, Budget, Risk, Success Measure, Decisions Needed. Include the known facts; only mark the missing start date To be confirmed. Do not replace supplied facts with placeholders.
 ```
 
-## Part 7: Review Table
+## Part 7: Table Headings
+
+Type these one per cell. The Fact Audit table (section 2.1, step 3):
+
 ```text
 Claim | Source wording | Verdict
+```
+
+The decision table under Decisions Needed (section 2.2, step 3):
+
+```text
 Decision | Decision-maker | Current state | Evidence required
 ```

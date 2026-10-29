@@ -320,19 +320,14 @@
         "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/01-workspace-governance.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "01-collaborative-tools/02-checked-brief/images/c01-02-01-start.jpg": {
+    "01-collaborative-tools/02-checked-brief/images/c01-02-01-start.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-01-start.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        650,
-        140,
-        1440,
-        540
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -354,21 +349,18 @@
         ]
       ],
       "sha256": "0c22ec0b6f78bf9abe87c19f5a10f3c6c30a67d71979c241393346706ed423a1",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/02-checked-brief.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/02-checked-brief/images/c01-02-01-panel.jpg": {
+    "01-collaborative-tools/02-checked-brief/images/c01-02-01-panel.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-01-panel.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        425,
-        120,
-        2110,
-        985
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -390,21 +382,18 @@
         ]
       ],
       "sha256": "d324b9664d7babb811f9f8ce75e27e1efe149b0c84a93f24227a8762e0b7dfea",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/02-checked-brief.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/02-checked-brief/images/c01-02-01-audit.jpg": {
+    "01-collaborative-tools/02-checked-brief/images/c01-02-01-audit.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-01-audit.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        720,
-        225,
-        1370,
-        970
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -426,21 +415,18 @@
         ]
       ],
       "sha256": "3cc4db412664463597eb4acf08718bb89eeac6ce213624aeb599efa8f29f6101",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/02-checked-brief.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/02-checked-brief/images/c01-02-01.jpg": {
+    "01-collaborative-tools/02-checked-brief/images/c01-02-01.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-01.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        720,
-        175,
-        1370,
-        720
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -462,21 +448,18 @@
         ]
       ],
       "sha256": "8e4d5621cf5aa6c60ad872ff7ec9b7751dc97c5286670e0574bf2025b8098e79",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/02-checked-brief.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/02-checked-brief/images/c01-02-02-headings.jpg": {
+    "01-collaborative-tools/02-checked-brief/images/c01-02-02-headings.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-02-headings.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        25,
-        130,
-        1385,
-        1000
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -498,21 +481,18 @@
         ]
       ],
       "sha256": "abf901e855c2e2fdf31f6d66d4cd177d5e3422a13f46bcb3231169d5b039f28c",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/02-checked-brief.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/02-checked-brief/images/c01-02-02.jpg": {
+    "01-collaborative-tools/02-checked-brief/images/c01-02-02.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-02.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        720,
-        175,
-        1370,
-        540
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -534,21 +514,18 @@
         ]
       ],
       "sha256": "cfb7f4c572b561b1df0e01ffe30becdb55909dea8189d4a57b1226b22c761b6b",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/02-checked-brief.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/02-checked-brief/images/c01-02-02-version.jpg": {
+    "01-collaborative-tools/02-checked-brief/images/c01-02-02-version.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-02-version.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        868,
-        375,
-        1258,
-        625
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -570,21 +547,18 @@
         ]
       ],
       "sha256": "c714989b3ffba47b2b3506ccd49337ca7e2588bea224647d521fab20a397cc9a",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/02-checked-brief.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/02-checked-brief/images/c01-02-03-comment.jpg": {
+    "01-collaborative-tools/02-checked-brief/images/c01-02-03-comment.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-03-comment.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        575,
-        435,
-        1755,
-        640
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1335,
@@ -618,21 +592,18 @@
         ]
       ],
       "sha256": "d39e303c64006e9da71c56774e15e49bfdaacd2f56a8b366c353ef5ae4762577",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/02-checked-brief.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/02-checked-brief/images/c01-02-03-purpose.jpg": {
+    "01-collaborative-tools/02-checked-brief/images/c01-02-03-purpose.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-03-purpose.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        575,
-        275,
-        1755,
-        525
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1335,
@@ -672,21 +643,18 @@
         ]
       ],
       "sha256": "6db2245c97965b6231637a3230ec82eda854ab32b8ca54b4780fa1711e457e37",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/02-checked-brief.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/02-checked-brief/images/c01-02-03-reject.jpg": {
+    "01-collaborative-tools/02-checked-brief/images/c01-02-03-reject.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-03-reject.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        575,
-        630,
-        1755,
-        938
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1335,
@@ -732,21 +700,18 @@
         ]
       ],
       "sha256": "22326b0bc6b88022a059c4f4485e2f2c8c2074cc0eebe6748588f484d2c094c8",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/02-checked-brief.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/02-checked-brief/images/c01-02-03.jpg": {
+    "01-collaborative-tools/02-checked-brief/images/c01-02-03.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-03.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        575,
-        235,
-        1755,
-        655
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           1335,
@@ -792,21 +757,18 @@
         ]
       ],
       "sha256": "30c3d4be48ce80f96ba1bb3f4d1cd1f87616276a152b79e09c48177c3666dce4",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/02-checked-brief.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/02-checked-brief/images/c01-02-03-version.jpg": {
+    "01-collaborative-tools/02-checked-brief/images/c01-02-03-version.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-03-version.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        868,
-        375,
-        1258,
-        625
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -840,21 +802,18 @@
         ]
       ],
       "sha256": "fdbc8a63927348450dd8bc8221eb99f8456a8afbdfecd14a855558056df6025c",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/02-checked-brief.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/02-checked-brief/images/c01-02-03-download.jpg": {
+    "01-collaborative-tools/02-checked-brief/images/c01-02-03-download.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-03-download.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        60,
-        55,
-        835,
-        665
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -888,24 +847,23 @@
         ]
       ],
       "sha256": "b9a25ad04c27ffc391d8fc1f1604fa8f04f18b2e0b0a148d81f2c8ea73fccfdc",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/02-checked-brief.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/02-checked-brief/images/c01-02-03-export.jpg": {
+    "01-collaborative-tools/02-checked-brief/images/c01-02-03-export.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/02-checked-brief/c01-02-03-export.png",
       "dimensions": [
         716,
         1011
       ],
       "kind": "pdf-page",
-      "approved_crop": [
-        65,
-        70,
-        645,
-        405
-      ],
+      "approved_crop": null,
       "privacy_masks": [],
       "sha256": "895b75b6d5f594dbe5da620be9e9b2966608333dba10144073cec014cd47aab6",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/02-checked-brief.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
     "01-collaborative-tools/03-meeting-actions/images/c01-03-01-start.jpg": {
       "source": "_design/screenshots/full/01-collaborative-tools/03-meeting-actions/c01-03-01-start.png",
