@@ -27078,7 +27078,7 @@
         "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-01-faq-prompt.jpg": {
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-01-faq-prompt.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-01-faq-prompt.png",
       "dimensions": [
         1432,
@@ -27096,10 +27096,11 @@
       ],
       "sha256": "4985288a202eec28793ce30d5a9b326b14b0a68321f3896112353fc414f8c5c9",
       "notes": [
-        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed."
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/05-briefing-audio.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-02-generated-faq.jpg": {
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-02-generated-faq.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-02-generated-faq.png",
       "dimensions": [
         1432,
@@ -27117,10 +27118,11 @@
       ],
       "sha256": "415085f048d422e0ff787a51294349af3fe456700a222788f5061d5d994be06e",
       "notes": [
-        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed."
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/05-briefing-audio.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-03-faq-fact-citation.jpg": {
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-03-faq-fact-citation.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-03-faq-fact-citation.png",
       "dimensions": [
         1432,
@@ -27138,10 +27140,11 @@
       ],
       "sha256": "96807c8a44d0d7951f59cb2e12efdded69ef397be75a9438be4de50f9a35ed30",
       "notes": [
-        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed."
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/05-briefing-audio.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-04-faq-scripted-citation.jpg": {
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-04-faq-scripted-citation.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-04-faq-scripted-citation.png",
       "dimensions": [
         1432,
@@ -27159,10 +27162,11 @@
       ],
       "sha256": "39cca218ff62c7a0041414b6d3ac780a5480e3433bc1992ee427635f43e5dbba",
       "notes": [
-        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed."
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/05-briefing-audio.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-05-faq-guidance-citation.jpg": {
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-05-faq-guidance-citation.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-05-faq-guidance-citation.png",
       "dimensions": [
         1432,
@@ -27180,10 +27184,11 @@
       ],
       "sha256": "bd1348502edf29fdf3b53f19ddadc268912788d46e70b982c75cc21b93b83dfd",
       "notes": [
-        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed."
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/05-briefing-audio.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-06-checked-faq-note.jpg": {
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-06-checked-faq-note.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-06-checked-faq-note.png",
       "dimensions": [
         1432,
@@ -27201,10 +27206,11 @@
       ],
       "sha256": "66d3fab7b423ad5369810dc570a314a8498bfbc2a6529dccb9954537e92124fe",
       "notes": [
-        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed."
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/05-briefing-audio.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-07-audio-custom-instructions.jpg": {
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-07-audio-custom-instructions.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-07-audio-custom-instructions.png",
       "dimensions": [
         1432,
@@ -27222,10 +27228,11 @@
       ],
       "sha256": "ab9e4328bae2c6cf4a04dbac3858f94fe505cfcb601eb48db4d006ad490bf344",
       "notes": [
-        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed."
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/05-briefing-audio.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-08-audio-generating.jpg": {
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-08-audio-generating.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-08-audio-generating.png",
       "dimensions": [
         1432,
@@ -27243,10 +27250,11 @@
       ],
       "sha256": "00ec8e11855360723d1bd2360eb54de2a5504e63287f1b9704a7f2a64ad0e3e8",
       "notes": [
-        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed."
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/05-briefing-audio.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-09-written-briefing.jpg": {
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-09-written-briefing.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-09-written-briefing.png",
       "dimensions": [
         1591,
@@ -27264,10 +27272,11 @@
       ],
       "sha256": "4b9d2cb5c3b7ee97b102a8de1730d411378a69c9834fb0bed93854d7840c982e",
       "notes": [
-        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed."
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/05-briefing-audio.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-10-audit-sheet-before-listening.jpg": {
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-10-audit-sheet-before-listening.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-10-audit-sheet-before-listening.png",
       "dimensions": [
         1591,
@@ -27285,10 +27294,11 @@
       ],
       "sha256": "7362047db27e005f4969247813dfac14af3be46d3cf0fa31f69b58ff50d4c490",
       "notes": [
-        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed."
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/05-briefing-audio.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-11-audio-ready.jpg": {
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-11-audio-ready.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-11-audio-ready.png",
       "dimensions": [
         1432,
@@ -27306,7 +27316,8 @@
       ],
       "sha256": "765be214485f6fc01f246ea11e6157a637de76fcf48e2a8cb199c7383d06a761",
       "notes": [
-        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed."
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/05-briefing-audio.json (crop and boxes in 1600 px coordinates)."
       ]
     },
     "06-notebooklm-gemini/07-ai-pilot/images/c06-07-01-predefined-protocol.jpg": {
