@@ -26,165 +26,167 @@ Download the [project facts](../../shared/sample-files/project-facts.txt), [meet
 
 ## 1.1 Check the Tools
 
-1. In Drive, confirm the account approved for training and create **GW - AI - Practice**. Account access establishes availability in this environment, not your organisation's approval or customer licensing.
+1. In Drive, confirm the account approved for training. Click **New > New folder** and create **GW - AI - Practice**. Account access establishes availability in this environment, not your organisation's approval or customer licensing.
 
-![isolated training drive folder](./images/c06-01-01-isolated-training-drive-folder.jpg)
+![The empty GW - AI - Practice folder in Drive](./images/c06-01-01-isolated-training-drive-folder.png)
 
-*isolated training drive folder.*
+*The practice folder is empty. Nothing from other courses is in it.*
 
 2. Open Gemini with the same account. Confirm that its prompt surface is available. Do not generate the FAQ yet.
 
-![gemini training account surface](./images/c06-01-02-gemini-training-account-surface.jpg)
+![Gemini's new-chat screen with the Ask Gemini box](./images/c06-01-02-gemini-training-account-surface.png)
 
-*gemini training account surface.*
+*The prompt box is available in the training account. Don't send anything yet.*
 
 3. Open [Gemini Notebook](https://notebook.google.com/). Create **GW - AI - Source Preflight**. Start with zero sources.
 
 > **Reference run:** The older NotebookLM address redirected to this application during the author run.
 
-![new notebook zero sources](./images/c06-01-03-new-notebook-zero-sources.jpg)
+![A new notebook named GW - AI - Source Preflight with no sources](./images/c06-01-03-new-notebook-zero-sources.png)
 
-*new notebook zero sources.*
+*The notebook starts with zero sources.*
 
 4. Open **Add sources**. Record the offered source types. Availability of a button does not establish a successful import.
 
 > **Reference run:** The author account showed Upload files, Websites, Play Books, Drive and Copied text; only **Copied text** was tested in this lab.
 
-![advertised source types](./images/c06-01-04-advertised-source-types.jpg)
+![The Add sources dialog listing Upload files, Websites, Play Books, Drive and Copied text](./images/c06-01-04-advertised-source-types.png)
 
-*advertised source types.*
+*Record which source types are offered. Only Copied text is tested in this lab.*
 
 5. Open the supplied **project-facts.txt** locally. Select **Copied text**, paste that original fictional text and inspect it before inserting. Exclude review examples, generated drafts and unrelated sensitive material.
 
-![original fictional fact sheet only](./images/c06-01-05-original-fictional-fact-sheet-only.jpg)
+![The Paste copied text dialog containing the original fact sheet](./images/c06-01-05-original-fictional-fact-sheet-only.png)
 
-*original fictional fact sheet only.*
+*Paste only the original project-facts.txt text, then click Insert.*
 
 6. Insert the text. In this interface it becomes an editable note/source. Set its **Note title** to **SOURCE - project-facts.txt - supplied, unversioned**. Check the source body against the original file; a renamed source is not independently verified evidence.
 
-![imported original source labelled](./images/c06-01-06-imported-original-source-labelled.jpg)
+![The inserted source renamed SOURCE - project-facts.txt - supplied, unversioned](./images/c06-01-06-imported-original-source-labelled.png)
 
-*imported original source labelled.*
+*The new title says where the text came from. Check the body against the original file.*
 
 7. Confirm **one selected source**. An automatic overview may appear: that is generated output to check, not a new original source. This one-source preflight does not complete the later three-source notebook exercise. Leave other imports, Studio tools, generated media, sharing and source updates marked **untested**.
 
-![one source preflight complete](./images/c06-01-07-one-source-preflight-complete.jpg)
+![The notebook with one selected source and an automatic overview](./images/c06-01-07-one-source-preflight-complete.png)
 
-*one source preflight complete.*
+*One source is selected. The overview is generated output to check, not a new source.*
 
 If a service is unavailable, record the missing objective and use the trainer's demonstration or read the supplied originals manually. Manual reading supports source analysis but does not prove that the missing AI feature works. Keep the approved account and settings.
 
 ## 1.2 Inspect the Pack
 
-1. In the training account, create a blank Google Doc and name it **AI Evidence Log - Project Reporting Pilot**. Use the prompts page one section at a time. Keep real editable tables; do not paste a screenshot of a table.
+1. In the training account, create a blank Google Doc and name it **AI Evidence Log - Project Reporting Pilot**. Type the title `AI Evidence Log` and the subtitle line, then build each section from the matching card in Part 3 of the [prompts page](./prompts.md), one section at a time: paste a card's tab-separated text, select it and use **Format > Table > Convert text to table** if Docs doesn't create the table. Keep real editable tables; do not paste a screenshot of a table.
 
-![native evidence log created](./images/c06-01-08-native-evidence-log-created.jpg)
+![A blank Google Doc named AI Evidence Log - Project Reporting Pilot](./images/c06-01-08-native-evidence-log-created.png)
 
-*native evidence log created.*
+*The evidence log is a native Doc, so its tables stay editable.*
 
-2. Add **Source Manifest**. Register **S1: project-facts.txt**, supplied fact sheet, original plain text, **no version stated**. Record permitted use, what it can establish and its limits. It establishes the fictional purpose, four-week duration, three teams, Friday cadence, success measure and proposed RM 12,000 ceiling. It does not establish approval or an agreed calendar start.
+2. Add the heading **Source Manifest** and paste the S1 manifest card. Register **S1: project-facts.txt**, supplied fact sheet, original plain text, **no version stated**. Record permitted use, what it can establish and its limits. It establishes the fictional purpose, four-week duration, three teams, Friday cadence, success measure and proposed RM 12,000 ceiling. It does not establish approval or an agreed calendar start.
 
-![fact sheet authority and limits](./images/c06-01-09-fact-sheet-authority-and-limits.jpg)
+![The Source Manifest table with the S1 row for project-facts.txt](./images/c06-01-09-fact-sheet-authority-and-limits.png)
 
-*fact sheet authority and limits.*
+*S1 records what the fact sheet can and cannot establish.*
 
-3. Add **S2: meeting-record.txt**, supplied scripted discussion, original plain text, **no version stated**. It records Aina's template in week 1, Bala's status-definition review in week 1 and Siti's fictional sample update in week 2. Those are scripted commitments, not completed work or a real meeting.
+3. Add the heading **S2 · Scripted meeting record** and paste the S2 card for **meeting-record.txt**, supplied scripted discussion, original plain text, **no version stated**. It records Aina's template in week 1, Bala's status-definition review in week 1 and Siti's fictional sample update in week 2. Those are scripted commitments, not completed work or a real meeting.
 
-![scripted action source registered](./images/c06-01-10-scripted-action-source-registered.jpg)
+![The S2 table for the scripted meeting record](./images/c06-01-10-scripted-action-source-registered.png)
 
-*scripted action source registered.*
+*S2 lists the three scripted actions. They are commitments, not completed work.*
 
-4. Add **S3: reporting-guidance.txt**, **version 1**, proposed training guidance. It supports proposed status definitions, exception handling and the relative-week workflow. It is not an approved policy. Add a source-boundary paragraph: only S1-S3 are core originals; review-examples.txt is critique material, AI drafts are outputs, and change cards require separately labelled contexts.
+4. Add the heading **S3 · Proposed reporting guidance** and paste the S3 card for **reporting-guidance.txt**, **version 1**, proposed training guidance. It supports proposed status definitions, exception handling and the relative-week workflow. It is not an approved policy. Under the heading **Evidence boundary**, add a source-boundary paragraph: only S1-S3 are core originals; review-examples.txt is critique material, AI drafts are outputs, and change cards require separately labelled contexts.
 
-![proposed guidance and evidence boundary](./images/c06-01-11-proposed-guidance-and-evidence-boundary.jpg)
+![The S3 table for the proposed guidance and the evidence boundary paragraph](./images/c06-01-11-proposed-guidance-and-evidence-boundary.png)
 
-*proposed guidance and evidence boundary.*
+*Only S1 to S3 are core original evidence.*
 
 ## 1.3 Define the Task
 
-1. Add **Task Contract** for fictional coordinator Aina. Plan a **five-question FAQ and short briefing for a later lab**. Specify original-source boundaries, intended reader, required topics, format and human review gate.
+1. Add the heading **Task Contract** for fictional coordinator Aina, with the five-topic task contract card from the prompts page. Plan a **five-question FAQ and short briefing for a later lab**. Specify original-source boundaries, intended reader, required topics, format and human review gate.
 2. Combine purpose/duration/teams into FAQ topic 1; then cover cadence/success measure, proposed budget, unresolved start and the three action-owner-week triples. The six test questions remain separate checks even though the output has five FAQ topics.
 
-![five question coordinator task contract](./images/c06-01-12-five-question-coordinator-task-contract.jpg)
+![The Task Contract with its five FAQ topics](./images/c06-01-12-five-question-coordinator-task-contract.png)
 
-*five question coordinator task contract.*
+*Each FAQ topic names the source it must use.*
 
 3. List facts to preserve and missing information: proposed/unapproved budget, unresolved calendar start, relative due weeks, no supplied ROI or actual outcome, and no agreed cut-off time, submission channel or clarification deadline.
 4. Add **Review Results** with Question, Source, Claim, Check and Decision columns. Use a single **Not generated / Not run** placeholder. Do not record invented scores before an answer exists.
 
-![fixed facts gaps and review log](./images/c06-01-13-fixed-facts-gaps-and-review-log.jpg)
+![Facts to preserve, gaps to retain and the Review Results placeholder](./images/c06-01-13-fixed-facts-gaps-and-review-log.png)
 
-*fixed facts gaps and review log.*
+*Review Results stays at Not run until an answer exists.*
 
 ## 1.4 Create an Evaluation Plan and Verify the Saved Log
 
 1. Add **Tests** and a feature preflight table. Record the observed account, editable Doc, Gemini prompt surface, current Gemini Notebook label and the single Copied text import. Mark advertised but untested source types and Studio features explicitly. Organisation policy, customer edition and real reviewer acceptance remain unverified.
 
-![observed feature preflight and untested routes](./images/c06-01-14-observed-feature-preflight-and-untested-routes.jpg)
+![The feature preflight table with the advertised but untested routes](./images/c06-01-14-observed-feature-preflight-and-untested-routes.png)
 
-*observed feature preflight and untested routes.*
+*Advertised features are marked untested rather than assumed to work.*
 
 2. Use the Doc's folder control to move it to **GW - AI - Practice**. Navigate into the destination, then commit **Move**. Opening a destination in the picker alone does not save the move. Wait for the moved confirmation; verify the file in Drive before handover.
 
-![evidence log practice folder destination](./images/c06-01-15-evidence-log-practice-folder-destination.jpg)
+![The Move dialog open on GW - AI - Practice](./images/c06-01-15-evidence-log-practice-folder-destination.png)
 
-*evidence log practice folder destination.*
+*The move isn't saved until you click Move.*
 
 3. Prepare the six-row scoring structure: **TestID, Required facts, Unsupported claims, Citation support, Decision, Repair**. Keep **Not assessed**, **unchecked**, **Not run** and **Await response** where appropriate. Add acceptance rules before generating anything: inspect the actual cited passage; classify support as Supported, Partial, Absent or Contradicted; require zero unsupported consequential claims.
 
-![scoring table not run and acceptance gates](./images/c06-01-17-scoring-table-not-run-and-acceptance-gates.jpg)
+![The six-row scoring structure and the acceptance conditions](./images/c06-01-17-scoring-table-not-run-and-acceptance-gates.png)
 
-*scoring table not run and acceptance gates.*
+*Every row is Not run. The acceptance rules are written before anything is generated.*
 
 4. Add **Open Questions** for the budget, start, operational gaps, policy/access and future reviewer decision. Record the prepared final state: original sources preserved, one source imported for preflight, no generated FAQ scored, no external release.
 
-![open questions and prepared final state](./images/c06-01-18-open-questions-and-prepared-final-state.jpg)
+![The Open Questions table and the prepared final state](./images/c06-01-18-open-questions-and-prepared-final-state.png)
 
-*open questions and prepared final state.*
+*Open questions keep the budget, start date and reviewer decision unresolved.*
 
-5. Use the document outline to inspect section structure. This intermediate capture predates the final insertion of the question bank; an outline or a scoring skeleton alone does not prove that all six predictions are present.
+5. Use the document outline to inspect section structure. An outline or a scoring skeleton alone does not prove that all six predictions are present.
 
-![intermediate section outline before question bank repair](./images/c06-01-19-evidence-log-final-outline.jpg)
+> **Reference run:** this capture predates the final insertion of the question bank in step 7.
 
-*intermediate section outline before question bank repair.*
+![The document outline listing the log's sections](./images/c06-01-19-evidence-log-final-outline.png)
+
+*The outline shows the structure. It doesn't prove every prediction is present.*
 
 6. Verify the successful folder move. The confirmation below is the saved move, rather than the earlier picker preview.
 
 > **Reference run:** The author run caught an uncommitted move during readback and completed it before handover.
 
-![evidence log move confirmed](./images/c06-01-20-evidence-log-move-confirmed.jpg)
+![The confirmation that the log moved to GW - AI - Practice](./images/c06-01-20-evidence-log-move-confirmed.png)
 
-*evidence log move confirmed.*
+*This message confirms the saved move.*
 
 7. Insert **Six-question test bank - predictions before generation** before the scoring section. Read the six original questions and record a predicted answer, source and evidence behaviour for each. Check that **T01-T06 occur in both the prediction bank and scoring plan**.
 
 > **Reference run:** The author readback caught a missed insertion and repaired it before final verification.
 
-![six question bank inserted before scoring](./images/c06-01-21-six-question-bank-inserted-before-scoring.jpg)
+![The six-question prediction bank, T01 to T06](./images/c06-01-21-six-question-bank-inserted-before-scoring.png)
 
-*six question bank inserted before scoring.*
+*Each test has a predicted answer and source before anything is generated.*
 
 The purpose, teams, cadence/success measure and budget are answerable from S1; S3 corroborates cadence and S2 corroborates the lack of approval. The exact action triples are in S2. T05 has no confirmed calendar date: state that the start is not agreed. None of these six questions individually requires combining sources to recover its facts. The complete FAQ uses multiple originals; do not force S3 to prove an approval or date it does not contain.
 
 8. Keep the scoring heading with its table; use a page break if needed. Fit the table inside the page and inspect every row. Leave outcomes **Not run**. **Accept** requires complete supported facts and explicit gaps; **Repair** addresses omissions or weak pointers; **Hold** applies to invented approval/date, contradiction or unresolved consequential evidence.
 
-![scoring section kept with table](./images/c06-01-22-scoring-section-kept-with-table.jpg)
+![The scoring heading at the bottom of a page](./images/c06-01-22-scoring-section-kept-with-table.png)
 
-*scoring section kept with table.*
+*The heading is about to split from its table. A page break keeps them together.*
 
-![final six test scoring plan](./images/c06-01-25-final-six-test-scoring-plan.jpg)
+![The scoring table for T01 to T06, all Not run](./images/c06-01-25-final-six-test-scoring-plan.png)
 
-*final six test scoring plan.*
+*All six rows remain unscored.*
 
 9. Reopen the practice folder and confirm the named native Doc. Recheck its nine editable tables, five main sections, six predictions, six unscored rows and unresolved questions. This verifies the prepared log, not FAQ correctness or independent reviewer success.
 
 > **Reference run:** A native PDF export was inspected offline across all six pages in the author run; no blank pages or text outside page bounds were found.
 
-![evidence log saved in practice folder](./images/c06-01-26-evidence-log-saved-in-practice-folder.jpg)
+![The evidence log listed in the GW - AI - Practice folder](./images/c06-01-26-evidence-log-saved-in-practice-folder.png)
 
-*evidence log saved in practice folder.*
+*Reopen the log from the folder to confirm where it is saved.*
 
-**Verified author result:** isolated practice folder, one-original-source notebook preflight and a saved native evidence log with bounded task contract, source manifest, feature record, predictions, scoring plan and open questions. Automated guided actions took about 12 minutes; verification and automation repairs added about 19 minutes. These are author-operation timings, not evidence that learners meet the 40-minute classroom target. Independent source classification, two extra tests, actual reviewer agreement and learner timing remain pending.
+> **Reference run:** verified author result: isolated practice folder, one-original-source notebook preflight and a saved native evidence log with bounded task contract, source manifest, feature record, predictions, scoring plan and open questions. Automated guided actions took about 12 minutes; verification and automation repairs added about 19 minutes. These are author-operation timings, not evidence that learners meet the 40-minute classroom target. Independent source classification, two extra tests, actual reviewer agreement and learner timing remain pending.
 
 ## Independent Practice
 

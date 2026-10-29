@@ -1,0 +1,205 @@
+{
+ "raw": "../raw/06-notebooklm-gemini/07-ai-pilot",
+ "repoRoot": "../../../06-notebooklm-gemini",
+ "shots": {
+  "c06-07-01-predefined-protocol.png": {
+   "boxes": [
+    [
+     466,
+     326,
+     1100,
+     464,
+     1
+    ],
+    [
+     466,
+     476,
+     1100,
+     624,
+     2
+    ],
+    [
+     466,
+     636,
+     1100,
+     760,
+     3
+    ]
+   ]
+  },
+  "c06-07-02-fresh-flash-session-a.png": {
+   "boxes": [
+    [
+     650,
+     404,
+     1210,
+     466,
+     1
+    ]
+   ]
+  },
+  "c06-07-03-source-reference-and-pending-ledger.png": {
+   "boxes": [
+    [
+     466,
+     340,
+     1100,
+     580,
+     2
+    ],
+    [
+     466,
+     600,
+     1100,
+     680,
+     2
+    ]
+   ]
+  },
+  "c06-07-04-set-a-response.png": {
+   "boxes": [
+    [
+     500,
+     200,
+     1140,
+     640,
+     3
+    ]
+   ]
+  },
+  "c06-07-05-fresh-flash-session-b.png": {
+   "boxes": [
+    [
+     540,
+     404,
+     1100,
+     466,
+     1
+    ]
+   ]
+  },
+  "c06-07-06-set-a-audit-and-repair.png": {
+   "boxes": [
+    [
+     486,
+     390,
+     1100,
+     690,
+     1
+    ],
+    [
+     486,
+     706,
+     1100,
+     820,
+     2
+    ]
+   ]
+  },
+  "c06-07-07-targeted-revision-before-rerun.png": {
+   "boxes": [
+    [
+     466,
+     700,
+     1100,
+     820,
+     2
+    ]
+   ]
+  },
+  "c06-07-08-set-b-response.png": {
+   "boxes": [
+    [
+     500,
+     200,
+     1140,
+     780,
+     3
+    ]
+   ]
+  },
+  "c06-07-09-set-b-source-tail.png": {
+   "boxes": [
+    [
+     500,
+     130,
+     1140,
+     720,
+     3
+    ]
+   ]
+  },
+  "c06-07-10-set-b-audit.png": {
+   "boxes": [
+    [
+     486,
+     420,
+     1100,
+     640,
+     3
+    ]
+   ]
+  },
+  "c06-07-11-targeted-rerun-wait.png": {
+   "boxes": [
+    [
+     690,
+     60,
+     1110,
+     180,
+     4
+    ],
+    [
+     1050,
+     780,
+     1090,
+     820
+    ]
+   ]
+  },
+  "c06-07-12-targeted-rerun-unscored.png": {
+   "boxes": [
+    [
+     486,
+     590,
+     1100,
+     820,
+     4
+    ]
+   ]
+  },
+  "c06-07-15-rerun-returned-to-composer.png": {
+   "boxes": [
+    [
+     540,
+     404,
+     1100,
+     620,
+     4
+    ]
+   ]
+  },
+  "c06-07-13-maintained-checked-faq.png": {
+   "boxes": [
+    [
+     466,
+     456,
+     1100,
+     780,
+     5
+    ]
+   ]
+  },
+  "c06-07-14-final-ledger-and-limits.png": {
+   "boxes": [
+    [
+     486,
+     650,
+     1100,
+     860,
+     5
+    ]
+   ]
+  }
+ }
+}

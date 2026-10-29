@@ -26,48 +26,54 @@ Use the fictional source pack and review log. This is a supervised manual workfl
 
 ## 7.1 Define the Pilot
 
-1. Create `GW - AI - Pilot Evaluation`. Use the same three original fictional sources for every attempt. Set the acceptance rule before generation: all five topics pass, each consequential claim has source support, and no approval, date, supplier or gain is invented.
-2. Use the prompts page's rubric. The date criterion includes both the unagreed calendar start and the unresolved sponsor decision. Record prior familiarity and attempt order. A rejected first draft is not an accepted output.
+1. In **GW - AI - Practice** create a Google Doc named `GW - AI - Pilot Evaluation`. Use the same three original fictional sources for every attempt. Set the acceptance rule before generation: all five topics pass, each consequential claim has source support, and no approval, date, supplier or gain is invented.
+2. Copy the rubric from Part 3 of the prompts page into the Doc. The date criterion includes both the unagreed calendar start and the unresolved sponsor decision. Record prior familiarity and attempt order. A rejected first draft is not an accepted output.
 3. A participant should first write and check a manual FAQ, logging drafting and checking separately. Its source-based reference is not a human manual baseline. Human manual and classroom timings remain unmeasured; no productivity percentage can be calculated.
 
 > **Reference run:** **Author boundary:** this reference was prepared by an AI agent with extensive source familiarity.
 
-![predefined protocol](./images/c06-07-01-predefined-protocol.jpg)
+![The Pilot Evaluation Doc with the acceptance rule, scoring criteria and study limits written before generation](./images/c06-07-01-predefined-protocol.png)
 
-*predefined protocol.*
+*The rubric is fixed before any answer exists.*
 
 ## 7.2 Run the Assisted Attempt
 
-1. Open a fresh Gemini conversation in the approved account. Record the visible mode. Paste the common brief, Set A questions and all three labelled originals. Do not paste only the question list.
+1. Open a fresh Gemini conversation in the approved account. Record the visible mode. Paste the Attempt A prompt from Part 4 of the prompts page, followed by all three labelled originals. Do not paste only the question list.
 
 > **Reference run:** The author used Flash.
 
-![fresh flash session a](./images/c06-07-02-fresh-flash-session-a.jpg)
+![A fresh Gemini chat with the model set to Flash](./images/c06-07-02-fresh-flash-session-a.png)
 
-*fresh flash session a.*
+*Record the visible model before pasting the prompt.*
 
 2. Submit once and record generation waiting separately. While waiting, retain the expected source facts and a clearly unscored ledger.
 
 > **Reference run:** The author reference below is a source check, not a timed human attempt.
 
-![source reference and pending ledger](./images/c06-07-03-source-reference-and-pending-ledger.jpg)
+![The source reference and an attempt ledger with every score pending](./images/c06-07-03-source-reference-and-pending-ledger.png)
 
-*source reference and pending ledger.*
+*Nothing is scored while generation is running.*
 
-3. Read the complete response before scoring. The observed Set A used five extractive entries with S1 quotes. A source label is only a pointer: compare the quoted passage with the actual original.
+3. Read the complete response before scoring. A source label is only a pointer: compare the quoted passage with the actual original.
 
-![set a response](./images/c06-07-04-set-a-response.jpg)
+> **Reference run:** the observed Set A used five extractive entries with S1 quotes.
 
-*set a response.*
+![The Set A response: five numbered answers, each with a source and quote](./images/c06-07-04-set-a-response.png)
+
+*A source label is a pointer. Check the quote against the original.*
 
 ## 7.3 Evaluate the Outcome
 
-1. Apply the predefined rubric without changing it after seeing the response. Set A preserved the purpose/duration, teams, cadence/success and budget status. Its date quote retained “not yet agreed” but omitted the unresolved sponsor-decision statement required by the scorecard: **4/5, repair required**. This is an omission against that contract, not an invented date.
-2. Record the author correction: retain A1–A4 and replace A5 with the no-agreed-date statement plus S1's exact unresolved-decision line. Recheck the corrected reference: **5/5**. Keep the original model response and distinguish the author's repair from a regenerated answer.
+1. Apply the predefined rubric (Part 3 of the [prompts page](./prompts.md)) without changing it after seeing the response. Score each of the five topics pass or repair.
 
-![set a audit and repair](./images/c06-07-06-set-a-audit-and-repair.jpg)
+> **Reference run:** Set A preserved the purpose/duration, teams, cadence/success and budget status. Its date quote retained “not yet agreed” but omitted the unresolved sponsor-decision statement required by the scorecard: **4/5, repair required**. This is an omission against that contract, not an invented date.
+2. If a topic needs repair, correct only that answer from the original sources, then recheck the corrected version against the rubric. Keep the original model response and mark your repair as yours, not a regenerated answer.
 
-*set a audit and repair.*
+> **Reference run:** the author correction: retain A1–A4 and replace A5 with the no-agreed-date statement plus S1's exact unresolved-decision line. Recheck the corrected reference: **5/5**. Keep the original model response and distinguish the author's repair from a regenerated answer.
+
+![The Set A claim audit with one topic marked Repair, and the author correction](./images/c06-07-06-set-a-audit-and-repair.png)
+
+*The original response stays as it was; the repair is recorded separately.*
 
 3. Include prompting, source checking and repair in active effort. Keep generation wait, sign-in, setup and interruptions separate. Complete human timing is still required before a manual/assisted comparison.
 
@@ -75,57 +81,59 @@ Use the fictional source pack and review log. This is a supervised manual workfl
 
 ## 7.4 Run a Small, Interpretable AI Evaluation
 
-1. Start a fresh conversation and paste Set B with the unchanged brief, mode and source pack. It asks the same five questions in a different order: budget, date, cadence/success, teams, purpose/duration. This is a reordered repeat, not an unseen task or a human baseline. Keep attempt order and familiarity visible.
+1. Start a fresh conversation and paste the Attempt B prompt (Part 5 of the prompts page) with the unchanged brief, mode and source pack. It asks the same five questions in a different order: budget, date, cadence/success, teams, purpose/duration. This is a reordered repeat, not an unseen task or a human baseline. Keep attempt order and familiarity visible.
 
-![fresh flash session b](./images/c06-07-05-fresh-flash-session-b.jpg)
+![A second fresh Flash chat for Set B](./images/c06-07-05-fresh-flash-session-b.png)
 
-*fresh flash session b.*
+*Set B uses the same sources and brief in a new conversation.*
 
 2. Record a design issue before the repair trial: the original visible date question did not explicitly ask for every scorecard detail. The score remains recorded, but do not blame the omission solely on the model. Keep A and B unchanged; prepare the explicit acceptance-check block for a separate Set A rerun C.
 
-![targeted revision before rerun](./images/c06-07-07-targeted-revision-before-rerun.jpg)
+![The note explaining the prompt design issue before rerun C](./images/c06-07-07-targeted-revision-before-rerun.png)
 
-*targeted revision before rerun.*
+*The date question didn't ask for every scorecard detail, so the omission isn't only the model's.*
 
-3. Inspect the entire Set B answer and its original supporting passages, including facts beyond its short excerpts. It retained the unapproved budget, sponsor identity and unresolved date/decision, plus all other required facts. First-review result: **5/5; no correction needed**. Do not infer that reordering caused the difference.
+3. Inspect the entire Set B answer and its original supporting passages, including facts beyond its short excerpts. Score it with the same rubric.
 
-![set b response](./images/c06-07-08-set-b-response.jpg)
+> **Reference run:** It retained the unapproved budget, sponsor identity and unresolved date/decision, plus all other required facts. First-review result: **5/5; no correction needed**. Do not infer that reordering caused the difference.
 
-*set b response.*
+![The Set B response with the questions in a different order](./images/c06-07-08-set-b-response.png)
 
-![set b source tail](./images/c06-07-09-set-b-source-tail.jpg)
+*Same five topics, reordered.*
 
-*set b source tail.*
+![The rest of the Set B response with its supporting passages](./images/c06-07-09-set-b-source-tail.png)
 
-![set b audit](./images/c06-07-10-set-b-audit.jpg)
+*Read the whole answer, including facts beyond the short quotes.*
 
-*set b audit.*
+![The Set B review table with every criterion checked](./images/c06-07-10-set-b-audit.png)
+
+*Score Set B with the same rubric as Set A.*
 
 4. Run C in another fresh Flash conversation using Set A and the same sources, adding only the explicit output acceptance block. Apply the same rubric when a complete answer exists. No cause was established and no retry was submitted. Keep C unscored; this does not demonstrate a successful repair. This is an author repair attempt, not an independent learner challenge.
 
 > **Reference run:** C remained generating after more than seven minutes, then returned to the new-chat composer with the prompt restored and no answer.
 
-![targeted rerun wait](./images/c06-07-11-targeted-rerun-wait.jpg)
+![Rerun C still generating, with no answer](./images/c06-07-11-targeted-rerun-wait.png)
 
-*targeted rerun wait.*
+*A pending response can't be scored.*
 
-![targeted rerun unscored](./images/c06-07-12-targeted-rerun-unscored.jpg)
+![The note recording rerun C as not yet assessed](./images/c06-07-12-targeted-rerun-unscored.png)
 
-*targeted rerun unscored.*
+*Keep C unscored rather than filling in an expected result.*
 
-![rerun returned to composer](./images/c06-07-15-rerun-returned-to-composer.jpg)
+![Gemini back at the new-chat composer with the prompt restored and no answer](./images/c06-07-15-rerun-returned-to-composer.png)
 
-*rerun returned to composer.*
+*The rerun returned no response, so it stays unscored.*
 
 5. Save the final review and timing ledger. Report the actual sample size, prompt-contract mismatch, order/familiarity effects and unmeasured phases. B and C generation waits overlapped; do not add those intervals as sequential task duration. A complete participant comparison must include all active drafting, prompting, checking and correction for each accepted output. The maintained FAQ below is author-checked text, not a substitute for C's missing response.
 
-![maintained checked faq](./images/c06-07-13-maintained-checked-faq.jpg)
+![The maintained checked FAQ, marked as an author reference](./images/c06-07-13-maintained-checked-faq.png)
 
-*maintained checked faq.*
+*This checked text is not an unedited model response or a human baseline.*
 
-![final ledger and limits](./images/c06-07-14-final-ledger-and-limits.jpg)
+![The final ledger: human baseline not run, A repaired, B accepted, C unscored](./images/c06-07-14-final-ledger-and-limits.png)
 
-*final ledger and limits.*
+*The ledger reports what was actually run and what wasn't.*
 
 6. Recommend a narrow next trial: have a participant complete the aligned manual and assisted tasks using the same sources and acceptance rule, with phase timing and reviewer checks. Repeat on an equivalent task with a different order. Keep the checked outputs, defects and repairs; avoid company-wide ROI claims from this demonstration.
 

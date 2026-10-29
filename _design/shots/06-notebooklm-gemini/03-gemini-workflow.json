@@ -1,0 +1,133 @@
+{
+ "raw": "../raw/06-notebooklm-gemini/03-gemini-workflow",
+ "repoRoot": "../../../06-notebooklm-gemini",
+ "shots": {
+  "c06-03-01-practice-source-fact-sheet.png": {
+   "boxes": [
+    [
+     466,
+     232,
+     1094,
+     654,
+     1
+    ]
+   ]
+  },
+  "c06-03-02-gemini-panel-open.png": {
+   "boxes": [
+    [
+     1176,
+     64,
+     1596,
+     900,
+     1
+    ]
+   ]
+  },
+  "c06-03-03-proposed-guidance-source.png": {
+   "boxes": [
+    [
+     466,
+     232,
+     1064,
+     482,
+     2
+    ]
+   ]
+  },
+  "c06-03-04-guidance-attached.png": {
+   "boxes": [
+    [
+     1120,
+     764,
+     1342,
+     814,
+     2
+    ]
+   ]
+  },
+  "c06-03-05-update-prompt.png": {
+   "boxes": [
+    [
+     1192,
+     620,
+     1548,
+     804,
+     3
+    ]
+   ]
+  },
+  "c06-03-06-unexpected-proposed-edit.png": {
+   "boxes": [
+    [
+     1180,
+     298,
+     1560,
+     486,
+     4
+    ],
+    [
+     392,
+     656,
+     1014,
+     900
+    ]
+   ]
+  },
+  "c06-03-10-checked-update.png": {
+   "boxes": [
+    [
+     466,
+     332,
+     1094,
+     636,
+     5
+    ]
+   ]
+  },
+  "c06-03-11-unsent-message.png": {
+   "boxes": [
+    [
+     472,
+     556,
+     1068,
+     800,
+     3
+    ]
+   ]
+  },
+  "c06-03-12-action-lineage.png": {
+   "boxes": [
+    [
+     466,
+     308,
+     1082,
+     536,
+     3
+    ]
+   ]
+  },
+  "c06-03-13-delay-scenario.png": {
+   "boxes": [
+    [
+     392,
+     366,
+     1012,
+     794,
+     3
+    ]
+   ]
+  },
+  "c06-03-14-lineage-table.png": {
+   "boxes": [
+    [
+     466,
+     552,
+     1094,
+     802,
+     1
+    ]
+   ]
+  }
+ }
+}

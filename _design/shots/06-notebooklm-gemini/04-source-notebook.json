@@ -1,0 +1,407 @@
+{
+ "raw": "../raw/06-notebooklm-gemini/04-source-notebook",
+ "repoRoot": "../../../06-notebooklm-gemini",
+ "shots": {
+  "c06-04-01-blank-evidence-notebook.png": {
+   "boxes": [
+    [
+     36,
+     8,
+     640,
+     52,
+     1
+    ]
+   ]
+  },
+  "c06-04-02-fact-sheet-before-insert.png": {
+   "boxes": [
+    [
+     480,
+     280,
+     1110,
+     590,
+     2
+    ],
+    [
+     980,
+     628,
+     1078,
+     664
+    ]
+   ]
+  },
+  "c06-04-03-fact-sheet-imported.png": {
+   "boxes": [
+    [
+     1000,
+     140,
+     1520,
+     184,
+     2
+    ],
+    [
+     1000,
+     288,
+     1592,
+     762
+    ]
+   ]
+  },
+  "c06-04-04-meeting-before-insert.png": {
+   "boxes": [
+    [
+     480,
+     280,
+     1110,
+     590,
+     3
+    ],
+    [
+     980,
+     628,
+     1078,
+     664
+    ]
+   ]
+  },
+  "c06-04-05-scripted-meeting-imported.png": {
+   "boxes": [
+    [
+     1000,
+     140,
+     1520,
+     184,
+     3
+    ],
+    [
+     1000,
+     288,
+     1592,
+     562
+    ]
+   ]
+  },
+  "c06-04-06-guidance-before-insert.png": {
+   "boxes": [
+    [
+     480,
+     280,
+     1110,
+     590,
+     4
+    ],
+    [
+     980,
+     628,
+     1078,
+     664
+    ]
+   ]
+  },
+  "c06-04-07-proposed-guidance-imported.png": {
+   "boxes": [
+    [
+     1000,
+     140,
+     1520,
+     184,
+     4
+    ],
+    [
+     30,
+     380,
+     332,
+     500,
+     4
+    ]
+   ]
+  },
+  "c06-04-08-decisions-prompt.png": {
+   "boxes": [
+    [
+     460,
+     744,
+     1160,
+     820,
+     1
+    ]
+   ]
+  },
+  "c06-04-09-decisions-answer.png": {
+   "boxes": [
+    [
+     460,
+     140,
+     1156,
+     474,
+     2
+    ]
+   ]
+  },
+  "c06-04-10-budget-citation-context.png": {
+   "boxes": [
+    [
+     516,
+     358,
+     580,
+     390
+    ],
+    [
+     1020,
+     290,
+     1592,
+     570,
+     3
+    ]
+   ]
+  },
+  "c06-04-11-missing-date-answer.png": {
+   "boxes": [
+    [
+     460,
+     240,
+     1150,
+     460,
+     1
+    ]
+   ]
+  },
+  "c06-04-12-date-citation-context.png": {
+   "boxes": [
+    [
+     746,
+     356,
+     780,
+     386
+    ],
+    [
+     1004,
+     360,
+     1592,
+     762,
+     2,
+     "left"
+    ]
+   ]
+  },
+  "c06-04-13-meeting-only-scope.png": {
+   "boxes": [
+    [
+     30,
+     380,
+     390,
+     500,
+     3
+    ],
+    [
+     440,
+     696,
+     1160,
+     820,
+     3
+    ]
+   ]
+  },
+  "c06-04-14-meeting-only-answer.png": {
+   "boxes": [
+    [
+     460,
+     330,
+     1240,
+     760,
+     4
+    ]
+   ]
+  },
+  "c06-04-15-meeting-action-citation.png": {
+   "boxes": [
+    [
+     1000,
+     290,
+     1592,
+     562,
+     4
+    ]
+   ]
+  },
+  "c06-04-16-six-question-answer.png": {
+   "boxes": [
+    [
+     480,
+     80,
+     1270,
+     570,
+     1
+    ]
+   ]
+  },
+  "c06-04-17-bank-fact-citation.png": {
+   "boxes": [
+    [
+     1000,
+     360,
+     1592,
+     762,
+     2
+    ]
+   ]
+  },
+  "c06-04-18-bank-action-citation.png": {
+   "boxes": [
+    [
+     1000,
+     280,
+     1592,
+     562,
+     2
+    ]
+   ]
+  },
+  "c06-04-19-bank-guidance-citation.png": {
+   "boxes": [
+    [
+     1000,
+     290,
+     1592,
+     670,
+     2
+    ]
+   ]
+  },
+  "c06-04-20-conflict-source-a.png": {
+   "boxes": [
+    [
+     1000,
+     140,
+     1592,
+     350,
+     4
+    ]
+   ]
+  },
+  "c06-04-21-conflict-source-b.png": {
+   "boxes": [
+    [
+     1000,
+     140,
+     1592,
+     350,
+     4
+    ]
+   ]
+  },
+  "c06-04-22-conflict-no-approved-day.png": {
+   "boxes": [
+    [
+     460,
+     200,
+     1150,
+     410,
+     5
+    ]
+   ]
+  },
+  "c06-04-23-conflict-citation-context.png": {
+   "boxes": [
+    [
+     892,
+     462,
+     918,
+     486
+    ],
+    [
+     1006,
+     290,
+     1500,
+     354,
+     5
+    ],
+    [
+     910,
+     520,
+     1340,
+     680
+    ]
+   ]
+  },
+  "c06-04-24-revised-source-old-answer.png": {
+   "boxes": [
+    [
+     1000,
+     140,
+     1592,
+     430,
+     6
+    ],
+    [
+     30,
+     380,
+     390,
+     410
+    ]
+   ]
+  },
+  "c06-04-25-revised-selection-rerun.png": {
+   "boxes": [
+    [
+     30,
+     380,
+     390,
+     500,
+     7
+    ],
+    [
+     440,
+     744,
+     1160,
+     820,
+     7
+    ]
+   ]
+  },
+  "c06-04-26-revised-answer.png": {
+   "boxes": [
+    [
+     460,
+     180,
+     1270,
+     410,
+     7
+    ]
+   ]
+  },
+  "c06-04-27-revision-citation-proof.png": {
+   "boxes": [
+    [
+     1000,
+     290,
+     1592,
+     430,
+     7
+    ]
+   ]
+  },
+  "c06-04-29-six-question-audit-table.png": {
+   "boxes": [
+    [
+     460,
+     350,
+     1100,
+     690,
+     8
+    ]
+   ]
+  },
+  "c06-04-28-audit-limitations-and-conflict-note.png": {
+   "boxes": [
+    [
+     480,
+     320,
+     1380,
+     620,
+     8
+    ]
+   ]
+  }
+ }
+}

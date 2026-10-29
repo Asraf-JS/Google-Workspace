@@ -1,0 +1,122 @@
+{
+ "raw": "../raw/06-notebooklm-gemini/02-prompt-design",
+ "repoRoot": "../../../06-notebooklm-gemini",
+ "shots": {
+  "c06-02-03-vague-flash-before-send.png": {
+   "boxes": [
+    [
+     540,
+     432,
+     1104,
+     492,
+     1
+    ]
+   ]
+  },
+  "c06-02-13-vague-success.png": {
+   "boxes": [
+    [
+     512,
+     156,
+     1116,
+     820,
+     2
+    ]
+   ]
+  },
+  "c06-02-05-user-grounded-sponsor-response.png": {
+   "boxes": [
+    [
+     600,
+     210,
+     1236,
+     530,
+     2
+    ]
+   ]
+  },
+  "c06-02-06-refinement-prompt-before-send.png": {
+   "boxes": [
+    [
+     540,
+     756,
+     1104,
+     840,
+     1
+    ]
+   ]
+  },
+  "c06-02-07-refined-sponsor-response.png": {
+   "boxes": [
+    [
+     506,
+     232,
+     1124,
+     528,
+     2
+    ]
+   ]
+  },
+  "c06-02-09-bounded-faq-after-user-redo.png": {
+   "boxes": [
+    [
+     512,
+     212,
+     1124,
+     790,
+     1
+    ]
+   ]
+  },
+  "c06-02-10-explicit-checks-prompt.png": {
+   "boxes": [
+    [
+     544,
+     406,
+     1104,
+     614,
+     3
+    ]
+   ]
+  },
+  "c06-02-11-checked-faq-user-result.png": {
+   "boxes": [
+    [
+     512,
+     212,
+     1124,
+     790,
+     4
+    ]
+   ]
+  },
+  "c06-02-12-repeat-faq-user-result.png": {
+   "boxes": [
+    [
+     734,
+     12,
+     912,
+     34
+    ],
+    [
+     506,
+     232,
+     1124,
+     790,
+     5
+    ]
+   ]
+  },
+  "c06-02-14-clean-repeat-success.png": {
+   "boxes": [
+    [
+     506,
+     212,
+     1124,
+     790,
+     6
+    ]
+   ]
+  }
+ }
+}

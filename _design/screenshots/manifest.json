@@ -25332,7 +25332,7 @@
         "Actual staged handover learner UI, original dimensions; no crop or resize, avatar masked. Recovery baseline preserved; whole-workbook PO025 extension, native pivots/chart/sparkline, guarded unknown key and runbook/manifest verified. Uncommitted range-edit captures 17/19/20 excluded; numbering retained for provenance. Independent PO026, human partner/reviewer, spoken handover and classroom timing pending. Final wording refined after Edge reconnection; no later-state screenshot backfill."
       ]
     },
-    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-01-isolated-training-drive-folder.jpg": {
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-01-isolated-training-drive-folder.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-01-isolated-training-drive-folder.png",
       "dimensions": [
         1432,
@@ -25350,10 +25350,11 @@
       ],
       "sha256": "a9a5bae757f160662ce718c044c3e245834f13e02feab172f09cacf95adb0cf9",
       "notes": [
-        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/01-ai-workspace.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-02-gemini-training-account-surface.jpg": {
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-02-gemini-training-account-surface.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-02-gemini-training-account-surface.png",
       "dimensions": [
         1909,
@@ -25384,10 +25385,11 @@
       "sha256": "943c5791daa9fe5b8b2a0128662e42eb53cdc12ee4dbcc1e90941b3000de851a",
       "notes": [
         "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
-        "Unrelated notebook and conversation titles masked in the sidebar; full dimensions preserved."
+        "Unrelated notebook and conversation titles masked in the sidebar; full dimensions preserved.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/01-ai-workspace.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-03-new-notebook-zero-sources.jpg": {
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-03-new-notebook-zero-sources.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-03-new-notebook-zero-sources.png",
       "dimensions": [
         1432,
@@ -25405,10 +25407,11 @@
       ],
       "sha256": "6928c24d11f59cb8a1ed737da0e1eb80f71d032387d8ac720c9ca09ee3645812",
       "notes": [
-        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/01-ai-workspace.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-04-advertised-source-types.jpg": {
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-04-advertised-source-types.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-04-advertised-source-types.png",
       "dimensions": [
         1432,
@@ -25426,10 +25429,11 @@
       ],
       "sha256": "084568a598fcb1271042143be1d00c49f839dea0048fd068373fa75633ea1ddb",
       "notes": [
-        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/01-ai-workspace.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-05-original-fictional-fact-sheet-only.jpg": {
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-05-original-fictional-fact-sheet-only.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-05-original-fictional-fact-sheet-only.png",
       "dimensions": [
         1432,
@@ -25447,10 +25451,11 @@
       ],
       "sha256": "2b09a1f6c8f5775cbaf7104097e5c1064d3caca68b97f65151a9eb8383f98c19",
       "notes": [
-        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/01-ai-workspace.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-06-imported-original-source-labelled.jpg": {
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-06-imported-original-source-labelled.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-06-imported-original-source-labelled.png",
       "dimensions": [
         1432,
@@ -25468,10 +25473,11 @@
       ],
       "sha256": "bfbee9595afce68e3e9f2e3d9a9d9695de3b3acab5a8b3999c2958a602cfd882",
       "notes": [
-        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/01-ai-workspace.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-07-one-source-preflight-complete.jpg": {
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-07-one-source-preflight-complete.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-07-one-source-preflight-complete.png",
       "dimensions": [
         1432,
@@ -25489,10 +25495,11 @@
       ],
       "sha256": "32adee9eb8f6a6f888ed98240adbb58930e51d2b1306ae31f0b8ddb85d6dd345",
       "notes": [
-        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/01-ai-workspace.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-08-native-evidence-log-created.jpg": {
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-08-native-evidence-log-created.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-08-native-evidence-log-created.png",
       "dimensions": [
         1591,
@@ -25510,10 +25517,11 @@
       ],
       "sha256": "fe2ed8716a2950f74c9a518abfc53a19dc640181313008c265e5532a5c749c90",
       "notes": [
-        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/01-ai-workspace.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-09-fact-sheet-authority-and-limits.jpg": {
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-09-fact-sheet-authority-and-limits.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-09-fact-sheet-authority-and-limits.png",
       "dimensions": [
         1591,
@@ -25531,10 +25539,11 @@
       ],
       "sha256": "544db3c60659bc3393d8410a4f07abe059d3e5c9c99979672efad8b1bbb3a355",
       "notes": [
-        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/01-ai-workspace.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-10-scripted-action-source-registered.jpg": {
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-10-scripted-action-source-registered.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-10-scripted-action-source-registered.png",
       "dimensions": [
         1591,
@@ -25552,10 +25561,11 @@
       ],
       "sha256": "60a53539f14263c6f421fd3201eec567af664104406c67ac22eb272f61d39adb",
       "notes": [
-        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/01-ai-workspace.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-11-proposed-guidance-and-evidence-boundary.jpg": {
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-11-proposed-guidance-and-evidence-boundary.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-11-proposed-guidance-and-evidence-boundary.png",
       "dimensions": [
         1591,
@@ -25573,10 +25583,11 @@
       ],
       "sha256": "2253267a38e2380b02399b5e49ce6c9919731c6b56c435faa3e875919e9be592",
       "notes": [
-        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/01-ai-workspace.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-12-five-question-coordinator-task-contract.jpg": {
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-12-five-question-coordinator-task-contract.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-12-five-question-coordinator-task-contract.png",
       "dimensions": [
         1591,
@@ -25594,10 +25605,11 @@
       ],
       "sha256": "ff9f019b34424b858cc3287564c1cd81d4bed9ad7ac545cfecec4106bb04030a",
       "notes": [
-        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/01-ai-workspace.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-13-fixed-facts-gaps-and-review-log.jpg": {
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-13-fixed-facts-gaps-and-review-log.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-13-fixed-facts-gaps-and-review-log.png",
       "dimensions": [
         1591,
@@ -25615,10 +25627,11 @@
       ],
       "sha256": "3eeae0cf1724c4869cd3e1d425d89a25657ab64628ebf399e4b263693f625846",
       "notes": [
-        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/01-ai-workspace.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-14-observed-feature-preflight-and-untested-routes.jpg": {
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-14-observed-feature-preflight-and-untested-routes.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-14-observed-feature-preflight-and-untested-routes.png",
       "dimensions": [
         1591,
@@ -25636,10 +25649,11 @@
       ],
       "sha256": "0e75dbd0343b22f7f25e6033d1fac22d2e1c6c54f1d19091e55cc4fb686bccc4",
       "notes": [
-        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/01-ai-workspace.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-15-evidence-log-practice-folder-destination.jpg": {
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-15-evidence-log-practice-folder-destination.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-15-evidence-log-practice-folder-destination.png",
       "dimensions": [
         1591,
@@ -25657,10 +25671,11 @@
       ],
       "sha256": "33baae11524e0bcb4cf6bcb617298f6b4b1b635233162e58d834f7bfa1f56bd6",
       "notes": [
-        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/01-ai-workspace.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-17-scoring-table-not-run-and-acceptance-gates.jpg": {
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-17-scoring-table-not-run-and-acceptance-gates.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-17-scoring-table-not-run-and-acceptance-gates.png",
       "dimensions": [
         1591,
@@ -25678,10 +25693,11 @@
       ],
       "sha256": "c1ceec6c2862c472d10e04998063e0d71fcb8ea48298a337737f4247386da064",
       "notes": [
-        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/01-ai-workspace.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-18-open-questions-and-prepared-final-state.jpg": {
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-18-open-questions-and-prepared-final-state.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-18-open-questions-and-prepared-final-state.png",
       "dimensions": [
         1591,
@@ -25699,10 +25715,11 @@
       ],
       "sha256": "1b90c6c1d898d859d7052bd7d6098901fa3b07df871ed94934648abe45461d6c",
       "notes": [
-        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/01-ai-workspace.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-19-evidence-log-final-outline.jpg": {
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-19-evidence-log-final-outline.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-19-evidence-log-final-outline.png",
       "dimensions": [
         1591,
@@ -25720,10 +25737,11 @@
       ],
       "sha256": "d3bd5cf07ba49ebee18bd8636b2a6d5db47c4ff4ea52d97ab421f3a4a4b44424",
       "notes": [
-        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/01-ai-workspace.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-20-evidence-log-move-confirmed.jpg": {
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-20-evidence-log-move-confirmed.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-20-evidence-log-move-confirmed.png",
       "dimensions": [
         1591,
@@ -25741,10 +25759,11 @@
       ],
       "sha256": "f311bd101ed9a077c5074f4e732ea4890f040ff7bb01e361405a58788d206074",
       "notes": [
-        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/01-ai-workspace.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-21-six-question-bank-inserted-before-scoring.jpg": {
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-21-six-question-bank-inserted-before-scoring.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-21-six-question-bank-inserted-before-scoring.png",
       "dimensions": [
         1591,
@@ -25762,10 +25781,11 @@
       ],
       "sha256": "42bdd7a3a716bbaf2ef2e9b61f8aaa295ecc8670b86584813b0af02bd5afcbf6",
       "notes": [
-        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/01-ai-workspace.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-22-scoring-section-kept-with-table.jpg": {
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-22-scoring-section-kept-with-table.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-22-scoring-section-kept-with-table.png",
       "dimensions": [
         1591,
@@ -25783,10 +25803,11 @@
       ],
       "sha256": "3b65fd7dbdca5ed0e1eb7875430fc992b3561d5a42ff01679634fd4fcf0752ca",
       "notes": [
-        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/01-ai-workspace.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-25-final-six-test-scoring-plan.jpg": {
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-25-final-six-test-scoring-plan.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-25-final-six-test-scoring-plan.png",
       "dimensions": [
         1591,
@@ -25804,10 +25825,11 @@
       ],
       "sha256": "dabc4b128fe80a5cb74dd6e0afa4891a35bb8e757b1fecaf9690aaa2f22e0bdc",
       "notes": [
-        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/01-ai-workspace.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-26-evidence-log-saved-in-practice-folder.jpg": {
+    "06-notebooklm-gemini/01-ai-workspace/images/c06-01-26-evidence-log-saved-in-practice-folder.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/01-ai-workspace/c06-01-26-evidence-log-saved-in-practice-folder.png",
       "dimensions": [
         1432,
@@ -25825,10 +25847,11 @@
       ],
       "sha256": "7452ccfa90bbc9354c1e1d79407779e5c5c3543b975136b695e1149a4c32b9e2",
       "notes": [
-        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending."
+        "Actual staged AI workspace learner UI, original dimensions; no crop or resize. Account avatar masked; Gemini account block also masked. One original fact-sheet source preflight only; other advertised imports and Studio features untested. Native log nine tables/six predictions and six unscored rows verified. Missing insertion and folder move repaired through learner UI; excluded unsuccessful/preliminary captures retained privately with numbering gaps. Independent/reviewer and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/01-ai-workspace.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/02-prompt-design/images/c06-02-03-vague-flash-before-send.jpg": {
+    "06-notebooklm-gemini/02-prompt-design/images/c06-02-03-vague-flash-before-send.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/02-prompt-design/c06-02-03-vague-flash-before-send.png",
       "dimensions": [
         1909,
@@ -25858,10 +25881,11 @@
       ],
       "sha256": "0309952817cf7c90bed85a540a5ac0c78ff58df7e63ae6f063eaa268ca750246",
       "notes": [
-        "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending."
+        "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/02-prompt-design.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/02-prompt-design/images/c06-02-05-user-grounded-sponsor-response.jpg": {
+    "06-notebooklm-gemini/02-prompt-design/images/c06-02-05-user-grounded-sponsor-response.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/02-prompt-design/c06-02-05-user-grounded-sponsor-response.png",
       "dimensions": [
         1909,
@@ -25898,10 +25922,11 @@
       "sha256": "78fa0c03b3d31d4d74cd446d2d06a293de906914c3c1a6d998a4ab7ae7e60a1e",
       "notes": [
         "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending.",
-        "Unrelated sidebar history masked."
+        "Unrelated sidebar history masked.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/02-prompt-design.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/02-prompt-design/images/c06-02-06-refinement-prompt-before-send.jpg": {
+    "06-notebooklm-gemini/02-prompt-design/images/c06-02-06-refinement-prompt-before-send.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/02-prompt-design/c06-02-06-refinement-prompt-before-send.png",
       "dimensions": [
         1909,
@@ -25931,10 +25956,11 @@
       ],
       "sha256": "8e814aa5f6f2968dbca25873717a2ccdc02a2afc18b83b526bc405897ec7caf1",
       "notes": [
-        "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending."
+        "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/02-prompt-design.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/02-prompt-design/images/c06-02-07-refined-sponsor-response.jpg": {
+    "06-notebooklm-gemini/02-prompt-design/images/c06-02-07-refined-sponsor-response.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/02-prompt-design/c06-02-07-refined-sponsor-response.png",
       "dimensions": [
         1909,
@@ -25964,10 +25990,11 @@
       ],
       "sha256": "49eba05d9810513f4089fd5a634906f970a2db3db17d068e9fa93e7828d86e21",
       "notes": [
-        "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending."
+        "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/02-prompt-design.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/02-prompt-design/images/c06-02-09-bounded-faq-after-user-redo.jpg": {
+    "06-notebooklm-gemini/02-prompt-design/images/c06-02-09-bounded-faq-after-user-redo.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/02-prompt-design/c06-02-09-bounded-faq-after-user-redo.png",
       "dimensions": [
         1909,
@@ -25997,10 +26024,11 @@
       ],
       "sha256": "ad8dc38b4feecae6b3638d3de324187eda2de8cc657dc98b13dcf9bd1bbe18a3",
       "notes": [
-        "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending."
+        "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/02-prompt-design.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/02-prompt-design/images/c06-02-10-explicit-checks-prompt.jpg": {
+    "06-notebooklm-gemini/02-prompt-design/images/c06-02-10-explicit-checks-prompt.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/02-prompt-design/c06-02-10-explicit-checks-prompt.png",
       "dimensions": [
         1909,
@@ -26030,10 +26058,11 @@
       ],
       "sha256": "b923939541ec6f7c26c4dc19414ab45396d2596105f6a5972857bad8ab359931",
       "notes": [
-        "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending."
+        "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/02-prompt-design.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/02-prompt-design/images/c06-02-11-checked-faq-user-result.jpg": {
+    "06-notebooklm-gemini/02-prompt-design/images/c06-02-11-checked-faq-user-result.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/02-prompt-design/c06-02-11-checked-faq-user-result.png",
       "dimensions": [
         1909,
@@ -26063,10 +26092,11 @@
       ],
       "sha256": "c1fe49587b8456eb61b23ced61e6d3b72cf3922dbaa7734022ffbde88a7b4877",
       "notes": [
-        "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending."
+        "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/02-prompt-design.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/02-prompt-design/images/c06-02-12-repeat-faq-user-result.jpg": {
+    "06-notebooklm-gemini/02-prompt-design/images/c06-02-12-repeat-faq-user-result.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/02-prompt-design/c06-02-12-repeat-faq-user-result.png",
       "dimensions": [
         1909,
@@ -26096,10 +26126,11 @@
       ],
       "sha256": "4c94a94641568c69af769eb06c345ed707dd897a36c27a3f1d9f333f4e6af8b2",
       "notes": [
-        "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending."
+        "Staged real Gemini UI; original dimensions, account and footer masked; no crop. User-assisted retries are documented; incomplete/error output excluded. Repeat conversation contains a stopped prior request. Classroom timing and independent challenge pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/02-prompt-design.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/02-prompt-design/images/c06-02-13-vague-success.jpg": {
+    "06-notebooklm-gemini/02-prompt-design/images/c06-02-13-vague-success.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/02-prompt-design/c06-02-13-vague-success.png",
       "dimensions": [
         1909,
@@ -26129,10 +26160,11 @@
       ],
       "sha256": "f20edd872f2c3e1d7890c61aae2d94b0874a27790f11dcbe9a3e2771f04819eb",
       "notes": [
-        "Fresh vague prompt in Flash produced a generic template. Full application window, account and footer masked; no crop or resize. Illustrative example, not evidence of pilot status."
+        "Fresh vague prompt in Flash produced a generic template. Full application window, account and footer masked; no crop or resize. Illustrative example, not evidence of pilot status.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/02-prompt-design.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/02-prompt-design/images/c06-02-14-clean-repeat-success.jpg": {
+    "06-notebooklm-gemini/02-prompt-design/images/c06-02-14-clean-repeat-success.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/02-prompt-design/c06-02-14-clean-repeat-success.png",
       "dimensions": [
         1909,
@@ -26162,10 +26194,11 @@
       ],
       "sha256": "81c4d4be8f1330829d1011907cb4de0bdd884563842859e14b611eb605977a66",
       "notes": [
-        "Fresh conversation containing original S1-S3 and identical checked prompt. Two earlier versions returned errors; version 3 generated with user-assisted Redo. Original dimensions, private account masked."
+        "Fresh conversation containing original S1-S3 and identical checked prompt. Two earlier versions returned errors; version 3 generated with user-assisted Redo. Original dimensions, private account masked.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/02-prompt-design.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-01-practice-source-fact-sheet.jpg": {
+    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-01-practice-source-fact-sheet.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/03-gemini-workflow/c06-03-01-practice-source-fact-sheet.png",
       "dimensions": [
         1591,
@@ -26183,10 +26216,11 @@
       ],
       "sha256": "3b9f1a40d3ca4c832ea7c04889a5731c5e470d448795f84c0953d566c915f134",
       "notes": [
-        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending."
+        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/03-gemini-workflow.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-02-gemini-panel-open.jpg": {
+    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-02-gemini-panel-open.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/03-gemini-workflow/c06-03-02-gemini-panel-open.png",
       "dimensions": [
         1591,
@@ -26204,10 +26238,11 @@
       ],
       "sha256": "6692922d5a73a9768bc3101b7602f182e84a3e7fc27ab826b288f9e3d51e5073",
       "notes": [
-        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending."
+        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/03-gemini-workflow.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-03-proposed-guidance-source.jpg": {
+    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-03-proposed-guidance-source.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/03-gemini-workflow/c06-03-03-proposed-guidance-source.png",
       "dimensions": [
         1591,
@@ -26225,10 +26260,11 @@
       ],
       "sha256": "273322316496c489b96c2df90e5ab562e642dbe41d57ce702a3a906126a518aa",
       "notes": [
-        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending."
+        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/03-gemini-workflow.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-04-guidance-attached.jpg": {
+    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-04-guidance-attached.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/03-gemini-workflow/c06-03-04-guidance-attached.png",
       "dimensions": [
         1591,
@@ -26246,10 +26282,11 @@
       ],
       "sha256": "34bad7ad103f037f11918a8dbd494c6235636b7a02077fe616aebac899d01413",
       "notes": [
-        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending."
+        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/03-gemini-workflow.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-05-update-prompt.jpg": {
+    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-05-update-prompt.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/03-gemini-workflow/c06-03-05-update-prompt.png",
       "dimensions": [
         1591,
@@ -26267,10 +26304,11 @@
       ],
       "sha256": "4fabac24b2d05a8ffcba0d116685880f50622a6669020f25c47ea210f0b2d483",
       "notes": [
-        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending."
+        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/03-gemini-workflow.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-06-unexpected-proposed-edit.jpg": {
+    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-06-unexpected-proposed-edit.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/03-gemini-workflow/c06-03-06-unexpected-proposed-edit.png",
       "dimensions": [
         1591,
@@ -26288,10 +26326,11 @@
       ],
       "sha256": "e2469170e5215b1e0d4d216559a0ecc34cc28a2b1f74bd4972ec4a37c2c29c31",
       "notes": [
-        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending."
+        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/03-gemini-workflow.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-10-checked-update.jpg": {
+    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-10-checked-update.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/03-gemini-workflow/c06-03-10-checked-update.png",
       "dimensions": [
         1591,
@@ -26309,10 +26348,11 @@
       ],
       "sha256": "c3a47a713ce9f710b6764f817909b449f0aae1643919ae77def3a782edf60c3f",
       "notes": [
-        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending."
+        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/03-gemini-workflow.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-11-unsent-message.jpg": {
+    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-11-unsent-message.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/03-gemini-workflow/c06-03-11-unsent-message.png",
       "dimensions": [
         1591,
@@ -26330,10 +26370,11 @@
       ],
       "sha256": "5c52587d3faa71171fc7feff81feed6a05639e429b4cd8690fe9a9054b53350f",
       "notes": [
-        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending."
+        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/03-gemini-workflow.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-12-action-lineage.jpg": {
+    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-12-action-lineage.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/03-gemini-workflow/c06-03-12-action-lineage.png",
       "dimensions": [
         1591,
@@ -26351,10 +26392,11 @@
       ],
       "sha256": "620de517b32a5723347113031922ebd3ea1d27b2c4bd40874da03b505515a038",
       "notes": [
-        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending."
+        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/03-gemini-workflow.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-14-lineage-table.jpg": {
+    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-14-lineage-table.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/03-gemini-workflow/c06-03-14-lineage-table.png",
       "dimensions": [
         1591,
@@ -26372,10 +26414,11 @@
       ],
       "sha256": "a345bf1fe102d613a55e8000aad417fdc021491b80b7a1788abffac88f227e4d",
       "notes": [
-        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending."
+        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/03-gemini-workflow.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-13-delay-scenario.jpg": {
+    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-13-delay-scenario.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/03-gemini-workflow/c06-03-13-delay-scenario.png",
       "dimensions": [
         1591,
@@ -26393,10 +26436,11 @@
       ],
       "sha256": "c74b6d21f9096057bfc5289bc2531205815739f6924a78fd04b45b10936b0520",
       "notes": [
-        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending."
+        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/03-gemini-workflow.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-01-blank-evidence-notebook.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-01-blank-evidence-notebook.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-01-blank-evidence-notebook.png",
       "dimensions": [
         1432,
@@ -26414,10 +26458,11 @@
       ],
       "sha256": "fd63c8e7948605cab76be39c33b6d709607e3cf414eb4c68b5f149eea7f9cd50",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-02-fact-sheet-before-insert.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-02-fact-sheet-before-insert.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-02-fact-sheet-before-insert.png",
       "dimensions": [
         1432,
@@ -26435,10 +26480,11 @@
       ],
       "sha256": "1ee45f5e3998cc6e44c6dbe6ca7cdd3ce2ff9b455b79f825eeb137cc4a9701fc",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-03-fact-sheet-imported.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-03-fact-sheet-imported.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-03-fact-sheet-imported.png",
       "dimensions": [
         1432,
@@ -26456,10 +26502,11 @@
       ],
       "sha256": "00025fb0add74b2293e912fed63836b4b4e3ab245fc27c22924ecfec47991e7f",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-04-meeting-before-insert.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-04-meeting-before-insert.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-04-meeting-before-insert.png",
       "dimensions": [
         1432,
@@ -26477,10 +26524,11 @@
       ],
       "sha256": "a8ab178769233d368249e9c4cdea5fa1344918ce5630273716131349583b16ee",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-05-scripted-meeting-imported.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-05-scripted-meeting-imported.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-05-scripted-meeting-imported.png",
       "dimensions": [
         1432,
@@ -26498,10 +26546,11 @@
       ],
       "sha256": "f3996bbc27b9c9984e57e3b999fafd397b5591b0ec1eefde3395b59dde585c60",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-06-guidance-before-insert.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-06-guidance-before-insert.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-06-guidance-before-insert.png",
       "dimensions": [
         1432,
@@ -26519,10 +26568,11 @@
       ],
       "sha256": "a9acc0053da0e2ccc57e2fd47d88b4b793acc8626526bfd89c5f4eeb2b7fcbe9",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-07-proposed-guidance-imported.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-07-proposed-guidance-imported.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-07-proposed-guidance-imported.png",
       "dimensions": [
         1432,
@@ -26540,10 +26590,11 @@
       ],
       "sha256": "2bd4dde6e04d32223de6036e833c32bb9fe72a570ec34ef3c1d2081fb4621604",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-08-decisions-prompt.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-08-decisions-prompt.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-08-decisions-prompt.png",
       "dimensions": [
         1432,
@@ -26561,10 +26612,11 @@
       ],
       "sha256": "b5b2fcae2c6f0b88d7a4fadc10de10be56908b536e4a2e03371ab8ef68260c50",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-09-decisions-answer.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-09-decisions-answer.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-09-decisions-answer.png",
       "dimensions": [
         1432,
@@ -26582,10 +26634,11 @@
       ],
       "sha256": "63c34045d66ac2ce7304769e29be11048cd12f9459cc3cb24d01f2f44b959bdf",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-10-budget-citation-context.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-10-budget-citation-context.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-10-budget-citation-context.png",
       "dimensions": [
         1432,
@@ -26603,10 +26656,11 @@
       ],
       "sha256": "4fa2856cdaa795ff2868294f424936c667b64ea61a966ce8f4cfcf2b39d8a058",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-11-missing-date-answer.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-11-missing-date-answer.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-11-missing-date-answer.png",
       "dimensions": [
         1432,
@@ -26624,10 +26678,11 @@
       ],
       "sha256": "450902e220121b79067581f6c4e1a8942bbe1a475577ed5f16dbdc356ce19373",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-12-date-citation-context.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-12-date-citation-context.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-12-date-citation-context.png",
       "dimensions": [
         1432,
@@ -26645,10 +26700,11 @@
       ],
       "sha256": "6fec86be6cbaaf1ca87fc99e6bb71734e9bf39eb46f69f10b188681db198e70c",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-13-meeting-only-scope.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-13-meeting-only-scope.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-13-meeting-only-scope.png",
       "dimensions": [
         1432,
@@ -26666,10 +26722,11 @@
       ],
       "sha256": "d51076ee3b9a8b579b6400f1844b006dd8d602d25f8e1fb1354e192cbf6c01ea",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-14-meeting-only-answer.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-14-meeting-only-answer.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-14-meeting-only-answer.png",
       "dimensions": [
         1432,
@@ -26687,10 +26744,11 @@
       ],
       "sha256": "982a7cbc51d84dd6f382d80cea27ad3cd701bacc5bac81ca921a8c4f54fdf687",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-15-meeting-action-citation.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-15-meeting-action-citation.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-15-meeting-action-citation.png",
       "dimensions": [
         1432,
@@ -26708,10 +26766,11 @@
       ],
       "sha256": "a015c2f38f65dd60e70950520332e5e420f175d74d6565bed84eb486857e9784",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-16-six-question-answer.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-16-six-question-answer.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-16-six-question-answer.png",
       "dimensions": [
         1432,
@@ -26729,10 +26788,11 @@
       ],
       "sha256": "0bb9c69f17cbc41e17360986b22ac38868e01c79e58f838766ef48ce08902ff6",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-17-bank-fact-citation.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-17-bank-fact-citation.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-17-bank-fact-citation.png",
       "dimensions": [
         1432,
@@ -26750,10 +26810,11 @@
       ],
       "sha256": "87ac71537fb7f3c5e3fa058c311e8f9aca58a89643024ac00812b84f165c5eb4",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-18-bank-action-citation.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-18-bank-action-citation.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-18-bank-action-citation.png",
       "dimensions": [
         1432,
@@ -26771,10 +26832,11 @@
       ],
       "sha256": "365e9c943d3d2ad8ebe4510ad6260041f5c8bcbcbbd6da1aa99521070845bc56",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-19-bank-guidance-citation.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-19-bank-guidance-citation.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-19-bank-guidance-citation.png",
       "dimensions": [
         1432,
@@ -26792,10 +26854,11 @@
       ],
       "sha256": "915439180942251e007ad8408e5b1b2847a286dfb26ec917661147f11ee1ed01",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-20-conflict-source-a.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-20-conflict-source-a.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-20-conflict-source-a.png",
       "dimensions": [
         1432,
@@ -26813,10 +26876,11 @@
       ],
       "sha256": "bf4a2a255c416993215ad9d7a521dfdde989f0f782c114029a97b5c2a30cb661",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-21-conflict-source-b.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-21-conflict-source-b.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-21-conflict-source-b.png",
       "dimensions": [
         1432,
@@ -26834,10 +26898,11 @@
       ],
       "sha256": "a59c435896aad8409d5570c6e2a8bed3a113b77cb34e9d72bce9825e3ce6e564",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-22-conflict-no-approved-day.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-22-conflict-no-approved-day.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-22-conflict-no-approved-day.png",
       "dimensions": [
         1432,
@@ -26855,10 +26920,11 @@
       ],
       "sha256": "f9185b1aff4ae55142eef22faf8672569a6a787116d318f89de9f8e5b7eae1c2",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-23-conflict-citation-context.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-23-conflict-citation-context.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-23-conflict-citation-context.png",
       "dimensions": [
         1432,
@@ -26876,10 +26942,11 @@
       ],
       "sha256": "d18ab0895090d232dc42e475ecbff1f7d88157f945132fc9a832719731a3d494",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-24-revised-source-old-answer.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-24-revised-source-old-answer.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-24-revised-source-old-answer.png",
       "dimensions": [
         1432,
@@ -26897,10 +26964,11 @@
       ],
       "sha256": "39777142ef65c797e4b987e4dcaae9f0b64093c462492ff30ec31a16a0f73086",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-25-revised-selection-rerun.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-25-revised-selection-rerun.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-25-revised-selection-rerun.png",
       "dimensions": [
         1432,
@@ -26918,10 +26986,11 @@
       ],
       "sha256": "8145fe8e5db2458cb8bd5fca82fff644676091b7a7e4a1ba3454c837336f8d49",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-26-revised-answer.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-26-revised-answer.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-26-revised-answer.png",
       "dimensions": [
         1432,
@@ -26939,10 +27008,11 @@
       ],
       "sha256": "845d4c60f59c2c43bd10fcc1368ca2c7051752cb9b93d4c935cdf9d965d4c316",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-27-revision-citation-proof.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-27-revision-citation-proof.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-27-revision-citation-proof.png",
       "dimensions": [
         1432,
@@ -26960,10 +27030,11 @@
       ],
       "sha256": "9da6fce86e0b8a8d7ceefdf017922697e7365304ee0c3cf9d2e953424cbf45c4",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-28-audit-limitations-and-conflict-note.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-28-audit-limitations-and-conflict-note.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-28-audit-limitations-and-conflict-note.png",
       "dimensions": [
         1591,
@@ -26981,10 +27052,11 @@
       ],
       "sha256": "ad7e9452022cb906c2f128bc1fca120497401e14a2fd184624f432e359fd04e6",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/04-source-notebook/images/c06-04-29-six-question-audit-table.jpg": {
+    "06-notebooklm-gemini/04-source-notebook/images/c06-04-29-six-question-audit-table.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/04-source-notebook/c06-04-29-six-question-audit-table.png",
       "dimensions": [
         1591,
@@ -27002,10 +27074,11 @@
       ],
       "sha256": "edad273fd7ca50257e839ccb187a0eae47adbe1dc46e32947893a0e8568bc498",
       "notes": [
-        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending."
+        "Actual staged Gemini Notebook/Docs application capture at original dimensions, avatar masked. Copied text imported as editable Notes selected as sources. Three original core sources; separate conflict and revision context. Native seven-row audit table verified. Independent challenge, human review and classroom timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/04-source-notebook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-01-faq-prompt.jpg": {
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-01-faq-prompt.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-01-faq-prompt.png",
       "dimensions": [
         1432,
@@ -27023,10 +27096,11 @@
       ],
       "sha256": "4985288a202eec28793ce30d5a9b326b14b0a68321f3896112353fc414f8c5c9",
       "notes": [
-        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed."
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/05-briefing-audio.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-02-generated-faq.jpg": {
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-02-generated-faq.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-02-generated-faq.png",
       "dimensions": [
         1432,
@@ -27044,10 +27118,11 @@
       ],
       "sha256": "415085f048d422e0ff787a51294349af3fe456700a222788f5061d5d994be06e",
       "notes": [
-        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed."
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/05-briefing-audio.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-03-faq-fact-citation.jpg": {
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-03-faq-fact-citation.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-03-faq-fact-citation.png",
       "dimensions": [
         1432,
@@ -27065,10 +27140,11 @@
       ],
       "sha256": "96807c8a44d0d7951f59cb2e12efdded69ef397be75a9438be4de50f9a35ed30",
       "notes": [
-        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed."
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/05-briefing-audio.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-04-faq-scripted-citation.jpg": {
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-04-faq-scripted-citation.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-04-faq-scripted-citation.png",
       "dimensions": [
         1432,
@@ -27086,10 +27162,11 @@
       ],
       "sha256": "39cca218ff62c7a0041414b6d3ac780a5480e3433bc1992ee427635f43e5dbba",
       "notes": [
-        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed."
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/05-briefing-audio.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-05-faq-guidance-citation.jpg": {
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-05-faq-guidance-citation.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-05-faq-guidance-citation.png",
       "dimensions": [
         1432,
@@ -27107,10 +27184,11 @@
       ],
       "sha256": "bd1348502edf29fdf3b53f19ddadc268912788d46e70b982c75cc21b93b83dfd",
       "notes": [
-        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed."
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/05-briefing-audio.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-06-checked-faq-note.jpg": {
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-06-checked-faq-note.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-06-checked-faq-note.png",
       "dimensions": [
         1432,
@@ -27128,10 +27206,11 @@
       ],
       "sha256": "66d3fab7b423ad5369810dc570a314a8498bfbc2a6529dccb9954537e92124fe",
       "notes": [
-        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed."
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/05-briefing-audio.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-07-audio-custom-instructions.jpg": {
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-07-audio-custom-instructions.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-07-audio-custom-instructions.png",
       "dimensions": [
         1432,
@@ -27149,10 +27228,11 @@
       ],
       "sha256": "ab9e4328bae2c6cf4a04dbac3858f94fe505cfcb601eb48db4d006ad490bf344",
       "notes": [
-        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed."
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/05-briefing-audio.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-08-audio-generating.jpg": {
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-08-audio-generating.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-08-audio-generating.png",
       "dimensions": [
         1432,
@@ -27170,10 +27250,11 @@
       ],
       "sha256": "00ec8e11855360723d1bd2360eb54de2a5504e63287f1b9704a7f2a64ad0e3e8",
       "notes": [
-        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed."
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/05-briefing-audio.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-09-written-briefing.jpg": {
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-09-written-briefing.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-09-written-briefing.png",
       "dimensions": [
         1591,
@@ -27191,10 +27272,11 @@
       ],
       "sha256": "4b9d2cb5c3b7ee97b102a8de1730d411378a69c9834fb0bed93854d7840c982e",
       "notes": [
-        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed."
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/05-briefing-audio.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-10-audit-sheet-before-listening.jpg": {
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-10-audit-sheet-before-listening.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-10-audit-sheet-before-listening.png",
       "dimensions": [
         1591,
@@ -27212,10 +27294,11 @@
       ],
       "sha256": "7362047db27e005f4969247813dfac14af3be46d3cf0fa31f69b58ff50d4c490",
       "notes": [
-        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed."
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/05-briefing-audio.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-11-audio-ready.jpg": {
+    "06-notebooklm-gemini/05-briefing-audio/images/c06-05-11-audio-ready.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/05-briefing-audio/c06-05-11-audio-ready.png",
       "dimensions": [
         1432,
@@ -27233,10 +27316,11 @@
       ],
       "sha256": "765be214485f6fc01f246ea11e6157a637de76fcf48e2a8cb199c7383d06a761",
       "notes": [
-        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed."
+        "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated 1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened 403; no audio transcript or review success claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/05-briefing-audio.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-01-predefined-protocol.jpg": {
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-01-predefined-protocol.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-01-predefined-protocol.png",
       "dimensions": [
         1591,
@@ -27254,10 +27338,11 @@
       ],
       "sha256": "025059159ee34b92cbd5a7e34bbd80d225fdc803550d7dbe7ebed4de36f749ea",
       "notes": [
-        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/07-ai-pilot.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-02-fresh-flash-session-a.jpg": {
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-02-fresh-flash-session-a.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-02-fresh-flash-session-a.png",
       "dimensions": [
         1909,
@@ -27275,10 +27360,11 @@
       ],
       "sha256": "8d6acea1c2bcfe9ef779b01f3cee104da44ca87356ccbd65c41b8a3efa4024aa",
       "notes": [
-        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/07-ai-pilot.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-03-source-reference-and-pending-ledger.jpg": {
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-03-source-reference-and-pending-ledger.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-03-source-reference-and-pending-ledger.png",
       "dimensions": [
         1591,
@@ -27296,10 +27382,11 @@
       ],
       "sha256": "bbc99613bf898cbae01f7583c0f12b2e681d063de6f47152b3254fdad45aa028",
       "notes": [
-        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/07-ai-pilot.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-04-set-a-response.jpg": {
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-04-set-a-response.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-04-set-a-response.png",
       "dimensions": [
         1909,
@@ -27317,10 +27404,11 @@
       ],
       "sha256": "4f8a9f3b1bab7c49f4cb342e076bb870429b1748bdbbc3921ac9b0a9fc5e1e67",
       "notes": [
-        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/07-ai-pilot.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-05-fresh-flash-session-b.jpg": {
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-05-fresh-flash-session-b.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-05-fresh-flash-session-b.png",
       "dimensions": [
         1909,
@@ -27338,10 +27426,11 @@
       ],
       "sha256": "1adb701e22e0ec9e4df1576f37b3c42a29982cede071f626fef5b88a4b2d424d",
       "notes": [
-        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/07-ai-pilot.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-06-set-a-audit-and-repair.jpg": {
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-06-set-a-audit-and-repair.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-06-set-a-audit-and-repair.png",
       "dimensions": [
         1591,
@@ -27359,10 +27448,11 @@
       ],
       "sha256": "66bfa4e27b977279171e2078b169eabdf8f6c22f5a72c2009c59a6eec686ff52",
       "notes": [
-        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/07-ai-pilot.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-07-targeted-revision-before-rerun.jpg": {
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-07-targeted-revision-before-rerun.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-07-targeted-revision-before-rerun.png",
       "dimensions": [
         1591,
@@ -27380,10 +27470,11 @@
       ],
       "sha256": "83c4e03fb8e2897929cbe74c9311be4b3745e87d3528ebb21af431a2101d90ba",
       "notes": [
-        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/07-ai-pilot.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-08-set-b-response.jpg": {
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-08-set-b-response.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-08-set-b-response.png",
       "dimensions": [
         1909,
@@ -27401,10 +27492,11 @@
       ],
       "sha256": "8ba06fe4232500e3e6bdfd2292e1b3b342c3cb22e86cca04439b1e42469b3dec",
       "notes": [
-        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/07-ai-pilot.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-09-set-b-source-tail.jpg": {
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-09-set-b-source-tail.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-09-set-b-source-tail.png",
       "dimensions": [
         1909,
@@ -27422,10 +27514,11 @@
       ],
       "sha256": "35675df2cd4f4343ded03bbb731474a1a1ae11e77417a0aaaabc7e273e4b04b6",
       "notes": [
-        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/07-ai-pilot.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-10-set-b-audit.jpg": {
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-10-set-b-audit.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-10-set-b-audit.png",
       "dimensions": [
         1591,
@@ -27443,10 +27536,11 @@
       ],
       "sha256": "2709d1749b89f28525cac61d1ceacb9a2f496d4055febf4604a77eb214b1d016",
       "notes": [
-        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/07-ai-pilot.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-11-targeted-rerun-wait.jpg": {
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-11-targeted-rerun-wait.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-11-targeted-rerun-wait.png",
       "dimensions": [
         1909,
@@ -27464,10 +27558,11 @@
       ],
       "sha256": "fe1f3d61b4cd87db561e1ea74919b2a38edbd9e991e79e892ea1029f5ec39a04",
       "notes": [
-        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/07-ai-pilot.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-12-targeted-rerun-unscored.jpg": {
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-12-targeted-rerun-unscored.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-12-targeted-rerun-unscored.png",
       "dimensions": [
         1591,
@@ -27485,10 +27580,11 @@
       ],
       "sha256": "ec7b8b256e36a48386175f96f6053bf6910356d77964f1e3021b3ca3d65d6a82",
       "notes": [
-        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/07-ai-pilot.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-13-maintained-checked-faq.jpg": {
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-13-maintained-checked-faq.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-13-maintained-checked-faq.png",
       "dimensions": [
         1591,
@@ -27506,10 +27602,11 @@
       ],
       "sha256": "1961221a2fea27ceee3ff87e4fc9c52b6a1bc3781115bde848740e303e56ecb8",
       "notes": [
-        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/07-ai-pilot.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-14-final-ledger-and-limits.jpg": {
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-14-final-ledger-and-limits.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-14-final-ledger-and-limits.png",
       "dimensions": [
         1591,
@@ -27527,10 +27624,11 @@
       ],
       "sha256": "319bb2a95ef0b937df785381f8d82d0bac5a748ad84e4ec9b539c2339aebd981",
       "notes": [
-        "Original-dimension real-app capture; avatar masked. C returned to composer with no answer after a generating checkpoint; no cause or score established. No retry submitted."
+        "Original-dimension real-app capture; avatar masked. C returned to composer with no answer after a generating checkpoint; no cause or score established. No retry submitted.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/07-ai-pilot.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-15-rerun-returned-to-composer.jpg": {
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-15-rerun-returned-to-composer.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-15-rerun-returned-to-composer.png",
       "dimensions": [
         1909,
@@ -27548,10 +27646,11 @@
       ],
       "sha256": "d62f3cad5a456e56a76170e8e20e48912bf6a6abd75699b66d07b464bcd2a978",
       "notes": [
-        "Original-dimension real-app capture; avatar masked. C returned to composer with no answer after a generating checkpoint; no cause or score established. No retry submitted."
+        "Original-dimension real-app capture; avatar masked. C returned to composer with no answer after a generating checkpoint; no cause or score established. No retry submitted.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/07-ai-pilot.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-01-task-and-review-boundary.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-01-task-and-review-boundary.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-01-task-and-review-boundary.png",
       "dimensions": [
         1591,
@@ -27569,10 +27668,11 @@
       ],
       "sha256": "af373f5594b30b20e6fda54d7854ef35c6afa9bb4835171d426f15f3995c425d",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-02-source-manifest-and-preflight.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-02-source-manifest-and-preflight.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-02-source-manifest-and-preflight.png",
       "dimensions": [
         1591,
@@ -27590,10 +27690,11 @@
       ],
       "sha256": "664f28a4275942f08ac2d1913d93c4f8ff7c6a3fda4036727e0261d8b9cff1da",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-03-bounded-template-before-test.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-03-bounded-template-before-test.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-03-bounded-template-before-test.png",
       "dimensions": [
         1591,
@@ -27611,10 +27712,11 @@
       ],
       "sha256": "c6edeb7510ae1deaa585b03dc79da40363352d900e04c4baef08f96d05e1e280",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-04-placeholder-preflight-stop.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-04-placeholder-preflight-stop.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-04-placeholder-preflight-stop.png",
       "dimensions": [
         1909,
@@ -27632,10 +27734,11 @@
       ],
       "sha256": "ef2a169cb47032636d0796c6cd5e6e59ebd2bfbe5a32979fa6c9c94d7d35910f",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-05-version-1-1-instruction-repair.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-05-version-1-1-instruction-repair.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-05-version-1-1-instruction-repair.png",
       "dimensions": [
         1591,
@@ -27653,10 +27756,11 @@
       ],
       "sha256": "e0ece5b2c924b4493c2fdeb848c6e2ca6846e8f7ef112ae0f5cd2850717285c8",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-06-complete-sources-ready-to-send.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-06-complete-sources-ready-to-send.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-06-complete-sources-ready-to-send.png",
       "dimensions": [
         1909,
@@ -27674,10 +27778,11 @@
       ],
       "sha256": "3b884d229603d2d9b10fae82dc8ea10e93b618db6f7dde00fc7888199ab48b7a",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-07-assembly-retest-record.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-07-assembly-retest-record.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-07-assembly-retest-record.png",
       "dimensions": [
         1591,
@@ -27695,10 +27800,11 @@
       ],
       "sha256": "17dabd0e33d7712074abacb9ac7b8346f5f4ff142ca62bc874addd95048a4cb1",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-08-recovery-routes.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-08-recovery-routes.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-08-recovery-routes.png",
       "dimensions": [
         1591,
@@ -27716,10 +27822,11 @@
       ],
       "sha256": "e53092f7e5132385912ff2e6f7584cb058dc5919241c2843aa1727b775daac9c",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-09-accepted-and-rejected-examples.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-09-accepted-and-rejected-examples.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-09-accepted-and-rejected-examples.png",
       "dimensions": [
         1591,
@@ -27737,10 +27844,11 @@
       ],
       "sha256": "8cf4285dea1b5cf069620530f0b820352c183a48cae5f6c07c461f28e8d4b2e5",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-10-fresh-faq-response.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-10-fresh-faq-response.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-10-fresh-faq-response.png",
       "dimensions": [
         1909,
@@ -27758,10 +27866,11 @@
       ],
       "sha256": "3e0fb3bc530f447e2261e06a5f6246b67c36db093d08960f97203b34b8a4d34d",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-11-fresh-faq-budget-and-decision.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-11-fresh-faq-budget-and-decision.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-11-fresh-faq-budget-and-decision.png",
       "dimensions": [
         1909,
@@ -27779,10 +27888,11 @@
       ],
       "sha256": "c5f3e1ead013bf50c3300cbf549769e8de34bfa536be20dc2cfe85eb0dd17d0e",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-12-source-audit-and-format-repair.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-12-source-audit-and-format-repair.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-12-source-audit-and-format-repair.png",
       "dimensions": [
         1591,
@@ -27800,10 +27910,11 @@
       ],
       "sha256": "c6c5df312665046d0ec3a99ab8d121e37bd41b8e14b7142bc709c33156ef99bf",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-13-prepared-handover-script.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-13-prepared-handover-script.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-13-prepared-handover-script.png",
       "dimensions": [
         1591,
@@ -27821,10 +27932,11 @@
       ],
       "sha256": "8be7422b7972372f905decbee9ad02a73f3b58e755f7511b08f3e2c4759b036e",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-14-versioned-handover-manifest.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-14-versioned-handover-manifest.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-14-versioned-handover-manifest.png",
       "dimensions": [
         1591,
@@ -27842,10 +27954,11 @@
       ],
       "sha256": "6aea49774cddf94f9405d6b910e77f9391bacd8f28ab988a8b2967f5eab5b367",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-15-current-playbook-release.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-15-current-playbook-release.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-15-current-playbook-release.png",
       "dimensions": [
         1591,
@@ -27863,10 +27976,11 @@
       ],
       "sha256": "f676a1f11b730c0b766040dcccdd8e686802df13f3044548b0e1492dacf93e22",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-16-maintained-faq-numbering.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-16-maintained-faq-numbering.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-16-maintained-faq-numbering.png",
       "dimensions": [
         1591,
@@ -27884,10 +27998,11 @@
       ],
       "sha256": "81e6de3e56aca83e2d2a2e23654798d29e1acd8f31d8d6ae6f2bb5a205b66cb8",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-17-maintained-faq-tail.jpg": {
+    "06-notebooklm-gemini/08-prompt-playbook/images/c06-08-17-maintained-faq-tail.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/08-prompt-playbook/c06-08-17-maintained-faq-tail.png",
       "dimensions": [
         1591,
@@ -27905,10 +28020,11 @@
       ],
       "sha256": "aa731aeaa6c0592cf243ae2d122850be3f103fef1c5c6b46fd288287894fa94f",
       "notes": [
-        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed."
+        "Real-app original-dimension stage capture; avatar masked. Controlled source-slot preflight stopped before submission, v1.1 assembly retest passed, fresh Flash FAQ checked 5/5 facts. Raw list numbering restarted at 1; maintained native copy repaired 1–5. No independent partner, spoken handover or classroom timing claimed.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/08-prompt-playbook.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/06-responsible-review/images/c06-06-01-originals-and-unreviewed-claims.jpg": {
+    "06-notebooklm-gemini/06-responsible-review/images/c06-06-01-originals-and-unreviewed-claims.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/06-responsible-review/c06-06-01-originals-and-unreviewed-claims.png",
       "dimensions": [
         1591,
@@ -27926,10 +28042,11 @@
       ],
       "sha256": "69adb8ee59edce21f942f974ee9f8bce8fe1e2d0d8e8f71851f639d318c4eccc",
       "notes": [
-        "Original-dimension real-app stage capture with avatar masked. Separate casework built in order; early captures exclude later tables. Generated-output examples come only from earlier Lab 2; no Lab 7/8 outcomes appear. Four native tables and nine-item protocol verified; author second pass, not human/independent review."
+        "Original-dimension real-app stage capture with avatar masked. Separate casework built in order; early captures exclude later tables. Generated-output examples come only from earlier Lab 2; no Lab 7/8 outcomes appear. Four native tables and nine-item protocol verified; author second pass, not human/independent review.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/06-responsible-review.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/06-responsible-review/images/c06-06-02-claim-evidence-verdicts.jpg": {
+    "06-notebooklm-gemini/06-responsible-review/images/c06-06-02-claim-evidence-verdicts.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/06-responsible-review/c06-06-02-claim-evidence-verdicts.png",
       "dimensions": [
         1591,
@@ -27947,10 +28064,11 @@
       ],
       "sha256": "e1341ff1844acdc220bfc4c1526cff4abe79531459d366c830d8641bb1be87a2",
       "notes": [
-        "Original-dimension real-app stage capture with avatar masked. Separate casework built in order; early captures exclude later tables. Generated-output examples come only from earlier Lab 2; no Lab 7/8 outcomes appear. Four native tables and nine-item protocol verified; author second pass, not human/independent review."
+        "Original-dimension real-app stage capture with avatar masked. Separate casework built in order; early captures exclude later tables. Generated-output examples come only from earlier Lab 2; no Lab 7/8 outcomes appear. Four native tables and nine-item protocol verified; author second pass, not human/independent review.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/06-responsible-review.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/06-responsible-review/images/c06-06-03-input-suitability-and-policy-questions.jpg": {
+    "06-notebooklm-gemini/06-responsible-review/images/c06-06-03-input-suitability-and-policy-questions.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/06-responsible-review/c06-06-03-input-suitability-and-policy-questions.png",
       "dimensions": [
         1591,
@@ -27968,10 +28086,11 @@
       ],
       "sha256": "48d1391c6934ca1b1c3e03e415679e1ed8b6c2ce30d8a020c595561e96c26366",
       "notes": [
-        "Original-dimension real-app stage capture with avatar masked. Separate casework built in order; early captures exclude later tables. Generated-output examples come only from earlier Lab 2; no Lab 7/8 outcomes appear. Four native tables and nine-item protocol verified; author second pass, not human/independent review."
+        "Original-dimension real-app stage capture with avatar masked. Separate casework built in order; early captures exclude later tables. Generated-output examples come only from earlier Lab 2; no Lab 7/8 outcomes appear. Four native tables and nine-item protocol verified; author second pass, not human/independent review.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/06-responsible-review.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/06-responsible-review/images/c06-06-04-evidence-backed-escalation.jpg": {
+    "06-notebooklm-gemini/06-responsible-review/images/c06-06-04-evidence-backed-escalation.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/06-responsible-review/c06-06-04-evidence-backed-escalation.png",
       "dimensions": [
         1591,
@@ -27989,10 +28108,11 @@
       ],
       "sha256": "9159773aa5864be37db7d6ea7f8fa8fa2cff3ca57706f31611108b5a4e08f962",
       "notes": [
-        "Original-dimension real-app stage capture with avatar masked. Separate casework built in order; early captures exclude later tables. Generated-output examples come only from earlier Lab 2; no Lab 7/8 outcomes appear. Four native tables and nine-item protocol verified; author second pass, not human/independent review."
+        "Original-dimension real-app stage capture with avatar masked. Separate casework built in order; early captures exclude later tables. Generated-output examples come only from earlier Lab 2; no Lab 7/8 outcomes appear. Four native tables and nine-item protocol verified; author second pass, not human/independent review.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/06-responsible-review.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/06-responsible-review/images/c06-06-05-output-review-categories.jpg": {
+    "06-notebooklm-gemini/06-responsible-review/images/c06-06-05-output-review-categories.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/06-responsible-review/c06-06-05-output-review-categories.png",
       "dimensions": [
         1591,
@@ -28010,10 +28130,11 @@
       ],
       "sha256": "ae8f5dfe78acc0359ec76e20acfb491714da8fec85135a75b765e656a0db1f15",
       "notes": [
-        "Original-dimension real-app stage capture with avatar masked. Separate casework built in order; early captures exclude later tables. Generated-output examples come only from earlier Lab 2; no Lab 7/8 outcomes appear. Four native tables and nine-item protocol verified; author second pass, not human/independent review."
+        "Original-dimension real-app stage capture with avatar masked. Separate casework built in order; early captures exclude later tables. Generated-output examples come only from earlier Lab 2; no Lab 7/8 outcomes appear. Four native tables and nine-item protocol verified; author second pass, not human/independent review.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/06-responsible-review.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/06-responsible-review/images/c06-06-06-source-instruction-analysis.jpg": {
+    "06-notebooklm-gemini/06-responsible-review/images/c06-06-06-source-instruction-analysis.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/06-responsible-review/c06-06-06-source-instruction-analysis.png",
       "dimensions": [
         1591,
@@ -28031,10 +28152,11 @@
       ],
       "sha256": "7d91895f74c7c93e89a64662309a573cdbd67b26a3cfb64f8cef22e610a29456",
       "notes": [
-        "Original-dimension real-app stage capture with avatar masked. Separate casework built in order; early captures exclude later tables. Generated-output examples come only from earlier Lab 2; no Lab 7/8 outcomes appear. Four native tables and nine-item protocol verified; author second pass, not human/independent review."
+        "Original-dimension real-app stage capture with avatar masked. Separate casework built in order; early captures exclude later tables. Generated-output examples come only from earlier Lab 2; no Lab 7/8 outcomes appear. Four native tables and nine-item protocol verified; author second pass, not human/independent review.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/06-responsible-review.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/06-responsible-review/images/c06-06-07-reusable-review-protocol.jpg": {
+    "06-notebooklm-gemini/06-responsible-review/images/c06-06-07-reusable-review-protocol.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/06-responsible-review/c06-06-07-reusable-review-protocol.png",
       "dimensions": [
         1591,
@@ -28052,10 +28174,11 @@
       ],
       "sha256": "dec7dc78ccf8e9fc13c44cf2b691b82e5d3a658c22e6b29fcd02befe7595eb50",
       "notes": [
-        "Original-dimension real-app stage capture with avatar masked. Separate casework built in order; early captures exclude later tables. Generated-output examples come only from earlier Lab 2; no Lab 7/8 outcomes appear. Four native tables and nine-item protocol verified; author second pass, not human/independent review."
+        "Original-dimension real-app stage capture with avatar masked. Separate casework built in order; early captures exclude later tables. Generated-output examples come only from earlier Lab 2; no Lab 7/8 outcomes appear. Four native tables and nine-item protocol verified; author second pass, not human/independent review.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/06-responsible-review.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/06-responsible-review/images/c06-06-08-second-pass-no-change-review.jpg": {
+    "06-notebooklm-gemini/06-responsible-review/images/c06-06-08-second-pass-no-change-review.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/06-responsible-review/c06-06-08-second-pass-no-change-review.png",
       "dimensions": [
         1591,
@@ -28073,10 +28196,11 @@
       ],
       "sha256": "1e5dcf8a83dd34bb7941b22889b2ce6d316d762d483535fa8bf706a3634e3ba8",
       "notes": [
-        "Original-dimension real-app stage capture with avatar masked. Separate casework built in order; early captures exclude later tables. Generated-output examples come only from earlier Lab 2; no Lab 7/8 outcomes appear. Four native tables and nine-item protocol verified; author second pass, not human/independent review."
+        "Original-dimension real-app stage capture with avatar masked. Separate casework built in order; early captures exclude later tables. Generated-output examples come only from earlier Lab 2; no Lab 7/8 outcomes appear. Four native tables and nine-item protocol verified; author second pass, not human/independent review.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/06-responsible-review.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/06-responsible-review/images/c06-06-09-checked-casework-handover.jpg": {
+    "06-notebooklm-gemini/06-responsible-review/images/c06-06-09-checked-casework-handover.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/06-responsible-review/c06-06-09-checked-casework-handover.png",
       "dimensions": [
         1591,
@@ -28094,7 +28218,8 @@
       ],
       "sha256": "5dac8099784a355c6e6dc8bc6d151c1f66f515ccf8134a950afc128d72a91643",
       "notes": [
-        "Original-dimension real-app stage capture with avatar masked. Separate casework built in order; early captures exclude later tables. Generated-output examples come only from earlier Lab 2; no Lab 7/8 outcomes appear. Four native tables and nine-item protocol verified; author second pass, not human/independent review."
+        "Original-dimension real-app stage capture with avatar masked. Separate casework built in order; early captures exclude later tables. Generated-output examples come only from earlier Lab 2; no Lab 7/8 outcomes appear. Four native tables and nine-item protocol verified; author second pass, not human/independent review.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/06-responsible-review.json (crop and boxes in 1600 px coordinates)."
       ]
     }
   },
