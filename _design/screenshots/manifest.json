@@ -2095,19 +2095,14 @@
         "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/04-reporting-dashboard.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "01-collaborative-tools/05-evidence-update/images/c01-05-created.jpg": {
+    "01-collaborative-tools/05-evidence-update/images/c01-05-created.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-created.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        0,
-        2000,
-        925
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -2129,21 +2124,18 @@
         ]
       ],
       "sha256": "9ec7cf9c47e1f7d5ce736cb962e57033e9dc73796effc0bdd26ed7900a76a8b7",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/05-evidence-update.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/05-evidence-update/images/c01-05-first-message.jpg": {
+    "01-collaborative-tools/05-evidence-update/images/c01-05-first-message.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-first-message.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        100,
-        1830,
-        925
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -2171,21 +2163,18 @@
         ]
       ],
       "sha256": "0e9d0d3d76ab9c405a0d353b3832e3755fedbb95817d9f381f89449c1c3391c5",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/05-evidence-update.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/05-evidence-update/images/c01-05-story-plan.jpg": {
+    "01-collaborative-tools/05-evidence-update/images/c01-05-story-plan.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-story-plan.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        100,
-        1830,
-        925
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -2213,21 +2202,18 @@
         ]
       ],
       "sha256": "d75c1725b2b0266da3f32d1820df4b79781d05372ed1f4dc2cafbcbb07256e89",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/05-evidence-update.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/05-evidence-update/images/c01-05-status-link.jpg": {
+    "01-collaborative-tools/05-evidence-update/images/c01-05-status-link.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-status-link.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        640,
-        260,
-        1720,
-        900
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2065,
@@ -2261,21 +2247,18 @@
         ]
       ],
       "sha256": "b58ab291d4a75321f1116fe13f27645fa300bf9df33865f66d31f25837c5b4b4",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/05-evidence-update.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/05-evidence-update/images/c01-05-status-chart.jpg": {
+    "01-collaborative-tools/05-evidence-update/images/c01-05-status-chart.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-status-chart.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        100,
-        1830,
-        900
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -2309,21 +2292,18 @@
         ]
       ],
       "sha256": "2c39ba804e7fea48446ab4be836e2030eafcdb7d348bc1343d945ba9fd1ea9d1",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/05-evidence-update.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/05-evidence-update/images/c01-05-cost-link.jpg": {
+    "01-collaborative-tools/05-evidence-update/images/c01-05-cost-link.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-cost-link.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        640,
-        260,
-        1720,
-        900
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -2351,21 +2331,18 @@
         ]
       ],
       "sha256": "2fef0f475bb3293158158a07063f283c2b06047d85ce9d3b2696afc427641b32",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/05-evidence-update.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/05-evidence-update/images/c01-05-cost-chart.jpg": {
+    "01-collaborative-tools/05-evidence-update/images/c01-05-cost-chart.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-cost-chart.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        100,
-        1830,
-        900
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -2399,21 +2376,18 @@
         ]
       ],
       "sha256": "9db01b9ad086cb34ee14857fda2556be33f5be4cc9ea995fd8315b1b859a1bbb",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/05-evidence-update.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/05-evidence-update/images/c01-05-process.jpg": {
+    "01-collaborative-tools/05-evidence-update/images/c01-05-process.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-process.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        100,
-        1830,
-        900
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -2447,21 +2421,18 @@
         ]
       ],
       "sha256": "72cfa727395db09ba2b5f6104ad87bbff2c6bcd1245315c650702b896e7bfb37",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/05-evidence-update.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/05-evidence-update/images/c01-05-present-baseline.jpg": {
+    "01-collaborative-tools/05-evidence-update/images/c01-05-present-baseline.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-present-baseline.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        172,
-        0,
-        1953,
-        1002
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2055,
@@ -2477,21 +2448,18 @@
         ]
       ],
       "sha256": "d87d4e8179193d2b12030817a04beaae30bfbb6d9638437ffe1783ab0393680a",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/05-evidence-update.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/05-evidence-update/images/c01-05-version.jpg": {
+    "01-collaborative-tools/05-evidence-update/images/c01-05-version.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-version.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        640,
-        260,
-        1720,
-        900
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -2525,21 +2493,18 @@
         ]
       ],
       "sha256": "e33fa0126c6c9b9d625f62ec258264875a261150c7e93633517dfae92c3002c1",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/05-evidence-update.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/05-evidence-update/images/c01-05-download.jpg": {
+    "01-collaborative-tools/05-evidence-update/images/c01-05-download.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-download.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        50,
-        20,
-        1050,
-        850
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -2573,21 +2538,18 @@
         ]
       ],
       "sha256": "d0721c492a2aa1eb82190b1d1aa96c46ac46c36c1a2eb821e0d7de962d4481d5",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/05-evidence-update.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/05-evidence-update/images/c01-05-correction-before.jpg": {
+    "01-collaborative-tools/05-evidence-update/images/c01-05-correction-before.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-correction-before.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        110,
-        1438,
-        650
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -2609,21 +2571,18 @@
         ]
       ],
       "sha256": "92ed9fec12d4a1dc2a0afafbc08d81b9e7bbf77651c2dd97f5249266b7903893",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/05-evidence-update.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/05-evidence-update/images/c01-05-correction-after.jpg": {
+    "01-collaborative-tools/05-evidence-update/images/c01-05-correction-after.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-correction-after.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        110,
-        1438,
-        650
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -2645,21 +2604,18 @@
         ]
       ],
       "sha256": "88e38c964ea54937222dcfc18162a6044a70e05e5ff17ef94bb1a952497262b2",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/05-evidence-update.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/05-evidence-update/images/c01-05-corrected-summary.jpg": {
+    "01-collaborative-tools/05-evidence-update/images/c01-05-corrected-summary.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-corrected-summary.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        0,
-        110,
-        1438,
-        780
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -2681,21 +2637,18 @@
         ]
       ],
       "sha256": "55c04216641b0ecca7c87d141f8dda56ba4ee3628ff83c9a009af4e29e17ea70",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/05-evidence-update.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/05-evidence-update/images/c01-05-update-available.jpg": {
+    "01-collaborative-tools/05-evidence-update/images/c01-05-update-available.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-update-available.png",
       "dimensions": [
         2360,
         1168
       ],
       "kind": "application-window",
-      "approved_crop": [
-        1750,
-        65,
-        2120,
-        650
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -2729,21 +2682,18 @@
         ]
       ],
       "sha256": "e0b58f85dc5ea42cf6eec529bed8ddf57b65fa716ad33cc487e5566339268ff5",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/05-evidence-update.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/05-evidence-update/images/c01-05-links-current.jpg": {
+    "01-collaborative-tools/05-evidence-update/images/c01-05-links-current.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-links-current.png",
       "dimensions": [
         2360,
         1168
       ],
       "kind": "application-window",
-      "approved_crop": [
-        1750,
-        65,
-        2120,
-        650
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -2777,21 +2727,18 @@
         ]
       ],
       "sha256": "b5286a977fee91e76b386aa87cf2a836ef2c0e49069fd9a5ccdaca940e55435e",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/05-evidence-update.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/05-evidence-update/images/c01-05-corrected-message.jpg": {
+    "01-collaborative-tools/05-evidence-update/images/c01-05-corrected-message.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-corrected-message.png",
       "dimensions": [
         2360,
         1168
       ],
       "kind": "application-window",
-      "approved_crop": [
-        475,
-        150,
-        1800,
-        900
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -2825,21 +2772,18 @@
         ]
       ],
       "sha256": "993eb0f42c11e7da194a34d4bb4e166c2c8abb60f18aae6d2a576cdc160a1fb6",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/05-evidence-update.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/05-evidence-update/images/c01-05-brief-current.jpg": {
+    "01-collaborative-tools/05-evidence-update/images/c01-05-brief-current.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-brief-current.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        415,
-        525,
-        1060,
-        960
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -2861,21 +2805,18 @@
         ]
       ],
       "sha256": "d7de9c5d1da1d3e6e835fbde672d2ec7f4636e8e5e423f19f994298a0a363e18",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/05-evidence-update.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/05-evidence-update/images/c01-05-correction-log.jpg": {
+    "01-collaborative-tools/05-evidence-update/images/c01-05-correction-log.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-correction-log.png",
       "dimensions": [
         2360,
         1112
       ],
       "kind": "application-window",
-      "approved_crop": [
-        585,
-        650,
-        1225,
-        965
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2064,
@@ -2897,21 +2838,18 @@
         ]
       ],
       "sha256": "c8288b860deecc12c1be09b1a8f18e8541b5d0f2708ef0dc6d9c27eb586adac5",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/05-evidence-update.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/05-evidence-update/images/c01-05-present-revised.jpg": {
+    "01-collaborative-tools/05-evidence-update/images/c01-05-present-revised.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-present-revised.png",
       "dimensions": [
         2360,
         1168
       ],
       "kind": "application-window",
-      "approved_crop": [
-        127,
-        0,
-        1996,
-        1052
-      ],
+      "approved_crop": null,
       "privacy_masks": [
         [
           2055,
@@ -2927,7 +2865,9 @@
         ]
       ],
       "sha256": "29ce7db1f34cad00470741ec95ad6e8a380617635b852f9134d3f3dbe5631c56",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/05-evidence-update.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
     "01-collaborative-tools/06-hub-handover/images/c01-06-draft-banner.jpg": {
       "source": "_design/screenshots/full/01-collaborative-tools/06-hub-handover/c01-06-draft-banner.png",
@@ -3619,7 +3559,7 @@
       "sha256": "0642c74359acd52ecbc62991fc80189fec93e2130cc604fde4c9e39e01e069af",
       "notes": []
     },
-    "01-collaborative-tools/05-evidence-update/images/c01-05-pdf-r1.jpg": {
+    "01-collaborative-tools/05-evidence-update/images/c01-05-pdf-r1.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-pdf-r1.png",
       "dimensions": [
         1224,
@@ -3629,9 +3569,11 @@
       "approved_crop": null,
       "privacy_masks": [],
       "sha256": "fb88df0f0f155aa1d381d44bac012bec6c5d814c513edff7c86edc68d084eb3f",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/05-evidence-update.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
-    "01-collaborative-tools/05-evidence-update/images/c01-05-pdf-r2.jpg": {
+    "01-collaborative-tools/05-evidence-update/images/c01-05-pdf-r2.png": {
       "source": "_design/screenshots/full/01-collaborative-tools/05-evidence-update/c01-05-pdf-r2.png",
       "dimensions": [
         1224,
@@ -3641,7 +3583,9 @@
       "approved_crop": null,
       "privacy_masks": [],
       "sha256": "46a5d6cd3430dcbb79ad7df1350e11a20b33d28642f6c61eb279a44f243f0a34",
-      "notes": []
+      "notes": [
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/01-collaborative-tools/05-evidence-update.json (crop and boxes in 1600 px coordinates)."
+      ]
     },
     "02-google-docs/01-document-sources/images/c02-01-folder.png": {
       "source": "_design/screenshots/full/02-google-docs/01-document-sources/c02-01-folder.png",

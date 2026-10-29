@@ -25,23 +25,23 @@ Use the [prompts page](./prompts.md) and [shared practice files](../../shared/sa
 
 ## 5.1 Plan the Story Before Formatting
 
-1. Create `GW - Pilot Sponsor Update` in **02 Working**. Plan five slides: Purpose and scope; Current task status; Planned and actual costs; Risk and response; Decisions requested.
+1. In **02 Working** click **New > Google Slides > Blank presentation** and name it `GW - Pilot Sponsor Update` (Part 2 of the [prompts page](./prompts.md)). Plan five slides: Purpose and scope; Current task status; Planned and actual costs; Risk and response; Decisions requested.
 
-![A newly named deck contains only the initial blank slide; later content is absent](./images/c01-05-created.jpg)
+![A newly named deck contains only the initial blank slide; later content is absent](./images/c01-05-created.png)
 
 *A newly named deck contains only the initial blank slide; later content is absent.*
 
 2. For each slide write one audience takeaway and its source in the speaker notes. Label proposed mitigations as proposals.
 
-![The first message and source notes before adding the other slides](./images/c01-05-first-message.jpg)
+![The first message and source notes before adding the other slides](./images/c01-05-first-message.png)
 
 *The first message and source notes before adding the other slides.*
 
-3. Use the optional AI outline prompt only after pasting checked facts and final summary values. Compare the outline with your five planned messages; reject invented progress percentages or approvals.
+3. Use the optional AI outline prompt (Part 1 of the prompts page) only after pasting checked facts and final summary values. Compare the outline with your five planned messages; reject invented progress percentages or approvals.
 
 4. Write the two decision requests explicitly. Keep budget approval and pilot start-date agreement unresolved. Do not present a Calendar practice slot as the project schedule.
 
-![Five planned messages and source notes, before importing either chart or drawing the process](./images/c01-05-story-plan.jpg)
+![Five planned messages and source notes, before importing either chart or drawing the process](./images/c01-05-story-plan.png)
 
 *Five planned messages and source notes, before importing either chart or drawing the process.*
 
@@ -60,21 +60,21 @@ The deck tells a decision-focused story with a source for every numeric or factu
 
 2. On slide 2 choose **Insert**, **Chart**, **From Sheets** and select your working tracker’s status chart with **Link to spreadsheet** enabled. On slide 3 insert the team-cost chart the same way.
 
-![Select the status chart with Link to spreadsheet checked](./images/c01-05-status-link.jpg)
+![Select the status chart with Link to spreadsheet checked](./images/c01-05-status-link.png)
 
 *Select the status chart with Link to spreadsheet checked.*
 
-![Status evidence is positioned below its takeaway; the later cost chart and process are not yet present](./images/c01-05-status-chart.jpg)
+![Status evidence is positioned below its takeaway; the later cost chart and process are not yet present](./images/c01-05-status-chart.png)
 
 *Status evidence is positioned below its takeaway; the later cost chart and process are not yet present.*
 
-![Select the team-cost chart with Link to spreadsheet checked](./images/c01-05-cost-link.jpg)
+![Select the team-cost chart with Link to spreadsheet checked](./images/c01-05-cost-link.png)
 
 *Select the team-cost chart with Link to spreadsheet checked.*
 
 3. Check category labels, title and contrast at presentation size. Avoid a colour-only status distinction by retaining explicit labels.
 
-![The second linked chart fits with the baseline figures; the process diagram is still absent](./images/c01-05-cost-chart.jpg)
+![The second linked chart fits with the baseline figures; the process diagram is still absent](./images/c01-05-cost-chart.png)
 
 *The second linked chart fits with the baseline figures; the process diagram is still absent.*
 
@@ -82,13 +82,13 @@ The deck tells a decision-focused story with a source for every numeric or factu
 
 5. Create a simple three-step process diagram with shapes for Collect, Check and Report. Give it a short text explanation. If using a decorative AI image, label it illustrative and record its origin; it must not substitute for data.
 
-![Three editable process shapes accompany a clearly labelled proposed response](./images/c01-05-process.jpg)
+![Three editable process shapes accompany a clearly labelled proposed response](./images/c01-05-process.png)
 
 *Three editable process shapes accompany a clearly labelled proposed response.*
 
 6. Use **Present** to check every slide. Inspect any clipped labels and notes that accidentally became slide text. Remove effects that make the chart harder to read.
 
-![Presentation view of the checked baseline cost slide before the source correction](./images/c01-05-present-baseline.jpg)
+![Presentation view of the checked baseline cost slide before the source correction](./images/c01-05-present-baseline.png)
 
 *Presentation view of the checked baseline cost slide before the source correction.*
 
@@ -109,17 +109,17 @@ Five slides have coherent layouts, two linked charts and useful notes. Both sour
 
 3. Correct the deck and name the version `Sponsor update - checked baseline` through **File**, **Version history**.
 
-![Name the checked baseline after the layout review](./images/c01-05-version.jpg)
+![Name the checked baseline after the layout review](./images/c01-05-version.png)
 
 *Name the checked baseline after the layout review.*
 
 4. Download a PDF through **File**, **Download**. Open every page and inspect charts and layout. Record that the PDF is a dated snapshot and will need a new export after source updates.
 
-![The File > Download menu offers PDF document](./images/c01-05-download.jpg)
+![The File > Download menu offers PDF document](./images/c01-05-download.png)
 
 *The File > Download menu offers PDF document.*
 
-![Page three rendered from the actual five-page baseline PDF, with the earlier RM 6,800 actual cost](./images/c01-05-pdf-r1.jpg)
+![Page three rendered from the actual five-page baseline PDF, with the earlier RM 6,800 actual cost](./images/c01-05-pdf-r1.png)
 
 *Page three rendered from the actual five-page baseline PDF, with the earlier RM 6,800 actual cost.*
 
@@ -134,61 +134,61 @@ The learner can explain the figures and limitations without reading raw slide te
 
 ## Independent Practice
 
-Use the Lab 5 cost-correction card.
+Use the Lab 5 cost-correction card in [masterclass-challenges.txt](../../shared/sample-files/masterclass-challenges.txt).
 
 > **Reference run:** The following captures are a scripted reference run; learners should make their own predictions before inspecting the result.
 
 1. Locate T013 in the source and record its current actual cost before editing.
 
-![T013 starts with RM 0 actual cost and variance -RM 200](./images/c01-05-correction-before.jpg)
+![T013 starts with RM 0 actual cost and variance -RM 200](./images/c01-05-correction-before.png)
 
 *T013 starts with RM 0 actual cost and variance -RM 200.*
 
 2. Correct only T013 ActualCost from 0 to 150. Predict the affected team and totals. Keep status and planned cost unchanged.
 
-![The settled correction shows RM 150 actual cost and variance -RM 50 on T013](./images/c01-05-correction-after.jpg)
+![The settled correction shows RM 150 actual cost and variance -RM 50 on T013](./images/c01-05-correction-after.png)
 
 *The settled correction shows RM 150 actual cost and variance -RM 50 on T013.*
 
 3. Reconcile the summary and independent checks before refreshing a report.
 
-![The summary reconciles 13 tasks, RM 10,600 planned, RM 6,950 actual and variance -RM 3,650](./images/c01-05-corrected-summary.jpg)
+![The summary reconciles 13 tasks, RM 10,600 planned, RM 6,950 actual and variance -RM 3,650](./images/c01-05-corrected-summary.png)
 
 *The summary reconciles 13 tasks, RM 10,600 planned, RM 6,950 actual and variance -RM 3,650.*
 
 4. In Slides open **Tools**, **Linked objects**, choose **Refresh**, then **Update all** for available changes. Check both chart links. A cost-only correction leaves the status chart unchanged, so only one update may be offered.
 
-![One cost-chart update is available after refreshing the source links](./images/c01-05-update-available.jpg)
+![One cost-chart update is available after refreshing the source links](./images/c01-05-update-available.png)
 
 *One cost-chart update is available after refreshing the source links.*
 
-![Both links remain and the available-update controls have cleared](./images/c01-05-links-current.jpg)
+![Both links remain and the available-update controls have cleared](./images/c01-05-links-current.png)
 
 *Both links remain and the available-update controls have cleared.*
 
 5. Rewrite the cost-slide takeaway and speaker notes to explain the changed figure consistently.
 
-![The revised message now uses RM 6,950 actual and variance -RM 3,650](./images/c01-05-corrected-message.jpg)
+![The revised message now uses RM 6,950 actual and variance -RM 3,650](./images/c01-05-corrected-message.png)
 
 *The revised message now uses RM 6,950 actual and variance -RM 3,650.*
 
 6. Refresh the brief's linked-object panel too. Its status chart should still show 4, 4, 5. Record why no status change was expected and update the refresh log.
 
-![The brief retains 4 Complete, 4 In Progress and 5 Not Started](./images/c01-05-brief-current.jpg)
+![The brief retains 4 Complete, 4 In Progress and 5 Not Started](./images/c01-05-brief-current.png)
 
 *The brief retains 4 Complete, 4 In Progress and 5 Not Started.*
 
-![The refresh log records the cost correction and unchanged status counts](./images/c01-05-correction-log.jpg)
+![The refresh log records the cost correction and unchanged status counts](./images/c01-05-correction-log.png)
 
 *The refresh log records the cost correction and unchanged status counts.*
 
 7. Check whether the previously downloaded PDF changed. It is a snapshot: keep `Pilot-Sponsor-Update-r1.pdf`, then issue `Pilot-Sponsor-Update-r2.pdf` from the refreshed native deck. Open every revised page and compare the cost slide with the source.
 
-![The revised native slide has the corrected message and refreshed cost chart](./images/c01-05-present-revised.jpg)
+![The revised native slide has the corrected message and refreshed cost chart](./images/c01-05-present-revised.png)
 
 *The revised native slide has the corrected message and refreshed cost chart.*
 
-![Page three rendered from the new five-page PDF has the corrected cost figures](./images/c01-05-pdf-r2.jpg)
+![Page three rendered from the new five-page PDF has the corrected cost figures](./images/c01-05-pdf-r2.png)
 
 *Page three rendered from the new five-page PDF has the corrected cost figures.*
 
