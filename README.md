@@ -10,6 +10,8 @@ The programme has 50 draft chapters: six expanded masterclass labs and 44 expand
 
 The final lossless image pass saved **134.4 MB (17.65%)** while preserving screenshot dimensions and decoded pixels. See the [optimization report](./planning/IMAGE-OPTIMIZATION.md).
 
+See the [final validation checklist](./planning/FINAL-CHECKLIST.md) for completed checks and remaining pilot work.
+
 ## Program Flow
 
 ![Google Workspace reporting pilot: prepare, draft, coordinate, track, present and hand over](./program-flow.png)
