@@ -1402,7 +1402,7 @@ A fresh Flash run produced a generic template; its example status and achievemen
 
 | Lesson image | Full source | Dimensions | Kind |
 |---|---|---|---|
-| [vague response](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-13-vague-success.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-13-vague-success.png) | 1909 x 1104 | application-window |
+| [vague response](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-13-vague-success.png) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-13-vague-success.png) | 1909 x 1104 | application-window |
 
 ### AI2 fresh-conversation repeat
 
@@ -1410,7 +1410,7 @@ User-assisted Redo produced version 3 after two service errors; six facts checke
 
 | Lesson image | Full source | Dimensions | Kind |
 |---|---|---|---|
-| [repeat FAQ](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-14-clean-repeat-success.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-14-clean-repeat-success.png) | 1909 x 1041 | application-window |
+| [repeat FAQ](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-14-clean-repeat-success.png) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-14-clean-repeat-success.png) | 1909 x 1041 | application-window |
 
 ### 28 October 2026: AI3 Workspace workflow
 
