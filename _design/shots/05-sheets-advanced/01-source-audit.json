@@ -1,0 +1,415 @@
+{
+ "raw": "../raw/05-sheets-advanced/01-source-audit",
+ "repoRoot": "../../../05-sheets-advanced",
+ "shots": {
+  "c05-01-01-empty-advanced-folder.png": {
+   "boxes": [
+    [
+     470,
+     90,
+     912,
+     128,
+     1
+    ]
+   ]
+  },
+  "c05-01-02-uploaded-starter.png": {
+   "boxes": [
+    [
+     304,
+     254,
+     1580,
+     296,
+     2
+    ]
+   ]
+  },
+  "c05-01-03-save-as-native-command.png": {
+   "boxes": [
+    [
+     54,
+     26,
+     84,
+     50
+    ],
+    [
+     60,
+     196,
+     250,
+     222,
+     3
+    ]
+   ]
+  },
+  "c05-01-04-native-orders-baseline.png": {
+   "boxes": [
+    [
+     54,
+     10,
+     560,
+     40,
+     4
+    ],
+    [
+     40,
+     166,
+     1470,
+     204,
+     4
+    ]
+   ]
+  },
+  "c05-01-05-last-order-po024.png": {
+   "boxes": [
+    [
+     40,
+     796,
+     1404,
+     822,
+     5
+    ]
+   ]
+  },
+  "c05-01-06-six-rate-keys.png": {
+   "boxes": [
+    [
+     40,
+     166,
+     676,
+     408,
+     6
+    ]
+   ]
+  },
+  "c05-01-07-baseline-row-diagnostics.png": {
+   "boxes": [
+    [
+     40,
+     166,
+     1144,
+     666,
+     1
+    ]
+   ]
+  },
+  "c05-01-08-baseline-population-controls.png": {
+   "boxes": [
+    [
+     40,
+     400,
+     780,
+     822,
+     2
+    ]
+   ]
+  },
+  "c05-01-09-duplicate-check-formula.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     480,
+     140,
+     3
+    ],
+    [
+     370,
+     166,
+     530,
+     186,
+     3
+    ]
+   ]
+  },
+  "c05-01-10-numeric-type-check.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     480,
+     140,
+     4
+    ],
+    [
+     536,
+     166,
+     692,
+     650,
+     4
+    ]
+   ]
+  },
+  "c05-01-11-duplicate-orders-command.png": {
+   "boxes": [
+    [
+     178,
+     478,
+     300,
+     500,
+     1
+    ]
+   ]
+  },
+  "c05-01-12-preserved-source-snapshot.png": {
+   "boxes": [
+    [
+     264,
+     838,
+     406,
+     870,
+     2
+    ]
+   ]
+  },
+  "c05-01-13-empty-analysis-workspace.png": {
+   "boxes": [
+    [
+     40,
+     166,
+     1580,
+     800
+    ],
+    [
+     464,
+     838,
+     530,
+     870,
+     3
+    ]
+   ]
+  },
+  "c05-01-14-source-grain-and-scope-notes.png": {
+   "boxes": [
+    [
+     40,
+     646,
+     780,
+     822,
+     4
+    ]
+   ]
+  },
+  "c05-01-15-six-intake-rows-preserved.png": {
+   "boxes": [
+    [
+     40,
+     166,
+     1232,
+     410,
+     1
+    ]
+   ]
+  },
+  "c05-01-16-data-contract.png": {
+   "boxes": [
+    [
+     40,
+     166,
+     1580,
+     444,
+     2
+    ]
+   ]
+  },
+  "c05-01-17-intake-rule-diagnostics.png": {
+   "boxes": [
+    [
+     40,
+     166,
+     1468,
+     306,
+     3
+    ]
+   ]
+  },
+  "c05-01-18-conflict-versus-identical-copy.png": {
+   "boxes": [
+    [
+     40,
+     404,
+     1130,
+     450,
+     4
+    ],
+    [
+     1050,
+     366,
+     1196,
+     390,
+     4
+    ]
+   ]
+  },
+  "c05-01-19-unknown-item-key.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     480,
+     140,
+     5
+    ],
+    [
+     756,
+     226,
+     898,
+     246,
+     5
+    ]
+   ]
+  },
+  "c05-01-20-text-quantity-is-not-number.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     480,
+     140,
+     6
+    ],
+    [
+     898,
+     246,
+     1046,
+     266,
+     6
+    ]
+   ]
+  },
+  "c05-01-21-zero-quantity-is-valid.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     480,
+     140
+    ],
+    [
+     898,
+     266,
+     1186,
+     286,
+     7
+    ]
+   ]
+  },
+  "c05-01-22-intake-evidence-and-dispositions.png": {
+   "boxes": [
+    [
+     40,
+     166,
+     1580,
+     410,
+     8
+    ]
+   ]
+  },
+  "c05-01-23-cancelled-status-is-valid.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     480,
+     140
+    ],
+    [
+     1322,
+     286,
+     1468,
+     306,
+     9
+    ]
+   ]
+  },
+  "c05-01-24-raw-intake-remains-unchanged.png": {
+   "boxes": [
+    [
+     40,
+     166,
+     1232,
+     410,
+     10,
+     "below"
+    ]
+   ]
+  },
+  "c05-01-25-original-orders-retained.png": {
+   "boxes": [
+    [
+     40,
+     196,
+     1470,
+     822,
+     11
+    ]
+   ]
+  },
+  "c05-01-26-original-rate-table-retained.png": {
+   "boxes": [
+    [
+     40,
+     166,
+     676,
+     408,
+     12
+    ]
+   ]
+  },
+  "c05-01-27-baseline-controls-rechecked.png": {
+   "boxes": [
+    [
+     40,
+     400,
+     780,
+     822,
+     13
+    ]
+   ]
+  },
+  "c05-01-28-audit-handover-boundaries.png": {
+   "boxes": [
+    [
+     40,
+     474,
+     780,
+     822,
+     14
+    ]
+   ]
+  },
+  "c05-01-29-analysis-still-empty.png": {
+   "boxes": [
+    [
+     40,
+     166,
+     1580,
+     800
+    ],
+    [
+     464,
+     838,
+     530,
+     870,
+     15
+    ]
+   ]
+  },
+  "c05-01-30-source-audit-complete.png": {
+   "boxes": [
+    [
+     40,
+     166,
+     1580,
+     444
+    ],
+    [
+     866,
+     838,
+     996,
+     870,
+     16
+    ]
+   ]
+  }
+ }
+}

@@ -16590,7 +16590,7 @@
         "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/08-register-challenge.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-01-empty-advanced-folder.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-01-empty-advanced-folder.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-01-empty-advanced-folder.png",
       "dimensions": [
         1432,
@@ -16608,10 +16608,11 @@
       ],
       "sha256": "32f0daf929330828f39660c21d4379c251afdfbab4986ac4d87e9c2f5b4343c4",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-02-uploaded-starter.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-02-uploaded-starter.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-02-uploaded-starter.png",
       "dimensions": [
         1432,
@@ -16635,10 +16636,11 @@
       ],
       "sha256": "72298e8ce9b6bc6e50107db6050ced50451ac0436731c43bbd745c5546fe5126",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-03-save-as-native-command.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-03-save-as-native-command.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-03-save-as-native-command.png",
       "dimensions": [
         1591,
@@ -16656,10 +16658,11 @@
       ],
       "sha256": "5f6f280c410a301e423b494834af98001336c458af848bf8baa30991fbf38b46",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-04-native-orders-baseline.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-04-native-orders-baseline.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-04-native-orders-baseline.png",
       "dimensions": [
         1591,
@@ -16677,10 +16680,11 @@
       ],
       "sha256": "81acd66654be8a15bc046af72ebea5548b20789174730b55462fcbacfd2843dc",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-05-last-order-po024.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-05-last-order-po024.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-05-last-order-po024.png",
       "dimensions": [
         1591,
@@ -16698,10 +16702,11 @@
       ],
       "sha256": "390ea339644580b56e1b5aeae25a3ead600d0b820c840fcd1717e96f70863656",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-06-six-rate-keys.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-06-six-rate-keys.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-06-six-rate-keys.png",
       "dimensions": [
         1591,
@@ -16719,10 +16724,11 @@
       ],
       "sha256": "55bcbb2b120e00b9fb74d4b214855253a251e4e720c16434b5e0af393727bbaf",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-07-baseline-row-diagnostics.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-07-baseline-row-diagnostics.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-07-baseline-row-diagnostics.png",
       "dimensions": [
         1591,
@@ -16740,10 +16746,11 @@
       ],
       "sha256": "ddf25c0fb4bbc8c275b2f05255aa0c5a2935d13dca311936f4240971ff1c15a2",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-08-baseline-population-controls.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-08-baseline-population-controls.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-08-baseline-population-controls.png",
       "dimensions": [
         1591,
@@ -16761,10 +16768,11 @@
       ],
       "sha256": "de9561e6e6753082ce4ec82473ab7190839c53366bae6401b46d5e389de8ae3f",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-09-duplicate-check-formula.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-09-duplicate-check-formula.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-09-duplicate-check-formula.png",
       "dimensions": [
         1591,
@@ -16782,10 +16790,11 @@
       ],
       "sha256": "93a1a381da54460442d0e2789fa02d5587463121ed5122be1a155d3176b0103c",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-10-numeric-type-check.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-10-numeric-type-check.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-10-numeric-type-check.png",
       "dimensions": [
         1591,
@@ -16803,10 +16812,11 @@
       ],
       "sha256": "2618006c959021d6604d56d98799aed6c3ecf6c7d0729e174d5d309c70637fab",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-11-duplicate-orders-command.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-11-duplicate-orders-command.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-11-duplicate-orders-command.png",
       "dimensions": [
         1591,
@@ -16824,10 +16834,11 @@
       ],
       "sha256": "377ca83a2dc5559072f079d50080f805473579167b8e7967dcb4176271f3f9fa",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-12-preserved-source-snapshot.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-12-preserved-source-snapshot.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-12-preserved-source-snapshot.png",
       "dimensions": [
         1591,
@@ -16845,10 +16856,11 @@
       ],
       "sha256": "714692ca5f929d370c1279293ee0e396fdfc21f1aca8711fa28c02f1f78e0b03",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-13-empty-analysis-workspace.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-13-empty-analysis-workspace.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-13-empty-analysis-workspace.png",
       "dimensions": [
         1591,
@@ -16866,10 +16878,11 @@
       ],
       "sha256": "c7614c0817578c24c7134b004f53b74360383875afe5fa1663b3dacdaf169f89",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-14-source-grain-and-scope-notes.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-14-source-grain-and-scope-notes.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-14-source-grain-and-scope-notes.png",
       "dimensions": [
         1591,
@@ -16887,10 +16900,11 @@
       ],
       "sha256": "4f921d41aa0f22877ab88042fae7a6a08415a9ab2d2da6abb9eb0ae61545a38b",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-15-six-intake-rows-preserved.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-15-six-intake-rows-preserved.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-15-six-intake-rows-preserved.png",
       "dimensions": [
         1591,
@@ -16908,10 +16922,11 @@
       ],
       "sha256": "8b241d556feb671e403b58afd7548b29a1fa0651bed7116bc91adbce6b3874a6",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-16-data-contract.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-16-data-contract.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-16-data-contract.png",
       "dimensions": [
         1591,
@@ -16929,10 +16944,11 @@
       ],
       "sha256": "55c8e6ef9b8f9319ce178f9b72c861c1476b782cbf2556af7dc430cc1e7024db",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-17-intake-rule-diagnostics.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-17-intake-rule-diagnostics.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-17-intake-rule-diagnostics.png",
       "dimensions": [
         1591,
@@ -16950,10 +16966,11 @@
       ],
       "sha256": "dc95ea3ff5fae804bd65f896a30e74dc0675a5884b429576b7915944891666af",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-18-conflict-versus-identical-copy.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-18-conflict-versus-identical-copy.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-18-conflict-versus-identical-copy.png",
       "dimensions": [
         1591,
@@ -16971,10 +16988,11 @@
       ],
       "sha256": "74ae089f9beb9268a5db4fdbe9714f2e043d820612942be5051bff4fc7b684b7",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-19-unknown-item-key.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-19-unknown-item-key.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-19-unknown-item-key.png",
       "dimensions": [
         1591,
@@ -16992,10 +17010,11 @@
       ],
       "sha256": "57d340a9a4cebaafcbb1afa490350a1feeb25c61ed36bfc18c0d2dc5ee46d975",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-20-text-quantity-is-not-number.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-20-text-quantity-is-not-number.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-20-text-quantity-is-not-number.png",
       "dimensions": [
         1591,
@@ -17013,10 +17032,11 @@
       ],
       "sha256": "da23dca5fb89a5dd2e65d989d4a97b13bba2fe126ab61d559118f7b37950c531",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-21-zero-quantity-is-valid.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-21-zero-quantity-is-valid.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-21-zero-quantity-is-valid.png",
       "dimensions": [
         1591,
@@ -17034,10 +17054,11 @@
       ],
       "sha256": "76f4043af6df7f21c9630bb7f4735701f19805961388a0602feb373b0fc306da",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-22-intake-evidence-and-dispositions.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-22-intake-evidence-and-dispositions.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-22-intake-evidence-and-dispositions.png",
       "dimensions": [
         1591,
@@ -17055,10 +17076,11 @@
       ],
       "sha256": "4cb690f8b3cc97cf21bcbbb7373c411d474eb96349bf51306ba4b7da356d01b2",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-23-cancelled-status-is-valid.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-23-cancelled-status-is-valid.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-23-cancelled-status-is-valid.png",
       "dimensions": [
         1591,
@@ -17076,10 +17098,11 @@
       ],
       "sha256": "8cfd240471c93aeb6dd217457aa0f512a4a887ec2cb5ef18b246f2c2c0bd2642",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-24-raw-intake-remains-unchanged.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-24-raw-intake-remains-unchanged.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-24-raw-intake-remains-unchanged.png",
       "dimensions": [
         1591,
@@ -17097,10 +17120,11 @@
       ],
       "sha256": "483b1994e67e65288520353d5a439aa6f671fc6d476afdcf50fa4716be67a2f0",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-25-original-orders-retained.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-25-original-orders-retained.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-25-original-orders-retained.png",
       "dimensions": [
         1591,
@@ -17118,10 +17142,11 @@
       ],
       "sha256": "842c443c9a5dcff54c666465c588ba040798ff12e395879085b709254fbf92aa",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-26-original-rate-table-retained.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-26-original-rate-table-retained.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-26-original-rate-table-retained.png",
       "dimensions": [
         1591,
@@ -17139,10 +17164,11 @@
       ],
       "sha256": "b8ae5e4f36ef1759b381e1193eee9d1c1b95ffc4d64ccc999ce03a7cace50e42",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-27-baseline-controls-rechecked.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-27-baseline-controls-rechecked.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-27-baseline-controls-rechecked.png",
       "dimensions": [
         1591,
@@ -17160,10 +17186,11 @@
       ],
       "sha256": "a128d0f0e87814a0447112b5af02dacad689c064fab8dfbd708f52d05a9c0bec",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-28-audit-handover-boundaries.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-28-audit-handover-boundaries.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-28-audit-handover-boundaries.png",
       "dimensions": [
         1591,
@@ -17181,10 +17208,11 @@
       ],
       "sha256": "b9bba12cea98e5ad8dc0aebdda50d1a7f55f1563addaa76df7d5a8851f8f88ad",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-29-analysis-still-empty.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-29-analysis-still-empty.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-29-analysis-still-empty.png",
       "dimensions": [
         1591,
@@ -17202,10 +17230,11 @@
       ],
       "sha256": "262c10ae654083ffa204f3f72127fcdcf7626948ab8cb3329e3d765855586147",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "05-sheets-advanced/01-source-audit/images/c05-01-30-source-audit-complete.jpg": {
+    "05-sheets-advanced/01-source-audit/images/c05-01-30-source-audit-complete.png": {
       "source": "_design/screenshots/full/05-sheets-advanced/01-source-audit/c05-01-30-source-audit-complete.png",
       "dimensions": [
         1591,
@@ -17223,7 +17252,8 @@
       ],
       "sha256": "ff26409f272ab15826a28b9fd09d99e6c512d777e8c30e84fefa5171fed61af3",
       "notes": [
-        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending."
+        "Actual staged learner UI; original dimensions, no crop or resize. Account avatar masked; uploaded-file owner avatar additionally masked. Manual upload handoff after extension blocked local files; native conversion and audit completed in UI. Orders/Rates unchanged; isolated intake retains raw anomalies. Independent dispositions/release conditions/reviewer/learner timing pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/05-sheets-advanced/01-source-audit.json (crop and boxes in 1600 px coordinates)."
       ]
     },
     "05-sheets-advanced/02-conditional-logic/images/c05-02-01-source-label-before-new-calculations.jpg": {
