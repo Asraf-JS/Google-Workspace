@@ -1,0 +1,430 @@
+{
+ "raw": "../raw/05-sheets-advanced/02-conditional-logic",
+ "repoRoot": "../../../05-sheets-advanced",
+ "shots": {
+  "c05-02-01-source-label-before-new-calculations.png": {
+   "boxes": [
+    [
+     1516,
+     166,
+     1600,
+     206,
+     1
+    ]
+   ]
+  },
+  "c05-02-02-source-label-preserved-outside-calculations.png": {
+   "boxes": [
+    [
+     1526,
+     166,
+     1600,
+     206,
+     2
+    ]
+   ]
+  },
+  "c05-02-03-first-line-amount.png": {
+   "boxes": [
+    [
+     1306,
+     206,
+     1384,
+     240,
+     3
+    ]
+   ]
+  },
+  "c05-02-04-line-amount-formulas-filled.png": {
+   "boxes": [
+    [
+     1318,
+     206,
+     1462,
+     830,
+     4
+    ]
+   ]
+  },
+  "c05-02-05-cancelled-record-active-amount-zero.png": {
+   "boxes": [
+    [
+     1442,
+     278,
+     1592,
+     306,
+     5,
+     "below"
+    ]
+   ]
+  },
+  "c05-02-06-source-amount-total-controls.png": {
+   "boxes": [
+    [
+     1314,
+     786,
+     1600,
+     824,
+     6
+    ]
+   ]
+  },
+  "c05-02-07-spot-check-middle-order.png": {
+   "boxes": [
+    [
+     1302,
+     352,
+     1446,
+     382,
+     7
+    ]
+   ]
+  },
+  "c05-02-08-spot-check-final-order.png": {
+   "boxes": [
+    [
+     1314,
+     748,
+     1462,
+     782,
+     8
+    ]
+   ]
+  },
+  "c05-02-09-first-project-status-formula.png": {
+   "boxes": [
+    [
+     288,
+     224,
+     512,
+     248,
+     1,
+     "below"
+    ]
+   ]
+  },
+  "c05-02-10-amount-grid-filled-across-and-down.png": {
+   "boxes": [
+    [
+     298,
+     224,
+     890,
+     288,
+     2
+    ]
+   ]
+  },
+  "c05-02-11-final-mixed-reference-formula.png": {
+   "boxes": [
+    [
+     692,
+     264,
+     876,
+     288,
+     3
+    ]
+   ]
+  },
+  "c05-02-12-band-test-99-low.png": {
+   "boxes": [
+    [
+     990,
+     166,
+     1196,
+     208,
+     1
+    ]
+   ]
+  },
+  "c05-02-13-band-test-100-medium.png": {
+   "boxes": [
+    [
+     972,
+     166,
+     1184,
+     208,
+     2
+    ]
+   ]
+  },
+  "c05-02-14-band-test-199-medium.png": {
+   "boxes": [
+    [
+     990,
+     166,
+     1196,
+     208,
+     3
+    ]
+   ]
+  },
+  "c05-02-15-band-test-200-high.png": {
+   "boxes": [
+    [
+     972,
+     166,
+     1184,
+     208,
+     4
+    ]
+   ]
+  },
+  "c05-02-16-population-definitions-before-calculations.png": {
+   "boxes": [
+    [
+     56,
+     404,
+     890,
+     616,
+     1
+    ]
+   ]
+  },
+  "c05-02-17-distinct-population-totals.png": {
+   "boxes": [
+    [
+     42,
+     404,
+     876,
+     616,
+     2
+    ]
+   ]
+  },
+  "c05-02-18-count-and-amount-grids.png": {
+   "boxes": [
+    [
+     56,
+     304,
+     890,
+     388,
+     3
+    ]
+   ]
+  },
+  "c05-02-19-population-and-grid-reconciliation.png": {
+   "boxes": [
+    [
+     42,
+     624,
+     876,
+     824,
+     4
+    ]
+   ]
+  },
+  "c05-02-20-qualified-order-ids-and-manual-products.png": {
+   "boxes": [
+    [
+     56,
+     164,
+     1194,
+     308,
+     5
+    ]
+   ]
+  },
+  "c05-02-21-manual-subsets-match-formula-intersections.png": {
+   "boxes": [
+    [
+     900,
+     184,
+     1182,
+     308,
+     6
+    ],
+    [
+     42,
+     326,
+     612,
+     426,
+     6
+    ]
+   ]
+  },
+  "c05-02-22-logic-matrix-expected-results-before-formulas.png": {
+   "boxes": [
+    [
+     56,
+     164,
+     1478,
+     608,
+     7
+    ]
+   ]
+  },
+  "c05-02-23-logic-matrix-actual-results.png": {
+   "boxes": [
+    [
+     898,
+     184,
+     1472,
+     608,
+     8
+    ]
+   ]
+  },
+  "c05-02-24-boundary-matrix-controls-and-baseline-zero.png": {
+   "boxes": [
+    [
+     56,
+     624,
+     622,
+     826,
+     9
+    ]
+   ]
+  },
+  "c05-02-25-isolated-anchor-fault-prediction.png": {
+   "boxes": [
+    [
+     42,
+     564,
+     876,
+     826,
+     10
+    ]
+   ]
+  },
+  "c05-02-26-first-incorrect-project-criterion.png": {
+   "boxes": [
+    [
+     522,
+     224,
+     706,
+     248,
+     11,
+     "below"
+    ]
+   ]
+  },
+  "c05-02-27-anchor-fault-reconciliation-mismatch.png": {
+   "boxes": [
+    [
+     42,
+     444,
+     876,
+     468,
+     12
+    ],
+    [
+     42,
+     784,
+     876,
+     826,
+     12
+    ]
+   ]
+  },
+  "c05-02-28-restored-project-anchor-and-grid.png": {
+   "boxes": [
+    [
+     702,
+     204,
+     890,
+     228,
+     13
+    ]
+   ]
+  },
+  "c05-02-29-repaired-grid-total-reconciles.png": {
+   "boxes": [
+    [
+     42,
+     784,
+     876,
+     826,
+     14
+    ]
+   ]
+  },
+  "c05-02-30-anchor-fault-and-repair-record.png": {
+   "boxes": [
+    [
+     56,
+     618,
+     522,
+     826,
+     15
+    ]
+   ]
+  },
+  "c05-02-31-population-and-zero-versus-unknown-explanation.png": {
+   "boxes": [
+    [
+     42,
+     378,
+     512,
+     826,
+     16
+    ]
+   ]
+  },
+  "c05-02-32-maintained-count-and-amount-grids.png": {
+   "boxes": [
+    [
+     56,
+     164,
+     890,
+     348,
+     17
+    ]
+   ]
+  },
+  "c05-02-33-maintained-analysis-controls-complete.png": {
+   "boxes": [
+    [
+     42,
+     614,
+     876,
+     742,
+     18
+    ]
+   ]
+  },
+  "c05-02-34-original-source-inputs-retained.png": {
+   "boxes": [
+    [
+     56,
+     206,
+     1460,
+     782,
+     19
+    ]
+   ]
+  },
+  "c05-02-35-original-snapshot-remains-unchanged.png": {
+   "boxes": [
+    [
+     262,
+     836,
+     412,
+     868,
+     20
+    ]
+   ]
+  },
+  "c05-02-36-final-logic-matrix.png": {
+   "boxes": [
+    [
+     56,
+     164,
+     1478,
+     608,
+     21
+    ]
+   ]
+  },
+  "c05-02-37-maintained-analysis-ready.png": {
+   "boxes": [
+    [
+     42,
+     164,
+     876,
+     780,
+     22
+    ]
+   ]
+  }
+ }
+}
