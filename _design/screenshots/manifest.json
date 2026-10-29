@@ -13763,7 +13763,7 @@
         "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/03-basic-calculations.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-01-raw-dirty-text.jpg": {
+    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-01-raw-dirty-text.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/04-clean-sort-freeze/c04-04-01-raw-dirty-text.png",
       "dimensions": [
         1591,
@@ -13781,10 +13781,11 @@
       ],
       "sha256": "eafbc3472334549d20cdef4577733408b102a9694fd0712d84b8b2deae827d2d",
       "notes": [
-        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone."
+        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/04-clean-sort-freeze.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-02-first-trim-formula.jpg": {
+    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-02-first-trim-formula.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/04-clean-sort-freeze/c04-04-02-first-trim-formula.png",
       "dimensions": [
         1591,
@@ -13802,10 +13803,11 @@
       ],
       "sha256": "6c7e4f4010e14e7cc6a1f65b564d07717ef0f0621c99cbcb09bc7d0a0dec8029",
       "notes": [
-        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone."
+        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/04-clean-sort-freeze.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-03-cleaned-text-length-checks.jpg": {
+    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-03-cleaned-text-length-checks.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/04-clean-sort-freeze/c04-04-03-cleaned-text-length-checks.png",
       "dimensions": [
         1591,
@@ -13823,10 +13825,11 @@
       ],
       "sha256": "546157e61a7d4652d6902e44c00d9ec8b88a0a48e215ab56fad0c3063d06666e",
       "notes": [
-        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone."
+        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/04-clean-sort-freeze.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-04-isolated-sort-range.jpg": {
+    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-04-isolated-sort-range.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/04-clean-sort-freeze/c04-04-04-isolated-sort-range.png",
       "dimensions": [
         1591,
@@ -13844,10 +13847,11 @@
       ],
       "sha256": "a4809591674af26b93a5b620cd1e74421766a248e2ac6466f8e483b54f5a9e7b",
       "notes": [
-        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone."
+        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/04-clean-sort-freeze.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-05-team-taskid-sort-options.jpg": {
+    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-05-team-taskid-sort-options.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/04-clean-sort-freeze/c04-04-05-team-taskid-sort-options.png",
       "dimensions": [
         1591,
@@ -13865,10 +13869,11 @@
       ],
       "sha256": "edcd97831c2e0920fb5a04c3135e02c9cc028fd9666e31b65c580ef9eed86bee",
       "notes": [
-        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone."
+        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/04-clean-sort-freeze.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-06-intact-sorted-record.jpg": {
+    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-06-intact-sorted-record.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/04-clean-sort-freeze/c04-04-06-intact-sorted-record.png",
       "dimensions": [
         1591,
@@ -13886,10 +13891,11 @@
       ],
       "sha256": "8e21c49fddf3fc7d362c61eb1f0b79e1266583acb1a351905f6cef8b85fb9a78",
       "notes": [
-        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone."
+        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/04-clean-sort-freeze.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-07-freeze-one-row-menu.jpg": {
+    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-07-freeze-one-row-menu.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/04-clean-sort-freeze/c04-04-07-freeze-one-row-menu.png",
       "dimensions": [
         1591,
@@ -13907,10 +13913,11 @@
       ],
       "sha256": "619cd23bb872b99a8410f839b72829726a29658010138d9cc292ebf4dfa20a1e",
       "notes": [
-        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone."
+        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/04-clean-sort-freeze.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-08-frozen-header-scrolled.jpg": {
+    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-08-frozen-header-scrolled.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/04-clean-sort-freeze/c04-04-08-frozen-header-scrolled.png",
       "dimensions": [
         1591,
@@ -13928,10 +13935,11 @@
       ],
       "sha256": "b1fe7e689acd8ecca24c4d67d475b2fdd1e2f6eb39bcddf1174b5a052ea8338e",
       "notes": [
-        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone."
+        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/04-clean-sort-freeze.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-09-plannedcosts-exact-bounds.jpg": {
+    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-09-plannedcosts-exact-bounds.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/04-clean-sort-freeze/c04-04-09-plannedcosts-exact-bounds.png",
       "dimensions": [
         1591,
@@ -13949,10 +13957,11 @@
       ],
       "sha256": "52614ad52df8ac081bdaa62d67fdb3759b6222961fe7ae041df5006bf12d8234",
       "notes": [
-        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone."
+        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/04-clean-sort-freeze.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-10-named-explicit-totals.jpg": {
+    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-10-named-explicit-totals.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/04-clean-sort-freeze/c04-04-10-named-explicit-totals.png",
       "dimensions": [
         1591,
@@ -13970,10 +13979,11 @@
       ],
       "sha256": "aa79d6ae6eeb51bdc3dd32404b38f3543b74789c443f3f7164a25f8fc6f223bd",
       "notes": [
-        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone."
+        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/04-clean-sort-freeze.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-11-preserved-intake-raw.jpg": {
+    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-11-preserved-intake-raw.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/04-clean-sort-freeze/c04-04-11-preserved-intake-raw.png",
       "dimensions": [
         1591,
@@ -13991,10 +14001,11 @@
       ],
       "sha256": "9928ac22c50ee51dff285b0d8ed096ce757333548a7a58539750655d144edd78",
       "notes": [
-        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone."
+        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/04-clean-sort-freeze.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-12-cleaning-exceptions-before-repair.jpg": {
+    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-12-cleaning-exceptions-before-repair.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/04-clean-sort-freeze/c04-04-12-cleaning-exceptions-before-repair.png",
       "dimensions": [
         1591,
@@ -14012,10 +14023,11 @@
       ],
       "sha256": "9b918ba27ddc790169e4bd535f7b1ebc74cbbbac1c1f9d1d0cb3826b000146ef",
       "notes": [
-        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone."
+        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/04-clean-sort-freeze.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-13-replace-cleaned-status-scope.jpg": {
+    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-13-replace-cleaned-status-scope.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/04-clean-sort-freeze/c04-04-13-replace-cleaned-status-scope.png",
       "dimensions": [
         1591,
@@ -14033,10 +14045,11 @@
       ],
       "sha256": "12912c24045c03fd3af2377ee596f432abc5fadd7c278c925f3c4acb9f1e28f6",
       "notes": [
-        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone."
+        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/04-clean-sort-freeze.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-14-one-status-replaced.jpg": {
+    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-14-one-status-replaced.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/04-clean-sort-freeze/c04-04-14-one-status-replaced.png",
       "dimensions": [
         1591,
@@ -14054,10 +14067,11 @@
       ],
       "sha256": "63e485ddade2abceb74d56e9f2b1e8e653a722b9c310d7e1f158a35b196e2937",
       "notes": [
-        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone."
+        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/04-clean-sort-freeze.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-15-before-sort-identity-checks.jpg": {
+    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-15-before-sort-identity-checks.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/04-clean-sort-freeze/c04-04-15-before-sort-identity-checks.png",
       "dimensions": [
         1591,
@@ -14075,10 +14089,11 @@
       ],
       "sha256": "4eee60b4f668ae1ef5184e7e0de29d7bd845d0ced688a8da6109b02e0c6532ab",
       "notes": [
-        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone."
+        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/04-clean-sort-freeze.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-16-intake-whole-record-sort.jpg": {
+    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-16-intake-whole-record-sort.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/04-clean-sort-freeze/c04-04-16-intake-whole-record-sort.png",
       "dimensions": [
         1591,
@@ -14096,10 +14111,11 @@
       ],
       "sha256": "1031391b6565b187380844db2687b73c87330c0b9249fb864f1349ceae387602",
       "notes": [
-        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone."
+        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/04-clean-sort-freeze.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-17-sorted-intake-identities.jpg": {
+    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-17-sorted-intake-identities.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/04-clean-sort-freeze/c04-04-17-sorted-intake-identities.png",
       "dimensions": [
         1591,
@@ -14117,10 +14133,11 @@
       ],
       "sha256": "863799c2104b49a3ea1a686b0de731f7d0fc44a8fcdd0327c7d12cee3eb40656",
       "notes": [
-        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone."
+        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/04-clean-sort-freeze.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-18-intake-checks-and-cost-reconciliation.jpg": {
+    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-18-intake-checks-and-cost-reconciliation.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/04-clean-sort-freeze/c04-04-18-intake-checks-and-cost-reconciliation.png",
       "dimensions": [
         1591,
@@ -14138,10 +14155,11 @@
       ],
       "sha256": "b0f7d191810828cfcf46e228bab5a551d63994ee02c8b7d54cba4291d4671b12",
       "notes": [
-        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone."
+        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/04-clean-sort-freeze.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-19-disposable-single-column-selection.jpg": {
+    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-19-disposable-single-column-selection.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/04-clean-sort-freeze/c04-04-19-disposable-single-column-selection.png",
       "dimensions": [
         1591,
@@ -14159,10 +14177,11 @@
       ],
       "sha256": "a1970bd3a64bd41bafc288103684fd0702d1cbf24990f3488e2350ad26c89508",
       "notes": [
-        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone."
+        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/04-clean-sort-freeze.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-20-broken-single-column-relationships.jpg": {
+    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-20-broken-single-column-relationships.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/04-clean-sort-freeze/c04-04-20-broken-single-column-relationships.png",
       "dimensions": [
         1591,
@@ -14180,10 +14199,11 @@
       ],
       "sha256": "bbc963dba58e5396dd08ce7b1b754da0d7c76beafeb7ad0d68fed76089f6d3e0",
       "notes": [
-        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone."
+        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/04-clean-sort-freeze.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-21-immediate-undo-restoration.jpg": {
+    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-21-immediate-undo-restoration.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/04-clean-sort-freeze/c04-04-21-immediate-undo-restoration.png",
       "dimensions": [
         1591,
@@ -14201,10 +14221,11 @@
       ],
       "sha256": "48f21f72a45a5dd0390519ae566f4f3b0c05eead16af4ee6d6ca995e90addcbb",
       "notes": [
-        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone."
+        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/04-clean-sort-freeze.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-22-restored-identity-evidence.jpg": {
+    "04-sheets-foundation-intermediate/04-clean-sort-freeze/images/c04-04-22-restored-identity-evidence.png": {
       "source": "_design/screenshots/full/04-sheets-foundation-intermediate/04-clean-sort-freeze/c04-04-22-restored-identity-evidence.png",
       "dimensions": [
         1591,
@@ -14222,7 +14243,8 @@
       ],
       "sha256": "7f3ce5b32357d63d640e7fbc1c03b15267d39e584fbb65c5e48aa9fc44dd4dd0",
       "notes": [
-        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone."
+        "Actual current-stage learner UI, original dimensions retained without cropping or resizing. Account avatar masked. Raw inputs preserved, original Tasks values/formulas unchanged. CSV upload/import, independent challenge and learner timing unverified. Unsafe single-column sort performed only on disposable copy and immediately undone.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/04-sheets-foundation-intermediate/04-clean-sort-freeze.json (crop and boxes in 1600 px coordinates)."
       ]
     },
     "04-sheets-foundation-intermediate/05-validation-filtering/images/c04-05-01-status-range-and-options.jpg": {
