@@ -1418,17 +1418,17 @@ Lab 3 adds 11 original-dimension captures of named source attachment, a rejected
 
 | Lesson image | Full source | Dimensions | Kind |
 |---|---|---|---|
-| [c06-03-01-practice-source-fact-sheet.jpg](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-01-practice-source-fact-sheet.jpg) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-01-practice-source-fact-sheet.png) | 1591 x 920 | application-window |
-| [c06-03-02-gemini-panel-open.jpg](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-02-gemini-panel-open.jpg) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-02-gemini-panel-open.png) | 1591 x 920 | application-window |
-| [c06-03-03-proposed-guidance-source.jpg](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-03-proposed-guidance-source.jpg) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-03-proposed-guidance-source.png) | 1591 x 868 | application-window |
-| [c06-03-04-guidance-attached.jpg](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-04-guidance-attached.jpg) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-04-guidance-attached.png) | 1591 x 920 | application-window |
-| [c06-03-05-update-prompt.jpg](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-05-update-prompt.jpg) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-05-update-prompt.png) | 1591 x 920 | application-window |
-| [c06-03-06-unexpected-proposed-edit.jpg](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-06-unexpected-proposed-edit.jpg) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-06-unexpected-proposed-edit.png) | 1591 x 920 | application-window |
-| [c06-03-10-checked-update.jpg](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-10-checked-update.jpg) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-10-checked-update.png) | 1591 x 868 | application-window |
-| [c06-03-11-unsent-message.jpg](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-11-unsent-message.jpg) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-11-unsent-message.png) | 1591 x 868 | application-window |
-| [c06-03-12-action-lineage.jpg](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-12-action-lineage.jpg) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-12-action-lineage.png) | 1591 x 868 | application-window |
-| [c06-03-14-lineage-table.jpg](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-14-lineage-table.jpg) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-14-lineage-table.png) | 1591 x 868 | application-window |
-| [c06-03-13-delay-scenario.jpg](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-13-delay-scenario.jpg) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-13-delay-scenario.png) | 1591 x 868 | application-window |
+| [c06-03-01-practice-source-fact-sheet.png](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-01-practice-source-fact-sheet.png) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-01-practice-source-fact-sheet.png) | 1591 x 920 | application-window |
+| [c06-03-02-gemini-panel-open.png](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-02-gemini-panel-open.png) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-02-gemini-panel-open.png) | 1591 x 920 | application-window |
+| [c06-03-03-proposed-guidance-source.png](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-03-proposed-guidance-source.png) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-03-proposed-guidance-source.png) | 1591 x 868 | application-window |
+| [c06-03-04-guidance-attached.png](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-04-guidance-attached.png) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-04-guidance-attached.png) | 1591 x 920 | application-window |
+| [c06-03-05-update-prompt.png](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-05-update-prompt.png) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-05-update-prompt.png) | 1591 x 920 | application-window |
+| [c06-03-06-unexpected-proposed-edit.png](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-06-unexpected-proposed-edit.png) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-06-unexpected-proposed-edit.png) | 1591 x 920 | application-window |
+| [c06-03-10-checked-update.png](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-10-checked-update.png) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-10-checked-update.png) | 1591 x 868 | application-window |
+| [c06-03-11-unsent-message.png](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-11-unsent-message.png) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-11-unsent-message.png) | 1591 x 868 | application-window |
+| [c06-03-12-action-lineage.png](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-12-action-lineage.png) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-12-action-lineage.png) | 1591 x 868 | application-window |
+| [c06-03-14-lineage-table.png](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-14-lineage-table.png) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-14-lineage-table.png) | 1591 x 868 | application-window |
+| [c06-03-13-delay-scenario.png](../../06-notebooklm-gemini/03-gemini-workflow/images/c06-03-13-delay-scenario.png) | [PNG](full/06-notebooklm-gemini/03-gemini-workflow/c06-03-13-delay-scenario.png) | 1591 x 868 | application-window |
 
 ### 28 October 2026: AI4 source notebook and citation audit
 

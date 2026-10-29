@@ -26198,7 +26198,7 @@
         "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/02-prompt-design.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-01-practice-source-fact-sheet.jpg": {
+    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-01-practice-source-fact-sheet.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/03-gemini-workflow/c06-03-01-practice-source-fact-sheet.png",
       "dimensions": [
         1591,
@@ -26216,10 +26216,11 @@
       ],
       "sha256": "3b9f1a40d3ca4c832ea7c04889a5731c5e470d448795f84c0953d566c915f134",
       "notes": [
-        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending."
+        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/03-gemini-workflow.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-02-gemini-panel-open.jpg": {
+    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-02-gemini-panel-open.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/03-gemini-workflow/c06-03-02-gemini-panel-open.png",
       "dimensions": [
         1591,
@@ -26237,10 +26238,11 @@
       ],
       "sha256": "6692922d5a73a9768bc3101b7602f182e84a3e7fc27ab826b288f9e3d51e5073",
       "notes": [
-        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending."
+        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/03-gemini-workflow.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-03-proposed-guidance-source.jpg": {
+    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-03-proposed-guidance-source.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/03-gemini-workflow/c06-03-03-proposed-guidance-source.png",
       "dimensions": [
         1591,
@@ -26258,10 +26260,11 @@
       ],
       "sha256": "273322316496c489b96c2df90e5ab562e642dbe41d57ce702a3a906126a518aa",
       "notes": [
-        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending."
+        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/03-gemini-workflow.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-04-guidance-attached.jpg": {
+    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-04-guidance-attached.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/03-gemini-workflow/c06-03-04-guidance-attached.png",
       "dimensions": [
         1591,
@@ -26279,10 +26282,11 @@
       ],
       "sha256": "34bad7ad103f037f11918a8dbd494c6235636b7a02077fe616aebac899d01413",
       "notes": [
-        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending."
+        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/03-gemini-workflow.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-05-update-prompt.jpg": {
+    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-05-update-prompt.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/03-gemini-workflow/c06-03-05-update-prompt.png",
       "dimensions": [
         1591,
@@ -26300,10 +26304,11 @@
       ],
       "sha256": "4fabac24b2d05a8ffcba0d116685880f50622a6669020f25c47ea210f0b2d483",
       "notes": [
-        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending."
+        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/03-gemini-workflow.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-06-unexpected-proposed-edit.jpg": {
+    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-06-unexpected-proposed-edit.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/03-gemini-workflow/c06-03-06-unexpected-proposed-edit.png",
       "dimensions": [
         1591,
@@ -26321,10 +26326,11 @@
       ],
       "sha256": "e2469170e5215b1e0d4d216559a0ecc34cc28a2b1f74bd4972ec4a37c2c29c31",
       "notes": [
-        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending."
+        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/03-gemini-workflow.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-10-checked-update.jpg": {
+    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-10-checked-update.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/03-gemini-workflow/c06-03-10-checked-update.png",
       "dimensions": [
         1591,
@@ -26342,10 +26348,11 @@
       ],
       "sha256": "c3a47a713ce9f710b6764f817909b449f0aae1643919ae77def3a782edf60c3f",
       "notes": [
-        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending."
+        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/03-gemini-workflow.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-11-unsent-message.jpg": {
+    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-11-unsent-message.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/03-gemini-workflow/c06-03-11-unsent-message.png",
       "dimensions": [
         1591,
@@ -26363,10 +26370,11 @@
       ],
       "sha256": "5c52587d3faa71171fc7feff81feed6a05639e429b4cd8690fe9a9054b53350f",
       "notes": [
-        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending."
+        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/03-gemini-workflow.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-12-action-lineage.jpg": {
+    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-12-action-lineage.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/03-gemini-workflow/c06-03-12-action-lineage.png",
       "dimensions": [
         1591,
@@ -26384,10 +26392,11 @@
       ],
       "sha256": "620de517b32a5723347113031922ebd3ea1d27b2c4bd40874da03b505515a038",
       "notes": [
-        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending."
+        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/03-gemini-workflow.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-14-lineage-table.jpg": {
+    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-14-lineage-table.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/03-gemini-workflow/c06-03-14-lineage-table.png",
       "dimensions": [
         1591,
@@ -26405,10 +26414,11 @@
       ],
       "sha256": "a345bf1fe102d613a55e8000aad417fdc021491b80b7a1788abffac88f227e4d",
       "notes": [
-        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending."
+        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/03-gemini-workflow.json (crop and boxes in 1600 px coordinates)."
       ]
     },
-    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-13-delay-scenario.jpg": {
+    "06-notebooklm-gemini/03-gemini-workflow/images/c06-03-13-delay-scenario.png": {
       "source": "_design/screenshots/full/06-notebooklm-gemini/03-gemini-workflow/c06-03-13-delay-scenario.png",
       "dimensions": [
         1591,
@@ -26426,7 +26436,8 @@
       ],
       "sha256": "c74b6d21f9096057bfc5289bc2531205815739f6924a78fd04b45b10936b0520",
       "notes": [
-        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending."
+        "Real application stage, original dimensions with account avatar masked. The proposed document edit was rejected; Gemini also created an unaddressed Gmail draft despite the panel-only request. Independent challenge, reviewer and classroom timing remain pending.",
+        "Lesson image rebuilt at 1600 px with annotate-shots from _design/shots/06-notebooklm-gemini/03-gemini-workflow.json (crop and boxes in 1600 px coordinates)."
       ]
     },
     "06-notebooklm-gemini/04-source-notebook/images/c06-04-01-blank-evidence-notebook.jpg": {
