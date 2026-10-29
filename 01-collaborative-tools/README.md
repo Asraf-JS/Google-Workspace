@@ -1,6 +1,6 @@
 # Collaborative Tools Masterclass
 
-**Status:** expanded written review draft, revision 0.3. Six complete labs replace the earlier eight short chapters. New routes, independent challenges and timings have not yet been piloted.
+**Status:** review draft, revision 0.4. Six labs have 109 staged author-reference captures. The hub route is partial because the native Site Preview stayed blank on desktop and phone. Independent challenges, partner and visitor tests and learner timing are still pending. Each chapter's status note and the [validation status](../planning/VALIDATION-STATUS.md) record the details.
 
 Current [screenshot progress](../planning/SCREENSHOT-PROGRESS.md): 109 real stage captures across Labs 1–6, with the remaining capture and learner-pilot checks listed explicitly.
 

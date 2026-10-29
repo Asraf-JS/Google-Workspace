@@ -2,6 +2,8 @@
 
 Completed 29 October 2026 after staged capture coverage reached all 50 draft chapters.
 
+The lesson JPEG figures below were measured before the review chain merged main. Main had already replaced the 338 Docs and Slides lesson JPEGs with annotated 1600 px PNGs (see _design/shots/README.md), so those 338 optimized JPEGs were dropped in the merge. The retained PNG sources were not affected.
+
 | Collection | Files | Before | After | Saved |
 | --- | ---: | ---: | ---: | ---: |
 | Retained PNG sources | 1,198 | 547,970,228 bytes | 451,903,618 bytes | 17.53% |
