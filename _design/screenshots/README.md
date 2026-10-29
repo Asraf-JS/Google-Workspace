@@ -1387,14 +1387,14 @@ Eight staged original-dimension captures; user-assisted responses and limitation
 
 | Lesson image | Full source | Dimensions | Kind |
 |---|---|---|---|
-| [c06-02-03-vague-flash-before-send.jpg](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-03-vague-flash-before-send.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-03-vague-flash-before-send.png) | 1909 x 1104 | application-window |
-| [c06-02-05-user-grounded-sponsor-response.jpg](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-05-user-grounded-sponsor-response.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-05-user-grounded-sponsor-response.png) | 1909 x 1104 | application-window |
-| [c06-02-06-refinement-prompt-before-send.jpg](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-06-refinement-prompt-before-send.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-06-refinement-prompt-before-send.png) | 1909 x 1104 | application-window |
-| [c06-02-07-refined-sponsor-response.jpg](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-07-refined-sponsor-response.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-07-refined-sponsor-response.png) | 1909 x 1104 | application-window |
-| [c06-02-09-bounded-faq-after-user-redo.jpg](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-09-bounded-faq-after-user-redo.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-09-bounded-faq-after-user-redo.png) | 1909 x 1041 | application-window |
-| [c06-02-10-explicit-checks-prompt.jpg](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-10-explicit-checks-prompt.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-10-explicit-checks-prompt.png) | 1909 x 1041 | application-window |
-| [c06-02-11-checked-faq-user-result.jpg](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-11-checked-faq-user-result.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-11-checked-faq-user-result.png) | 1909 x 1041 | application-window |
-| [c06-02-12-repeat-faq-user-result.jpg](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-12-repeat-faq-user-result.jpg) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-12-repeat-faq-user-result.png) | 1909 x 1041 | application-window |
+| [c06-02-03-vague-flash-before-send.png](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-03-vague-flash-before-send.png) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-03-vague-flash-before-send.png) | 1909 x 1104 | application-window |
+| [c06-02-05-user-grounded-sponsor-response.png](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-05-user-grounded-sponsor-response.png) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-05-user-grounded-sponsor-response.png) | 1909 x 1104 | application-window |
+| [c06-02-06-refinement-prompt-before-send.png](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-06-refinement-prompt-before-send.png) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-06-refinement-prompt-before-send.png) | 1909 x 1104 | application-window |
+| [c06-02-07-refined-sponsor-response.png](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-07-refined-sponsor-response.png) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-07-refined-sponsor-response.png) | 1909 x 1104 | application-window |
+| [c06-02-09-bounded-faq-after-user-redo.png](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-09-bounded-faq-after-user-redo.png) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-09-bounded-faq-after-user-redo.png) | 1909 x 1041 | application-window |
+| [c06-02-10-explicit-checks-prompt.png](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-10-explicit-checks-prompt.png) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-10-explicit-checks-prompt.png) | 1909 x 1041 | application-window |
+| [c06-02-11-checked-faq-user-result.png](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-11-checked-faq-user-result.png) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-11-checked-faq-user-result.png) | 1909 x 1041 | application-window |
+| [c06-02-12-repeat-faq-user-result.png](../../06-notebooklm-gemini/02-prompt-design/images/c06-02-12-repeat-faq-user-result.png) | [PNG](full/06-notebooklm-gemini/02-prompt-design/c06-02-12-repeat-faq-user-result.png) | 1909 x 1041 | application-window |
 
 ### AI2 baseline follow-up
 

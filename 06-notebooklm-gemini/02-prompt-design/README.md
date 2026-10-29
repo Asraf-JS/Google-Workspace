@@ -30,13 +30,13 @@ Use the supplied project fact sheet. Use a fresh approved AI conversation for ea
 
 > **Reference run:** The author run used Flash.
 
-![vague flash before send](./images/c06-02-03-vague-flash-before-send.jpg)
+![vague flash before send](./images/c06-02-03-vague-flash-before-send.png)
 
 *vague flash before send.*
 
 2. A later fresh Flash run produced a generic status template, including “On Track”, example completed milestones and positive feedback. No project source was supplied, so these are example text, not evidence of the pilot. Do not copy them as facts. Earlier attempts returned service errors and cannot be scored as answers.
 
-![Vague response showing a generic template](./images/c06-02-13-vague-success.jpg)
+![Vague response showing a generic template](./images/c06-02-13-vague-success.png)
 
 *Vague response showing a generic template.*
 
@@ -45,7 +45,7 @@ Use the supplied project fact sheet. Use a fresh approved AI conversation for ea
 1. Open a fresh conversation. Paste the **Part 2** prompt from the prompts page with the full supplied project fact sheet, replacing the placeholder. Check Goal, Context, Source and Expectations before submission.
 2. Read the answer against S1. In the observed Flash response, the update kept the three teams, proposed RM 12,000 ceiling, unagreed start, Friday cadence and final-two-weeks measure. The response was obtained after an instructor retry.
 
-![user grounded sponsor response](./images/c06-02-05-user-grounded-sponsor-response.jpg)
+![user grounded sponsor response](./images/c06-02-05-user-grounded-sponsor-response.png)
 
 *user grounded sponsor response.*
 
@@ -55,13 +55,13 @@ Use the supplied project fact sheet. Use a fresh approved AI conversation for ea
 
 1. The initial prompt already asks for 80–100 words, so treat the next request as a **length-compliance repair**, not a new audience or length dimension. Ask for the same sponsor update in 80–100 words, preserving the original facts and unresolved decisions.
 
-![refinement prompt before send](./images/c06-02-06-refinement-prompt-before-send.jpg)
+![refinement prompt before send](./images/c06-02-06-refinement-prompt-before-send.png)
 
 *refinement prompt before send.*
 
 2. Check the new response and count the update body. The recorded refinement had **84 words**, but introduced “ready to begin”, “four key outputs, led by Aina Rahman”, and a formal sign-off prerequisite. The source identifies Aina as coordinator and lists outputs; it does not establish readiness, universal output ownership or that prerequisite. Mark **Repair** and remove the unsupported claims.
 
-![refined sponsor response](./images/c06-02-07-refined-sponsor-response.jpg)
+![refined sponsor response](./images/c06-02-07-refined-sponsor-response.png)
 
 *refined sponsor response.*
 
@@ -69,40 +69,40 @@ Use the supplied project fact sheet. Use a fresh approved AI conversation for ea
 
 ## 2.4 Run a Controlled Prompt Comparison
 
-1. Use the three supplied original sources and the five-topic coordinator FAQ task on the prompts page. Run the bounded FAQ in a fresh conversation. Record the actual model and retry any service error without scoring it. The recorded response was obtained by the instructor using **Redo**.
+1. Use the three supplied original sources and the five-topic coordinator FAQ task in Part 5 of the [prompts page](./prompts.md). Run the bounded FAQ in a fresh conversation. Record the actual model and retry any service error without scoring it. The recorded response was obtained by the instructor using **Redo**.
 
-![bounded faq after user redo](./images/c06-02-09-bounded-faq-after-user-redo.jpg)
+![bounded faq after user redo](./images/c06-02-09-bounded-faq-after-user-redo.png)
 
 *bounded faq after user redo.*
 
 2. Audit the six question-bank facts and cite the original passages. The response retained the required facts and relative weeks, but its question said actions must be completed “prior to the pilot”, which the sources do not establish. Remove that prerequisite and mark the answer **Repair**. A source label is a pointer to inspect, not proof.
-3. In another fresh conversation, keep the same FAQ task, same S1–S3 originals and model. Add the **Output checks** block from the prompts page. Capture the prompt before submission.
+3. In another fresh conversation, keep the same FAQ task, same S1–S3 originals and model. Add the **Output checks** block from Part 5 of the prompts page. Capture the prompt before submission.
 
-![explicit checks prompt](./images/c06-02-10-explicit-checks-prompt.jpg)
+![explicit checks prompt](./images/c06-02-10-explicit-checks-prompt.png)
 
 *explicit checks prompt.*
 
 4. Compare the checked output with the first FAQ. In this recorded run, both preserved the six tested facts; the checked version did not impose the earlier prerequisite and labelled the meeting record scripted and the guidance proposed. User-assisted retries and AI variation mean one pair does not prove the instruction caused the difference.
 
-![checked faq user result](./images/c06-02-11-checked-faq-user-result.jpg)
+![checked faq user result](./images/c06-02-11-checked-faq-user-result.png)
 
 *checked faq user result.*
 
 5. Run the checked prompt again with the original sources. In the recorded repeat the conversation contains an earlier stopped request and then the identical prompt again; it is a repeat, but not a completely clean-context test. Its response preserved the six facts and used claim-level source labels. Inspect the underlying passages; S3 corroborates Friday cadence but does not establish budget approval or a calendar start.
 
-![repeat faq user result](./images/c06-02-12-repeat-faq-user-result.jpg)
+![repeat faq user result](./images/c06-02-12-repeat-faq-user-result.png)
 
 *repeat faq user result.*
 
 6. In a further fresh conversation, resupply the same originals and checked prompt. After two service errors, a user-assisted **Redo** produced version 3. No earlier substantive answer was in this conversation. The repeat retained all six tested facts, the unagreed date and relative weeks, and omitted the unsupported before-pilot condition. Recheck source passages; a source label by itself is not proof.
 
-![Fresh-conversation repeat after retries](./images/c06-02-14-clean-repeat-success.jpg)
+![Fresh-conversation repeat after retries](./images/c06-02-14-clean-repeat-success.png)
 
 *Fresh-conversation repeat after retries.*
 
 7. Record a comparison table: prompt, model/source route, six source checks, exact unsupported claims, citation support and Accept/Repair/Hold decision. The vague request lacked the pack and requested a different output; it is an illustrative baseline, not a controlled FAQ comparison. The two FAQ prompts share task, sources and model; only the output-check block changes. The successful vague response is a generic template; earlier failed runs cannot be scored as answers.
 
-**Author-run scope:** sponsor response and refinement, bounded FAQ, checked FAQ and repeat inspected; user-assisted retries were needed. The recorded 50-minute allocation is an unmeasured classroom target. Independent challenge, reviewer agreement and learner timing remain pending.
+> **Reference run:** author-run scope: sponsor response and refinement, bounded FAQ, checked FAQ and repeat inspected; user-assisted retries were needed. The recorded 50-minute allocation is an unmeasured classroom target. Independent challenge, reviewer agreement and learner timing remain pending.
 
 ## Independent Practice
 
