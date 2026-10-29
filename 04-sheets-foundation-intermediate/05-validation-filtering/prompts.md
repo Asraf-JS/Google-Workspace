@@ -31,3 +31,52 @@ Rule test values: status Complete, In Progress, Not Started, Done and blank; Due
 - Both views were reopened and checked, then closed with all 12 rows visible. Entry guide and view observations are in Rule Tests A18:B24/A27:E31.
 
 Source Tasks A1:L13 values/formulas and the original Entry Practice records remain unchanged. Testing clearing does not guarantee all required fields are complete. Independent Procurement/new-row coverage challenges and classroom timing remain pending.
+
+## Part 4: Rule Tests Layout
+
+Section 5.4. Columns are separated by tabs, so you can paste each block into its first cell. Leave **Validated input** (column B) empty until you test it, and change **Pending** to what you actually observe.
+
+Status test plan, A1:E6 (step 1):
+
+```text
+Status test	Validated input	Expected	Observed	Repair / next action
+Complete		Accept	Pending	None if accepted
+In Progress		Accept	Pending	None if accepted
+Not Started		Accept	Pending	None if accepted
+Done		Reject	Pending	Use a canonical status
+Blank		Test clearing	Pending	Check required fields separately
+```
+
+Week test plan, A9:E15 (step 5). Column B names the cell you test on Entry Rule Practice:
+
+```text
+Week test	Copy cell	Expected	Observed	Repair / next action
+0	E4	Reject	Pending	Use integer 1 through 4
+1	E4	Accept	Pending	None if accepted
+4	E4	Accept	Pending	None if accepted
+5	E4	Reject	Pending	Use integer 1 through 4
+1.5	E4	Reject	Pending	Use a whole week
+Blank	E4	Test clearing	Pending	Check required fields separately
+```
+
+Entry guide, A18:A24 (step 12). Write your own instruction for each row in column B:
+
+```text
+Entry guide
+Status
+DueWeek
+Invalid input
+Blank fields
+Unclear category
+Rule coverage
+```
+
+View check, A27:E31 (step 20):
+
+```text
+View check	Range	Visible IDs	Ordinary SUM	Observed IDs / restore
+Incomplete tasks
+Planning incomplete tasks
+Closed views
+Scope
+```
