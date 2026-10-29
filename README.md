@@ -6,7 +6,7 @@ You do not need a GitHub account to read the materials.
 
 **Version 0.4**, last updated 27 October 2026.
 
-The programme now has 50 draft chapters: six expanded masterclass labs and 44 expanded specialist labs. The package includes a shared participant site, practice files and six review books. Masterclass Labs 1–6, Docs Labs 1-8, Slides Labs 1-8 and Sheets Foundation Labs 1–8 and Advanced Labs 1–12 and AI Labs 1–4 and the partial AI Lab 5 route now have 1,160 staged real-app images, with limitations recorded per lab. The hub Preview remains blocked; remaining specialist routes, independent challenges and learner timing pilots are still required. See the [validation status](./planning/VALIDATION-STATUS.md).
+The programme now has 50 draft chapters: six expanded masterclass labs and 44 expanded specialist labs. The package includes a shared participant site, practice files and six review books. Masterclass Labs 1–6, Docs Labs 1-8, Slides Labs 1-8 and Sheets Foundation Labs 1–8 and Advanced Labs 1–12 and AI Labs 1–5 and the Lab 7 author route now have 1,175 staged real-app images, with limitations recorded per lab. The hub Preview remains blocked; remaining specialist routes, independent challenges and learner timing pilots are still required. See the [validation status](./planning/VALIDATION-STATUS.md).
 
 ## Program Flow
 
@@ -29,7 +29,7 @@ Download [all course files (ZIP)](https://github.com/Asraf-JS/Google-Workspace/a
 | 3 | [Google Slides](./03-google-slides/README.md) | 1 day | [PDF](./books/03-google-slides-Book.pdf) | 8 labs; 173 captures in Labs 1-8 (Lab 2 imports, spoken delivery, reviewer and interactive PDF checks pending; independent/human validation remains) |
 | 4 | [Google Sheets Fundamental and Intermediate](./04-sheets-foundation-intermediate/README.md) | 1 day | [PDF](./books/04-sheets-foundation-intermediate-Book.pdf) | 8 labs; 213 captures across Labs 1–8; CSV import, values-only format, independent/human and learner-timing checks pending |
 | 5 | [Google Sheets Advanced](./05-sheets-advanced/README.md) | 2 days | [PDF](./books/05-sheets-advanced-Book.pdf) | 12 labs; 416 captures across Labs 1–12; independent/reviewer and learner timing pending |
-| 6 | [Gemini Notebook and Gemini](./06-notebooklm-gemini/README.md) | 1 day | [PDF](./books/06-notebooklm-gemini-Book.pdf) | 8 labs; 84 captures in Labs 1–5; Labs 1–4 covered, Lab 5 listening skipped after 403; Lab 6 written reference checked, UI captures pending; Labs 7-8 and independent/reviewer/timing checks pending |
+| 6 | [Gemini Notebook and Gemini](./06-notebooklm-gemini/README.md) | 1 day | [PDF](./books/06-notebooklm-gemini-Book.pdf) | 8 labs; 99 captures in Labs 1–5 and 7; Lab 5 listening skipped, Lab 6 UI captures and Lab 8 pending; human/timing validation remains |
 
 ## Course Scenario
 

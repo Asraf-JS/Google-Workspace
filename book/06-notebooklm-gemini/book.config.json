@@ -9,7 +9,7 @@
   ],
   "runningTitle": "Gemini Notebook and Gemini",
   "subtitle": "One-day course review draft",
-  "blurb": "Eight draft AI labs with author references for Labs 1\u20134 and partial Lab 5. Audio claim review, independent challenges and classroom timing remain pending.",
+  "blurb": "Eight draft AI labs with staged author references in Labs 1\u20135 and 7. Lab 6 written reference is checked; learner timing and human validation remain pending.",
   "coverIcons": [
     "doc",
     "check",
@@ -71,5 +71,5 @@
       "exercises": "../../06-notebooklm-gemini/08-prompt-playbook/prompts.md"
     }
   ],
-  "backCover": "Source-bounded practice with fictional inputs. Labs 1\u20134 have author references; Lab 5 audio listening skipped after 403. Lab 6 written reference checked through connected Docs; UI capture and Labs 7\u20138 remain."
+  "backCover": "Source-bounded practice with fictional inputs. Lab 5 listening skipped after 403. Lab 6 UI captures and Lab 8 remain; Lab 7 author trial does not establish human productivity gains."
 }

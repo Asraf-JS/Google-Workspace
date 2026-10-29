@@ -27280,6 +27280,321 @@
       "notes": [
         "Original-dimension real-app capture with avatar masked. FAQ checked and output note deselected; Brief audio generated1:31from3originals. Initial playback counter observed, substantive listening and timestamped audit pending. Native audit table deliberately unscored. Download opened403; no audio transcript or review success claimed."
       ]
+    },
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-01-predefined-protocol.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-01-predefined-protocol.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1526,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "8ee8202c5dd376e426c36412503f432b3089794b1074428080c5101a59370ec5",
+      "notes": [
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+      ]
+    },
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-02-fresh-flash-session-a.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-02-fresh-flash-session-a.png",
+      "dimensions": [
+        1909,
+        1041
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          0,
+          961,
+          70,
+          1041
+        ]
+      ],
+      "sha256": "cc1e6e96e504818a53f2e77071461cc07b34771f5eb186590f3f2d0215f3b88b",
+      "notes": [
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+      ]
+    },
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-03-source-reference-and-pending-ledger.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-03-source-reference-and-pending-ledger.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1526,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "d117bd1ba51a47b4055e282852e344e58368215060d9c45b087ec7ee4351a9c5",
+      "notes": [
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+      ]
+    },
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-04-set-a-response.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-04-set-a-response.png",
+      "dimensions": [
+        1909,
+        1041
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          0,
+          961,
+          70,
+          1041
+        ]
+      ],
+      "sha256": "2d8b4ada24b91acaedbfda64220f941992312f7028a1b1200626759e1af9f0f2",
+      "notes": [
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+      ]
+    },
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-05-fresh-flash-session-b.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-05-fresh-flash-session-b.png",
+      "dimensions": [
+        1909,
+        1041
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          0,
+          961,
+          70,
+          1041
+        ]
+      ],
+      "sha256": "6824c01cb9d35aadc7b1b41adeb933e443ef3adb2d1168c23cc44e95ef1b539e",
+      "notes": [
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+      ]
+    },
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-06-set-a-audit-and-repair.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-06-set-a-audit-and-repair.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1526,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "e1012ecbdcb70f6cf1af701cc439e3305c7c51501c68dd12c72be684f09bf2c8",
+      "notes": [
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+      ]
+    },
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-07-targeted-revision-before-rerun.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-07-targeted-revision-before-rerun.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1526,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "fd611e1f8925c4223160bab53da97a98e791fca6a4bcd0d6de816c8494192e28",
+      "notes": [
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+      ]
+    },
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-08-set-b-response.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-08-set-b-response.png",
+      "dimensions": [
+        1909,
+        1041
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          0,
+          961,
+          70,
+          1041
+        ]
+      ],
+      "sha256": "a5d028b5f01bbbe7ade8eb0c994c6f0e46eaed16117f1970e30831fe65760b4e",
+      "notes": [
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+      ]
+    },
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-09-set-b-source-tail.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-09-set-b-source-tail.png",
+      "dimensions": [
+        1909,
+        1041
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          0,
+          961,
+          70,
+          1041
+        ]
+      ],
+      "sha256": "ce133e9ced4e2a23bebd1e823f996088148733485ca4614f3eb9e5058081f755",
+      "notes": [
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+      ]
+    },
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-10-set-b-audit.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-10-set-b-audit.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1526,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "0230bad93d5486e1486f3083c14fdce18eb4668319d6c5a9dc60a722bb8e80e9",
+      "notes": [
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+      ]
+    },
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-11-targeted-rerun-wait.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-11-targeted-rerun-wait.png",
+      "dimensions": [
+        1909,
+        1041
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          0,
+          961,
+          70,
+          1041
+        ]
+      ],
+      "sha256": "bb65128e3d21f4e84d427f93e56d6737912495977191d2ec73bd0d821e60896d",
+      "notes": [
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+      ]
+    },
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-12-targeted-rerun-unscored.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-12-targeted-rerun-unscored.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1526,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "0d359ee5381788a8db2476b3afa0512b766904e76e2ddcf2b62c95beec0078fb",
+      "notes": [
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+      ]
+    },
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-13-maintained-checked-faq.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-13-maintained-checked-faq.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1526,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "a7ccb765f49d1a9a46b91f9d1523054f6e467566ddefeac1698a60bc827b533a",
+      "notes": [
+        "Original-dimension real-app stage capture, avatar masked. AI-agent author reference, not a human manual baseline. Predefined rubric; A omission and prompt-contract mismatch; B fresh reordered repeat. No productivity gain or independent learner timing claimed."
+      ]
+    },
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-14-final-ledger-and-limits.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-14-final-ledger-and-limits.png",
+      "dimensions": [
+        1591,
+        868
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          1526,
+          0,
+          1591,
+          65
+        ]
+      ],
+      "sha256": "506a27183c7cee1c129b6a60b73272e8bae826788f218d3ffb757533383f0c74",
+      "notes": [
+        "Original-dimension real-app capture; avatar masked. C returned to composer with no answer after a generating checkpoint; no cause or score established. No retry submitted."
+      ]
+    },
+    "06-notebooklm-gemini/07-ai-pilot/images/c06-07-15-rerun-returned-to-composer.jpg": {
+      "source": "_design/screenshots/full/06-notebooklm-gemini/07-ai-pilot/c06-07-15-rerun-returned-to-composer.png",
+      "dimensions": [
+        1909,
+        1041
+      ],
+      "kind": "application-window",
+      "approved_crop": null,
+      "privacy_masks": [
+        [
+          0,
+          961,
+          70,
+          1041
+        ]
+      ],
+      "sha256": "3cdad1c040444042fe69834a4705c9f4458fb36f1926a275cb08c6f0626207a1",
+      "notes": [
+        "Original-dimension real-app capture; avatar masked. C returned to composer with no answer after a generating checkpoint; no cause or score established. No retry submitted."
+      ]
     }
   },
   "missing_originals": [
