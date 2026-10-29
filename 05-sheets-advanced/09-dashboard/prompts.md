@@ -1,4 +1,4 @@
-# 09 - Build a Dashboard: Prompts and Values
+# 09 - Build a Dashboard: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -8,8 +8,7 @@ Copy the values below when following the chapter. Review pasted text before subm
 =SPARKLINE(Analysis!B16:E16)
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -17,7 +16,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Audience questions: Which project has the largest Delivered amount? How much Amount remains Pending? Which practice week has the largest all-orders Amount? PO025 extension: PJ-A, Planning, IT01, Quantity 2, UnitCost 45, Delivered, week 4.
 ```
 
-## Captured Author-Run Reference
+## Part 3: Captured Author-Run Reference
 
 Use separate **Dashboard Data**, **Dashboard**, and **Dashboard Contract** tabs. Earlier Analysis B16:E16 is occupied. Formulas below describe the final baseline; build them in guide order and record predictions before changing source. All input data is fictional.
 
@@ -159,4 +158,4 @@ Refresh limit	No manual refresh was required for these existing-row value tests.
 
 ### Controlled refresh tests
 
-Maintained workbook E2:2 to 3, observe +45 then restore 2. Separate whole-workbook copy E2:2 to 4, observe +90 then restore 2. Never perform the copy test on maintained source. Copy-test expected KPIs:24 /3248 /2028 /1568; chart PJ-A1070; Week 1818; Delivered leader PJ-A646. Final baseline:24 /3158 /1938 /1478; weeks 728/754/850/826; Delivered leader PJ-B578, Pending 460, peak week 3 at 850. Independent PO025 extension is not covered by existing-row refresh.
+Maintained workbook E2:2 to 3, observe +45 then restore 2. Separate whole-workbook copy E2:2 to 4, observe +90 then restore 2. Never perform the copy test on maintained source. Copy-test expected KPIs: 24 /3248 /2028 /1568; chart PJ-A1070; Week 1818; Delivered leader PJ-A646. Final baseline: 24 /3158 /1938 /1478; weeks 728/754/850/826; Delivered leader PJ-B578, Pending 460, peak week 3 at 850. Independent PO025 extension is not covered by existing-row refresh.

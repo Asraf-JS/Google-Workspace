@@ -1,4 +1,4 @@
-# 05 - Match Records and Handle Errors: Prompts and Values
+# 05 - Match Records and Handle Errors: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -24,8 +24,7 @@ LookupRate
 =IFNA(VLOOKUP("IT99",Rates!$A$2:$D$7,3,FALSE),"Unmapped item")
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -33,7 +32,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Lookup challenge: Known IT01 and IT06; unknown IT99; blank; space-padded IT03. Duplicate-test mapping adds IT03 with UnitCost 99 only on a disposable copy. Baseline IT03 remains 30. Keep the supplied six-key Rates source intact.
 ```
 
-## Captured Author-Run Reference
+## Part 3: Captured Author-Run Reference
 
 Fictional training material. Use separate practice/copy tabs, preserve raw keys and record expectations before actual results. This is not independent learner validation.
 

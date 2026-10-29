@@ -1,4 +1,4 @@
-# 04 - Build a Source-Based Notebook: Prompts and Values
+# 04 - Build a Source-Based Notebook: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -16,8 +16,7 @@ What decisions are still needed before the pilot starts? Use only these sources.
 What is the approved pilot start date?
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -25,7 +24,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Conflict extracts, separate test context: A: “Proposed practice A: contributors prepare updates on Friday. Approval not recorded.” B: “Proposed alternative B: contributors prepare updates on Wednesday. Approval not recorded.” Neither establishes an approved replacement for the original project facts. Do not pick an approved day from titles or upload order.
 ```
 
-## Evidence Question Bank
+## Part 3: Evidence Question Bank
 
 1. What is the pilot’s purpose and duration?
 2. Which three teams participate?
@@ -36,7 +35,7 @@ Conflict extracts, separate test context: A: “Proposed practice A: contributor
 
 Keep source facts separate from inferred workflow. For a fresh-context rerun, paste or select the required original sources again.
 
-## Source labels and selection
+## Part 4: Source labels and selection
 
 ```text
 S1 - project-facts.txt - supplied original

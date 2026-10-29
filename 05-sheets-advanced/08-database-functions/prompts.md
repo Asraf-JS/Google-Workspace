@@ -1,4 +1,4 @@
-# 08 - Query Structured Criteria: Prompts and Values
+# 08 - Query Structured Criteria: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -28,8 +28,7 @@ Average delivered unit cost
 =DAVERAGE(Orders!A1:J25,"UnitCost",A10:A11)
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -37,7 +36,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Criteria cases: Status=Delivered AND Project=PJ-A; Status=Delivered OR Status=Pending; Status=Delivered OR Project=PJ-A. The last case overlaps. DCOUNT uses numeric Quantity; OrderID is text and must not be treated as a numeric record count.
 ```
 
-## Captured Author-Run Reference
+## Part 3: Captured Author-Run Reference
 
 Use a separate **Database Analysis** tab because the earlier Analysis cells are occupied. Maintained source is **Orders A1:J25**. Predict results before actual formulas. These cards show the final corrected source-derived mean 352/18; the historical first-pass prediction 23 in screenshots is investigated in the guide. Independent learner work remains a separate task.
 
@@ -251,7 +250,7 @@ Practice placement	Separate Database Analysis tab avoids existing Analysis A10:D
 Delivered	DSUM1478; DCOUNT Quantity 12; DAVERAGE UnitCost 23; text OrderID DCOUNT0 versus DCOUNTA12
 AND	Status and Project on same row: Delivered AND PJ-A gives 556/4/25
 Disjoint OR	Status alternatives on separate rows: Delivered OR Pending gives 1938/18/19.55555556
-Overlapping OR	Separate Delivered row and PJ-A row:1902/16/23.1875; each matching record once
+Overlapping OR	Separate Delivered row and PJ-A row: 1902/16/23.1875; each matching record once
 Overlap proof	Delivered 1478 + PJ-A980 - overlap 556 =1902; counts 12+8-4=16
 Source IDs	FILTER lists reconcile 4/18/16 unique IDs and amounts 556/1938/1902; saved views DB8 Delivered and DB8 Delivered AND PJ-A
 Field types	Test table: numeric Quantity count 2 includes zero; populated Quantity 3 includes text; numeric UnitCost mean 15 ignores blank/text

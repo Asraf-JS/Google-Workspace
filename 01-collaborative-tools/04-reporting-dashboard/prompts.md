@@ -1,6 +1,6 @@
-# 04 - Clean, Calculate and Stress-Test a Reporting Dashboard: Prompts and Values
+# 04 - Clean, Calculate and Stress-Test a Reporting Dashboard: Prompts
 
-## Guided Formulas
+## Part 1: Guided Formulas
 ```text
 Tasks!I2: =H2-G2
 Summary!B2: =COUNTIF(Tasks!$F$2:$F$13,A2)
@@ -10,7 +10,7 @@ Summary!F2: =SUMIF(Tasks!$B$2:$B$13,D2,Tasks!$H$2:$H$13)
 Summary!G2: =F2-E2
 ```
 Enter formulas in the named cells without the `Tasks!I2:` labels. The fixed ranges are intentional: diagnose and repair them during the new-record challenge.
-## Labels
+## Part 2: Labels
 ```text
 Team | Planned | Actual | Variance
 Planning
@@ -18,7 +18,7 @@ Procurement
 Site Coordination
 Pilot task status
 ```
-## Status Intake Headings
+## Part 3: Status Intake Headings
 ```text
 Record | Raw status | Normalised status | Reason
 ```

@@ -1,4 +1,4 @@
-# 02 - Build Conditional Calculations: Prompts and Values
+# 02 - Build Conditional Calculations: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -28,8 +28,7 @@ ActiveAmount
 =IF(F2<100,"Low",IF(F2<200,"Medium","High"))
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -37,7 +36,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Logic matrix must cover below/on/above thresholds, zero quantity, Delivered, Pending and Cancelled. Practice bands: Low <100; Medium 100 to <200; High >=200. Exception: Pending AND Amount >=200. These are training rules, not procurement policy.
 ```
 
-## Captured Conditional-Calculation Reference
+## Part 3: Captured Conditional-Calculation Reference
 
 Preserve the supplied K1 fictional-data label in M1 before using K for ActiveAmount. Original A:I inputs, Rates, Source Snapshot and intake audit remain intact. J2=E2*F2 and K2=IF(G2="Cancelled",0,J2), filled to 25; source totals 3158 and 1938. Spot checks J2/J13/J25 are 90/32/64.
 
@@ -118,7 +117,7 @@ LT20	1	201	=B21*C21	Pending	High		TRUE
 LT21	1	201	=B22*C22	Cancelled	High		FALSE
 ```
 
-G2 **=IF(D2<100,"Low",IF(D2<200,"Medium","High"))**; I2 **=AND(E2="Pending",D2>=200)**; J2 **=AND(F2=G2,H2=I2)**. Fill each to 22. Expected 21 passes/0 mismatches, 2 positive flags, 3 zero-quantitycases,6High/9Medium/6Low. Synthetic Pending 200/201 exercise the positive flag branch; baseline remains 0.
+G2 **=IF(D2<100,"Low",IF(D2<200,"Medium","High"))**; I2 **=AND(E2="Pending",D2>=200)**; J2 **=AND(F2=G2,H2=I2)**. Fill each to 22. Expected 21 passes/0 mismatches, 2 positive flags, 3 zero-quantitycases, 6High/9Medium/6Low. Synthetic Pending 200/201 exercise the positive flag branch; baseline remains 0.
 
 ### Repaired mixed-reference scenario
 

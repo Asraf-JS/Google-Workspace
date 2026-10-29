@@ -1,4 +1,4 @@
-# 03 - Calculate and Copy Formulas: Prompts and Values
+# 03 - Calculate and Copy Formulas: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -40,8 +40,7 @@ Practice multiplier
 =G2*$L$9
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -49,8 +48,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Calculation pairs Planned/Actual: 100/80; 100/120; 100/0; 100/blank. The final blank means “not supplied” for this test, not a confirmed zero. Use this to distinguish calculation mechanics from data meaning.
 ```
 
-
-## Captured Reference Ranges
+## Part 3: Captured Reference Ranges
 
 Tasks: I1 Variance; I2 **=H2-G2**, fill I2:I13. Summary K1:L7: L2 **=SUM(G2:G13)** →10400; L3 **=SUM(H2:H13)** →6800; L4 **=SUM(I2:I13)** →-3600; L6 **=AVERAGE(G2:G13)** →866.666… (display RM866.67); L7 **=COUNT(G2:G13)** →12.
 

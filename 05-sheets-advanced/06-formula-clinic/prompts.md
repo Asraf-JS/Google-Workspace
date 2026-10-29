@@ -1,11 +1,10 @@
-# 06 - Complete the Formula Clinic: Prompts and Values
+# 06 - Complete the Formula Clinic: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
 Use the bounded formulas and test cards below on the separate clinic copy. Record expected behaviour before introducing a fault. Restore every temporary source change.
 
-
-## Depth Case Input
+## Part 1: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -13,7 +12,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Extra fault choices, clinic copy only: change a numeric quantity to text “four”; insert a duplicate lookup key; replace a blank/missing-rate outcome with 0; shorten one delivered summary range by two rows. Diagnose the cause before restoring from Source Snapshot.
 ```
 
-## Captured Author-Run Reference
+## Part 2: Captured Author-Run Reference
 
 Create a whole-workbook copy named **GW - Sheets Advanced - Formula Clinic**. Keep sharing/comments unchecked. Use the new copy for every mutation below. These are guided reference cards, not a completed independent challenge.
 

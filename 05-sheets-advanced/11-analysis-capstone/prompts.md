@@ -1,11 +1,10 @@
-# 11 - Complete the Analysis Capstone: Prompts and Values
+# 11 - Complete the Analysis Capstone: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
 Use the exact staged inputs and formulas below. Predict each test before entering its actual calculation.
 
-
-## Depth Case Input
+## Part 1: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -13,7 +12,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Capstone questions: Largest Delivered amount by project; Pending records with Amount >=200 and their IDs; highest all-orders Amount by practice week. Scenario PO025: PJ-A, Planning, IT01, Quantity 2, UnitCost 45, Delivered, week 4. No actual budget or profit data is supplied.
 ```
 
-## Captured Author-Run Reference
+## Part 2: Captured Author-Run Reference
 
 Build the isolated **GW - Sheets Advanced - Capstone** copy in guide order. Source baseline is Orders A1:K25 and Rates A1:D7. Paste only the current stage; later blocks would reveal objects not created yet. Independent reviewer/spoken work and classroom timing remain pending.
 
@@ -163,7 +162,6 @@ Delivered-only comparison	Amount (RM)	Records
 ='Capstone Calculations'!A2	='Capstone Calculations'!B2	='Capstone Calculations'!C2
 ='Capstone Calculations'!A3	='Capstone Calculations'!B3	='Capstone Calculations'!C3
 ='Capstone Calculations'!A4	='Capstone Calculations'!B4	='Capstone Calculations'!C4
-
 
 Audience question	Answer	Amount (RM)
 Largest Delivered project	='Capstone Calculations'!B8	='Capstone Calculations'!C8

@@ -2,9 +2,13 @@
 
 **Your assignment:** Build a navigable draft project hub, audit resource access and complete a source-to-report change rehearsal.
 
-**Target allocation:** 70 minutes: 20 demonstration and discussion, 25 guided build, 20 independent challenge, 5 verification and repair. These are design allocations, not measured completion times. Finish the challenge and checks before moving on; finishing the guided clicks is not completion of the lab.
+> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
-**Status:** partial real-app reference route captured: three-page unpublished Site, two native embeds, direct resource links, separately inspected Site/tracker/deck permissions, verified resource matrix, five opened operating-guide links and an author navigation improvement. Desktop and phone Preview remained blank, so responsive layout and visitor navigation are unverified. The independent change/restoration rehearsal, partner handover, visitor-access test and classroom timings remain pending.
+**Estimated time:** 70 minutes, planned as 20 demonstration and discussion, 25 guided build, 20 independent practice and 5 verification and repair. Not yet timed with learners. Finish the challenge and checks before moving on; finishing the guided clicks is not completion of the lab.
+
+> **Status:** partial real-app reference route captured: three-page unpublished Site, two native embeds, direct resource links, separately inspected Site/tracker/deck permissions, verified resource matrix, five opened operating-guide links and an author navigation improvement. Desktop and phone Preview remained blank, so responsive layout and visitor navigation are unverified. The independent change/restoration rehearsal, partner handover, visitor-access test and classroom timings remain pending.
+
+---
 
 ## What You Will Learn
 
@@ -17,7 +21,7 @@
 
 Use the workspace register, checked brief, meeting record, final tracker and revised Slides deck. You need Google Sites. If Sites is disabled, produce an equivalent linked hub Doc and mark Sites creation and preview as untested. Publishing is outside this private draft exercise.
 
-Use the [copy-paste page](./prompts.md) and [shared practice files](../../shared/sample-files/README.md). Keep fictional role names as text. Use only trainer-assigned test identities for any access test.
+Use the [prompts page](./prompts.md) and [shared practice files](../../shared/sample-files/README.md). Keep fictional role names as text. Use only trainer-assigned test identities for any access test.
 
 ## 6.1 Design the Hub for Its Visitors
 
@@ -25,23 +29,35 @@ Use the [copy-paste page](./prompts.md) and [shared practice files](../../shared
 
 ![The blank draft has its banner before other pages, body content or embeds are added](./images/c01-06-draft-banner.jpg)
 
+*The blank draft has its banner before other pages, body content or embeds are added.*
+
 2. Create pages **Overview**, **Reporting** and **Decisions and Actions**. Write one sentence on each explaining the visitor’s next useful action.
 
 ![Three distinct pages exist before the detailed content and resource embeds](./images/c01-06-three-pages.jpg)
 
+*Three distinct pages exist before the detailed content and resource embeds.*
+
 ![Overview now tells the visitor what to do next; detailed context is still absent](./images/c01-06-visitor-action.jpg)
+
+*Overview now tells the visitor what to do next; detailed context is still absent.*
 
 3. On Overview add the project purpose, unresolved start date and proposed budget caveat. Link to the checked brief. Avoid copying long sections that could become stale.
 
 ![Overview adds the checked context and brief link without claiming an approved budget or start date](./images/c01-06-overview.jpg)
 
+*Overview adds the checked context and brief link without claiming an approved budget or start date.*
+
 4. On Reporting add a short status-definition guide and the Friday reporting cadence. Explain where to edit source records and where readers should look for checked updates.
 
 ![Reporting guidance directs edits to the source and preserves ambiguity for clarification](./images/c01-06-reporting-guidance.jpg)
 
+*Reporting guidance directs edits to the source and preserves ambiguity for clarification.*
+
 5. On Decisions and Actions add links to the meeting record and the brief’s decision section. Keep open decisions visibly separate from completed preparation work.
 
 ![Open decisions and preparation actions are distinguished, with links to their maintained records](./images/c01-06-decisions.jpg)
+
+*Open decisions and preparation actions are distinguished, with links to their maintained records.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -58,9 +74,15 @@ The draft hub has three distinct purposes and useful navigation. It directs edit
 
 ![The direct native tracker embed is added before the deck embed and link captions](./images/c01-06-tracker-embed.jpg)
 
+*The direct native tracker embed is added before the deck embed and link captions.*
+
 ![Insert > Embed recognises the native presentation before insertion; the account-specific URL is masked](./images/c01-06-presentation-preview.jpg)
 
+*Insert > Embed recognises the native presentation before insertion; the account-specific URL is masked.*
+
 ![Sites warns that site access would not grant file access; the private route used Don’t share](./images/c01-06-access-warning.jpg)
+
+*Sites warns that site access would not grant file access; the private route used Don’t share.*
 
 2. Add a link to the project working folder. Embed the practice calendar only if an assigned training calendar exists; otherwise include a clearly labelled **Calendar integration pending** note. Do not expose a personal calendar.
 
@@ -68,17 +90,27 @@ The draft hub has three distinct purposes and useful navigation. It directs edit
 
 ![Direct file links, proposed maintainers, Calendar integration pending and the visitor-test limitation accompany the embeds](./images/c01-06-links-captions.jpg)
 
+*Direct file links, proposed maintainers, Calendar integration pending and the visitor-test limitation accompany the embeds.*
+
 4. Update the Workspace Register with a resource matrix: resource URL, intended audience, current file access, hub access, test performed and result.
 
 ![The verified seven-row, six-column matrix distinguishes resource access from hub access; URL keys are maintained separately in the private register](./images/c01-06-access-matrix.jpg)
+
+*The verified seven-row, six-column matrix distinguishes resource access from hub access; URL keys are maintained separately in the private register.*
 
 5. Inspect the Site sharing settings and each embedded file’s **Share** dialog separately. If using a training Shared Drive, inspect inherited membership too. Site access does not itself grant direct access to every embedded file.
 
 ![The draft Site is Restricted; its future published-site audience setting is separate and no site has been published](./images/c01-06-site-access.jpg)
 
+*The draft Site is Restricted; its future published-site audience setting is separate and no site has been published.*
+
 ![The embedded deck’s own Share dialog remains Restricted; account details are masked](./images/c01-06-deck-access.jpg)
 
+*The embedded deck’s own Share dialog remains Restricted; account details are masked.*
+
 ![The native tracker’s own Share dialog is checked separately and remains Restricted](./images/c01-06-tracker-access.jpg)
+
+*The native tracker’s own Share dialog is checked separately and remains Restricted.*
 
 6. If an assigned test viewer and an authorised restricted published sandbox already exist, test that route and log the actual result. Otherwise record **Preview only - visitor access untested**. A preview in your own editor account cannot prove a visitor’s access.
 
@@ -105,17 +137,29 @@ Every embed has a useful caption and direct link. The resource matrix separates 
 
 ![The one-page operating guide includes five actual hyperlinks, the update checklist and two recovery procedures](./images/c01-06-operating-guide.jpg)
 
+*The one-page operating guide includes five actual hyperlinks, the update checklist and two recovery procedures.*
+
 5. Give a partner the hub and checklist, or use a fresh read-through if working alone. Ask them to locate the source tracker, open decisions and refresh instructions. Record one navigation or wording improvement.
 
 ![Before the author read-through improvement, Decisions and Actions appeared before Reporting](./images/c01-06-navigation-before.jpg)
 
+*Before the author read-through improvement, Decisions and Actions appeared before Reporting.*
+
 ![The saved order now follows Overview, Reporting, then Decisions and Actions](./images/c01-06-navigation-after.jpg)
+
+*The saved order now follows Overview, Reporting, then Decisions and Actions.*
 
 ![The author check records the opened guide links, navigation improvement and unresolved preview/access limits](./images/c01-06-author-check.jpg)
 
+*The author check records the opened guide links, navigation improvement and unresolved preview/access limits.*
+
 ![The author read-through also widened clipped direct-link buttons so each file label is readable](./images/c01-06-readable-links.jpg)
 
+*The author read-through also widened clipped direct-link buttons so each file label is readable.*
+
 ![Decision-page link tiles are widened too, preserving the separate open-decision wording](./images/c01-06-readable-decisions.jpg)
+
+*Decision-page link tiles are widened too, preserving the separate open-decision wording.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -126,7 +170,7 @@ The workflow can be followed without the author pointing at each control. Previe
 
 <!-- PARTIAL: 6.3 guide, five native links and navigation improvement captured; desktop/phone Preview blank. -->
 
-## Independent Challenge
+## Independent Practice
 
 Complete the Lab 6 handover card without following the earlier step lists.
 
@@ -138,7 +182,7 @@ Complete the Lab 6 handover card without following the earlier step lists.
 
 Keep the site as a draft. If publication is needed for a later classroom access test, the trainer must provide the authorised destination and audience first.
 
-## Evidence to Hand Over
+### Evidence to Hand Over
 
 - Three-page draft Site or clearly labelled linked-Doc fallback.
 - Resource/access matrix, preview results and one recorded navigation improvement.
@@ -153,6 +197,6 @@ Keep the site as a draft. If publication is needed for a later classroom access 
 | The hub repeats outdated narrative | Link to maintained source material and update the short summary after checking the facts. |
 | Sites is disabled | Build the linked-Doc fallback and mark Sites-specific checks pending. |
 
-## Check Yourself
+## Lesson Summary
 
-Explain one error you found, how you proved the correction, and which downstream result it could affect. A finished-looking file alone is not evidence that it is correct.
+**Check yourself:** Explain one error you found, how you proved the correction, and which downstream result it could affect. A finished-looking file alone is not evidence that it is correct.

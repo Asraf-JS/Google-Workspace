@@ -1,11 +1,10 @@
-# 07 - Share and Prepare Output: Prompts and Values
+# 07 - Share and Prepare Output: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
 This chapter uses the supplied files and visible controls. No additional prompt or typed code is required.
 
-
-## Depth Case Input
+## Part 1: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -13,8 +12,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Output brief: Sponsor wants a readable summary of the 12-task baseline and planned costs. Contributor needs all task rows and labels. Exclude Entry Practice, temporary rule tests and unrelated helper notes from the sponsor handout.
 ```
 
-
-## Captured Output Reference
+## Part 2: Captured Output Reference
 
 Actual access display: Restricted, one listed owner; no additional people/groups or inherited group access displayed. Roles are proposed only; no invitation or recipient access test. Publish to the web says not published and was closed without Publish.
 

@@ -1,4 +1,4 @@
-# 04 - Clean and Organise Records: Prompts and Values
+# 04 - Clean and Organise Records: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -20,8 +20,7 @@ PlannedCosts
 =SUM(PlannedCosts)
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -29,8 +28,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Cleaning intake (TaskID | Team | Status): C001 |  Planning  | complete; C002 | Procurement | In Progress; C003 | Site Coordination | Blocked; C002 | Procurement | In Progress; C004 | Planning | Not Started. C001 has surrounding team spaces. The duplicate is identical; Blocked remains unresolved. These are separate practice records.
 ```
 
-
-## Exact DirtyText.csv Records
+## Part 3: Exact DirtyText.csv Records
 
 For manual entry, treat each CSV field below as a separate cell and preserve the spaces inside its quotation marks. Do not paste the entire comma-separated block into one cell.
 
@@ -41,7 +39,7 @@ For manual entry, treat each CSV field below as a separate cell and preserve the
 "T003","Site Coordination ","Not Started"
 ```
 
-## Manual Raw-Entry Fallback
+## Part 4: Manual Raw-Entry Fallback
 
 CSV import remains unverified in the captured browser session. If entry trims the surrounding spaces, use a leading apostrophe in the cell editor to preserve the literal raw text; do not include that prefix in the intended stored value. DirtyText.csv raw team values are ` Planning `, `Procurement`, and `Site Coordination `, with lengths 10,11,18. TRIM produces Planning/Procurement/Site Coordination, lengths 8,11,17. Keep raw A:C and cleaned D:E separate.
 

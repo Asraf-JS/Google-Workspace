@@ -1,4 +1,4 @@
-# 07 - Summarise with Pivot Tables: Prompts and Values
+# 07 - Summarise with Pivot Tables: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -12,8 +12,7 @@ Pivot Review
 =SUM(Amount)/COUNTA(OrderID)
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -21,7 +20,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 PO025, challenge copy only: PJ-A | Planning | IT01 | Quantity 2 | UnitCost 45 | Delivered | week 4 | Additional practice line. Amount is quantity times cost. Extend both formulas and pivot source range; do not alter the baseline workbook.
 ```
 
-## Captured Author-Run Reference
+## Part 3: Captured Author-Run Reference
 
 Use native **Insert > Pivot table**, not a typed summary. Baseline source **Orders A1:K25** contains 24 records. Keep source edits for the named whole-workbook **Pivot Coverage** copy only. These cards support guided casework, not an independent learner submission.
 

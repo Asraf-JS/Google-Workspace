@@ -14,18 +14,18 @@ Gemini Notebook (formerly NotebookLM) is the current product name. Google announ
 
 **Your result:** A checked FAQ, source-supported briefing, audio overview and tested prompt playbook.
 
-## Proposed Chapters
+## Chapters
 
-| Day | # | Chapter | Prompts and values | What you will do | Minutes |
+| Day | # | Chapter | Prompts | What you will do | Time |
 |---|---|---|---|---|---|
-| 1 | 01 | [Prepare the AI Workspace](./01-ai-workspace/README.md) | [Prompts and values](./01-ai-workspace/prompts.md) | Create a Source Manifest and Evaluation Plan. | 40 |
+| 1 | 01 | [Prepare the AI Workspace](./01-ai-workspace/README.md) | [Prompts](./01-ai-workspace/prompts.md) | Create a Source Manifest and Evaluation Plan. | 40 min |
 | 1 | 02 | [Write and Refine Useful Prompts](./02-prompt-design/README.md) | Run a Controlled Prompt Comparison. | 50 |
-| 1 | 03 | [Apply Gemini Across Workspace](./03-gemini-workflow/README.md) | [Prompts and values](./03-gemini-workflow/prompts.md) | Trace One Evidence Set Through Three Outputs. | 55 |
-| 1 | 04 | [Build a Source-Based Notebook](./04-source-notebook/README.md) | [Prompts and values](./04-source-notebook/prompts.md) | Audit Citations, Source Selection and Conflicts. | 60 |
-| 1 | 05 | [Create and Check Briefings](./05-briefing-audio/README.md) | [Prompts and values](./05-briefing-audio/prompts.md) | Create a Briefing Package and Audit Generated Media. | 50 |
-| 1 | 06 | [Evaluate Responsible Use](./06-responsible-review/README.md) | [Prompts and values](./06-responsible-review/prompts.md) | Build and Apply an Evidence Review Protocol. | 45 |
-| 1 | 07 | [Run an AI Pilot](./07-ai-pilot/README.md) | [Prompts and values](./07-ai-pilot/prompts.md) | Run a Small, Interpretable AI Evaluation. | 50 |
-| 1 | 08 | [Share the Prompt Playbook](./08-prompt-playbook/README.md) | [Prompts and values](./08-prompt-playbook/prompts.md) | Make a Playbook Another User Can Reproduce. | 40 |
+| 1 | 03 | [Apply Gemini Across Workspace](./03-gemini-workflow/README.md) | [Prompts](./03-gemini-workflow/prompts.md) | Trace One Evidence Set Through Three Outputs. | 55 min |
+| 1 | 04 | [Build a Source-Based Notebook](./04-source-notebook/README.md) | [Prompts](./04-source-notebook/prompts.md) | Audit Citations, Source Selection and Conflicts. | 60 min |
+| 1 | 05 | [Create and Check Briefings](./05-briefing-audio/README.md) | [Prompts](./05-briefing-audio/prompts.md) | Create a Briefing Package and Audit Generated Media. | 50 min |
+| 1 | 06 | [Evaluate Responsible Use](./06-responsible-review/README.md) | [Prompts](./06-responsible-review/prompts.md) | Build and Apply an Evidence Review Protocol. | 45 min |
+| 1 | 07 | [Run an AI Pilot](./07-ai-pilot/README.md) | [Prompts](./07-ai-pilot/prompts.md) | Run a Small, Interpretable AI Evaluation. | 50 min |
+| 1 | 08 | [Share the Prompt Playbook](./08-prompt-playbook/README.md) | [Prompts](./08-prompt-playbook/prompts.md) | Make a Playbook Another User Can Reproduce. | 40 min |
 
 ## Inputs and Checks
 

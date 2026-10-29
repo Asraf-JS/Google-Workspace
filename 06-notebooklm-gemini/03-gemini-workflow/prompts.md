@@ -1,11 +1,10 @@
-# 03 - Apply Gemini Across Workspace: Prompts and Values
+# 03 - Apply Gemini Across Workspace: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
 Use the source files and the sample prompts below. Review all suggested actions and output against the originals.
 
-
-## Depth Case Input
+## Part 1: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -13,7 +12,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Delay scenario: Bala says the status-definition review is delayed and no replacement due week is confirmed. His original commitment was practice week 1. Other preparation actions and both unresolved project decisions remain unchanged. This is a scenario change, not a real message.
 ```
 
-## Evidence Question Bank
+## Part 2: Evidence Question Bank
 
 1. What is the pilot’s purpose and duration?
 2. Which three teams participate?
@@ -24,7 +23,7 @@ Delay scenario: Bala says the status-definition review is delayed and no replace
 
 Keep source facts separate from inferred workflow. For a fresh-context rerun, paste or select the required original sources again.
 
-## Panel-only Examples
+## Part 3: Panel-only Examples
 
 ```text
 Reply in chat text only. Do not insert, edit, or propose changes to the document. Summarise the project fact sheet and attached proposed guidance in a coordinator update of about 150 words. Preserve the unagreed start date, four-week duration, Friday cadence, final-two-week success measure and proposed, unapproved RM 12,000 ceiling. Label proposed practice and missing decisions.

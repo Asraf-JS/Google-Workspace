@@ -1,11 +1,10 @@
-# 12 - Review and Handover: Prompts and Values
+# 12 - Review and Handover: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
 Use the staged runbook text, exact formula blocks and native pivot actions below. Preserve the recovery baseline.
 
-
-## Depth Case Input
+## Part 1: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -13,7 +12,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Independent PO026, separate baseline-derived copy: PJ-B | Procurement | IT03 | Quantity 10 | UnitCost 30 | Pending | week 4 | Handover exception test. Do not combine it with PO025 unless you explicitly define and reconcile that additional scenario.
 ```
 
-## Captured Author-Run Reference
+## Part 2: Captured Author-Run Reference
 
 Build the recovery copy **GW - Sheets Advanced - Handover Baseline** first. Copy it as a whole workbook for **GW - Sheets Advanced - PO025 Extension Test**. Paste only the current stage. Final formulas below are for the extension copy; do not overwrite the preserved 24-order baseline.
 

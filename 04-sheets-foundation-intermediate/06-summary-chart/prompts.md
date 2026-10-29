@@ -1,4 +1,4 @@
-# 06 - Summarise and Visualise: Prompts and Values
+# 06 - Summarise and Visualise: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -16,8 +16,7 @@ Copy the values below when following the chapter. Review pasted text before subm
 Task count by status
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -25,8 +24,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Troubleshooting card: A status chart shows Complete, In Progress, Not Started and Total. Another summary says 4, 4 and 0 even though 12 task rows remain. Investigate source range and exact criterion spelling before altering the chart design.
 ```
 
-
-## Captured Conditional Summary Reference
+## Part 3: Captured Conditional Summary Reference
 
 ```text
 =SUMIF(Tasks!$B$2:$B$13,D2,Tasks!$G$2:$G$13)

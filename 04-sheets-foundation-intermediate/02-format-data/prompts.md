@@ -1,11 +1,10 @@
-# 02 - Enter and Format Reliable Data: Prompts and Values
+# 02 - Enter and Format Reliable Data: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
 Use the supplied source and the explicit practice values below. Keep dates and type tests outside the original register.
 
-
-## Depth Case Input
+## Part 1: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -13,7 +12,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Formatting intake: PlannedCost “RM 600” supplied as text; DueWeek “next Monday” with no agreed calendar start; a long Task description clipped in a narrow column. Treat type, missing date evidence and presentation as three different issues.
 ```
 
-## Exact Practice Values
+## Part 2: Exact Practice Values
 
 - Source costs: Tasks!G2:H13, custom Malaysian Ringgit **RM1,000** without decimals.
 - Source week indices: Tasks!E2:E13, custom number format **0**.

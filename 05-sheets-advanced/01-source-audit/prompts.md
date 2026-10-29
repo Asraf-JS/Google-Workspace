@@ -1,4 +1,4 @@
-# 01 - Audit the Source Register: Prompts and Values
+# 01 - Audit the Source Register: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -16,8 +16,7 @@ Source Snapshot
 Analysis
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -25,7 +24,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Separate intake anomalies: duplicate PO001 with changed quantity; missing OrderID; ItemCode IT99; Quantity “four”; valid zero quantity; valid Cancelled status. Do not inject these into Orders. Other fields can be copied from a source row only in Audit Intake and labelled as practice.
 ```
 
-## Captured Source-Audit Reference
+## Part 3: Captured Source-Audit Reference
 
 The supplied source has 24 unique OrderIDs PO001–PO024, six unique Rates keys IT01–IT06, Quantity total 140 and unit-price checksum552 (not spend). All 24 Quantity/UnitCost/Week entries are numeric, all 24 item keys map, statuses are 12 Delivered/6 Pending/6 Cancelled. Source tables retain their supplied values and formats; Analysis is empty. Manual upload handoff was required; native conversion and audit were executed in the application.
 

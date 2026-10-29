@@ -1,4 +1,4 @@
-# 03 - Validate Entries and Flag Exceptions: Prompts and Values
+# 03 - Validate Entries and Flag Exceptions: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -8,8 +8,7 @@ Copy the values below when following the chapter. Review pasted text before subm
 =AND($G2="Pending",$J2>=200)
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -17,7 +16,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Synthetic coverage record, test copy only: PO-TEST | PJ-A | Planning | IT01 | Quantity 5 | UnitCost 45 | Pending | week 4 | Coverage test. Quantity candidates: 0, 2, -1, 1.5, text “two”, blank and numeric text imported from a CSV.
 ```
 
-## Captured Validation Reference
+## Part 3: Captured Validation Reference
 
 Use the separate Validation Practice tab. G2:G25: single-choice Delivered/Pending/Cancelled, strict Reject input. E2:E25: Custom formula is **=AND(ISNUMBER(E2),E2>=0,MOD(E2,1)=0)**, explicitly select Reject input (the custom editor defaulted to warning). Conditional format A2:K25: **=AND($G2="Pending",$J2>=200)**, light fill#b7e1cd. L2 uses that same formula, filled to 25.
 

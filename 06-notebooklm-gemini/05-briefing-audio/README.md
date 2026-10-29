@@ -2,13 +2,15 @@
 
 In this chapter you will produce a FAQ and audio overview, then check claims against the source pack.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
+> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
-**Target allocation:** 50 minutes: 10 explanation/demonstration, 20 guided build and casework, 15 independent challenge, 5 verification and repair. The active portion is 40 minutes by design. These are unmeasured targets awaiting a learner pilot.
+**Estimated time:** 50 minutes, planned as 10 explanation and demonstration, 20 guided build and casework, 15 independent practice and 5 verification and repair, with 40 active minutes by design. Not yet timed with learners.
 
 **Your result:** A checked FAQ and reviewed audio briefing or recorded feature limitation.
 
 > **Status:** partial author reference with 11 staged captures. FAQ checked, written briefing saved and Brief audio generated; full listening and timestamped claim audit remain pending. Independent challenge, human review and classroom timing remain pending.
+
+---
 
 ## What You Will Learn
 
@@ -24,9 +26,11 @@ Use the evidence notebook with the three processed sources. Audio generation ava
 
 ## 5.1 Build a Checked FAQ
 
-1. In the evidence notebook, keep only S1–S3 selected and request exactly five FAQ entries covering purpose/duration, teams, cadence/success, budget and unresolved decisions. Use the prompt on the copy-paste page.
+1. In the evidence notebook, keep only S1–S3 selected and request exactly five FAQ entries covering purpose/duration, teams, cadence/success, budget and unresolved decisions. Use the prompt on the prompts page.
 
 ![faq prompt](./images/c06-05-01-faq-prompt.jpg)
+
+*faq prompt.*
 
 2. Check each answer against its original passage. For the explicit no-purchase-authorisation statement, use S2; S1 provides scope context rather than that exact statement.
 
@@ -34,19 +38,29 @@ Use the evidence notebook with the three processed sources. Audio generation ava
 
 ![generated faq](./images/c06-05-02-generated-faq.jpg)
 
+*generated faq.*
+
 3. Open the cited fact sheet, scripted meeting record and proposed guidance. Read the surrounding text, not only the citation marker.
 
 > **Reference run:** The author checked all five retained answers against those original bodies.
 
 ![faq fact citation](./images/c06-05-03-faq-fact-citation.jpg)
 
+*faq fact citation.*
+
 ![faq scripted citation](./images/c06-05-04-faq-scripted-citation.jpg)
 
+*faq scripted citation.*
+
 ![faq guidance citation](./images/c06-05-05-faq-guidance-citation.jpg)
+
+*faq guidance citation.*
 
 4. Create a note named **OUTPUT - Checked FAQ - training reference** and enter the corrected five-entry FAQ with source pointers. The observed interface automatically selects a newly created note as a source. Deselect this output note before generating media from the three originals; a saved answer does not become original evidence.
 
 ![checked faq note](./images/c06-05-06-checked-faq-note.jpg)
+
+*checked faq note.*
 
 ## 5.2 Generate an Audio Overview
 
@@ -54,17 +68,23 @@ Use the evidence notebook with the three processed sources. Audio generation ava
 
 ![audio custom instructions](./images/c06-05-07-audio-custom-instructions.jpg)
 
+*audio custom instructions.*
+
 2. Choose **Generate** once. Record generation time separately from active work. Notification permission is not required for this exercise.
 
 > **Reference run:** The author prepared the written briefing and unscored audit sheet while generation was processing.
 
 ![audio generating](./images/c06-05-08-audio-generating.jpg)
 
+*audio generating.*
+
 3. The generated item was titled **Preparing the Seri Maju Reporting Pilot**, with duration **1:31**, format Brief and three sources. This confirms player operation, not factual review.
 
 > **Reference run:** Opening it started playback; the displayed counter advanced to 00:05 before the author paused it.
 
 ![audio ready](./images/c06-05-11-audio-ready.jpg)
+
+*audio ready.*
 
 ## 5.3 Review the Audio Claims
 
@@ -78,11 +98,15 @@ Use the evidence notebook with the three processed sources. Audio generation ava
 
 ![written briefing](./images/c06-05-09-written-briefing.jpg)
 
+*written briefing.*
+
 2. Prepare the manually checked fallback script and a claim-audit table. Before listening, leave timestamp/claim cells **Not yet reviewed** and verdicts **Not tested**. The script has a 60-second target; its reading duration has not been measured.
 
 > **Reference run:** The author table has six topics plus its header.
 
 ![audit sheet before listening](./images/c06-05-10-audit-sheet-before-listening.jpg)
+
+*audit sheet before listening.*
 
 3. Once listening is complete, replace the placeholders with the actual claims and approximate timestamps. Compare media with the written briefing for budget/date caveats, actors, cadence, success measure and omissions. Audit every substantive claim; do not manufacture six claims just to fill a template.
 4. If Audio Overview is unavailable in your account, use the flawed practice script on the prompts page, label that script route and retain audio generation/playback as untested.
@@ -94,7 +118,7 @@ Use the evidence notebook with the three processed sources. Audio generation ava
 
 **Author-run scope:** five FAQ entries and original passages checked, corrected output note saved and deselected, Brief audio generated from three originals, initial playback counter verified, written briefing and unscored audit table saved. Audio download failed; full listening, timestamped verdicts, independent challenge, human review and classroom timing remain pending.
 
-## Independent Challenge
+## Independent Practice
 
 Close the earlier step lists for the first attempt. Use the case input and your own reasoning. If you need help, record the hint and repeat the affected check independently.
 
@@ -104,7 +128,7 @@ Close the earlier step lists for the first attempt. Use the case input and your 
 
 3. Prepare a manifest for written FAQ, checked script and generated audio/fallback. State which is the maintained checked text and which is an output snapshot.
 
-## Evidence to Hand Over
+### Evidence to Hand Over
 
 - Written briefing, claim/timestamp audit and source-based verdicts.
 - Checked fallback script and comprehension test with a targeted revision.

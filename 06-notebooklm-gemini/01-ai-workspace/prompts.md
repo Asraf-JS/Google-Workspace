@@ -1,11 +1,10 @@
-# 01 - Prepare the AI Workspace: Prompts and Values
+# 01 - Prepare the AI Workspace: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
 Use the original source files and the staged reference tables below. Do not submit a FAQ prompt or fill in results in this lab.
 
-
-## Depth Case Input
+## Part 1: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -13,7 +12,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Core sources: project-facts.txt, meeting-record.txt, reporting-guidance.txt. Critique material: review-examples.txt. An AI-written draft is an output to check. A hypothetical customer contract or employee medical record is not part of this fictional exercise. Do not upload real examples.
 ```
 
-## Evidence Question Bank
+## Part 2: Evidence Question Bank
 
 1. What is the pilot’s purpose and duration?
 2. Which three teams participate?
@@ -24,7 +23,7 @@ Core sources: project-facts.txt, meeting-record.txt, reporting-guidance.txt. Cri
 
 Keep source facts separate from inferred workflow. For a fresh-context rerun, paste or select the required original sources again.
 
-## Captured Author-Run Reference
+## Part 3: Captured Author-Run Reference
 
 Create the sections in order. Paste only the current table, then inspect its editable cells. These author observations are examples to compare with your own account, not promises of access or policy approval.
 

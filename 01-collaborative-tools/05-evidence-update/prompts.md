@@ -1,6 +1,6 @@
-# 05 - Build an Evidence-Based Sponsor Update: Prompts and Values
+# 05 - Build an Evidence-Based Sponsor Update: Prompts
 
-## Optional Outline Prompt
+## Part 1: Optional Outline Prompt
 **Session:** new chat | **Grounding:** pasted checked brief and checked summary only
 ```text
 Reply in the side panel only. Propose five slides for a sponsor update: purpose and scope, task status, planned and actual costs, risk and proposed response, decisions requested. Give each one a title, no more than three bullets and a source check. Use only the checked brief and summary pasted below. Do not claim budget approval, a pilot start date, realised savings or measured reporting success. Label proposed actions as proposals. Do not edit a presentation.
@@ -9,7 +9,7 @@ CHECKED BRIEF:
 CHECKED SUMMARY:
 [paste your final checked task and cost summary]
 ```
-## File Names
+## Part 2: File Names
 ```text
 GW - Pilot Sponsor Update
 Sponsor update - checked baseline

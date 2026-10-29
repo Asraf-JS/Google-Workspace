@@ -1,4 +1,4 @@
-# 04 - Combine and Clean Text: Prompts and Values
+# 04 - Combine and Clean Text: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -20,8 +20,7 @@ Copy the values below when following the chapter. Review pasted text before subm
 =A2&" - "&B2
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -29,7 +28,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Identifier intake: PO001; PO024; PO1; blank; IT01; IT06; IT99; “ IT03 ”. Order IDs require PO plus three digits; mapped item keys are the six supplied Rates codes. Do not treat every extracted suffix as a valid key.
 ```
 
-## Captured Author-Run Reference
+## Part 3: Captured Author-Run Reference
 
 Fictional training material. Expectations precede actual formulas; actual results are recorded separately. Preserve spaces using single-cell entry where noted. This is not independent learner validation.
 

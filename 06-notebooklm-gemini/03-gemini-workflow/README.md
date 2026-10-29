@@ -2,13 +2,15 @@
 
 In this chapter you will draft and revise from supplied files; verify cross-file references where available.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
+> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
-**Target allocation:** 55 minutes: 10 explanation/demonstration, 25 guided build and casework, 15 independent challenge, 5 verification and repair. The active portion is 45 minutes by design. These are unmeasured targets awaiting a learner pilot.
+**Estimated time:** 55 minutes, planned as 10 explanation and demonstration, 25 guided build and casework, 15 independent practice and 5 verification and repair, with 45 active minutes by design. Not yet timed with learners.
 
 **Your result:** A checked project update and communication draft from explicit sources.
 
 > **Status:** author reference with 11 staged captures. The guided route, a native lineage table and a separate delay scenario were checked. The independent challenge, reviewer agreement and classroom timing remain pending.
+
+---
 
 ## What You Will Learn
 
@@ -28,7 +30,11 @@ Use a new practice Google Doc containing the supplied fact sheet. The reference 
 
 ![practice source fact sheet](./images/c06-03-01-practice-source-fact-sheet.jpg)
 
+*practice source fact sheet.*
+
 ![gemini panel open](./images/c06-03-02-gemini-panel-open.jpg)
+
+*gemini panel open.*
 
 2. Create a separate Doc from the supplied proposed reporting guidance. In the panel choose **Add sources → Add from Drive**, select the exact guidance document and confirm its chip. If the picker is unavailable, paste the complete guidance and record that fallback.
 
@@ -36,11 +42,17 @@ Use a new practice Google Doc containing the supplied fact sheet. The reference 
 
 ![proposed guidance source](./images/c06-03-03-proposed-guidance-source.jpg)
 
+*proposed guidance source.*
+
 ![guidance attached](./images/c06-03-04-guidance-attached.jpg)
+
+*guidance attached.*
 
 3. Request a coordinator update using both the current document and the named source. Ask for plain chat text only, without document edits, and review any proposed change before accepting it.
 
 ![update prompt](./images/c06-03-05-update-prompt.jpg)
+
+*update prompt.*
 
 4. The first author request said panel only, yet Gemini proposed inserting text into the source document. A second request explicitly saying “Do not insert, edit, or propose changes” returned a panel answer with links to both documents. A link is a pointer, not proof: inspect the original passages.
 
@@ -48,11 +60,15 @@ Use a new practice Google Doc containing the supplied fact sheet. The reference 
 
 ![unexpected proposed edit](./images/c06-03-06-unexpected-proposed-edit.jpg)
 
+*unexpected proposed edit.*
+
 5. Check the unagreed start, proposed and unapproved RM 12,000 ceiling, four-week duration, Friday cadence and final-two-week success measure.
 
 > **Reference run:** The answer stated “Operations follow” the proposed guidance; the author corrected this to describe proposed training practice, not established operations or approved policy.
 
 ![checked update](./images/c06-03-10-checked-update.jpg)
+
+*checked update.*
 
 ## 3.2 Adapt a Communication
 
@@ -64,6 +80,8 @@ Use a new practice Google Doc containing the supplied fact sheet. The reference 
 
 ![unsent message](./images/c06-03-11-unsent-message.jpg)
 
+*unsent message.*
+
 ## 3.3 Review Cross-App Actions
 
 1. Paste the complete scripted meeting record into the panel and ask Gemini to extract action, owner and relative practice week in chat only. Explicitly prohibit creating tasks, events, drafts or file changes.
@@ -74,6 +92,8 @@ Use a new practice Google Doc containing the supplied fact sheet. The reference 
 
 ![action lineage](./images/c06-03-12-action-lineage.jpg)
 
+*action lineage.*
+
 ## 3.4 Trace One Evidence Set Through Three Outputs
 
 1. Create an **Output Lineage** table mapping each output to its input and check: fact sheet and proposed guidance → checked coordinator update; checked update → unsent message; scripted meeting record → action list.
@@ -82,14 +102,18 @@ Use a new practice Google Doc containing the supplied fact sheet. The reference 
 
 ![lineage table](./images/c06-03-14-lineage-table.jpg)
 
+*lineage table.*
+
 2. Compare the three outputs. Ensure that proposed practice has not become approved policy, an unsent request has not become an accepted commitment, and an extracted row is not an assigned task. Record the exact attached source title and the pasted meeting-record route.
 3. Make a separate named scenario copy. Apply the delay card: Bala’s status-definition review is delayed and no replacement week is confirmed. Update the related follow-up wording and Bala’s row; retain Aina’s and Siti’s actions, the budget status and the unagreed start date. Keep the original baseline intact.
 
 ![delay scenario](./images/c06-03-13-delay-scenario.jpg)
 
+*delay scenario.*
+
 **Author-run scope:** source attachment, panel response, manually checked update and message, meeting-record extraction, lineage table and separate scenario copy were verified. The Gmail draft side effect and rejected document proposal are recorded above. The independent challenge, separate human review and 55-minute classroom allocation have not been validated.
 
-## Independent Challenge
+## Independent Practice
 
 Close the earlier step lists for the first attempt. Use the case input and your own reasoning. If you need help, record the hint and repeat the affected check independently.
 
@@ -99,7 +123,7 @@ Close the earlier step lists for the first attempt. Use the case input and your 
 
 3. Explain which steps would require a deliberate separate application action before sending, assigning or scheduling anything.
 
-## Evidence to Hand Over
+### Evidence to Hand Over
 
 - Lineage table and three checked output types with consistent facts.
 - Delay-scenario update retaining an unknown replacement deadline.

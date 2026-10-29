@@ -1,8 +1,8 @@
-# 10 - Use Gemini as an Analysis Partner: Prompts and Values
+# 10 - Use Gemini as an Analysis Partner: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
-## Part 2: Propose a Delivered Total
+## Part 1: Propose a Delivered Total
 
 **Session:** new chat | **Grounding:** explicit Orders schema
 
@@ -15,8 +15,7 @@ Expectations: Reply with a formula and explanation only. Do not edit cells. Incl
 
 Replace bracketed source placeholders before submitting. Keep a human check between an AI proposal and the final output.
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -24,7 +23,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Flawed formula proposals to audit if AI is unavailable: `=SUM(Orders!J2:J24)` described as all 24 rows; `=IFERROR(VLOOKUP("IT99",Rates!A2:D7,3,FALSE),0)` described as a confirmed zero rate; `=SUMIFS(Orders!J2:J25,Orders!G2:G25,"Delivered")` described as active amount excluding only Cancelled.
 ```
 
-## Captured Author-Run Reference
+## Part 3: Captured Author-Run Reference
 
 Use the isolated **GW - Sheets Advanced - AI Audit** copy. Build in guide order, record expectations before tests, and retain original proposals separately from manual repairs. Supplied deliberate flaws below are not Gemini outputs. Use the live Dashboard for refreshed values; the inserted **AI Generated Snapshot** uses static number cells.
 
@@ -135,7 +134,7 @@ Pending	=SUMIF(Orders!$G$2:$G$25,A18,Orders!$J$2:$J$25)	=SUMIF(Orders!G4:G27,A18
 ```text
 Supplied deliberate flaws	Original formula text (not Gemini output)	Actual	Expected claim	Verdict
 All 24 records	=SUM(Orders!J2:J24)	=SUM(Orders!J2:J24)	3158	=IF(C2=D2,"Pass","Fail: excludes PO024 amount64")
-IT99 confirmed zero rate	=IFERROR(VLOOKUP("IT99",Rates!A2:D7,3,FALSE),0)	=IFERROR(VLOOKUP("IT99",Rates!A2:D7,3,FALSE),0)	Missing rate	=IF(C3=D3,"Pass","Fail: missing mapping hidden as zero")
+IT99 confirmed zero rate	=IFERROR(VLOOKUP("IT99",Rates!A2:D7,3,FALSE), 0)	=IFERROR(VLOOKUP("IT99",Rates!A2:D7,3,FALSE), 0)	Missing rate	=IF(C3=D3,"Pass","Fail: missing mapping hidden as zero")
 Active amount	=SUMIFS(Orders!J2:J25,Orders!G2:G25,"Delivered")	=SUMIFS(Orders!J2:J25,Orders!G2:G25,"Delivered")	1938	=IF(C4=D4,"Pass","Fail: Delivered is not Active")
 ```
 

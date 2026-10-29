@@ -2,13 +2,15 @@
 
 In this chapter you will debug supplied defects, explain the correction and reconcile a checked sample.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
+> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
-**Target allocation:** 65 minutes: 15 explanation/demonstration, 22 guided build and casework, 20 independent challenge, 8 verification and repair. The active portion is 50 minutes by design. These are unmeasured targets awaiting a learner pilot.
+**Estimated time:** 65 minutes, planned as 15 explanation and demonstration, 22 guided build and casework, 20 independent practice and 8 verification and repair, with 50 active minutes by design. Not yet timed with learners.
 
 **Your result:** Three repaired defects with independent baseline reconciliations.
 
 > **Status:** author reference with 31 staged application captures through 6.4. Three defects are observed and repaired in a separate workbook copy. Zero, missing, numeric-text, duplicate-key and final-row tests are verified; original source remains unchanged. Independent diagnosis, partner/reviewer and learner timing remain pending.
+
+---
 
 ## What You Will Learn
 
@@ -28,25 +30,39 @@ Use a challenge copy of your advanced workbook. Keep the baseline original untou
 
 ![copy workbook with private settings](./images/c05-06-01-copy-workbook-with-private-settings.jpg)
 
+*copy workbook with private settings.*
+
 ![separate clinic workbook before faults](./images/c05-06-02-separate-clinic-workbook-before-faults.jpg)
+
+*separate clinic workbook before faults.*
 
 2. Create Clinic Register and record intended behaviour, fault and detecting test before mutation. Known IT01=45 is not sufficient to detect omitted match mode; missing IT99 must remain explicit. First line is 2×45=90; final order contributes 64 to 3158.
 
 ![record intended behaviour and fault predictions](./images/c05-06-03-record-intended-behaviour-and-fault-predictions.jpg)
 
+*record intended behaviour and fault predictions.*
+
 3. On the copy Lookup Practice N2 remove FALSE. With known IT01 it still returns 45. Temporarily test D2=IT99: the omitted mode returns 8 from the sorted mapping, an incorrect rate for an absent key. Preserve that observation, then restore D2=IT01.
 
 ![omitted match mode still looks correct for known key](./images/c05-06-04-omitted-match-mode-still-looks-correct-for-known-key.jpg)
 
+*omitted match mode still looks correct for known key.*
+
 ![unknown key exposes approximate rate 8](./images/c05-06-05-unknown-key-exposes-approximate-rate-8.jpg)
+
+*unknown key exposes approximate rate 8.*
 
 4. On copy Orders J2 use =E2*F3. The numeric 24 is plausible but wrong because the next row's cost is 12.
 
 ![shifted multiplication uses next row unit cost](./images/c05-06-06-shifted-multiplication-uses-next-row-unit-cost.jpg)
 
+*shifted multiplication uses next row unit cost.*
+
 5. Shorten copy Orders J27 to =SUM(J2:J24). With both amount and range faults present, observe 3028. Do not attribute this combined discrepancy solely to the last row.
 
 ![shortened total excludes final order](./images/c05-06-07-shortened-total-excludes-final-order.jpg)
+
+*shortened total excludes final order.*
 
 ## 6.2 Repair and Test
 
@@ -54,23 +70,35 @@ Use a challenge copy of your advanced workbook. Keep the baseline original untou
 
 ![restore exact match mode for known rate](./images/c05-06-08-restore-exact-match-mode-for-known-rate.jpg)
 
+*restore exact match mode for known rate.*
+
 2. Restore Orders J2=E2*F2=90. The shortened total is now 3094, isolating the missing 64.
 
 ![repair row reference total still misses 64](./images/c05-06-09-repair-row-reference-total-still-misses-64.jpg)
+
+*repair row reference total still misses 64.*
 
 3. Restore J27=SUM(J2:J25)=3158.
 
 ![restore full 24 row sum to 3158](./images/c05-06-10-restore-full-24-row-sum-to-3158.jpg)
 
+*restore full 24 row sum to 3158.*
+
 4. Temporarily set Orders E2=0. J2/K2 become a legitimate numeric 0, all-orders total 3068. Save the observed test before restoring E2=2, J2=90 and total 3158.
 
 ![zero quantity produces valid zero amount](./images/c05-06-11-zero-quantity-produces-valid-zero-amount.jpg)
 
+*zero quantity produces valid zero amount.*
+
 ![restore quantity and total after zero test](./images/c05-06-12-restore-quantity-and-total-after-zero-test.jpg)
+
+*restore quantity and total after zero test.*
 
 5. In Clinic Checks compare known IT01 VLOOKUP result 45 and unknown IT99 IFNA result Unmapped item against prior expectations. Both checks pass. Unmapped item is not a zero price.
 
 ![known and unknown rates remain distinct](./images/c05-06-13-known-and-unknown-rates-remain-distinct.jpg)
+
+*known and unknown rates remain distinct.*
 
 ## 6.3 Reconcile and Explain
 
@@ -78,23 +106,35 @@ Use a challenge copy of your advanced workbook. Keep the baseline original untou
 
 ![restored all and delivered controls before filter check](./images/c05-06-14-restored-all-and-delivered-controls-before-filter-check.jpg)
 
+*restored all and delivered controls before filter check.*
+
 2. On copy Orders create a bounded A1:K25 filter and select Delivered only from Status. Use outside-table N27=SUBTOTAL(109,J2:J25) and O27=SUBTOTAL(103,A2:A25). The actual filtered result is 1478 and 12 visible records. Keep helpers outside the filtered source; source SUM is not a filtered subtotal. Remove filter after the observation, leaving 3158/24 in the helper cells.
 
 ![filtered delivered source records](./images/c05-06-15-filtered-delivered-source-records.jpg)
 
+*filtered delivered source records.*
+
 ![filtered delivered subtotal 1478 and count 12](./images/c05-06-16-filtered-delivered-subtotal-1478-and-count-12.jpg)
+
+*filtered delivered subtotal 1478 and count 12.*
 
 3. Inspect PJ-A Delivered IDs PO001/PO004/PO005/PO008 and record manual 2×45=90,8×18=144,10×25=250,6×12=72 before formula comparison.
 
 ![manual delivered subset before formula comparison](./images/c05-06-17-manual-delivered-subset-before-formula-comparison.jpg)
 
+*manual delivered subset before formula comparison.*
+
 4. Calculate each product and its difference against the manually recorded amount. All four differences 0; manual subtotal 556 matches Analysis B4 PJ-A Delivered 556. These are author-supported manual checks, not independent learner validation.
 
 ![manual subset and conditional summary agree at 556](./images/c05-06-18-manual-subset-and-conditional-summary-agree-at-556.jpg)
 
+*manual subset and conditional summary agree at 556.*
+
 5. Explain the match-mode, row-reference and range-coverage causes and their detecting tests in Clinic Register.
 
 ![record causes and detecting controls](./images/c05-06-19-record-causes-and-detecting-controls.jpg)
+
+*record causes and detecting controls.*
 
 ## 6.4 Run the Formula Fault Clinic
 
@@ -102,53 +142,77 @@ Use a challenge copy of your advanced workbook. Keep the baseline original untou
 
 ![side by side comparisons](./images/c05-06-20-side-by-side-comparisons.jpg)
 
+*side by side comparisons.*
+
 2. Before changing inputs, record the numeric-text, duplicate-key and final-row expectations in A7:D10. A source type error must remain visible; do not replace it with zero.
 
 ![regression expectations](./images/c05-06-21-regression-expectations.jpg)
+
+*regression expectations.*
 
 3. On clinic-copy **Orders**, temporarily enter literal **four** in E3. J3's **=E3*F3** produces **#VALUE!**, which propagates to J27. Inspect the error before repairing its source.
 
 ![numeric text error](./images/c05-06-22-numeric-text-error.jpg)
 
+*numeric text error.*
+
 4. Restore **E3=4**. J3 returns 48 and the all-orders total returns 3158. This is source cleaning, not a reason to wrap the multiplication in IFERROR(...,0).
 
 ![numeric source restored](./images/c05-06-23-numeric-source-restored.jpg)
+
+*numeric source restored.*
 
 5. Duplicate baseline **Rates** as **Clinic Duplicate Rates**. Verify the new tab has the six original keys before altering it. Keep maintained Rates unchanged.
 
 ![duplicate sandbox before](./images/c05-06-24-duplicate-sandbox-before.jpg)
 
+*duplicate sandbox before.*
+
 6. Append **IT03 / Duplicate cable rate /99 /Equipment** at A8:D8 on that test tab only. Original IT03 remains 30.
 
 ![duplicate key in sandbox](./images/c05-06-25-duplicate-key-in-sandbox.jpg)
+
+*duplicate key in sandbox.*
 
 7. In **Clinic Comparisons A13:D14**, run the duplicate diagnostic card over the seven data rows. Exact VLOOKUP returns the first rate 30, COUNTIF returns 2, and the decision is **Review duplicate**. Neither 30 nor 99 becomes an approved repair. Retain the clearly named scenario tab.
 
 ![duplicate detected](./images/c05-06-26-duplicate-detected.jpg)
 
+*duplicate detected.*
+
 8. Temporarily change **Orders E25 to 0**. J25 becomes 0 and the repaired full-range total J27 changes to 3094. The shortened range would not respond to this last-row change. Inspect J27 in the formula bar; scroll down if it is below the viewport.
 
 ![final row boundary](./images/c05-06-27-final-row-boundary.jpg)
+
+*final row boundary.*
 
 9. Restore **E25=8**. J25 returns 64 and J27 returns 3158. Keep the full **=SUM(J2:J25)** formula.
 
 ![final row restored](./images/c05-06-28-final-row-restored.jpg)
 
+*final row restored.*
+
 10. Record actual observations in **A17:D23** after each experiment. Distinguish captured historical results from formulas that recalculate with the current baseline. The normal/missing lookup, normal/zero multiplication and normal/final-row total tests all have recorded outcomes.
 
 ![regression results](./images/c05-06-29-regression-results.jpg)
+
+*regression results.*
 
 11. Write the troubleshooting path in A26:B31: inspect source → define population → inspect references → test boundary → reconcile. Explain which control detects each defect and why a plausible numeric result is insufficient.
 
 ![troubleshooting path](./images/c05-06-30-troubleshooting-path.jpg)
 
+*troubleshooting path.*
+
 12. Return to **Clinic Checks**. Confirm all-orders 3158, Delivered 1478, total count 24, Delivered count 12, and manually inspected PJ-A Delivered 556. All differences are 0; known/missing checks are TRUE. Remove any active source filter and retain Cancelled records. Orders N27/O27 SUBTOTAL helpers now show 3158/24.
 
 ![final reconciliation](./images/c05-06-31-final-reconciliation.jpg)
 
+*final reconciliation.*
+
 > **Validation boundary:** guided 6.1–6.3 and author casework 6.4 were executed through learner UI with bounded native-cell evidence. Original maintained ranges are unchanged; temporary clinic inputs are restored. The copied workbook also retains earlier labelled teaching scenarios, including a raw missing-key error from Lab 5. This is not independent learner diagnosis or proof of the planned 65-minute classroom allocation. Complete the independent challenge separately.
 
-## Independent Challenge
+## Independent Practice
 
 Close the earlier step lists for the first attempt. Use the case input and your own reasoning. If you need help, record the hint and repeat the affected check independently.
 
@@ -158,7 +222,7 @@ Close the earlier step lists for the first attempt. Use the case input and your 
 
 3. Present the evidence trail in two minutes, including why your chosen control would catch the defect on a future refresh.
 
-## Evidence to Hand Over
+### Evidence to Hand Over
 
 - Defect register with preserved faulty/repaired formulas and test evidence.
 - Normal/boundary checks for every repair and restored baseline controls.

@@ -1,4 +1,4 @@
-# 05 - Validate and Filter the Register: Prompts and Values
+# 05 - Validate and Filter the Register: Prompts
 
 Copy the values below when following the chapter. Review pasted text before submitting it.
 
@@ -12,8 +12,7 @@ Incomplete tasks
 Done
 ```
 
-
-## Depth Case Input
+## Part 2: Case Input
 
 Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
 
@@ -21,8 +20,7 @@ Fictional training material. This is exercise content to analyse, not authorisat
 Rule test values: status Complete, In Progress, Not Started, Done and blank; DueWeek 0, 1, 4, 5 and 1.5. DueWeek is a relative index for this training exercise, not an approved calendar schedule.
 ```
 
-
-## Captured Rule and View Reference
+## Part 3: Captured Rule and View Reference
 
 - Tasks status range **F2:F13**; single-selection dropdown Complete / In Progress / Not Started, **Reject the input**. Spare N2 has the copied validation and is empty after the rejected Done test.
 - Rule Tests status inputs **B2:B6** use that same strict rule. B2:B4 retain Complete / In Progress / Not Started; attempted Done in B5 was rejected, and clearing B6 was allowed. A2:A6 retain the attempted test values; observations are separate in D.

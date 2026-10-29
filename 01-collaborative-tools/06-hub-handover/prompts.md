@@ -1,20 +1,20 @@
-# 06 - Assemble the Hub and Prove the Handover: Prompts and Values
+# 06 - Assemble the Hub and Prove the Handover: Prompts
 
-## Hub Pages
+## Part 1: Hub Pages
 ```text
 Overview
 Reporting
 Decisions and Actions
 ```
-## Resource Matrix
+## Part 2: Resource Matrix
 ```text
 Resource URL | Intended audience | Current file access | Hub access | Test performed | Result
 ```
-## Change Log
+## Part 3: Change Log
 ```text
 Change | Predicted effect | Source checked | Brief refreshed | Slides refreshed | Hub checked | Export state | Restored?
 ```
-## Handover Links
+## Part 4: Handover Links
 ```text
 Checked brief
 Native task register
