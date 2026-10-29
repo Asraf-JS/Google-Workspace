@@ -249,3 +249,11 @@ Lab 3 adds 11 original-dimension captures of named source attachment, a rejected
 ### 28 October 2026: AI4 source notebook and citation audit
 
 AI4 adds 29 original-dimension captures of a three-original-source notebook, decision/date citation checks, meeting-only scope, six-question claim audit, separate conflicting proposals and a revision2 withdrawal rerun. Old B retained but deselected; core notebook preserved. Native seven-row audit table verified. Citation support and known-status classification limitations recorded. Programme1,149 images;1,146 retained sources. Four AI routes remain untouched. Independent challenge, reviewer and classroom timing pending.
+
+### 28 October 2026: AI5 FAQ and audio generation — partial
+
+AI5 partial route adds11original-dimension captures. Five-entry FAQ checked and corrected output note deselected; Brief English audio generated1:31from3originals; playback counter advanced00:05. Written briefing/fallback and six-topic unscored claim sheet saved. Download opened403 and browser control disconnected. Full listening and timestamped audit remain pending; no audio accuracy verdict claimed. Programme1,160images;1,157sources;3untouched AI routes. Independent/human/classroom timing pending.
+
+### 29 October 2026: skip blocked media review; responsible-use written reference
+
+Lab 5 audio listening skipped at instructor request after download 403; retained unreviewed and unscored. Lab 6 written review created in native Google Docs using connected tools and verified by readback: three claims, three input categories, real generated-output distinctions, source-instruction analysis, escalation and author second pass. Learner UI screenshots, independent/human checks and timings remain pending. Labs 7–8 not executed. Screenshot counts unchanged: 1,160 lesson images, 1,157 retained originals, 84 AI images. Three AI routes still lack staged screenshots (Lab 6 now has a written reference).

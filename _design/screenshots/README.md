@@ -1463,3 +1463,21 @@ AI4 adds 29 original-dimension captures of a three-original-source notebook, dec
 | [c06-04-27-revision-citation-proof.jpg](../../06-notebooklm-gemini/04-source-notebook/images/c06-04-27-revision-citation-proof.jpg) | [PNG](full/06-notebooklm-gemini/04-source-notebook/c06-04-27-revision-citation-proof.png) | 1432 x 781 | application-window |
 | [c06-04-28-audit-limitations-and-conflict-note.jpg](../../06-notebooklm-gemini/04-source-notebook/images/c06-04-28-audit-limitations-and-conflict-note.jpg) | [PNG](full/06-notebooklm-gemini/04-source-notebook/c06-04-28-audit-limitations-and-conflict-note.png) | 1591 x 868 | application-window |
 | [c06-04-29-six-question-audit-table.jpg](../../06-notebooklm-gemini/04-source-notebook/images/c06-04-29-six-question-audit-table.jpg) | [PNG](full/06-notebooklm-gemini/04-source-notebook/c06-04-29-six-question-audit-table.png) | 1591 x 868 | application-window |
+
+### 28 October 2026: AI5 FAQ and audio generation — partial
+
+AI5 partial route adds11original-dimension captures. Five-entry FAQ checked and corrected output note deselected; Brief English audio generated1:31from3originals; playback counter advanced00:05. Written briefing/fallback and six-topic unscored claim sheet saved. Download opened403 and browser control disconnected. Full listening and timestamped audit remain pending; no audio accuracy verdict claimed. Programme1,160images;1,157sources;3untouched AI routes. Independent/human/classroom timing pending.
+
+| Lesson image | Full source | Dimensions | Kind |
+|---|---|---|---|
+| [c06-05-01-faq-prompt.jpg](../../06-notebooklm-gemini/05-briefing-audio/images/c06-05-01-faq-prompt.jpg) | [PNG](full/06-notebooklm-gemini/05-briefing-audio/c06-05-01-faq-prompt.png) | 1432 x 781 | application-window |
+| [c06-05-02-generated-faq.jpg](../../06-notebooklm-gemini/05-briefing-audio/images/c06-05-02-generated-faq.jpg) | [PNG](full/06-notebooklm-gemini/05-briefing-audio/c06-05-02-generated-faq.png) | 1432 x 781 | application-window |
+| [c06-05-03-faq-fact-citation.jpg](../../06-notebooklm-gemini/05-briefing-audio/images/c06-05-03-faq-fact-citation.jpg) | [PNG](full/06-notebooklm-gemini/05-briefing-audio/c06-05-03-faq-fact-citation.png) | 1432 x 781 | application-window |
+| [c06-05-04-faq-scripted-citation.jpg](../../06-notebooklm-gemini/05-briefing-audio/images/c06-05-04-faq-scripted-citation.jpg) | [PNG](full/06-notebooklm-gemini/05-briefing-audio/c06-05-04-faq-scripted-citation.png) | 1432 x 781 | application-window |
+| [c06-05-05-faq-guidance-citation.jpg](../../06-notebooklm-gemini/05-briefing-audio/images/c06-05-05-faq-guidance-citation.jpg) | [PNG](full/06-notebooklm-gemini/05-briefing-audio/c06-05-05-faq-guidance-citation.png) | 1432 x 781 | application-window |
+| [c06-05-06-checked-faq-note.jpg](../../06-notebooklm-gemini/05-briefing-audio/images/c06-05-06-checked-faq-note.jpg) | [PNG](full/06-notebooklm-gemini/05-briefing-audio/c06-05-06-checked-faq-note.png) | 1432 x 781 | application-window |
+| [c06-05-07-audio-custom-instructions.jpg](../../06-notebooklm-gemini/05-briefing-audio/images/c06-05-07-audio-custom-instructions.jpg) | [PNG](full/06-notebooklm-gemini/05-briefing-audio/c06-05-07-audio-custom-instructions.png) | 1432 x 781 | application-window |
+| [c06-05-08-audio-generating.jpg](../../06-notebooklm-gemini/05-briefing-audio/images/c06-05-08-audio-generating.jpg) | [PNG](full/06-notebooklm-gemini/05-briefing-audio/c06-05-08-audio-generating.png) | 1432 x 781 | application-window |
+| [c06-05-09-written-briefing.jpg](../../06-notebooklm-gemini/05-briefing-audio/images/c06-05-09-written-briefing.jpg) | [PNG](full/06-notebooklm-gemini/05-briefing-audio/c06-05-09-written-briefing.png) | 1591 x 868 | application-window |
+| [c06-05-10-audit-sheet-before-listening.jpg](../../06-notebooklm-gemini/05-briefing-audio/images/c06-05-10-audit-sheet-before-listening.jpg) | [PNG](full/06-notebooklm-gemini/05-briefing-audio/c06-05-10-audit-sheet-before-listening.png) | 1591 x 868 | application-window |
+| [c06-05-11-audio-ready.jpg](../../06-notebooklm-gemini/05-briefing-audio/images/c06-05-11-audio-ready.jpg) | [PNG](full/06-notebooklm-gemini/05-briefing-audio/c06-05-11-audio-ready.png) | 1432 x 781 | application-window |

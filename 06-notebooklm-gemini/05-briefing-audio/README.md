@@ -8,7 +8,7 @@ In this chapter you will produce a FAQ and audio overview, then check claims aga
 
 **Your result:** A checked FAQ and reviewed audio briefing or recorded feature limitation.
 
-> **Status:** expanded review draft, revision 0.4. Complete the casework and independent challenge as well as the guided steps. The expanded route, screenshots and timing have not yet been validated in the learner application.
+> **Status:** partial author reference with 11 staged captures. FAQ checked, written briefing saved and Brief audio generated; full listening and timestamped claim audit remain pending. Independent challenge, human review and classroom timing remain pending.
 
 ## What You Will Learn
 
@@ -24,73 +24,61 @@ Use the evidence notebook with the three processed sources. Audio generation ava
 
 ## 5.1 Build a Checked FAQ
 
-1. Ask for five FAQ entries covering purpose, teams, reporting cadence, budget status and unresolved decisions, with source support.
-2. Open the supporting passages for every entry. Remove or correct unsupported answers.
-3. Save the checked FAQ as a note or copy it into the playbook, using the available controls.
+1. In the evidence notebook, keep only S1–S3 selected and request exactly five FAQ entries covering purpose/duration, teams, cadence/success, budget and unresolved decisions. Use the prompt on the copy-paste page.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![faq prompt](./images/c06-05-01-faq-prompt.jpg)
 
-All five retained answers are supported by the supplied pack.
+2. Check each answer against its original passage. The author response retained the required facts, but the question framed decisions as conditions “before the pilot can start.” Record the open decisions without inferring a formal launch gate. For the explicit no-purchase-authorisation statement, use S2; S1 provides scope context rather than that exact statement.
 
-</details>
+![generated faq](./images/c06-05-02-generated-faq.jpg)
 
-<!-- VERIFY: execute 5.1 in the target account and reconcile control names. Capture images/c06-05-01.jpg only from the real app. -->
+3. Open the cited fact sheet, scripted meeting record and proposed guidance. Read the surrounding text, not only the citation marker. The author checked all five retained answers against those original bodies.
+
+![faq fact citation](./images/c06-05-03-faq-fact-citation.jpg)
+
+![faq scripted citation](./images/c06-05-04-faq-scripted-citation.jpg)
+
+![faq guidance citation](./images/c06-05-05-faq-guidance-citation.jpg)
+
+4. Create a note named **OUTPUT - Checked FAQ - training reference** and enter the corrected five-entry FAQ with source pointers. The observed interface automatically selects a newly created note as a source. Deselect this output note before generating media from the three originals; a saved answer does not become original evidence.
+
+![checked faq note](./images/c06-05-06-checked-faq-note.jpg)
 
 ## 5.2 Generate an Audio Overview
 
-1. Locate Audio Overview in the notebook's studio/output area.
-2. If custom instructions are available, request a short orientation that keeps budget approval and the start date unresolved. Generate it.
-3. Wait for completion and play the overview. Note that an overview is a generated summary rather than an exact transcript.
+1. Choose **Audio Overview** in Studio. In **Customise Audio Overview**, select **Brief**, keep **English**, inspect the **3 sources** selection and enter the source-bounded instructions from the prompts page. In the observed interface, the length choices disappeared after Brief was selected.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![audio custom instructions](./images/c06-05-07-audio-custom-instructions.jpg)
 
-An audio briefing is available, or the feature limitation is recorded without claiming generation succeeded.
+2. Choose **Generate** once. Record generation time separately from active work. The author prepared the written briefing and unscored audit sheet while generation was processing. Notification permission is not required for this exercise.
 
-</details>
+![audio generating](./images/c06-05-08-audio-generating.jpg)
 
-<!-- VERIFY: execute 5.2 in the target account and reconcile control names. Capture images/c06-05-02.jpg only from the real app. -->
+3. The generated item was titled **Preparing the Seri Maju Reporting Pilot**, with duration **1:31**, format Brief and three sources. Opening it started playback; the displayed counter advanced to 00:05 before the author paused it. This confirms player operation, not factual review.
+
+![audio ready](./images/c06-05-11-audio-ready.jpg)
 
 ## 5.3 Review the Audio Claims
 
-1. Listen for statements about costs, dates, authority and promised benefits.
-2. Check any substantive claim against the sources. Record omissions and unsupported statements in the review log.
-3. Keep a written checked summary as the dependable handover. Do not distribute the audio externally during this exercise.
-
-<details markdown="1">
-<summary>What should you see?</summary>
-
-The review distinguishes useful summary content from anything requiring correction.
-
-</details>
-
-<!-- VERIFY: execute 5.3 in the target account and reconcile control names. Capture images/c06-05-03.jpg only from the real app. -->
+1. Listen for claims about the proposed RM12,000 ceiling, unagreed start, four-week duration, three teams, Friday cadence, final-two-week success measure, scripted actions and authority. Record approximate timestamps, the actual claim, source passage and verdict.
+2. **Author decision (29 October 2026):** listening and timestamped checks were skipped at the instructor’s request after both author and instructor encountered the 403 failure. This does not establish a service-wide outage. Audio generation and initial playback were observed, but substantive listening and timestamped claim checks remain incomplete. The download action opened a Google 403 Forbidden page and browser control disconnected. No audio claim is marked supported merely because generation completed. The written source checks do not establish the contents of the generated clip.
+3. Keep the checked written briefing as the maintained handover while media review is pending. Retain the audio as **Generated — review pending**; do not label it reviewed or externally distribute it during this exercise.
 
 ## 5.4 Create a Briefing Package and Audit Generated Media
 
-1. Create a written briefing structure with Purpose, Known facts, Open decisions and Next checks. Populate it from the checked FAQ with source references.
+1. Create a written package with **Purpose**, **Known facts**, **Open decisions** and **Next checks**. Use the checked FAQ and original source pointers. Preserve the budget/date caveats and distinguish relative practice weeks from calendar dates.
 
-2. Ask for an audio overview if available, with explicit instructions to preserve unresolved budget approval and start date. Record generation/wait time separately from active review.
+![written briefing](./images/c06-05-09-written-briefing.jpg)
 
-3. While media is processing, prepare a claim-audit sheet and a 60-second manually checked fallback script. Do not count idle waiting as meaningful exercise work.
+2. Prepare the manually checked fallback script and a claim-audit table. The author table has six topics plus its header. Before listening, leave timestamp/claim cells **Not yet reviewed** and verdicts **Not tested**. The script has a 60-second target; its reading duration has not been measured.
 
-4. Listen to the generated output and log substantive claims with approximate timestamps, claim text, supporting source and verdict. If fewer claims appear than planned, audit all of them and test omitted required facts separately.
+![audit sheet before listening](./images/c06-05-10-audit-sheet-before-listening.jpg)
 
-5. Compare the audio and written briefing for budget/date caveats, who does what, reporting cadence and success measure. Note omissions as well as false claims.
+3. Once listening is complete, replace the placeholders with the actual claims and approximate timestamps. Compare media with the written briefing for budget/date caveats, actors, cadence, success measure and omissions. Audit every substantive claim; do not manufacture six claims just to fill a template.
+4. If Audio Overview is unavailable in your account, use the flawed practice script on the prompts page, label that script route and retain audio generation/playback as untested. In this author run audio generation was available, so a script audit cannot be presented as a review of the generated clip.
+5. Keep an output manifest: checked FAQ note and written briefing are maintained text; the generated overview is an output snapshot with its actual source selection and review status. The author's current media status is **Generated — review pending**. Independent comprehension testing and reviewer agreement are still pending.
 
-6. If audio is unavailable, read the flawed practice script on the card aloud and audit it against the same sheet. Label this a script-based fallback, with audio generation/playback untested.
-
-7. Create a distribution-ready written summary with the verified points and limitations. Mark generated media as reviewed, needs correction or not tested according to actual evidence.
-
-<details markdown="1">
-<summary>What should you see?</summary>
-
-Written briefing, claim/timestamp audit and source-based verdicts. The result must be supported by the recorded checks; an attractive output or an AI assurance is insufficient.
-
-</details>
-
-<!-- VERIFY: execute expanded section 5.4 and independent challenge; capture images/c06-05-04.jpg only after real application success. -->
+**Author-run scope:** five FAQ entries and original passages checked, corrected output note saved and deselected, Brief audio generated from three originals, initial playback counter verified, written briefing and unscored audit table saved. Audio download failed; full listening, timestamped verdicts, independent challenge, human review and classroom timing remain pending.
 
 ## Independent Challenge
 
@@ -121,6 +109,4 @@ Record the defect or uncertainty you investigated, the evidence used, the repair
 
 ## Lesson Summary
 
-A useful briefing is concise, grounded and checked across its text and audio forms.
-
-**Check yourself:** Why does an audio overview still need factual review?
+Checked text and audio both need factual review. **Check yourself:** Which claim would you verify first?
