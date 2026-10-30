@@ -26,6 +26,8 @@ Use your `GW - Reporting Procedure - Working` document from Lab 1, the supplied 
 
 ## 2.1 Define the Reader and Task
 
+> **No Gemini?** Skip 2.1 and step 1 of 2.2. Copy the reference draft from Part 4 of the [prompts page](./prompts.md) and review it in 2.2 step 2 exactly as you would a Gemini response.
+
 1. In your working document, click **Ask Gemini** (the star button at the top right). The Gemini panel opens on the right.
 2. Copy the Part 2 prompt from the [prompts page](./prompts.md) and paste it into the **Ask Gemini** box at the bottom of the panel. Replace `[paste project-facts.txt]` with the whole text of `project-facts.txt`. Don't submit yet.
 3. Read the prompt again before submitting. It asks for an answer in the panel and a proposed procedure, not a change to your document or to company policy.
@@ -61,8 +63,6 @@ The request names the reader, source and output format. No source placeholder re
 
 *The review records the missing status, the vague routing instruction and the source-boundary issue.*
 
-**No Gemini?** Skip steps 1 and 2. Copy the reference draft from Part 4 of the prompts page and review it the same way.
-
 <details markdown="1">
 <summary>What should you see?</summary>
 
@@ -74,13 +74,13 @@ The draft distinguishes known project facts from a proposed training procedure. 
 
 ## 2.3 Insert the Checked Text
 
-1. Click at the end of the purpose statement at the top of the document (above **Authoring Log**) and press **Enter** twice. Type `Weekly reporting procedure - proposed training practice`, then write the checked procedure under four labels: Prepare, Check, Submit for Review and Resolve Questions, with eight numbered steps. Use the response only where your review in 2.2 found it correct, and fix the repairs you recorded, except the missing status in step 4: leave that for section 2.4. The prompts page has the reference wording if you want to compare.
+1. Open `project-facts.txt` in another tab and keep it open while you write, so you (and later a reviewer) can compare every commitment with the source.
+2. Click at the end of the purpose statement at the top of the document (above **Authoring Log**) and press **Enter** twice. Type `Weekly reporting procedure - proposed training practice`, then write the checked procedure under four labels: Prepare, Check, Submit for Review and Resolve Questions, with eight numbered steps. Use the response only where your review in 2.2 found it correct, and fix the repairs you recorded. Leave step 4's missing status for now: in 2.4 the procedure plan checks every step against the guidance, and you repair step 4 there. The prompts page has the reference wording if you want to compare.
 
 ![The checked procedure inserted under the purpose statement, with eight numbered steps](./images/c02-02-checked-draft.png)
 
 *The checked procedure sits in the reader-facing part of the document. The Gemini response and your review stay in the Authoring Log.*
 
-2. Keep `project-facts.txt` open in another tab so a reviewer can compare commitments.
 3. Under step 8, type `Questions for the Sponsor` and the two unresolved decisions from the prompts page.
 
 ![Questions for the Sponsor with the two open decisions at the end of the procedure](./images/c02-02-open-decisions.png)
@@ -122,19 +122,21 @@ The procedure and its outstanding questions are readable without the Gemini conv
 
 *The supplied T001 record and the missing-owner test card are kept separate. No owner is invented.*
 
-5. Rewrite procedure step 5 (Submit for Review) to make it clearer, using Gemini or by hand. In the Authoring Log, type `Before:` and `After:` lines with the old and new wording, and a `Preserved checks:` line listing what the rewrite kept.
+5. Do two paper walkthroughs. Type `Paper walkthrough A - normal supplied T001` and follow the procedure with T001, noting where it gives a clear next action. Then type `Paper walkthrough B - incomplete card T-TEST-A` and do the same with the missing-owner card. Note any step where a reader wouldn't know what to do next.
+
+6. Repair the ambiguity you found. Rewrite procedure step 5 (Submit for Review) to make it clearer, using Gemini or by hand; Part 6 of the prompts page has reference wording. Above `Paper walkthrough A`, type `Before:` and `After:` lines with the old and new wording, and a `Preserved checks:` line listing what the rewrite kept.
 
 ![The rewritten step 5 in the procedure](./images/c02-02-clarity-rewrite.png)
 
 *The new step 5 keeps the draft and records a routing query while the channel, recipient and cut-off are unresolved.*
 
-6. Do two paper walkthroughs. Under `Paper walkthrough A - normal supplied T001`, follow the procedure with T001 and note where it gives a clear next action. Under `Paper walkthrough B - incomplete card T-TEST-A`, do the same with the missing-owner card. Record any ambiguity and the repair you made.
+7. Under each walkthrough, record the ambiguity and the repair you made, then follow the repaired step again to check it now gives a clear next action.
 
 ![Paper walkthroughs A and B with the observed ambiguity and its repair](./images/c02-02-paper-walkthroughs.png)
 
 *Walkthrough A found that "request agreement" didn't say what to do with the draft while waiting. Step 5 was repaired.*
 
-7. Type `Submission distinction` and insert a 2-column, 3-row table with the headings Record type and Observable distinction. Fill the rows Complete submission and Unresolved question. Keep both project decisions unresolved.
+8. Type `Submission distinction` and insert a 2-column, 3-row table with the headings Record type and Observable distinction. Fill the rows Complete submission and Unresolved question. Keep both project decisions unresolved.
 
 ![A two-row table separates a complete submission from an unresolved question](./images/c02-02-submission-distinction.png)
 

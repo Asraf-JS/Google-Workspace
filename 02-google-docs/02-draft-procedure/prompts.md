@@ -86,7 +86,7 @@ Sources: project-facts.txt (facts); reporting-guidance.txt v1 (proposed guidance
 
 ## Part 6: Walkthrough and Distinction Labels
 
-Section 2.4, steps 3 to 7.
+Section 2.4, steps 3 to 8.
 
 ```text
 Example weekly submission - fictional supplied record
@@ -97,17 +97,19 @@ Missing-owner route - proposed practice
 ```
 
 ```text
-Before:
-After:
-Preserved checks:
-```
-
-```text
 Paper walkthrough A - normal supplied T001
 ```
 
 ```text
 Paper walkthrough B - incomplete card T-TEST-A
+```
+
+Type these above Paper walkthrough A in step 6:
+
+```text
+Before:
+After:
+Preserved checks:
 ```
 
 ```text
