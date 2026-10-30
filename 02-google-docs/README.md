@@ -20,7 +20,7 @@ Each section explains **why** the task matters. Work through one numbered task, 
 
 | Day | # | Chapter | Copyable text | What you will do | Time |
 |---|---|---|---|---|---|
-| 1 | 01 | [Prepare the Document and Sources](./01-document-sources/README.md) | [Copy in lesson](./01-document-sources/README.md) | Build a Source and Requirements Register. | 40 min |
+| 1 | 01 | [Prepare the Document and Sources](./01-document-sources/README.md) | [Copy in lesson](./01-document-sources/README.md) | Set up the working document with its sources, evidence tables and tested links. | 40 min |
 | 1 | 02 | [Plan and Draft with Gemini](./02-draft-procedure/README.md) | [Copy in lesson](./02-draft-procedure/README.md) | Develop an Executable Procedure and Test Its Logic. | 55 min |
 | 1 | 03 | [Apply Styles and Navigation](./03-styles-navigation/README.md) | [Copy in lesson](./03-styles-navigation/README.md) | Organise a Longer Document and Repair Its Navigation. | 55 min |
 | 1 | 04 | [Prepare a Professional Page Layout](./04-page-layout/README.md) | [Copy in lesson](./04-page-layout/README.md) | Lay Out a Usable Multi-Page Procedure. | 50 min |
