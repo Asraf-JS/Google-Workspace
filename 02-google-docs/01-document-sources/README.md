@@ -116,7 +116,7 @@ This part creates your **Authoring Log**: the evidence behind the procedure. Wor
 
 ### 1.4.1 Add the source register
 
-**Why:** each source has a different job. This register records what you can—and cannot—claim from it.
+**Why:** each source has a different job. This register records what you can and cannot claim from it.
 
 1. In your working document, go to the end and press **Enter** twice to make a blank line.
 2. Click **Copy heading and table** below. In Google Docs, click that blank line and press **Ctrl+V** once. The two headings and complete table paste together.

@@ -145,12 +145,13 @@ The draft distinguishes known project facts from a proposed training procedure. 
 
 ### 2.3.1 Insert the supplied draft once
 
-1. Above **Authoring Log**, click at the end of the purpose statement and create a blank paragraph.
-2. Paste the complete reference draft below once; its title and four section labels are included.
-3. Compare it with your reviewed AI response and explain one repair.
-4. Keep step 4 as supplied for now; you will add the missing status definitions in 2.4.
+Everyone continues from the same reference draft, so the rest of the lab works the same for every learner. Your Gemini review still matters: you will use it to judge this draft and to choose the repair in 2.4.2.
 
-Paste this complete reference once, then compare its meaning with your reviewed response. Without Gemini, review this reference against the sources. Step 4 is deliberately incomplete until the repair in 2.4.2.
+1. Keep `project-facts.txt` open in another tab so you can compare commitments.
+2. Above **Authoring Log**, click at the end of the purpose statement and create a blank paragraph.
+3. Paste the complete reference draft below once; its title and four section labels are included.
+4. Compare it with your reviewed AI response. In your AI draft review, add one line naming a problem from the Gemini reply that the reference avoids.
+5. Keep step 4 as supplied for now; it is deliberately incomplete until the repair in 2.4.2.
 
 ```text
 Weekly reporting procedure - proposed training practice
@@ -174,13 +175,7 @@ Resolve Questions
 
 **Check:** The procedure has four section labels and eight steps above Authoring Log.
 
-### 2.3.2 Keep the fact sheet available
-
-1. Keep `project-facts.txt` open in another tab so a reviewer can compare commitments.
-
-**Check:** You can open the fact sheet for comparison.
-
-### 2.3.3 Add the open decisions
+### 2.3.2 Add the open decisions
 
 1. Under procedure step 8, paste the Questions for the Sponsor block below once; the heading and both decisions are included.
 
@@ -243,9 +238,12 @@ The plan is supplied to save transcription. Verify the source labels and action/
 
 ### 2.4.2 Repair the status check
 
-1. Check the plan against `reporting-guidance.txt` and the fact sheet.
-2. Mark each factual instruction with its source in brackets, such as `(facts)` or `(guidance)`, and mark workflow details you designed as `(proposed)`.
-3. Then fix procedure step 4 so that it lists all three statuses (Not Started, In Progress and Complete), the repair your AI draft review asked for.
+1. Check the plan against `reporting-guidance.txt` and the fact sheet. The source tags in brackets, `(facts)`, `(guidance)` and `(proposed)`, are already supplied: confirm that each one points to the right source and change any that don't.
+2. Now fix procedure step 4 so that it lists all three statuses (Not Started, In Progress and Complete), the repair your AI draft review asked for.
+3. In the procedure (not the plan table), select the whole of step 4, from `4.` to the end of its paragraph.
+4. Copy the replacement below and press **Ctrl+V** to paste over the selection.
+
+**Replacement for procedure step 4**
 
 ```text
 4. Check the three proposed guidance categories: Not Started means work has not begun; In Progress means work has begun without owner-confirmed completion; Complete means the owner has confirmed the agreed output is ready for review. Preserve an unfamiliar label as a clarification query rather than inventing a mapping.
@@ -255,7 +253,7 @@ The plan is supplied to save transcription. Verify the source labels and action/
 
 *The arrow marks the repaired step 4. An unfamiliar label becomes a clarification query rather than a guessed status.*
 
-**Check:** Step 4 contains all three meanings and keeps unfamiliar labels unresolved.
+**Check:** Step 4 contains all three meanings and keeps unfamiliar labels unresolved. The procedure still has eight steps.
 
 ### 2.4.3 Write a normal submission
 
@@ -265,14 +263,14 @@ The plan is supplied to save transcription. Verify the source labels and action/
 
 ### 2.4.4 Trace a missing owner
 
-1. Below the example, type `Missing-owner route - proposed practice` and describe what happens for test card T-TEST-A provided below .
+1. Below the example, type `Missing-owner route - proposed practice` and describe what happens for test card T-TEST-A, provided below.
 2. The route must stop anyone from guessing an owner and say what needs clarifying.
 
 **Case input to analyse**
 
 Read this fictional case here; you do not need to paste the case itself. Record your own check or decision where instructed.
 
-> Walkthrough A: TaskID T-TEST-A, owner missing, status In Progress, exception “awaiting owner confirmation”. Walkthrough B: TaskID T-TEST-B, owner Siti Aminah, status Blocked. These are separate fictional procedure test cases; do not add them to the task workbook.
+> Test card T-TEST-A: owner missing, status In Progress, exception “awaiting owner confirmation”. Test card T-TEST-B (used later in Independent Practice): owner Siti Aminah, status Blocked. These are separate fictional procedure test cases; do not add them to the task workbook.
 
 ![The T001 example submission and the missing-owner route for T-TEST-A](./images/c02-02-normal-and-exception.png)
 
@@ -280,10 +278,28 @@ Read this fictional case here; you do not need to paste the case itself. Record 
 
 **Check:** The missing-owner route asks for clarification rather than assigning someone.
 
-### 2.4.5 Clarify the submission action
+### 2.4.5 Walk through both routes
 
-1. Rewrite procedure step 5 (Submit for Review) to make it clearer, using Gemini or by hand.
-2. In the Authoring Log, type `Before:` and `After:` lines with the old and new wording, and a `Preserved checks:` line listing what the rewrite kept.
+**Why:** reading the procedure as if you were the contributor shows where it stops giving a clear next action. You will repair what you find in 2.4.6.
+
+1. Below the missing-owner route, type `Paper walkthrough A - normal supplied T001`. Follow the eight procedure steps with T001 and note the next action each step gives you.
+2. Below it, type `Paper walkthrough B - incomplete card T-TEST-A` and do the same with the missing-owner card.
+3. Under each walkthrough, type `Observed ambiguity:` and record any step where you weren't sure what to do. Look closely at step 5: what happens to the draft while the route is unagreed?
+
+![Paper walkthroughs A and B with the observed ambiguity and its repair](./images/c02-02-paper-walkthroughs.png)
+
+*Walkthrough A found that "request agreement" didn't say what to do with the draft while waiting. The reference author then recorded the step 5 repair you will make in 2.4.6. In the reference document the rewrite record sits above the walkthroughs; yours follows them.*
+
+**Check:** Both walkthroughs record what happened and at least one observed ambiguity.
+
+### 2.4.6 Repair the submission step
+
+1. Copy the current wording of procedure step 5 (Submit for Review); you need it for the Before line.
+2. Rewrite step 5 so it answers the ambiguity from your walkthrough, using Gemini or by hand. To use the reference wording, select the whole of step 5 and paste the replacement below over it.
+3. In the Authoring Log, below the walkthroughs, type `Clarity rewrite - Submit for Review, step 5`, then `Before:` and `After:` lines with the old and new wording, and a `Preserved checks:` line listing what the rewrite kept.
+4. Under your walkthrough, add `Repair:` and name the change to step 5.
+
+**Replacement for procedure step 5**
 
 ```text
 5. Prepare a review-ready draft containing task ID, recorded owner, one supported status and an exception note when needed. The fact sheet requires Friday reporting. Before sending, obtain agreement on the submission channel, review recipient and cut-off time; if any is missing, retain the draft and record a routing query. This exercise sends nothing.
@@ -293,24 +309,11 @@ Read this fictional case here; you do not need to paste the case itself. Record 
 
 *The new step 5 keeps the draft and records a routing query while the channel, recipient and cut-off are unresolved.*
 
-**Check:** The rewrite keeps the draft while routing is unresolved.
-
-### 2.4.6 Walk through both routes
-
-1. Do two paper walkthroughs.
-2. Under `Paper walkthrough A - normal supplied T001`, follow the procedure with T001 and note where it gives a clear next action.
-3. Under `Paper walkthrough B - incomplete card T-TEST-A`, do the same with the missing-owner card.
-4. Record any ambiguity and the repair you made.
-
-![Paper walkthroughs A and B with the observed ambiguity and its repair](./images/c02-02-paper-walkthroughs.png)
-
-*Walkthrough A found that "request agreement" didn't say what to do with the draft while waiting. Step 5 was repaired.*
-
-**Check:** Both walkthroughs record what happened and any repair.
+**Check:** The rewrite keeps the draft while routing is unresolved, and the procedure still has eight steps.
 
 ### 2.4.7 Compare submission and question
 
-1. Paste the distinction table and its heading below the walkthroughs once.
+1. Click **Copy heading and table** below and paste once with **Ctrl+V**, below your step 5 rewrite record.
 2. Verify both descriptions against your walkthroughs.
 3. Explain why a review-ready draft is not necessarily ready to send.
 4. Keep both project decisions unresolved.
