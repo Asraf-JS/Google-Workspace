@@ -14,16 +14,16 @@
 
 ## Proposed Chapters
 
-| Day | # | Chapter | Prompts and values | What you will do | Minutes |
+| Day | # | Chapter | Copyable text | What you will do | Minutes |
 |---|---|---|---|---|---|
-| 1 | 01 | [Create and Navigate a Workbook](./01-workbook-basics/README.md) | [Prompts and values](./01-workbook-basics/prompts.md) | Build a Workbook Map and Reconstruct a Small Register. | 40 |
-| 1 | 02 | [Enter and Format Reliable Data](./02-format-data/README.md) | [Prompts and values](./02-format-data/prompts.md) | Diagnose Display, Type and Readability Problems. | 45 |
-| 1 | 03 | [Calculate and Copy Formulas](./03-basic-calculations/README.md) | [Prompts and values](./03-basic-calculations/prompts.md) | Test Calculations With Zeros, Blanks and Reference Errors. | 65 |
-| 1 | 04 | [Clean and Organise Records](./04-clean-sort-freeze/README.md) | [Prompts and values](./04-clean-sort-freeze/prompts.md) | Clean an Intake and Prove That Records Stay Together. | 50 |
-| 1 | 05 | [Validate and Filter the Register](./05-validation-filtering/README.md) | [Prompts and values](./05-validation-filtering/prompts.md) | Design and Verify Entry Rules and Focused Views. | 50 |
-| 1 | 06 | [Summarise and Visualise](./06-summary-chart/README.md) | [Prompts and values](./06-summary-chart/prompts.md) | Build a Second Summary and Diagnose a Misleading Chart. | 55 |
-| 1 | 07 | [Share and Prepare Output](./07-sharing-print/README.md) | [Prompts and values](./07-sharing-print/prompts.md) | Prepare a Readable, Scoped and Reproducible Output. | 40 |
-| 1 | 08 | [Complete the Register Challenge](./08-register-challenge/README.md) | [Prompts and values](./08-register-challenge/prompts.md) | Stress-Test the Extended Register and Complete the Handover. | 45 |
+| 1 | 01 | [Create and Navigate a Workbook](./01-workbook-basics/README.md) | [Copy in lesson](./01-workbook-basics/README.md) | Build a Workbook Map and Reconstruct a Small Register. | 40 |
+| 1 | 02 | [Enter and Format Reliable Data](./02-format-data/README.md) | [Copy in lesson](./02-format-data/README.md) | Diagnose Display, Type and Readability Problems. | 45 |
+| 1 | 03 | [Calculate and Copy Formulas](./03-basic-calculations/README.md) | [Copy in lesson](./03-basic-calculations/README.md) | Test Calculations With Zeros, Blanks and Reference Errors. | 65 |
+| 1 | 04 | [Clean and Organise Records](./04-clean-sort-freeze/README.md) | [Copy in lesson](./04-clean-sort-freeze/README.md) | Clean an Intake and Prove That Records Stay Together. | 50 |
+| 1 | 05 | [Validate and Filter the Register](./05-validation-filtering/README.md) | [Copy in lesson](./05-validation-filtering/README.md) | Design and Verify Entry Rules and Focused Views. | 50 |
+| 1 | 06 | [Summarise and Visualise](./06-summary-chart/README.md) | [Copy in lesson](./06-summary-chart/README.md) | Build a Second Summary and Diagnose a Misleading Chart. | 55 |
+| 1 | 07 | [Share and Prepare Output](./07-sharing-print/README.md) | [Copy in lesson](./07-sharing-print/README.md) | Prepare a Readable, Scoped and Reproducible Output. | 40 |
+| 1 | 08 | [Complete the Register Challenge](./08-register-challenge/README.md) | [Copy in lesson](./08-register-challenge/README.md) | Stress-Test the Extended Register and Complete the Handover. | 45 |
 
 ## Inputs and Checks
 

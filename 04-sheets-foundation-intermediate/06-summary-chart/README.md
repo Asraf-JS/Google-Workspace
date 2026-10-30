@@ -2,7 +2,6 @@
 
 In this chapter you will build a simple conditional total and chart; ask Gemini to explain a checked formula if available.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 55 minutes: 10 explanation/demonstration, 25 guided build and casework, 15 independent challenge, 5 verification and repair. The active portion is 45 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,14 +17,28 @@ In this chapter you will build a simple conditional total and chart; ask Gemini 
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use Tasks and the starter Summary tab. Existing baseline status counts are four per category.
 
 ## 6.1 Count Statuses
 
 1. In Summary B2 enter `=COUNTIF(Tasks!$F$2:$F$13,A2)` and fill through B4.
+
+**Copy: Typed Values**
+
+```text
+=COUNTIF(Tasks!$F$2:$F$13,A2)
+```
+
 2. Add a total in B5 using `=SUM(B2:B4)` and label A5 Total.
+
+**Copy: Typed Values**
+
+```text
+=SUM(B2:B4)
+```
+
 3. In D1:E4 add team labels and use SUMIF over Tasks B2:B13 and G2:G13 to calculate planned cost by team.
 
 <details markdown="1">
@@ -41,6 +54,13 @@ Status counts are 4/4/4 and total 12. Planned team totals are Planning 2,800, Pr
 
 1. Select Summary A1:B4, excluding the total row. Choose Insert, Chart.
 2. Choose a column chart and title it `Task count by status`.
+
+**Copy: Typed Values**
+
+```text
+Task count by status
+```
+
 3. Inspect category labels and make sure no blank category or total has become a fourth status.
 
 <details markdown="1">
@@ -70,6 +90,15 @@ Both your explanation and the chart's update behaviour have been checked against
 ## 6.4 Build a Second Summary and Diagnose a Misleading Chart
 
 1. Add a second chart for planned cost by team using the checked D:E summary. Label currency units and keep task counts separate from cost amounts.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Troubleshooting card: A status chart shows Complete, In Progress, Not Started and Total. Another summary says 4, 4 and 0 even though 12 task rows remain. Investigate source range and exact criterion spelling before altering the chart design.
+```
+
 
 2. Create a small **Summary Checks** block comparing total status counts with the number of TaskIDs and team planned totals with Tasks planned total.
 

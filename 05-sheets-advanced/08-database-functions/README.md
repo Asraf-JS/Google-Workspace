@@ -2,7 +2,6 @@
 
 In this chapter you will use DSUM, DCOUNT and DAVERAGE with a visible criteria range and reconcile against a manual subset.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 60 minutes: 15 explanation/demonstration, 17 guided build and casework, 20 independent challenge, 8 verification and repair. The active portion is 45 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,7 +17,7 @@ In this chapter you will use DSUM, DCOUNT and DAVERAGE with a visible criteria r
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use Orders A1:J25, including Amount. Keep criteria outside the source table.
 
@@ -26,6 +25,20 @@ Use Orders A1:J25, including Amount. Keep criteria outside the source table.
 
 1. On Analysis type Status in A10 and Delivered in A11. Match the Orders header exactly.
 2. In C10 type `Delivered amount`. In D10 enter `=DSUM(Orders!A1:J25,"Amount",A10:A11)`.
+
+**Copy: Typed Values**
+
+```text
+Delivered amount
+```
+
+
+**Copy: Typed Values**
+
+```text
+=DSUM(Orders!A1:J25,"Amount",A10:A11)
+```
+
 3. Compare the result with the delivered control total.
 
 <details markdown="1">
@@ -40,7 +53,35 @@ DSUM returns 1,478 using the visible Delivered criterion.
 ## 8.2 Count and Average
 
 1. In C11 type `Delivered numeric quantity records`; in D11 enter `=DCOUNT(Orders!A1:J25,"Quantity",A10:A11)`.
+
+**Copy: Typed Values**
+
+```text
+Delivered numeric quantity records
+```
+
+
+**Copy: Typed Values**
+
+```text
+=DCOUNT(Orders!A1:J25,"Quantity",A10:A11)
+```
+
 2. In C12 type `Average delivered unit cost`; in D12 enter `=DAVERAGE(Orders!A1:J25,"UnitCost",A10:A11)`.
+
+**Copy: Typed Values**
+
+```text
+Average delivered unit cost
+```
+
+
+**Copy: Typed Values**
+
+```text
+=DAVERAGE(Orders!A1:J25,"UnitCost",A10:A11)
+```
+
 3. Discuss why DCOUNT of the text OrderID field would not count order IDs like a text-aware count.
 
 <details markdown="1">
@@ -70,6 +111,15 @@ The database function and ordinary conditional formula agree when their criteria
 ## 8.4 Prove AND, OR and Overlapping Criteria
 
 1. Create three separate criteria blocks with exact source headers: Delivered AND PJ-A; Delivered OR Pending; and Delivered OR PJ-A. Label each natural-language population.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Criteria cases: Status=Delivered AND Project=PJ-A; Status=Delivered OR Status=Pending; Status=Delivered OR Project=PJ-A. The last case overlaps. DCOUNT uses numeric Quantity; OrderID is text and must not be treated as a numeric record count.
+```
+
 
 2. Use same-row criteria for the AND block and separate criteria rows for OR blocks. Keep blocks spatially separate from result cells.
 

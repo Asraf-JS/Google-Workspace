@@ -2,7 +2,6 @@
 
 In this chapter you will inspect access, print a selected range and check scaling and page breaks.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 40 minutes: 10 explanation/demonstration, 10 guided build and casework, 15 independent challenge, 5 verification and repair. The active portion is 30 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,7 +17,7 @@ In this chapter you will inspect access, print a selected range and check scalin
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use the checked register. No public publishing or email distribution is required.
 
@@ -70,6 +69,15 @@ You can distinguish file access, a print/export copy and a published web view.
 ## 7.4 Prepare a Readable, Scoped and Reproducible Output
 
 1. Write an output brief for a contributor who needs working input cells and a sponsor who needs a fixed summary. Identify the intended file and scope for each.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Output brief: Sponsor wants a readable summary of the 12-task baseline and planned costs. Contributor needs all task rows and labels. Exclude Entry Practice, temporary rule tests and unrelated helper notes from the sponsor handout.
+```
+
 
 2. Inspect **Share** settings and current inheritance without changing access. Record proposed reader/editor roles separately from actual tested permissions.
 

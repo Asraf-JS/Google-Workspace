@@ -14,20 +14,20 @@
 
 ## Proposed Chapters
 
-| Day | # | Chapter | Prompts and values | What you will do | Minutes |
+| Day | # | Chapter | Copyable text | What you will do | Minutes |
 |---|---|---|---|---|---|
-| 1 | 01 | [Audit the Source Register](./01-source-audit/README.md) | [Prompts and values](./01-source-audit/prompts.md) | Quarantine Bad Rows and Write a Data Contract. | 45 |
-| 1 | 02 | [Build Conditional Calculations](./02-conditional-logic/README.md) | [Prompts and values](./02-conditional-logic/prompts.md) | Reconcile Three Populations and Test Conditional Boundaries. | 75 |
-| 1 | 03 | [Validate Entries and Flag Exceptions](./03-validation-exceptions/README.md) | [Prompts and values](./03-validation-exceptions/prompts.md) | Create a Rule Test Harness and Reconcile Exceptions. | 65 |
-| 1 | 04 | [Combine and Clean Text](./04-text-cleaning/README.md) | [Prompts and values](./04-text-cleaning/prompts.md) | Build a Reversible Text Normalisation Pipeline. | 60 |
-| 1 | 05 | [Match Records and Handle Errors](./05-lookups-errors/README.md) | [Prompts and values](./05-lookups-errors/prompts.md) | Challenge Exact Lookups With Missing and Duplicate Keys. | 80 |
-| 1 | 06 | [Complete the Formula Clinic](./06-formula-clinic/README.md) | [Prompts and values](./06-formula-clinic/prompts.md) | Run an Independent Formula Fault Clinic. | 65 |
-| 2 | 07 | [Summarise with Pivot Tables](./07-pivot-tables/README.md) | [Prompts and values](./07-pivot-tables/prompts.md) | Reconcile Pivot Semantics and New-Row Coverage. | 75 |
-| 2 | 08 | [Query Structured Criteria](./08-database-functions/README.md) | [Prompts and values](./08-database-functions/prompts.md) | Prove AND, OR and Overlapping Criteria. | 60 |
-| 2 | 09 | [Build a Dashboard](./09-dashboard/README.md) | [Prompts and values](./09-dashboard/prompts.md) | Design a Dashboard With a Visible Refresh Contract. | 70 |
-| 2 | 10 | [Use Gemini as an Analysis Partner](./10-gemini-analysis/README.md) | [Prompts and values](./10-gemini-analysis/prompts.md) | Evaluate AI Proposals Against Known Test Cases. | 55 |
-| 2 | 11 | [Complete the Analysis Capstone](./11-analysis-capstone/README.md) | [Prompts and values](./11-analysis-capstone/prompts.md) | Complete a Decision Analysis With Independent Evidence. | 80 |
-| 2 | 12 | [Review and Handover](./12-handover/README.md) | [Prompts and values](./12-handover/prompts.md) | Make the Analysis Operable by Another Analyst. | 50 |
+| 1 | 01 | [Audit the Source Register](./01-source-audit/README.md) | [Copy in lesson](./01-source-audit/README.md) | Quarantine Bad Rows and Write a Data Contract. | 45 |
+| 1 | 02 | [Build Conditional Calculations](./02-conditional-logic/README.md) | [Copy in lesson](./02-conditional-logic/README.md) | Reconcile Three Populations and Test Conditional Boundaries. | 75 |
+| 1 | 03 | [Validate Entries and Flag Exceptions](./03-validation-exceptions/README.md) | [Copy in lesson](./03-validation-exceptions/README.md) | Create a Rule Test Harness and Reconcile Exceptions. | 65 |
+| 1 | 04 | [Combine and Clean Text](./04-text-cleaning/README.md) | [Copy in lesson](./04-text-cleaning/README.md) | Build a Reversible Text Normalisation Pipeline. | 60 |
+| 1 | 05 | [Match Records and Handle Errors](./05-lookups-errors/README.md) | [Copy in lesson](./05-lookups-errors/README.md) | Challenge Exact Lookups With Missing and Duplicate Keys. | 80 |
+| 1 | 06 | [Complete the Formula Clinic](./06-formula-clinic/README.md) | [Copy in lesson](./06-formula-clinic/README.md) | Run an Independent Formula Fault Clinic. | 65 |
+| 2 | 07 | [Summarise with Pivot Tables](./07-pivot-tables/README.md) | [Copy in lesson](./07-pivot-tables/README.md) | Reconcile Pivot Semantics and New-Row Coverage. | 75 |
+| 2 | 08 | [Query Structured Criteria](./08-database-functions/README.md) | [Copy in lesson](./08-database-functions/README.md) | Prove AND, OR and Overlapping Criteria. | 60 |
+| 2 | 09 | [Build a Dashboard](./09-dashboard/README.md) | [Copy in lesson](./09-dashboard/README.md) | Design a Dashboard With a Visible Refresh Contract. | 70 |
+| 2 | 10 | [Use Gemini as an Analysis Partner](./10-gemini-analysis/README.md) | [Copy in lesson](./10-gemini-analysis/README.md) | Evaluate AI Proposals Against Known Test Cases. | 55 |
+| 2 | 11 | [Complete the Analysis Capstone](./11-analysis-capstone/README.md) | [Copy in lesson](./11-analysis-capstone/README.md) | Complete a Decision Analysis With Independent Evidence. | 80 |
+| 2 | 12 | [Review and Handover](./12-handover/README.md) | [Copy in lesson](./12-handover/README.md) | Make the Analysis Operable by Another Analyst. | 50 |
 
 ## Inputs and Checks
 

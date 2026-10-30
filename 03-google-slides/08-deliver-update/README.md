@@ -2,7 +2,6 @@
 
 In this chapter you will deliver the update, answer an evidence question and revise one slide after feedback.
 
-> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
 **Estimated time:** 50 minutes, planned as 10 explanation and demonstration, 20 guided build and casework, 15 independent practice and 5 verification and repair. Not yet timed with learners.
 
@@ -20,7 +19,7 @@ In this chapter you will deliver the update, answer an evidence question and rev
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use the checked deck and keep the [source brief](../../shared/sample-files/checked-brief.txt), [project facts](../../shared/sample-files/project-facts.txt) and register available. After earlier labs the reference has **14 retained slides**, including skipped backups/practice and two appendices; it is not a fresh six-slide file. Keep **GW - Slides - Sponsor Update** and **GW - Slides - Linked Data Source** as the baseline. Make a separate practice copy before the feedback revision, then separate scenario deck/data copies for 8.4.
 
@@ -84,6 +83,16 @@ An answer traceable to a source cell/formula or a stated evidence gap. The autho
 
 3. Replace the status title with **12 tasks show current work, not pilot success**. Keep the existing 25 pt title size and inspect that it fits on one line. The three values, chart and visible qualification remain unchanged.
 
+**Copy: Author Reference Values and Feedback**
+
+- Baseline status: Complete 4, In Progress 4, Not Started 4; 12 task records.
+- Baseline evidence: Summary!B2 **=COUNTIF(Tasks!$F$2:$F$13,A2)**; T003 is Tasks!A4:G4 and status F4 is Not Started.
+- Practice copy: **GW - Slides - Final Practice**.
+- Author feedback: name the 12-task population in the status headline. This is not partner feedback.
+- Revised title: **12 tasks show current work, not pilot success**; 25 pt, one line, 4/4/4 and chart unchanged.
+- Practice version: **Final practice - source and wording checked**.
+
+
 ![Revise the headline while retaining counts and qualification](./images/c03-08-06-revised-headline-keeps-twelve-task-population-and-caveat.png)
 
 *Revise the headline while retaining counts and qualification.*
@@ -124,6 +133,42 @@ A targeted revision in a separate practice deck with unchanged baseline counts, 
 *Copy the data workbook without expanding access.*
 
 2. Classify the final brief in the scenario opening notes: shortening to two minutes is editorial; T003 becomes Complete is a data change for the **separate** workbook; **approved budget** and **pilot already successful** are unsupported claims to reject. Record the impact on formulas, chart source identity, visible counts, descriptions, narrative and handout. Expected 5/4/3 is a prediction until the edit/recalculation is verified. The captured setup still shows 4/4/4 and T003 Not Started.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Final brief: Reduce the update to two minutes. In a scenario copy, T003 becomes Complete. A stakeholder also requests the phrases “approved budget” and “pilot already successful”. No new approval or reporting-performance evidence accompanies those phrases. Keep the original baseline separate.
+```
+
+
+**Copy: Scenario Isolation and Impact Plan**
+
+Scenario deck: **GW - Slides - Changed Scenario**. Scenario workbook: **GW - Slides - Scenario Data**. Both are private copies, not new sharing permissions. At the setup stage the copied chart links still used the original source. The completed status replacement now points to Scenario Data; the skipped cost appendix deliberately retains the unchanged baseline cost source.
+
+| Request | Classification | Consequence |
+|---|---|---|
+|Reduce update to two minutes|Editorial|Plan a shorter narrative; preserve the source caveats and useful decision request. Actual speaking time unmeasured.|
+|T003 becomes Complete|Data scenario|Edit only copied Tasks!F4 after verifying workbook identity; expected 5/4/3 still totals 12. Verify recalculation before replacing the deck chart.|
+|Say approved budget|Unsupported claim|Reject; supplied budget remains proposed RM 12000 and not approved.|
+|Say pilot already successful|Unsupported claim|Reject; no new reporting-performance evidence accompanies the phrase.|
+
+
+Copy the table values (tab-separated); fill the native table as instructed:
+
+```text
+Request	Classification	Consequence
+Reduce update to two minutes	Editorial	Plan a shorter narrative; preserve the source caveats and useful decision request. Actual speaking time unmeasured.
+T003 becomes Complete	Data scenario	Edit only copied Tasks!F4 after verifying workbook identity; expected 5/4/3 still totals 12. Verify recalculation before replacing the deck chart.
+Say approved budget	Unsupported claim	Reject; supplied budget remains proposed RM 12000 and not approved.
+Say pilot already successful	Unsupported claim	Reject; no new reporting-performance evidence accompanies the phrase.
+```
+
+Impact list: record status and cost chart sources; verify copied workbook identity; change the scenario task; check COUNTIF population; replace/relink intended status chart; inspect cost source too; update counts/descriptions/source notes/narrative; retain proposed budget / unagreed start; export and compare the changed-scenario handout. Setup captures show the earlier 4/4/4 stage. Later captures verify T003 Complete, 5/4/3, the scenario chart source, revised narrative/description and eight-page handout. Spoken delivery and reviewer test remain pending.
+
+Two-minute planned checkpoints: 0:00 to 0:20 purpose; 0:20 to 0:55 evidence; 0:55 to 1:15 risk; 1:15 to 1:45 decision request; 1:45 to 2:00 next steps. These are planned allocations, not measured speech.
+
 
 ![Record scenario classification and impact before data edits](./images/c03-08-12-scenario-classification-and-impact-plan.png)
 
@@ -194,6 +239,11 @@ A targeted revision in a separate practice deck with unchanged baseline counts, 
 *Compare the unresolved budget and start in the PDF.*
 
 10. Check the [changed-scenario handout](./resources/changed-scenario-handout-r1.pdf) and [revision record](./resources/changed-scenario-release.json). Its internal destinations resolve page **5 → 7 → 5**, after remapping native **5 → 8 → 5**. This is structural PDF validation, not an interactive click result. Name the native version **Changed scenario - data and handout checked**, verify it in history and return with **Back**. Keep baseline and practice files separate.
+
+**Copy: Verified Scenario Outcome**
+
+T003 is Complete only in Scenario Data. Summary counts: 5 Complete, 4 In Progress, 3 Not Started, total 12. Status chart now links to the scenario workbook. Cost appendix remains linked to the unchanged baseline cost source and stays excluded from the handout. Baseline remains 4/4/4. Native milestone: Changed scenario - data and handout checked. All eight PDF pages inspected; internal destinations 5 to 7 and 7 to 5 resolve structurally. Actual speech/reviewer acceptance, interactive PDF clicks, independent challenge and classroom timings remain pending.
+
 
 ![Verify the changed-scenario milestone in history](./images/c03-08-25-changed-scenario-data-and-handout-milestone.png)
 

@@ -2,7 +2,6 @@
 
 In this chapter you will add a status dropdown, identify invalid entries and create a filter view.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 50 minutes: 10 explanation/demonstration, 20 guided build and casework, 15 independent challenge, 5 verification and repair. The active portion is 40 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,7 +17,7 @@ In this chapter you will add a status dropdown, identify invalid entries and cre
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use the original Tasks table, with all 12 baseline records still present.
 
@@ -41,6 +40,13 @@ The original values remain valid and future entries use the same vocabulary.
 
 1. Select A1:I13 and open the filter-view option under Data. Create a new filter view.
 2. Name it `Incomplete tasks` and use the Status filter to exclude Complete.
+
+**Copy: Typed Values**
+
+```text
+Incomplete tasks
+```
+
 3. Count visible task IDs, then close the filter view and confirm that all 12 return.
 
 <details markdown="1">
@@ -55,6 +61,13 @@ Eight tasks are visible in the incomplete view. Closing it restores the full dat
 ## 5.3 Test a Rule Safely
 
 1. Copy the validation rule to a spare test cell outside the register and try `Done`.
+
+**Copy: Typed Values**
+
+```text
+Done
+```
+
 2. Check whether the rule rejects it or shows a warning, and discuss the difference.
 3. Clear the spare test cell. Open your named filter view again to confirm it remains available.
 
@@ -70,6 +83,15 @@ You know the rule's actual behaviour and have not changed the baseline statuses.
 ## 5.4 Design and Verify Entry Rules and Focused Views
 
 1. Create a **Rule Tests** tab with test value, expected accept/reject, observed result and repair columns. Plan tests before changing the rules.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Rule test values: status Complete, In Progress, Not Started, Done and blank; DueWeek 0, 1, 4, 5 and 1.5. DueWeek is a relative index for this training exercise, not an approved calendar schedule.
+```
+
 
 2. Test the three canonical statuses and invalid **Done** using spare validated cells. Record rejection versus warning behaviour.
 

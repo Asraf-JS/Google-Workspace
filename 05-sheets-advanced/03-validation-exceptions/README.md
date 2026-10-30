@@ -2,7 +2,6 @@
 
 In this chapter you will use dropdowns, custom validation and formula-based conditional formatting.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 65 minutes: 15 explanation/demonstration, 22 guided build and casework, 20 independent challenge, 8 verification and repair. The active portion is 50 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,7 +17,7 @@ In this chapter you will use dropdowns, custom validation and formula-based cond
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use a practice copy of Orders. Restore all temporary tests before completing the chapter.
 
@@ -41,6 +40,13 @@ The rules reflect the stated training choices and do not silently invent a posit
 
 1. Select A2:K25 and open Format, Conditional formatting.
 2. Use a custom formula `=AND($G2="Pending",$J2>=200)` and a readable light fill.
+
+**Copy: Typed Values**
+
+```text
+=AND($G2="Pending",$J2>=200)
+```
+
 3. Check the rule starts at source row 2 and applies across the intended rows.
 
 <details markdown="1">
@@ -70,6 +76,15 @@ You have tested both rejection behaviour and the conditional-format threshold.
 ## 3.4 Create a Rule Test Harness and Reconcile Exceptions
 
 1. Create **Validation Tests** with expected result and observed result before trying each input. Include whole zero, positive integer, negative, fractional and text quantities.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Synthetic coverage record, test copy only: PO-TEST | PJ-A | Planning | IT01 | Quantity 5 | UnitCost 45 | Pending | week 4 | Coverage test. Quantity candidates: 0, 2, -1, 1.5, text “two”, blank and numeric text imported from a CSV.
+```
+
 
 2. For whole nonnegative Quantity, inspect a custom rule such as `=AND(ISNUMBER(E2),E2>=0,MOD(E2,1)=0)` on a practice range. Decide and document how a blank should be handled separately.
 

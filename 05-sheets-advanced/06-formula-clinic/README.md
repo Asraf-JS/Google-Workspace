@@ -2,7 +2,6 @@
 
 In this chapter you will debug supplied defects, explain the correction and reconcile a checked sample.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 65 minutes: 15 explanation/demonstration, 22 guided build and casework, 20 independent challenge, 8 verification and repair. The active portion is 50 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,7 +17,7 @@ In this chapter you will debug supplied defects, explain the correction and reco
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use a challenge copy of your advanced workbook. Keep the baseline original untouched.
 
@@ -70,6 +69,15 @@ The baseline is restored and both independent control totals agree.
 ## 6.4 Run an Independent Formula Fault Clinic
 
 1. Create a defect register for wrong match mode, shifted row reference and omitted total row. Include expected behaviour, observed symptom, hypothesis and proof.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Extra fault choices, clinic copy only: change a numeric quantity to text “four”; insert a duplicate lookup key; replace a blank/missing-rate outcome with 0; shorten one delivered summary range by two rows. Diagnose the cause before restoring from Source Snapshot.
+```
+
 
 2. Preserve faulty and repaired formulas side by side on the clinic copy so a reviewer can see the specific change.
 

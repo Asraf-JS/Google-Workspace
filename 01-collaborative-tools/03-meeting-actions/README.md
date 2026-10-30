@@ -17,7 +17,7 @@
 
 Use the checked brief and [meeting-record.txt](../../shared/sample-files/meeting-record.txt). You need Gmail, Calendar and Docs. Use a trainer-assigned future practice slot for the Calendar test; this is not the pilot start date. If Calendar is unavailable, build and label an event specification in the meeting Doc instead.
 
-Use the [copy-paste page](./prompts.md) and [shared practice files](../../shared/sample-files/README.md). Keep fictional role names as text. Use only trainer-assigned test identities for any access test.
+Use the values beside the steps below and [shared practice files](../../shared/sample-files/README.md). Keep fictional role names as text. Use only trainer-assigned test identities for any access test.
 
 ## 3.1 Prepare the Communication
 
@@ -54,6 +54,18 @@ The saved draft contains a purpose, agenda, preparation request and useful links
 
 1. In Calendar choose **Create**, then **Event**. Title it `Practice only - Project Reporting Pilot kick-off`.
 
+**Copy: Practice Event**
+
+```text
+Practice only - Project Reporting Pilot kick-off
+Duration: 30 minutes
+Time zone: Asia/Kuala_Lumpur
+Guests: none
+Pilot start date: To be confirmed
+```
+Use the assigned practice slot, not a guessed project start date.
+
+
 2. Use the assigned 30-minute practice slot. Check the event time zone against **Asia/Kuala_Lumpur**, and inspect whether the displayed start and end match the intended local time.
 
 3. Leave guests empty. Remove automatically added conferencing if it is not needed for this private test. Add the agenda and brief link in the description, labelled as fictional practice.
@@ -80,6 +92,23 @@ A private practice event, or clearly labelled fallback specification, has the co
 Keep **Actions** and its table together; insert a page break before the heading if needed.
 
 2. Under Actions insert a table: ActionID, Action, Owner, Due practice week, Status and Evidence. Manually extract the three preparation commitments, or use the supplied extraction prompt then audit each row.
+
+**Copy: Extraction Prompt**
+
+**Session:** new chat | **Grounding:** pasted scripted record only
+```text
+Reply in the side panel only. Do not edit files, send messages or create tasks. Extract only explicit commitments from the RECORD below into Action, Owner and Due practice week. Separately list unresolved decisions. Do not infer completion, invent dates or treat the budget proposal as approval. Use British English.
+RECORD:
+[paste meeting-record.txt in full]
+```
+
+
+**Copy: Table Headings**
+
+```text
+ActionID | Action | Owner | Due practice week | Status | Evidence
+```
+
 
 3. Compare every owner and due week against the source. Distinguish these three preparation commitments from the separate 12-row task dataset. Do not merge them by matching names.
 

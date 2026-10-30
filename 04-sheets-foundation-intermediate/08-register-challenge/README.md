@@ -2,7 +2,6 @@
 
 In this chapter you will add records, repair a formula and reconcile the totals independently.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 45 minutes: 10 explanation/demonstration, 15 guided build and casework, 15 independent challenge, 5 verification and repair. The active portion is 35 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,13 +17,20 @@ In this chapter you will add records, repair a formula and reconcile the totals 
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Make a separate challenge copy of your workbook. The original 12-record baseline must stay intact.
 
 ## 8.1 Add a New Record
 
 1. Add T013 for Planning, task `Check the handover`, owner Aina Rahman, DueWeek 4, Status Not Started, PlannedCost 200 and ActualCost 0.
+
+**Copy: Typed Values**
+
+```text
+Check the handover
+```
+
 2. Extend validation and copy the variance formula into its row.
 3. Identify every bounded count, sum and named range that must include the new row, then extend them.
 
@@ -70,6 +76,15 @@ Your explanation is supported by cells and the maintained baseline is preserved.
 ## 8.4 Stress-Test the Extended Register and Complete the Handover
 
 1. On the existing 13-record challenge copy, add a **Change Log** naming every range extended for T013: row formula, totals, named range, validation, filter views and summary.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Corrections and extension: T013 ActualCost becomes 150. Further-copy T014: Procurement | Verify submission checklist | Bala Kumar | week 4 | In Progress | planned 300 | actual 100. Keep all three states separate: original baseline, 13-record corrected challenge, 14-record extension.
+```
+
 
 2. Inspect the formula in every variance row and confirm the copied calculation follows its own record after any sort.
 

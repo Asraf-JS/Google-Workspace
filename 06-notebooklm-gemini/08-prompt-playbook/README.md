@@ -2,7 +2,6 @@
 
 In this chapter you will explain the workflow, review criteria, time observations and limits.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 40 minutes: 10 explanation/demonstration, 10 guided build and casework, 15 independent challenge, 5 verification and repair. The active portion is 30 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,7 +17,7 @@ In this chapter you will explain the workflow, review criteria, time observation
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use the checked FAQ, evidence review and pilot timing record. Keep the playbook in your practice workspace.
 
@@ -40,6 +39,20 @@ The playbook describes a repeatable task rather than a collection of disconnecte
 ## 8.2 Test Another Run
 
 1. Give a partner the fictional pack and your playbook, or follow it yourself in a fresh session.
+
+**Copy: Evidence Question Bank**
+
+```text
+1. What is the pilot’s purpose and duration?
+2. Which three teams participate?
+3. What reporting cadence and success measure are stated?
+4. Is the RM 12,000 ceiling approved?
+5. What start date is confirmed?
+6. Which preparation actions, owners and due weeks are explicit?
+```
+
+Keep source facts separate from inferred workflow. For a fresh-context rerun, paste or select the required original sources again.
+
 2. Check whether they can identify the required sources and acceptance criteria without extra explanation.
 3. Record a confusing instruction and revise it. Do not overwrite the source evidence to make an output appear correct.
 
@@ -97,6 +110,15 @@ Versioned playbook with exact input and review/recovery instructions. The result
 Close the earlier step lists for the first attempt. Use the case input and your own reasoning. If you need help, record the hint and repeat the affected check independently.
 
 1. Use the independent handover brief to produce a sponsor summary in a fresh context without the original chat history.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Independent handover brief: In a fresh context, write an 80 to 100 word sponsor summary of the pilot from the core sources. Then answer “Which supplier has been appointed?” Preserve source limits. No supplier appointment evidence is supplied.
+```
+
 
 2. Audit it against the same factual invariants and demonstrate the missing-fact recovery procedure.
 

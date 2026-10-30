@@ -2,7 +2,6 @@
 
 In this chapter you will check types, blanks, duplicates and keys before analysis.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 45 minutes: 10 explanation/demonstration, 15 guided build and casework, 15 independent challenge, 5 verification and repair. The active portion is 35 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,13 +17,20 @@ In this chapter you will check types, blanks, duplicates and keys before analysi
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Download [ProcurementRegister.xlsx](../../shared/sample-files/ProcurementRegister.xlsx). It contains 24 fictional order lines and a six-item rate table, separate from the pilot budget.
 
 ## 1.1 Prepare the Workbook
 
 1. Upload the workbook and save a native Google Sheets copy named `GW - Sheets Advanced - Analysis`.
+
+**Copy: Typed Values**
+
+```text
+GW - Sheets Advanced - Analysis
+```
+
 2. Open Orders. Confirm headers in A1:I1 and records PO001 to PO024 in rows 2:25.
 3. Open Rates and confirm six unique item codes in A2:A7.
 
@@ -55,7 +61,21 @@ The baseline has 24 unique order IDs and the expected categories.
 ## 1.3 Protect the Analysis Trail
 
 1. Duplicate Orders as `Source Snapshot` before adding calculations.
+
+**Copy: Typed Values**
+
+```text
+Source Snapshot
+```
+
 2. Create a new tab called `Analysis` for summaries.
+
+**Copy: Typed Values**
+
+```text
+Analysis
+```
+
 3. Record the source range and meaning of an order line in a note outside the working table.
 
 <details markdown="1">
@@ -70,6 +90,15 @@ The original supplied values can be compared with later analysis without guessin
 ## 1.4 Quarantine Bad Rows and Write a Data Contract
 
 1. Create **Audit Intake** and preserve the six anomaly records from the copy-paste card separately from Orders. Add Issue, Evidence and Disposition columns.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Separate intake anomalies: duplicate PO001 with changed quantity; missing OrderID; ItemCode IT99; Quantity “four”; valid zero quantity; valid Cancelled status. Do not inject these into Orders. Other fields can be copied from a source row only in Audit Intake and labelled as practice.
+```
+
 
 2. Define one row’s grain, OrderID uniqueness, valid ItemCode mapping, allowed status vocabulary and numeric Quantity/UnitCost requirements in a **Data Contract** section.
 

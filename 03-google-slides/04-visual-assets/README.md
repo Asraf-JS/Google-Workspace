@@ -2,7 +2,6 @@
 
 In this chapter you will insert media, try an AI image where available and document image provenance.
 
-> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
 **Estimated time:** 55 minutes, planned as 10 explanation and demonstration, 25 guided build and casework, 15 independent practice and 5 verification and repair. Not yet timed with learners.
 
@@ -20,7 +19,7 @@ In this chapter you will insert media, try an AI image where available and docum
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use the working deck. Only use supplied, self-created or otherwise permitted media. AI generation is optional where unavailable.
 
@@ -38,7 +37,16 @@ Use the working deck. Only use supplied, self-created or otherwise permitted med
 
 ## 4.2 Try a Generated Image
 
-1. Where available, click **Image** in the right-hand rail to open **Help me visualise**. Enter the bounded prompt from the prompts page and select **Create**. Availability can differ by account.
+1. Where available, click **Image** in the right-hand rail to open **Help me visualise**. Enter the bounded prompt provided below and select **Create**. Availability can differ by account.
+
+**Copy: Bounded Prompt Used in the Reference**
+
+```text
+Create a simple flat editorial illustration of a generic office team reviewing a fictional project register on a blank screen. Use faceless silhouettes; no identifiable people, no logos, no brands, no readable text, no construction site, no safety equipment or machinery, no dates, no currency or approval symbols. Clearly conceptual office context, not documentary evidence. Wide 16:9 composition with neutral colours.
+```
+
+The actual result contains five generic people and a blank grid. Inspect your own result; the prompt alone does not establish suitability.
+
 
 ![Enter the bounded illustration prompt before generating](./images/c03-04-02-bounded-image-prompt.png)
 
@@ -62,6 +70,13 @@ Use the working deck. Only use supplied, self-created or otherwise permitted med
 
 1. Select the informative image. Open **Format options > Alt text** (the image options may expose the same control). Enter a useful description that includes its limited purpose, rather than repeating its filename or claiming it shows real activity.
 
+**Copy: Image Alternative Text**
+
+```text
+AI-generated conceptual office illustration: five generic people review a blank project grid. It illustrates a discussion only; it does not explain the correction path or depict real project activity.
+```
+
+
 ![Give the image a purpose-specific alternative text](./images/c03-04-05-meaningful-image-alt-text.png)
 
 *Give the image a purpose-specific alternative text.*
@@ -84,7 +99,42 @@ Use the working deck. Only use supplied, self-created or otherwise permitted med
 
 1. In Drive, click **New**, **Google Slides**, **Blank presentation** and name it **GW - Slides - Visual Casework**. Write one purpose sentence for every planned visual. The process designs explain a correction route; the office illustration supplies optional context and is rejected as evidence of that route. Keep the working deck's factual content unchanged.
 
-2. On a Title only slide, build **Collect → Check → Report** using native rectangles and arrow connectors. Label the stages **Collect / Source register**, **Check / With task owner**, and **Report / Checked update → hub**. Below them, show the maintained task register as the source of truth and the complete exception route from the prompts page.
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Visual brief: Help a new coordinator understand where an unclear task status is corrected. An office photograph may illustrate context but cannot show the correction path. No visual may imply real construction activity, a confirmed launch or an approved purchase.
+```
+
+
+2. On a Title only slide, build **Collect → Check → Report** using native rectangles and arrow connectors. Label the stages **Collect / Source register**, **Check / With task owner**, and **Report / Checked update → hub**. Below them, show the maintained task register as the source of truth and the complete exception route provided below.
+
+**Copy: Captured Workflow and Casework Values**
+
+```text
+GW - Slides - Visual Casework
+Source register
+Checked update
+Project hub
+
+Collect → Check → Report
+Collect / Source register
+Check / With task owner
+Report / Checked update → hub
+
+Who corrects the status? - proposed roles
+Contributor → Correct maintained register
+Reviewer → Recheck update against source
+Coordinator → Report checked update → hub
+
+Source of truth: maintained task register
+Unclear status → ask task owner → correct source → recheck update
+Missing owner? Flag for clarification; never guess.
+```
+
+Roles are proposed training practice, not approved policy. The same source-of-truth and exception route must appear in both designs.
+
 
 ![Build the linear design with its source and correction route](./images/c03-04-08-linear-workflow-and-exception.png)
 
@@ -103,6 +153,29 @@ Use the working deck. Only use supplied, self-created or otherwise permitted med
 *Record the author comparison and pending reviewer test.*
 
 5. Add a native table using **Insert > Table**. Use five columns: **Asset**, **Purpose**, **Origin**, **Rights / reuse**, **Text alternative**. Record the Scope workflow, linear design, selected responsibility design and optional AI illustration. The reference uses a five-row table with 10 pt text as a detailed register, not a classroom presentation slide; enlarge or split it when presenting to a group. Put full purpose sentences, source qualifications and the untested video dependency in notes.
+
+**Copy: Visual Register Reference**
+
+| Asset | Purpose | Origin | Rights / reuse | Text alternative |
+|---|---|---|---|---|
+| Scope workflow | Explain register-to-update-to-hub sequence | Self-created native shapes | Review before external reuse | Register → checked update → hub |
+| Linear workflow | Explain collect/check/report sequence | Self-created; guidance v1 | Proposed manual practice | Ask owner; correct source; recheck |
+| Responsibility design, selected | Name the contributor correction point | Self-created proposed roles | Roles need local agreement | Contributor corrects maintained register |
+| Optional office illustration | Illustrate conceptual discussion context | AI-generated in Slides, 21 October 2026 | Applicable terms/permission check pending | Five generic people review a blank grid |
+
+
+Copy the table values (tab-separated); fill the native table as instructed:
+
+```text
+Asset	Purpose	Origin	Rights / reuse	Text alternative
+Scope workflow	Explain register-to-update-to-hub sequence	Self-created native shapes	Review before external reuse	Register → checked update → hub
+Linear workflow	Explain collect/check/report sequence	Self-created; guidance v1	Proposed manual practice	Ask owner; correct source; recheck
+Responsibility design, selected	Name the contributor correction point	Self-created proposed roles	Roles need local agreement	Contributor corrects maintained register
+Optional office illustration	Illustrate conceptual discussion context	AI-generated in Slides, 21 October 2026	Applicable terms/permission check pending	Five generic people review a blank grid
+```
+
+The responsibility layout is the author's selection; reviewer comprehension remains untested. No permitted video was supplied, so video insertion/playback remain pending and static diagrams are the fallback. Independent exception design remains pending.
+
 
 ![Register all four assets with origin and reuse uncertainty](./images/c03-04-11-visual-register.png)
 

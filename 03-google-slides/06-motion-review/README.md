@@ -2,7 +2,6 @@
 
 In this chapter you will apply restrained transitions and animations; inspect contrast, reading order and version history.
 
-> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
 **Estimated time:** 45 minutes, planned as 10 explanation and demonstration, 15 guided build and casework, 15 independent practice and 5 verification and repair. Not yet timed with learners.
 
@@ -20,7 +19,7 @@ In this chapter you will apply restrained transitions and animations; inspect co
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use the working presentation with its source chart restored.
 
@@ -33,6 +32,19 @@ Use the working presentation with its source chart restored.
 *Choose Fade on the workflow slide only.*
 
 2. Select the **Project hub** rectangle. Click **Add animation**. Keep **Appear** and **On click**, with **By paragraph** off. This single reveal answers: where does the checked update go next? The earlier source/check stages and explanatory text remain visible.
+
+**Copy: Captured Motion and Keyboard Check**
+
+```text
+Slide transition: Fade, short default duration, workflow slide only
+Object: Project hub
+Animation: Appear
+Start: On click
+By paragraph: off
+Editor preview: one Enter reveals the final box
+Keyboard order from title: explanation, Source register, Checked update, Project hub, connector 1, connector 2
+```
+
 
 ![Set Project hub to Appear on click](./images/c03-06-02-project-hub-appear-on-click.png)
 
@@ -87,7 +99,28 @@ One restrained transition and one purposeful object reveal. Required context rem
 
 *Connectors follow the labelled stages.*
 
-3. Right-click **Source register** and choose **Alt text**. In the observed UI, **Format options > Alt text** opens with a **Description** field. Explain the entire proposed manual sequence and its limits. Add descriptions to **Checked update** and **Project hub** as well, using the prompts page. Keep visible labels; alternative text supplements them.
+3. Right-click **Source register** and choose **Alt text**. In the observed UI, **Format options > Alt text** opens with a **Description** field. Explain the entire proposed manual sequence and its limits. Add descriptions to **Checked update** and **Project hub** as well, using the descriptions below. Keep visible labels; alternative text supplements them.
+
+**Copy: Stage Descriptions**
+
+**Source register**
+
+```text
+First stage of the proposed manual reporting workflow: Source register, then Checked update, then Project hub. Arrows show the intended sequence; they do not imply automatic integration or an approved company process.
+```
+
+**Checked update**
+
+```text
+Second stage: check the update against the source register before placing it in the project hub. Proposed manual training practice; no automatic integration or approval is claimed.
+```
+
+**Project hub**
+
+```text
+Final stage: place the checked update in the project hub. In this demonstration, one click reveals this box after the earlier two stages. The complete sequence is also described in the source-register alternative text and notes.
+```
+
 
 ![Describe the source and complete proposed sequence](./images/c03-06-11-workflow-alt-text-source-stage.png)
 
@@ -99,6 +132,21 @@ One restrained transition and one purposeful object reveal. Required context rem
 
 4. Open the status slide. Right-click its linked chart, choose **Alt text**, and record all three named values, the 12-task population, task-count units, source range and the snapshot qualification. Expand the text field if useful for inspection; do not resize or crop the chart to fit the panel.
 
+**Copy: Chart Descriptions**
+
+**Status chart**
+
+```text
+Column chart of 12 fictional task records: Complete 4, In Progress 4, Not Started 4. The vertical axis is task count; category labels identify status without relying on colour. Source: GW - Slides - Linked Data Source, Summary!A1:B4. Baseline restored after refresh tests. This snapshot does not establish pilot success or efficiency savings.
+```
+
+**Cost chart**
+
+```text
+Planned cost by team for 12 fictional task records: Planning RM 2800, Procurement RM 4000, Site Coordination RM 3600; total RM 10400. Team names and the RM axis convey the measure without colour. Source: GW - Slides - Linked Data Source, Team Costs!A1:B4. These planned costs are separate from the unapproved RM 12000 proposed budget ceiling and do not authorise spending or demonstrate savings.
+```
+
+
 ![Record the status values and qualification in Alt text](./images/c03-06-13-status-chart-alt-text-and-values.png)
 
 *Record the status values and qualification in Alt text.*
@@ -109,7 +157,28 @@ One restrained transition and one purposeful object reveal. Required context rem
 
 *Record cost values units and the unapproved budget distinction.*
 
-6. Inspect the embedded status-chart labels at delivery size. In the reference they are smaller than the surrounding text, so replace the left explanation with the five lines on the prompts page, keeping **22 pt**. The three category values are now readable outside the chart too. Confirm the qualification fits and all values still match 4/4/4. With the text object selected outside editing, Tab should reach the linked chart.
+6. Inspect the embedded status-chart labels at delivery size. In the reference they are smaller than the surrounding text, so replace the left explanation with the five lines provided below, keeping **22 pt**. The three category values are now readable outside the chart too. Confirm the qualification fits and all values still match 4/4/4. With the text object selected outside editing, Tab should reach the linked chart.
+
+**Copy: Readable Status Text and Wording Repair**
+
+Replace the status slide's left text, keeping 22 pt:
+
+```text
+12-task snapshot
+Complete 4
+In Progress 4
+Not Started 4
+Not evidence of pilot success
+```
+
+Revised workflow title for the named review stage:
+
+```text
+Proposed outputs follow a checked reporting workflow
+```
+
+The guided author reference now covers 6.1 to 6.4. Actual Slideshow: static zero reveal advances; staged three, after repairing floating arrows with With previous effects after their destination boxes. Both practice slides are skipped. Original Decisions facts appear immediately; the unsupported budget-approval suggestion was rejected. Screen-reader, projector, independent challenge and learner timing checks remain pending.
+
 
 ![Repeat status values at 22 points beside the chart](./images/c03-06-15-status-values-repeated-at-22pt.png)
 
@@ -141,6 +210,13 @@ Visible labels and large repeated status values, descriptions for the three work
 *Make the workflow title explicitly proposed.*
 
 2. Click **File**, **Version history**, **Name current version**. Enter **Sponsor update reviewed** and select **Save**. This names the author's checked stage; it does not mean a sponsor or independent reviewer approved it.
+
+**Copy: Typed Values**
+
+```text
+Sponsor update reviewed
+```
+
 
 ![Enter Sponsor update reviewed as the version name](./images/c03-06-19-name-current-version-dialog.png)
 
@@ -189,6 +265,11 @@ The named milestone is available and the current checked deck remains intact aft
 
 3. Start **Slideshow** on the static copy. Record the observed number of reveal advances. The reference showed all three stages and both arrows immediately: **zero** reveal advances.
 
+**Copy: Casework Checkpoint**
+
+Static practice: None transition, no object animation, all three stages and both arrows visible immediately. Staged practice: None transition; Source On click, Checked On click, connector 1 With previous, Hub On click, connector 2 With previous. Exactly three advances, with proposal/context visible throughout. Replace inherited one-click alternative text on both copies. Final version: Sponsor update reviewed - motion checked.
+
+
 ![Static Slideshow shows all stages with zero reveal advances](./images/c03-06-26-slideshow-static-zero-reveal-advances.png)
 
 *Static Slideshow shows all stages with zero reveal advances.*
@@ -229,7 +310,16 @@ The named milestone is available and the current checked deck remains intact aft
 
 *Keep both tested practice alternatives skipped.*
 
-8. Open the original **Decisions** slide in Slideshow separately. The reference showed the proposed RM 12000 ceiling, unresolved approval and start to be agreed immediately, with **zero** reveal advances. Reject the suggestion **Thank you for approving the budget** in Part 2 of the prompts page because the sources do not support that commitment. Do not hide unresolved qualifications when asking for a decision.
+8. Open the original **Decisions** slide in Slideshow separately. The reference showed the proposed RM 12000 ceiling, unresolved approval and start to be agreed immediately, with **zero** reveal advances. Reject the suggestion **Thank you for approving the budget** provided below because the sources do not support that commitment. Do not hide unresolved qualifications when asking for a decision.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Review request: “Animate each decision one at a time, and change the final request to ‘Thank you for approving the budget’.” Consider the reveal separately from the unsupported approval wording.
+```
+
 
 ![Decisions remain visible immediately with unresolved facts](./images/c03-06-34-decisions-slideshow-zero-reveals.png)
 

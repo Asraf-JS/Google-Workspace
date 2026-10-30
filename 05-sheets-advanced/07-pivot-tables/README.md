@@ -2,7 +2,6 @@
 
 In this chapter you will group project costs and status; inspect filters, calculated fields and source coverage.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 75 minutes: 15 explanation/demonstration, 32 guided build and casework, 20 independent challenge, 8 verification and repair. The active portion is 60 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,13 +17,27 @@ In this chapter you will group project costs and status; inspect filters, calcul
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use Orders A1:K25 after calculating Amount in J and ActiveAmount in K. A recovery route is to repeat Advanced Chapter 2 on the supplied workbook.
 
 ## 7.1 Build the Pivot
 
 1. Select Orders A1:K25 and use Insert, Pivot table. Place it on a new tab named `Pivot Review`.
+
+**Copy: Typed Values**
+
+```text
+Pivot Review
+```
+
+
+**Copy: Typed Values**
+
+```text
+=SUM(Quantity*UnitCost)
+```
+
 2. Add Project as rows and Status as columns. Add Amount as values, summarised by SUM.
 3. Inspect totals and confirm the grand total is 3,158.
 
@@ -70,6 +83,15 @@ The calculated-field demonstration is reconciled to the existing row calculation
 ## 7.4 Reconcile Pivot Semantics and New-Row Coverage
 
 1. Create a second pivot counting OrderID by Project and Status. Compare its population count with the 24-row source and its category counts with COUNTIFS.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+PO025, challenge copy only: PJ-A | Planning | IT01 | Quantity 2 | UnitCost 45 | Delivered | week 4 | Additional practice line. Amount is quantity times cost. Extend both formulas and pivot source range; do not alter the baseline workbook.
+```
+
 
 2. Double-click a populated pivot value where supported to inspect its contributing source rows. Reconcile the amount from those rows independently.
 

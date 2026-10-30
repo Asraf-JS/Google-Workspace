@@ -17,15 +17,29 @@
 
 Read [project-facts.txt](../../shared/sample-files/project-facts.txt). You need Drive, Docs and Sheets. If Shared Drives are unavailable, complete the My Drive route and record the governance difference rather than claiming a Shared Drive test.
 
-Use the [copy-paste page](./prompts.md) and [shared practice files](../../shared/sample-files/README.md). Keep fictional role names as text. Use only trainer-assigned test identities for any access test.
+Use the values beside the steps below and [shared practice files](../../shared/sample-files/README.md). Keep fictional role names as text. Use only trainer-assigned test identities for any access test.
 
 ## 1.1 Plan the Information Flow
 
 1. Create a Doc named `GW - Project Reporting Pilot - Workspace Register`. Label it **Fictional training material**.
 
+**Copy: Names**
+
+```text
+GW - Project Reporting Pilot - Workspace Register
+```
+
+
 2. Read the fact sheet and list the four deliverables. Beside each, identify what it is authoritative for: agreed brief wording, task rows, presentation narrative or navigation.
 
 3. Add a table with columns Asset, Source file, Maintainer role, Intended reader role and Review gate. Use Aina as coordinator and Farid as sponsor only where the source supports those roles; mark unassigned responsibilities as **Proposed**.
+
+**Copy: Asset Table Headings**
+
+```text
+Asset | Source file | Maintainer role | Intended reader role | Review gate
+```
+
 
 4. Draw a simple text flow: Tasks → Summary chart → Brief and Slides → Hub. Add a note explaining that a linked chart requires a refresh check.
 
@@ -46,6 +60,34 @@ The register identifies four outputs, their source relationships and unresolved 
 
 1. In Drive choose **New**, then **New folder**. Name it `GW - Project Reporting Pilot`. Inside create `01 Sources`, `02 Working` and `03 Review`.
 
+**Copy: Names**
+
+```text
+GW - Project Reporting Pilot
+```
+
+
+**Copy: Names**
+
+```text
+01 Sources
+```
+
+
+**Copy: Names**
+
+```text
+02 Working
+```
+
+
+**Copy: Names**
+
+```text
+03 Review
+```
+
+
 ![The three project subfolders before any inputs have been uploaded](./images/c01-01-02-folders.jpg)
 
 2. Upload project-facts.txt, meeting-record.txt and TaskRegister.xlsx into **01 Sources**. Keep these starter inputs unchanged.
@@ -53,6 +95,13 @@ The register identifies four outputs, their source relationships and unresolved 
 ![The three supplied source files before conversion creates a native working spreadsheet](./images/c01-01-02-sources.jpg)
 
 3. Open TaskRegister.xlsx in Google Sheets. Use **File**, then **Save as Google Sheets** if it is still an Office file. Move the native version into **02 Working** and name it `GW - Pilot Task Register`.
+
+**Copy: Names**
+
+```text
+GW - Pilot Task Register
+```
+
 
 ![The original XLSX File menu, showing Save as Google Sheets before the native copy is created](./images/c01-01-02-convert.jpg)
 
@@ -86,6 +135,14 @@ The original workbook and a separate native spreadsheet are easy to distinguish.
 ![The tracker remains Restricted with one owner; the owner identity, email and avatar are masked](./images/c01-01-03-restricted.jpg)
 
 2. In the register create an access matrix for coordinator, sponsor, team contributor and hub visitor. Write the minimum proposed role for each asset and explain one difference between viewing and editing.
+
+**Copy: Access Plan Headings**
+
+```text
+Role | Asset | Proposed access | Reason | Actually tested? | Result
+```
+Record real test identities privately. Do not create accounts for fictional people.
+
 
 ![Proposed role matrix before shortcut testing or later handover notes are added](./images/c01-01-03-matrix.jpg)
 

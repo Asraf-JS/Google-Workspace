@@ -2,7 +2,6 @@
 
 In this chapter you will add the pack to NotebookLM, ask questions and inspect citations in context.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 60 minutes: 15 explanation/demonstration, 17 guided build and casework, 20 independent challenge, 8 verification and repair. The active portion is 45 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,13 +17,20 @@ In this chapter you will add the pack to NotebookLM, ask questions and inspect c
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use the three-file fictional source pack from Chapter 1. NotebookLM creation and source access must be available.
 
 ## 4.1 Create the Notebook
 
 1. Open NotebookLM in the training account and create a notebook named `GW - Project Reporting Pilot - Evidence`.
+
+**Copy: Typed Values**
+
+```text
+GW - Project Reporting Pilot - Evidence
+```
+
 2. Add the three supplied sources using a supported upload or pasted-text route.
 3. Open each source and inspect its title and content. Confirm all three have finished processing before asking questions.
 
@@ -40,6 +46,13 @@ The notebook contains the intended three fictional sources, with no unrelated pr
 ## 4.2 Ask and Follow a Citation
 
 1. Ask `What decisions are still needed before the pilot starts? Use only these sources.`
+
+**Copy: Typed Values**
+
+```text
+What decisions are still needed before the pilot starts? Use only these sources.
+```
+
 2. Open the citations attached to the answer. Read the surrounding source passage, not just the highlighted phrase.
 3. Record the answer and source support in your review log.
 
@@ -55,6 +68,13 @@ The source supports unresolved budget approval and start-date agreement.
 ## 4.3 Test a Missing Fact
 
 1. Ask `What is the approved pilot start date?` and check whether the response recognises the missing approval.
+
+**Copy: Typed Values**
+
+```text
+What is the approved pilot start date?
+```
+
 2. If it invents a date, locate the unsupported claim and record the correction.
 3. Select only the meeting record source where the interface allows source selection and ask for preparation actions. Compare with the wider-source answer.
 
@@ -71,7 +91,30 @@ A source-limited answer does not turn a missing start date into an established f
 
 1. Before asking more questions, record the three core source titles and inspect their complete imported content. Confirm the source pack matches the manifest.
 
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Conflict extracts, separate test context: A: “Proposed practice A: contributors prepare updates on Friday. Approval not recorded.” B: “Proposed alternative B: contributors prepare updates on Wednesday. Approval not recorded.” Neither establishes an approved replacement for the original project facts. Do not pick an approved day from titles or upload order.
+```
+
+
 2. Run the six-question bank and open the evidence passages for every consequential answer. Record whether the passage supports the exact claim, only nearby context or no support.
+
+**Copy: Evidence Question Bank**
+
+```text
+1. What is the pilot’s purpose and duration?
+2. Which three teams participate?
+3. What reporting cadence and success measure are stated?
+4. Is the RM 12,000 ceiling approved?
+5. What start date is confirmed?
+6. Which preparation actions, owners and due weeks are explicit?
+```
+
+Keep source facts separate from inferred workflow. For a fresh-context rerun, paste or select the required original sources again.
+
 
 3. Select only the meeting record where the interface permits it and ask for actions and budget status. Compare the answer with the full-source response and note scope limitations.
 

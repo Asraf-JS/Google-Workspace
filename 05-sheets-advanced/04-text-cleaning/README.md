@@ -2,7 +2,6 @@
 
 In this chapter you will use LEFT, RIGHT, MID and concatenation; check AI categorisation against explicit rules.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 60 minutes: 15 explanation/demonstration, 17 guided build and casework, 20 independent challenge, 8 verification and repair. The active portion is 45 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,7 +17,7 @@ In this chapter you will use LEFT, RIGHT, MID and concatenation; check AI catego
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use Orders and Rates. The supplied IDs follow PO plus three digits; this is a training convention.
 
@@ -26,7 +25,28 @@ Use Orders and Rates. The supplied IDs follow PO plus three digits; this is a tr
 
 1. On a separate Text Practice tab copy OrderID and ItemCode from a few rows.
 2. Use `=LEFT(A2,2)` for the prefix and `=RIGHT(A2,3)` for the numeric text.
+
+**Copy: Typed Values**
+
+```text
+=LEFT(A2,2)
+```
+
+
+**Copy: Typed Values**
+
+```text
+=RIGHT(A2,3)
+```
+
 3. Use `=MID(A2,3,3)` to extract the same three characters and compare the results. Keep leading zeros as text.
+
+**Copy: Typed Values**
+
+```text
+=MID(A2,3,3)
+```
+
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -41,6 +61,13 @@ PO001 yields prefix PO and sequence text 001 rather than a newly assigned key.
 
 1. Copy a space-padded team name from DirtyText.csv into a spare cell and use TRIM to clean it.
 2. Use CONCATENATE or & to build a label from an order ID and project code, for example `=A2&" - "&B2` on Orders.
+
+**Copy: Typed Values**
+
+```text
+=A2&" - "&B2
+```
+
 3. Check the underlying separate fields remain available for filtering and analysis.
 
 <details markdown="1">
@@ -70,6 +97,15 @@ AI suggestions have been checked against an explicit six-item rule rather than a
 ## 4.4 Build a Reversible Text Normalisation Pipeline
 
 1. Import DirtyText.csv into **Text Audit** and preserve its raw columns. Add Normalised team, Normalised status and Decision columns.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Identifier intake: PO001; PO024; PO1; blank; IT01; IT06; IT99; “ IT03 ”. Order IDs require PO plus three digits; mapped item keys are the six supplied Rates codes. Do not treat every extracted suffix as a valid key.
+```
+
 
 2. Apply TRIM for spaces and use explicit case handling only where it preserves the known vocabulary. Record any non-breaking or unusual spaces that the observed function does not remove.
 

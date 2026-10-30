@@ -2,7 +2,6 @@
 
 In this chapter you will check approved tools, permitted data and the supplied evidence pack.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 40 minutes: 10 explanation/demonstration, 10 guided build and casework, 15 independent challenge, 5 verification and repair. The active portion is 30 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,7 +17,7 @@ In this chapter you will check approved tools, permitted data and the supplied e
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Download the [project facts](../../shared/sample-files/project-facts.txt), [meeting record](../../shared/sample-files/meeting-record.txt) and [reporting guidance](../../shared/sample-files/reporting-guidance.txt). This course does not require output from another course.
 
@@ -71,6 +70,15 @@ Your review log separates sourced answers from gaps.
 
 1. Create an **AI Evidence Log** Doc with sections Source Manifest, Task Contract, Tests, Review Results and Open Questions.
 
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Core sources: project-facts.txt, meeting-record.txt, reporting-guidance.txt. Critique material: review-examples.txt. An AI-written draft is an output to check. A hypothetical customer contract or employee medical record is not part of this fictional exercise. Do not upload real examples.
+```
+
+
 2. Register the fact sheet, meeting record and proposed guidance by title, version label, source type and permitted use. State what each can and cannot establish.
 
 3. Separate original evidence from generated outputs, review examples and change cards. Do not upload the deliberate false-claim examples as if they were authoritative project sources.
@@ -79,7 +87,21 @@ Your review log separates sourced answers from gaps.
 
 5. Create a preflight checklist for the actual account, approved services, available source types and features. Record unavailable or untested features explicitly.
 
-6. Read the six-question test bank on the copy-paste page and predict which questions are answerable, require multiple sources or lack evidence.
+6. Read the six-question test bank provided below and predict which questions are answerable, require multiple sources or lack evidence.
+
+**Copy: Evidence Question Bank**
+
+```text
+1. What is the pilot’s purpose and duration?
+2. Which three teams participate?
+3. What reporting cadence and success measure are stated?
+4. Is the RM 12,000 ceiling approved?
+5. What start date is confirmed?
+6. Which preparation actions, owners and due weeks are explicit?
+```
+
+Keep source facts separate from inferred workflow. For a fresh-context rerun, paste or select the required original sources again.
+
 
 7. Create a scoring table with TestID, Required facts, Unsupported claims, Citation support, Decision and Repair. Agree the acceptance conditions before generating answers.
 

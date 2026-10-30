@@ -39,36 +39,28 @@
   },
   "chapters": [
     {
-      "notes": "../../06-notebooklm-gemini/01-ai-workspace/README.md",
-      "exercises": "../../06-notebooklm-gemini/01-ai-workspace/prompts.md"
+      "notes": "../../06-notebooklm-gemini/01-ai-workspace/README.md"
     },
     {
-      "notes": "../../06-notebooklm-gemini/02-prompt-design/README.md",
-      "exercises": "../../06-notebooklm-gemini/02-prompt-design/prompts.md"
+      "notes": "../../06-notebooklm-gemini/02-prompt-design/README.md"
     },
     {
-      "notes": "../../06-notebooklm-gemini/03-gemini-workflow/README.md",
-      "exercises": "../../06-notebooklm-gemini/03-gemini-workflow/prompts.md"
+      "notes": "../../06-notebooklm-gemini/03-gemini-workflow/README.md"
     },
     {
-      "notes": "../../06-notebooklm-gemini/04-source-notebook/README.md",
-      "exercises": "../../06-notebooklm-gemini/04-source-notebook/prompts.md"
+      "notes": "../../06-notebooklm-gemini/04-source-notebook/README.md"
     },
     {
-      "notes": "../../06-notebooklm-gemini/05-briefing-audio/README.md",
-      "exercises": "../../06-notebooklm-gemini/05-briefing-audio/prompts.md"
+      "notes": "../../06-notebooklm-gemini/05-briefing-audio/README.md"
     },
     {
-      "notes": "../../06-notebooklm-gemini/06-responsible-review/README.md",
-      "exercises": "../../06-notebooklm-gemini/06-responsible-review/prompts.md"
+      "notes": "../../06-notebooklm-gemini/06-responsible-review/README.md"
     },
     {
-      "notes": "../../06-notebooklm-gemini/07-ai-pilot/README.md",
-      "exercises": "../../06-notebooklm-gemini/07-ai-pilot/prompts.md"
+      "notes": "../../06-notebooklm-gemini/07-ai-pilot/README.md"
     },
     {
-      "notes": "../../06-notebooklm-gemini/08-prompt-playbook/README.md",
-      "exercises": "../../06-notebooklm-gemini/08-prompt-playbook/prompts.md"
+      "notes": "../../06-notebooklm-gemini/08-prompt-playbook/README.md"
     }
   ],
   "backCover": "A practical 1-day course with step-by-step draft labs, copy-ready prompts, fictional inputs and expected-result checks. Use the supplied practice pack. Full lab execution, screenshots and classroom timing validation remain required before participant release."

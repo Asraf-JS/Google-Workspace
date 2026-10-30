@@ -2,7 +2,6 @@
 
 In this chapter you will draft and revise from supplied files; verify cross-file references where available.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 55 minutes: 10 explanation/demonstration, 25 guided build and casework, 15 independent challenge, 5 verification and repair. The active portion is 45 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,7 +17,7 @@ In this chapter you will draft and revise from supplied files; verify cross-file
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use a new practice Google Doc containing the supplied fact sheet. The reference can be pasted if file grounding is unavailable.
 
@@ -71,11 +70,34 @@ You distinguish a draft/extraction result from an action that changes an applica
 
 1. Create an **Output Lineage** table for source facts → checked Doc update → draft email → action list. Record the source used at every step.
 
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Delay scenario: Bala says the status-definition review is delayed and no replacement due week is confirmed. His original commitment was practice week 1. Other preparation actions and both unresolved project decisions remain unchanged. This is a scenario change, not a real message.
+```
+
+
 2. Generate or manually prepare a 150-word coordinator update using the fact sheet and proposed guidance. Audit budget status, date, cadence and success measure before continuing.
 
 3. Adapt that checked update into an unsent email draft with purpose, preparation request and unresolved decisions. Keep recipients blank if using Gmail.
 
 4. Extract the three preparation actions from the scripted meeting record into Action, Owner, Due practice week and Source. Verify each independently.
+
+**Copy: Evidence Question Bank**
+
+```text
+1. What is the pilot’s purpose and duration?
+2. Which three teams participate?
+3. What reporting cadence and success measure are stated?
+4. Is the RM 12,000 ceiling approved?
+5. What start date is confirmed?
+6. Which preparation actions, owners and due weeks are explicit?
+```
+
+Keep source facts separate from inferred workflow. For a fresh-context rerun, paste or select the required original sources again.
+
 
 5. Compare outputs for drift: a proposed practice must not become approved policy, an unsent request must not become an accepted commitment, and an extracted row must not be described as an assigned task.
 
