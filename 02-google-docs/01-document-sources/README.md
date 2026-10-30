@@ -27,11 +27,11 @@ You have three source files to help you. Later in this lab, a fictional colleagu
 
 ## Before You Begin
 
-Download these three fictional source files and save them unchanged in one folder on your computer:
-
-- [project-facts.txt](../../shared/sample-files/project-facts.txt): the project's purpose, schedule, proposed budget and open decisions.
-- [checked-brief.txt](../../shared/sample-files/checked-brief.txt): a short summary of the project that you will put into your working document.
-- [reporting-guidance.txt](../../shared/sample-files/reporting-guidance.txt): proposed training definitions for statuses and missing information.
+> **Download:** these three fictional source files, and save them unchanged in one folder on your computer.
+>
+> - [project-facts.txt](../../shared/sample-files/project-facts.txt): the project's purpose, schedule, proposed budget and open decisions.
+> - [checked-brief.txt](../../shared/sample-files/checked-brief.txt): a short summary of the project that you will put into your working document.
+> - [reporting-guidance.txt](../../shared/sample-files/reporting-guidance.txt): proposed training definitions for statuses and missing information.
 
 These three files are your references. The fictional request you will check in 1.4.5 appears in the guide; it is not another file to download. You can take this course without attending the masterclass.
 

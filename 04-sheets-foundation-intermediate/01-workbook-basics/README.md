@@ -22,7 +22,7 @@ In this chapter you will create a native Sheet, rename tabs and enter a small se
 
 Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
-Download [TaskRegister.xlsx](../../shared/sample-files/TaskRegister.xlsx). This workbook starts at row 1 so cell references in the course match exactly.
+> **Download:** [TaskRegister.xlsx](../../shared/sample-files/TaskRegister.xlsx). This workbook starts at row 1 so cell references in the course match exactly.
 
 ## 1.1 Open a Native Copy
 

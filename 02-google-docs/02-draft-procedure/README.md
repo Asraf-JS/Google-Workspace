@@ -22,7 +22,9 @@ In this chapter you will generate an outline, draft from supplied evidence and r
 
 **Keep your place:** complete one small task, check its result, then move on. Type short names where shown. Supplied blocks include related lines in one paste; **Copy heading and table** buttons include the labels too. Use **Ctrl+V** on a blank paragraph outside existing tables. Screenshot wording and page counts are examples; check your own result.
 
-Use your `GW - Reporting Procedure - Working` document from Lab 1, the supplied [project facts](../../shared/sample-files/project-facts.txt), [reporting guidance](../../shared/sample-files/reporting-guidance.txt) and [Tasks.csv](../../shared/sample-files/Tasks.csv). If Gemini is unavailable, skip 2.1 and 2.2.1. Start at **2.2.2**, reviewing the supplied draft in 2.3 instead of an AI reply, then continue all checks.
+> **Download:** [Tasks.csv](../../shared/sample-files/Tasks.csv), the fictional task list you use in 2.4. Save it with the source files from Lab 1.
+
+Use your `GW - Reporting Procedure - Working` document from Lab 1 and keep [project facts](../../shared/sample-files/project-facts.txt) and [reporting guidance](../../shared/sample-files/reporting-guidance.txt) to hand. If Gemini is unavailable, skip 2.1 and 2.2.1. Start at **2.2.2**, reviewing the supplied draft in 2.3 instead of an AI reply, then continue all checks.
 
 ## 2.1 Define the Reader and Task
 
