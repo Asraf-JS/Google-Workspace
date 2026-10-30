@@ -96,19 +96,14 @@ You do not need to open another file for this check. This box reproduces the rel
 
 **Check:** both notes match the source box and are underlined. The budget is RM 12000, proposed and not approved; the start date is not yet agreed. Exact wording can differ, but these meanings must stay the same in Lab 02.
 
-## 1.3 Check the File
+## 1.3 Check Saving and Access
 
-**Why:** a document is useful only if you can find it again and know who can open it.
+**Why:** Google Docs saves your edits automatically while you work. Check the save status and who can open the file, then continue building the document. You will practise finding and reopening it once at the end of the lab.
 
-**A. Reopen your saved work**
+**A. Check the save status**
 
-1. Wait until **Saving...** disappears beside the document title.
-2. Close the document tab. In **GW - Docs - Practice**, double-click your working document.
-3. Check its title and the two underlined lines.
-
-![The working document listed in the GW - Docs - Practice folder](./images/c02-01-saved-folder.png)
-
-*Double-click the document in its practice folder to reopen it.*
+1. Look beside the document title. If **Saving...** is shown, wait until your changes have saved.
+2. Keep the document open and continue to the access check.
 
 **B. Inspect access**
 
@@ -120,7 +115,7 @@ You do not need to open another file for this check. This box reproduces the rel
 
 *Restricted means only people you add can open the file. Close the dialog with Done without inviting anyone.*
 
-**Check:** you reopened the correct file and confirmed its access. Restricted means that only people explicitly given access can open it.
+**Check:** your changes have saved and you have checked the document's access. Restricted means that only people explicitly given access can open it. Keep the document open for the next task.
 
 ## 1.4 Build a Source and Requirements Register
 
@@ -302,13 +297,7 @@ This proposed procedure helps team contributors in Planning, Procurement and Sit
 
 *The arrow marks the moved Authoring Log heading. The source context and evidence follow it.*
 
-4. Wait for the file to save. Close it and reopen it from your practice folder. Check that the log and three links are still there.
-
-![After reopening, the descriptive links and the classified memo are still in the log](./images/c02-01-reopened-log.png)
-
-*Reopening from the folder keeps the links and the classified memo.*
-
-**Check:** your introduction comes first; the source context, requirements, tables, links and memo notes follow under Authoring Log. Keep this document for Lab 02.
+**Check:** your introduction comes first; the source context, requirements, tables, links and memo notes follow under Authoring Log. Keep the document open for Independent Practice.
 
 ## Independent Practice
 
@@ -317,6 +306,21 @@ This proposed procedure helps team contributors in Planning, Procurement and Sit
 1. Give a partner only your document. Ask them to use its links to find evidence for Friday reporting and the unresolved budget/start date. If working alone, close the source tabs and do the same retrieval yourself.
 2. Write a two-sentence reply to the intake memo correcting its budget and start-date claims. Use your own words and do not invent a decision-maker or date.
 3. Create six observable acceptance checks for the future procedure. For example: “A reader can find the status definitions.” Test one check now and record whether it passes.
+
+### Find and reopen the finished file
+
+**Why:** this is a one-time practice for finding your document in Drive and returning to it later. Google Docs saves while you work; closing and reopening is not needed after each edit.
+
+1. Finish your independent work in the document. Wait for **Saving...** to disappear if it is shown.
+2. Close only the **GW - Reporting Procedure - Working** document tab; keep this guide open.
+3. In Google Drive, open your **GW - Docs - Practice** folder. Double-click **GW - Reporting Procedure - Working**. You may also see the three source files in the folder.
+4. Check the document title, your underlined budget and start-date notes, and the Authoring Log with its source links. Keep this document for Lab 02.
+
+![After reopening, the descriptive links and the classified memo are still in the log](./images/c02-01-reopened-log.png)
+
+*Example after reopening: the source links and memo are visible. Your document may also include your Independent Practice work.*
+
+**Check:** you found the correct document and your completed work is still there.
 
 ### Evidence to Hand Over
 
