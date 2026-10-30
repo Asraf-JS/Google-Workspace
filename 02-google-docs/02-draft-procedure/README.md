@@ -106,25 +106,66 @@ The request names the reader, source and output format. No source placeholder re
 1. Click **Submit** (the arrow at the bottom right of the panel) and read the whole response, scrolling down the panel.
 2. If Gemini offers to edit your document instead, click **Reject all**: this lab only uses the panel.
 
-![Gemini's response in the panel; its Check section lists only two of the three statuses](./images/c02-02-unreviewed-response.png)
+**Example response: two views of the same answer**
 
-*This is still an unreviewed proposal. Its Check section mentions Complete and In Progress but leaves out Not Started.*
+The two screenshots below show one example Gemini reply. The panel was scrolled to show different parts of that reply. They illustrate what to look for during a review; they are not two separate tasks or answers to copy. Your own reply may use different wording and may not contain these problems.
 
-![The rest of the response; the boxed Submit for Review step gives no usable submission route](./images/c02-02-response-checks.png)
+#### View 1 of 2: check the status definitions
 
-*"Route submissions according to the project structure" doesn't tell a reader where to send anything.*
+![Example reply, view 1 of 2: its Check section includes Complete and In Progress but omits Not Started](./images/c02-02-unreviewed-response.png)
+
+*In this example, Check leaves out Not Started. In your own reply, check whether all three statuses are covered; record an omission only if you find one.*
+
+#### View 2 of 2: the same reply, scrolled down to submission instructions
+
+![The same example reply, view 2 of 2 after scrolling: Submit for Review contains a vague routing instruction](./images/c02-02-response-checks.png)
+
+*In this example, “Route submissions according to the project structure” gives no usable destination. In your reply, check that missing channel, recipient and cut-off details remain unresolved rather than being invented.*
+
+**Your next action:** return to your own Gemini reply and review it in 2.2.2. You do not need to reproduce the example's wording or errors.
 
 **Check:** The response is still a proposal; your document has not been automatically replaced.
 
 ### 2.2.2 Record your source checks
 
-1. Compare every instruction in the response with `project-facts.txt` and `reporting-guidance.txt`.
-2. At the end of the document, type `AI draft review` and today's date, then record what the response got right and each repair it needs.
-3. Check at least these three things: does Check list all three statuses, is the submission route specific, and did it use anything other than the pasted facts?
+**What are you doing?** You are checking an AI-written draft before using it. Compare what Gemini wrote with the original source files, then record whether the wording needs changing. You are not checking against the screenshots or another learner's answer.
+
+#### A. Open the two files you will check against
+
+1. Open [project-facts.txt](../../shared/sample-files/project-facts.txt) and [reporting-guidance.txt](../../shared/sample-files/reporting-guidance.txt) in separate tabs or text-editor windows. Keep your Gemini reply available in the Working document.
+2. Read the matching source information below before judging the reply. The fact sheet supplies project facts; the guidance supplies proposed status definitions and missing-information rules.
+
+| What to check in Gemini's reply | Open this source | What the source actually establishes |
+|---|---|---|
+| Status definitions | reporting-guidance.txt | Not Started: work has not begun. In Progress: work has begun without owner-confirmed completion. Complete: the owner has confirmed the agreed output is ready for review. |
+| Submission details | Both files | Friday reporting is known. Neither file supplies the submission channel, review recipient or cut-off time. Keep those details unresolved; do not invent an email address, person or time. |
+| Project facts | project-facts.txt | RM 12000 is proposed, not approved. The start date is not agreed. The pilot lasts four weeks from an agreed start, with an update every Friday. |
+
+This table is a reading guide; you do not need to paste it into your document. The fact sheet alone does not provide the status definitions. Use the proposed guidance to check and repair that part of the procedure.
+
+#### B. Work through one example together
+
+Suppose an AI reply says:
+
+> “The RM 12000 budget is approved.”
+
+Open **project-facts.txt** and find **Budget status: proposed, not approved**. The AI sentence changes the meaning, so the review note would be:
+
+> **Gemini wrote:** The RM 12000 budget is approved.<br>
+> **Source says:** project-facts.txt records the budget as proposed, not approved.<br>
+> **Decision:** Change the sentence to “The RM 12000 budget is proposed, not approved.”
+
+This is an invented example for practice. If your reply already says the budget is proposed, your decision is **no repair needed**, with the same source as evidence.
+
+#### C. Now check your own reply
+
+1. At the end of the Working document, in the Authoring Log, type `AI draft review` and today's date.
+2. Write three short findings: **statuses**, **submission details** and **project facts**. For each, use the example's three labels: **Gemini wrote**, **Source says**, **Decision**. Name the source file and the change needed, or write **no repair needed** if the wording already matches.
+3. Keep the reply as a proposal while you review it. You will insert the supplied procedure and apply the checked repairs in 2.3 to 2.4.
 
 ![The AI draft review typed at the end of the Authoring Log](./images/c02-02-human-review.png)
 
-*The review records the missing status, the vague routing instruction and the source-boundary issue.*
+*This example review records the issues found in the illustrated reply. Your review should record your own findings, including source-supported points that need no repair.*
 
 **No Gemini?** Review the reference draft in 2.3 against the sources. Record the same three checks and label your notes a reference-draft review. You still practise evidence judgement.
 
@@ -137,7 +178,7 @@ The draft distinguishes known project facts from a proposed training procedure. 
 
 <!-- Reference core captured 18 October 2026; independent learner challenge remains pending. -->
 
-**Check:** Your review names a correct point and any missing, vague or unsupported instruction.
+**Check:** Your AI draft review has three findings. Each names what Gemini wrote, what the relevant source file says, and a repair or a source-supported no-repair decision.
 
 ## 2.3 Insert the Checked Text
 
@@ -145,12 +186,12 @@ The draft distinguishes known project facts from a proposed training procedure. 
 
 ### 2.3.1 Insert the supplied draft once
 
-Everyone continues from the same reference draft, so the rest of the lab works the same for every learner. Your Gemini review still matters: you will use it to judge this draft and to choose the repair in 2.4.2.
+Everyone continues from the same reference draft, so the rest of the lab works the same for every learner. Your Gemini review still matters: you use it to judge this draft.
 
 1. Keep `project-facts.txt` open in another tab so you can compare commitments.
 2. Above **Authoring Log**, click at the end of the purpose statement and create a blank paragraph.
 3. Paste the complete reference draft below once; its title and four section labels are included.
-4. Compare it with your reviewed AI response. In your AI draft review, add one line naming a problem from the Gemini reply that the reference avoids.
+4. Compare it with your reviewed AI response. In your AI draft review, add one line: a problem from the Gemini reply that the reference avoids, or a source-supported point both already get right.
 5. Keep step 4 as supplied for now; it is deliberately incomplete until the repair in 2.4.2.
 
 ```text
@@ -239,7 +280,7 @@ The plan is supplied to save transcription. Verify the source labels and action/
 ### 2.4.2 Repair the status check
 
 1. Check the plan against `reporting-guidance.txt` and the fact sheet. The source tags in brackets, `(facts)`, `(guidance)` and `(proposed)`, are already supplied: confirm that each one points to the right source and change any that don't.
-2. Now fix procedure step 4 so that it lists all three statuses (Not Started, In Progress and Complete), the repair your AI draft review asked for.
+2. The supplied reference draft deliberately leaves the status definitions out of procedure step 4. Your own Gemini reply may already have included all three statuses; the reference still needs the repair.
 3. In the procedure (not the plan table), select the whole of step 4, from `4.` to the end of its paragraph.
 4. Copy the replacement below and press **Ctrl+V** to paste over the selection.
 

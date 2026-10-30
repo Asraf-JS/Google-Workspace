@@ -1,6 +1,15 @@
 # 01 - Prepare the Document and Sources
 
-You are preparing a reporting procedure for a project team. Before writing it, you need to know which files to trust and which decisions are still open. In this lab, you will organise the working document, check the supplied evidence and write an accurate introduction for its readers.
+**Your assignment:** You are the person preparing a weekly reporting procedure for the fictional Seri Maju Projects team. The finished procedure should help contributors prepare an update, check its status and flag missing information.
+
+You have three source files to help you. Later in this lab, a fictional colleague's request will ask you to include two claims that the sources do not confirm. You will check that request before using it, then prepare the procedure's introduction. In Lab 02, you will turn the checked information into a full draft.
+
+**How the lab fits together:**
+
+1. **Sections 1.1 to 1.3:** Create the working document and identify facts that must stay accurate.
+2. **Sections 1.4.1 to 1.4.4:** Organise the sources and link them to the document so you can check your work.
+3. **Section 1.4.5:** Check the colleague's fictional request against those sources.
+4. **Section 1.4.6 onward:** Add and check the introduction and your finished document. You will draft the full procedure in Lab 02.
 
 **Estimated time:** 40 minutes including explanation, guided work and independent checks.
 
@@ -14,11 +23,17 @@ You are preparing a reporting procedure for a project team. Before writing it, y
 
 - **Organise a working file:** save it in the right folder and reopen it.
 - **Make evidence easy to find:** use tables and descriptive links.
-- **Write accurately:** keep the budget proposed and the start date unresolved.
+- **Check accuracy:** keep the budget proposed and the start date unresolved.
 
 ## Before You Begin
 
-Download [project facts](../../shared/sample-files/project-facts.txt), [checked brief](../../shared/sample-files/checked-brief.txt) and [reporting guidance](../../shared/sample-files/reporting-guidance.txt). Save the three unchanged files in one folder on your computer. These are fictional training inputs. You can take this course without attending the masterclass.
+Download these three fictional source files and save them unchanged in one folder on your computer:
+
+- [project-facts.txt](../../shared/sample-files/project-facts.txt): the project's purpose, schedule, proposed budget and open decisions.
+- [checked-brief.txt](../../shared/sample-files/checked-brief.txt): a short summary of the project that you will put into your working document.
+- [reporting-guidance.txt](../../shared/sample-files/reporting-guidance.txt): proposed training definitions for statuses and missing information.
+
+These three files are your references. The fictional request you will check in 1.4.5 appears in the guide; it is not another file to download. You can take this course without attending the masterclass.
 
 **How to follow this guide:** finish one small task in Google Docs, then return to its **Check** before continuing. Short names can be typed. Use one Copy button for each supplied block; it includes all the lines needed for that task. Each **Copy heading and table** button includes its heading and every table cell. Paste tables on a blank line outside an existing table with **Ctrl+V**.
 
@@ -51,7 +66,20 @@ Download [project facts](../../shared/sample-files/project-facts.txt), [checked 
 
 *The title box shows the document name. Only the supplied brief is in the body at this stage.*
 
-**Check:** the document has the correct name and contains the brief. The original `.txt` file is unchanged. Keep this document open.
+**C. Label the evidence from the start**
+
+The brief and your later source notes belong in an **Authoring Log**. Put its heading above the brief now, so you will not need to move it later.
+
+1. Click **Copy** on the two-line block below once.
+2. In your Google Doc, press **Ctrl+Home** to go to the start. Press **Enter** twice to make space above the brief, then press **Ctrl+Home** again.
+3. Press **Ctrl+V** once to paste both headings. The original brief should follow **Source context - supplied checked brief**.
+
+```text
+Authoring Log
+Source context - supplied checked brief
+```
+
+**Check:** the document has the correct name. At the top, **Authoring Log** comes first, followed by **Source context - supplied checked brief** and the pasted brief. The original `.txt` file is unchanged. Keep the document open.
 
 ## 1.2 Separate Facts and Requirements
 
@@ -72,31 +100,38 @@ Budget: proposed ceiling RM 12000, not approved.
 Start date: not yet agreed; do not substitute a calendar date.
 ```
 
-**B. Identify the facts that must survive later editing**
+**B. Compare and mark the two source notes**
 
-1. Open `project-facts.txt` and find its budget and start-date statements.
-2. Return to your Google Doc. Select the two lines beginning **Budget:** and **Start date:**.
-3. Press **Ctrl+U** to underline the selected lines. Click elsewhere to clear the selection.
+**What are you doing?** You have just pasted two source notes into your Google Doc. Check that they preserve the original budget amount, approval status and start-date meaning. Then underline them so they are easy to recheck when you rewrite the document later.
+
+Keep this guide beside your **Working** document. The three original lines needed for this check are shown here:
+
+> **Source: project-facts.txt** (the project-facts file downloaded under Before You Begin).<br>
+> Budget ceiling: RM 12000<br>
+> Budget status: proposed, not approved<br>
+> Start date: not yet agreed
+
+You do not need to open another file for this check. This box reproduces the relevant lines from [project-facts.txt](../../shared/sample-files/project-facts.txt); the link is available if you want to inspect the full source.
+
+1. In your Google Doc, find **Working source notes**, just below **Procedure Requirements**. This is the text you pasted in part A.
+2. Compare its **Budget:** line with the source box above. Does it keep both **RM 12000** and **proposed, not approved**? The amount alone is not enough: “approved RM 12000” would change the meaning.
+3. Compare its **Start date:** line with the box. It must still say the date is **not yet agreed**; a date such as “next Monday” would be an unsupported addition. If either note differs in meaning, correct it using the source box.
+4. Select the two complete lines beginning **Budget:** and **Start date:**. Press **Ctrl+U** once to underline them, then click elsewhere to clear the selection. Underline the notes in your Google Doc, not the text in this guide.
 
 ![Procedure Requirements typed under the brief, with the budget and start-date notes underlined](./images/c02-01-requirements.png)
 
-*The requirements describe the reader and topics. The underlined notes are the source facts the procedure must preserve.*
+*The screenshot focuses on the requirements and underlined notes. Your Authoring Log and Source context headings are above the brief.*
 
-**Check:** both lines are underlined. Explain to a partner: “RM 12000 is proposed; the start date is not agreed.” These meanings must remain true when you draft with Gemini in Lab 02.
+**Check:** both notes match the source box and are underlined. The budget is RM 12000, proposed and not approved; the start date is not yet agreed. Exact wording can differ, but these meanings must stay the same in Lab 02.
 
-## 1.3 Check the File
+## 1.3 Check Saving and Access
 
-**Why:** a document is useful only if you can find it again and know who can open it.
+**Why:** Google Docs saves your edits automatically while you work. Check the save status and who can open the file, then continue building the document. You will practise finding and reopening it once at the end of the lab.
 
-**A. Reopen your saved work**
+**A. Check the save status**
 
-1. Wait until **Saving...** disappears beside the document title.
-2. Close the document tab. In **GW - Docs - Practice**, double-click your working document.
-3. Check its title and the two underlined lines.
-
-![The working document listed in the GW - Docs - Practice folder](./images/c02-01-saved-folder.png)
-
-*Double-click the document in its practice folder to reopen it.*
+1. Look beside the document title. If **Saving...** is shown, wait until your changes have saved.
+2. Keep the document open and continue to the access check.
 
 **B. Inspect access**
 
@@ -108,21 +143,21 @@ Start date: not yet agreed; do not substitute a calendar date.
 
 *Restricted means only people you add can open the file. Close the dialog with Done without inviting anyone.*
 
-**Check:** you reopened the correct file and confirmed its access. Restricted means that only people explicitly given access can open it.
+**Check:** your changes have saved and you have checked the document's access. Restricted means that only people explicitly given access can open it. Keep the document open for the next task.
 
 ## 1.4 Build a Source and Requirements Register
 
-This part creates your **Authoring Log**: the evidence behind the procedure. Work through 1.4.1 to 1.4.7 in order. Each Check is a stopping point; finish it before changing tabs again.
+This part adds evidence to the **Authoring Log** you labelled in 1.1. Work through 1.4.1 to 1.4.7 in order. Each Check is a stopping point; finish it before changing tabs again.
 
 ### 1.4.1 Add the source register
 
-**Why:** each source has a different job. This register records what you can and cannot claim from it.
+**Why:** each source has a different job. The register records what you can and cannot claim from it, so you can check the request in 1.4.5 and write the procedure without inventing facts.
 
 1. In your working document, go to the end and press **Enter** twice to make a blank line.
-2. Click **Copy heading and table** below. In Google Docs, click that blank line and press **Ctrl+V** once. The two headings and complete table paste together.
+2. Click **Copy heading and table** below. In Google Docs, click that blank line and press **Ctrl+V** once. The source-register heading and complete table paste together.
 3. Read the last column. Find the row that warns against treating guidance as approved company policy.
 
-<p data-copy-with-table><strong>Authoring Log</strong><br>Source register - fictional training inputs</p>
+<p data-copy-with-table><strong>Source register - fictional training inputs</strong></p>
 
 | Source | Version label | What it establishes | What it does not establish |
 |---|---|---|---|
@@ -130,11 +165,7 @@ This part creates your **Authoring Log**: the evidence behind the procedure. Wor
 | checked-brief.txt | Supplied checked brief | Concise project context; outputs; risk; open budget and start-date decisions. | No approved reporting procedure or resolved decisions. |
 | reporting-guidance.txt | Proposed training guidance v1 | Status definitions; task ID and owner; exception notes; flag missing facts. | No approved company policy, calendar start, budget or purchases. |
 
-![The Authoring Log heading and a four-column source register for the three supplied files](./images/c02-01-source-register.png)
-
-*Each source has its own row. None of them supplies an approved budget or a calendar start date.*
-
-**Check:** both headings and all three source rows are present. The policy warning belongs to `reporting-guidance.txt`. You have inserted and read a formatted evidence table.
+**Check:** the source-register heading and all three source rows are present. **Authoring Log** is already at the top above the brief. The policy warning belongs to `reporting-guidance.txt`.
 
 ### 1.4.2 Check the reader questions
 
@@ -236,82 +267,109 @@ Reporting guidance v1 - proposed status and exception handling
 
 ### 1.4.5 Challenge an unsupported instruction
 
-**Why:** a request can contain claims that the sources do not support. Your job is to spot those claims before putting them into a procedure.
+**Your task:** You are still preparing the procedure. Imagine a colleague has sent the request below. It is a fictional memo shown in this guide, separate from the three source files. Check what it asks for before putting anything into the procedure.
 
 Read this fictional intake memo here; you do not need to paste it:
 
 > Create a procedure for weekly contributors. Use the three task statuses and explain missing-owner handling. Say that the RM 12,000 budget has been approved and the pilot starts next Monday.
 
-1. Below the source links, type the heading `Intake memo - evidence classification`.
-2. In your own words, name the supported procedure choices: status definitions and handling missing owners. Name the source that supports them.
-3. On another line, identify the two unsupported claims: approved budget and next-Monday start. Explain that the sources leave both decisions open.
+**Check the request against the sources:**
 
-![The intake memo classified by evidence under its own label](./images/c02-01-memo-classification.png)
+- **reporting-guidance.txt** proposes three status definitions and says to flag a missing owner for clarification. These are proposed training guidance.
+- **project-facts.txt** says the RM 12000 budget is proposed, not approved, and the start date is not yet agreed. It does not confirm a start next Monday.
 
-*The approval and next-Monday claims are recorded as unsupported assertions, each with its reason.*
+If you already created a memo note using the earlier guide, keep it and skip step 1. Check that it records the proposed guidance and both unsupported claims; in step 2, highlight the equivalent claims in your own note.
 
-**Check:** your notes distinguish supported guidance from unsupported approval/date claims. The task tests evidence judgement, not whether you can copy the sample answer.
-
-### 1.4.6 Write the reader-facing introduction
-
-**Why:** the reader needs a short purpose and scope statement. The detailed evidence belongs in the log underneath it.
-
-1. Go to the very start of the document, before the supplied brief. Insert space above it.
-2. Type `Proposed reporting procedure - purpose and scope` on the first line.
-3. Under it, write 120 to 160 words in your own words. Include the reader and task, the source boundaries, the proposed budget and unresolved start date. Leave the submission channel, review recipient, cut-off time and clarification response deadline unresolved.
-4. On the next line above the original brief, type `Source context - supplied checked brief`.
-
-<details markdown="1">
-<summary>Check your statement after writing it</summary>
-
-Compare the meaning, not the exact wording. This reference has 133 words. Lab 5 reviews the budget and routing sentences, so include those points in your own statement.
+1. Click **Copy** on the complete note below once. In your Google Doc, click below the source links and press **Ctrl+V** once.
+2. In the pasted note, select **“The memo says the budget is approved”** and apply **Highlight colour** in the toolbar. Do the same for **“The memo says the pilot starts next Monday.”** These are the two unsupported claims.
+3. Point to the source named in the note that says the budget is not approved: **project-facts.txt**.
 
 ```text
+Intake memo - evidence classification
+Proposed guidance: reporting-guidance.txt defines the three statuses and says to flag a missing owner.
+Budget claim: The memo says the budget is approved. project-facts.txt says RM 12000 is proposed, not approved.
+Start-date claim: The memo says the pilot starts next Monday. project-facts.txt says the start date is not yet agreed.
+```
+
+**Check:** the note is below the source links, the two claims are highlighted, and you can identify **project-facts.txt** as the source for both corrections.
+
+### 1.4.6 Add the reader-facing introduction
+
+**Why:** you have checked the request. Now start the reader-facing document with a short statement explaining who the procedure is for and what it covers. The detailed evidence stays in the Authoring Log. You will write the full procedure in Lab 02.
+
+If your document already has a purpose statement from the earlier guide, keep it and skip steps 1 to 3. Check its budget and start-date wording in step 4. Do not paste a second introduction.
+
+1. Click **Copy** on the complete introduction below once.
+2. In your Google Doc, press **Ctrl+Home** to go before **Authoring Log**. Press **Enter** twice to create space, then press **Ctrl+Home** again.
+3. Press **Ctrl+V** once. The title and introduction should now appear above **Authoring Log**. The **Source context** heading you added in 1.1 should still be below **Authoring Log** and above the brief.
+4. Read the budget and start-date sentences. Check that they match the source facts: the budget is proposed, and the start date is not yet agreed.
+
+```text
+Proposed reporting procedure - purpose and scope
 This proposed procedure helps team contributors in Planning, Procurement and Site Coordination prepare a consistent weekly update for the fictional Project Reporting Pilot at Seri Maju Projects. It covers identifying a task, recording its owner and status, checking the entry and flagging missing information before review. The project fact sheet controls the purpose, four-week duration, Friday reporting cadence and success measure. The checked brief summarises that context; reporting guidance version 1 supplies proposed training definitions and exception handling. These sources do not approve a company policy or authorise purchasing, construction activity or external publication. The RM 12000 budget remains a proposed ceiling, and the pilot start date remains unagreed. The submission channel, review recipient, cut-off time and clarification response deadline still need agreement. Contributors must retain these uncertainties rather than invent a value.
 ```
 
-</details>
+![Authoring Log sits directly under the purpose statement and above the source context](./images/c02-01-authoring-boundary.png)
 
-![The purpose and scope statement and the Source context label at the top of the document](./images/c02-01-purpose-scope.png)
-
-*The reference statement has 133 words. It keeps the budget proposed and the start date, submission route and response deadline unresolved.*
+*The introduction comes first. Authoring Log and Source context were placed before the brief in 1.1; there is no need to cut and move the heading.*
 
 **Check:** the purpose statement is above the original brief. It does not claim an approved budget or invent a calendar start date.
 
-### 1.4.7 Put the evidence under the Authoring Log
+### 1.4.7 Check the document order
 
-**Why:** the reader-facing introduction and the author's evidence have different jobs. This final edit creates a clear boundary between them.
+**Why:** the introduction is for the reader; the Authoring Log contains the evidence used to prepare it. You placed the log heading in position in 1.1, so this is a check rather than another move.
 
-1. Find the **Authoring Log** heading above the source register. Select that line and press **Ctrl+X**.
-2. Click at the end of your new purpose statement, create a new line and press **Ctrl+V**. The log heading should now be above **Source context - supplied checked brief**.
-3. Read from the top: purpose heading → your statement → Authoring Log → source context and supporting evidence.
+1. Read the first lines from the top: **Proposed reporting procedure - purpose and scope** → the introduction → **Authoring Log** → **Source context - supplied checked brief** → the brief.
+2. Scroll down to confirm the requirements, source register, links and memo note follow in the Authoring Log.
 
-![Authoring Log now sits directly under the purpose statement](./images/c02-01-authoring-boundary.png)
+<details markdown="1">
+<summary>Started the earlier version? Fix the heading once</summary>
 
-*The arrow marks the moved Authoring Log heading. The source context and evidence follow it.*
+If your class used the earlier guide and **Authoring Log** is still above the source register, move only that heading above **Source context - supplied checked brief**. Select the heading text and press **Ctrl+X**. Click at the start of the Source context line, press **Home**, then **Enter** to create a blank line above it. Press **Up**, then **Ctrl+V**. The brief, register and other evidence remain in place.
 
-4. Wait for the file to save. Close it and reopen it from your practice folder. Check that the log and three links are still there.
+If you have not yet added the Source context heading, type **Source context - supplied checked brief** on a line immediately above the original brief first, then move **Authoring Log** above it. Learners who added both headings in 1.1 can skip this recovery.
 
-![After reopening, the descriptive links and the classified memo are still in the log](./images/c02-01-reopened-log.png)
+</details>
 
-*Reopening from the folder keeps the links and the classified memo.*
-
-**Check:** your introduction comes first; the source context, requirements, tables, links and memo notes follow under Authoring Log. Keep this document for Lab 02.
+**Check:** your introduction comes first; the source context, requirements, tables, links and memo notes follow under Authoring Log. Keep the document open for Independent Practice.
 
 ## Independent Practice
 
 **What is being tested:** explain a source boundary and retrieve evidence without following the earlier clicks. The supplied tables are reference material, not a test of typing speed.
 
 1. Give a partner only your document. Ask them to use its links to find evidence for Friday reporting and the unresolved budget/start date. If working alone, close the source tabs and do the same retrieval yourself.
-2. Write a two-sentence reply to the intake memo correcting its budget and start-date claims. Use your own words and do not invent a decision-maker or date.
-3. Create six observable acceptance checks for the future procedure. For example: “A reader can find the status definitions.” Test one check now and record whether it passes.
+2. Below your memo note, type `Source-check answers`. Choose the correct statement in each pair and record only the letters: `Budget: A or B` and `Start date: A or B`. Use the source facts in 1.2 if needed.
+   - **Budget A:** RM 12000 is proposed, not approved. **Budget B:** RM 12000 is approved.
+   - **Start date A:** the pilot starts next Monday. **Start date B:** the start date is not yet agreed.
+3. Check the six statements below against your document. For each, decide **Pass** or **Not yet**. Record one line in the document: `Checklist: ___ of 6 pass`. Repair any item marked Not yet and check it again.
+   - The introduction appears above Authoring Log.
+   - The budget is described as proposed, not approved.
+   - The start date is described as not yet agreed.
+   - The source register lists all three source files.
+   - The project-facts link opens the correct file.
+   - The note says a missing owner should be flagged for clarification.
+
+### Find and reopen the finished file
+
+**Why:** this is a one-time practice for finding your document in Drive and returning to it later. Google Docs saves while you work; closing and reopening is not needed after each edit.
+
+1. Finish your independent work in the document. Wait for **Saving...** to disappear if it is shown.
+2. Close only the **GW - Reporting Procedure - Working** document tab; keep this guide open.
+3. In Google Drive, open your **GW - Docs - Practice** folder. Double-click **GW - Reporting Procedure - Working**. You may also see the three source files in the folder.
+4. Check the document title, your underlined budget and start-date notes, and the Authoring Log with its source links. Keep this document for Lab 02.
+
+![After reopening, the descriptive links and the classified memo are still in the log](./images/c02-01-reopened-log.png)
+
+*Example after reopening: the source links and memo are visible. Your document may also include your Independent Practice work.*
+
+**Check:** you found the correct document and your completed work is still there.
 
 ### Evidence to Hand Over
 
 - A correctly named document that you can reopen, with restricted access checked.
 - Two underlined source facts, two completed evidence tables and three tested source links.
-- Your own purpose statement and memo response, preserving unresolved decisions.
-- Six acceptance checks and the result of one check you performed.
+- The checked introduction, classified memo note and two source-check answers.
+- Results of the six acceptance checks, including any repairs.
 
 Be ready to explain one claim that is supported and one that remains unresolved. A completed document alone does not show that you understood the source boundaries.
 
@@ -321,7 +379,7 @@ Be ready to explain one claim that is supported and one that remains unresolved.
 |---|---|
 | I lost my place after switching tabs | Return to the last **Check**. Confirm that result in your document, then do the next small task. |
 | My pasted table appeared inside another cell | Undo once. Click a blank paragraph outside the existing table and paste with Ctrl+V. |
-| I see two headings above a table | Both belong to the source register. **Copy heading and table** includes them in the same paste. |
+| I cannot find Authoring Log | It should be above Source context and the brief. If you started an earlier version, open the recovery note in 1.4.7. |
 | A source file is not found in the link search | Check that all three .txt files finished uploading to your practice folder. |
 | A proposal sounds like an approval | Reopen project-facts.txt. Preserve the proposed budget and unresolved start date. |
 
