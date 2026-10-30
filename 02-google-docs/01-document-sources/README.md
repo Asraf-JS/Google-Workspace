@@ -6,8 +6,8 @@ You have three source files to help you. Later in this lab, a fictional colleagu
 
 **How the lab fits together:**
 
-1. **Sections 1.1–1.3:** Create the working document and identify facts that must stay accurate.
-2. **Sections 1.4.1–1.4.4:** Organise the sources and link them to the document so you can check your work.
+1. **Sections 1.1 to 1.3:** Create the working document and identify facts that must stay accurate.
+2. **Sections 1.4.1 to 1.4.4:** Organise the sources and link them to the document so you can check your work.
 3. **Section 1.4.5:** Check the colleague's fictional request against those sources.
 4. **Section 1.4.6 onward:** Add and check the introduction and your finished document. You will draft the full procedure in Lab 02.
 
@@ -29,9 +29,9 @@ You have three source files to help you. Later in this lab, a fictional colleagu
 
 Download these three fictional source files and save them unchanged in one folder on your computer:
 
-- [project-facts.txt](../../shared/sample-files/project-facts.txt) — the project's purpose, schedule, proposed budget and open decisions.
-- [checked-brief.txt](../../shared/sample-files/checked-brief.txt) — a short summary of the project that you will put into your working document.
-- [reporting-guidance.txt](../../shared/sample-files/reporting-guidance.txt) — proposed training definitions for statuses and missing information.
+- [project-facts.txt](../../shared/sample-files/project-facts.txt): the project's purpose, schedule, proposed budget and open decisions.
+- [checked-brief.txt](../../shared/sample-files/checked-brief.txt): a short summary of the project that you will put into your working document.
+- [reporting-guidance.txt](../../shared/sample-files/reporting-guidance.txt): proposed training definitions for statuses and missing information.
 
 These three files are your references. The fictional request you will check in 1.4.5 appears in the guide; it is not another file to download. You can take this course without attending the masterclass.
 
@@ -106,7 +106,7 @@ Start date: not yet agreed; do not substitute a calendar date.
 
 Keep this guide beside your **Working** document. The three original lines needed for this check are shown here:
 
-> **Source: project-facts.txt** — the project-facts file downloaded under Before You Begin.<br>
+> **Source: project-facts.txt** (the project-facts file downloaded under Before You Begin).<br>
 > Budget ceiling: RM 12000<br>
 > Budget status: proposed, not approved<br>
 > Start date: not yet agreed
@@ -151,7 +151,7 @@ This part adds evidence to the **Authoring Log** you labelled in 1.1. Work throu
 
 ### 1.4.1 Add the source register
 
-**Why:** each source has a different job. The register records what you can—and cannot—claim from it, so you can check the request in 1.4.5 and write the procedure without inventing facts.
+**Why:** each source has a different job. The register records what you can and cannot claim from it, so you can check the request in 1.4.5 and write the procedure without inventing facts.
 
 1. In your working document, go to the end and press **Enter** twice to make a blank line.
 2. Click **Copy heading and table** below. In Google Docs, click that blank line and press **Ctrl+V** once. The source-register heading and complete table paste together.
@@ -201,12 +201,13 @@ This part adds evidence to the **Authoring Log** you labelled in 1.1. Work throu
 
 ```text
 Proposed training guidance - status definitions
+Not Started: work on the task has not begun.
 Complete: the task owner has confirmed that the agreed task output is ready for review.
 In Progress: work has begun but the owner has not confirmed completion.
 These are proposed operational definitions for training, not approved project commitments.
 ```
 
-**Check:** the proposed-guidance label and both definitions are present. A task that has begun but is not confirmed complete is **In Progress**.
+**Check:** the proposed-guidance label and all three definitions are present. A task that has begun but is not confirmed complete is **In Progress**.
 
 ### 1.4.4 Add and test the source links
 
@@ -278,11 +279,9 @@ Read this fictional intake memo here; you do not need to paste it:
 - **reporting-guidance.txt** proposes three status definitions and says to flag a missing owner for clarification. These are proposed training guidance.
 - **project-facts.txt** says the RM 12000 budget is proposed, not approved, and the start date is not yet agreed. It does not confirm a start next Monday.
 
-If you already created a memo note using the earlier guide, keep it and skip step 1. Check that it records the proposed guidance and both unsupported claims; in step 2, highlight the equivalent claims in your own note.
-
 1. Click **Copy** on the complete note below once. In your Google Doc, click below the source links and press **Ctrl+V** once.
 2. In the pasted note, select **“The memo says the budget is approved”** and apply **Highlight colour** in the toolbar. Do the same for **“The memo says the pilot starts next Monday.”** These are the two unsupported claims.
-3. Point to the source named in the note that says the budget is not approved: **project-facts.txt**.
+3. On a new line under the note, type `Source for both corrections:` followed by the name of the file that settles both claims.
 
 ```text
 Intake memo - evidence classification
@@ -291,13 +290,11 @@ Budget claim: The memo says the budget is approved. project-facts.txt says RM 12
 Start-date claim: The memo says the pilot starts next Monday. project-facts.txt says the start date is not yet agreed.
 ```
 
-**Check:** the note is below the source links, the two claims are highlighted, and you can identify **project-facts.txt** as the source for both corrections.
+**Check:** the note is below the source links, the two claims are highlighted, and your last line names **project-facts.txt**.
 
 ### 1.4.6 Add the reader-facing introduction
 
 **Why:** you have checked the request. Now start the reader-facing document with a short statement explaining who the procedure is for and what it covers. The detailed evidence stays in the Authoring Log. You will write the full procedure in Lab 02.
-
-If your document already has a purpose statement from the earlier guide, keep it and skip steps 1–3. Check its budget and start-date wording in step 4. Do not paste a second introduction.
 
 1. Click **Copy** on the complete introduction below once.
 2. In your Google Doc, press **Ctrl+Home** to go before **Authoring Log**. Press **Enter** twice to create space, then press **Ctrl+Home** again.
@@ -322,22 +319,13 @@ This proposed procedure helps team contributors in Planning, Procurement and Sit
 1. Read the first lines from the top: **Proposed reporting procedure - purpose and scope** → the introduction → **Authoring Log** → **Source context - supplied checked brief** → the brief.
 2. Scroll down to confirm the requirements, source register, links and memo note follow in the Authoring Log.
 
-<details markdown="1">
-<summary>Started the earlier version? Fix the heading once</summary>
-
-If your class used the earlier guide and **Authoring Log** is still above the source register, move only that heading above **Source context - supplied checked brief**. Select the heading text and press **Ctrl+X**. Click at the start of the Source context line, press **Home**, then **Enter** to create a blank line above it. Press **Up**, then **Ctrl+V**. The brief, register and other evidence remain in place.
-
-If you have not yet added the Source context heading, type **Source context - supplied checked brief** on a line immediately above the original brief first, then move **Authoring Log** above it. Learners who added both headings in 1.1 can skip this recovery.
-
-</details>
-
 **Check:** your introduction comes first; the source context, requirements, tables, links and memo notes follow under Authoring Log. Keep the document open for Independent Practice.
 
 ## Independent Practice
 
 **What is being tested:** explain a source boundary and retrieve evidence without following the earlier clicks. The supplied tables are reference material, not a test of typing speed.
 
-1. Give a partner only your document. Ask them to use its links to find evidence for Friday reporting and the unresolved budget/start date. If working alone, close the source tabs and do the same retrieval yourself.
+1. Your document is Restricted, so don't share it. Show it to a partner on your screen and ask them which link holds the evidence for Friday reporting and for the unresolved budget and start date. Click the link they choose and check together. If you're working alone, close the source tabs and do the same retrieval yourself.
 2. Below your memo note, type `Source-check answers`. Choose the correct statement in each pair and record only the letters: `Budget: A or B` and `Start date: A or B`. Use the source facts in 1.2 if needed.
    - **Budget A:** RM 12000 is proposed, not approved. **Budget B:** RM 12000 is approved.
    - **Start date A:** the pilot starts next Monday. **Start date B:** the start date is not yet agreed.
@@ -379,7 +367,7 @@ Be ready to explain one claim that is supported and one that remains unresolved.
 |---|---|
 | I lost my place after switching tabs | Return to the last **Check**. Confirm that result in your document, then do the next small task. |
 | My pasted table appeared inside another cell | Undo once. Click a blank paragraph outside the existing table and paste with Ctrl+V. |
-| I cannot find Authoring Log | It should be above Source context and the brief. If you started an earlier version, open the recovery note in 1.4.7. |
+| I cannot find Authoring Log | It should be under the introduction and above Source context and the brief. If it is missing, type `Authoring Log` on its own line above **Source context - supplied checked brief**. |
 | A source file is not found in the link search | Check that all three .txt files finished uploading to your practice folder. |
 | A proposal sounds like an approval | Reopen project-facts.txt. Preserve the proposed budget and unresolved start date. |
 

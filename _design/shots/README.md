@@ -29,7 +29,7 @@ python _design/shots/optimise.py 02-google-docs/01-document-sources
 
 ## Annotation Rules
 
-- Each box is `[x0, y0, x1, y1, step]`, with the step number matching the numbered instruction in that section. Leave the step out for a plain box. A sixth value (`"below"`, `"left"` and so on) moves the number when it would cover a label.
+- Each box is `[x0, y0, x1, y1, step]`, with the step number matching the numbered instruction in that section. Leave the step out for a plain box. The Google Docs labs split each section into short numbered tasks (2.4.1, 2.4.2 and so on), so their boxes are plain unless one image needs two numbered steps from the same task. A sixth value (`"below"`, `"left"` and so on) moves the number when it would cover a label.
 - Box whole paragraphs, tables or controls. In dense text (lines about 13 px apart) a box around one line cuts through its neighbours, so point at the line with an arrow instead: `"arrows": [[x0, y0, x1, y1]]`, head at the second point.
 - Keep at least 12 px between neighbouring boxes.
 - Crop away empty margins only. Google Docs frames use `[0, 0, 1440, 680]`, which drops the blank strip to the right of the app.
