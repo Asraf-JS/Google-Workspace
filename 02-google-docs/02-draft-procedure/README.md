@@ -110,13 +110,13 @@ The request names the reader, source and output format. No source placeholder re
 
 The two screenshots below show one example Gemini reply. The panel was scrolled to show different parts of that reply. They illustrate what to look for during a review; they are not two separate tasks or answers to copy. Your own reply may use different wording and may not contain these problems.
 
-#### View 1 of 2: check the status definitions
+**View 1 of 2: check the status definitions**
 
 ![Example reply, view 1 of 2: its Check section includes Complete and In Progress but omits Not Started](./images/c02-02-unreviewed-response.png)
 
 *In this example, Check leaves out Not Started. In your own reply, check whether all three statuses are covered; record an omission only if you find one.*
 
-#### View 2 of 2: the same reply, scrolled down to submission instructions
+**View 2 of 2: the same reply, scrolled down to submission instructions**
 
 ![The same example reply, view 2 of 2 after scrolling: Submit for Review contains a vague routing instruction](./images/c02-02-response-checks.png)
 
@@ -130,12 +130,12 @@ The two screenshots below show one example Gemini reply. The panel was scrolled 
 
 **What are you doing?** You are checking an AI-written draft before using it. Compare what Gemini wrote with the original source files, then record whether the wording needs changing. You are not checking against the screenshots or another learner's answer.
 
-#### A. Open the two files you will check against
+**A. Read what the sources say**
 
-1. Open [project-facts.txt](../../shared/sample-files/project-facts.txt) and [reporting-guidance.txt](../../shared/sample-files/reporting-guidance.txt) in separate tabs or text-editor windows. Keep your Gemini reply available in the Working document.
-2. Read the matching source information below before judging the reply. The fact sheet supplies project facts; the guidance supplies proposed status definitions and missing-information rules.
+1. Keep the Gemini panel open beside your Working document so you can see your reply.
+2. Read the table below. It shows what the two source files say about each part of the reply, so you don't need to open them. The full [project-facts.txt](../../shared/sample-files/project-facts.txt) and [reporting-guidance.txt](../../shared/sample-files/reporting-guidance.txt) are linked if you want to look.
 
-| What to check in Gemini's reply | Open this source | What the source actually establishes |
+| What to check in Gemini's reply | Source file | What the source actually establishes |
 |---|---|---|
 | Status definitions | reporting-guidance.txt | Not Started: work has not begun. In Progress: work has begun without owner-confirmed completion. Complete: the owner has confirmed the agreed output is ready for review. |
 | Submission details | Both files | Friday reporting is known. Neither file supplies the submission channel, review recipient or cut-off time. Keep those details unresolved; do not invent an email address, person or time. |
@@ -143,13 +143,13 @@ The two screenshots below show one example Gemini reply. The panel was scrolled 
 
 This table is a reading guide; you do not need to paste it into your document. The fact sheet alone does not provide the status definitions. Use the proposed guidance to check and repair that part of the procedure.
 
-#### B. Work through one example together
+**B. Work through one example together**
 
 Suppose an AI reply says:
 
 > “The RM 12000 budget is approved.”
 
-Open **project-facts.txt** and find **Budget status: proposed, not approved**. The AI sentence changes the meaning, so the review note would be:
+The **Project facts** row in the table (from project-facts.txt) says the budget is **proposed, not approved**. The AI sentence changes the meaning, so the review note would be:
 
 > **Gemini wrote:** The RM 12000 budget is approved.<br>
 > **Source says:** project-facts.txt records the budget as proposed, not approved.<br>
@@ -157,7 +157,7 @@ Open **project-facts.txt** and find **Budget status: proposed, not approved**. T
 
 This is an invented example for practice. If your reply already says the budget is proposed, your decision is **no repair needed**, with the same source as evidence.
 
-#### C. Now check your own reply
+**C. Now check your own reply**
 
 1. At the end of the Working document, in the Authoring Log, type `AI draft review` and today's date.
 2. Write three short findings: **statuses**, **submission details** and **project facts**. For each, use the example's three labels: **Gemini wrote**, **Source says**, **Decision**. Name the source file and the change needed, or write **no repair needed** if the wording already matches.
