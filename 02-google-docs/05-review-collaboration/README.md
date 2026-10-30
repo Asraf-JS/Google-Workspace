@@ -2,7 +2,6 @@
 
 In this chapter you will practise suggestions, comments and version history with a trainer-approved partner.
 
-> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
 **Estimated time:** 55 minutes, planned as 10 explanation and demonstration, 25 guided build and casework, 15 independent practice and 5 verification and repair. Not yet timed with learners.
 
@@ -20,11 +19,23 @@ In this chapter you will practise suggestions, comments and version history with
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use your own procedure. A partner exercise requires a trainer-approved test account and explicit classroom sharing instructions.
 
-This lab reviews three sentences you wrote earlier, so find them first. In the purpose statement: `The RM 12000 budget remains a proposed ceiling, and the pilot start date remains unagreed.` and the routing sentence that starts `The submission channel, review recipient, cut-off time`. In procedure step 5: `The fact sheet requires Friday reporting.` If your wording is different, replace it with the reference sentences on the [Lab 1 prompts page](../01-document-sources/prompts.md) (Part 8) and the [Lab 2 prompts page](../02-draft-procedure/prompts.md) (Part 6) before you start.
+This lab reviews three sentences from your earlier work. Find the budget and routing sentences in the purpose statement, and the Friday sentence in procedure step 5. If your wording differs, use these reference sentences before starting:
+
+```text
+The RM 12000 budget remains a proposed ceiling, and the pilot start date remains unagreed.
+```
+
+```text
+The submission channel, review recipient, cut-off time and clarification response deadline still need agreement.
+```
+
+```text
+The fact sheet requires Friday reporting.
+```
 
 ## 5.1 Practise Suggestions
 
@@ -34,7 +45,22 @@ This lab reviews three sentences you wrote earlier, so find them first. In the p
 
 *The mode menu separates Editing, Suggesting and Viewing.*
 
-2. Under **Required Fields**, replace the first long instruction with the two clearer sentences on the prompts page. Inspect the pending replacement and its accept/reject controls.
+2. Under **Required Fields**, replace the first long instruction with the two clearer sentences provided below. Inspect the pending replacement and its accept/reject controls.
+
+**Copy: Guided Clarity Edit**
+
+Replace only this sentence under Required Fields:
+
+```text
+Prepare the task ID, recorded owner, one supported status and a short exception note when needed.
+```
+
+With:
+
+```text
+Record the task ID, recorded owner and one supported status. Add a short exception note when needed.
+```
+
 
 ![The pending suggestion shows the original instruction and the clearer replacement](./images/c02-05-02-clarity-pending.png)
 
@@ -46,7 +72,23 @@ This lab reviews three sentences you wrote earlier, so find them first. In the p
 
 *After acceptance, the two clearer instructions retain the source facts.*
 
-Next, suggest the deliberately unsupported budget approval sentence on the prompts page. Inspect it, then click **Reject**, the cross. The budget must remain a proposed ceiling; the start date remains unagreed.
+Next, suggest the deliberately unsupported budget approval sentence provided below. Inspect it, then click **Reject**, the cross. The budget must remain a proposed ceiling; the start date remains unagreed.
+
+**Copy: Budget Rejection Reason**
+
+```text
+Reject: the project fact sheet gives a proposed ceiling of RM 12000. No sponsor approval is evidenced; keep the budget proposed and the start date unagreed.
+```
+
+
+**Copy: Deliberately Incorrect Suggestion (Reject It)**
+
+In the purpose statement, select `The RM 12000 budget remains a proposed ceiling, and the pilot start date remains unagreed.` and suggest the following replacement. It is unsupported practice wording and must be rejected.
+
+```text
+The RM 12000 budget is approved, and the pilot start date remains unagreed.
+```
+
 
 ![The deliberately incorrect approval wording is still a pending suggestion](./images/c02-05-04-budget-pending.png)
 
@@ -67,7 +109,18 @@ The correct revision is accepted and the incorrect budget change is rejected.
 
 ## 5.2 Handle a Comment
 
-1. Select the words **the pilot start date remains unagreed.** Choose **Add comment** or press **Ctrl+Alt+M**. Enter the question on the prompts page and choose **Post Comment**.
+1. Select the words **the pilot start date remains unagreed.** Choose **Add comment** or press **Ctrl+Alt+M**. Enter the question provided below and choose **Post Comment**.
+
+**Copy: Start-Date Comment and Reply**
+
+```text
+Does the pilot start date still need sponsor agreement? Please check the project fact sheet before changing this wording.
+```
+
+```text
+The project fact sheet says the start date is to be confirmed. Keep the date unresolved and obtain sponsor agreement before recording a calendar start. This closes the wording check only; it does not approve a date.
+```
+
 
 ![The comment draft asks whether sponsor agreement is still needed](./images/c02-05-06-date-comment-draft.png)
 
@@ -109,6 +162,13 @@ The comment discussion records a reason for the decision. Resolving it did not a
 
 2. Enter `Procedure reviewed against project facts`, then choose **Save**. Use **See version history**, or the last-edit indicator, and verify that the saved name appears.
 
+**Copy: Typed Values**
+
+```text
+Procedure reviewed against project facts
+```
+
+
 ![The milestone name is entered before saving](./images/c02-05-11-milestone-name.png)
 
 *The milestone name is entered before saving.*
@@ -136,15 +196,61 @@ A named milestone is present and the current checked wording remains intact.
 
 **Reference-run result:** the four requests have accept/reject/defer or verified-no-change decisions. The comparison used the documented manual fallback after the native picker remained blank.
 
-1. Create a **Review Log** with Change request, Evidence, Accept/reject/defer and Reason. Use all four review requests in Part 2 of the prompts page.
+1. Type **Review Log**, press **Enter**, then use **Copy table** above the review-log template below. Paste it on the blank line with **Ctrl+V** to create all five rows and four columns. Use all four review requests provided below.
+
+**Copy: Review log template**
+
+| Change request | Evidence | Accept/reject/defer | Reason |
+|---|---|---|---|
+| Split a long sentence into two clear instructions | | | |
+| Change proposed budget ceiling to approved budget | | | |
+| Add a real escalation contact not named in the sources | | | |
+| Check whether the reporting cadence is Friday | | | |
+
+Complete the evidence, decision and reason columns yourself after reviewing each request.
+
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Review requests: (1) Replace a long sentence with two clear instructions. (2) Replace “proposed budget ceiling” with “approved budget”. (3) Insert the name of the real escalation contact, which the sources do not supply. (4) Check whether the reporting cadence is Friday.
+```
+
 
 2. Name the current version `Procedure editorial review - baseline` before applying the controlled-review edits. Record that name and `project-facts.txt`, with the checked brief and reporting guidance as supporting inputs.
+
+**Copy: Controlled Review (Names)**
+
+```text
+Procedure editorial review - baseline
+Procedure editorial review - checked
+GW - Reporting Procedure - Review Comparison
+GW - Reporting Procedure - Editorial Baseline
+```
+
 
 ![Name current version is used to save the pre-edit baseline](./images/c02-05-15-editorial-baseline-name.png)
 
 *Name current version is used to save the pre-edit baseline.*
 
-3. In **Suggesting**, split the long missing-owner instruction into the two sentences on the prompts page. Confirm all source facts remain, then accept.
+3. In **Suggesting**, split the long missing-owner instruction into the two sentences provided below. Confirm all source facts remain, then accept.
+
+**Copy: Controlled Clarity Split**
+
+Original:
+
+```text
+If the owner is missing, retain the task ID and recorded status, flag the absent owner for clarification and keep an exception note.
+```
+
+Replacement:
+
+```text
+If the owner is missing, retain the task ID and recorded status. Flag the absent owner for clarification and keep an exception note.
+```
+
 
 ![The missing-owner instruction is a pending two-sentence replacement](./images/c02-05-16-controlled-clarity-pending.png)
 
@@ -164,13 +270,31 @@ Make the budget approval request as a separate suggestion. Post the source-based
 
 *The maintained procedure retains proposed wording after rejection.*
 
-4. Select the routing sentence in the purpose statement (it starts `The submission channel, review recipient`) and add the missing-contact comment from the prompts page. Ask for the responsible role and authorised contact to be confirmed. Keep this comment **open**; no contact is supplied by the sources.
+4. Select the routing sentence in the purpose statement (it starts `The submission channel, review recipient`) and add the missing-contact comment provided below. Ask for the responsible role and authorised contact to be confirmed. Keep this comment **open**; no contact is supplied by the sources.
+
+**Copy: Missing-Contact Comment (Leave Open)**
+
+```text
+Defer the contact request. The supplied sources do not identify a real escalation contact. Confirm the responsible role and authorised contact through the agreed project route before adding a name. Keep this evidence question open.
+```
+
 
 ![The missing-contact question remains open and asks for role confirmation](./images/c02-05-20-contact-deferred-open.png)
 
 *The missing-contact question remains open and asks for role confirmation.*
 
 5. In procedure step 5, select **The fact sheet requires Friday reporting.** and post the cadence question, then reply from the source. The reference sentence already matches, so record **no change**. Resolve only that editorial check; budget, start date and routing questions remain open.
+
+**Copy: Friday-Cadence Discussion**
+
+```text
+Is Friday the reporting cadence in the supplied project fact sheet? Check the source before changing this sentence.
+```
+
+```text
+Confirmed from project-facts.txt: the update is required every Friday. The existing sentence already matches, so no wording change is needed. Resolve this editorial cadence check only; the budget approval, calendar start and routing decisions remain open.
+```
+
 
 ![A separate editorial comment asks whether Friday matches the fact sheet](./images/c02-05-21-friday-question-posted.png)
 
