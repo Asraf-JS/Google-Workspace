@@ -2,7 +2,6 @@
 
 In this chapter you will use dates, numbers, currency, wrapping and sensible column widths.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 45 minutes: 10 explanation/demonstration, 15 guided build and casework, 15 independent challenge, 5 verification and repair. The active portion is 35 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,7 +17,7 @@ In this chapter you will use dates, numbers, currency, wrapping and sensible col
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use your original Tasks tab. If needed, reopen a fresh native copy of [TaskRegister.xlsx](../../shared/sample-files/TaskRegister.xlsx).
 
@@ -70,6 +69,15 @@ You can explain why number formatting does not convert arbitrary text into a num
 ## 2.4 Diagnose Display, Type and Readability Problems
 
 1. On **Entry Practice** create a **Type Tests** block outside the copied records. Enter numeric 600, text `RM 600`, a relative week 2 and a local practice date in separate labelled cells.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Formatting intake: PlannedCost “RM 600” supplied as text; DueWeek “next Monday” with no agreed calendar start; a long Task description clipped in a narrow column. Treat type, missing date evidence and presentation as three different issues.
+```
+
 
 2. Inspect each formula-bar value and its display. Apply currency to the number and compare it with the text; formatting alone does not turn arbitrary text into a usable numeric input.
 

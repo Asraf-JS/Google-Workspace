@@ -39,52 +39,40 @@
   },
   "chapters": [
     {
-      "notes": "../../05-sheets-advanced/01-source-audit/README.md",
-      "exercises": "../../05-sheets-advanced/01-source-audit/prompts.md"
+      "notes": "../../05-sheets-advanced/01-source-audit/README.md"
     },
     {
-      "notes": "../../05-sheets-advanced/02-conditional-logic/README.md",
-      "exercises": "../../05-sheets-advanced/02-conditional-logic/prompts.md"
+      "notes": "../../05-sheets-advanced/02-conditional-logic/README.md"
     },
     {
-      "notes": "../../05-sheets-advanced/03-validation-exceptions/README.md",
-      "exercises": "../../05-sheets-advanced/03-validation-exceptions/prompts.md"
+      "notes": "../../05-sheets-advanced/03-validation-exceptions/README.md"
     },
     {
-      "notes": "../../05-sheets-advanced/04-text-cleaning/README.md",
-      "exercises": "../../05-sheets-advanced/04-text-cleaning/prompts.md"
+      "notes": "../../05-sheets-advanced/04-text-cleaning/README.md"
     },
     {
-      "notes": "../../05-sheets-advanced/05-lookups-errors/README.md",
-      "exercises": "../../05-sheets-advanced/05-lookups-errors/prompts.md"
+      "notes": "../../05-sheets-advanced/05-lookups-errors/README.md"
     },
     {
-      "notes": "../../05-sheets-advanced/06-formula-clinic/README.md",
-      "exercises": "../../05-sheets-advanced/06-formula-clinic/prompts.md"
+      "notes": "../../05-sheets-advanced/06-formula-clinic/README.md"
     },
     {
-      "notes": "../../05-sheets-advanced/07-pivot-tables/README.md",
-      "exercises": "../../05-sheets-advanced/07-pivot-tables/prompts.md"
+      "notes": "../../05-sheets-advanced/07-pivot-tables/README.md"
     },
     {
-      "notes": "../../05-sheets-advanced/08-database-functions/README.md",
-      "exercises": "../../05-sheets-advanced/08-database-functions/prompts.md"
+      "notes": "../../05-sheets-advanced/08-database-functions/README.md"
     },
     {
-      "notes": "../../05-sheets-advanced/09-dashboard/README.md",
-      "exercises": "../../05-sheets-advanced/09-dashboard/prompts.md"
+      "notes": "../../05-sheets-advanced/09-dashboard/README.md"
     },
     {
-      "notes": "../../05-sheets-advanced/10-gemini-analysis/README.md",
-      "exercises": "../../05-sheets-advanced/10-gemini-analysis/prompts.md"
+      "notes": "../../05-sheets-advanced/10-gemini-analysis/README.md"
     },
     {
-      "notes": "../../05-sheets-advanced/11-analysis-capstone/README.md",
-      "exercises": "../../05-sheets-advanced/11-analysis-capstone/prompts.md"
+      "notes": "../../05-sheets-advanced/11-analysis-capstone/README.md"
     },
     {
-      "notes": "../../05-sheets-advanced/12-handover/README.md",
-      "exercises": "../../05-sheets-advanced/12-handover/prompts.md"
+      "notes": "../../05-sheets-advanced/12-handover/README.md"
     }
   ],
   "backCover": "A practical 2-day course with step-by-step draft labs, copy-ready prompts, fictional inputs and expected-result checks. Use the supplied practice pack. Full lab execution, screenshots and classroom timing validation remain required before participant release."

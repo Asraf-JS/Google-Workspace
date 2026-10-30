@@ -2,7 +2,6 @@
 
 In this chapter you will explain assumptions, refresh steps and known data limitations.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 50 minutes: 10 explanation/demonstration, 20 guided build and casework, 15 independent challenge, 5 verification and repair. The active portion is 40 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,7 +17,7 @@ In this chapter you will explain assumptions, refresh steps and known data limit
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use your baseline workbook and separate capstone copy.
 
@@ -70,6 +69,15 @@ The handover has been tested on an actual extension in a separate copy.
 ## 12.4 Make the Analysis Operable by Another Analyst
 
 1. Create a **Runbook** with source location, row grain, accepted inputs, editable fields, formula columns, exception handling and release controls.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Independent PO026, separate baseline-derived copy: PJ-B | Procurement | IT03 | Quantity 10 | UnitCost 30 | Pending | week 4 | Handover exception test. Do not combine it with PO025 unless you explicitly define and reconcile that additional scenario.
+```
+
 
 2. Create a range inventory for validation, conditional formatting, SUMIFS, lookups, database functions, pivots, chart sources and weekly summaries used in your workbook.
 

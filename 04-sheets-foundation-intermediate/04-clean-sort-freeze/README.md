@@ -2,7 +2,6 @@
 
 In this chapter you will find and replace, trim text, sort whole records and freeze the header row.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 50 minutes: 10 explanation/demonstration, 20 guided build and casework, 15 independent challenge, 5 verification and repair. The active portion is 40 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,7 +17,7 @@ In this chapter you will find and replace, trim text, sort whole records and fre
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use Tasks and download [DirtyText.csv](../../shared/sample-files/DirtyText.csv). Keep cleaning practice separate from the original register.
 
@@ -26,6 +25,20 @@ Use Tasks and download [DirtyText.csv](../../shared/sample-files/DirtyText.csv).
 
 1. Import DirtyText.csv into a new spreadsheet or separate practice tab. Check its three column headings.
 2. In D1 type `CleanTeam`; in D2 enter `=TRIM(B2)` and fill to D4.
+
+**Copy: Typed Values**
+
+```text
+CleanTeam
+```
+
+
+**Copy: Typed Values**
+
+```text
+=TRIM(B2)
+```
+
 3. Compare B and D. Correct the lowercase status complete to the canonical Complete in a separate cleaned status column.
 
 <details markdown="1">
@@ -56,7 +69,21 @@ The task row stays intact. Sorting one column in isolation would break the recor
 
 1. Use View, Freeze and freeze one row. Scroll down and verify the header stays visible.
 2. Select G2:G13 and use the named-range control to name it `PlannedCosts`.
+
+**Copy: Typed Values**
+
+```text
+PlannedCosts
+```
+
 3. In a spare labelled cell enter `=SUM(PlannedCosts)` and compare it with the earlier planned total.
+
+**Copy: Typed Values**
+
+```text
+=SUM(PlannedCosts)
+```
+
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -69,7 +96,16 @@ The named range sums to 10,400 and the frozen header remains visible.
 
 ## 4.4 Clean an Intake and Prove That Records Stay Together
 
-1. Import or type the five-row cleaning intake on the copy-paste page into a new **Cleaning Intake** tab. Preserve a raw copy before editing.
+1. Import or type the five-row cleaning intake provided below into a new **Cleaning Intake** tab. Preserve a raw copy before editing.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Cleaning intake (TaskID | Team | Status): C001 |  Planning  | complete; C002 | Procurement | In Progress; C003 | Site Coordination | Blocked; C002 | Procurement | In Progress; C004 | Planning | Not Started. C001 has surrounding team spaces. The duplicate is identical; Blocked remains unresolved. These are separate practice records.
+```
+
 
 2. Create CleanTeam, CleanStatus and Disposition columns. Use TRIM where appropriate, standardise obvious case differences and flag ambiguous statuses for clarification.
 

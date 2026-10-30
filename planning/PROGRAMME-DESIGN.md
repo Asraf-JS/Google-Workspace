@@ -18,7 +18,7 @@ assets/                         Shared styles and browser scripts
   README.md                     Course landing page
   02-checked-brief/
     README.md                   Reference chapter
-    prompts.md                  Prompts and copy-paste values
+    prompts.md                  Compatibility link to the integrated lesson
     images/                     Real screenshots only
 02-google-docs/                  Course landing page and future chapters
 03-google-slides/
@@ -70,7 +70,7 @@ A chapter is ready only when its learner route has been executed, outputs checke
 
 ## Current Position
 
-Completed as drafts: all 50 chapter notes and companion prompt/value pages; six course maps; two starter workbooks, CSV inputs and source texts; a shared static participant site; six course book configurations and review PDFs; private pre-check questions and practical assessment rubrics.
+Completed as drafts: all 50 chapter notes with inline prompts and values; six course maps; two starter workbooks, CSV inputs and source texts; a shared static participant site; six course book configurations and review PDFs; private pre-check questions and practical assessment rubrics.
 
 The static builder and manual Pages workflow implement one hub using the shared layout helpers. This replaces the proposed Jekyll landing-page conversion while keeping the Markdown source structure and one-course chapter navigation. The shared kit is pinned and reused for PDF layout, with a Google-specific adapter and relative file links while the repository is unpublished.
 

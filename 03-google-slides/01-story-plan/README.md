@@ -2,7 +2,6 @@
 
 In this chapter you will choose the audience, decision and evidence; use Gemini to propose an outline.
 
-> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
 **Estimated time:** 40 minutes, planned as 10 explanation and demonstration, 10 guided build and casework, 15 independent practice and 5 verification and repair. Not yet timed with learners.
 
@@ -20,7 +19,7 @@ In this chapter you will choose the audience, decision and evidence; use Gemini 
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Download [checked brief](../../shared/sample-files/checked-brief.txt), [project facts](../../shared/sample-files/project-facts.txt), [reporting guidance](../../shared/sample-files/reporting-guidance.txt) and [TaskRegister.xlsx](../../shared/sample-files/TaskRegister.xlsx). This specialist course supplies its own inputs.
 
@@ -30,6 +29,32 @@ In Google Drive, click **New**, **New folder**, type `GW - Slides - Practice` an
 
 1. In Google Drive, click **New**, **Google Docs**, **Blank document**. Click **Untitled document**, type `GW - Sponsor Update - Story Plan` and press **Enter**. Create it inside your `GW - Slides - Practice` folder and keep it private. Use the supplied specialist inputs; the masterclass's later task changes are not this course's baseline.
 2. Type `Sponsor Decision` and choose **Heading 1** from the style list. Underneath, identify **Farid Hassan, sponsor** as the audience. Write one decision sentence: decide whether to approve the **proposed RM 12000 ceiling** and agree the **pilot start date**. Aina Rahman coordinates the pilot.
+
+**Copy: Planning Names and Decision Sentence**
+
+Heading 1 sections in the planning Doc, in order:
+
+```text
+Sponsor Decision
+Six-Slide Narrative - Human Draft
+AI Proposal Review
+Outline Acceptance Check
+Audience and Evidence Storyboard
+Decisions and Claim Inventory
+Stakeholder Request Review
+Opening and Closing Scripts
+Appendix Plan and Review Status
+```
+
+Names and decision sentence:
+
+```text
+GW - Sponsor Update - Story Plan
+Story plan checked
+Story plan checked - layout repaired
+Decide whether to approve the proposed RM 12000 budget ceiling and agree the pilot start date.
+```
+
 3. Separate purpose, future success criterion and unresolved approvals. The purpose is to test a consistent weekly reporting process. Success would mean all three teams submitting on time in the final two weeks; achievement is not yet evidenced.
 4. Record the facts the sponsor needs: the three teams, four outputs, four weeks from an agreed start, Friday updates and the status-definition risk. Preserve the exclusions for live construction records, purchasing commitments and external publication.
 
@@ -52,7 +77,24 @@ A clear budget/start-date decision request, supported project context and visibl
 
 *Write the six-part human outline before asking Gemini.*
 
-2. Click **Ask Gemini** (the star at the top right of the Doc). In a new conversation, paste the Part 1 prompt from the [prompts page](./prompts.md) with the complete `checked-brief.txt` replacing the placeholder. Request a panel-only answer. Do not submit an unresolved source placeholder or insert an unchecked generated deck.
+2. Click **Ask Gemini** (the star at the top right of the Doc). In a new conversation, paste the following prompt provided below with the complete `checked-brief.txt` replacing the placeholder. Request a panel-only answer. Do not submit an unresolved source placeholder or insert an unchecked generated deck.
+
+**Copy: Propose an Outline**
+
+**Session:** new chat | **Grounding:** pasted checked brief
+
+```text
+Goal: Suggest a six-slide sponsor update.
+Context: Fictional reporting pilot.
+Source: Only the checked brief below.
+Expectations: Reply in the panel only. Give one main message and a source fact per slide. Preserve unresolved approvals and dates. Do not invent benefits or status counts.
+
+BRIEF:
+[paste checked-brief.txt]
+```
+
+Replace bracketed source placeholders before submitting. Keep a human check between an AI proposal and the final output.
+
 
 ![Paste the bounded outline prompt and complete checked brief into Gemini](./images/c03-01-03-grounded-outline-prompt.png)
 
@@ -103,6 +145,26 @@ A fact-checked outline. Record an actual spoken rehearsal separately when it hap
 
 1. Add the Heading 1 `Audience and Evidence Storyboard` and a one-line description, then click **Insert**, **Table** and create a 5-column, 7-row table with **Slide**, **Audience question**, **Main message**, **Evidence**, **Visual approach**. Populate all six planned slides before opening the theme gallery. Landscape A4 was used in this reference run to keep the five-column table readable. Use **Format**, **Line & paragraph spacing**, **Add page break before** where needed to keep its heading and table together; inspect the resulting layout.
 
+**Copy: Storyboard Columns and Required Sequence**
+
+```text
+Slide
+Audience question
+Main message
+Evidence
+Visual approach
+
+Purpose
+Pilot Scope
+Current Tasks
+Risk
+Decisions
+Next Steps
+```
+
+Use a native table with one header row and six story rows. Proposed visuals remain plans until later labs. Keep the checked brief and dataset as separate sources.
+
+
 ![Complete the native seven-row, five-column storyboard before deck decoration](./images/c03-01-08-six-row-evidence-storyboard.png)
 
 *Complete the native seven-row, five-column storyboard before deck decoration.*
@@ -110,17 +172,67 @@ A fact-checked outline. Record an actual spoken rehearsal separately when it hap
 2. Add the Heading 1 `Decisions and Claim Inventory`. Record both unresolved sponsor decisions and needed evidence. Budget approval needs an authorised decision identifying amount/conditions; a start date needs a recorded agreement. The supplied sources contain neither. A relative DueWeek value cannot supply a calendar date.
 3. Build the claim inventory from `project-facts.txt`, `checked-brief.txt` and the supplied **12-task** workbook. Inspect `Tasks!A2:H13` and statuses `F2:F13`: **4 Complete, 4 In Progress, 4 Not Started**, four tasks per team. Label these as a dataset snapshot. In the reference run, the supplied local XLSX was inspected directly; this does not claim a live Google Sheets test or prove final-two-weeks on-time submissions.
 
+**Copy: Source Controls**
+
+| Input | Check |
+|---|---|
+| checked-brief.txt and project-facts.txt | RM 12000 proposed, start unagreed, four weeks from agreed start, Friday updates, three teams and four outputs |
+| TaskRegister.xlsx Tasks!A2:H13 | Exactly 12 supplied task rows, T001-T012 |
+| TaskRegister.xlsx Tasks!F2:F13 | Four Complete, four In Progress, four Not Started; dataset snapshot only |
+| reporting-guidance.txt version 1 | Complete requires owner-confirmed output ready for review; DueWeek is relative |
+
+
+Copy the table values (tab-separated); fill the native table as instructed:
+
+```text
+Input	Check
+checked-brief.txt and project-facts.txt	RM 12000 proposed, start unagreed, four weeks from agreed start, Friday updates, three teams and four outputs
+TaskRegister.xlsx Tasks!A2:H13	Exactly 12 supplied task rows, T001-T012
+TaskRegister.xlsx Tasks!F2:F13	Four Complete, four In Progress, four Not Started; dataset snapshot only
+reporting-guidance.txt version 1	Complete requires owner-confirmed output ready for review; DueWeek is relative
+```
+
+The specialist uses its own unchanged 12-task workbook. Do not substitute the masterclass's later 13-task scenario or treat status counts as evidence of successful weekly submissions.
+
+
 ![Record the two decisions and verified twelve-task dataset snapshot](./images/c03-01-09-open-decisions-and-task-inventory.png)
 
 *Record the two decisions and verified twelve-task dataset snapshot.*
 
 4. Add the Heading 1 `Stakeholder Request Review`. Classify the stakeholder requests as supported, proposed or unsupported. Preserve the source phrase for supported project claims and identify the range for derived counts. The three teams and task snapshot are supported. Saying the budget is approved contradicts the source. A 40% efficiency promise lacks a metric, measured baseline, comparison period and validated result. A shared-definition check can be proposed, with that status explicit.
 
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Stakeholder requests: Explain the three teams; show current task counts; say the budget is approved; promise a 40% efficiency gain. The sources support the teams and task snapshot, but provide no approval or measured gain.
+```
+
+
+**Copy: Claim Review Fields**
+
+```text
+Stakeholder request:
+Classification: Supported / Proposed / Unsupported
+Source phrase or exact workbook range:
+Limit or missing evidence:
+Decision: Keep / Qualify / Omit / Request evidence
+```
+
+
 ![Classify supported requests and reject unsupported approval and efficiency claims](./images/c03-01-10-stakeholder-claim-classification.png)
 
 *Classify supported requests and reject unsupported approval and efficiency claims.*
 
 5. Add the Heading 1 `Opening and Closing Scripts`. Draft a 60-second opening and 30-second closing request. Preserve the proposed budget and unresolved date. The reference drafts contain **125** and **63 words**; these are preparation, not measured speaking times. Keep actual rehearsal pending until performed.
+
+**Copy: Speaking and Appendix Preparation**
+
+Draft a 60-second opening and 30-second closing request. Keep both sponsor decisions visible. Word-count estimates support preparation; record the actual aloud duration separately.
+
+Plan an appendix for source/status definitions and one for an unanswered audience question. Explain why neither belongs in the core six-slide sequence. Leave partner observations blank until a real partner completes the walkthrough.
+
 
 ![Draft opening and closing scripts while leaving actual spoken duration pending](./images/c03-01-11-opening-closing-and-timing-limit.png)
 
@@ -162,7 +274,7 @@ Close the earlier step lists for the first attempt. Use the case input and your 
 
 2. Compare the short and full outlines for all required facts. Restore any qualification lost through compression.
 
-3. Write a response to an unsupported request in the case input (Part 2 of the prompts page), including what evidence would be needed to make that claim.
+3. Write a response to an unsupported request in the case input , including what evidence would be needed to make that claim.
 
 ### Evidence to Hand Over
 

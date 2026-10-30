@@ -17,7 +17,7 @@
 
 Use the workspace register, checked brief, meeting record, final tracker and revised Slides deck. You need Google Sites. If Sites is disabled, produce an equivalent linked hub Doc and mark Sites creation and preview as untested. Publishing is outside this private draft exercise.
 
-Use the [copy-paste page](./prompts.md) and [shared practice files](../../shared/sample-files/README.md). Keep fictional role names as text. Use only trainer-assigned test identities for any access test.
+Use the values beside the steps below and [shared practice files](../../shared/sample-files/README.md). Keep fictional role names as text. Use only trainer-assigned test identities for any access test.
 
 ## 6.1 Design the Hub for Its Visitors
 
@@ -28,10 +28,18 @@ Use the [copy-paste page](./prompts.md) and [shared practice files](../../shared
 
 2. Create pages **Overview**, **Reporting** and **Decisions and Actions**. Write one sentence on each explaining the visitor’s next useful action.
 
+**Copy: Hub Pages**
+
+```text
+Overview
+Reporting
+Decisions and Actions
+```
+
+
 ![Three distinct pages exist before the detailed content and resource embeds](./images/c01-06-three-pages.jpg)
 
 ![Overview now tells the visitor what to do next; detailed context is still absent](./images/c01-06-visitor-action.jpg)
-
 
 
 3. On Overview add the project purpose, unresolved start date and proposed budget caveat. Link to the checked brief. Avoid copying long sections that could become stale.
@@ -62,13 +70,23 @@ The draft hub has three distinct purposes and useful navigation. It directs edit
 
 1. On Reporting use the available **Insert** controls to add the native tracker and Slides deck. Include clear text links beneath the embeds as an alternative way to open each resource.
 
+**Copy: Handover Links**
+
+```text
+Checked brief
+Native task register
+Meeting record
+Sponsor update
+Project working folder
+```
+Use actual file links from your own practice workspace. Keep account-specific URLs out of public course source.
+
+
 ![The direct native tracker embed is added before the deck embed and link captions](./images/c01-06-tracker-embed.jpg)
 
 ![Insert > Embed recognises the native presentation before insertion; the account-specific URL is masked](./images/c01-06-presentation-preview.jpg)
 
 ![Sites warns that site access would not grant file access; the private route used Don’t share](./images/c01-06-access-warning.jpg)
-
-
 
 
 2. Add a link to the project working folder. Embed the practice calendar only if an assigned training calendar exists; otherwise include a clearly labelled **Calendar integration pending** note. Do not expose a personal calendar.
@@ -80,6 +98,13 @@ The draft hub has three distinct purposes and useful navigation. It directs edit
 
 4. Update the Workspace Register with a resource matrix: resource URL, intended audience, current file access, hub access, test performed and result.
 
+**Copy: Resource Matrix**
+
+```text
+Resource URL | Intended audience | Current file access | Hub access | Test performed | Result
+```
+
+
 ![The verified seven-row, six-column matrix distinguishes resource access from hub access; URL keys are maintained separately in the private register](./images/c01-06-access-matrix.jpg)
 
 
@@ -90,8 +115,6 @@ The draft hub has three distinct purposes and useful navigation. It directs edit
 ![The embedded deck’s own Share dialog remains Restricted; account details are masked](./images/c01-06-deck-access.jpg)
 
 ![The native tracker’s own Share dialog is checked separately and remains Restricted](./images/c01-06-tracker-access.jpg)
-
-
 
 
 6. If an assigned test viewer and an authorised restricted published sandbox already exist, test that route and log the actual result. Otherwise record **Preview only - visitor access untested**. A preview in your own editor account cannot prove a visitor’s access.
@@ -134,10 +157,6 @@ Every embed has a useful caption and direct link. The resource matrix separates 
 ![Decision-page link tiles are widened too, preserving the separate open-decision wording](./images/c01-06-readable-decisions.jpg)
 
 
-
-
-
-
 <details markdown="1">
 <summary>What should you see?</summary>
 
@@ -152,6 +171,13 @@ The workflow can be followed without the author pointing at each control. Previe
 Complete the Lab 6 handover card without following the earlier step lists.
 
 1. Predict the effect of changing T003 to Complete in your current 13-row dataset. Change it at the source, reconcile counts, refresh the brief and deck, and inspect the hub’s relevant resource.
+
+**Copy: Change Log**
+
+```text
+Change | Predicted effect | Source checked | Brief refreshed | Slides refreshed | Hub checked | Export state | Restored?
+```
+
 2. Use the supplied “RM 12,000 approved” review request to decide whether the hub wording should change. Cite the fact sheet rather than accepting the request as project evidence.
 3. Restore T003 to its original status and repeat the downstream checks. Keep T013 and its corrected actual cost from Labs 4 and 5.
 4. Record before, changed and restored states with source URL, refresh action and the limitation of your access check. Identify any stale PDF and regenerate only the snapshots intended for handover.

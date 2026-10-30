@@ -9,7 +9,7 @@
   ],
   "runningTitle": "Google Slides",
   "subtitle": "One-day course review draft",
-  "blurb": "Plan a grounded sponsor update, trace evidence and inspect motion, accessibility and distribution. Labs 1\u20138 include 173 captured stages. Import comparisons, spoken/reviewer checks and independent learner validation remain pending.",
+  "blurb": "Plan a grounded sponsor update, trace evidence and inspect motion, accessibility and distribution. Labs 1–8 include 173 captured stages. Import comparisons, spoken/reviewer checks and independent learner validation remain pending.",
   "coverIcons": [
     "doc",
     "check",
@@ -39,36 +39,28 @@
   },
   "chapters": [
     {
-      "notes": "../../03-google-slides/01-story-plan/README.md",
-      "exercises": "../../03-google-slides/01-story-plan/prompts.md"
+      "notes": "../../03-google-slides/01-story-plan/README.md"
     },
     {
-      "notes": "../../03-google-slides/02-deck-setup/README.md",
-      "exercises": "../../03-google-slides/02-deck-setup/prompts.md"
+      "notes": "../../03-google-slides/02-deck-setup/README.md"
     },
     {
-      "notes": "../../03-google-slides/03-clear-layouts/README.md",
-      "exercises": "../../03-google-slides/03-clear-layouts/prompts.md"
+      "notes": "../../03-google-slides/03-clear-layouts/README.md"
     },
     {
-      "notes": "../../03-google-slides/04-visual-assets/README.md",
-      "exercises": "../../03-google-slides/04-visual-assets/prompts.md"
+      "notes": "../../03-google-slides/04-visual-assets/README.md"
     },
     {
-      "notes": "../../03-google-slides/05-linked-data/README.md",
-      "exercises": "../../03-google-slides/05-linked-data/prompts.md"
+      "notes": "../../03-google-slides/05-linked-data/README.md"
     },
     {
-      "notes": "../../03-google-slides/06-motion-review/README.md",
-      "exercises": "../../03-google-slides/06-motion-review/prompts.md"
+      "notes": "../../03-google-slides/06-motion-review/README.md"
     },
     {
-      "notes": "../../03-google-slides/07-delivery-sharing/README.md",
-      "exercises": "../../03-google-slides/07-delivery-sharing/prompts.md"
+      "notes": "../../03-google-slides/07-delivery-sharing/README.md"
     },
     {
-      "notes": "../../03-google-slides/08-deliver-update/README.md",
-      "exercises": "../../03-google-slides/08-deliver-update/prompts.md"
+      "notes": "../../03-google-slides/08-deliver-update/README.md"
     }
   ],
   "backCover": "A one-day review draft with fictional inputs and substantial labs. Captured planning, layouts, visuals, linked charts, motion, keyboard inspection, versions, scoped PDF export, source-based practice revision and isolated changed-scenario data/chart/handout checks. Real spoken delivery, reviewer tests, imports and learner timing require validation."

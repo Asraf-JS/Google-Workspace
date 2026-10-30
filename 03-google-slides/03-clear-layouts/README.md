@@ -2,7 +2,6 @@
 
 In this chapter you will create a title, progress, risk and decision slide with a consistent visual hierarchy.
 
-> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
 **Estimated time:** 55 minutes, planned as 10 explanation and demonstration, 25 guided build and casework, 15 independent practice and 5 verification and repair. Not yet timed with learners.
 
@@ -20,13 +19,28 @@ In this chapter you will create a title, progress, risk and decision slide with 
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Open the working deck and checked brief.
 
 ## 3.1 Build the Core Messages
 
 1. Open `GW - Slides - Sponsor Update`. Change the Purpose title to **Test consistent weekly reporting**. In the subtitle, type **A proposed four-week Project Reporting Pilot** and, on the next line, **Fictional training example**. This describes a purpose, not a measured benefit.
+
+**Copy: Practice Deck and Main Messages**
+
+```text
+GW - Slides - Layout Practice
+Test consistent weekly reporting
+A proposed four-week Project Reporting Pilot
+Fictional training example
+Three teams will produce four outputs
+The task snapshot is not a success result
+Teams may define task status differently
+Budget and start date need sponsor agreement
+Agree the start, then coordinate Friday updates
+```
+
 
 ![State the reporting-pilot purpose descriptively](./images/c03-03-01-descriptive-purpose.png)
 
@@ -115,19 +129,85 @@ Each main slide has a descriptive message and supporting source notes. The propo
 
 ## 3.4 Redesign Dense Content Without Losing Evidence
 
-1. In Drive, click **New**, **Google Slides**, **Blank presentation** and name it `GW - Slides - Layout Practice`. Use **Title and body** for the first slide. Title it **Dense draft - full paragraph**, then paste the complete dense draft from Part 1 of the [prompts page](./prompts.md). Preserve it unchanged for comparison.
+1. In Drive, click **New**, **Google Slides**, **Blank presentation** and name it `GW - Slides - Layout Practice`. Use **Title and body** for the first slide. Title it **Dense draft - full paragraph**, then paste the complete dense draft provided below. Preserve it unchanged for comparison.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Dense draft: “Seri Maju Projects in Petaling Jaya proposes a four-week Project Reporting Pilot covering Planning, Procurement and Site Coordination, with a brief, task register, weekly update and hub, a proposed RM 12,000 ceiling still awaiting approval, a start date not yet agreed and Friday updates, aiming for all three teams on time in the final two weeks.”
+```
+
 
 ![Preserve the exact dense paragraph in a separate practice deck](./images/c03-03-12-dense-draft-preserved.png)
 
 *Preserve the exact dense paragraph in a separate practice deck.*
 
-2. Add a second Title and body slide titled **Sponsor decisions are needed before the pilot starts** (Part 3 of the prompts page has all of its text). Use no more than three main points: three teams/four outputs; four weeks from an agreed start with Friday updates; future success target for the final two weeks. Add a rectangular **Sponsor decisions pending** callout with the proposed RM 12,000 ceiling approval and pilot start-date agreement. The reference uses 18 pt body and 20 pt callout text. Put the full paragraph and meaning audit in notes, retaining organisation/location, names, all numbers and approval qualifications.
+2. Add a second Title and body slide titled **Sponsor decisions are needed before the pilot starts** (copy its text below). Use no more than three main points: three teams/four outputs; four weeks from an agreed start with Friday updates; future success target for the final two weeks. Add a rectangular **Sponsor decisions pending** callout with the proposed RM 12,000 ceiling approval and pilot start-date agreement. The reference uses 18 pt body and 20 pt callout text. Put the full paragraph and meaning audit in notes, retaining organisation/location, names, all numbers and approval qualifications.
+
+**Copy: Redesigned Alternative**
+
+```text
+Sponsor decisions are needed before the pilot starts
+
+Three teams; four reporting outputs
+Four weeks from an agreed start; Friday updates
+Success target: all three teams on time in the final two weeks
+
+Sponsor decisions pending
+Approve proposed RM 12,000 ceiling • Agree pilot start date
+```
+
+
+**Copy: Meaning Audit and Review Record**
+
+| Source phrase | Retain visibly or in notes |
+|---|---|
+| Proposed RM 12000 ceiling, not approved | Visible pending-decision callout and budget-source note |
+| Start date not agreed | Visible date-agreement request; four weeks remains relative |
+| Friday updates | Visible cadence |
+| All three teams on time in final two weeks | Visible future target, not achieved success |
+| Organisation, location, team/output names | Full original paragraph and supporting layouts/notes |
+
+
+Copy the table values (tab-separated); fill the native table as instructed:
+
+```text
+Source phrase	Retain visibly or in notes
+Proposed RM 12000 ceiling, not approved	Visible pending-decision callout and budget-source note
+Start date not agreed	Visible date-agreement request; four weeks remains relative
+Friday updates	Visible cadence
+All three teams on time in final two weeks	Visible future target, not achieved success
+Organisation, location, team/output names	Full original paragraph and supporting layouts/notes
+```
+
+Record a written explanation draft, actual spoken duration separately, viewing-size observations, reviewer assignment, actual message recalled and any resulting revision. Leave unperformed checks pending.
+
 
 ![Redesign as three points plus a pending-decision callout](./images/c03-03-13-three-point-redesign.png)
 
 *Redesign as three points plus a pending-decision callout.*
 
 3. Add a **Title only** slide titled **Three teams share one reporting process**. Draw one rectangle, add **Planning** at 20 pt, then duplicate its geometry for **Procurement** and **Site Coordination**. Leave text editing before duplicating a shape. Select all three cards, then use **Arrange > Align > Top** and **Arrange > Distribute > Horizontally**. Do not include the title in that selection.
+
+**Copy: Layout Labels**
+
+```text
+Three teams share one reporting process
+Planning
+Procurement
+Site Coordination
+
+Proposed outputs support a weekly reporting cycle
+1. Project brief
+2. Task register
+3. Weekly update
+4. Project hub
+```
+
+The arrows are a proposed teaching sequence. They do not prove an approved process or live automation. Use equal-sized native shapes and Arrange alignment/distribution rather than spaces in text.
+
 
 ![Use Arrange to distribute matching team cards horizontally](./images/c03-03-14-distribute-team-cards-menu.png)
 

@@ -2,7 +2,6 @@
 
 In this chapter you will choose charts, sparklines and filter views; distinguish source-linked charts from generated analysis snapshots.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 70 minutes: 15 explanation/demonstration, 27 guided build and casework, 20 independent challenge, 8 verification and repair. The active portion is 55 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,7 +17,7 @@ In this chapter you will choose charts, sparklines and filter views; distinguish
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use the checked advanced workbook with all-orders and delivered controls reconciled.
 
@@ -41,6 +40,13 @@ The dashboard identifies the question and population behind each number.
 
 1. On Analysis create week labels 1, 2, 3 and 4 and calculate Amount totals for each with SUMIFS.
 2. On Dashboard create a labelled sparkline using the four weekly result cells, for example `=SPARKLINE(Analysis!B16:E16)` after placing the totals there.
+
+**Copy: Typed Values**
+
+```text
+=SPARKLINE(Analysis!B16:E16)
+```
+
 3. Check that the sequence is chronological and its totals reconcile to all-orders Amount.
 
 <details markdown="1">
@@ -70,6 +76,15 @@ The dashboard returns to the reconciled baseline after restoration.
 ## 9.4 Design a Dashboard With a Visible Refresh Contract
 
 1. Write a dashboard brief specifying audience, population, units, three useful questions and the source range. Do not mix all-orders and active totals without labels.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Audience questions: Which project has the largest Delivered amount? How much Amount remains Pending? Which practice week has the largest all-orders Amount? PO025 extension: PJ-A, Planning, IT01, Quantity 2, UnitCost 45, Delivered, week 4.
+```
+
 
 2. Add KPI cells for record count, all-orders Amount, ActiveAmount and Delivered Amount. Reconcile each to the corresponding checked analysis.
 

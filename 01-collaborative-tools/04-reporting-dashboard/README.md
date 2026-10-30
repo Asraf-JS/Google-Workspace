@@ -17,7 +17,7 @@
 
 Use your native tracker from Lab 1, or convert a fresh [TaskRegister.xlsx](../../shared/sample-files/TaskRegister.xlsx). Use commas in formulas; use semicolons for argument separators if required by your locale. You need the checked brief as a linked-chart destination.
 
-Use the [copy-paste page](./prompts.md) and [shared practice files](../../shared/sample-files/README.md). Keep fictional role names as text. Use only trainer-assigned test identities for any access test.
+Use the values beside the steps below and [shared practice files](../../shared/sample-files/README.md). Keep fictional role names as text. Use only trainer-assigned test identities for any access test.
 
 ## 4.1 Audit and Validate the Input
 
@@ -28,6 +28,14 @@ Use the [copy-paste page](./prompts.md) and [shared practice files](../../shared
 ![The twelve source tasks with RM cost formatting before later calculations or charts](./images/c01-04-01-baseline.jpg)
 
 2. Create a tab named **Status Intake**. Paste the four dirty records from masterclass-challenges.txt. Preserve the raw status in column B; add Normalised status in C and Reason in D.
+
+**Copy: Status Intake Headings**
+
+```text
+Record | Raw status | Normalised status | Reason
+```
+Copy the inputs from masterclass-challenges.txt. Do not paste them into the original Tasks statuses.
+
 
 ![Raw intake values are preserved while the normalised-status and reason cells are still blank](./images/c01-04-01-intake-raw.jpg)
 
@@ -49,6 +57,12 @@ If pasting trims S01’s leading space, enter it as literal text with a leading 
 
 6. Add **Variance** in I1. In I2 enter `=H2-G2` and fill to I13. Inspect I3 to prove that both row references moved. Add a note that negative values mean actual costs are below planned costs, not proof of a realised saving.
 
+**Cell: Tasks!I2**
+
+```text
+=H2-G2
+```
+
 ![I3 uses H3 minus G3; the source still has twelve tasks and no later new-record card](./images/c01-04-01.jpg)
 
 <details markdown="1">
@@ -64,13 +78,54 @@ Twelve source tasks remain intact, each variance calculates from its own row, an
 
 1. On **Summary** use the existing status labels in A2:A4. In B2 enter `=COUNTIF(Tasks!$F$2:$F$13,A2)` and fill to B4. Add **Total tasks** in A6 and `=SUM(B2:B4)` in B6.
 
+**Cell: Summary!B6**
+
+```text
+=SUM(B2:B4)
+```
+
+**Cell: Summary!B2**
+
+```text
+=COUNTIF(Tasks!$F$2:$F$13,A2)
+```
+
 ![The first status counts are 4, 4 and 4, totalling 12, before any team-cost table or chart exists](./images/c01-04-02-counts.jpg)
 
 2. In D1:G1 enter Team, Planned, Actual and Variance. In D2:D4 enter Planning, Procurement and Site Coordination.
 
+**Copy: Labels**
+
+```text
+Team | Planned | Actual | Variance
+Planning
+Procurement
+Site Coordination
+Pilot task status
+```
+
+
 ![Team-summary labels before adding SUMIF calculations](./images/c01-04-02-team-labels.jpg)
 
 3. In E2 enter `=SUMIF(Tasks!$B$2:$B$13,D2,Tasks!$G$2:$G$13)`. In F2 enter `=SUMIF(Tasks!$B$2:$B$13,D2,Tasks!$H$2:$H$13)`. In G2 enter `=F2-E2`. Fill E2:G2 down to row 4.
+
+**Cell: Summary!G2**
+
+```text
+=F2-E2
+```
+
+**Cell: Summary!F2**
+
+```text
+=SUMIF(Tasks!$B$2:$B$13,D2,Tasks!$H$2:$H$13)
+```
+
+**Cell: Summary!E2**
+
+```text
+=SUMIF(Tasks!$B$2:$B$13,D2,Tasks!$G$2:$G$13)
+```
 
 4. Add totals in E6:G6 using SUM. Independently total Tasks G2:G13 and H2:H13 in spare check cells and compare them with the team totals.
 

@@ -2,7 +2,6 @@
 
 In this chapter you will create a native Sheet, rename tabs and enter a small set of records.
 
-> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
 **Estimated time:** 40 minutes, planned as 10 explanation and demonstration, 10 guided build and casework, 15 independent practice and 5 verification and repair. Not yet timed with learners.
 
@@ -20,13 +19,20 @@ In this chapter you will create a native Sheet, rename tabs and enter a small se
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Download [TaskRegister.xlsx](../../shared/sample-files/TaskRegister.xlsx). This workbook starts at row 1 so cell references in the course match exactly.
 
 ## 1.1 Open a Native Copy
 
 1. In the training account, create a Drive folder named `GW - Sheets Foundation - Practice`. Keep the starter file separate from later native practice.
+
+**Copy: Typed Values**
+
+```text
+GW - Sheets Foundation - Practice
+```
+
 
 ![Create the empty Foundation practice folder](./images/c04-01-01-empty-foundation-practice-folder.png)
 
@@ -46,6 +52,13 @@ Download [TaskRegister.xlsx](../../shared/sample-files/TaskRegister.xlsx). This 
 
 4. Name the new native file `GW - Sheets - Task Register`. Confirm the XLSX badge is absent and **Tasks** and **Summary** are present. Do not rename the original XLSX instead.
 
+**Copy: Typed Values**
+
+```text
+GW - Sheets - Task Register
+```
+
+
 ![Name the separate native workbook with only its starter tabs](./images/c04-01-04-named-native-copy-two-tabs.png)
 
 *Name the separate native workbook with only its starter tabs.*
@@ -62,6 +75,13 @@ The native workbook has Tasks and Summary tabs, with 12 task records.
 ## 1.2 Navigate the Register
 
 1. Open **Tasks**. Click the name box, enter `A1:H13` and press **Enter** to select all eight headers and twelve records.
+
+**Copy: Typed Values**
+
+```text
+A1:H13
+```
+
 
 ![Select the complete twelve-record source range](./images/c04-01-05-select-full-source-range.png)
 
@@ -92,11 +112,25 @@ You can identify a cell address, a rectangular range and a worksheet tab.
 
 1. Open the **Tasks** tab menu and choose **Duplicate**. Rename **Copy of Tasks** to `Navigation Practice` using its tab label or **Rename** command.
 
+**Copy: Typed Values**
+
+```text
+Navigation Practice
+```
+
+
 ![Name the Tasks duplicate Navigation Practice](./images/c04-01-08-named-navigation-practice-duplicate.png)
 
 *Name the Tasks duplicate Navigation Practice.*
 
 2. On **Navigation Practice**, enter `Practice only` in **J1**, commit the entry, and widen column J using its header boundary. Keep this experiment on the duplicate.
+
+**Copy: Typed Values**
+
+```text
+Practice only
+```
+
 
 ![Enter Practice only and widen its column on the duplicate](./images/c04-01-09-practice-only-label-and-resized-column.png)
 
@@ -120,6 +154,38 @@ Experiments are on a clearly named copy; the baseline input is preserved.
 ## 1.4 Build a Workbook Map and Reconstruct a Small Register
 
 1. Use **Add Sheet**, rename it **Workbook Guide**, and record the purpose of Tasks, Summary and Navigation Practice. Identify **Tasks!A1:H13** as the maintained twelve-record source. Widen the authored guide columns so the map is readable.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Beginner navigation brief: You inherit an XLSX, a native copy and several tabs. Another learner must be able to identify the maintained source and find T008’s owner and actual cost without guessing from row position.
+```
+
+
+**Copy: Workbook Guide Reference**
+
+| Address | Meaning | Value | TaskID |
+|---|---|---|---|
+| A2 | TaskID | T001 | T001 |
+| D5 | Owner | Aina Rahman | T004 |
+| F8 | Status | Complete | T007 |
+| H13 | ActualCost | 0 | T012 |
+
+
+Copy the table values (tab-separated); fill the native table as instructed:
+
+```text
+Address	Meaning	Value	TaskID
+A2	TaskID	T001	T001
+D5	Owner	Aina Rahman	T004
+F8	Status	Complete	T007
+H13	ActualCost	0	T012
+```
+
+Tab purposes: **Tasks** is the maintained twelve-record source; **Summary** is the supplied summary area; **Navigation Practice** is the duplicate for experiments; **Entry Practice** is a three-row reconstruction; **Workbook Guide** records the map and checks. Final reference order: Tasks, Workbook Guide, Navigation Practice, Entry Practice, Summary.
+
 
 ![Record the purpose and source status of each tab](./images/c04-01-11-workbook-guide-tab-purposes.png)
 
@@ -155,6 +221,22 @@ Experiments are on a clearly named copy; the baseline input is preserved.
 *Record all four address-to-record checks.*
 
 3. Add **Entry Practice**. Enter the eight source headers in **A1:H1**, then recreate **T001, T002 and T003** as values in **A2:H4**, preserving field positions. Widen the task-text column if needed; do not copy the entire Tasks tab for this reconstruction exercise.
+
+**Copy: Entry Practice Values**
+
+Enter these eight fields without moving their positions. Compare each row with Tasks by TaskID.
+
+```text
+TaskID	Team	Task	Owner	DueWeek	Status	PlannedCost	ActualCost
+T001	Planning	Confirm reporting fields	Aina Rahman	1	Complete	600	550
+T002	Planning	Draft status definitions	Bala Kumar	1	In Progress	800	700
+T003	Planning	Review pilot brief	Siti Aminah	1	Not Started	500	0
+```
+
+Verification record: all eight fields for T001, T002 and T003 matched; no copying error found. Task text was clipped on the new tab and its column was widened; values remained unchanged. B2 selects one cell, 2:2 a whole row, C:C a whole column, A1:H4 the small table and A1:H1 only its header.
+
+Edit **GW - Sheets - Task Register (Google Sheets)** in **My Drive / GW - Sheets Foundation - Practice**. Retain **TaskRegister.xlsx (Microsoft Excel)** as the supplied source. The author reopened the native file from this folder and confirmed Tasks!A1:H13 unchanged. The instructor performed the upload manually after an extension permission block; automated browser upload, independent challenge and classroom timing remain unverified.
+
 
 ![Recreate the first three records with all eight fields](./images/c04-01-17-three-record-entry-practice-reconstruction.png)
 

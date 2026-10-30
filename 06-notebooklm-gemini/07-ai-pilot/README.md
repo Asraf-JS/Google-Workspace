@@ -2,7 +2,6 @@
 
 In this chapter you will apply a repeatable prompt workflow to a small task and compare the checked result with a manual baseline.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 50 minutes: 10 explanation/demonstration, 20 guided build and casework, 15 independent challenge, 5 verification and repair. The active portion is 40 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,7 +17,7 @@ In this chapter you will apply a repeatable prompt workflow to a small task and 
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use the fictional source pack and review log. This is a supervised manual workflow, not a deployed unattended automation.
 
@@ -71,7 +70,30 @@ The pilot conclusion matches the observed quality and effort rather than an inve
 
 1. Choose the five-question FAQ task and predefine a scoring rubric: required facts, unsupported claims, unresolved-decision handling and evidence trace. Set the acceptance rule before running attempts.
 
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Evaluation acceptance: all five requested FAQ topics addressed; budget remains proposed; start date remains unresolved; every consequential claim has source support; no invented supplier, gain or approval. Record task familiarity and run order. A faster rejected answer is not a successful output.
+```
+
+
 2. Use the same source pack and output brief for a manual attempt and assisted attempt. Record prior familiarity and attempt order, which can bias the comparison.
+
+**Copy: Evidence Question Bank**
+
+```text
+1. What is the pilot’s purpose and duration?
+2. Which three teams participate?
+3. What reporting cadence and success measure are stated?
+4. Is the RM 12,000 ceiling approved?
+5. What start date is confirmed?
+6. Which preparation actions, owners and due weeks are explicit?
+```
+
+Keep source facts separate from inferred workflow. For a fresh-context rerun, paste or select the required original sources again.
+
 
 3. Record active drafting, prompting, checking and correction separately from generation wait, sign-in, interruptions and setup.
 

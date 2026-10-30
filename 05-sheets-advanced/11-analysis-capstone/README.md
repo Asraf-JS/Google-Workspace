@@ -2,7 +2,6 @@
 
 In this chapter you will answer a new project question, substantiate the finding and deliver a checked dashboard.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 80 minutes: 15 explanation/demonstration, 37 guided build and casework, 20 independent challenge, 8 verification and repair. The active portion is 65 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,7 +17,7 @@ In this chapter you will answer a new project question, substantiate the finding
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Create a challenge copy. Use the same 24-order source and six-item Rates table; do not import real purchasing data.
 
@@ -70,6 +69,15 @@ A reviewer can trace the finding to source records and understand its limits.
 ## 11.4 Complete a Decision Analysis With Independent Evidence
 
 1. Write a one-page analysis specification for the card’s three questions, naming population, metric, threshold and exclusions.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Capstone questions: Largest Delivered amount by project; Pending records with Amount >=200 and their IDs; highest all-orders Amount by practice week. Scenario PO025: PJ-A, Planning, IT01, Quantity 2, UnitCost 45, Delivered, week 4. No actual budget or profit data is supplied.
+```
+
 
 2. Build answers with formulas and a pivot or filtered-source reconciliation. Retain the contributing OrderIDs for the exception list.
 

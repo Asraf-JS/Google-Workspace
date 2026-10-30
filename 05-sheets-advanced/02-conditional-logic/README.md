@@ -2,7 +2,6 @@
 
 In this chapter you will revise mixed references and apply IF, SUMIF, COUNTIF, SUMIFS and COUNTIFS with test cases.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 75 minutes: 15 explanation/demonstration, 32 guided build and casework, 20 independent challenge, 8 verification and repair. The active portion is 60 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,14 +17,42 @@ In this chapter you will revise mixed references and apply IF, SUMIF, COUNTIF, S
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use Orders A1:I25 and the Analysis tab from Chapter 1.
 
 ## 2.1 Calculate Line Amounts
 
 1. In Orders J1 type `Amount`; in J2 enter `=E2*F2` and fill through J25.
+
+**Copy: Typed Values**
+
+```text
+Amount
+```
+
 2. In K1 type `ActiveAmount`; in K2 enter `=IF(G2="Cancelled",0,J2)` and fill through K25.
+
+**Copy: Typed Values**
+
+```text
+=E2*F2
+```
+
+
+**Copy: Typed Values**
+
+```text
+ActiveAmount
+```
+
+
+**Copy: Typed Values**
+
+```text
+=IF(G2="Cancelled",0,J2)
+```
+
 3. Compare J2, J13 and J25 with quantity times unit cost. Cancelled rows remain in the dataset but contribute zero to ActiveAmount.
 
 <details markdown="1">
@@ -41,6 +68,13 @@ The all-orders Amount sum is RM 3,158. ActiveAmount answers a different question
 
 1. On Analysis enter Project in A3 and Delivered, Pending, Cancelled in B3:D3. Put PJ-A, PJ-B and PJ-C in A4:A6.
 2. In B4 enter `=SUMIFS(Orders!$J$2:$J$25,Orders!$B$2:$B$25,$A4,Orders!$G$2:$G$25,B$3)`.
+
+**Copy: Typed Values**
+
+```text
+=SUMIFS(Orders!$J$2:$J$25,Orders!$B$2:$B$25,$A4,Orders!$G$2:$G$25,B$3)
+```
+
 3. Fill across through D4, then down through row 6. Inspect a formula in the final row and column.
 
 <details markdown="1">
@@ -56,6 +90,13 @@ Project criteria move down while status headers move across. The grid sums back 
 
 1. In a spare practice area label the bands Low below 100, Medium from 100 to below 200, and High from 200 upward.
 2. With a test amount in F2, enter `=IF(F2<100,"Low",IF(F2<200,"Medium","High"))` in G2.
+
+**Copy: Typed Values**
+
+```text
+=IF(F2<100,"Low",IF(F2<200,"Medium","High"))
+```
+
 3. Test 99, 100, 199 and 200 in F2 and record the classifications. Keep these hypothetical bands separate from source policy.
 
 <details markdown="1">
@@ -70,6 +111,15 @@ Project criteria move down while status headers move across. The grid sums back 
 ## 2.4 Reconcile Three Populations and Test Conditional Boundaries
 
 1. Create an Analysis control block for all-orders Amount, ActiveAmount excluding Cancelled, and Delivered-only Amount. Write each population definition before calculating.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Logic matrix must cover below/on/above thresholds, zero quantity, Delivered, Pending and Cancelled. Practice bands: Low <100; Medium 100 to <200; High >=200. Exception: Pending AND Amount >=200. These are training rules, not procurement policy.
+```
+
 
 2. Build COUNTIFS as well as SUMIFS project/status grids. Reconcile the count grid to 24 and the amount grid to the all-orders source total.
 

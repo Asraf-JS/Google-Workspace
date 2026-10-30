@@ -14,16 +14,16 @@
 
 ## Chapters
 
-| Day | # | Chapter | Prompts | What you will do | Time |
+| Day | # | Chapter | Copyable text | What you will do | Time |
 |---|---|---|---|---|---|
-| 1 | 01 | [Read the Brief and Plan the Story](./01-story-plan/README.md) | [Prompts](./01-story-plan/prompts.md) | Build an Audience and Evidence Storyboard. | 40 min |
-| 1 | 02 | [Create and Organise the Deck](./02-deck-setup/README.md) | [Prompts](./02-deck-setup/prompts.md) | Create a Reusable Deck Structure and Import Test. | 45 min |
-| 1 | 03 | [Build Clear Slide Layouts](./03-clear-layouts/README.md) | [Prompts](./03-clear-layouts/prompts.md) | Redesign Dense Content Without Losing Evidence. | 55 min |
-| 1 | 04 | [Create and Check Visual Assets](./04-visual-assets/README.md) | [Prompts](./04-visual-assets/prompts.md) | Produce Visuals With a Clear Information Purpose. | 55 min |
-| 1 | 05 | [Link and Explain Project Data](./05-linked-data/README.md) | [Prompts](./05-linked-data/prompts.md) | Extend the Source and Audit Every Representation. | 55 min |
-| 1 | 06 | [Polish Motion and Review](./06-motion-review/README.md) | [Prompts](./06-motion-review/prompts.md) | Test Motion, Reading Order and Review Decisions. | 45 min |
-| 1 | 07 | [Rehearse and Distribute](./07-delivery-sharing/README.md) | [Prompts](./07-delivery-sharing/prompts.md) | Rehearse an Accessible Delivery and Test Distribution. | 45 min |
-| 1 | 08 | [Deliver the Project Update](./08-deliver-update/README.md) | [Prompts](./08-deliver-update/prompts.md) | Handle a Last-Minute Sponsor Change. | 50 min |
+| 1 | 01 | [Read the Brief and Plan the Story](./01-story-plan/README.md) | [Copy in lesson](./01-story-plan/README.md) | Build an Audience and Evidence Storyboard. | 40 min |
+| 1 | 02 | [Create and Organise the Deck](./02-deck-setup/README.md) | [Copy in lesson](./02-deck-setup/README.md) | Create a Reusable Deck Structure and Import Test. | 45 min |
+| 1 | 03 | [Build Clear Slide Layouts](./03-clear-layouts/README.md) | [Copy in lesson](./03-clear-layouts/README.md) | Redesign Dense Content Without Losing Evidence. | 55 min |
+| 1 | 04 | [Create and Check Visual Assets](./04-visual-assets/README.md) | [Copy in lesson](./04-visual-assets/README.md) | Produce Visuals With a Clear Information Purpose. | 55 min |
+| 1 | 05 | [Link and Explain Project Data](./05-linked-data/README.md) | [Copy in lesson](./05-linked-data/README.md) | Extend the Source and Audit Every Representation. | 55 min |
+| 1 | 06 | [Polish Motion and Review](./06-motion-review/README.md) | [Copy in lesson](./06-motion-review/README.md) | Test Motion, Reading Order and Review Decisions. | 45 min |
+| 1 | 07 | [Rehearse and Distribute](./07-delivery-sharing/README.md) | [Copy in lesson](./07-delivery-sharing/README.md) | Rehearse an Accessible Delivery and Test Distribution. | 45 min |
+| 1 | 08 | [Deliver the Project Update](./08-deliver-update/README.md) | [Copy in lesson](./08-deliver-update/README.md) | Handle a Last-Minute Sponsor Change. | 50 min |
 
 ## Inputs and Checks
 

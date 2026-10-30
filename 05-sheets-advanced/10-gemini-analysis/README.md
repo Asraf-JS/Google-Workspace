@@ -2,7 +2,6 @@
 
 In this chapter you will generate and inspect formula proposals and chart summaries; test exceptions before accepting.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 55 minutes: 10 explanation/demonstration, 25 guided build and casework, 15 independent challenge, 5 verification and repair. The active portion is 45 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,13 +17,27 @@ In this chapter you will generate and inspect formula proposals and chart summar
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use the native checked workbook and usable Gemini in Sheets access. If unavailable, critique the supplied examples manually and record the AI objective as incomplete.
 
 ## 10.1 Request a Formula Proposal
 
-1. Open Ask Gemini. Paste the Part 2 prompt describing the actual source columns and range.
+1. Open Ask Gemini. Paste the following prompt describing the actual source columns and range.
+
+**Copy: Propose a Delivered Total**
+
+**Session:** new chat | **Grounding:** explicit Orders schema
+
+```text
+Goal: Propose a formula for delivered order amount.
+Context: Fictional Google Sheets analysis.
+Source: Orders rows 2 to 25; Status is G and Amount is J. Header row is 1.
+Expectations: Reply with a formula and explanation only. Do not edit cells. Include only Status equal to Delivered. Use bounded ranges. I will test the formula against the source.
+```
+
+Replace bracketed source placeholders before submitting. Keep a human check between an AI proposal and the final output.
+
 2. Read the proposed formula before applying it. Check its row bounds, exact status spelling and use of Amount.
 3. Test the formula in a spare labelled cell and compare with the known Delivered total of 1,478.
 
@@ -70,6 +83,15 @@ The final dashboard does not imply automatic refresh where it has not been demon
 ## 10.4 Evaluate AI Proposals Against Known Test Cases
 
 1. Prepare a test matrix before prompting: Delivered total, Pending >=200, unknown ItemCode and a new record outside the original bounds.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Flawed formula proposals to audit if AI is unavailable: `=SUM(Orders!J2:J24)` described as all 24 rows; `=IFERROR(VLOOKUP("IT99",Rates!A2:D7,3,FALSE),0)` described as a confirmed zero rate; `=SUMIFS(Orders!J2:J25,Orders!G2:G25,"Delivered")` described as active amount excluding only Cancelled.
+```
+
 
 2. Ask Gemini for a formula and explanation using the actual headers and range. If unavailable, use the deliberately flawed proposals on the card for the same audit.
 

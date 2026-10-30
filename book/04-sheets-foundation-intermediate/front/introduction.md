@@ -16,7 +16,7 @@ Download the supplied fictional practice pack. No real client or personnel recor
 
 Follow the numbered steps, attempt the output and then open the expected-result box. AI wording can vary; source facts and approval conditions must remain correct.
 
-Values and prompts follow the notes. Replace source placeholders before submitting. Inspect proposed edits before applying them. Drafting does not authorise sending, inviting people or publishing.
+Values and prompts appear directly beneath the steps that use them. Replace source placeholders before submitting. Inspect proposed edits before applying them. Drafting does not authorise sending, inviting people or publishing.
 
 ## Course Timing
 

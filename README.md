@@ -4,7 +4,7 @@ Participant lab drafts, practice files and review books for six Google Workspace
 
 You do not need a GitHub account to read the materials.
 
-**Version 0.4**, last updated 21 October 2026.
+**Version 0.4**, last updated 30 October 2026.
 
 The programme now has 50 draft chapters: six expanded masterclass labs and 44 expanded specialist labs. The package includes a shared participant site, practice files and six review books. Masterclass Labs 1–6, Docs Labs 1-8, Slides Labs 1-8 and Sheets Foundation Lab 1 now have 473 staged real-app images, with limitations recorded per lab. The hub Preview remains blocked; remaining specialist routes, independent challenges and learner timing pilots are still required. See the [validation status](./planning/VALIDATION-STATUS.md).
 
@@ -16,7 +16,7 @@ The masterclass follows the whole reporting workflow. The five specialist course
 
 ## How to Use This Site
 
-Choose a course below, then open its numbered chapter notes. Each chapter has click-by-click steps and a separate **Prompts and values** page with text you can copy into the application. On the course website, use the Copy button beside a text block; on GitHub, use the block's copy icon.
+Choose a course below, then open its numbered chapter notes. Each chapter has click-by-click steps with copyable prompts and values directly beneath the instructions that use them. On the course website, use the Copy button beside a text block; on GitHub, use the block's copy icon.
 
 Download [all course files (ZIP)](https://github.com/Asraf-JS/Google-Workspace/archive/refs/heads/main.zip), then extract the ZIP before opening any file. The six PDF books below are review drafts for offline reading or printing. The [practice files ZIP](./shared/practice-files.zip) contains just the supplied exercise inputs.
 

@@ -10,14 +10,14 @@ Current [screenshot progress](../planning/SCREENSHOT-PROGRESS.md): 109 real stag
 
 ## Six Substantial Labs
 
-| Lab | Assignment | Prompts and values | Target minutes | Active build, challenge and verification |
+| Lab | Assignment | Copyable text | Target minutes | Active build, challenge and verification |
 |---|---|---|---|---|
-| 1 | [Build a Governed Project Workspace](./01-workspace-governance/README.md) | [Prompts and values](./01-workspace-governance/prompts.md) | 60 | 42 |
-| 2 | [Create, Review and Revise a Checked Brief](./02-checked-brief/README.md) | [Prompts and values](./02-checked-brief/prompts.md) | 65 | 45 |
-| 3 | [Turn a Meeting Record into Accountable Actions](./03-meeting-actions/README.md) | [Prompts and values](./03-meeting-actions/prompts.md) | 55 | 38 |
-| 4 | [Clean, Calculate and Stress-Test a Reporting Dashboard](./04-reporting-dashboard/README.md) | [Prompts and values](./04-reporting-dashboard/prompts.md) | 80 | 56 |
-| 5 | [Build an Evidence-Based Sponsor Update](./05-evidence-update/README.md) | [Prompts and values](./05-evidence-update/prompts.md) | 60 | 42 |
-| 6 | [Assemble the Hub and Prove the Handover](./06-hub-handover/README.md) | [Prompts and values](./06-hub-handover/prompts.md) | 70 | 50 |
+| 1 | [Build a Governed Project Workspace](./01-workspace-governance/README.md) | [Copy in lesson](./01-workspace-governance/README.md) | 60 | 42 |
+| 2 | [Create, Review and Revise a Checked Brief](./02-checked-brief/README.md) | [Copy in lesson](./02-checked-brief/README.md) | 65 | 45 |
+| 3 | [Turn a Meeting Record into Accountable Actions](./03-meeting-actions/README.md) | [Copy in lesson](./03-meeting-actions/README.md) | 55 | 38 |
+| 4 | [Clean, Calculate and Stress-Test a Reporting Dashboard](./04-reporting-dashboard/README.md) | [Copy in lesson](./04-reporting-dashboard/README.md) | 80 | 56 |
+| 5 | [Build an Evidence-Based Sponsor Update](./05-evidence-update/README.md) | [Copy in lesson](./05-evidence-update/README.md) | 60 | 42 |
+| 6 | [Assemble the Hub and Prove the Handover](./06-hub-handover/README.md) | [Copy in lesson](./06-hub-handover/README.md) | 70 | 50 |
 
 Total: 390 teaching minutes, excluding breaks and lunch. The design allocates 117 minutes to demonstration/discussion and 273 to learner work and checking. This planned 30:70 split is not a measured outcome. Every lab contains more than 30 minutes of allocated active work; a learner pilot must establish actual pacing.
 

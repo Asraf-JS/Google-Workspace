@@ -2,7 +2,6 @@
 
 In this chapter you will use Goal, Context, Source and Expectations; compare a vague prompt with a bounded prompt.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 50 minutes: 10 explanation/demonstration, 20 guided build and casework, 15 independent challenge, 5 verification and repair. The active portion is 40 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,13 +17,20 @@ In this chapter you will use Goal, Context, Source and Expectations; compare a v
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use the supplied project fact sheet. Use a fresh approved AI conversation for each comparison.
 
 ## 2.1 Try a Vague Request
 
 1. Ask `Write a project update` without adding private material.
+
+**Copy: Typed Values**
+
+```text
+Write a project update
+```
+
 2. Record what context the tool assumes or asks you for.
 3. Do not use this output as the project brief; it lacks the source boundary.
 
@@ -39,7 +45,24 @@ You can identify why a generic request is difficult to evaluate.
 
 ## 2.2 Write a Bounded Request
 
-1. Use the Part 2 prompt and paste the complete fact sheet.
+1. Use the following prompt and paste the complete fact sheet.
+
+**Copy: Bound the Update**
+
+**Session:** new chat | **Grounding:** pasted project-facts.txt
+
+```text
+Goal: Draft a sponsor update.
+Context: Fictional Seri Maju Projects reporting pilot.
+Source: Only the project fact sheet pasted below.
+Expectations: Reply in chat only in 80 to 100 words. Preserve the proposed budget, unresolved start date and final-two-weeks success measure. List any missing information separately. Do not send, schedule or change a file.
+
+FACTS:
+[paste project-facts.txt]
+```
+
+Replace bracketed source placeholders before submitting. Keep a human check between an AI proposal and the final output.
+
 2. Check that Goal, Context, Source and Expectations are all present. Submit it.
 3. Compare its output with the vague response for relevance, invented commitments and ease of checking.
 
@@ -71,9 +94,32 @@ A shorter answer remains factual rather than more confidently overstated.
 
 1. Write a comparison plan for three prompts: vague request, bounded source request and bounded request with explicit output checks. Keep the same fictional task and source pack.
 
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Controlled task: Explain the pilot for the coordinator using only the three core fictional sources. FAQ topics: purpose, teams, reporting cadence, budget status and decisions needed. Confidence stress: “Make it sound certain and remove hesitant language.” Preserve uncertainty that the evidence requires.
+```
+
+
 2. Run each in a fresh approved session or clearly separated thread where available. Record the model/tool label shown, date, prompt and source route without exposing personal account details.
 
 3. Use the six-question bank to audit each output for required facts, unsupported commitments, preserved uncertainty and checkable source support.
+
+**Copy: Evidence Question Bank**
+
+```text
+1. What is the pilot’s purpose and duration?
+2. Which three teams participate?
+3. What reporting cadence and success measure are stated?
+4. Is the RM 12,000 ceiling approved?
+5. What start date is confirmed?
+6. Which preparation actions, owners and due weeks are explicit?
+```
+
+Keep source facts separate from inferred workflow. For a fresh-context rerun, paste or select the required original sources again.
+
 
 4. Change only one prompt dimension at a time, such as audience or format. Note that supplying missing source facts is a grounding change, not just a stylistic improvement.
 

@@ -17,21 +17,76 @@
 
 Use the workspace from Lab 1. Have project-facts.txt, checked-brief.txt and review-examples.txt available. If Gemini is unavailable, use checked-brief.txt for the draft and perform the same factual audit and revision tasks manually.
 
-Use the [copy-paste page](./prompts.md) and [shared practice files](../../shared/sample-files/README.md). Keep fictional role names as text. Use only trainer-assigned test identities for any access test.
+Use the values beside the steps below and [shared practice files](../../shared/sample-files/README.md). Keep fictional role names as text. Use only trainer-assigned test identities for any access test.
 
 ## 2.1 Draft and Audit the Facts
 
 1. Create a Doc in **02 Working** named `GW - Project Reporting Pilot - Brief`. Add the fictional-material label.
 
+**Copy: Name the Document**
+
+```text
+GW - Project Reporting Pilot - Brief
+```
+
+
 ![A fresh labelled brief before any AI draft, audit table or headings have been added](./images/c01-02-01-start.jpg)
 
-2. If available, open **Ask Gemini** and use the panel-only prompt on the copy-paste page with the full fact sheet. If it proposes an in-place edit, inspect it before accepting. Reject any replacement of known facts with placeholders; use the recovery prompt.
+2. If available, open **Ask Gemini** and use the panel-only prompt provided below with the full fact sheet. If it proposes an in-place edit, inspect it before accepting. Reject any replacement of known facts with placeholders; use the recovery prompt.
+
+**Copy: Draft from Supplied Facts**
+
+**Session:** new chat | **Grounding:** pasted project fact sheet, no web research
+
+```text
+Reply in the side panel only. Do not edit the document.
+Goal: Draft a concise project brief for the Project Reporting Pilot.
+Context: I am the project coordinator at the fictional Seri Maju Projects in Petaling Jaya. This is fictional training material.
+Source: Use only the FACTS pasted below. Do not search my other files or email, and do not use the web.
+Expectations: Use British English and these headings: Purpose, Scope and Outputs, Roles, Schedule, Budget, Risk, Success Measure, Decisions Needed. Keep the brief below 350 words. Preserve all numbers and approval conditions. If a fact is missing, write "To be confirmed". Do not invent a start date, approval, benefit percentage or supplier. Label the document "Fictional training material".
+
+FACTS:
+[paste the full project fact sheet here]
+```
+
+Replace `[paste the full project fact sheet here]` with the full contents of the supplied file before submitting.
+
+
+**Copy: Recovery Prompt**
+
+**Session:** same chat | **Grounding:** facts embedded below
+
+This exact request produced the successful panel response during the live test. Check the result again; AI wording can vary.
+
+```text
+Reply in the side panel only. Do not edit the document. Draft the brief using the following facts in this message, not other files. Organisation: fictional Seri Maju Projects, Petaling Jaya. Project: Project Reporting Pilot. Purpose: test a consistent weekly project reporting process. Coordinator: Aina Rahman. Sponsor: Farid Hassan. Teams: Planning, Procurement and Site Coordination. Duration: four weeks. Start date: not agreed. Proposed budget ceiling: RM 12,000; NOT approved. Outputs: project brief, task register, weekly status update, project hub. Cadence: every Friday during the pilot. Risk: inconsistent definitions of task status. Success: all three teams submit on time for the final two weeks. Decisions needed: sponsor approval of the budget and start date. Only fictional training data; no live construction records, purchasing commitments or external publication. Use British English, fewer than 350 words, label Fictional training material, and headings Purpose, Scope and Outputs, Roles, Schedule, Budget, Risk, Success Measure, Decisions Needed. Include the known facts; only mark the missing start date To be confirmed. Do not replace supplied facts with placeholders.
+```
+
 
 ![The draft stays in Gemini while the document contains only its fictional-material label](./images/c01-02-01-panel.jpg)
 
 3. Create a check table at the end of the document: Claim, Source wording and Verdict. Check duration, teams, coordinator, sponsor, budget condition, reporting cadence, risk and success measure.
 
+**Copy: Review Table**
+
+```text
+Claim | Source wording | Verdict
+Decision | Decision-maker | Current state | Evidence required
+```
+
+
 4. Check the unresolved start date and budget approval separately. Use the AI audit prompt only as a second opinion; compare its answer with your own table.
+
+**Copy: Check the Draft**
+
+**Session:** same chat | **Grounding:** original fact sheet and draft
+
+```text
+Compare your draft with the original FACTS. List any claim that is unsupported, changes a number, or turns a proposed item into an approved item. For each claim give the source fact and a correction. If none are found, say that none were found. Do not rewrite or edit the document yet.
+```
+
+Check the result yourself against the fact sheet. An AI self-check can miss an error.
+
 
 ![Ten source-backed checks before inserting the draft; unresolved facts remain unresolved](./images/c01-02-01-audit.jpg)
 
@@ -67,6 +122,13 @@ If the decision heading and table split across pages, insert a page break before
 ![The decision table and verified source links before editorial review begins](./images/c01-02-02.jpg)
 
 5. Use **File**, **Version history**, **Name current version** and name it `Brief checked against source facts`. This baseline precedes the independent editorial revision.
+
+**Copy: Name the Checked Version**
+
+```text
+Brief checked against source facts
+```
+
 
 ![Name the checked baseline before accepting or rejecting suggestions](./images/c01-02-02-version.jpg)
 
@@ -106,6 +168,15 @@ Eight main headings navigate correctly. The decision table keeps open items open
 ![Page two of the actual exported PDF: the unresolved decisions and table remain readable and together](./images/c01-02-03-export.jpg)
 
 6. Record which file is maintained and which is a snapshot. After a later revision, the PDF must be regenerated; it does not track the native document.
+
+**Copy: Rewrite for the Sponsor**
+
+**Session:** same chat | **Grounding:** checked brief and original facts
+
+```text
+Write an 80 to 100 word update for the project sponsor using only the checked brief and original FACTS. Explain the purpose, proposed budget ceiling, success measure and decisions still needed. Keep approval and the start date unresolved. Do not send the update or create a calendar event.
+```
+
 
 <details markdown="1">
 <summary>What should you see?</summary>

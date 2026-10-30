@@ -2,7 +2,6 @@
 
 In this chapter you will compare exact-match VLOOKUP, HLOOKUP and INDEX/MATCH; distinguish a missing key from bad input.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 80 minutes: 15 explanation/demonstration, 37 guided build and casework, 20 independent challenge, 8 verification and repair. The active portion is 65 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,15 +17,36 @@ In this chapter you will compare exact-match VLOOKUP, HLOOKUP and INDEX/MATCH; d
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use Orders and Rates. Rates A2:D7 has unique item codes and numeric unit costs.
 
 ## 5.1 Look Up a Rate
 
 1. In a spare Orders column labelled `LookupRate`, enter `=VLOOKUP(D2,Rates!$A$2:$D$7,3,FALSE)` and fill down.
+
+**Copy: Typed Values**
+
+```text
+LookupRate
+```
+
+
+**Copy: Typed Values**
+
+```text
+=VLOOKUP(D2,Rates!$A$2:$D$7,3,FALSE)
+```
+
 2. Compare each looked-up rate with the original F column.
 3. In another labelled practice column use `=INDEX(Rates!$C$2:$C$7,MATCH(D2,Rates!$A$2:$A$7,0))` and reconcile the same result.
+
+**Copy: Typed Values**
+
+```text
+=INDEX(Rates!$C$2:$C$7,MATCH(D2,Rates!$A$2:$A$7,0))
+```
+
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -41,6 +61,13 @@ IT01 returns 45 and IT06 returns 8. Both formulas use exact matches.
 
 1. On Analysis G1:L1 enter IT01 through IT06. In G2:L2 enter their unit costs 45, 12, 30, 18, 25 and 8.
 2. Put IT03 in F4 and enter `=HLOOKUP(F4,$G$1:$L$2,2,FALSE)` in G4.
+
+**Copy: Typed Values**
+
+```text
+=HLOOKUP(F4,$G$1:$L$2,2,FALSE)
+```
+
 3. Change F4 to IT06, check 8, then restore IT03.
 
 <details markdown="1">
@@ -56,6 +83,13 @@ The horizontal lookup returns 30 for IT03 and uses the same explicit matching pr
 
 1. In a spare test cell use item code IT99. Observe the lookup's missing-match error.
 2. Wrap only the intended missing-match case, for example `=IFNA(VLOOKUP("IT99",Rates!$A$2:$D$7,3,FALSE),"Unmapped item")`.
+
+**Copy: Typed Values**
+
+```text
+=IFNA(VLOOKUP("IT99",Rates!$A$2:$D$7,3,FALSE),"Unmapped item")
+```
+
 3. Deliberately misspell a function in another spare cell, observe the different error and repair it. Discuss how a blanket IFERROR can hide defects as well as expected missing matches.
 
 <details markdown="1">
@@ -70,6 +104,15 @@ An unknown item is labelled Unmapped item. A broken formula is repaired rather t
 ## 5.4 Challenge Exact Lookups With Missing and Duplicate Keys
 
 1. Create a **Lookup Tests** table containing all six known ItemCodes, IT99, a blank and a space-padded key. Preserve raw input next to any normalised key.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Lookup challenge: Known IT01 and IT06; unknown IT99; blank; space-padded IT03. Duplicate-test mapping adds IT03 with UnitCost 99 only on a disposable copy. Baseline IT03 remains 30. Keep the supplied six-key Rates source intact.
+```
+
 
 2. For each known key compare exact VLOOKUP with INDEX/MATCH and the supplied Rates value. Count and investigate disagreements instead of hiding them.
 

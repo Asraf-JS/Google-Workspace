@@ -2,7 +2,6 @@
 
 In this chapter you will insert a linked Sheets chart, change source data and explicitly refresh the chart.
 
-> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
 **Estimated time:** 55 minutes, planned as 10 explanation and demonstration, 25 guided build and casework, 15 independent practice and 5 verification and repair. Not yet timed with learners.
 
@@ -20,7 +19,7 @@ In this chapter you will insert a linked Sheets chart, change source data and ex
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Upload [TaskRegister.xlsx](../../shared/sample-files/TaskRegister.xlsx) and save a native Google Sheets copy. The starter Summary has three status labels with blank count cells.
 
@@ -28,11 +27,36 @@ Upload [TaskRegister.xlsx](../../shared/sample-files/TaskRegister.xlsx) and save
 
 1. Use the supplied `TaskRegister.xlsx` starter. If it is already uploaded, open that original instead of uploading it again. Click **File**, **Save as Google Sheets** and name the new native file **GW - Slides - Linked Data Source**. Keep earlier lab registers and the original Excel file unchanged. Confirm the new native copy has **Tasks** and **Summary**, with blank Summary count cells.
 
+**Copy: Source and Destination for the Captured Setup**
+
+```text
+GW - Slides - Linked Data Source
+Summary!A1:B4
+Tasks!F2:F13
+Summary!B2: =COUNTIF(Tasks!$F$2:$F$13,A2)
+Summary!B3: =COUNTIF(Tasks!$F$2:$F$13,A3)
+Summary!B4: =COUNTIF(Tasks!$F$2:$F$13,A4)
+Pilot task status
+12-task snapshot
+4 tasks per status
+Not evidence of pilot success
+```
+
+The native source is a separate conversion of the original supplied Excel starter. Keep the absolute task range and relative criterion when filling down. Baseline counts are Complete 4, In Progress 4, Not Started 4. At the setup stage, the source/chart identity is checked. The guided reference then tests refresh/restoration and the extended comparison in 5.3 to 5.4. Independent new-row repair remains pending.
+
+
 ![Start from the native copy with blank summary counts](./images/c03-05-01-native-source-blank-summary.png)
 
 *Start from the native copy with blank summary counts.*
 
 2. In **Summary!B2**, enter `=COUNTIF(Tasks!$F$2:$F$13,A2)`. Keep the task range absolute and the status criterion relative.
+
+**Copy: Typed Values**
+
+```text
+=COUNTIF(Tasks!$F$2:$F$13,A2)
+```
+
 
 ![Enter the COUNTIF formula against the twelve task rows](./images/c03-05-02-countif-formula-before-fill.png)
 
@@ -45,6 +69,13 @@ Upload [TaskRegister.xlsx](../../shared/sample-files/TaskRegister.xlsx) and save
 *Fill through B4 and confirm four tasks in each category.*
 
 4. Select **Summary!A1:B4**, then click **Insert**, **Chart**. In **Chart editor > Setup**, choose **Column chart** if Sheets initially suggests another type. In **Customise > Chart and axis titles**, set the chart title to **Pilot task status**. Check all three status labels and the count axis. The reference uses one series and the imported workbook styling.
+
+**Copy: Typed Values**
+
+```text
+Pilot task status
+```
+
 
 ![Choose a column chart and set Pilot task status](./images/c03-05-04-column-chart-title-and-counts.png)
 
@@ -78,6 +109,17 @@ Three formula-backed counts of four and a column chart accounting for twelve tas
 *Fit the linked chart beside the qualified twelve-task snapshot.*
 
 4. In **speaker notes**, identify **GW - Slides - Linked Data Source**, **Summary!A1:B4** and **Tasks!F2:F13**. Explain the proposed training definitions from reporting guidance v1: Not Started = work has not begun; In Progress = work has begun but the owner has not confirmed completion; Complete = the owner confirms the agreed output is ready for review. Keep the distinction between dataset status and measured pilot success.
+
+**Copy: Proposed Status Definitions for Notes**
+
+```text
+Not Started: work on the task has not begun.
+In Progress: work has begun but the owner has not confirmed completion.
+Complete: the task owner has confirmed that the agreed task output is ready for review.
+```
+
+These are proposed training definitions from reporting guidance v1, not approved company policy. Counts do not prove on-time final-two-weeks submissions or efficiency savings.
+
 
 ![Record source identity, definitions and the pending refresh test](./images/c03-05-08-source-definitions-and-refresh-pending.png)
 
@@ -143,7 +185,31 @@ Both source and linked slide finish at 4/4/4. The test demonstrated that chart d
 
 1. Before the comparison test, write a private baseline log: twelve tasks, four per status, source chart URL and Slides destination. Use the intended working copies; do not paste private account URLs into a public guide.
 
-2. Add a sheet named **Team Costs**. In A1:B5 enter the team labels, SUMIF formulas and total from the prompts page. The formulas group **Tasks!B2:B13** and sum **Tasks!G2:G13**. Check **Planning 2800**, **Procurement 4000**, **Site Coordination 3600**, **Total 10400**. Label the measure **Planned cost (RM)**; do not include the total as a fourth chart category.
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+New-record challenge: T013 | Planning | Check the handover | Aina Rahman | 4 | Not Started | 200 | 0. This belongs only in the challenge copy. A copied presentation may keep links to its original source; prove the source identity.
+```
+
+
+2. Add a sheet named **Team Costs**. In A1:B5 enter the team labels, SUMIF formulas and total provided below. The formulas group **Tasks!B2:B13** and sum **Tasks!G2:G13**. Check **Planning 2800**, **Procurement 4000**, **Site Coordination 3600**, **Total 10400**. Label the measure **Planned cost (RM)**; do not include the total as a fourth chart category.
+
+**Copy: Team Costs Summary**
+
+Create a sheet named **Team Costs** and paste into A1. The total row reconciles the data; chart only A1:B4.
+
+```text
+Team	Planned cost (RM)
+Planning	=SUMIF(Tasks!$B$2:$B$13,A2,Tasks!$G$2:$G$13)
+Procurement	=SUMIF(Tasks!$B$2:$B$13,A3,Tasks!$G$2:$G$13)
+Site Coordination	=SUMIF(Tasks!$B$2:$B$13,A4,Tasks!$G$2:$G$13)
+Total	=SUM(B2:B4)
+```
+
+Expected: Planning 2800, Procurement 4000, Site Coordination 3600, total 10400. These supplied row-level planned costs are separate from the unapproved RM 12000 proposed budget ceiling.
+
 
 ![SUMIF reconciles planned costs to RM 10400](./images/c03-05-15-team-cost-sumif-and-total.png)
 
@@ -188,6 +254,25 @@ Both source and linked slide finish at 4/4/4. The test demonstrated that chart d
 *Planned costs stay unchanged during the status test.*
 
 8. Restore **Tasks!F4** to **Not Started**. Update the status chart, then use **Linked objects > Refresh** and update any remaining linked chart. Confirm source and status chart are back at 4/4/4 and the cost chart still matches RM 10,400. A refresh badge alone is not proof; compare actual values and labels. Retain the static image only as the clearly labelled, skipped comparison.
+
+**Copy: Comparison and Restoration Log**
+
+```text
+Source: GW - Slides - Linked Data Source
+Status range: Summary!A1:B4; COUNTIF over Tasks!F2:F13
+Cost range: Team Costs!A1:B4; SUMIF over Tasks!B2:B13 and Tasks!G2:G13
+Baseline: 12 tasks; Complete 4; In Progress 4; Not Started 4
+Temporary input: T003, Tasks!F4, Complete
+Changed status counts: 5 / 4 / 3
+Linked chart: changes after Update; surrounding text needs a separate check
+Static comparison only: Paste unlinked; remains 4 / 4 / 4; no Update
+Costs during status-only test: 2800 / 4000 / 3600; total RM 10400
+Restore T003: Not Started; source and linked status return to 4 / 4 / 4
+Refresh both linked objects; retain labelled static comparison in a skipped slide
+```
+
+Privately record the actual source and destination URLs before testing. Do not infer pilot success, approved spending or savings from these charts. The independent 13-record challenge is not part of the guided baseline.
+
 
 ![Restore the status chart and refresh both linked objects](./images/c03-05-23-restored-chart-and-two-linked-objects.png)
 

@@ -2,7 +2,6 @@
 
 In this chapter you will use arithmetic, SUM, AVERAGE and COUNT; explain relative and absolute references.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
 
 **Target allocation:** 65 minutes: 15 explanation/demonstration, 22 guided build and casework, 20 independent challenge, 8 verification and repair. The active portion is 50 minutes by design. These are unmeasured targets awaiting a learner pilot.
 
@@ -18,13 +17,27 @@ In this chapter you will use arithmetic, SUM, AVERAGE and COUNT; explain relativ
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use Tasks A1:H13. The workbook has no prefilled answer formulas.
 
 ## 3.1 Calculate Variance
 
 1. In I1 type `Variance`. In I2 enter `=H2-G2`.
+
+**Copy: Typed Values**
+
+```text
+Variance
+```
+
+
+**Copy: Typed Values**
+
+```text
+=H2-G2
+```
+
 2. Fill I2 through I13 using the fill handle or copy and paste.
 3. Inspect I2, I7 and I13 in the formula bar. Each formula should reference its own row. Negative variance means actual cost is below planned cost.
 
@@ -41,7 +54,49 @@ T001 has variance -50. The formula in I13 uses H13 and G13.
 
 1. In K1:L4 enter labels Planned Total, Actual Total and Variance Total in K2:K4.
 2. Enter `=SUM(G2:G13)` in L2, `=SUM(H2:H13)` in L3 and `=SUM(I2:I13)` in L4.
+
+**Copy: Typed Values**
+
+```text
+=SUM(G2:G13)
+```
+
+
+**Copy: Typed Values**
+
+```text
+=SUM(H2:H13)
+```
+
+
+**Copy: Typed Values**
+
+```text
+=SUM(I2:I13)
+```
+
+
+**Copy: Typed Values**
+
+```text
+=G2*$L$9
+```
+
 3. In K6:L7 add Average Planned and Numeric Cost Count, using `=AVERAGE(G2:G13)` and `=COUNT(G2:G13)`.
+
+**Copy: Typed Values**
+
+```text
+=AVERAGE(G2:G13)
+```
+
+
+**Copy: Typed Values**
+
+```text
+=COUNT(G2:G13)
+```
+
 
 <details markdown="1">
 <summary>What should you see?</summary>
@@ -55,6 +110,13 @@ Planned total is RM 10,400, actual total RM 6,800 and variance total -RM 3,600. 
 ## 3.3 Anchor an Assumption
 
 1. On Navigation Practice, type `Practice multiplier` in K9 and 1.1 in L9. This is a hypothetical calculation, not a tax rate.
+
+**Copy: Typed Values**
+
+```text
+Practice multiplier
+```
+
 2. In J2 enter `=G2*$L$9` and fill through J13.
 3. Inspect a later formula. Change L9 to 1.2, observe the results and restore 1.1.
 
@@ -70,6 +132,15 @@ The multiplier reference remains $L$9 while each row's G reference moves.
 ## 3.4 Test Calculations With Zeros, Blanks and Reference Errors
 
 1. Create a **Calculation Tests** tab with Planned, Actual and Variance in A:C. Enter the four pairs on the card, leaving the designated blank empty.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Calculation pairs Planned/Actual: 100/80; 100/120; 100/0; 100/blank. The final blank means “not supplied” for this test, not a confirmed zero. Use this to distinguish calculation mechanics from data meaning.
+```
+
 
 2. Calculate Actual minus Planned for each complete numeric pair. Record separately why a blank Actual requires interpretation rather than automatically meaning confirmed zero expenditure.
 

@@ -17,11 +17,18 @@
 
 Use the checked brief and the 13-task tracker from Lab 4. Recovery: convert the starter workbook and complete the Lab 4 new-record card before preparing the deck. If Slides AI features are unavailable, author the same deck manually.
 
-Use the [copy-paste page](./prompts.md) and [shared practice files](../../shared/sample-files/README.md). Keep fictional role names as text. Use only trainer-assigned test identities for any access test.
+Use the values beside the steps below and [shared practice files](../../shared/sample-files/README.md). Keep fictional role names as text. Use only trainer-assigned test identities for any access test.
 
 ## 5.1 Plan the Story Before Formatting
 
 1. Create `GW - Pilot Sponsor Update` in **02 Working**. Plan five slides: Purpose and scope; Current task status; Planned and actual costs; Risk and response; Decisions requested.
+
+**Copy: File Names**
+
+```text
+GW - Pilot Sponsor Update
+```
+
 
 ![A newly named deck contains only the initial blank slide; later content is absent](./images/c01-05-created.jpg)
 
@@ -32,6 +39,18 @@ Use the [copy-paste page](./prompts.md) and [shared practice files](../../shared
 
 
 3. Use the optional AI outline prompt only after pasting checked facts and final summary values. Compare the outline with your five planned messages; reject invented progress percentages or approvals.
+
+**Copy: Optional Outline Prompt**
+
+**Session:** new chat | **Grounding:** pasted checked brief and checked summary only
+```text
+Reply in the side panel only. Propose five slides for a sponsor update: purpose and scope, task status, planned and actual costs, risk and proposed response, decisions requested. Give each one a title, no more than three bullets and a source check. Use only the checked brief and summary pasted below. Do not claim budget approval, a pilot start date, realised savings or measured reporting success. Label proposed actions as proposals. Do not edit a presentation.
+CHECKED BRIEF:
+[paste checked brief]
+CHECKED SUMMARY:
+[paste your final checked task and cost summary]
+```
+
 
 4. Write the two decision requests explicitly. Keep budget approval and pilot start-date agreement unresolved. Do not present a Calendar practice slot as the project schedule.
 
@@ -58,8 +77,6 @@ The deck tells a decision-focused story with a source for every numeric or factu
 ![Status evidence is positioned below its takeaway; the later cost chart and process are not yet present](./images/c01-05-status-chart.jpg)
 
 ![Select the team-cost chart with Link to spreadsheet checked](./images/c01-05-cost-link.jpg)
-
-
 
 
 3. Check category labels, title and contrast at presentation size. Avoid a colour-only status distinction by retaining explicit labels.
@@ -96,6 +113,13 @@ Five slides have coherent layouts, two linked charts and useful notes. Both sour
 
 3. Correct the deck and name the version `Sponsor update - checked baseline` through **File**, **Version history**.
 
+**Copy: File Names**
+
+```text
+Sponsor update - checked baseline
+```
+
+
 ![Name the checked baseline after the layout review](./images/c01-05-version.jpg)
 
 
@@ -104,7 +128,6 @@ Five slides have coherent layouts, two linked charts and useful notes. Both sour
 ![The File > Download menu offers PDF document](./images/c01-05-download.jpg)
 
 ![Page three rendered from the actual five-page baseline PDF, with the earlier RM 6,800 actual cost](./images/c01-05-pdf-r1.jpg)
-
 
 
 <details markdown="1">
@@ -149,6 +172,20 @@ Use the Lab 5 cost-correction card. The following captures are a scripted refere
 ![The refresh log records the cost correction and unchanged status counts](./images/c01-05-correction-log.jpg)
 
 7. Check whether the previously downloaded PDF changed. It is a snapshot: keep `Pilot-Sponsor-Update-r1.pdf`, then issue `Pilot-Sponsor-Update-r2.pdf` from the refreshed native deck. Open every revised page and compare the cost slide with the source.
+
+**Copy: File Names**
+
+```text
+Pilot-Sponsor-Update-r1.pdf
+```
+
+
+**Copy: File Names**
+
+```text
+Pilot-Sponsor-Update-r2.pdf
+```
+
 
 ![The revised native slide has the corrected message and refreshed cost chart](./images/c01-05-present-revised.jpg)
 
