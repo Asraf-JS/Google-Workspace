@@ -1,5 +1,10 @@
 # Validation Status
 
+## Classroom feedback — Docs Lab 01, 30 October 2026
+
+Instructor reported a 10:15–10:40 am session (25 minutes), learner confusion, excessive copying and loss of place while switching between the guide and Google Docs. Completion of every independent task was not established. Lab 01 was revised with purpose/skill explanations, smaller tasks and visible checkpoints, grouped text, headings copied with tables, and a completed evidence column. The revised route still needs a classroom timing and comprehension check. The 40-minute planning allocation is retained; the observation is not a validation of that allocation.
+
+
 ## Written Draft
 
 All 50 planned chapters now have notes and companion prompt/value pages. The practice pack contains two starter workbooks, CSV inputs and fictional source texts. Six review PDFs are generated from the same notes. The shared site has course-specific chapter navigation, copy controls, expected-result boxes and the established screenshot/window helpers. Written coverage is not the same as a classroom-ready release.
