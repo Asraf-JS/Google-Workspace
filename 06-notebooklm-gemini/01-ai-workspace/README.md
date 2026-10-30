@@ -20,7 +20,7 @@ In this chapter you will check approved tools, permitted data and the supplied e
 
 Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
-Download the [project facts](../../shared/sample-files/project-facts.txt), [meeting record](../../shared/sample-files/meeting-record.txt) and [reporting guidance](../../shared/sample-files/reporting-guidance.txt). This course does not require output from another course.
+> **Download:** the [project facts](../../shared/sample-files/project-facts.txt), [meeting record](../../shared/sample-files/meeting-record.txt) and [reporting guidance](../../shared/sample-files/reporting-guidance.txt). This course does not require output from another course.
 
 ## 1.1 Check the Tools
 

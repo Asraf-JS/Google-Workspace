@@ -22,7 +22,7 @@ In this chapter you will choose the audience, decision and evidence; use Gemini 
 
 Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
-Download [checked brief](../../shared/sample-files/checked-brief.txt), [project facts](../../shared/sample-files/project-facts.txt), [reporting guidance](../../shared/sample-files/reporting-guidance.txt) and [TaskRegister.xlsx](../../shared/sample-files/TaskRegister.xlsx). This specialist course supplies its own inputs.
+> **Download:** [checked brief](../../shared/sample-files/checked-brief.txt), [project facts](../../shared/sample-files/project-facts.txt), [reporting guidance](../../shared/sample-files/reporting-guidance.txt) and [TaskRegister.xlsx](../../shared/sample-files/TaskRegister.xlsx). This specialist course supplies its own inputs.
 
 In Google Drive, click **New**, **New folder**, type `GW - Slides - Practice` and click **Create**. Open the folder and drag `TaskRegister.xlsx` into it (or click **New**, **File upload**). Double-click it to inspect the **Tasks** sheet in section 1.4; Lab 5 converts this same upload to Google Sheets. Create every file in this course inside the practice folder.
 

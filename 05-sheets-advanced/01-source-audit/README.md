@@ -20,7 +20,7 @@ In this chapter you will check types, blanks, duplicates and keys before analysi
 
 Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
-Download [ProcurementRegister.xlsx](../../shared/sample-files/ProcurementRegister.xlsx). It contains 24 fictional order lines and a six-item rate table, separate from the pilot budget.
+> **Download:** [ProcurementRegister.xlsx](../../shared/sample-files/ProcurementRegister.xlsx). It contains 24 fictional order lines and a six-item rate table, separate from the pilot budget.
 
 ## 1.1 Prepare the Workbook
 
