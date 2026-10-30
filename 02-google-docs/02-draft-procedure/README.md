@@ -128,9 +128,40 @@ The two screenshots below show one example Gemini reply. The panel was scrolled 
 
 ### 2.2.2 Record your source checks
 
-1. Compare every instruction in the response with `project-facts.txt` and `reporting-guidance.txt`.
-2. At the end of the document, type `AI draft review` and today's date, then record what the response got right and each repair it needs.
-3. Check three things: are all three statuses covered, are missing routing details kept unresolved, and are claims supported by the supplied sources? Record what you actually find. If a point is already correct, note the source and **no repair needed**.
+**What are you doing?** You are checking an AI-written draft before using it. Compare what Gemini wrote with the original source files, then record whether the wording needs changing. You are not checking against the screenshots or another learner's answer.
+
+#### A. Open the two files you will check against
+
+1. Open [project-facts.txt](../../shared/sample-files/project-facts.txt) and [reporting-guidance.txt](../../shared/sample-files/reporting-guidance.txt) in separate tabs or text-editor windows. Keep your Gemini reply available in the Working document.
+2. Read the matching source information below before judging the reply. The fact sheet supplies project facts; the guidance supplies proposed status definitions and missing-information rules.
+
+| What to check in Gemini's reply | Open this source | What the source actually establishes |
+|---|---|---|
+| Status definitions | reporting-guidance.txt | Not Started: work has not begun. In Progress: work has begun without owner-confirmed completion. Complete: the owner has confirmed the agreed output is ready for review. |
+| Submission details | Both files | Friday reporting is known. Neither file supplies the submission channel, review recipient or cut-off time. Keep those details unresolved; do not invent an email address, person or time. |
+| Project facts | project-facts.txt | RM 12000 is proposed, not approved. The start date is not agreed. The pilot lasts four weeks from an agreed start, with an update every Friday. |
+
+This table is a reading guide; you do not need to paste it into your document. The fact sheet alone does not provide the status definitions. Use the proposed guidance to check and repair that part of the procedure.
+
+#### B. Work through one example together
+
+Suppose an AI reply says:
+
+> “The RM 12000 budget is approved.”
+
+Open **project-facts.txt** and find **Budget status: proposed, not approved**. The AI sentence changes the meaning, so the review note would be:
+
+> **Gemini wrote:** The RM 12000 budget is approved.<br>
+> **Source says:** project-facts.txt records the budget as proposed, not approved.<br>
+> **Decision:** Change the sentence to “The RM 12000 budget is proposed, not approved.”
+
+This is an invented example for practice. If your reply already says the budget is proposed, your decision is **no repair needed**, with the same source as evidence.
+
+#### C. Now check your own reply
+
+1. At the end of the Working document, in the Authoring Log, type `AI draft review` and today's date.
+2. Write three short findings: **statuses**, **submission details** and **project facts**. For each, use the example's three labels: **Gemini wrote**, **Source says**, **Decision**. Name the source file and the change needed, or write **no repair needed** if the wording already matches.
+3. Keep the reply as a proposal while you review it. You will insert the supplied procedure and apply the checked repairs in 2.3–2.4.
 
 ![The AI draft review typed at the end of the Authoring Log](./images/c02-02-human-review.png)
 
@@ -147,7 +178,7 @@ The draft distinguishes known project facts from a proposed training procedure. 
 
 <!-- Reference core captured 18 October 2026; independent learner challenge remains pending. -->
 
-**Check:** Your review names a correct point and any missing, vague or unsupported instruction.
+**Check:** Your AI draft review has three findings. Each names what Gemini wrote, what the relevant source file says, and a repair or a source-supported no-repair decision.
 
 ## 2.3 Insert the Checked Text
 
