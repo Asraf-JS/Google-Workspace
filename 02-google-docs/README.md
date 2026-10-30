@@ -14,16 +14,16 @@
 
 ## Chapters
 
-| Day | # | Chapter | Prompts | What you will do | Time |
+| Day | # | Chapter | Copyable text | What you will do | Time |
 |---|---|---|---|---|---|
-| 1 | 01 | [Prepare the Document and Sources](./01-document-sources/README.md) | [Prompts](./01-document-sources/prompts.md) | Build a Source and Requirements Register. | 40 min |
-| 1 | 02 | [Plan and Draft with Gemini](./02-draft-procedure/README.md) | [Prompts](./02-draft-procedure/prompts.md) | Develop an Executable Procedure and Test Its Logic. | 55 min |
-| 1 | 03 | [Apply Styles and Navigation](./03-styles-navigation/README.md) | [Prompts](./03-styles-navigation/prompts.md) | Organise a Longer Document and Repair Its Navigation. | 55 min |
-| 1 | 04 | [Prepare a Professional Page Layout](./04-page-layout/README.md) | [Prompts](./04-page-layout/prompts.md) | Lay Out a Usable Multi-Page Procedure. | 50 min |
-| 1 | 05 | [Review and Collaborate](./05-review-collaboration/README.md) | [Prompts](./05-review-collaboration/prompts.md) | Run a Controlled Editorial Review. | 55 min |
-| 1 | 06 | [Adapt and Check the Document](./06-adapt-accessibility/README.md) | [Prompts](./06-adapt-accessibility/prompts.md) | Adapt for Two Readers and Audit Meaning. | 50 min |
-| 1 | 07 | [Export and Check Interoperability](./07-export-check/README.md) | [Prompts](./07-export-check/prompts.md) | Test Conversion and Issue a Reproducible Release. | 40 min |
-| 1 | 08 | [Complete the Procedure Challenge](./08-procedure-challenge/README.md) | [Prompts](./08-procedure-challenge/prompts.md) | Complete an Unfamiliar Revision and Reader Test. | 45 min |
+| 1 | 01 | [Prepare the Document and Sources](./01-document-sources/README.md) | [Copy in lesson](./01-document-sources/README.md) | Build a Source and Requirements Register. | 40 min |
+| 1 | 02 | [Plan and Draft with Gemini](./02-draft-procedure/README.md) | [Copy in lesson](./02-draft-procedure/README.md) | Develop an Executable Procedure and Test Its Logic. | 55 min |
+| 1 | 03 | [Apply Styles and Navigation](./03-styles-navigation/README.md) | [Copy in lesson](./03-styles-navigation/README.md) | Organise a Longer Document and Repair Its Navigation. | 55 min |
+| 1 | 04 | [Prepare a Professional Page Layout](./04-page-layout/README.md) | [Copy in lesson](./04-page-layout/README.md) | Lay Out a Usable Multi-Page Procedure. | 50 min |
+| 1 | 05 | [Review and Collaborate](./05-review-collaboration/README.md) | [Copy in lesson](./05-review-collaboration/README.md) | Run a Controlled Editorial Review. | 55 min |
+| 1 | 06 | [Adapt and Check the Document](./06-adapt-accessibility/README.md) | [Copy in lesson](./06-adapt-accessibility/README.md) | Adapt for Two Readers and Audit Meaning. | 50 min |
+| 1 | 07 | [Export and Check Interoperability](./07-export-check/README.md) | [Copy in lesson](./07-export-check/README.md) | Test Conversion and Issue a Reproducible Release. | 40 min |
+| 1 | 08 | [Complete the Procedure Challenge](./08-procedure-challenge/README.md) | [Copy in lesson](./08-procedure-challenge/README.md) | Complete an Unfamiliar Revision and Reader Test. | 45 min |
 
 ## Inputs and Checks
 

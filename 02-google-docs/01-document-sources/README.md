@@ -2,7 +2,6 @@
 
 In this chapter you will create a working copy and distinguish source facts from instructions.
 
-> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
 **Estimated time:** 40 minutes, planned as 10 explanation and demonstration, 10 guided build and casework, 15 independent practice and 5 verification and repair. Not yet timed with learners.
 
@@ -20,7 +19,7 @@ In this chapter you will create a working copy and distinguish source facts from
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Download [project facts](../../shared/sample-files/project-facts.txt), [checked brief](../../shared/sample-files/checked-brief.txt) and [reporting guidance](../../shared/sample-files/reporting-guidance.txt). Save all three in one folder on your computer and leave them unchanged. You can take this course without attending the masterclass.
 
@@ -28,12 +27,28 @@ Download [project facts](../../shared/sample-files/project-facts.txt), [checked 
 
 1. Open [Google Drive](https://drive.google.com). Click **New**, then **New folder**. Type `GW - Docs - Practice` and click **Create**. Double-click the folder to open it.
 
+**Copy: Typed Values**
+
+Folder and document names (sections 1.1 and 1.3):
+
+```text
+GW - Docs - Practice
+```
+
+
 ![Google Drive with the New button and the empty GW - Docs - Practice folder](./images/c02-01-folder.png)
 
 *The folder name appears in the path at the top. It is still empty.*
 
 2. Open your downloaded `checked-brief.txt` in Notepad (or any text editor), press **Ctrl+A** to select everything and **Ctrl+C** to copy it.
 3. In the practice folder, click **New**, **Google Docs**, **Blank document**. Click **Untitled document** at the top left, type `GW - Reporting Procedure - Working` and press **Enter**. Click in the page and press **Ctrl+V** to paste the brief.
+
+**Copy: Typed Values**
+
+```text
+GW - Reporting Procedure - Working
+```
+
 
 ![A new Google Doc named GW - Reporting Procedure - Working containing only the pasted brief](./images/c02-01-starter-brief.png)
 
@@ -50,9 +65,30 @@ A native Google Doc contains the fictional brief. The original downloaded file o
 
 ## 1.2 Separate Facts and Requirements
 
-1. Click at the end of the last line of the brief and press **Enter** twice. Type `Procedure Requirements`, press **Enter**, then type the reader line and the required-topics line from the [prompts page](./prompts.md).
+1. Click at the end of the last line of the brief and press **Enter** twice. Type `Procedure Requirements`, press **Enter**, then type the reader line and the required-topics line provided below.
+
+**Copy: Procedure requirements**
+
+```text
+Procedure Requirements
+```
+
+```text
+Reader: team members submitting a weekly report.
+Required topics: prepare the update; check statuses; submit for review; handle unresolved questions.
+```
+
 2. Press **Enter**, type `Working source notes:` and press **Enter** twice.
-3. Read `project-facts.txt` and type the two facts you must not change: the budget is a proposed ceiling of RM 12000, not approved, and the start date is not yet agreed. Use the two lines on the prompts page.
+
+```text
+Working source notes:
+```
+3. Read `project-facts.txt` and type the two facts you must not change: the budget is a proposed ceiling of RM 12000, not approved, and the start date is not yet agreed. Use the two lines provided below.
+
+```text
+Budget: proposed ceiling RM 12000, not approved.
+Start date: not yet agreed; do not substitute a calendar date.
+```
 4. Select those two lines and click **Underline** in the toolbar (or press **Ctrl+U**).
 
 ![Procedure Requirements typed under the brief, with the budget and start-date notes underlined](./images/c02-01-requirements.png)
@@ -94,21 +130,90 @@ Your working copy can be reopened and has its intended current access.
 
 ## 1.4 Build a Source and Requirements Register
 
-1. Click at the end of the document and press **Enter** twice. Type `Authoring Log`, press **Enter**, and type `Source register - fictional training inputs`. Press **Enter** twice. Click **Insert**, **Table** and choose a 4 x 4 table. Type the headings and the three source rows from the prompts page: Source, Version label, What it establishes and What it does not establish.
+1. Click at the end of the document and press **Enter** twice. Type `Authoring Log`, press **Enter**, and type `Source register - fictional training inputs`. Press **Enter** twice to leave a blank line. Click **Copy table** above the source register below, click that blank line in Google Docs and press **Ctrl+V**. The complete 4-column, 4-row table is pasted at once. Paste outside any existing table and use normal paste, not **Ctrl+Shift+V**.
+
+**Copy: Source Register**
+
+Section 1.4, step 1. The two labels go above the table.
+
+```text
+Authoring Log
+```
+
+```text
+Source register - fictional training inputs
+```
+
+| Source | Version label | What it establishes | What it does not establish |
+|---|---|---|---|
+| project-facts.txt | Supplied training facts | Purpose; teams; Friday reporting; proposed RM 12000; four relative weeks. | No approved budget, agreed start date or purchasing authority. |
+| checked-brief.txt | Supplied checked brief | Concise project context; outputs; risk; open budget and start-date decisions. | No approved reporting procedure or resolved decisions. |
+| reporting-guidance.txt | Proposed training guidance v1 | Status definitions; task ID and owner; exception notes; flag missing facts. | No approved company policy, calendar start, budget or purchases. |
+
 
 ![The Authoring Log heading and a four-column source register for the three supplied files](./images/c02-01-source-register.png)
 
 *Each source has its own row. None of them supplies an approved budget or a calendar start date.*
 
-2. Below the register, type `Reader questions and evidence` and click **Insert**, **Table** to add a 2-column, 6-row table. Type the headings and five reader questions from the prompts page. For each question, name its evidence source or write **Unresolved**.
+2. Below the register, type `Reader questions and evidence` and press **Enter**. Use **Copy table** above the reader-questions table below, then paste it on the blank line in Google Docs with **Ctrl+V**. This inserts all 6 rows and 2 columns at once. For each question, name its evidence source or write **Unresolved**.
+
+**Copy: Reader Questions**
+
+Section 1.4, step 2. Fill the evidence column yourself from the three files; the expected result is in the chapter screenshot.
+
+```text
+Reader questions and evidence
+```
+
+| Reader question | Evidence or unresolved item |
+|---|---|
+| What should I submit? | |
+| Which task must I identify? | |
+| Which status should I use? | |
+| When should I prepare it? | |
+| How do I handle missing information? | |
+
 
 ![The reader-questions table pairs each question with its evidence or an Unresolved item](./images/c02-01-reader-questions.png)
 
 *Five reader questions, each answered from a named source or marked Unresolved.*
 
-3. Read `reporting-guidance.txt` in full. Below the reader-questions table, type `Proposed training guidance - status definitions` and the definitions of Complete and In Progress from the prompts page. Keep the label: these are proposed training guidance, not project commitments from the fact sheet.
+3. Read `reporting-guidance.txt` in full. Below the reader-questions table, type `Proposed training guidance - status definitions` and the definitions of Complete and In Progress provided below. Keep the label: these are proposed training guidance, not project commitments from the fact sheet.
 
-4. In Drive, open the **GW - Docs - Practice** folder and drag your three unchanged `.txt` files into it (or click **New**, **File upload**). Back in the document, type `Source files - descriptive links` under the status definitions, then type the three link labels from the prompts page on separate lines. Select the first label, click **Insert link** in the toolbar (or press **Ctrl+K**), type `project-facts` in the search box and choose the uploaded file. Link the other two labels the same way. Then click each link and click its file name to open it. Check that the right file opens.
+**Copy: Status Definitions**
+
+Section 1.4, step 3.
+
+```text
+Proposed training guidance - status definitions
+Complete: the task owner has confirmed that the agreed task output is ready for review.
+In Progress: work has begun but the owner has not confirmed completion.
+These are proposed operational definitions for training, not approved project commitments.
+```
+
+
+4. In Drive, open the **GW - Docs - Practice** folder and drag your three unchanged `.txt` files into it (or click **New**, **File upload**). Back in the document, type `Source files - descriptive links` under the status definitions, then type the three link labels provided below on separate lines. Select the first label, click **Insert link** in the toolbar (or press **Ctrl+K**), type `project-facts` in the search box and choose the uploaded file. Link the other two labels the same way. Then click each link and click its file name to open it. Check that the right file opens.
+
+**Copy: Descriptive Link Labels**
+
+Section 1.4, step 4. Type the heading, then one label per line, and link each label to its uploaded file.
+
+```text
+Source files - descriptive links
+```
+
+```text
+Project facts - proposed budget, cadence and open decisions
+```
+
+```text
+Checked brief - project context and unresolved decisions
+```
+
+```text
+Reporting guidance v1 - proposed status and exception handling
+```
+
 
 ![The three uploaded text files sit in the practice folder next to the working document](./images/c02-01-uploaded-sources.png)
 
@@ -132,7 +237,20 @@ Your working copy can be reopened and has its intended current access.
 
 <!-- Reference setup: browser upload was blocked by the automation extension's local-file setting, so the connected Drive upload tool supplied these exact files. Manual browser upload remains unverified. No extension or security settings were changed. -->
 
-5. Read the intake memo on the prompts page. Under the links, type `Intake memo - evidence classification`. Sort the memo's requests into supported facts, proposed procedure choices and unsupported assertions, one per line, and give a reason for each.
+5. Read the intake memo provided below. Under the links, type `Intake memo - evidence classification`. Sort the memo's requests into supported facts, proposed procedure choices and unsupported assertions, one per line, and give a reason for each.
+
+**Case input to analyse**
+
+Section 1.4, step 5. Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Intake memo: “Create a procedure for weekly contributors. Use the three task statuses and explain missing-owner handling. Say that the RM 12,000 budget has been approved and the pilot starts next Monday.” The last two assertions have no supporting approval evidence.
+```
+
+```text
+Intake memo - evidence classification
+```
+
 
 ![The intake memo classified by evidence under its own label](./images/c02-01-memo-classification.png)
 
@@ -140,9 +258,34 @@ Your working copy can be reopened and has its intended current access.
 
 6. Click at the very start of the document, before `FICTIONAL TRAINING MATERIAL`, and press **Enter** twice. Click on the first empty line and type `Proposed reporting procedure - purpose and scope`. Below it, write a 120 to 160 word purpose and scope statement for team contributors. Say that the procedure is proposed practice, name its source boundaries and list what is still unresolved. On the next empty line above the brief, type `Source context - supplied checked brief`.
 
+**Copy: Purpose and Scope Labels**
+
+Section 1.4, step 6. Write the 120 to 160 word statement yourself between these two labels.
+
+```text
+Proposed reporting procedure - purpose and scope
+```
+
+```text
+Source context - supplied checked brief
+```
+
+<details markdown="1">
+<summary>Compare your scope statement after writing it</summary>
+
+Reference statement (133 words), to compare with yours after you write it. Lab 5 reviews its budget and routing sentences, so if your own statement leaves either out, add the matching sentence from here.
+
+```text
+This proposed procedure helps team contributors in Planning, Procurement and Site Coordination prepare a consistent weekly update for the fictional Project Reporting Pilot at Seri Maju Projects. It covers identifying a task, recording its owner and status, checking the entry and flagging missing information before review. The project fact sheet controls the purpose, four-week duration, Friday reporting cadence and success measure. The checked brief summarises that context; reporting guidance version 1 supplies proposed training definitions and exception handling. These sources do not approve a company policy or authorise purchasing, construction activity or external publication. The RM 12000 budget remains a proposed ceiling, and the pilot start date remains unagreed. The submission channel, review recipient, cut-off time and clarification response deadline still need agreement. Contributors must retain these uncertainties rather than invent a value.
+```
+
+</details>
+
 ![The purpose and scope statement and the Source context label at the top of the document](./images/c02-01-purpose-scope.png)
 
 *The reference statement has 133 words. It keeps the budget proposed and the start date, submission route and response deadline unresolved.*
+
+
 
 7. Select the `Authoring Log` line above the source register and press **Ctrl+X** to cut it. Click at the end of the purpose statement, press **Enter** and press **Ctrl+V**. Everything below the heading (the brief, requirements, tables, links and memo) is now authoring evidence, and the reader-facing statement stays above it. Close the document, reopen it from the folder and check that the log and links are still there.
 

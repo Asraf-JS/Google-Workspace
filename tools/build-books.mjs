@@ -3,7 +3,7 @@ import path from 'node:path';
 import {fileURLToPath,pathToFileURL} from 'node:url';
 import {createRequire} from 'node:module';
 import {spawnSync} from 'node:child_process';
-import {statSync,renameSync} from 'node:fs';
+import {statSync,renameSync,unlinkSync} from 'node:fs';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const require=createRequire(import.meta.url);
 const kit=process.env.TRAINING_BOOK_KIT_DIR?path.resolve(process.env.TRAINING_BOOK_KIT_DIR):path.dirname(require.resolve('training-book-kit/package.json'));
@@ -33,12 +33,15 @@ if(!selected.length)throw new Error('Unknown course: '+process.argv[2]);
 const ghostscript=spawnSync('gs',['--version']).status===0;
 if(!ghostscript)console.warn('Ghostscript (gs) not found: books are written uncompressed. Install it before committing rebuilt PDFs.');
 function compress(pdf){
+ const before=statSync(pdf).size;
+ if(before<50*1024*1024){console.log(`Kept ${path.relative(root,pdf)}: ${(before/1e6).toFixed(1)} MB, already below the compression threshold.`);return;}
  const tmp=pdf+'.tmp.pdf';
  const r=spawnSync('gs',['-q','-dNOPAUSE','-dBATCH','-dSAFER','-sDEVICE=pdfwrite','-dCompatibilityLevel=1.6',
   '-dDownsampleColorImages=true','-dColorImageResolution=200','-dColorImageDownsampleType=/Bicubic',
   '-dAutoFilterColorImages=false','-dColorImageFilter=/DCTEncode','-dJPEGQ=85','-sOutputFile='+tmp,pdf],{stdio:'inherit'});
  if(r.status!==0)throw new Error('Ghostscript failed on '+pdf);
- const [before,after]=[pdf,tmp].map(f=>statSync(f).size);
+ const after=statSync(tmp).size;
+ if(after>=before){unlinkSync(tmp);console.log(`Kept ${path.relative(root,pdf)}: compression would increase its size.`);return;}
  renameSync(tmp,pdf);
  console.log(`Compressed ${path.relative(root,pdf)}: ${(before/1e6).toFixed(1)} MB -> ${(after/1e6).toFixed(1)} MB`);
 }

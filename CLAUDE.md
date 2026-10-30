@@ -47,3 +47,7 @@ Asraf wants uncropped screenshots retained for later framing adjustments. The ed
 Docs Lab 4 now has 35 staged images and a verified nine-page native export. Continue Docs Lab 6 using the maintained Working document, which retains all earlier text and heading targets. Keep the separate Layout Practice copy in Pageless mode for comparison. The independent escalation-table challenge was skipped. The updated 81-page Docs book was rendered and visually reviewed; source checks and the 115-page site build pass.
 
 Docs Lab 5 core is complete: 34 images, four reasoned decisions, an open missing-contact comment, baseline/checked milestones and manual comparison. The native comparison picker was blank; no generated suggestions were produced. Continue with Docs Lab 6 in the maintained Working document. Independent challenge and partner review remain pending.
+
+## Inline copyable material
+
+At the user's request (30 October 2026), put every required prompt, typed value and case input beneath its relevant instruction in each chapter README. Keep session/source guidance with each prompt. Do not direct participants to a separate prompts page. Existing prompts.md URLs remain as compatibility references, with a link back to the integrated lesson. Books use the integrated notes and omit duplicate prompt appendices. Preserve the existing screenshot order and captions.

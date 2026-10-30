@@ -39,36 +39,28 @@
   },
   "chapters": [
     {
-      "notes": "../../02-google-docs/01-document-sources/README.md",
-      "exercises": "../../02-google-docs/01-document-sources/prompts.md"
+      "notes": "../../02-google-docs/01-document-sources/README.md"
     },
     {
-      "notes": "../../02-google-docs/02-draft-procedure/README.md",
-      "exercises": "../../02-google-docs/02-draft-procedure/prompts.md"
+      "notes": "../../02-google-docs/02-draft-procedure/README.md"
     },
     {
-      "notes": "../../02-google-docs/03-styles-navigation/README.md",
-      "exercises": "../../02-google-docs/03-styles-navigation/prompts.md"
+      "notes": "../../02-google-docs/03-styles-navigation/README.md"
     },
     {
-      "notes": "../../02-google-docs/04-page-layout/README.md",
-      "exercises": "../../02-google-docs/04-page-layout/prompts.md"
+      "notes": "../../02-google-docs/04-page-layout/README.md"
     },
     {
-      "notes": "../../02-google-docs/05-review-collaboration/README.md",
-      "exercises": "../../02-google-docs/05-review-collaboration/prompts.md"
+      "notes": "../../02-google-docs/05-review-collaboration/README.md"
     },
     {
-      "notes": "../../02-google-docs/06-adapt-accessibility/README.md",
-      "exercises": "../../02-google-docs/06-adapt-accessibility/prompts.md"
+      "notes": "../../02-google-docs/06-adapt-accessibility/README.md"
     },
     {
-      "notes": "../../02-google-docs/07-export-check/README.md",
-      "exercises": "../../02-google-docs/07-export-check/prompts.md"
+      "notes": "../../02-google-docs/07-export-check/README.md"
     },
     {
-      "notes": "../../02-google-docs/08-procedure-challenge/README.md",
-      "exercises": "../../02-google-docs/08-procedure-challenge/prompts.md"
+      "notes": "../../02-google-docs/08-procedure-challenge/README.md"
     }
   ],
   "backCover": "A practical one-day course with step-by-step draft labs, copy-ready prompts, fictional inputs and expected-result checks. All eight Labs have author reference captures, including a three-case capstone and a checked complete export. Independent challenges, reader/partner and language review, interactive PDF checks and classroom timing validation remain required before participant release."

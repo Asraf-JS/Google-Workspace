@@ -2,7 +2,6 @@
 
 In this chapter you will export a copy and inspect headings, page breaks and tables after conversion.
 
-> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
 **Estimated time:** 40 minutes, planned as 10 explanation and demonstration, 10 guided build and casework, 15 independent practice and 5 verification and repair. Not yet timed with learners.
 
@@ -20,7 +19,7 @@ In this chapter you will export a copy and inspect headings, page breaks and tab
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use your checked procedure. This chapter creates local export copies; it does not publish or email them.
 
@@ -70,11 +69,81 @@ A check through the final page, with viewer limitations and real defects recorde
 
 1. Click **File**, **Make a copy** to create `GW - Reporting Procedure - Release Practice`. Leave sharing and comment-copy boxes unchecked. This is the native **scenario release source**; the maintained Working document stays separate. Add a Release Checklist with Native source, Revision, Export scope, Filename, Viewer and Result. Use `Practice release r1`, distinct r1 filenames and a pending result until checked.
 
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Release scenario: One reader needs an editable procedure; another needs a fixed complete handout including Examples. A previous PDF is already in the practice folder. Make the current revision and included scope unambiguous without deleting the maintained source.
+```
+
+
+**Copy: Source and Revision Names**
+
+```text
+GW - Reporting Procedure - Release Practice
+```
+
+
+**Copy: Source and Revision Names**
+
+```text
+Practice release r1
+```
+
+
+**Copy: Source and Revision Names**
+
+```text
+Practice release r2
+```
+
+
+**Copy: Release Checklist Fields**
+
+```text
+Native source:
+Revision:
+Export scope:
+Filename:
+Viewer:
+Result:
+```
+
+
 ![The separate release practice copy excludes sharing and review comments](./images/c02-07-02-release-copy-excludes-comments.png)
 
 *The separate release practice copy excludes sharing and review comments.*
 
 2. Rename the main tab **Procedure** (click the three dots on the tab, then **Rename**). Add a separate **Examples** tab with the supplied fictional appendix and scope marker. Name the baseline version `Practice release r1`. Select **Procedure** before exporting the main-only file. With multiple tabs, the Download dialog offers **Current Tab** and **All Tabs**. Inspect the setting for **every** export; the reference dialog reset to Current Tab.
+
+**Copy: Source and Revision Names**
+
+```text
+Procedure
+```
+
+
+**Copy: Source and Revision Names**
+
+```text
+Examples
+```
+
+
+**Copy: Examples Tab**
+
+Apply Heading 1 to the first line only. Keep the scope marker unchanged so prior/current PDFs can be checked consistently.
+
+```text
+Examples for Release Practice
+FICTIONAL TRAINING MATERIAL - APPENDIX
+Example scope marker: COMPLETE-HANDOUT-EXAMPLES-R1
+Task T001 - Planning - Aina Rahman - recorded status Complete. This recorded sample does not itself approve the budget or pilot date. Complete requires owner-confirmed output ready for review.
+Missing-owner example: retain the task ID and recorded status, flag the owner gap and add an exception note. Never invent an assignment. Keep the entry as a draft until the submission channel, recipient and cut-off are agreed.
+Final appendix checkpoint: proposed RM 12000 ceiling; start to be confirmed; every Friday; source uncertainty retained.
+```
+
 
 ![A separate Examples tab has a recognisable complete-handout marker](./images/c02-07-04-examples-tab-scope-marker.png)
 
@@ -95,8 +164,42 @@ Export `Procedure-r1-main.pdf` with **Current Tab**, then `Procedure-r1-complete
 *The editable Word handover also deliberately includes all tabs.*
 
 3. Inspect the files through their final page. The reference main-only PDF had **12 pages without the Examples marker**; the complete PDF had **13 pages with it**. The clean Word export contained no comment metadata or tracked insertions/deletions. Check three internal links, the contents list, a table and the final procedure/appendix paragraphs. PDF structural checks resolved the three quick-link destinations to the expected pages; interactive PDF viewing remained pending.
+
+**Copy: Filename and Scope Manifest**
+
+| Filename | Revision | Scope | Purpose |
+|---|---|---|---|
+| Procedure-practice-r1.docx | Earlier maintained working snapshot | Original single tab and training appendices | Prior evidence; includes the open review comment |
+| Procedure-practice-r1.pdf | Earlier maintained working snapshot | Original single tab and training appendices | Prior fixed snapshot |
+| Procedure-r1-main.pdf | Practice release r1 | Procedure, Current Tab | Prior main-only copy |
+| Procedure-r1-complete.pdf | Practice release r1 | Procedure plus Examples, All Tabs | Prior complete reader copy |
+| Procedure-r1-complete.docx | Practice release r1 | Procedure plus Examples, All Tabs | Prior editable copy and round-trip input |
+| Procedure-r2-main.pdf | Practice release r2 | Procedure, Current Tab | Current main-only practice copy |
+| Procedure-r2-complete.pdf | Practice release r2 | Procedure plus Examples, All Tabs | Current complete reader handout |
+| Procedure-r2-complete.docx | Practice release r2 | Procedure plus Examples, All Tabs | Current editable handover |
+
+
 4. Add a native defect table with **Source location**, **Format**, **Observed difference**, **Severity/action**. Record no-difference findings for elements actually checked. The reference record includes the initial Word comment, unnumbered Examples page, preserved heading hierarchy/table dimensions and tab flattening after import. A PDF parser also reported a duplicate title destination key: retain that warning rather than claiming every PDF link is validated.
+
+**Copy: Defect Table Columns**
+
+```text
+Source location
+Format
+Observed difference
+Severity / action
+```
+
+Record actual findings and the viewer used. A native comparison report can contain expected source-record additions as well as conversion differences; do not count every suggestion as a defect.
+
 5. Upload `Procedure-r1-complete.docx` as a distinct practice file and open/convert it in Docs, named `GW - Procedure r1 - Round Trip Practice`. Do not replace the scenario or maintained source. The browser upload required an unavailable extension permission in this run, so connected Drive imported only this authorised fictional DOCX. **Browser upload was not verified.**
+
+**Copy: Source and Revision Names**
+
+```text
+GW - Procedure r1 - Round Trip Practice
+```
+
 
 ![The imported round-trip copy retains headings and quick links in one tab](./images/c02-07-09-round-trip-heading-and-links.png)
 
@@ -123,6 +226,15 @@ Use **Tools**, **Compare documents** if available. Choose the observed source, e
 *Native comparison generates suggestions for structure and formatting; these are inspected rather than accepted together.*
 
 7. Repair the actual source issue and change a real instruction in the **scenario** source. In **Examples**, use **Insert**, **Page elements**, **Page numbers** to add a first-page footer field; prefix it `Examples - page `. This makes the appendix's own sequence explicit. In **Procedure**, append the supplied post-clarification source-recheck action to the exact missing-owner paragraph. Confirm the selected tab and a unique search match before replacing text.
+
+**Copy: R2 Instruction Revision**
+
+Find the exact existing missing-owner paragraph in the Procedure tab. Confirm one match and append this action without changing its existing conditions:
+
+```text
+After clarification, recheck the retained entry against the source before requesting review.
+```
+
 
 ![A native page field adds an explicit Examples page sequence](./images/c02-07-17-examples-numbering-repaired.png)
 
