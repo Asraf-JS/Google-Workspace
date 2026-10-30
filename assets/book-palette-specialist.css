@@ -19,5 +19,8 @@ h2.exercises::before{display:none}
 .chapter{line-height:1.5}
 .expect{break-inside:avoid;page-break-inside:avoid}
 
+/* Keep a chapter's closing self-check with the lesson summary above it. */
+.chapter > p:last-child{break-before:avoid;page-break-before:avoid}
+
 /* Keep each required case/prompt appendix together from its opening. */
 h2.exercises{break-before:page;page-break-before:always}
