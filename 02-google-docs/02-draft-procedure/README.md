@@ -106,13 +106,23 @@ The request names the reader, source and output format. No source placeholder re
 1. Click **Submit** (the arrow at the bottom right of the panel) and read the whole response, scrolling down the panel.
 2. If Gemini offers to edit your document instead, click **Reject all**: this lab only uses the panel.
 
-![Gemini's response in the panel; its Check section lists only two of the three statuses](./images/c02-02-unreviewed-response.png)
+**Example response: two views of the same answer**
 
-*This is still an unreviewed proposal. Its Check section mentions Complete and In Progress but leaves out Not Started.*
+The two screenshots below show one example Gemini reply. The panel was scrolled to show different parts of that reply. They illustrate what to look for during a review; they are not two separate tasks or answers to copy. Your own reply may use different wording and may not contain these problems.
 
-![The rest of the response; the boxed Submit for Review step gives no usable submission route](./images/c02-02-response-checks.png)
+#### View 1 of 2 — check the status definitions
 
-*"Route submissions according to the project structure" doesn't tell a reader where to send anything.*
+![Example reply, view 1 of 2: its Check section includes Complete and In Progress but omits Not Started](./images/c02-02-unreviewed-response.png)
+
+*In this example, Check leaves out Not Started. In your own reply, check whether all three statuses are covered; record an omission only if you find one.*
+
+#### View 2 of 2 — the same reply, scrolled down to submission instructions
+
+![The same example reply, view 2 of 2 after scrolling: Submit for Review contains a vague routing instruction](./images/c02-02-response-checks.png)
+
+*In this example, “Route submissions according to the project structure” gives no usable destination. In your reply, check that missing channel, recipient and cut-off details remain unresolved rather than being invented.*
+
+**Your next action:** return to your own Gemini reply and review it in 2.2.2. You do not need to reproduce the example's wording or errors.
 
 **Check:** The response is still a proposal; your document has not been automatically replaced.
 
@@ -120,11 +130,11 @@ The request names the reader, source and output format. No source placeholder re
 
 1. Compare every instruction in the response with `project-facts.txt` and `reporting-guidance.txt`.
 2. At the end of the document, type `AI draft review` and today's date, then record what the response got right and each repair it needs.
-3. Check at least these three things: does Check list all three statuses, is the submission route specific, and did it use anything other than the pasted facts?
+3. Check three things: are all three statuses covered, are missing routing details kept unresolved, and are claims supported by the supplied sources? Record what you actually find. If a point is already correct, note the source and **no repair needed**.
 
 ![The AI draft review typed at the end of the Authoring Log](./images/c02-02-human-review.png)
 
-*The review records the missing status, the vague routing instruction and the source-boundary issue.*
+*This example review records the issues found in the illustrated reply. Your review should record your own findings, including source-supported points that need no repair.*
 
 **No Gemini?** Review the reference draft in 2.3 against the sources. Record the same three checks and label your notes a reference-draft review. You still practise evidence judgement.
 
@@ -147,7 +157,7 @@ The draft distinguishes known project facts from a proposed training procedure. 
 
 1. Above **Authoring Log**, click at the end of the purpose statement and create a blank paragraph.
 2. Paste the complete reference draft below once; its title and four section labels are included.
-3. Compare it with your reviewed AI response and explain one repair.
+3. Compare it with your reviewed AI response. Explain a repair if one is needed, or identify a source-supported point that is already correct.
 4. Keep step 4 as supplied for now; you will add the missing status definitions in 2.4.
 
 Paste this complete reference once, then compare its meaning with your reviewed response. Without Gemini, review this reference against the sources. Step 4 is deliberately incomplete until the repair in 2.4.2.
@@ -245,7 +255,7 @@ The plan is supplied to save transcription. Verify the source labels and action/
 
 1. Check the plan against `reporting-guidance.txt` and the fact sheet.
 2. Mark each factual instruction with its source in brackets, such as `(facts)` or `(guidance)`, and mark workflow details you designed as `(proposed)`.
-3. Then fix procedure step 4 so that it lists all three statuses (Not Started, In Progress and Complete), the repair your AI draft review asked for.
+3. The supplied reference draft deliberately leaves the status definitions out of procedure step 4. Replace that step with the checked wording below. This repairs the supplied reference; your own Gemini reply may already have included all three statuses.
 
 ```text
 4. Check the three proposed guidance categories: Not Started means work has not begun; In Progress means work has begun without owner-confirmed completion; Complete means the owner has confirmed the agreed output is ready for review. Preserve an unfamiliar label as a clarification query rather than inventing a mapping.
