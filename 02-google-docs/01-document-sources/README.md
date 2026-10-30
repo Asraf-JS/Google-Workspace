@@ -18,7 +18,7 @@ You are preparing a reporting procedure for a project team. Before writing it, y
 
 ## Before You Begin
 
-Download [project facts](../../shared/sample-files/project-facts.txt), [checked brief](../../shared/sample-files/checked-brief.txt) and [reporting guidance](../../shared/sample-files/reporting-guidance.txt). Save the three unchanged files in one folder on your computer. These are fictional training inputs. You can take this course without attending the masterclass.
+Download these three source files: [project-facts.txt](../../shared/sample-files/project-facts.txt), [checked-brief.txt](../../shared/sample-files/checked-brief.txt) and [reporting-guidance.txt](../../shared/sample-files/reporting-guidance.txt). Save the three unchanged files in one folder on your computer. These are fictional training inputs. You can take this course without attending the masterclass.
 
 **How to follow this guide:** finish one small task in Google Docs, then return to its **Check** before continuing. Short names can be typed. Use one Copy button for each supplied block; it includes all the lines needed for that task. Each **Copy heading and table** button includes its heading and every table cell. Paste tables on a blank line outside an existing table with **Ctrl+V**.
 
@@ -72,17 +72,29 @@ Budget: proposed ceiling RM 12000, not approved.
 Start date: not yet agreed; do not substitute a calendar date.
 ```
 
-**B. Identify the facts that must survive later editing**
+**B. Compare and mark the two source notes**
 
-1. Open `project-facts.txt` and find its budget and start-date statements.
-2. Return to your Google Doc. Select the two lines beginning **Budget:** and **Start date:**.
-3. Press **Ctrl+U** to underline the selected lines. Click elsewhere to clear the selection.
+**What are you doing?** You have just pasted two source notes into your Google Doc. Check that they preserve the original budget amount, approval status and start-date meaning. Then underline them so they are easy to recheck when you rewrite the document later.
+
+Keep this guide beside your **Working** document. The three original lines needed for this check are shown here:
+
+> **Source: project-facts.txt** — the project-facts file downloaded under Before You Begin.<br>
+> Budget ceiling: RM 12000<br>
+> Budget status: proposed, not approved<br>
+> Start date: not yet agreed
+
+You do not need to open another file for this check. This box reproduces the relevant lines from [project-facts.txt](../../shared/sample-files/project-facts.txt); the link is available if you want to inspect the full source.
+
+1. In your Google Doc, find **Working source notes**, just below **Procedure Requirements**. This is the text you pasted in part A.
+2. Compare its **Budget:** line with the source box above. Does it keep both **RM 12000** and **proposed, not approved**? The amount alone is not enough: “approved RM 12000” would change the meaning.
+3. Compare its **Start date:** line with the box. It must still say the date is **not yet agreed**; a date such as “next Monday” would be an unsupported addition. If either note differs in meaning, correct it using the source box.
+4. Select the two complete lines beginning **Budget:** and **Start date:**. Press **Ctrl+U** once to underline them, then click elsewhere to clear the selection. Underline the notes in your Google Doc, not the text in this guide.
 
 ![Procedure Requirements typed under the brief, with the budget and start-date notes underlined](./images/c02-01-requirements.png)
 
 *The requirements describe the reader and topics. The underlined notes are the source facts the procedure must preserve.*
 
-**Check:** both lines are underlined. Explain to a partner: “RM 12000 is proposed; the start date is not agreed.” These meanings must remain true when you draft with Gemini in Lab 02.
+**Check:** both notes match the source box and are underlined. The budget is RM 12000, proposed and not approved; the start date is not yet agreed. Exact wording can differ, but these meanings must stay the same in Lab 02.
 
 ## 1.3 Check the File
 
