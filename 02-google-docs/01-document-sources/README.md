@@ -1,6 +1,15 @@
 # 01 - Prepare the Document and Sources
 
-You are preparing a reporting procedure for a project team. Before writing it, you need to know which files to trust and which decisions are still open. In this lab, you will organise the working document, check the supplied evidence and write an accurate introduction for its readers.
+**Your assignment:** You are the person preparing a weekly reporting procedure for the fictional Seri Maju Projects team. The finished procedure should help contributors prepare an update, check its status and flag missing information.
+
+You have three source files to help you. Later in this lab, a fictional colleague's request will ask you to include two claims that the sources do not confirm. You will check that request before using it, then write the procedure's introduction. In Lab 02, you will turn the checked information into a full draft.
+
+**How the lab fits together:**
+
+1. **Sections 1.1–1.3:** Create the working document and identify facts that must stay accurate.
+2. **Sections 1.4.1–1.4.4:** Organise the sources and link them to the document so you can check your work.
+3. **Section 1.4.5:** Check the colleague's fictional request against those sources.
+4. **Section 1.4.6 onward:** Write the introduction and check your finished document. You will draft the full procedure in Lab 02.
 
 **Estimated time:** 40 minutes including explanation, guided work and independent checks.
 
@@ -18,7 +27,13 @@ You are preparing a reporting procedure for a project team. Before writing it, y
 
 ## Before You Begin
 
-Download these three source files: [project-facts.txt](../../shared/sample-files/project-facts.txt), [checked-brief.txt](../../shared/sample-files/checked-brief.txt) and [reporting-guidance.txt](../../shared/sample-files/reporting-guidance.txt). Save the three unchanged files in one folder on your computer. These are fictional training inputs. You can take this course without attending the masterclass.
+Download these three fictional source files and save them unchanged in one folder on your computer:
+
+- [project-facts.txt](../../shared/sample-files/project-facts.txt) — the project's purpose, schedule, proposed budget and open decisions.
+- [checked-brief.txt](../../shared/sample-files/checked-brief.txt) — a short summary of the project that you will put into your working document.
+- [reporting-guidance.txt](../../shared/sample-files/reporting-guidance.txt) — proposed training definitions for statuses and missing information.
+
+These three files are your references. The fictional request you will check in 1.4.5 appears in the guide; it is not another file to download. You can take this course without attending the masterclass.
 
 **How to follow this guide:** finish one small task in Google Docs, then return to its **Check** before continuing. Short names can be typed. Use one Copy button for each supplied block; it includes all the lines needed for that task. Each **Copy heading and table** button includes its heading and every table cell. Paste tables on a blank line outside an existing table with **Ctrl+V**.
 
@@ -123,7 +138,7 @@ This part creates your **Authoring Log**: the evidence behind the procedure. Wor
 
 ### 1.4.1 Add the source register
 
-**Why:** each source has a different job. This register records what you can—and cannot—claim from it.
+**Why:** each source has a different job. The register records what you can—and cannot—claim from it, so you can check the request in 1.4.5 and write the procedure without inventing facts.
 
 1. In your working document, go to the end and press **Enter** twice to make a blank line.
 2. Click **Copy heading and table** below. In Google Docs, click that blank line and press **Ctrl+V** once. The two headings and complete table paste together.
@@ -243,25 +258,32 @@ Reporting guidance v1 - proposed status and exception handling
 
 ### 1.4.5 Challenge an unsupported instruction
 
-**Why:** a request can contain claims that the sources do not support. Your job is to spot those claims before putting them into a procedure.
+**Your task:** You are still preparing the procedure. Imagine a colleague has sent the request below. It is a fictional memo shown in this guide, separate from the three source files. Check what it asks for before putting anything into the procedure.
 
 Read this fictional intake memo here; you do not need to paste it:
 
 > Create a procedure for weekly contributors. Use the three task statuses and explain missing-owner handling. Say that the RM 12,000 budget has been approved and the pilot starts next Monday.
 
-1. Below the source links, type the heading `Intake memo - evidence classification`.
-2. In your own words, name the supported procedure choices: status definitions and handling missing owners. Name the source that supports them.
-3. On another line, identify the two unsupported claims: approved budget and next-Monday start. Explain that the sources leave both decisions open.
+**Check the request against the sources:**
+
+- **reporting-guidance.txt** proposes three status definitions and says to flag a missing owner for clarification. These are proposed training guidance.
+- **project-facts.txt** says the RM 12000 budget is proposed, not approved, and the start date is not yet agreed. It does not confirm a start next Monday.
+
+For example: the memo says “budget approved,” but project-facts.txt says “proposed, not approved.” Record the memo's approval claim as **unsupported**. You do not need to open another file for this example; the relevant facts are above.
+
+1. In your Google Doc, below the source links, type `Intake memo - evidence classification`.
+2. Write one short note explaining that the status definitions and missing-owner rule come from **reporting-guidance.txt** and are proposed guidance.
+3. Write two more notes: one for the unsupported budget-approval claim and one for the unsupported next-Monday start claim. For each, say what **project-facts.txt** actually says.
 
 ![The intake memo classified by evidence under its own label](./images/c02-01-memo-classification.png)
 
 *The approval and next-Monday claims are recorded as unsupported assertions, each with its reason.*
 
-**Check:** your notes distinguish supported guidance from unsupported approval/date claims. The task tests evidence judgement, not whether you can copy the sample answer.
+**Check:** your three notes identify the proposed guidance and explain why the two claims cannot be used as confirmed facts. You have checked a request against its sources before drafting.
 
 ### 1.4.6 Write the reader-facing introduction
 
-**Why:** the reader needs a short purpose and scope statement. The detailed evidence belongs in the log underneath it.
+**Why:** you have checked the request. Now start the reader-facing document with a short statement explaining who the procedure is for and what it covers. The detailed evidence stays in the Authoring Log. You will write the full procedure in Lab 02.
 
 1. Go to the very start of the document, before the supplied brief. Insert space above it.
 2. Type `Proposed reporting procedure - purpose and scope` on the first line.
