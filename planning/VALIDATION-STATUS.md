@@ -1,5 +1,9 @@
 # Validation Status
 
+## Docs Labs 02–08 classroom-clarity revision, 30 October 2026
+
+Following the Lab 01 feedback, the remaining seven Docs guides now identify the skills and current working copy, explain purpose, divide guided work into small tasks and add visible checkpoints. Related text is grouped, short labels remain beside the action, and supplied evidence/planning/audit tables reduce transcription. Conversion and reviewer results stay pending until actually observed. All existing screenshot links and captions are retained in order. These are guide revisions, not new native-app executions or completed classroom pilots; the planned timing allocations remain unchanged.
+
 ## Classroom feedback — Docs Lab 01, 30 October 2026
 
 Instructor reported a 10:15–10:40 am session (25 minutes), learner confusion, excessive copying and loss of place while switching between the guide and Google Docs. Completion of every independent task was not established. Lab 01 was revised with purpose/skill explanations, smaller tasks and visible checkpoints, grouped text, headings copied with tables, and a completed evidence column. The revised route still needs a classroom timing and comprehension check. The 40-minute planning allocation is retained; the observation is not a validation of that allocation.

@@ -27,3 +27,8 @@ Each course supplies independent starting inputs. Use a stated recovery file if 
 ## Expanded Casework
 
 Revision 0.4 adds casework, independent challenges and evidence gates to every chapter. The original short guided path alone is insufficient. Timings are targets, not measured learner results. Read each case input and keep baseline and scenario files separate.
+
+
+### Follow one small task at a time
+
+Read the purpose, confirm which file to use, complete a numbered task, and perform its Check before continuing. Supplied reference material saves transcription; it does not replace the learner's source check, formatting action, tested navigation or review decision. Page counts and AI replies can differ from the examples. Record only results actually observed.

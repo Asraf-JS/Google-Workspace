@@ -51,3 +51,8 @@ Docs Lab 5 core is complete: 34 images, four reasoned decisions, an open missing
 ## Inline copyable material
 
 At the user's request (30 October 2026), put every required prompt, typed value and case input beneath its relevant instruction in each chapter README. Keep session/source guidance with each prompt. Do not direct participants to a separate prompts page. Existing prompts.md URLs remain as compatibility references, with a link back to the integrated lesson. Books use the integrated notes and omit duplicate prompt appendices. Preserve the existing screenshot order and captions.
+
+
+## Classroom clarity in Google Docs labs
+
+Following the user's classroom feedback (30 October 2026), Docs labs explain the skill and purpose, name the file to edit, use short tasks with a visible Check, and group text pasted into the same location. Type short labels beside the instruction instead of giving each a Copy box. Supply reference tables with headings through the opt-in data-copy-with-table control; learners verify sources and actual results rather than transcribe cells. Keep comment questions and replies beside their separate actions. Never fill pending conversion or independent-review results with reference-run claims.

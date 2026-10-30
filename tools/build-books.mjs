@@ -22,6 +22,8 @@ replaceOnce('chromium.launch(launch).catch(() => chromium.launch())','chromium.l
 replaceOnce('...c.notes.sections.map((s) =>','...c.notes.sections.filter(s => /^\\d+\\./.test(s.text)).map((s) =>');
 replaceOnce('let src = readFileSync(abs, "utf8");','let src = readFileSync(abs, "utf8");\n  src = src.replace(/^Replace bracketed source placeholders before submitting\\. Keep a human check between an AI proposal and the final output\\.\\s*$/gm, "");');
 source=source.replaceAll('Hands-on exercises','Prompts and values');
+// Historical author-run detail stays available on the site, outside the learner's print flow.
+replaceOnce('let html = marked.parse(src);', 'src = src.replace(/<details[^>]*>\\s*<summary>Reference-run scope \\(trainer information\\)<\\/summary>[\\s\\S]*?<\\/details>/g, "");\n  let html = marked.parse(src);');
 const build=path.join(root,'.local-build');await fs.mkdir(build,{recursive:true});const engine=path.join(build,'workspace-book-engine.mjs');await fs.writeFile(engine,source);
 await fs.mkdir(path.join(root,'books'),{recursive:true});
 const courses=JSON.parse(await fs.readFile(path.join(root,'planning/course-map.json'),'utf8'));

@@ -6,6 +6,10 @@
 
 **Audience:** Participants with basic browser and Drive skills; prior masterclass attendance is unnecessary.
 
+## How to use these labs
+
+Each section explains **why** the task matters. Work through one numbered task, perform its **Check**, then continue. The **Which file?** note prevents edits in the wrong practice copy. Supplied paragraphs and completed reference tables reduce typing; learners still demonstrate the skill by formatting, testing links, checking sources and explaining decisions. Record actual observations rather than copying reference-run claims.
+
 ## Course Scenario
 
 > Prepare a fictional project reporting procedure for Seri Maju Projects.
