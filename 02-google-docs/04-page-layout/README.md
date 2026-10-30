@@ -2,7 +2,6 @@
 
 In this chapter you will set up pages, headers, footers and page numbering; compare pages and pageless use.
 
-> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
 **Estimated time:** 50 minutes, planned as 10 explanation and demonstration, 20 guided build and casework, 15 independent practice and 5 verification and repair. Not yet timed with learners.
 
@@ -20,7 +19,7 @@ In this chapter you will set up pages, headers, footers and page numbering; comp
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Continue with your maintained `GW - Reporting Procedure - Working` document from Labs 1-3. Keep the Navigation Practice copy separate. The existing procedure and authoring evidence already make this a multi-page document; do not add filler or blank paragraphs to force more pages.
 
@@ -61,6 +60,13 @@ The document has visible page boundaries. Page headers and page numbers are bein
 
 1. Click **Insert**, **Page elements**, **Header** and type `Project Reporting Procedure`. Leave **Different first page** unchecked for this exercise. Press **Esc** to return to the body.
 
+**Copy: Typed Values**
+
+```text
+Project Reporting Procedure
+```
+
+
 ![Insert > Page elements contains Header, Footer and Page numbers](./images/c02-04-page-elements-menu.png)
 
 *Insert > Page elements contains Header, Footer and Page numbers.*
@@ -70,6 +76,13 @@ The document has visible page boundaries. Page headers and page numbers are bein
 *The repeating header is present before adding the footer or page number.*
 
 2. Click **Insert**, **Page elements**, **Footer**. Type `Fictional training material`, then press **Esc**.
+
+**Copy: Typed Values**
+
+```text
+Fictional training material
+```
+
 
 ![The fictional-material footer is present before automatic numbering](./images/c02-04-footer.png)
 
@@ -149,11 +162,48 @@ Every page has usable content, legible page elements and no avoidable blank page
 
 ## 4.4 Lay Out a Usable Multi-Page Procedure
 
-1. Under **Required Fields**, add `Field reference - proposed training template`. Click **Insert**, **Table** and start with four columns. Enter the four headings and the six field rows from the prompts page. If the picker offers only five rows, pressing **Tab** in the final cell adds another row. Finish with **7 rows by 4 columns**, including the header.
+1. Under **Required Fields**, add `Field reference - proposed training template`. Click **Copy table** above the field-reference table below. Paste on a blank line outside any table in Google Docs with **Ctrl+V**. The whole table is inserted at once: **7 rows by 4 columns**, including the header.
+
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Print brief: A4 portrait, readable body text, visible fictional-material footer and automatic page numbers. Readers must be able to read all field examples. Do not satisfy the brief by shrinking the whole document until it fits one page.
+```
+
+
+**Copy: Field Reference Table**
+
+Create these four columns in a native table. The examples are fictional. The table layout, source-link field and exception wording are proposed procedure design.
+
+| Field | Meaning | Example | Check |
+|---|---|---|---|
+| TaskID | Recorded task identifier. | T001 | Match the source row; do not invent an ID. |
+| Owner | Recorded person responsible. | Aina Rahman | Preserve the recorded owner; flag a missing owner. |
+| Status | Proposed guidance category. | Complete | Use the owner-confirmed ready-for-review definition. |
+| DueWeek | Relative practice week, 1 to 4. | 1 | Keep the source week; do not infer a calendar date. |
+| Exception note | Short note when information is missing. | Awaiting owner confirmation | Proposed wording; retain uncertainty and request clarification. |
+| Source link | Proposed traceability field. | Tasks.csv: record T001 | Open the supplied source and verify the record. |
+
+
+Use the [supplied task data](../../shared/sample-files/Tasks.csv). For the online source-link example:
+
+```text
+https://github.com/Asraf-JS/Google-Workspace/blob/main/shared/sample-files/Tasks.csv
+```
+
+
+<details markdown="1">
+<summary>Manual table-entry fallback</summary>
+
+If formatted copying is unavailable, use **Insert**, **Table** to start with four columns. Press **Tab** in the final cell to add rows until there are seven, then enter the supplied values.
 
 ![The native table starts with four columns; Tab in the last cell adds the remaining rows](./images/c02-04-field-table-empty.png)
 
 *The native table starts with four columns; Tab in the last cell adds the remaining rows.*
+
+</details>
 
 ![Field, Meaning, Example and Check are entered before populating the six field rows](./images/c02-04-field-table-headings.png)
 
@@ -169,7 +219,27 @@ Every page has usable content, legible page elements and no avoidable blank page
 
 *The Check column is 5 cm wide; 0.15 cm padding is tested on the selected cell.*
 
-3. Under **Submission Example**, type the label `Submission checklist - proposed training practice`, press **Enter** and add the six submission-check paragraphs from the prompts page. Select those six paragraphs and click **Numbered list**. Confirm you see **1** through **6**; pasted paragraphs may remain plain until you apply the list formatting. Keep the checklist label outside the list. Do not renumber the earlier eight-step procedure. Avoid filler.
+3. Under **Submission Example**, type the label `Submission checklist - proposed training practice`, press **Enter** and add the six submission-check paragraphs provided below. Select those six paragraphs and click **Numbered list**. Confirm you see **1** through **6**; pasted paragraphs may remain plain until you apply the list formatting. Keep the checklist label outside the list. Do not renumber the earlier eight-step procedure. Avoid filler.
+
+**Copy: Submission Checklist**
+
+Type the label first, then paste the six paragraphs under it, select only them and click Numbered list.
+
+```text
+Submission checklist - proposed training practice
+```
+
+ Keep the label outside the list. These checks do not authorise a real submission.
+
+```text
+Confirm the task ID against its supplied source record.
+Preserve the recorded owner; flag a missing owner for clarification.
+Check the status against the three proposed guidance definitions; retain unclear meaning as a query.
+Keep the relative DueWeek and add a short exception note where needed.
+Open the source link and check Friday reporting; preserve the proposed budget and unagreed start.
+Request agreement on channel, recipient and cut-off; retain the draft while unresolved. This exercise sends nothing.
+```
+
 
 ![Formatting verification confirms six real numbered-list items, preserving unresolved routing details](./images/c02-04-numbered-checklist.png)
 
@@ -182,6 +252,13 @@ Every page has usable content, legible page elements and no avoidable blank page
 *The new reference table also has one pinned header row.*
 
 5. Click **File**, **Make a copy**, name it `GW - Reporting Procedure - Layout Practice` and keep it in your Docs practice folder. Leave **Share it with the same people** unchecked. On that copy click **File**, **Page setup**, **Pageless**, **OK**. Compare the continuous table with the printed layout and record your decision. Headers, footers and page numbers are hidden in Pageless mode.
+
+**Copy: Comparison Copy Name**
+
+```text
+GW - Reporting Procedure - Layout Practice
+```
+
 
 ![Create the named layout-practice copy without copying sharing permissions](./images/c02-04-practice-copy.png)
 

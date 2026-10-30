@@ -2,7 +2,6 @@
 
 In this chapter you will independently revise a section and demonstrate that its facts and navigation remain correct.
 
-> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
 **Estimated time:** 45 minutes, planned as 10 explanation and demonstration, 15 guided build and casework, 15 independent practice and 5 verification and repair. Not yet timed with learners.
 
@@ -20,13 +19,24 @@ In this chapter you will independently revise a section and demonstrate that its
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Read the case input beside the relevant steps. Use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
 
 Use the procedure and source facts. Close the earlier step-by-step instructions for the first attempt.
 
 ## 8.1 Revise the Procedure
 
 1. In the maintained **Working** document, add the supplied owner-clarification instruction under **Resolve Questions**, **Missing Information**. Preserve the task ID and recorded status, flag the missing owner, request clarification and keep an exception note. Never invent a person or contact.
+
+**Copy: Owner Clarification Instruction**
+
+Apply Heading 3 to the first line only.
+
+```text
+Request Owner Clarification
+Draft a clarification request that records the task ID, recorded status and the missing-owner gap. Ask for the responsible owner to be confirmed; do not invent a name. Keep an exception note with the source reference.
+Keep the request and task record as drafts until the submission channel, review recipient and cut-off are agreed. Recheck the entry against its source after clarification before requesting review. This training exercise sends nothing.
+```
+
 2. Apply **Heading 3** to `Request Owner Clarification`, beneath the existing Heading 2. Keep the request and task as drafts until routing is agreed; recheck the source after clarification.
 
 ![Add the owner clarification instruction beneath its own Heading 3](./images/c02-08-01-owner-clarification-subsection.png)
@@ -84,6 +94,13 @@ A navigable procedure that retains the source conditions, with the actual repair
 
 2. Click **File**, **Version history**, **Name current version** and save `Procedure challenge checked`.
 
+**Copy: Typed Values**
+
+```text
+Procedure challenge checked
+```
+
+
 ![Name the checked core revision](./images/c02-08-06-procedure-challenge-checked-version.png)
 
 *Name the checked core revision.*
@@ -101,6 +118,26 @@ A checked milestone and an honest handover that identifies the maintained source
 
 1. Click **File**, **Make a copy** to create `GW - Reporting Procedure - Capstone Practice`. Leave sharing and comment copying unchecked. Write a **Capstone Change-Impact List** before editing: route, headings, contents, opening links, proposed checklist, audience wording, examples, export scope and reader evidence.
 
+**Case input to analyse**
+
+Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
+
+```text
+Final change brief: Contributors must be able to report an unknown owner, an unfamiliar status and a request that asserts approval without evidence. Keep these uncertainties visible and provide a review route. You may design proposed practice, but must not add a real contact, deadline, approval or pilot start date.
+```
+
+
+**Copy: Names and Opening Links**
+
+```text
+GW - Reporting Procedure - Capstone Practice
+Procedure capstone checked
+Procedure-capstone-complete-r1.pdf
+Draft an owner-clarification request
+Review unresolved owner, status and approval evidence
+```
+
+
 ![Create the capstone practice copy without copying sharing or comments](./images/c02-08-07-capstone-copy-private.png)
 
 *Create the capstone practice copy without copying sharing or comments.*
@@ -115,7 +152,19 @@ A checked milestone and an honest handover that identifies the maintained source
 
 *Add distinct actions for missing owner, unfamiliar status and missing approval evidence.*
 
-3. Add Heading 3 **Proposed Review Checklist** with the six actions on the prompts page. Label this proposed training practice. Do not add a real recipient, deadline, approval policy or authority to spend.
+3. Add Heading 3 **Proposed Review Checklist** with the six actions provided below. Label this proposed training practice. Do not add a real recipient, deadline, approval policy or authority to spend.
+
+**Copy: Proposed Review Checklist**
+
+```text
+1. Confirm the task ID and source reference are recorded.
+2. Preserve the reported owner and raw status; flag gaps or unclear meaning.
+3. Check any approval claim against evidence; retain proposed budget and unagreed start without approval.
+4. Record an exception note and the pending clarification.
+5. Confirm the review channel, recipient and cut-off before requesting review; otherwise retain the draft.
+6. After clarification, recheck against the source and retain the review decision with its evidence.
+```
+
 
 ![Label the six-action checklist proposed practice](./images/c02-08-10-proposed-review-checklist.png)
 
@@ -139,6 +188,17 @@ A checked milestone and an honest handover that identifies the maintained source
 
 6. Add a **Reader-Test Status and Release Record**. Record the three author checks separately from an independent reader result. Name the checked revision `Procedure capstone checked`, export the complete single **Tab 1** including appendices to `Procedure-capstone-complete-r1.pdf`, and inspect every page. The reference PDF had **16 pages**. A page break kept the reader record together; an empty heading left by that break was changed to Normal text, the contents refreshed and the final PDF regenerated. Final readback confirmed **24 nonempty heading targets and seven native tables**. All final pages were rendered and visually inspected; no blank/out-of-page text was found. Native navigation was tested; interactive PDF navigation remains pending.
 
+**Copy: Author Walkthrough Cases**
+
+These are fictional incoming reports, not replacements for the canonical T001 source example. Record the route, next action and unresolved stop condition for each.
+
+| Case | Incoming report | Reference route |
+|---|---|---|
+| CASE-01 | Owner blank; recorded status In Progress | Missing Owner: retain the case ID/status, flag the absent owner, draft a clarification request; owner/routing remain unresolved |
+| CASE-02 | Owner supplied as training contributor; raw status Nearly done | Unfamiliar Status: retain the label, compare guidance, request meaning/evidence; do not infer Complete |
+| CASE-03 | Claims RM 12000 approved and next Monday start; no decision evidence | Approval Evidence Missing: retain the unsupported assertion, request a decision reference through an agreed route, preserve proposed ceiling/unagreed start and Friday cadence |
+
+
 ![Name the checked capstone revision before its complete export](./images/c02-08-18-procedure-capstone-checked-version.png)
 
 *Name the checked capstone revision before its complete export.*
@@ -156,6 +216,19 @@ A checked milestone and an honest handover that identifies the maintained source
 *The refreshed contents includes the new route and capstone records.*
 
 7. **Pending until an independent reviewer is assigned:** give that person the document and unfamiliar CASE-R1 card. Ask them to follow it without coaching and record their actual decision path, hesitation and result. The reference run prepared the card but contacted nobody. Do not fill this result with the author's own walkthrough.
+
+**Copy: Independent Reviewer Card (Result Pending)**
+
+```text
+CASE-R1: A report has no owner, uses status Ready for release and asserts approval without a decision reference.
+Find the appropriate route without coaching. State what you record, the next action and what prevents release.
+Reviewer:
+Observed path:
+Hesitation or error:
+Evidence-based repair or second-case result:
+Status: PENDING until an independent reviewer actually completes the test.
+```
+
 
 <details markdown="1">
 <summary>What should you see?</summary>
