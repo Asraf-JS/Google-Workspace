@@ -170,25 +170,31 @@ Navigation Practice	Duplicate for navigation experiments; J1 is Practice only.
 
 Now you look up four cells and write down which task each one belongs to. This is the habit that stops mistakes later: you name a record by its TaskID, not by its row.
 
-1. On **Tasks**, use the name box to go to **A2**, then **D5**, then **F8**, then **H13**. Each time, read the value in the formula bar and the TaskID in column A of the same row.
+1. Click the **Tasks** tab. Click the name box (top left, above column **A**), type `A2` and press **Enter**. Cell A2 is selected. Read its value in the formula bar: **T001**. In column A it's also the TaskID.
 
 ![A2 selected, showing T001](./images/c04-01-12-source-address-a2.png)
 
-*A2 is the first TaskID, T001.*
+*The name box shows A2, and the formula bar shows T001.*
+
+2. Click the name box again, type `D5` and press **Enter**. The formula bar shows **Aina Rahman**. Look left to column A on the same row for the TaskID: **T004**.
 
 ![D5 selected, showing Aina Rahman on the T004 row](./images/c04-01-13-source-address-d5.png)
 
 *D5 is the owner of T004.*
 
+3. Do the same for `F8`. Note the value and the TaskID on that row.
+
 ![F8 selected, showing Complete on the T007 row](./images/c04-01-14-source-address-f8.png)
 
 *F8 is the status of T007.*
+
+4. Do the same for `H13`.
 
 ![H13 selected, showing RM 0 on the T012 row](./images/c04-01-15-source-address-h13.png)
 
 *H13 shows RM 0 for T012. A zero cost is still a value, not an empty cell.*
 
-2. Go to **Workbook Guide**. Copy the block below, click **A7** and press **Ctrl+V**. It adds the headings and the four addresses.
+5. Go to **Workbook Guide**. Copy the block below, click **A7** and press **Ctrl+V**. It adds the headings and the four addresses.
 
 ```text
 Address	Column meaning	Visible value	TaskID
@@ -198,7 +204,7 @@ F8	Status
 H13	ActualCost
 ```
 
-3. In **C8:D11**, type the value and the TaskID you found for each address.
+6. In **C8:D11**, type the value and the TaskID you found for each address.
 
 ![Workbook Guide with the four address checks in A7:D11](./images/c04-01-16-four-address-record-checks-in-guide.png)
 
