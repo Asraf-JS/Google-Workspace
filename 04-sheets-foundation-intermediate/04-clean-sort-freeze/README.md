@@ -1,208 +1,359 @@
 # 04 - Clean and Organise Records
 
-In this chapter you will find and replace, trim text, sort whole records and freeze the header row.
+The teams send updates in all sorts of shapes: a team name with stray spaces, a status in lowercase, the same row twice. Aina wants them tidied before they reach the register, without losing what was actually sent, and she's nervous about sorting since someone once sorted one column and scrambled every task's status. In this lab you clean text with TRIM and Find and replace, sort whole records safely, freeze the heading row and name a range. Then you make the classic sorting mistake on purpose, so you'll recognise it.
 
-> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
+**Estimated time:** 50 minutes, planned as 5 explanation, 30 guided build and 15 independent practice. Not yet timed with learners.
 
-**Estimated time:** 50 minutes, planned as 10 explanation and demonstration, 20 guided build and casework, 15 independent practice and 5 verification and repair, with 40 active minutes by design. Not yet timed with learners.
+**Your result:** in `GW - Sheets - Task Register`, a **Dirty Text Practice** tab cleaned with TRIM, a **Sorting Practice** copy of **Tasks** with a frozen header and a named range, and a cleaned, sorted intake on **Cleaning Intake**, with its raw copy kept and a **Sort Safety Test** that shows what a one-column sort breaks.
 
-**Your result:** A cleaned text example, whole-record sort and named cost range.
-
-> **Status:** partial author reference with 22 staged application captures through 4.4. Raw text preservation, TRIM, scoped case repair, whole-record sorts, frozen header, named-range reconciliation and immediate Undo of an unsafe sort verified. The reference used manual raw-value entry; CSV upload/import, independent boundary challenge and learner timing remain unverified.
+> **You'll practise:** importing a CSV, TRIM and LEN, Find and replace within a range, sorting with a header row and two sort keys, freezing rows, named ranges and Undo.
 
 ---
 
 ## What You Will Learn
 
-- Clean text without altering source evidence.
-- Sort whole records.
-- Keep headers visible while scrolling.
+- Clean text with a formula, and keep the original next to it
+- Sort whole records so every field stays with its row
+- Freeze a heading row and name a range
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+> **Download:** [DirtyText.csv](../../shared/sample-files/DirtyText.csv) and save it on your computer. It holds three fictional records with untidy team names.
 
-Use Tasks and download [DirtyText.csv](../../shared/sample-files/DirtyText.csv). Keep cleaning practice separate from the original register.
+Open `GW - Sheets - Task Register` from **GW - Sheets Foundation - Practice**. You change practice tabs only. **Tasks** stays exactly as it is.
 
-## 4.1 Clean a Small Import
+**What you build in this lab:**
 
-1. Click **File > Import**, choose **Upload** and select your downloaded **DirtyText.csv**. Set **Import location** to **Insert new sheet(s)**, leave the separator on **Detect automatically**, untick **Convert text to numbers, dates, and formulas**, then click **Import data**. Rename the new tab **Dirty Text Practice**. It should have the headings **TaskID / Team / Status** in A1:C1. Click B2 and check in the formula bar that the spaces around Planning survived the import. If the upload isn't available, or the spaces were removed, use the manual fallback below.
+**Dirty Text Practice**: raw > TRIM > lengths | **Sorting Practice**: whole-record sort > frozen header > **PlannedCosts** | **Cleaning Intake Raw** > **Cleaning Intake**: clean > fix status > sort > checks | **Sort Safety Test**
 
-> **Reference run:** The captured reference uses a **Dirty Text Practice** tab and manual entry of the supplied values because browser file upload remained unavailable.
+## Topics
 
-**Manual fallback:** add a tab named **Dirty Text Practice** and enter the three records from Part 3 of the [prompts page](./prompts.md) into A1:C4. Check the raw spaces: B2 must contain one leading and one trailing space around Planning, and B4 one trailing space after Site Coordination. The controlled paste stripped those spaces, so they were explicitly restored through the cell editor with a leading apostrophe before the literal text. The apostrophe is an input prefix, not part of the stored team. Do not clean the raw cells themselves.
+**Keep the raw, clean beside it.** You never tidy the cells you were sent. You add a cleaned column next to them with a formula, so anyone can compare what arrived with what you made of it.
 
-![Preserve raw CSV text and its surrounding spaces](./images/c04-04-01-raw-dirty-text.png)
+**Invisible spaces.** `" Planning "` and `"Planning"` look the same, but a sort, a filter or a COUNTIF treats them as different. `=TRIM(B2)` removes spaces at the start and end. `=LEN(B2)` counts characters, so it shows you spaces you can't see.
 
-*Preserve raw CSV text and its surrounding spaces.*
+**A record is a whole row.** T001's owner, costs and status belong together. Sort the whole table and they move together. Sort one column on its own and the values move without their rows, so every task gets someone else's status.
 
-2. Enter **CleanTeam** in D1 and **=TRIM(B2)** in D2. Inspect its formula before filling **D2:D4** with Ctrl+D.
+---
 
-![Inspect the first TRIM formula](./images/c04-04-02-first-trim-formula.png)
+## 4.1 Import the Messy Text
 
-*Inspect the first TRIM formula.*
+1. In `GW - Sheets - Task Register`, click **File**, then **Import**. Click **Upload**, then **Browse**, and choose `DirtyText.csv`.
+2. Set **Import location** to **Insert new sheet(s)**. Leave **Separator type** on **Detect automatically**. Untick **Convert text to numbers, dates, and formulas**. Click **Import data**.
+3. Double-click the new tab's name, type `Dirty Text Practice` and press **Enter**.
+4. Click **B2** and look at the formula bar. There should be a space before and after **Planning**.
 
-3. Put **CleanStatus** in E1 and the canonical values **Complete / In Progress / Not Started** in E2:E4, retaining the original C column. Fit B and D so complete team names are visible. Add optional **Raw length / Clean length** checks in F:G using **=LEN(B2)** and **=LEN(D2)**, filled through row 4. Planning changes from length **10 to 8** and Site Coordination from **18 to 17**; Procurement remains **11**. These checks make otherwise invisible spaces testable.
+![Dirty Text Practice with three records, and B2 showing Planning with spaces in the formula bar](./images/c04-04-01-raw-dirty-text.png)
 
-![Compare cleaned text and raw versus clean lengths](./images/c04-04-03-cleaned-text-length-checks.png)
+*The spaces are hard to see. Click in the formula bar after Planning to check the trailing one.*
 
-*Compare cleaned text and raw versus clean lengths.*
+If the import isn't available in your account, or the spaces are missing, type them back: click **B2**, type an apostrophe, a space, `Planning` and a space (`' Planning `), then press **Enter**. Do the same for **B4** with one space after `Site Coordination` (`'Site Coordination `). The apostrophe tells Sheets to keep the text exactly as typed; it doesn't become part of the value.
 
-## 4.2 Sort Whole Records
+**Check:** **Dirty Text Practice** has **TaskID**, **Team** and **Status** in **A1:C4**, and **B2** has a space on each side of **Planning**.
 
-1. Right-click **Tasks > Duplicate**, then rename the copy **Sorting Practice**. Work on the copy to preserve the original register for later chapters. Select **A1:I13**, including the variance column.
+---
 
-![Select all record columns in an isolated sorting copy](./images/c04-04-04-isolated-sort-range.png)
+## 4.2 Clean It With TRIM
 
-*Select all record columns in an isolated sorting copy.*
+1. Click **D1** and type `CleanTeam`. Click **D2**, type `=TRIM(B2)` and press **Enter**.
 
-2. Open **Data > Sort range > Advanced range sorting options**. Select **Data has header row**. Choose **Team, A to Z**, add another sort column, and explicitly choose **TaskID, A to Z**; the automatic second choice may be a different column. Inspect the full range and both keys before clicking **Sort**.
+![D2 showing Planning from =TRIM(B2)](./images/c04-04-02-first-trim-formula.png)
 
-![Configure Team then TaskID with a header row](./images/c04-04-05-team-taskid-sort-options.png)
+*D2 shows Planning without the spaces. B2 is untouched.*
 
-*Configure Team then TaskID with a header row.*
+2. Click the name box, type `D2:D4`, press **Enter**, then press **Ctrl+D**.
+3. Copy the block below, click **E1** and press **Ctrl+V**. It adds a clean status column and two length headings.
 
-3. Locate **T001** and compare **Aina Rahman**, planned **600**, actual **550**, and **-50 variance** with the source. All twelve record relationships remain intact. This supplied register already follows Team/TaskID order, so this ascending sort legitimately leaves its order unchanged. The intake in 4.4 supplies a visible reorder test.
+```text
+CleanStatus	Raw length	Clean length
+Complete
+In Progress
+Not Started
+```
 
-![Inspect the intact T001 costs, owner and variance](./images/c04-04-06-intact-sorted-record.png)
+4. Click **F2** and type `=LEN(B2)`. Click **G2** and type `=LEN(D2)`. Click the name box, type `F2:G4`, press **Enter**, then press **Ctrl+D**.
 
-*Inspect the intact T001 costs, owner and variance.*
+![Dirty Text Practice with CleanTeam, CleanStatus and the raw and clean lengths in D1:G4](./images/c04-04-03-cleaned-text-length-checks.png)
 
-## 4.3 Freeze and Name a Range
+*Planning drops from 10 characters to 8: two spaces removed. Procurement stays at 11.*
 
-1. On **Sorting Practice**, use **View > Freeze > 1 row**. The copy already inherited a frozen header; retaining or reselecting one row is appropriate. Do not freeze additional rows merely to produce a visible change.
+**Check:** **F2:F4** show **10**, **11**, **18** and **G2:G4** show **8**, **11**, **17**.
 
-![Choose a one-row freeze](./images/c04-04-07-freeze-one-row-menu.png)
+---
 
-*Choose a one-row freeze.*
+## 4.3 Sort Whole Records
 
-2. Scroll down, or navigate to **A35**, and verify row 1 remains visible above the scrolled rows. Return to the record range afterwards.
+You sort a copy of **Tasks**, so the register itself stays in its original order.
 
-![Verify the frozen header after scrolling](./images/c04-04-08-frozen-header-scrolled.png)
+1. Click the arrow on the **Tasks** tab and choose **Duplicate**. Rename **Copy of Tasks** to `Sorting Practice`.
+2. On **Sorting Practice**, click the name box, type `A1:I13` and press **Enter**. That's every column of every record, including **Variance**.
 
-*Verify the frozen header after scrolling.*
+![Sorting Practice with A1:I13 selected](./images/c04-04-04-isolated-sort-range.png)
 
-3. Select **G2:G13** on **Sorting Practice**, use **Data > Named ranges**, enter **PlannedCosts** and save with **Done**. Inspect the bounds: **'Sorting Practice'!G2:G13**, twelve numeric cost cells. This name deliberately refers to the practice copy, not a changed baseline source.
+*Select every column in the table, not just the one you're sorting by.*
 
-![Inspect the exact PlannedCosts bounds](./images/c04-04-09-plannedcosts-exact-bounds.png)
+3. Click **Data**, **Sort range**, then **Advanced range sorting options**.
+4. Tick **Data has header row**. Set **Sort by** to **Team**, **A to Z**.
+5. Click **Add another sort column**. Set **then by** to **TaskID**, **A to Z**. Check the second column really says **TaskID**: Sheets sometimes picks a different one. Click **Sort**.
 
-*Inspect the exact PlannedCosts bounds.*
+![The Sort range box with Data has header row ticked, Team then TaskID, both A to Z](./images/c04-04-05-team-taskid-sort-options.png)
 
-4. In K9:L11 add labels **Named planned total / Explicit planned total / Difference**, with **=SUM(PlannedCosts)**, **=SUM(G2:G13)** and **=L9-L10**. Fit K to show the complete labels and scroll horizontally when needed. Both totals are **RM10,400**; the difference is **RM0**.
+*Team first, then TaskID within each team.*
 
-![Compare named and explicit totals](./images/c04-04-10-named-explicit-totals.png)
+6. Find **T001**. It still has **Aina Rahman**, **RM600**, **RM550** and **-RM50**, the same as on **Tasks**.
 
-*Compare named and explicit totals.*
+![T001 on Sorting Practice with all its fields intact](./images/c04-04-06-intact-sorted-record.png)
 
-## 4.4 Clean an Intake and Prove That Records Stay Together
+*The register was already in this order, so nothing moved. You'll see a sort that does move rows in 4.7.*
 
-1. Create **Cleaning Intake Raw**, type the headers **TaskID / Team / Status** in A1:C1 and enter the five records from the case input (Part 2 of the prompts page) in A2:C6, and preserve the surrounding spaces in C001's team. Inspect the raw cell value, not only its appearance. Duplicate this raw tab and rename the working copy **Cleaning Intake**. Keep the raw tab unchanged.
+**Check:** every row on **Sorting Practice** matches the same TaskID on **Tasks**, field for field.
 
-> **Reference run:** The reference uses two leading and two trailing spaces around Planning.
+---
 
-![Preserve the five-row raw intake](./images/c04-04-11-preserved-intake-raw.png)
+## 4.4 Freeze the Header and Name a Range
 
-*Preserve the five-row raw intake.*
+1. On **Sorting Practice**, click **View**, **Freeze**, **1 row**. The copy may already have row 1 frozen from Excel; choosing it again does no harm.
 
-2. Add **CleanTeam / CleanStatus / Disposition** in D:F. Use **=TRIM(B2)** through D6. Initially copy the status values into E, so C001's cleaned status is still lowercase **complete** before the controlled repair. Compare both C002 records across all three supplied fields: they are identical. Keep both and label their disposition **Identical duplicate; retain both**. Retain **Blocked** on C003 and flag it for clarification; no canonical mapping is supplied. No owner or cost fields are invented for this intake.
+![The View > Freeze menu with 1 row highlighted](./images/c04-04-07-freeze-one-row-menu.png)
 
-![Retain duplicates and flag the ambiguous status](./images/c04-04-12-cleaning-exceptions-before-repair.png)
+*One row is all you need: the headings.*
 
-*Retain duplicates and flag the ambiguous status.*
+2. Click the name box, type `A35` and press **Enter**. The sheet scrolls down, and row 1 stays at the top.
 
-3. Select **E2:E6** and open **Find and replace** with Ctrl+H. Find **complete**, replace with **Complete**, and confirm **Specific range 'Cleaning Intake'!E2:E6**. Enable **Match case** and **Match entire cell contents**; leave regular expressions and formula search off. This is the known case repair supplied by the exercise, rather than an invented spelling error.
+![Sorting Practice scrolled to row 35, with the heading row still visible](./images/c04-04-08-frozen-header-scrolled.png)
 
-![Restrict case repair to cleaned statuses](./images/c04-04-13-replace-cleaned-status-scope.png)
+*The headings stay put while the rows scroll underneath.*
 
-*Restrict case repair to cleaned statuses.*
+3. Click the name box, type `G2:G13` and press **Enter**. Click **Data**, then **Named ranges**. Type `PlannedCosts` and click **Done**. The panel shows **'Sorting Practice'!G2:G13**.
 
-4. Preview with **Find**, then use **Replace all**. Verify **Replaced one instance of complete with Complete**, then **Done**. The raw C2 and raw tab still contain lowercase complete. Update C001's disposition to **Case standardised; raw retained**.
+![The Named ranges panel showing PlannedCosts as Sorting Practice!G2:G13](./images/c04-04-09-plannedcosts-exact-bounds.png)
 
-![Verify exactly one replacement](./images/c04-04-14-one-status-replaced.png)
+*A name for the twelve planned costs. Close the panel when you've checked the range.*
 
-*Verify exactly one replacement.*
+4. Copy the block below, click **K9** and press **Ctrl+V**.
 
-5. Record three TaskID-to-status checks before sorting in A9:D12, using the labels in Part 5 of the prompts page: C001 complete→Complete, both C002 In Progress→In Progress, and C003 Blocked→Blocked with clarification pending. The supplied intake has no owners, so status relationships provide the identity check.
+```text
+Named planned total
+Explicit planned total
+Difference
+```
 
-![Record identity checks before sorting](./images/c04-04-15-before-sort-identity-checks.png)
+5. In **L9**, type `=SUM(PlannedCosts)`. In **L10**, type `=SUM(G2:G13)`. In **L11**, type `=L9-L10`. Double-click the right edge of the column **K** heading so the labels fit.
 
-*Record identity checks before sorting.*
+![K9:L11 showing RM10,400, RM10,400 and RM0](./images/c04-04-10-named-explicit-totals.png)
 
-6. Select **A1:F6**, including raw fields, cleaned fields and dispositions. Open advanced sorting, mark the header row, and sort **CleanTeam A to Z**, then **TaskID A to Z**. Using the cleaned team avoids making whitespace part of the sort key. Keep the check table below row 6 outside the sort.
+*The name and the cell range give the same total.*
 
-![Sort the complete intake by CleanTeam and TaskID](./images/c04-04-16-intake-whole-record-sort.png)
+**Check:** row 1 stays visible when you scroll, and **L9:L11** show **RM10,400**, **RM10,400** and **RM0**.
 
-*Sort the complete intake by CleanTeam and TaskID.*
+---
 
-7. Verify the sorted ID order **C001, C004, C002, C002, C003**. Inspect the copied TRIM formulas: each still points to its own row's raw team. Compare the three identity checks again and record them in A14:D17 (labels in Part 5 of the prompts page). Both identical C002 rows remain; C003's unresolved status remains attached to C003.
+## 4.5 Set Up the Intake
 
-![Inspect identities after the whole-record sort](./images/c04-04-17-sorted-intake-identities.png)
+Five records have come in from the teams, with an untidy team name, a lowercase status, a duplicate and a status that isn't one of the three allowed.
 
-*Inspect identities after the whole-record sort.*
+1. Click **+** (Add sheet). Rename the new tab `Cleaning Intake Raw`.
+2. Copy the block below, click **A1** and press **Ctrl+V**.
 
-8. Reuse **PlannedCosts**, since this intake has no numeric cost column. In A19:B21 (labels in Part 5 of the prompts page) compare **=SUM(PlannedCosts)** with **=SUM('Sorting Practice'!G2:G13)**, then subtract the two results. Both give **RM10,400** and the difference is **RM0**. The exact twelve-cell bounds were inspected in 4.3. This does not test automatic expansion when new rows are added.
+```text
+TaskID	Team	Status
+C001	Planning	complete
+C002	Procurement	In Progress
+C003	Site Coordination	Blocked
+C002	Procurement	In Progress
+C004	Planning	Not Started
+```
 
-![Compare identity checks and named-range reconciliation](./images/c04-04-18-intake-checks-and-cost-reconciliation.png)
+3. C001's team arrived with spaces round it. Click **B2**, type `'  Planning  ` (an apostrophe, two spaces, Planning, two spaces) and press **Enter**.
 
-*Compare identity checks and named-range reconciliation.*
+![Cleaning Intake Raw with five records in A1:C6, and B2 showing spaces round Planning](./images/c04-04-11-preserved-intake-raw.png)
 
-9. Duplicate the cleaned tab as **Sort Safety Test**. Select **only E2:E6** on this disposable copy. Keep the raw and clean intake tabs out of the test.
+*This tab stays exactly as received from now on.*
 
-![Select only one column in a disposable copy](./images/c04-04-19-disposable-single-column-selection.png)
+4. Click the arrow on the **Cleaning Intake Raw** tab and choose **Duplicate**. Rename the copy `Cleaning Intake`. You work on this one.
+5. On **Cleaning Intake**, click **D1** and type `CleanTeam`. In **E1** type `CleanStatus`, and in **F1** type `Disposition`.
+6. Click **D2** and type `=TRIM(B2)`. Click the name box, type `D2:D6`, press **Enter**, then **Ctrl+D**.
+7. Click the name box, type `C2:C6`, press **Enter** and press **Ctrl+C**. Click **E2**, then **Edit**, **Paste special**, **Values only**. The statuses are copied as they arrived, including lowercase **complete**.
+8. Compare the two **C002** rows field by field, and check whether **Blocked** is one of the three allowed statuses (**Complete**, **In Progress**, **Not Started**). Then copy the block below, click **F2** and press **Ctrl+V**.
 
-*Select only one column in a disposable copy.*
+```text
+Case repair pending
+Identical duplicate; retain both
+Clarify: not a canonical status
+Identical duplicate; retain both
+Retain
+```
 
-10. Use **Data > Sort range > Sort range by column E (A to Z)** on that isolated selection. Inspect the broken relationship: C001 now incorrectly has **Blocked**, C004 has **Complete**, and C003 has **Not Started**. The two C002 statuses happen to remain In Progress; checking only those would miss the defect.
+![Cleaning Intake with CleanTeam, CleanStatus and Disposition in D1:F6](./images/c04-04-12-cleaning-exceptions-before-repair.png)
 
-![Observe broken relationships from the isolated-column sort](./images/c04-04-20-broken-single-column-relationships.png)
+*Both C002 rows are kept because they're identical. Blocked is left as it is and flagged: nobody has said what it should become.*
 
-*Observe broken relationships from the isolated-column sort.*
+**Check:** **Cleaning Intake Raw** is unchanged, and **Cleaning Intake** has five rows with **CleanTeam**, **CleanStatus** and **Disposition** filled in.
 
-11. **Undo immediately** with Ctrl+Z, before making any other edit. Compare all six columns and the three ID checks with Cleaning Intake.
+---
 
-> **Reference run:** The reference verified an exact A1:F6 match after Undo.
+## 4.6 Fix One Status With Find and Replace
 
-![Undo the unsafe sort immediately](./images/c04-04-21-immediate-undo-restoration.png)
+1. On **Cleaning Intake**, click the name box, type `E2:E6` and press **Enter**.
+2. Press **Ctrl+H** to open **Find and replace**. In **Find**, type `complete`. In **Replace with**, type `Complete`.
+3. Check **Search** says **Specific range** and **'Cleaning Intake'!E2:E6**. Tick **Match case** and **Match entire cell contents**. Leave the other boxes unticked.
 
-*Undo the unsafe sort immediately.*
+![Find and replace set to complete, Complete, Specific range, Match case and Match entire cell contents](./images/c04-04-13-replace-cleaned-status-scope.png)
 
-12. Record the observed correct / bad-sort / after-Undo statuses in A24:D27, and a one-line final state in A29 (labels in Part 5 of the prompts page). C001 is restored to Complete, both C002 to In Progress, and C003 to Blocked. Keep the restored disposable tab as labelled evidence. The original Tasks values/formulas and raw intake remain unchanged.
+*Limiting it to E2:E6 keeps the raw Status column out of it.*
 
-![Record restored identities and final state](./images/c04-04-22-restored-identity-evidence.png)
+4. Click **Replace all**. The box says **Replaced one instance of complete with Complete**. Click **Done**.
 
-*Record restored identities and final state.*
+![Find and replace reporting one replacement](./images/c04-04-14-one-status-replaced.png)
 
-> **Validation boundary:** the reference verifies the guided and casework operations above. CSV file upload/import, the independent named-range expansion test, an independent cleaner's result and classroom timing remain pending.
+*One replacement: only C001's clean status. C2 still says complete.*
+
+5. Click **F2** and type `Case standardised; raw retained`.
+6. Copy the block below, click **A9** and press **Ctrl+V**. It records each TaskID's status before you sort.
+
+```text
+ID check	Raw status	Clean status	Disposition
+C001	complete	Complete	Case standardised
+C002 (both)	In Progress	In Progress	Both identical copies retained
+C003	Blocked	Blocked	Clarify; no invented mapping
+```
+
+![The before-sort check in A9:D12, below the intake](./images/c04-04-15-before-sort-identity-checks.png)
+
+*Look at each line against the intake above it before you move on.*
+
+**Check:** **E2** shows **Complete**, **C2** still shows **complete**, and **A9:D12** match the intake.
+
+---
+
+## 4.7 Sort the Intake
+
+1. Click the name box, type `A1:F6` and press **Enter**. That's the raw columns, the clean columns and the dispositions, but not the check table below.
+2. Click **Data**, **Sort range**, **Advanced range sorting options**. Tick **Data has header row**.
+3. Set **Sort by** to **CleanTeam**, **A to Z**. Click **Add another sort column** and set it to **TaskID**, **A to Z**. Click **Sort**.
+
+![The Sort range box for A1:F6, with CleanTeam then TaskID](./images/c04-04-16-intake-whole-record-sort.png)
+
+*Sorting by CleanTeam means stray spaces can't affect the order.*
+
+4. The order is now **C001**, **C004**, **C002**, **C002**, **C003**. Check each row still has its own status and disposition.
+
+![Cleaning Intake sorted, with C001, C004, C002, C002, C003 in column A](./images/c04-04-17-sorted-intake-identities.png)
+
+*Every field moved with its row. The TRIM formulas moved too, and each still points at its own row.*
+
+5. Copy the block below, click **A14** and press **Ctrl+V**. Then type the raw and clean status you now see for each TaskID in **B15:C17**.
+
+```text
+ID after sort	Raw status	Clean status	Outcome
+C001			Same ID; case repair only
+C002 (both)			Both identical copies retained
+C003			Unresolved; clarify
+```
+
+6. Copy the block below, click **A19** and press **Ctrl+V**. Then type `=SUM(PlannedCosts)` in **B19**, `=SUM('Sorting Practice'!G2:G13)` in **B20** and `=B19-B20` in **B21**.
+
+```text
+Named total
+Explicit total
+Difference
+```
+
+![The after-sort check in A14:D17 and the totals in A19:B21](./images/c04-04-18-intake-checks-and-cost-reconciliation.png)
+
+*Same statuses as before the sort, and the named range still adds up from another tab.*
+
+**Check:** rows 15 to 17 match rows 10 to 12, and **B21** shows **RM0**.
+
+---
+
+## 4.8 See What a One-Column Sort Breaks
+
+Now make the mistake on purpose, on a copy you can throw away.
+
+1. Click the arrow on the **Cleaning Intake** tab and choose **Duplicate**. Rename the copy `Sort Safety Test`.
+2. On **Sort Safety Test**, click the name box, type `E2:E6` and press **Enter**. Only the clean status column is selected.
+
+![Sort Safety Test with only E2:E6 selected](./images/c04-04-19-disposable-single-column-selection.png)
+
+*This is the mistake: one column selected on its own.*
+
+3. Click **Data**, **Sort range**, **Sort range by column E (A to Z)**.
+
+![E2:E6 sorted on its own: C001 now shows Blocked and C003 shows Not Started](./images/c04-04-20-broken-single-column-relationships.png)
+
+*C001 now says Blocked and C003 says Not Started. The C002 rows look fine by chance, so checking only them would miss it.*
+
+4. Press **Ctrl+Z** straight away, before you do anything else.
+
+![E2:E6 restored after Undo, with C001 Complete and C003 Blocked](./images/c04-04-21-immediate-undo-restoration.png)
+
+*Undo puts every status back on its own row.*
+
+5. Copy the block below, click **A24** and press **Ctrl+V**. Type what you saw in **C25:D27**: the status after the bad sort and after Undo.
+
+```text
+ID check	Correct	Bad sort	After Undo
+C001	Complete
+C002 (both)	In Progress
+C003	Blocked
+```
+
+6. Click **A29** and type `Final state`. In **B29**, type `Disposable test restored; raw intake and original Tasks retained.`
+
+![The bad-sort record in A24:D27 and the final state in row 29](./images/c04-04-22-restored-identity-evidence.png)
+
+*The record shows what broke and that Undo fixed it.*
+
+<details markdown="1">
+<summary>What should you see?</summary>
+
+| ID check | Correct | Bad sort | After Undo |
+|---|---|---|---|
+| C001 | Complete | Blocked | Complete |
+| C002 (both) | In Progress | In Progress | In Progress |
+| C003 | Blocked | Not Started | Blocked |
+
+</details>
+
+---
 
 ## Independent Practice
 
-Close the earlier step lists for the first attempt. Use the case input and your own reasoning. If you need help, record the hint and repeat the affected check independently.
+Try these without looking back at the steps.
 
-1. Produce a clean intake and an exception list independently. Keep unresolved category and conflicting-duplicate decisions visible.
+1. **Does a named range grow?** On **Sorting Practice**, type a new task in row 14 with TaskID `T013` and a planned cost of `200`. Compare **L9** (`=SUM(PlannedCosts)`) with a new `=SUM(G2:G14)`. Explain the difference, then open **Data** > **Named ranges** and extend **PlannedCosts** to **G2:G14**. Finally, put things back: delete row 14, set **PlannedCosts** to **G2:G13** again and check **L11** shows **RM0**.
+2. **List what's still open.** On **Cleaning Intake**, in **H1**, start a short list of the records that still need a decision from the teams, and why.
+3. **Hand it over.** Give a partner your **Cleaning Intake Raw**, **Cleaning Intake** and the check tables. Without your help, they should be able to say what you changed, what you kept, and why both C002 rows are still there.
 
-2. Add one new numeric row only to a named-range practice copy and inspect whether the named range includes it. Repair its bounds and compare the two total methods.
+<details markdown="1">
+<summary>What should you see?</summary>
 
-3. Hand over the raw copy, clean result and three row-identity checks so another person can verify the cleaning without trusting your description.
+With T013 added, `=SUM(PlannedCosts)` still shows **RM10,400**, while `=SUM(G2:G14)` shows **RM10,600**. A named range doesn't grow by itself when you add a row below it. After you extend it to **G2:G14**, both show **RM10,600**. Your open list should include **C003**: **Blocked** isn't one of the three statuses.
+
+</details>
 
 ### Evidence to Hand Over
 
-- Preserved raw intake, justified clean values and explicit exceptions.
-- Whole-record sorting evidence and a restored isolated-column demonstration.
-- Named-range boundary test and independently reconciled total.
-
-Record the defect or uncertainty you investigated, the evidence used, the repair or reasoned no-change decision, and the final state. Restore temporary changes or keep them in a clearly named scenario copy.
+- **Dirty Text Practice** with the raw text, TRIM results and length checks
+- **Sorting Practice** sorted by Team and TaskID, with a frozen header and **PlannedCosts** reconciling at **RM0**
+- **Cleaning Intake Raw** unchanged, and **Cleaning Intake** cleaned and sorted with the before and after checks
+- **Sort Safety Test** with the bad-sort record and its final state
+- Your open list and the result of the named-range test
 
 ## Troubleshooting
 
-| Symptom | What to check |
+| Problem | What to try |
 |---|---|
-| A clean-looking row is associated with the wrong task | Compare complete TaskID relationships before and after the sort, not only totals. |
-| An input or earlier result is missing | Reopen the input named in Before You Begin; do not substitute private company data |
-| A menu or feature is unavailable | Confirm the account and the shared access notes; record the missing step and ask the trainer for its fallback |
-| The result differs from the checkpoint | Compare the exact source range, wording and conditions before repeating the action |
+| The spaces round **Planning** disappeared | Type the value again with an apostrophe in front, such as `' Planning `. |
+| The sort mixed up the heading row | Undo, then tick **Data has header row** before sorting. |
+| Only one column moved | Undo straight away with **Ctrl+Z**, then select the whole table and sort again. |
+| **Replace all** changed more than one cell | Undo. Select **E2:E6** first, and check **Search** says **Specific range**. |
+| The second sort column isn't TaskID | Open its list and choose **TaskID**: Sheets picks the next column by default. |
+| The named range total is wrong | **Data** > **Named ranges**: check the sheet name and both ends of the range. |
 
 ## Lesson Summary
 
-Cleaning, whole-record sorts and visible headers make the data safer to analyse.
+You cleaned text with TRIM while keeping what was sent, fixed one status with a narrowly aimed Find and replace, sorted whole records by two keys, froze the headings and named a range. You also saw a one-column sort scramble the statuses, and Undo put them back. In Lab 05 you stop bad data getting in at all, with entry rules.
 
-**Check yourself:** What must stay together when sorting a register?
+**Check yourself:** what must stay together when you sort a register?
