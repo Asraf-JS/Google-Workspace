@@ -141,6 +141,11 @@ You'll try things out on a copy of **Tasks**, so the twelve supplied tasks stay 
 The Workbook Guide tells the next person what each tab is for, so they don't have to guess.
 
 1. With **Tasks** open, click **+** (Add sheet) at the bottom left. A new tab appears next to **Tasks**.
+
+![The + (Add sheet) button at the bottom left, beside the tab list](./images/c04-01-10a-add-sheet-button.png)
+
+*The + is at the far left of the tab bar.*
+
 2. Double-click the new tab's name, type `Workbook Guide` and press **Enter**.
 3. Copy the block below, click **A1** on **Workbook Guide** and press **Ctrl+V**. The text fills two columns, **A** and **B**.
 
