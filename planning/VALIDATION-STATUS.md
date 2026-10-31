@@ -1,5 +1,9 @@
 # Validation Status
 
+## Sheets Foundation Lab 05 rewritten to the write-lab-chapter pattern, 31 October 2026
+
+Lab 05 was rewritten on top of the 34 captures from pull request #76, keeping their order: the 20-step casework section became six short sections (status tests, whole-week rule, week tests, entry guide, filter and SUM, reopening views), every typed value is inline and the boxes are plain. Reference-run notes and the validation-boundary callout were removed from the participant page. Learners record their own observations in Rule Tests; expected values are in What should you see boxes. The independent Procurement view (T005, T006, T008) and the E5 coverage-gap test have concrete steps and expected results derived from the starter data and the rule definition, not captured. Not run by learners, timed in class or independently reviewed.
+
 ## Sheets Foundation Lab 04 rewritten to the write-lab-chapter pattern, 31 October 2026
 
 Lab 04 was rewritten on top of the 22 captures from pull request #76, keeping their order, in eight short sections with every typed value inline and plain boxes. Reference-run notes and the validation-boundary callout were removed from the participant page. They remain true: the capture run entered DirtyText.csv by hand because browser upload was unavailable, and a controlled paste stripped surrounding spaces, so the raw values were restored with a leading apostrophe. The lab now leads with File > Import (unverified) and gives the apostrophe route as the fallback; the intake paste block is followed by an apostrophe step for C001's spaces. The independent named-range growth test now has concrete steps and a derived expected result (RM10,400 against RM10,600), not a captured one, and ends by restoring PlannedCosts to G2:G13 because Lab 08 expects that. Not run by learners, timed in class or independently reviewed.
