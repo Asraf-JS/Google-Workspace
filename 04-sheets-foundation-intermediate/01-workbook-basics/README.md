@@ -239,7 +239,20 @@ Typing a few records yourself shows you how a row holds one task, with each fiel
 TaskID	Team	Task	Owner	DueWeek	Status	PlannedCost	ActualCost
 ```
 
-3. Click **A2**. Type the first three tasks from **Tasks** (T001, T002 and T003), all eight fields of each. Press **Tab** to move right and **Enter** at the end of a row to start the next. Type costs as plain numbers, such as `600`.
+These are the three records you type. They're the first three rows of **Tasks**, repeated here so you can type straight from these notes:
+
+<div data-no-copy></div>
+
+| TaskID | Team | Task | Owner | DueWeek | Status | PlannedCost | ActualCost |
+|---|---|---|---|---|---|---|---|
+| T001 | Planning | Confirm reporting fields | Aina Rahman | 1 | Complete | 600 | 550 |
+| T002 | Planning | Draft status definitions | Bala Kumar | 1 | In Progress | 800 | 700 |
+| T003 | Planning | Review pilot brief | Siti Aminah | 1 | Not Started | 500 | 0 |
+
+3. Click **A2** and type the three records, all eight fields of each. Press **Tab** to move right and **Enter** at the end of a row: Sheets jumps back to column **A** on the next row. Type costs as plain numbers, such as `600`. When you start typing a word that's already higher up in the same column, such as `Planning`, Sheets suggests it: press **Enter** to accept.
+
+> **Tip:** to see **Tasks** and **Entry Practice** at the same time, open the workbook twice. Copy its address from the browser's address bar, press **Ctrl+N** for a new window and paste the address. Show a different tab in each window, then press **Windows key+Left arrow** in one and **Windows key+Right arrow** in the other. On a Mac, hover over the green button at the top left and choose **Tile Window to Left of Screen**. Both windows are the same file, so a change in one shows in the other.
+
 4. Drag the right edge of the column **C** heading until each task name fits.
 
 ![Entry Practice with the headings and three typed records in A1:H4](./images/c04-01-17-three-record-entry-practice-reconstruction.png)
