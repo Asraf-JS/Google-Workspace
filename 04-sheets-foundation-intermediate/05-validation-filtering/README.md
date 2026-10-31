@@ -2,13 +2,15 @@
 
 In this chapter you will add a status dropdown, identify invalid entries and create a filter view.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
+> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
-**Target allocation:** 50 minutes: 10 explanation/demonstration, 20 guided build and casework, 15 independent challenge, 5 verification and repair. The active portion is 40 minutes by design. These are unmeasured targets awaiting a learner pilot.
+**Estimated time:** 50 minutes, planned as 10 explanation and demonstration, 20 guided build and casework, 15 independent practice and 5 verification and repair, with 40 active minutes by design. Not yet timed with learners.
 
 **Your result:** A status dropdown and two named filter views.
 
-> **Status:** expanded review draft, revision 0.4. Complete the casework and independent challenge as well as the guided steps. The expanded route, screenshots and timing have not yet been validated in the learner application.
+> **Status:** author reference with 34 staged application captures through 5.4. Strict status validation, actual rejection tests, whole-week boundaries/fractions, clearing limitations, two saved views, visible TaskID checks, ordinary SUM under filtering and restoration verified. Independent coverage/range repair and learner timing remain pending.
+
+---
 
 ## What You Will Learn
 
@@ -24,75 +26,225 @@ Use the original Tasks table, with all 12 baseline records still present.
 
 ## 5.1 Add a Status Dropdown
 
-1. Select F2:F13. Open Data, Data validation and add a dropdown rule.
-2. Use Complete, In Progress and Not Started as the three values. Set the rule to reject invalid data where that option is available.
-3. Inspect one existing cell and confirm that its current status is retained.
+1. On **Tasks**, select **F2:F13** and open **Data > Data validation > Add rule**. Confirm **Apply to range Tasks!F2:F13**. In the current interface the default Drop-down criterion populated its choices from the selected cells; inspect rather than assuming those inferred choices are correct. Use exactly **Complete / In Progress / Not Started**.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![Inspect status rule coverage and canonical options](./images/c04-05-01-status-range-and-options.png)
 
-The original values remain valid and future entries use the same vocabulary.
+*Inspect status rule coverage and canonical options.*
 
-</details>
+2. Open **Advanced options**, confirm **Reject the input**, and keep **Allow multiple selections** off. Click **Done**, then close the sidebar.
 
-<!-- VERIFY: execute 5.1 in the target account and reconcile control names. Capture images/c04-05-01.jpg only from the real app. -->
+> **Reference run:** The reference uses the Chip display.
+
+![Verify Reject the input and single selection](./images/c04-05-02-reject-invalid-input.png)
+
+*Verify Reject the input and single selection.*
+
+3. Inspect **F3** and open its dropdown. Its existing **In Progress** value remains unchanged, and the three canonical choices are available. Adding a rule must not rewrite the twelve source statuses.
+
+![Inspect an unchanged existing status dropdown](./images/c04-05-03-existing-status-dropdown.png)
+
+*Inspect an unchanged existing status dropdown.*
 
 ## 5.2 Create a Filter View
 
-1. Select A1:I13 and open the filter-view option under Data. Create a new filter view.
-2. Name it `Incomplete tasks` and use the Status filter to exclude Complete.
-3. Count visible task IDs, then close the filter view and confirm that all 12 return.
+1. Select **A1:I13**, including the header and variance. Use **Data > Create filter view**, or the toolbar's **Filter views > Create filter view**. This interface initially creates **Temporary filter 1**; inspect its range before saving.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![Inspect the temporary filter range](./images/c04-05-04-temporary-filter-range.png)
 
-Eight tasks are visible in the incomplete view. Closing it restores the full dataset.
+*Inspect the temporary filter range.*
 
-</details>
+2. Click **Save view**, enter **Incomplete tasks** in **Name this view?**, then **Save**. This save-and-name step replaces the older guide's assumption that a new view is named immediately.
 
-<!-- VERIFY: execute 5.2 in the target account and reconcile control names. Capture images/c04-05-02.jpg only from the real app. -->
+![Name the saved incomplete view](./images/c04-05-05-name-incomplete-view.png)
+
+*Name the saved incomplete view.*
+
+3. Open the Status header filter, uncheck **Complete**, and click **OK**. Leave **In Progress** and **Not Started** selected.
+
+![Exclude Complete from the Status filter](./images/c04-05-06-exclude-complete-filter.png)
+
+*Exclude Complete from the Status filter.*
+
+4. Count the visible IDs: **T002, T003, T005, T006, T008, T009, T011, T012**. The lower-right indicator reports **8 of 12 rows displayed**. Compare these with the original source statuses.
+
+![Verify eight incomplete task IDs](./images/c04-05-07-eight-incomplete-records.png)
+
+*Verify eight incomplete task IDs.*
+
+5. Use **Exit** at the right of the green filter-view bar. All twelve records return. Closing the view does not delete its saved definition or any hidden records.
+
+![Restore all twelve rows after closing the view](./images/c04-05-08-all-twelve-after-closing.png)
+
+*Restore all twelve rows after closing the view.*
 
 ## 5.3 Test a Rule Safely
 
-1. Copy the validation rule to a spare test cell outside the register and try `Done`.
-2. Check whether the rule rejects it or shows a warning, and discuss the difference.
-3. Clear the spare test cell. Open your named filter view again to confirm it remains available.
+1. Select **F2**, copy it, and select the unused **N2** outside the source register. Use **Edit > Paste special > Data validation only**. This transfers the rule without copying a source status value. Keep the copied clipboard intact while selecting the destination; pasting a cell address would replace it.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![Copy only data validation to the spare cell](./images/c04-05-09-paste-validation-only-menu.png)
 
-You know the rule's actual behaviour and have not changed the baseline statuses.
+*Copy only data validation to the spare cell.*
 
-</details>
+2. Edit N2 with **F2** (the edit-cell key), enter **Done**, and commit. This is rejection, not a warning that leaves an invalid value stored.
 
-<!-- VERIFY: execute 5.3 in the target account and reconcile control names. Capture images/c04-05-03.jpg only from the real app. -->
+> **Reference run:** The reference shows **There was a problem** and identifies the allowed values **Complete, In Progress, Not Started**.
+
+![Observe Done rejected in N2](./images/c04-05-10-done-rejected-in-spare-cell.png)
+
+*Observe Done rejected in N2.*
+
+3. Dismiss the message, exit editing if necessary, and clear N2. Its value is empty; its copied validation remains available for safe demonstrations. No baseline status was changed.
+
+![Clear the spare test cell](./images/c04-05-11-spare-test-cleared.png)
+
+*Clear the spare test cell.*
+
+4. Open the toolbar's **Filter views** menu and choose **Incomplete tasks**. It still shows the same eight task IDs. Exit the view before continuing.
+
+![Reopen the saved incomplete view](./images/c04-05-12-reopened-incomplete-view.png)
+
+*Reopen the saved incomplete view.*
 
 ## 5.4 Design and Verify Entry Rules and Focused Views
 
-1. Create a **Rule Tests** tab with test value, expected accept/reject, observed result and repair columns. Plan tests before changing the rules.
+1. Add a sheet named **Rule Tests** and paste the status test plan from Part 4 of the [prompts page](./prompts.md) into A1: headers **Status test / Validated input / Expected / Observed / Repair / next action**, with **Complete, In Progress, Not Started, Done and Blank** in rows 2–6. Predict acceptance for the canonical statuses and rejection for Done; leave observed results pending. Treat clearing as an actual test, not an assumed required-field guarantee.
 
-2. Test the three canonical statuses and invalid **Done** using spare validated cells. Record rejection versus warning behaviour.
+![Plan status tests before running them](./images/c04-05-13-status-test-plan.png)
 
-3. On an Entry Practice copy add DueWeek validation for whole practice weeks 1 through 4. Inspect the available custom-formula or number rule and test 0, 1, 4, 5 and 1.5.
+*Plan status tests before running them.*
 
-4. Decide how blanks should be handled for a partially entered record. Test actual behaviour and document it; do not claim validation guarantees every required field is filled.
+2. Copy validation from Tasks F2 to **Rule Tests B2:B6** using **Paste special > Data validation only**. Enter test values through cell-edit mode, preserving the rule. The three canonical statuses are accepted in B2:B4.
 
-5. Create a second named filter view for Planning tasks not Complete. Count visible TaskIDs and compare them with a manual source scan.
+![Verify all three canonical statuses accepted](./images/c04-05-14-three-canonical-statuses-accepted.png)
 
-6. Open and close each named view, confirming that all source rows return. Compare an ordinary SUM before and during filtering and record whether hidden rows still contribute.
+*Verify all three canonical statuses accepted.*
 
-7. Write a short entry guide explaining canonical statuses, relative weeks, the invalid-input message and what to do with an unclear category.
+3. Attempt **Done** in B5. It is rejected with the same allowed-value message. Dismiss the message; B5 stays empty. Record **Rejected** separately from the attempted value.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![Reject Done in the planned matrix](./images/c04-05-15-invalid-status-matrix-rejection.png)
 
-Expected-versus-observed rule matrix including week boundaries and blanks. The result must be supported by the recorded checks; an attractive output or an AI assurance is insufficient.
+*Reject Done in the planned matrix.*
 
-</details>
+4. Enter a valid status in B6, then clear it with Backspace. Clearing is allowed. Record that observation and keep B6 empty. The tested rule limits nonempty status entries but does not prove that every required field is complete.
 
-<!-- VERIFY: execute expanded section 5.4 and independent challenge; capture images/c04-05-04.jpg only after real application success. -->
+![Record that status clearing is allowed](./images/c04-05-16-status-matrix-blank-limitation.png)
 
-## Independent Challenge
+*Record that status clearing is allowed.*
+
+5. On **Rule Tests**, paste the week test plan from Part 4 of the prompts page into **A9**: **0 reject / 1 accept / 4 accept / 5 reject / 1.5 reject / blank clearing to test**. Then right-click the **Entry Practice** tab, choose **Duplicate** and rename the copy **Entry Rule Practice**. The test target is **E4** on that copy; the original three copied records remain unchanged.
+
+![Plan week boundaries and fraction tests](./images/c04-05-17-week-boundary-test-plan.png)
+
+*Plan week boundaries and fraction tests.*
+
+6. On **Entry Rule Practice**, select **E2:E4** only, open **Data validation > Add rule**, choose **Custom formula is**, and enter:
+
+```text
+=AND(ISNUMBER(E2),E2=INT(E2),E2>=1,E2<=4)
+```
+
+Use the top-left cell E2 as the relative reference. This checks numeric type, a whole number and both bounds; a simple between rule alone would not express the whole-week requirement. Explicitly choose **Reject the input**: the custom criterion initially offered **Show a warning** in this session. Enable help text **Enter a whole practice week from 1 to 4. This is not a calendar date.**, then save and close the sidebar. E2:E4 covers the three-record practice table, not the notes and type tests farther down that tab.
+
+![Configure the strict whole-week custom formula](./images/c04-05-18-whole-week-custom-rule.png)
+
+*Configure the strict whole-week custom formula.*
+
+7. Reuse E4 for each planned test. Enter edit mode, select its previous content, type the candidate and commit. **0** is rejected with the configured help text. Dismiss the message before the next test.
+
+![Reject week zero](./images/c04-05-19-week-zero-rejected.png)
+
+*Reject week zero.*
+
+8. Test **1**, then **4**; both are accepted. Inspect the formula bar after committing each input. The captured upper-bound stage shows E4 holding numeric **4**.
+
+![Accept the upper boundary of four](./images/c04-05-20-week-four-accepted.png)
+
+*Accept the upper boundary of four.*
+
+9. Test **5** and **1.5** separately. Both are rejected. A fractional value must not be accepted merely because it lies between the bounds.
+
+![Reject week five](./images/c04-05-21-week-five-rejected.png)
+
+*Reject week five.*
+
+![Reject a fractional week](./images/c04-05-22-fractional-week-rejected.png)
+
+*Reject a fractional week.*
+
+10. Clear the previously valid week and observe that deletion is allowed. This clearing test does not establish acceptance of every possible blank-input mechanism. Required-field completeness still needs an explicit review.
+
+![Observe that clearing a week is allowed](./images/c04-05-23-week-clearing-allowed.png)
+
+*Observe that clearing a week is allowed.*
+
+11. Restore E4 to its original numeric **1**. Keep the other practice-record values unchanged.
+
+![Restore the original practice week](./images/c04-05-24-original-practice-week-restored.png)
+
+*Restore the original practice week.*
+
+12. Record all observed results in Rule Tests. Add an entry guide in A18:B24 (row labels in Part 4 of the prompts page) covering the canonical statuses, whole relative weeks, actual rejection messages, clearing limitation, unclear-category escalation and precise rule ranges. Fit the columns so labels and instructions are readable. Do not invent a mapping for an unclear category.
+
+![Review the completed rule matrix and entry guide](./images/c04-05-25-completed-rule-matrix-guide.png)
+
+*Review the completed rule matrix and entry guide.*
+
+13. On **Tasks**, enter **SUM costs** in I15 and **=SUM(G2:G13)** in J15. This labelled check sits outside the bounded A1:I13 filter range and stays visible while rows are hidden. Before filtering its result is **RM10,400**.
+
+![Record the ordinary SUM before filtering](./images/c04-05-26-unfiltered-ordinary-sum.png)
+
+*Record the ordinary SUM before filtering.*
+
+14. Create a second filter view over **A1:I13**, save it as **Planning incomplete tasks**, and exclude Complete in Status as before.
+
+![Name the Planning-focused view](./images/c04-05-27-name-planning-focused-view.png)
+
+*Name the Planning-focused view.*
+
+15. In the Team header filter leave only **Planning** selected. Both Team and Status criteria must apply to the same view.
+
+![Keep only Planning in the Team filter](./images/c04-05-28-planning-team-filter.png)
+
+*Keep only Planning in the Team filter.*
+
+16. Verify **T002 and T003**, and the lower-right **2 of 12 rows displayed** indicator. A manual source scan confirms these are the two Planning records not Complete. J15 still shows **RM10,400** because an ordinary SUM includes values in hidden rows; it is not the total of only the two visible records.
+
+![Verify two Planning tasks with an unchanged SUM](./images/c04-05-29-two-planning-tasks-sum-unchanged.png)
+
+*Verify two Planning tasks with an unchanged SUM.*
+
+17. Exit the view and inspect the **Filter views** menu. Both saved names remain available.
+
+![Inspect both saved view names](./images/c04-05-30-two-saved-filter-views.png)
+
+*Inspect both saved view names.*
+
+18. Reopen **Incomplete tasks** and verify eight IDs with J15 still **RM10,400**. Exit it, reopen **Planning incomplete tasks**, and verify the same two IDs. Do not use the mere presence of a view name as proof that its criteria persisted.
+
+![Reopen eight incomplete tasks with unchanged SUM](./images/c04-05-31-reopened-incomplete-sum-unchanged.png)
+
+*Reopen eight incomplete tasks with unchanged SUM.*
+
+![Reopen the Planning view and confirm two tasks](./images/c04-05-32-reopened-planning-two-records.png)
+
+*Reopen the Planning view and confirm two tasks.*
+
+19. Exit the view and leave all twelve source records visible. The source A1:L13 values and formulas remain unchanged; the validation rules and separate J15 control are additions.
+
+![Restore all source rows after closing both views](./images/c04-05-33-all-source-rows-restored.png)
+
+*Restore all source rows after closing both views.*
+
+20. Record the two views' ranges, visible counts, observed IDs and ordinary SUM in **Rule Tests A27:E31**, using the labels in Part 4 of the prompts page. All source rows return after closing the views. Inspect rule coverage separately from view coverage: an input outside a bounded rule may escape validation, and hiding a row does not remove it from an ordinary SUM.
+
+![Review the final rule and view evidence](./images/c04-05-34-final-rule-and-view-evidence.png)
+
+*Review the final rule and view evidence.*
+
+> **Validation boundary:** these are author UI reference checks. The independent Procurement view, new-row coverage/range repair challenge, independent entry test and learner timing pilot remain pending. Earlier CSV-import and values-only-format limitations remain separate.
+
+## Independent Practice
 
 Close the earlier step lists for the first attempt. Use the case input and your own reasoning. If you need help, record the hint and repeat the affected check independently.
 
@@ -102,7 +254,7 @@ Close the earlier step lists for the first attempt. Use the case input and your 
 
 3. Check whether each new practice row lies inside the rule and view ranges. Repair a missing bound on the practice copy and retest.
 
-## Evidence to Hand Over
+### Evidence to Hand Over
 
 - Expected-versus-observed rule matrix including week boundaries and blanks.
 - Two useful named views with independently checked visible records.
