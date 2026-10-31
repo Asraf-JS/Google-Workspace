@@ -103,6 +103,11 @@ The **name box** is the small box at the far left of the formula bar. It shows w
 You'll try things out on a copy of **Tasks**, so the twelve supplied tasks stay exactly as they arrived.
 
 1. Click the small arrow on the **Tasks** tab and choose **Duplicate**. A tab called **Copy of Tasks** appears.
+
+![The Tasks tab menu open from its small arrow, with Duplicate highlighted](./images/c04-01-08a-tasks-tab-menu-duplicate.png)
+
+*The small arrow is on the Tasks tab itself, at the bottom of the screen.*
+
 2. Click the arrow on **Copy of Tasks**, choose **Rename**, type `Navigation Practice` and press **Enter**.
 
 ![The new Navigation Practice tab next to Tasks](./images/c04-01-08-named-navigation-practice-duplicate.png)
@@ -110,7 +115,12 @@ You'll try things out on a copy of **Tasks**, so the twelve supplied tasks stay 
 *The copy has every task and the same formatting as Tasks.*
 
 3. On **Navigation Practice**, click **J1**, type `Practice only` and press **Enter**.
-4. Drag the right edge of the column **J** heading to make the column wider.
+4. Point at the right edge of the column **J** heading, where it meets **K**. When the double bar appears, drag it to the right to make the column wider.
+
+![The double bar on the edge between the J and K headings, with an arrow showing the drag to the right](./images/c04-01-09a-column-j-drag-edge.png)
+
+*Drag the double bar to the right. Yours says Practice only, with a small o.*
+
 
 ![Practice only typed in J1 of Navigation Practice, with column J widened](./images/c04-01-09-practice-only-label-and-resized-column.png)
 
@@ -131,6 +141,11 @@ You'll try things out on a copy of **Tasks**, so the twelve supplied tasks stay 
 The Workbook Guide tells the next person what each tab is for, so they don't have to guess.
 
 1. With **Tasks** open, click **+** (Add sheet) at the bottom left. A new tab appears next to **Tasks**.
+
+![The + (Add sheet) button at the bottom left, beside the tab list](./images/c04-01-10a-add-sheet-button.png)
+
+*The + is at the far left of the tab bar.*
+
 2. Double-click the new tab's name, type `Workbook Guide` and press **Enter**.
 3. Copy the block below, click **A1** on **Workbook Guide** and press **Ctrl+V**. The text fills two columns, **A** and **B**.
 
@@ -155,25 +170,33 @@ Navigation Practice	Duplicate for navigation experiments; J1 is Practice only.
 
 Now you look up four cells and write down which task each one belongs to. This is the habit that stops mistakes later: you name a record by its TaskID, not by its row.
 
-1. On **Tasks**, use the name box to go to **A2**, then **D5**, then **F8**, then **H13**. Each time, read the value in the formula bar and the TaskID in column A of the same row.
+1. Click the **Tasks** tab. Click the name box (top left, above column **A**), type `A2` and press **Enter**. Cell A2 is selected. Read its value in the formula bar: **T001**. In column A it's also the TaskID.
 
 ![A2 selected, showing T001](./images/c04-01-12-source-address-a2.png)
 
-*A2 is the first TaskID, T001.*
+*The name box shows A2, and the formula bar shows T001.*
+
+2. Click the name box again, type `D5` and press **Enter**. The formula bar shows **Aina Rahman**. Look left to column A on the same row for the TaskID: **T004**.
 
 ![D5 selected, showing Aina Rahman on the T004 row](./images/c04-01-13-source-address-d5.png)
 
 *D5 is the owner of T004.*
 
+3. Do the same for `F8`. Note the value and the TaskID on that row.
+
 ![F8 selected, showing Complete on the T007 row](./images/c04-01-14-source-address-f8.png)
 
 *F8 is the status of T007.*
+
+4. Do the same for `H13`.
 
 ![H13 selected, showing RM 0 on the T012 row](./images/c04-01-15-source-address-h13.png)
 
 *H13 shows RM 0 for T012. A zero cost is still a value, not an empty cell.*
 
-2. Go to **Workbook Guide**. Copy the block below, click **A7** and press **Ctrl+V**. It adds the headings and the four addresses.
+> **Tip:** press **Ctrl+Shift+Page Down** to move to the next tab and **Ctrl+Shift+Page Up** to go back (on a Mac, **Option+Down arrow** and **Option+Up arrow**).
+
+5. Go to **Workbook Guide**. Copy the block below, click **A7** and press **Ctrl+V**. It adds the headings and the four addresses.
 
 ```text
 Address	Column meaning	Visible value	TaskID
@@ -183,7 +206,7 @@ F8	Status
 H13	ActualCost
 ```
 
-3. In **C8:D11**, type the value and the TaskID you found for each address.
+6. In **C8:D11**, type the value and the TaskID you found for each address.
 
 ![Workbook Guide with the four address checks in A7:D11](./images/c04-01-16-four-address-record-checks-in-guide.png)
 
