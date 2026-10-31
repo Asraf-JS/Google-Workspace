@@ -1,5 +1,9 @@
 # Validation Status
 
+## Sheets Foundation Lab 01 rewritten to the write-lab-chapter pattern, 31 October 2026
+
+Lab 01 was rewritten to training-book-kit's `write-lab-chapter` skill: a scenario opener, a workbook map, a Topics section, nine short sections with one check each, and every typed value inline. The Workbook Guide text that the screenshots show is now supplied as paste blocks; learners still look up the four address values themselves. The 26 screenshots are unchanged captures, kept in order, redrawn with plain boxes because the old step numbers no longer match. Reference-run notes were removed from the participant page. They remain true: the instructor uploaded the XLSX manually after the browser extension blocked upload, and the automated upload step, independent challenge and learner timing are unverified. The rewritten route has not been run by learners, timed in class or independently reviewed.
+
 ## Docs Labs 01 and 02 rewritten to the write-lab-chapter pattern, 31 October 2026
 
 Lab 01 (pull request #69) and Lab 02 were rewritten to training-book-kit's `write-lab-chapter` skill: a scenario opener, a document map, a short Topics section, sections of three to six concrete steps with one check each, and judgement tasks with a written result and an expected-result box. Copy blocks, tables and screenshots are unchanged and kept in order. Captions note where a reference screenshot shows earlier wording; those screenshots still need recapture. The Lab 02 reference run (13 stage images, 18 October 2026) remains the evidence for the native route. The rewritten routes have not been run by learners, timed in class or independently reviewed.
