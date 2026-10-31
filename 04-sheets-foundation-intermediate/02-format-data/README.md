@@ -1,223 +1,304 @@
 # 02 - Enter and Format Reliable Data
 
-In this chapter you will use dates, numbers, currency, wrapping and sensible column widths.
+The costs on **Tasks** came across from Excel showing **RM 600**, and the team wants them to stay right as the register grows. Aina has been caught out before: a "cost" that looked fine was really typed text, and the total came out short. In this lab you set proper ringgit and week formats on **Tasks**, make it easy to read, and then prove, on your practice tabs, which values a total really counts.
 
-> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
+**Estimated time:** 45 minutes, planned as 5 explanation, 25 guided build and 15 independent practice. Not yet timed with learners.
 
-**Estimated time:** 45 minutes, planned as 10 explanation and demonstration, 15 guided build and casework, 15 independent practice and 5 verification and repair, with 35 active minutes by design. Not yet timed with learners.
+**Your result:** `GW - Sheets - Task Register` with ringgit costs, whole-number weeks and readable rows on **Tasks**, and on **Entry Practice** a formatted practice table, a **Type Tests** block, a paste comparison and your notes.
 
-**Your result:** A readable register with numeric currency values and sensible dimensions.
-
-> **Status:** partial author reference with 18 staged application captures through 2.4. Currency/week formats, wrapping/row fit, numeric versus text tests, SUM/COUNT and format-only behaviour checked. Values-only target-format preservation did not pass in the controlled session and needs manual verification. Source values remain unchanged; independent challenge and learner timing are pending.
+> **You'll practise:** reading the formula bar, applying currency and number formats, wrapping text, fitting row heights, and using **Paste special** to copy only values or only formatting.
 
 ---
 
 ## What You Will Learn
 
-- Apply formats to typed numbers.
-- Use wrapping and fitted dimensions.
-- Distinguish appearance from the stored value.
+- Tell a cell's value from the way it's displayed
+- Format costs and weeks without changing the numbers
+- Spot text that only looks like a number, and prove it with SUM and COUNT
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Open `GW - Sheets - Task Register` from **GW - Sheets Foundation - Practice**. You need **Navigation Practice** and **Entry Practice** from Lab 01. If you skipped Lab 01, download [TaskRegister.xlsx](../../shared/sample-files/TaskRegister.xlsx) and follow Lab 01 sections 1.1, 1.2, 1.4 and 1.7 first.
 
-Use your original Tasks tab. If needed, reopen a fresh native copy of [TaskRegister.xlsx](../../shared/sample-files/TaskRegister.xlsx).
+**What you change in this lab:**
 
-## 2.1 Inspect Values and Types
+**Tasks**: cost and week formats > wrapped task names and fitted rows | **Navigation Practice**: a date and a text cost | **Entry Practice**: Type Tests > practice table > paste comparison > notes
 
-1. On **Tasks**, select **G2** through the name box. The formula bar shows numeric **600**, while the cell displays its currency. Do not type the RM label into the source number.
+On **Tasks** you only change how values look. The values themselves stay exactly as supplied.
 
-![Inspect numeric 600 in the formula bar](./images/c04-02-01-numeric-cost-in-formula-bar.png)
+## Topics
 
-*Inspect numeric 600 in the formula bar.*
+**What a cell holds and what it shows.** Click a cell and look at the formula bar: that's the value. The cell shows the value through a format. `600` with a ringgit format shows **RM600**, but it's still the number 600, so it adds up. If someone types the letters `RM 600`, the cell holds text. It can look almost the same, but SUM skips it.
 
-2. Select **G2:H13**. Open **More formats > Custom currency**, choose **Malaysian Ringgit**, select **RM1,000** without decimals, and **Apply**. The toolbar currency shortcut follows the workbook locale, so it may offer pounds; select RM explicitly.
+**A quick clue.** Sheets lines numbers up on the right of a cell and text on the left. A cost sitting on the left is worth a second look.
 
-![Select Malaysian ringgit without decimal places](./images/c04-02-02-custom-ringgit-no-decimals-selected.png)
+**Weeks aren't dates.** **DueWeek** is a week number in the pilot (1 to 4), not a calendar date. The pilot start date isn't agreed, so a date you type in this lab is only a practice example.
 
-*Select Malaysian ringgit without decimal places.*
+---
 
-![Apply the RM display to the source cost range](./images/c04-02-03-cost-range-displays-ringgit-numeric-values.png)
+## 2.1 Look Behind the Display
 
-*Apply the RM display to the source cost range.*
+1. Click the **Tasks** tab. Click the name box, type `G2` and press **Enter**.
+2. Look at the cell: it shows **RM 600**. Look at the formula bar: it shows `600`.
 
-3. Select **E2:E13**, use **More formats > Custom number format**, enter **0** and **Apply**. DueWeek remains an index from 1 to 4, not a calendar date.
+![G2 on Tasks selected, with 600 in the formula bar and RM 600 in the cell](./images/c04-02-01-numeric-cost-in-formula-bar.png)
 
-![Keep DueWeek as a whole-number index](./images/c04-02-04-week-index-whole-number-not-date.png)
+*The formula bar shows the value, 600. The cell shows it with a currency format.*
 
-*Keep DueWeek as a whole-number index.*
+**Check:** you can say what **G2** holds (the number 600) and what it shows (**RM 600**).
+
+---
+
+## 2.2 Format the Costs and Weeks
+
+The costs already show RM because of a format brought over from Excel. You replace it with Google's own ringgit format, so every cost you add later looks the same.
+
+1. On **Tasks**, click the name box, type `G2:H13` and press **Enter**. Both cost columns are selected.
+2. On the toolbar, click **123** (More formats), then **Custom currency**.
+3. In the search box, type `RM`. Click **Malaysian Ringgit**.
+4. Open the format list next to the search box and choose **RM1,000** (no decimal places). Click **Apply**.
+
+![The Custom currencies box with RM searched, Malaysian Ringgit chosen and the RM1,000 format selected](./images/c04-02-02-custom-ringgit-no-decimals-selected.png)
+
+*The currency button on the toolbar may show £, because it follows the account's country. Choose RM here instead.*
+
+![Tasks with G2:H13 showing RM600, RM550 and so on](./images/c04-02-03-cost-range-displays-ringgit-numeric-values.png)
+
+*The costs now show RM600, RM1,200 and RM0. The formula bar still shows plain numbers.*
+
+5. Click the name box, type `E2:E13` and press **Enter**.
+6. Click **123** (More formats), then **Custom number format**. Type `0` and click **Apply**. The weeks stay whole numbers, 1 to 4, and can't turn into dates.
+
+![Tasks with E2:E13 selected, showing whole-number weeks 1 to 4](./images/c04-02-04-week-index-whole-number-not-date.png)
+
+*The weeks look the same, but now they're set to stay whole numbers.*
+
+**Check:** **G2:H13** show RM amounts with no decimals, **E2:E13** show 1 to 4, and **G2** still holds `600` in the formula bar.
+
+---
+
+## 2.3 Make Tasks Easy to Read
+
+1. Look at the headings in row 1. They're already bold white text on dark blue, which is easy to read, so leave them as they are. You don't need to change something that already works.
+
+![Row 1 on Tasks, with white headings on a dark blue fill](./images/c04-02-05-retain-readable-header-contrast.png)
+
+*These headings are already readable, so there's nothing to change.*
+
+2. Click the name box, type `C2:C13` and press **Enter**. Click **Format**, then **Wrapping**, then **Wrap**. Long task names now break onto a second line instead of being cut off.
+
+![C2:C13 selected on Tasks with wrapping turned on](./images/c04-02-06-wrapped-task-text-and-readable-owner-widths.png)
+
+*Every task name is complete. The Owner column was already wide enough.*
+
+3. Click row number **2**, hold **Shift** and click row number **13**. Rows 2 to 13 are selected.
+4. Right-click a selected row number and choose **Resize rows 2 - 13**. Click **Fit to data**, then **OK**.
+
+![The Resize rows 2 - 13 box with Fit to data selected](./images/c04-02-07-fit-source-row-heights-to-data.png)
+
+*Fit to data sets each row's height to its content.*
+
+Don't merge cells to make headings look tidier. A merged cell spans two columns, so sorting and filtering can't treat each field separately, and later labs rely on that.
+
+**Check:** every task name on **Tasks** is fully visible, the row heights fit, and no cells are merged.
+
+---
+
+## 2.4 Try a Date and a Text Cost
+
+Now try two things on **Navigation Practice**, where it doesn't matter if something goes wrong.
+
+1. Click the **Navigation Practice** tab. Click **J2**, type `2026-10-24` and press **Enter**. Sheets recognises a date. Click **123** (More formats) and choose **Date**.
+
+![Navigation Practice with 24/10/2026 in J2](./images/c04-02-08-practice-date-outside-source-register.png)
+
+*In this account the date shows as 24/10/2026. Yours may show the day and month the other way round. It's a practice date, not the pilot start.*
+
+2. Click **J4** and type `Numeric cost`. Press **Tab** and type `Text cost`. Press **Enter**.
+3. In **J5**, type `600`. In **K5**, type `RM 600` (the letters R and M, a space, then 600).
+4. Click **J5** and give it the ringgit format from 2.2 (**123**, **Custom currency**, **Malaysian Ringgit**, **RM1,000**, **Apply**).
+5. Click **J5** and look at the formula bar, then click **K5** and look again.
+
+![J5 selected, showing RM600 in the cell and 600 in the formula bar](./images/c04-02-09-numeric-ringgit-practice-formula-bar.png)
+
+*J5 holds the number 600.*
+
+![K5 selected, showing RM 600 in both the cell and the formula bar](./images/c04-02-10-text-cost-practice-formula-bar.png)
+
+*K5 holds the text "RM 600". It sits on the left of its cell, and the formula bar shows the letters.*
+
+**Check:** **J5** holds `600` and **K5** holds `RM 600` as text. They look alike, but only one is a number.
+
+---
+
+## 2.5 Prove Which One Counts
+
+1. Click the **Entry Practice** tab. Copy the block below, click **A7** and press **Ctrl+V**. It fills **A7:B12**.
+
+```text
+Type Tests	Practice only
+Field	Input
+Numeric cost	600
+Text cost	RM 600
+Week index	2
+Practice date	2026-10-24
+```
+
+![The Type Tests block in A7:B12 on Entry Practice](./images/c04-02-11-labelled-type-test-inputs-on-entry-practice.png)
+
+*Look at column B: 600 sits on the right, RM 600 on the left.*
+
+2. Click the name box, type `B9:B10` and press **Enter**. Give both cells the ringgit format from 2.2. **B9** changes to **RM600**. **B10** doesn't change, because it's text.
+3. Click **B12**, then click **123** (More formats) and choose **Date**.
+4. Click **A14** and type `Temporary SUM check`. Press **Enter** and type `Numeric input count` in **A15**.
+5. Click **B14**, type `=SUM(B9:B10)` and press **Enter**. In **B15**, type `=COUNT(B9:B10)` and press **Enter**.
+
+![B14 showing RM600 from =SUM(B9:B10), and B15 showing 1](./images/c04-02-12-sum-count-check-distinguishes-number-and-text.png)
+
+*SUM gives 600, not 1,200, and COUNT finds only one number.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
 
-Costs show their currency while remaining numeric. Week values still range from 1 to 4.
+**B14** shows **RM600**: only **B9** is added. **B15** shows **1**: only one of the two cells holds a number. Formatting can't turn typed text into a number. If you retyped **B10** as `600`, the SUM would become 1,200.
 
 </details>
 
-<!-- VERIFIED: author UI/source-value checks; values-only format preservation, independent challenge and learner timing remain pending. -->
+---
 
-## 2.2 Improve Readability
+## 2.6 Format the Practice Table
 
-1. Select **A1:H1** and inspect its contrast. A reasoned no-change decision is preferable to changing a readable header just to demonstrate a button.
+Give the three records at the top of **Entry Practice** the same treatment as **Tasks**.
 
-> **Reference run:** The starter already has bold white labels on a dark blue fill, so the reference retains that suitable style.
+1. Click the name box, type `G2:H4` and press **Enter**. Give the costs the ringgit format from 2.2.
+2. Click the name box, type `E2:E4` and press **Enter**. Give the weeks the custom number format `0`, as in 2.2.
+3. Click the name box, type `A1:H1` and press **Enter**. Press **Ctrl+B** for bold, then click **Fill colour** (the paint bucket) on the toolbar and choose a light blue.
+4. Click the name box, type `C2:C4` and press **Enter**. Click **Format**, **Wrapping**, **Wrap**.
 
-![Retain the existing readable source header contrast](./images/c04-02-05-retain-readable-header-contrast.png)
+![Entry Practice with bold light-blue headings, wrapped task names and RM costs in A1:H4](./images/c04-02-13-practice-table-header-wrap-and-number-formats.png)
 
-*Retain the existing readable source header contrast.*
+*Light blue with dark text is easy to read. No cells are merged.*
 
-2. Inspect Task and Owner widths and widen only if text is cut off. The supplied source widths already show each task and owner. Select **C2:C13**, choose **Text wrapping > Wrap**, and inspect complete descriptions.
+**Check:** **A1:H4** on **Entry Practice** have bold light-blue headings, RM costs, whole-number weeks and complete task names.
 
-![Wrap source task descriptions without merging fields](./images/c04-02-06-wrapped-task-text-and-readable-owner-widths.png)
+---
 
-*Wrap source task descriptions without merging fields.*
+## 2.7 Compare Three Kinds of Paste
 
-3. Select rows **2:13**, open the row-header menu, choose **Resize rows 2–13 > Fit to data > OK**. Keep each data column separate; do not merge cells in the register.
+**Paste special** lets you choose what comes across when you paste. You try three kinds side by side, copying the same cell each time.
 
-![Fit source row heights to data](./images/c04-02-07-fit-source-row-heights-to-data.png)
+1. Copy the block below, click **D7** and press **Ctrl+V**. It adds a heading and three column labels.
 
-*Fit source row heights to data.*
+```text
+Paste comparison
+Normal paste	Values only	Format only
+```
+
+2. Click **F9** and type `123`. Click **E9**, click **123** (More formats), choose **Custom number format**, type `0` and click **Apply**.
+
+![The paste comparison labels in D7:F8, with 123 in F9](./images/c04-02-14-paste-comparison-targets-before-transfer.png)
+
+*Three empty targets in row 9, except F9, which already holds 123.*
+
+3. Click **B9** (the RM600 number) and press **Ctrl+C**.
+4. Click **D9** and press **Ctrl+V**.
+5. Click **E9**. Click **Edit**, **Paste special**, **Values only**.
+6. Click **F9**. Click **Edit**, **Paste special**, **Format only**.
+
+![The Edit > Paste special menu with Format only highlighted](./images/c04-02-16-paste-special-format-only-command.png)
+
+*Paste special lists each part you can paste on its own.*
+
+![Row 9 showing RM600, RM600 and RM123 under the three labels](./images/c04-02-17-format-only-keeps-target-value-123.png)
+
+*Format only kept F9's own value, 123, and gave it the RM format.*
 
 <details markdown="1">
 <summary>What should you see?</summary>
 
-Headers, names and cost figures are readable without cutting off text.
+**D9** (normal paste) shows **RM600**: the value and all its formatting came across. **E9** (values only) also shows **RM600**: in Sheets, **Values only** brings the number with its number format, but leaves colours, bold and borders behind. **F9** (format only) shows **RM123**: it kept its own value and took only the format.
 
 </details>
 
-<!-- VERIFIED: author UI/source-value checks; values-only format preservation, independent challenge and learner timing remain pending. -->
+---
 
-## 2.3 Inspect Formatting Effects
+## 2.8 Record What You Found
 
-1. On **Navigation Practice**, enter **2026-10-24** in **J2**, commit it, then use **More formats > Date**. This is a practice example only, not an agreed pilot start.
+1. Copy the block below, click **A17** on **Entry Practice** and press **Ctrl+V**. It fills **A17:B24**, leaving **B22** and **B23** empty for you.
 
-> **Reference run:** In the reference locale it displays **24/10/2026**.
+```text
+Observed result	Explanation
+SUM and COUNT	SUM(B9:B10)=600 and COUNT(B9:B10)=1: the number 600 counts; the text RM 600 is skipped.
+Paste result	Normal paste and Values only both brought 600 with its RM format; Format only kept 123 and showed RM123.
+Date boundary	Practice dates are examples only, outside Tasks DueWeek; they don't set a pilot start date.
+Source checks	Observed numeric counts
+Source cost cells
+Source week cells
+Source values	Formatting changed the display only; all twelve Tasks records keep their values.
+```
 
-![Keep the example date outside the source register](./images/c04-02-08-practice-date-outside-source-register.png)
+2. Click **B22**, type `=COUNT(Tasks!G2:H13)` and press **Enter**. It counts the numbers in the **Tasks** cost columns: **24**.
+3. In **B23**, type `=COUNT(Tasks!E2:E13)` and press **Enter**: **12**.
+4. Select **B17:B24** and turn on **Format**, **Wrapping**, **Wrap**, so each note is readable.
 
-*Keep the example date outside the source register.*
+![Entry Practice with the notes in A17:B24, showing 24 and 12 in B22 and B23](./images/c04-02-18-observations-and-source-numeric-counts-recorded.png)
 
-2. Enter **Numeric cost / Text cost** in **J4:K4**, then numeric **600** in **J5** and text **RM 600** in **K5**. Apply RM currency to J5. Select each cell and compare its formula-bar value.
+*The screenshot's Paste result note is worded differently from the block you pasted. The counts, 24 and 12, should match.*
 
-![Inspect the numeric practice cost](./images/c04-02-09-numeric-ringgit-practice-formula-bar.png)
+5. Click the **Tasks** tab and click **G2**. The formula bar still shows `600`.
 
-*Inspect the numeric practice cost.*
+![Tasks with G2 selected, still holding 600](./images/c04-02-19-final-source-values-preserved-after-formatting.png)
 
-![Inspect the typed text cost](./images/c04-02-10-text-cost-practice-formula-bar.png)
+*Every cost and week on Tasks is still a number. Only the display changed.*
 
-*Inspect the typed text cost.*
+**Check:** **B22** shows **24** and **B23** shows **12**, so every cost and week on **Tasks** is a number, and **Tasks** **G2** still holds `600`.
 
-3. Keep these clearly labelled practice entries as evidence, or undo them when no longer useful. Compare the original source values before and after formatting; display changes must not alter the twelve records.
-
-> **Reference run:** The reference retains them outside the baseline.
-
-<details markdown="1">
-<summary>What should you see?</summary>
-
-You can explain why number formatting does not convert arbitrary text into a number.
-
-</details>
-
-<!-- VERIFIED: author UI/source-value checks; values-only format preservation, independent challenge and learner timing remain pending. -->
-
-## 2.4 Diagnose Display, Type and Readability Problems
-
-1. On **Entry Practice**, keep **A1:H4** as the copied three-record table. Create **Type Tests** in **A7:B12** with the labels and values in Part 3 of the [prompts page](./prompts.md): numeric **600** in B9, text **RM 600** in B10, week index **2** in B11 and practice date **2026-10-24** in B12.
-
-![Create labelled type tests outside the copied records](./images/c04-02-11-labelled-type-test-inputs-on-entry-practice.png)
-
-*Create labelled type tests outside the copied records.*
-
-2. Apply RM currency to **B9:B10**, then inspect both values. B9 remains a number and B10 remains text. Give B12 a date display; keep the practice date outside the source week column.
-
-3. Type `Temporary SUM check` in A14 and `Numeric input count` in A15. Add **=SUM(B9:B10)** in B14 and **=COUNT(B9:B10)** in B15. Widen the label column if needed. These checks remain on the practice tab.
-
-> **Reference run:** The reference results are **600** and **1**: numeric 600 contributes, while text RM 600 is ignored by this range SUM.
-
-![Observe SUM 600 and COUNT 1 for numeric and text costs](./images/c04-02-12-sum-count-check-distinguishes-number-and-text.png)
-
-*Observe SUM 600 and COUNT 1 for numeric and text costs.*
-
-4. Give **G2:H4** the same custom RM currency display and **E2:E4** custom number format **0**. B11 remains a whole-number practice index. Dates stay in B12 and Navigation Practice J2; they do not supply missing source schedule evidence.
-
-5. Apply a bold, light-blue header with readable dark text to **A1:H1**, wrap **C2:C4**, and retain the widened task column. Make each complete description readable. No source cells are merged.
-
-![Format the practice table with readable headers and wrapped task text](./images/c04-02-13-practice-table-header-wrap-and-number-formats.png)
-
-*Format the practice table with readable headers and wrapped task text.*
-
-6. Prepare a separate paste comparison: type `Paste comparison` in D7 and the headers **Normal paste / Values only / Format only** in **D8:F8**. Type **123** in F9. Select E9 and set **More formats > Custom number format** to **0**, so you can see whether a values-only paste keeps that format. Then select B9 (numeric 600 with RM display) and press **Ctrl+C**:
-   - select D9 and press **Ctrl+V** (normal paste)
-   - select E9 and choose **Edit > Paste special > Values only**
-   - select F9 and choose **Edit > Paste special > Format only**
-
-![Prepare separate paste targets including the existing 123](./images/c04-02-14-paste-comparison-targets-before-transfer.png)
-
-*Prepare separate paste targets including the existing 123.*
-
-Compare the three cells. Normal paste D9 should be numeric 600 with RM display. Format-only F9 keeps numeric **123** and displays **RM123**. A values-only paste should bring 600 into E9 without its RM format.
-
-![Inspect the actual Paste special menu](./images/c04-02-16-paste-special-format-only-command.png)
-
-*Inspect the actual Paste special menu.*
-
-![Verify format-only retains 123 while displaying RM123](./images/c04-02-17-format-only-keeps-target-value-123.png)
-
-*Verify format-only retains 123 while displaying RM123.*
-
-> **Verification limitation:** the controlled session's values-only shortcut and direct menu both carried the RM format onto E9 even after its target was explicitly set to number format 0. The number remained 600, but expected preservation of the target format was **not verified**. Repeat this step manually, compare E9's number format before and after, and record the outcome. Do not treat visually similar cells or an attempted command as proof that the property transfer passed.
-
-7. Record the results and the unresolved paste check in **A17:B24** of the practice tab, using the labels in Part 4 of the prompts page. **=COUNT(Tasks!G2:H13)** returns **24** numeric cost cells; **=COUNT(Tasks!E2:E13)** returns **12** numeric week cells. A bounded comparison confirmed that every original **Tasks!A1:H13** underlying value remained unchanged. Wrap the observation text so it is readable.
-
-![Record source counts and the unresolved values-only format behaviour](./images/c04-02-18-observations-and-source-numeric-counts-recorded.png)
-
-*Record source counts and the unresolved values-only format behaviour.*
-
-Return to **Tasks > G2** and inspect **600** again. Formatting did not create a confirmed calendar date or change the twelve records.
-
-![Inspect the unchanged source value after formatting](./images/c04-02-19-final-source-values-preserved-after-formatting.png)
-
-*Inspect the unchanged source value after formatting.*
-
-<details markdown="1">
-<summary>What should you see?</summary>
-
-Type-test block with observed calculation behaviour. The result must be supported by the recorded checks; an attractive output or an AI assurance is insufficient.
-
-</details>
-
-<!-- VERIFIED: author UI/source-value checks; values-only format preservation, independent challenge and learner timing remain pending. -->
+---
 
 ## Independent Practice
 
-Close the earlier step lists for the first attempt. Use the case input and your own reasoning. If you need help, record the hint and repeat the affected check independently.
+A Site Coordination lead has sent a new task on a card, typed the way people often type. Try this without looking back at the steps.
 
-1. Repair the three proposed entries in the case input (Part 1 of the prompts page) in a separate intake table. Preserve raw input and record the clean value or clarification needed.
+1. On **Entry Practice**, copy the block below, click **A27** and press **Ctrl+V**. Row 27 is a label, and row 28 is the card exactly as supplied.
 
-2. Prepare a readable three-record handout view with consistent currency and whole-week display. Prove the underlying numeric values remain numeric.
+```text
+Intake card - as supplied
+T013	Site Coordination	Prepare the weekly sponsor summary and check every team's figures before Friday	Bala Kumar	next Monday	Not Started	RM 600	0
+```
 
-3. Give a partner two visually similar cost cells and ask them which one can be calculated reliably. Use formula-bar and SUM evidence in your explanation.
+2. In **A30**, type `Clean entry`. In row 31, type a cleaned-up version of the same task, all eight fields:
+   - **PlannedCost** as the number `600`, with the ringgit format
+   - **DueWeek** left empty, because nobody has agreed which week "next Monday" means
+   - the long task name wrapped so it's readable
+3. In **J27**, type the question you'd send back to the lead about the due week.
+4. Show a partner **G28** and **G31**. Ask them which one a total would count, and how they can tell without a formula. Then prove it with `=COUNT(G28,G31)`.
+
+<details markdown="1">
+<summary>What should you see?</summary>
+
+**G28** holds the text `RM 600` and sits on the left of its cell. **G31** holds the number 600, shows **RM600** and sits on the right. `=COUNT(G28,G31)` gives **1**. **E31** is empty, and **J27** asks something like "Which pilot week is next Monday? The start date isn't agreed yet." Row 28 stays as supplied, so anyone can see what you started from.
+
+</details>
 
 ### Evidence to Hand Over
 
-- Type-test block with observed calculation behaviour.
-- Raw-to-clean intake table and readable entry-practice layout.
-- Independent numeric evidence and unchanged 12-row source.
-
-Record the defect or uncertainty you investigated, the evidence used, the repair or reasoned no-change decision, and the final state. Restore temporary changes or keep them in a clearly named scenario copy.
+- **Tasks** with ringgit costs, whole-number weeks, wrapped task names and fitted rows
+- **Entry Practice** with the formatted practice table, the **Type Tests** block, the paste comparison and your notes, with **B22** showing 24 and **B23** showing 12
+- The intake card as supplied (row 28), your clean entry (row 31) and your question in **J27**
 
 ## Troubleshooting
 
-| Symptom | What to check |
+| Problem | What to try |
 |---|---|
-| Currency looks correct but totals are wrong | Inspect numeric type and formula-bar value before changing more display formats. |
-| An input or earlier result is missing | Reopen the input named in Before You Begin; do not substitute private company data |
-| A menu or feature is unavailable | Confirm the account and the shared access notes; record the missing step and ask the trainer for its fallback |
-| The result differs from the checkpoint | Compare the exact source range, wording and conditions before repeating the action |
+| A total is smaller than you expect | One of the cells is probably text. Click each one: a value on the left of its cell, or with letters in the formula bar, isn't a number. Retype it as a plain number. |
+| The toolbar currency button shows £ | It follows the account's country. Use **123** (More formats) > **Custom currency** > **Malaysian Ringgit** instead. |
+| The costs show decimals, such as RM600.00 | In **Custom currency**, open the format list and choose **RM1,000**, the one without decimals. |
+| Your weeks turned into dates | Select them, then **123** > **Custom number format**, type `0` and **Apply**. |
+| **Format only** also changed the value | You pressed **Ctrl+V** instead. Press **Ctrl+Z**, then use **Edit** > **Paste special** > **Format only**. |
+| A formula shows as text in the cell | There's a space or an apostrophe before the `=`. Click the cell, delete it and type the formula again. |
 
 ## Lesson Summary
 
-Typed values and readable formatting prepare the register for calculation.
+You set ringgit and week formats on **Tasks** without changing a single value, made the register easier to read without merging cells, and proved with SUM and COUNT that a typed `RM 600` doesn't count. You also saw what each kind of **Paste special** brings across. In Lab 03 you start calculating with these numbers.
 
-**Check yourself:** Why should you avoid merging cells inside a dataset?
+**Check yourself:** why should you avoid merging cells inside a table of records?
