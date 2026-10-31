@@ -1,5 +1,9 @@
 # Validation Status
 
+## Sheets Foundation Lab 02 rewritten to the write-lab-chapter pattern, 31 October 2026
+
+Lab 02 was rewritten on top of the 18 captures from pull request #76, keeping their order: eight short sections with one check each, every typed value inline, and plain boxes. Reference-run notes, the status callout and the values-only "verification limitation" were removed from the participant page. The capture run observed that Paste special > Values only carried the RM number format onto a target set to format 0; this matches Sheets' documented behaviour (values only keeps number formatting), so the lab now teaches it as the expected result. The notes block in 2.8 is supplied with clearer wording than the captured screenshot, and the caption says so. Not run by learners, timed in class or independently reviewed.
+
 ## Sheets Foundation Lab 01 rewritten to the write-lab-chapter pattern, 31 October 2026
 
 Lab 01 was rewritten to training-book-kit's `write-lab-chapter` skill: a scenario opener, a workbook map, a Topics section, nine short sections with one check each, and every typed value inline. The Workbook Guide text that the screenshots show is now supplied as paste blocks; learners still look up the four address values themselves. The 26 screenshots are unchanged captures, kept in order, redrawn with plain boxes because the old step numbers no longer match. Reference-run notes were removed from the participant page. They remain true: the instructor uploaded the XLSX manually after the browser extension blocked upload, and the automated upload step, independent challenge and learner timing are unverified. The rewritten route has not been run by learners, timed in class or independently reviewed.
