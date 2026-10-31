@@ -19,7 +19,7 @@
 | 1 | 01 | [Create and Navigate a Workbook](./01-workbook-basics/README.md) | [Prompts and values](./01-workbook-basics/prompts.md) | Save the register as Google Sheets, practise on copies and write a Workbook Guide. | 40 |
 | 1 | 02 | [Enter and Format Reliable Data](./02-format-data/README.md) | [Prompts and values](./02-format-data/prompts.md) | Format costs and weeks, prove which values count, and compare kinds of paste. | 45 |
 | 1 | 03 | [Calculate and Copy Formulas](./03-basic-calculations/README.md) | [Prompts and values](./03-basic-calculations/prompts.md) | Calculate variance and totals, fix a shared multiplier with $, and check a total two ways. | 65 |
-| 1 | 04 | [Clean and Organise Records](./04-clean-sort-freeze/README.md) | [Prompts and values](./04-clean-sort-freeze/prompts.md) | Clean an Intake and Prove That Records Stay Together. | 50 |
+| 1 | 04 | [Clean and Organise Records](./04-clean-sort-freeze/README.md) | [Prompts and values](./04-clean-sort-freeze/prompts.md) | Clean text with TRIM, sort whole records, freeze headings, name a range and see what a one-column sort breaks. | 50 |
 | 1 | 05 | [Validate and Filter the Register](./05-validation-filtering/README.md) | [Prompts and values](./05-validation-filtering/prompts.md) | Design and Verify Entry Rules and Focused Views. | 50 |
 | 1 | 06 | [Summarise and Visualise](./06-summary-chart/README.md) | [Prompts and values](./06-summary-chart/prompts.md) | Build a Second Summary and Diagnose a Misleading Chart. | 55 |
 | 1 | 07 | [Share and Prepare Output](./07-sharing-print/README.md) | [Prompts and values](./07-sharing-print/prompts.md) | Prepare a Readable, Scoped and Reproducible Output. | 40 |

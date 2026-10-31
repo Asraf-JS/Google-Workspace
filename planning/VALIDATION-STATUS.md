@@ -1,5 +1,9 @@
 # Validation Status
 
+## Sheets Foundation Lab 04 rewritten to the write-lab-chapter pattern, 31 October 2026
+
+Lab 04 was rewritten on top of the 22 captures from pull request #76, keeping their order, in eight short sections with every typed value inline and plain boxes. Reference-run notes and the validation-boundary callout were removed from the participant page. They remain true: the capture run entered DirtyText.csv by hand because browser upload was unavailable, and a controlled paste stripped surrounding spaces, so the raw values were restored with a leading apostrophe. The lab now leads with File > Import (unverified) and gives the apostrophe route as the fallback; the intake paste block is followed by an apostrophe step for C001's spaces. The independent named-range growth test now has concrete steps and a derived expected result (RM10,400 against RM10,600), not a captured one, and ends by restoring PlannedCosts to G2:G13 because Lab 08 expects that. Not run by learners, timed in class or independently reviewed.
+
 ## Sheets Foundation Lab 03 rewritten to the write-lab-chapter pattern, 31 October 2026
 
 Lab 03 was rewritten on top of the 23 captures from pull request #76, keeping their order. The long casework section was split into four (zeros and blanks, wrong reference, relative and absolute, two-way total check), every typed value is inline and the boxes are plain. Reference-run notes and the validation-boundary callout were removed from the participant page. Learners now type their own observations in rows 15, 16 and 28 to 30; captions note where the captured wording differs (D15). The independent estimate table and omitted-range diagnosis now have concrete steps and an expected result (B24 -2,900, B26 700) derived from the starter data, not observed in a capture. Not run by learners, timed in class or independently reviewed.
