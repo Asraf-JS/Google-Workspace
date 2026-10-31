@@ -1,47 +1,49 @@
 # 02 - Plan and Draft with Gemini
 
-In this chapter you will generate an outline, draft from supplied evidence and record unsupported claims.
+Your working document now holds the project's sources. Aina Rahman wants the procedure itself: the steps a team member follows each Friday to send in their update. In this lab you ask Gemini for a first draft and check it against the sources. Then you put a checked version in the document and test it the way a contributor would, once with a normal task and once with a task whose owner is missing.
 
-**Estimated time:** 55 minutes, planned as 10 explanation and demonstration, 25 guided build and casework, 15 independent practice and 5 verification and repair. Not yet timed with learners.
+**Estimated time:** 55 minutes, planned as 10 explanation and demonstration, 30 guided build and testing, and 15 independent practice. Not yet timed with learners.
 
-**Your result:** A checked proposed procedure with outstanding sponsor questions.
+**Your result:** a checked eight-step procedure with two open questions for the sponsor, and an Authoring Log that shows how you reviewed and tested it.
 
-> **Skills you will demonstrate:** write a source-grounded AI request; review its claims; insert a checked draft; test a procedure with normal and missing-information cases.
+> **You'll practise:** asking Gemini for a draft grounded in your sources, checking the reply line by line, replacing a step in a document, and testing a procedure by walking through it with real cases.
 
 ---
 
 ## What You Will Learn
 
-- Specify a useful drafting task.
-- Review an AI proposal before using it.
-- Preserve unresolved facts in a procedure.
+- Write an AI request that names the reader, the source and the format you want
+- Review an AI draft against the sources before you use any of it
+- Test a procedure with a normal case and a missing-information case, and repair what the test finds
 
 ## Before You Begin
 
-**Which file?** Work in **GW - Reporting Procedure - Working** throughout. Keep review notes and walkthroughs in its Authoring Log.
+> **Download:** [Tasks.csv](../../shared/sample-files/Tasks.csv), the fictional task list you use in 2.5. Save it with the source files from Lab 01.
 
-**Keep your place:** complete one small task, check its result, then move on. Type short names where shown. Supplied blocks include related lines in one paste; **Copy heading and table** buttons include the labels too. Use **Ctrl+V** on a blank paragraph outside existing tables. Screenshot wording and page counts are examples; check your own result.
+Open your `GW - Reporting Procedure - Working` document from Lab 01. Every step in this lab happens in that document.
 
-> **Download:** [Tasks.csv](../../shared/sample-files/Tasks.csv), the fictional task list you use in 2.4. Save it with the source files from Lab 1.
+**How the document comes together:**
 
-Use your `GW - Reporting Procedure - Working` document from Lab 1 and keep [project facts](../../shared/sample-files/project-facts.txt) and [reporting guidance](../../shared/sample-files/reporting-guidance.txt) to hand. If Gemini is unavailable, skip 2.1 and 2.2.1. Start at **2.2.2**, reviewing the supplied draft in 2.3 instead of an AI reply, then continue all checks.
+Purpose statement > **Procedure** (Prepare, Check, Submit for Review, Resolve Questions) > **Questions for the Sponsor** > **Authoring Log**: Lab 01 evidence > AI draft review > procedure plan > test cases > walkthroughs > step 5 rewrite > submission distinction
 
-## 2.1 Define the Reader and Task
+The reader-facing procedure goes above the Authoring Log. Everything you use to check and test it goes at the end of the Authoring Log.
 
-**Why:** A useful AI request names the reader, evidence and output. You are learning to constrain a proposal before using it.
+> **No Gemini?** Skip 2.1. In 2.2, review the supplied procedure from 2.3 against the sources instead of a Gemini reply, and call your notes `Reference draft review`. Everything after that is the same.
 
-### 2.1.1 Open the drafting panel
+## Topics
 
-1. In your working document, click **Ask Gemini** (the star button at the top right).
-2. The Gemini panel opens on the right.
+**An AI draft is a proposal.** Gemini writes fluently, so a draft can read well and still leave out a status, or give an instruction like "route submissions according to the project structure" that doesn't tell anyone where to send anything. You check every instruction against the sources before any of it goes into the procedure.
 
-**Check:** The panel is open beside your Working document.
+**Testing a procedure on paper.** A procedure works if a person can follow it and always knows the next action. The quickest test is a *paper walkthrough*: take one real case and go through the steps in order, noting where you get stuck. You do one for a normal task and one for a task with missing information, then repair the step that caused trouble.
 
-### 2.1.2 Paste one grounded request
+---
 
-1. Copy the complete prompt below once into the **Ask Gemini** box.
-2. It already includes the supplied fictional fact sheet.
-3. Read its output instructions before submitting; no placeholder replacement is needed.
+## 2.1 Ask Gemini for a Draft
+
+The prompt below follows the course's GCSE pattern: **G**oal, **C**ontext, **S**ource and **E**xpectations. The fact sheet is pasted in, so Gemini works from the same facts you do.
+
+1. In your working document, click **Ask Gemini** (the star button at the top right). The Gemini panel opens on the right.
+2. Copy the prompt below and paste it into the **Ask Gemini** box. Don't submit it yet.
 
 **Session:** new Gemini panel chat | **Grounding:** pasted project-facts.txt
 
@@ -75,126 +77,66 @@ Unresolved decision: sponsor approval of the budget and the pilot start date
 Out of scope: live construction records, purchasing commitments and external publication
 ```
 
-The fact sheet is included to ground the task. Review the reply yourself before using any wording in the document.
-
-**Check:** The prompt includes real fact-sheet text; no placeholder remains.
-
-### 2.1.3 Read before submitting
-
-1. Read the prompt again before submitting.
-2. It asks for an answer in the panel and a proposed procedure, not a change to your document or to company policy.
+3. Read the **Expectations** line once. It asks for a reply in the panel, not a change to your document, and tells Gemini to keep the budget and start date open.
 
 ![The Gemini panel with the drafting prompt pasted into the Ask Gemini box, not yet submitted](./images/c02-02-source-grounded-prompt.png)
 
-*The prompt includes the actual fact sheet. It is still in the box, waiting to be submitted.*
+*The prompt, with the fact sheet, is in the box and not yet submitted.*
 
-<details markdown="1">
-<summary>What should you see?</summary>
+4. Click **Submit** (the arrow at the bottom right of the panel).
+5. If Gemini offers to edit your document, click **Reject all**. This lab only uses the reply in the panel.
 
-The request names the reader, source and output format. No source placeholder remains.
+**Check:** Gemini's reply is in the panel, and your document hasn't changed.
 
-</details>
+---
 
-<!-- Reference core captured 18 October 2026; independent learner challenge remains pending. -->
+## 2.2 Review the Reply Against the Sources
 
-**Check:** The request asks for a panel reply and preserves unresolved decisions.
+Now you check the reply before using any of it. The table shows what the sources actually say about the three things most likely to go wrong, so you don't need to open the files.
 
-## 2.2 Review the Draft
-
-**Why:** AI output is a draft to inspect. A fluent answer can still omit a status or invent a usable-looking workflow.
-
-### 2.2.1 Read the response
-
-1. Click **Submit** (the arrow at the bottom right of the panel) and read the whole response, scrolling down the panel.
-2. If Gemini offers to edit your document instead, click **Reject all**: this lab only uses the panel.
-
-**Example response: two views of the same answer**
-
-The two screenshots below show one example Gemini reply. The panel was scrolled to show different parts of that reply. They illustrate what to look for during a review; they are not two separate tasks or answers to copy. Your own reply may use different wording and may not contain these problems.
-
-**View 1 of 2: check the status definitions**
-
-![Example reply, view 1 of 2: its Check section includes Complete and In Progress but omits Not Started](./images/c02-02-unreviewed-response.png)
-
-*In this example, Check leaves out Not Started. In your own reply, check whether all three statuses are covered; record an omission only if you find one.*
-
-**View 2 of 2: the same reply, scrolled down to submission instructions**
-
-![The same example reply, view 2 of 2 after scrolling: Submit for Review contains a vague routing instruction](./images/c02-02-response-checks.png)
-
-*In this example, “Route submissions according to the project structure” gives no usable destination. In your reply, check that missing channel, recipient and cut-off details remain unresolved rather than being invented.*
-
-**Your next action:** return to your own Gemini reply and review it in 2.2.2. You do not need to reproduce the example's wording or errors.
-
-**Check:** The response is still a proposal; your document has not been automatically replaced.
-
-### 2.2.2 Record your source checks
-
-**What are you doing?** You are checking an AI-written draft before using it. Compare what Gemini wrote with the original source files, then record whether the wording needs changing. You are not checking against the screenshots or another learner's answer.
-
-**A. Read what the sources say**
-
-1. Keep the Gemini panel open beside your Working document so you can see your reply.
-2. Read the table below. It shows what the two source files say about each part of the reply, so you don't need to open them. The full [project-facts.txt](../../shared/sample-files/project-facts.txt) and [reporting-guidance.txt](../../shared/sample-files/reporting-guidance.txt) are linked if you want to look.
-
-| What to check in Gemini's reply | Source file | What the source actually establishes |
+| What to check in the reply | Source file | What the source says |
 |---|---|---|
 | Status definitions | reporting-guidance.txt | Not Started: work has not begun. In Progress: work has begun without owner-confirmed completion. Complete: the owner has confirmed the agreed output is ready for review. |
-| Submission details | Both files | Friday reporting is known. Neither file supplies the submission channel, review recipient or cut-off time. Keep those details unresolved; do not invent an email address, person or time. |
+| Submission details | Both files | Friday reporting is known. Neither file gives a submission channel, review recipient or cut-off time, so those stay open. |
 | Project facts | project-facts.txt | RM 12000 is proposed, not approved. The start date is not agreed. The pilot lasts four weeks from an agreed start, with an update every Friday. |
 
-This table is a reading guide; you do not need to paste it into your document. The fact sheet alone does not provide the status definitions. Use the proposed guidance to check and repair that part of the procedure.
-
-**B. Work through one example together**
-
-Suppose an AI reply says:
-
-> “The RM 12000 budget is approved.”
-
-The **Project facts** row in the table (from project-facts.txt) says the budget is **proposed, not approved**. The AI sentence changes the meaning, so the review note would be:
+Here's one finding written out, for an invented reply that called the budget approved:
 
 > **Gemini wrote:** The RM 12000 budget is approved.<br>
 > **Source says:** project-facts.txt records the budget as proposed, not approved.<br>
-> **Decision:** Change the sentence to “The RM 12000 budget is proposed, not approved.”
+> **Decision:** Change it to "The RM 12000 budget is proposed, not approved."
 
-This is an invented example for practice. If your reply already says the budget is proposed, your decision is **no repair needed**, with the same source as evidence.
+If the reply already matches the source, the decision is **no repair needed**.
 
-**C. Now check your own reply**
+1. Read your whole reply in the panel, scrolling down to the end.
 
-1. At the end of the Working document, in the Authoring Log, type `AI draft review` and today's date.
-2. Write three short findings: **statuses**, **submission details** and **project facts**. For each, use the example's three labels: **Gemini wrote**, **Source says**, **Decision**. Name the source file and the change needed, or write **no repair needed** if the wording already matches.
-3. Keep the reply as a proposal while you review it. You will insert the supplied procedure and apply the checked repairs in 2.3 to 2.4.
+   This example reply shows the kind of problem to look for. Yours will be worded differently and may not have the same problems.
+
+   ![Example reply, view 1 of 2: its Check section includes Complete and In Progress but omits Not Started](./images/c02-02-unreviewed-response.png)
+
+   *In this example, the Check section leaves out Not Started.*
+
+   ![The same example reply, view 2 of 2 after scrolling: Submit for Review contains a vague routing instruction](./images/c02-02-response-checks.png)
+
+   *Further down the same reply, "Route submissions according to the project structure" gives no usable destination.*
+
+2. Press **Ctrl+End** to go to the end of the document, press **Enter**, and type `AI draft review` and today's date.
+3. Under it, write three findings, one each for **statuses**, **submission details** and **project facts**. Use the three labels from the example: `Gemini wrote:`, `Source says:` and `Decision:`.
 
 ![The AI draft review typed at the end of the Authoring Log](./images/c02-02-human-review.png)
 
-*This example review records the issues found in the illustrated reply. Your review should record your own findings, including source-supported points that need no repair.*
+*This review records the problems in the example reply. Yours records what you found in your own reply, including anything that needs no repair.*
 
-**No Gemini?** Review the reference draft in 2.3 against the sources. Record the same three checks and label your notes a reference-draft review. You still practise evidence judgement.
+**Check:** your AI draft review has three findings, and each one names its source file and either a repair or **no repair needed**.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+---
 
-The draft distinguishes known project facts from a proposed training procedure. The budget and start date remain unresolved.
+## 2.3 Insert the Checked Procedure
 
-</details>
+Everyone continues from the same checked procedure, so the rest of the lab works the same for every learner. You still use your review: it tells you whether this version avoids the problems Gemini had.
 
-<!-- Reference core captured 18 October 2026; independent learner challenge remains pending. -->
-
-**Check:** Your AI draft review has three findings. Each names what Gemini wrote, what the relevant source file says, and a repair or a source-supported no-repair decision.
-
-## 2.3 Insert the Checked Text
-
-**Why:** The reader needs a usable procedure without reading an AI conversation. The checked text belongs above the evidence log.
-
-### 2.3.1 Insert the supplied draft once
-
-Everyone continues from the same reference draft, so the rest of the lab works the same for every learner. Your Gemini review still matters: you use it to judge this draft.
-
-1. Keep `project-facts.txt` open in another tab so you can compare commitments.
-2. Above **Authoring Log**, click at the end of the purpose statement and create a blank paragraph.
-3. Paste the complete reference draft below once; its title and four section labels are included.
-4. Compare it with your reviewed AI response. In your AI draft review, add one line: a problem from the Gemini reply that the reference avoids, or a source-supported point both already get right.
-5. Keep step 4 as supplied for now; it is deliberately incomplete until the repair in 2.4.2.
+1. Scroll to the top. Click at the end of the purpose statement, just above **Authoring Log**, and press **Enter**.
+2. Copy the procedure below and press **Ctrl+V**. The title and four section labels are included.
 
 ```text
 Weekly reporting procedure - proposed training practice
@@ -214,13 +156,9 @@ Resolve Questions
 
 ![The checked procedure inserted under the purpose statement, with eight numbered steps](./images/c02-02-checked-draft.png)
 
-*The checked procedure sits in the reader-facing part of the document. The Gemini response and your review stay in the Authoring Log.*
+*The procedure sits in the reader-facing part, above the Authoring Log.*
 
-**Check:** The procedure has four section labels and eight steps above Authoring Log.
-
-### 2.3.2 Add the open decisions
-
-1. Under procedure step 8, paste the Questions for the Sponsor block below once; the heading and both decisions are included.
+3. Click at the end of step 8 and press **Enter**. Copy the block below and press **Ctrl+V**.
 
 ```text
 Questions for the Sponsor
@@ -230,31 +168,21 @@ Questions for the Sponsor
 
 ![Questions for the Sponsor with the two open decisions at the end of the procedure](./images/c02-02-open-decisions.png)
 
-*The draft ends with two open sponsor questions. It doesn't invent an approval or a calendar date.*
+*The procedure ends with the two open decisions. It doesn't invent an approval or a date.*
 
-<details markdown="1">
-<summary>What should you see?</summary>
+4. Read step 4 of the procedure. It doesn't mention the three statuses, which is the same gap as the example reply. You fix it in 2.4.
+5. In your AI draft review, add one line: `Reference draft:` and one thing it gets right that your Gemini reply got wrong, or one thing both got right.
 
-The procedure and its outstanding questions are readable without the Gemini conversation.
+**Check:** above **Authoring Log** you have the procedure title, four section labels, eight steps and **Questions for the Sponsor**.
 
-</details>
+---
 
-<!-- Reference core captured 18 October 2026; independent learner challenge remains pending. -->
+## 2.4 Add the Procedure Plan and Fix Step 4
 
-**Check:** Both budget approval and start date remain open questions.
+The plan lays each step out as input, action, output and check, so you can see whether every step has a way to tell it's done. It's supplied to save typing. The source tags in brackets show where each action comes from: `(facts)` is the fact sheet, `(guidance)` the reporting guidance and `(proposed)` a working detail you're suggesting.
 
-## 2.4 Develop an Executable Procedure and Test Its Logic
-
-**Why:** A procedure must tell a person what to do and how to check the result. Test it with a normal record and an incomplete one.
-
-### 2.4.1 Read the supplied plan
-
-1. At the end of the Authoring Log, leave a blank paragraph outside any table.
-2. Click **Copy heading and table** below and paste once with **Ctrl+V**.
-3. Read across row 1: what comes in, what the contributor does, what they produce, and how they check it.
-4. Verify the other rows against your procedure and sources.
-
-The plan is supplied to save transcription. Verify the source labels and action/check pairs; change a row if your checked procedure differs.
+1. Press **Ctrl+End**, then **Enter** twice.
+2. Click **Copy heading and table** below, go back to the document and press **Ctrl+V**.
 
 <p data-copy-with-table><strong>Procedure plan - eight steps across four sections</strong><br>Sources: project-facts.txt (facts); reporting-guidance.txt v1 (proposed guidance). Workflow details are proposed practice.</p>
 
@@ -271,20 +199,15 @@ The plan is supplied to save transcription. Verify the source labels and action/
 
 ![The procedure plan label and the first seven rows of the plan table](./images/c02-02-plan-first-steps.png)
 
-*Each step has an input, an action, an output and a check. Source labels in brackets show where each action comes from.*
+*Each row has an input, an action, an output and a check.*
 
 ![The last rows of the plan complete eight steps across the four sections](./images/c02-02-plan-final-steps.png)
 
-*Steps 6 to 8 cover routing questions, missing information and rechecking after clarification.*
+*Rows 6 to 8 cover the outputs, missing information and rechecking after clarification.*
 
-**Check:** The eight rows each have an input, action, output and check.
-
-### 2.4.2 Repair the status check
-
-1. Check the plan against `reporting-guidance.txt` and the fact sheet. The source tags in brackets, `(facts)`, `(guidance)` and `(proposed)`, are already supplied: confirm that each one points to the right source and change any that don't.
-2. The supplied reference draft deliberately leaves the status definitions out of procedure step 4. Your own Gemini reply may already have included all three statuses; the reference still needs the repair.
-3. In the procedure (not the plan table), select the whole of step 4, from `4.` to the end of its paragraph.
-4. Copy the replacement below and press **Ctrl+V** to paste over the selection.
+3. Read row 4 of the plan. It says step 4 should check all three status meanings, which the procedure's step 4 doesn't do yet.
+4. Scroll up to the procedure (not the plan). Select the whole of step 4, from `4.` to the end of its paragraph.
+5. Copy the replacement below and press **Ctrl+V** to paste over the selection.
 
 **Replacement for procedure step 4**
 
@@ -294,53 +217,69 @@ The plan is supplied to save transcription. Verify the source labels and action/
 
 ![Procedure step 4 now names all three proposed guidance statuses](./images/c02-02-status-repair.png)
 
-*The arrow marks the repaired step 4. An unfamiliar label becomes a clarification query rather than a guessed status.*
+*The arrow marks the new step 4. A status label that isn't one of the three becomes a question, not a guess.*
 
-**Check:** Step 4 contains all three meanings and keeps unfamiliar labels unresolved. The procedure still has eight steps.
+**Check:** the plan table is at the end of the Authoring Log, and the procedure's step 4 names all three statuses. The procedure still has eight steps.
 
-### 2.4.3 Write a normal submission
+---
 
-1. Below the plan, type `Example weekly submission - fictional supplied record` and write a submission for task T001 from `Tasks.csv`: its TaskID, owner, status and exception note.
+## 2.5 Write the Two Test Cases
 
-**Check:** T001 matches Tasks.csv; no new task data was invented.
+To test the procedure you need two cases: a normal task from the task list, and a test card with missing information. Here is the T001 row from `Tasks.csv`:
 
-### 2.4.4 Trace a missing owner
+> **Source: Tasks.csv, row T001**<br>
+> TaskID: T001 | Team: Planning | Task: Confirm reporting fields | Owner: Aina Rahman | DueWeek: 1 | Status: Complete
 
-1. Below the example, type `Missing-owner route - proposed practice` and describe what happens for test card T-TEST-A, provided below.
-2. The route must stop anyone from guessing an owner and say what needs clarifying.
+And here is the test card. It's a made-up case for testing only, so it doesn't go in the task list:
 
-**Case input to analyse**
+> **Test card T-TEST-A:** owner missing, status In Progress, exception note "awaiting owner confirmation".
 
-Read this fictional case here; you do not need to paste the case itself. Record your own check or decision where instructed.
+1. Below the plan table, outside it, type `Example weekly submission - fictional supplied record`.
+2. On the next line, write T001's submission in this form, using the values from the row above: `TaskID: ... | Owner: ... | Status: ... | Exception note: ...`. T001 has no exception, so write `none recorded`.
+3. Press **Enter** twice and type `Missing-owner route - proposed practice`.
+4. Under it, write two or three sentences saying what the procedure tells a contributor to do with T-TEST-A. Use steps 1 and 7 of the procedure.
 
-> Test card T-TEST-A: owner missing, status In Progress, exception “awaiting owner confirmation”. Test card T-TEST-B (used later in Independent Practice): owner Siti Aminah, status Blocked. These are separate fictional procedure test cases; do not add them to the task workbook.
+<details markdown="1">
+<summary>What should you see?</summary>
+
+The T001 line matches the row: `TaskID: T001 | Owner: Aina Rahman | Status: Complete | Exception note: none recorded`.
+
+The missing-owner route keeps the task ID, the In Progress status and the exception note, flags the missing owner for clarification and doesn't name anyone as owner. Who to ask, and by when, is still to be agreed, so the route leaves that open too.
+
+</details>
 
 ![The T001 example submission and the missing-owner route for T-TEST-A](./images/c02-02-normal-and-exception.png)
 
-*The supplied T001 record and the missing-owner test card are kept separate. No owner is invented.*
+*The reference wrote a little more for each case. What matters is that T001 matches the task list and no owner is invented for T-TEST-A.*
 
-**Check:** The missing-owner route asks for clarification rather than assigning someone.
+**Check:** your T001 line matches the row above, and your missing-owner route asks for clarification without naming an owner.
 
-### 2.4.5 Walk through both routes
+---
 
-**Why:** reading the procedure as if you were the contributor shows where it stops giving a clear next action. You will repair what you find in 2.4.6.
+## 2.6 Walk Through the Procedure
 
-1. Below the missing-owner route, type `Paper walkthrough A - normal supplied T001`. Follow the eight procedure steps with T001 and note the next action each step gives you.
-2. Below it, type `Paper walkthrough B - incomplete card T-TEST-A` and do the same with the missing-owner card.
-3. Under each walkthrough, type `Observed ambiguity:` and record any step where you weren't sure what to do. Look closely at step 5: what happens to the draft while the route is unagreed?
+Now play the contributor. Go through the eight steps with each case and notice where the procedure stops telling you what to do next.
+
+1. Below the missing-owner route, type `Paper walkthrough A - normal supplied T001`.
+2. Read steps 1 to 8 in order as if you were Aina reporting T001. Under the heading, type `Worked:` and the steps that gave you a clear next action.
+3. Type `Observed ambiguity:` and any step where you weren't sure what to do. Look closely at step 5: the route isn't agreed yet, so what are you supposed to do with your finished draft?
+4. Type `Paper walkthrough B - incomplete card T-TEST-A` and repeat steps 2 and 3 with the test card.
 
 ![Paper walkthroughs A and B with the observed ambiguity and its repair](./images/c02-02-paper-walkthroughs.png)
 
-*Walkthrough A found that "request agreement" didn't say what to do with the draft while waiting. The reference author then recorded the step 5 repair you will make in 2.4.6. In the reference document the rewrite record sits above the walkthroughs; yours follows them.*
+*Walkthrough A found that step 5 says "request agreement" but not what to do with the draft while you wait. The reference document already shows the repair you make in 2.7, and its rewrite record sits above the walkthroughs; yours comes after them.*
 
-**Check:** Both walkthroughs record what happened and at least one observed ambiguity.
+**Check:** both walkthroughs have a **Worked:** line and an **Observed ambiguity:** line, and walkthrough A mentions step 5.
 
-### 2.4.6 Repair the submission step
+---
 
-1. Copy the current wording of procedure step 5 (Submit for Review); you need it for the Before line.
-2. Rewrite step 5 so it answers the ambiguity from your walkthrough, using Gemini or by hand. To use the reference wording, select the whole of step 5 and paste the replacement below over it.
-3. In the Authoring Log, below the walkthroughs, type `Clarity rewrite - Submit for Review, step 5`, then `Before:` and `After:` lines with the old and new wording, and a `Preserved checks:` line listing what the rewrite kept.
-4. Under your walkthrough, add `Repair:` and name the change to step 5.
+## 2.7 Repair Step 5
+
+Step 5 asks for agreement on the route but doesn't say what happens to the draft in the meantime. The repair keeps the draft and records a question until the route is agreed.
+
+1. Scroll up to the procedure and copy the current text of step 5. You need it for the record.
+2. Press **Ctrl+End**, then **Enter**. Type `Clarity rewrite - Submit for Review, step 5`, then on the next line `Before:` and paste the old wording after it.
+3. Go back to the procedure and select the whole of step 5. Copy the replacement below and press **Ctrl+V** to paste over it.
 
 **Replacement for procedure step 5**
 
@@ -350,16 +289,21 @@ Read this fictional case here; you do not need to paste the case itself. Record 
 
 ![The rewritten step 5 in the procedure](./images/c02-02-clarity-rewrite.png)
 
-*The new step 5 keeps the draft and records a routing query while the channel, recipient and cut-off are unresolved.*
+*The new step 5 keeps the draft and records a routing query while the route is still open.*
 
-**Check:** The rewrite keeps the draft while routing is unresolved, and the procedure still has eight steps.
+4. Back in the rewrite record, type `After:` and paste the new wording. Then type `Preserved checks:` and list what the new step still requires: Friday reporting, task ID, owner, status and the exception note.
+5. Under **Observed ambiguity** in walkthrough A, add `Repair: step 5 now says to keep the draft and record a routing query.`
 
-### 2.4.7 Compare submission and question
+**Check:** the procedure's step 5 is the new wording, it still has eight steps, and your rewrite record has **Before**, **After** and **Preserved checks** lines.
 
-1. Click **Copy heading and table** below and paste once with **Ctrl+V**, below your step 5 rewrite record.
-2. Verify both descriptions against your walkthroughs.
-3. Explain why a review-ready draft is not necessarily ready to send.
-4. Keep both project decisions unresolved.
+---
+
+## 2.8 Tell a Submission From a Question
+
+The last check: a draft can be complete and ready for review while it still can't be sent, because the route is open. This table puts the two cases side by side.
+
+1. Press **Ctrl+End**, then **Enter** twice.
+2. Click **Copy heading and table** below, go back and press **Ctrl+V**.
 
 <p data-copy-with-table><strong>Submission distinction</strong></p>
 
@@ -370,57 +314,59 @@ Read this fictional case here; you do not need to paste the case itself. Record 
 
 ![A two-row table separates a complete submission from an unresolved question](./images/c02-02-submission-distinction.png)
 
-*A complete submission can be review-ready while its route is unresolved. An unresolved question keeps the draft and asks for evidence.*
+*A complete submission can be ready for review while its route is still open.*
+
+3. Below the table, type one sentence saying which row each of your two cases belongs to: T001 and T-TEST-A.
 
 <details markdown="1">
 <summary>What should you see?</summary>
 
-An eight-step plan with inputs, outputs and checks, a repaired step 4, a T001 example, a missing-owner route, two walkthroughs with a recorded repair, and the submission distinction table. The result must be supported by the recorded checks; an attractive output or an AI assurance is insufficient.
+T001 is a complete submission: every field is there and checked, but it stays unsent until the route is agreed. T-TEST-A is an unresolved question, because its owner is missing.
+
+Your document now has the eight-step procedure with a repaired step 4 and step 5, the two sponsor questions, and in the Authoring Log your AI draft review, the plan, both test cases, both walkthroughs, the rewrite record and this table.
 
 </details>
 
-<!-- Reference core captured 18 October 2026; independent learner challenge remains pending. -->
+**Check:** your sentence puts T001 in the first row and T-TEST-A in the second.
 
-**Check:** You can explain the difference without turning an open question into a completed submission.
+<!-- Reference core captured 18 October 2026; the revised route, independent challenge and reviewer pilot remain pending. -->
+
+---
 
 ## Independent Practice
 
-**What is being tested:** perform the chapter skills without following the earlier clicks. Use the supplied material to reduce typing; explain your decisions and show the actual result. If you need a hint, record it and repeat that check independently.
+Work without the steps above. Use the procedure and the sources, and write your own wording.
 
-1. Write a new **Late or Incomplete Submission** subsection without using the earlier drafting prompt. Give a reader a clear action, an exception record and a review check.
+1. Under **Resolve Questions** in the procedure, add a short subsection called `Late or Incomplete Submission`. Give a contributor one clear action, what to record and how a reviewer checks it.
+2. Test it with this second test card. It has a status that isn't one of the three in the guidance:
 
-2. Test it with both card examples, one containing a missing owner and one an unfamiliar status. Do not silently convert “Blocked” into Complete or invent a new reporting deadline.
+   > **Test card T-TEST-B:** owner Siti Aminah, status Blocked.
 
-3. Ask a reviewer to execute the written steps verbally. Revise one ambiguity and save the source comparison in the Authoring Log.
+   Write `Paper walkthrough C - T-TEST-B` in the Authoring Log and note what your subsection tells the contributor to do. Don't change "Blocked" into one of the three statuses, and don't invent a deadline.
+3. Ask a partner to read your subsection aloud and say what they'd do. Fix one thing they found unclear, and note the change under your walkthrough.
 
 ### Evidence to Hand Over
 
-- Eight-step procedure with inputs, outputs and checks.
-- Normal and exception walkthroughs with a recorded repair.
-- Independent late/incomplete subsection that preserves uncertainty.
+- The eight-step procedure with the repaired steps 4 and 5 and the two sponsor questions.
+- Your AI draft review with three findings.
+- The T001 example, the missing-owner route and both walkthroughs, with the step 5 repair recorded.
+- Your Late or Incomplete Submission subsection and walkthrough C.
 
-Record the defect or uncertainty you investigated, the evidence used, the repair or reasoned no-change decision, and the final state. Restore temporary changes or keep them in a clearly named scenario copy.
-
-<details markdown="1">
-<summary>Reference-run scope (trainer information)</summary>
-
-real-app reference route captured with 13 stage images. Gemini response reviewed, eight-step table verified and normal/missing-owner paper routes checked. Independent late/incomplete challenge and reviewer pilot remain pending.
-
-The classroom-clarity revision changes the guide; the revised learner route and timings still need classroom checks.
-
-</details>
+Be ready to point to one instruction in your procedure that is proposed practice rather than a source fact.
 
 ## Troubleshooting
 
 | Symptom | What to check |
 |---|---|
-| A shorter rewrite loses a required check | Compare the before-and-after input/action/output table and restore the missing check. |
-| An input or earlier result is missing | Reopen the input named in Before You Begin; do not substitute private company data |
-| A menu or feature is unavailable | Confirm the account and the shared access notes; record the missing step and ask the trainer for its fallback |
-| The result differs from the checkpoint | Compare the exact source range, wording and conditions before repeating the action |
+| Gemini changed my document instead of replying in the panel | Press **Ctrl+Z** until the change is gone, or click **Reject all**. The prompt asks for a panel reply only. |
+| The Ask Gemini button isn't there | Your account may not have Gemini. Follow **No Gemini?** under Before You Begin. |
+| The procedure landed inside the Authoring Log | Select it, press **Ctrl+X**, click at the end of the purpose statement and press **Ctrl+V**. |
+| My pasted table appeared inside another cell | Press **Ctrl+Z** once. Click a blank line below the table, outside it, and paste again. |
+| The procedure now has nine steps | You pasted a replacement without selecting the old step. Delete the old step 4 or 5. |
+| I'm not sure what to write in a walkthrough | Read one step at a time and ask: do I know what to do next? Write down any step where the answer is no. |
 
 ## Lesson Summary
 
-You created a source-constrained draft. Structure and navigation will make it usable as a longer document.
+You asked Gemini for a draft and checked it against the sources, then built a checked procedure with the sponsor's open decisions. You tested it with a normal task and a missing-owner case, found the gap in step 5 and repaired it. In Lab 03 you give the procedure headings and navigation so it works as a longer document.
 
-**Check yourself:** Can you identify one instruction that is a proposed procedure step rather than a source fact?
+**Check yourself:** what can a contributor do with a complete draft while the submission route is still unagreed?

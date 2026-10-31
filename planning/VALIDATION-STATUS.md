@@ -1,5 +1,9 @@
 # Validation Status
 
+## Docs Labs 01 and 02 rewritten to the write-lab-chapter pattern, 31 October 2026
+
+Lab 01 (pull request #69) and Lab 02 were rewritten to training-book-kit's `write-lab-chapter` skill: a scenario opener, a document map, a short Topics section, sections of three to six concrete steps with one check each, and judgement tasks with a written result and an expected-result box. Copy blocks, tables and screenshots are unchanged and kept in order. Captions note where a reference screenshot shows earlier wording; those screenshots still need recapture. The Lab 02 reference run (13 stage images, 18 October 2026) remains the evidence for the native route. The rewritten routes have not been run by learners, timed in class or independently reviewed.
+
 ## Docs Labs 02–08 classroom-clarity revision, 30 October 2026
 
 Following the Lab 01 feedback, the remaining seven Docs guides now identify the skills and current working copy, explain purpose, divide guided work into small tasks and add visible checkpoints. Related text is grouped, short labels remain beside the action, and supplied evidence/planning/audit tables reduce transcription. Conversion and reviewer results stay pending until actually observed. All existing screenshot links and captions are retained in order. These are guide revisions, not new native-app executions or completed classroom pilots; the planned timing allocations remain unchanged.
