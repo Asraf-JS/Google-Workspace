@@ -1,5 +1,9 @@
 # Validation Status
 
+## Sheets Foundation Lab 06 rewritten to the write-lab-chapter pattern, 31 October 2026
+
+Lab 06 was rewritten on top of the 29 captures from pull request #76, keeping their order: nine short sections, every typed value inline, plain boxes, and Session/Grounding lines above the optional Gemini prompt. Reference-run notes and the validation-boundary callout were removed from the participant page. Learners now write their own two findings (expected wording in a What should you see box); the Summary Test Log is supplied, with a cleaner Scope row than the captured one, and the caption says so. Independent practice (dashboard tab, partner-set fault, peer review) has concrete steps; the misspelt-team expected result (E3 0, J4 -4000) is derived, not captured. Not run by learners, timed in class or independently reviewed.
+
 ## Sheets Foundation Lab 05 rewritten to the write-lab-chapter pattern, 31 October 2026
 
 Lab 05 was rewritten on top of the 34 captures from pull request #76, keeping their order: the 20-step casework section became six short sections (status tests, whole-week rule, week tests, entry guide, filter and SUM, reopening views), every typed value is inline and the boxes are plain. Reference-run notes and the validation-boundary callout were removed from the participant page. Learners record their own observations in Rule Tests; expected values are in What should you see boxes. The independent Procurement view (T005, T006, T008) and the E5 coverage-gap test have concrete steps and expected results derived from the starter data and the rule definition, not captured. Not run by learners, timed in class or independently reviewed.
