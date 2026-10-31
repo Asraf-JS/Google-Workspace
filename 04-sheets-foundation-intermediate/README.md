@@ -16,7 +16,7 @@
 
 | Day | # | Chapter | Prompts and values | What you will do | Minutes |
 |---|---|---|---|---|---|
-| 1 | 01 | [Create and Navigate a Workbook](./01-workbook-basics/README.md) | [Prompts and values](./01-workbook-basics/prompts.md) | Build a Workbook Map and Reconstruct a Small Register. | 40 |
+| 1 | 01 | [Create and Navigate a Workbook](./01-workbook-basics/README.md) | [Prompts and values](./01-workbook-basics/prompts.md) | Save the register as Google Sheets, practise on copies and write a Workbook Guide. | 40 |
 | 1 | 02 | [Enter and Format Reliable Data](./02-format-data/README.md) | [Prompts and values](./02-format-data/prompts.md) | Diagnose Display, Type and Readability Problems. | 45 |
 | 1 | 03 | [Calculate and Copy Formulas](./03-basic-calculations/README.md) | [Prompts and values](./03-basic-calculations/prompts.md) | Test Calculations With Zeros, Blanks and Reference Errors. | 65 |
 | 1 | 04 | [Clean and Organise Records](./04-clean-sort-freeze/README.md) | [Prompts and values](./04-clean-sort-freeze/prompts.md) | Clean an Intake and Prove That Records Stay Together. | 50 |
