@@ -1,0 +1,267 @@
+{
+ "raw": "../raw/04-sheets-foundation-intermediate/02-format-data",
+ "repoRoot": "../../../04-sheets-foundation-intermediate",
+ "shots": {
+  "c04-02-01-numeric-cost-in-formula-bar.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     200,
+     140,
+     1,
+     "right"
+    ],
+    [
+     1016,
+     208,
+     1158,
+     242,
+     1
+    ]
+   ]
+  },
+  "c04-02-02-custom-ringgit-no-decimals-selected.png": {
+   "boxes": [
+    [
+     572,
+     292,
+     1032,
+     330,
+     2
+    ],
+    [
+     836,
+     232,
+     936,
+     262
+    ],
+    [
+     940,
+     226,
+     1036,
+     266
+    ]
+   ]
+  },
+  "c04-02-03-cost-range-displays-ringgit-numeric-values.png": {
+   "boxes": [
+    [
+     1016,
+     208,
+     1298,
+     606,
+     2
+    ]
+   ]
+  },
+  "c04-02-04-week-index-whole-number-not-date.png": {
+   "boxes": [
+    [
+     738,
+     208,
+     876,
+     606,
+     3
+    ]
+   ]
+  },
+  "c04-02-05-retain-readable-header-contrast.png": {
+   "boxes": [
+    [
+     44,
+     170,
+     1298,
+     208,
+     1
+    ]
+   ]
+  },
+  "c04-02-06-wrapped-task-text-and-readable-owner-widths.png": {
+   "boxes": [
+    [
+     318,
+     208,
+     578,
+     606,
+     2
+    ]
+   ]
+  },
+  "c04-02-07-fit-source-row-heights-to-data.png": {
+   "boxes": [
+    [
+     684,
+     458,
+     804,
+     494,
+     3
+    ],
+    [
+     732,
+     506,
+     820,
+     550
+    ]
+   ]
+  },
+  "c04-02-08-practice-date-outside-source-register.png": {
+   "boxes": [
+    [
+     1362,
+     208,
+     1514,
+     244,
+     1
+    ],
+    [
+     418,
+     840,
+     592,
+     870
+    ]
+   ]
+  },
+  "c04-02-09-numeric-ringgit-practice-formula-bar.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     200,
+     140
+    ],
+    [
+     1362,
+     306,
+     1514,
+     342,
+     2,
+     "below"
+    ]
+   ]
+  },
+  "c04-02-10-text-cost-practice-formula-bar.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     200,
+     140
+    ],
+    [
+     1512,
+     306,
+     1588,
+     342,
+     2,
+     "below"
+    ]
+   ]
+  },
+  "c04-02-11-labelled-type-test-inputs-on-entry-practice.png": {
+   "boxes": [
+    [
+     44,
+     286,
+     252,
+     410,
+     1
+    ]
+   ]
+  },
+  "c04-02-12-sum-count-check-distinguishes-number-and-text.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     260,
+     140
+    ],
+    [
+     44,
+     424,
+     364,
+     470,
+     3
+    ]
+   ]
+  },
+  "c04-02-13-practice-table-header-wrap-and-number-formats.png": {
+   "boxes": [
+    [
+     44,
+     164,
+     1220,
+     250,
+     5
+    ]
+   ]
+  },
+  "c04-02-14-paste-comparison-targets-before-transfer.png": {
+   "boxes": [
+    [
+     706,
+     286,
+     1018,
+     352,
+     6
+    ]
+   ]
+  },
+  "c04-02-16-paste-special-format-only-command.png": {
+   "boxes": [
+    [
+     96,
+     242,
+     400,
+     272
+    ],
+    [
+     418,
+     284,
+     612,
+     310,
+     6
+    ]
+   ]
+  },
+  "c04-02-17-format-only-keeps-target-value-123.png": {
+   "boxes": [
+    [
+     706,
+     324,
+     1018,
+     352,
+     6
+    ]
+   ]
+  },
+  "c04-02-18-observations-and-source-numeric-counts-recorded.png": {
+   "boxes": [
+    [
+     44,
+     486,
+     712,
+     760,
+     7
+    ]
+   ]
+  },
+  "c04-02-19-final-source-values-preserved-after-formatting.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     200,
+     140
+    ],
+    [
+     1016,
+     206,
+     1160,
+     230
+    ]
+   ]
+  }
+ }
+}

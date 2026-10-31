@@ -1,0 +1,27 @@
+{
+  "exports": [
+    {
+      "file": "GW-Sponsor-Summary-r1.pdf",
+      "sha256": "c0a99d8d2ff708ba8516a4c513026aace330600f6f3ee88ef2f4a6706672a45e",
+      "pages": 1
+    },
+    {
+      "file": "GW-Sponsor-Summary-r2.pdf",
+      "sha256": "73a11edad9cc7e66443094d98d2e62baec66836ee7f15d81d1c69a592e0d2bb3",
+      "pages": 1
+    },
+    {
+      "file": "GW-Task-Listing-r1.pdf",
+      "sha256": "680ca965924efc7288639f4c0c9e206170eddf21356c8cf81921f61f997728f0",
+      "pages": 2
+    }
+  ],
+  "r1BeforeHeadingChange": "c0a99d8d2ff708ba8516a4c513026aace330600f6f3ee88ef2f4a6706672a45e",
+  "r1AfterHeadingChangeUnchanged": true,
+  "sourceHeadingRestored": "Status",
+  "summaryRange": "A1:N28",
+  "registerRange": "A1:I13",
+  "registerBreakAfterRow": 7,
+  "registerRepeatedHeader": true,
+  "note": "Page number checkbox was selected, but saved PDF pages have no visible footer numbers; do not claim footer verification."
+}

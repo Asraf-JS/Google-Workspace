@@ -1,0 +1,519 @@
+{
+ "raw": "../raw/04-sheets-foundation-intermediate/08-register-challenge",
+ "repoRoot": "../../../04-sheets-foundation-intermediate",
+ "shots": {
+  "c04-08-01-private-workbook-copy.png": {
+   "boxes": [
+    [
+     602,
+     276,
+     1000,
+     340,
+     1
+    ],
+    [
+     602,
+     470,
+     1000,
+     590,
+     1
+    ],
+    [
+     864,
+     620,
+     998,
+     660
+    ]
+   ]
+  },
+  "c04-08-02-named-challenge-baseline.png": {
+   "boxes": [
+    [
+     54,
+     10,
+     860,
+     40,
+     2
+    ]
+   ]
+  },
+  "c04-08-03-thirteenth-task-before-extensions.png": {
+   "boxes": [
+    [
+     40,
+     448,
+     1300,
+     474,
+     3
+    ]
+   ]
+  },
+  "c04-08-04-new-row-variance.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     480,
+     140
+    ],
+    [
+     1296,
+     448,
+     1376,
+     474,
+     4
+    ]
+   ]
+  },
+  "c04-08-05-status-rule-extended.png": {
+   "boxes": [
+    [
+     1276,
+     160,
+     1566,
+     196,
+     5
+    ],
+    [
+     1482,
+     780,
+     1570,
+     816
+    ]
+   ]
+  },
+  "c04-08-06-task-controls-extended.png": {
+   "boxes": [
+    [
+     1396,
+     206,
+     1592,
+     334,
+     6,
+     "left"
+    ]
+   ]
+  },
+  "c04-08-07-challenge-named-range.png": {
+   "boxes": [
+    [
+     1284,
+     186,
+     1568,
+     268,
+     7
+    ],
+    [
+     1018,
+     206,
+     1158,
+     452
+    ]
+   ]
+  },
+  "c04-08-08-thirteen-record-summary.png": {
+   "boxes": [
+    [
+     206,
+     206,
+     346,
+     332,
+     8
+    ],
+    [
+     704,
+     214,
+     1060,
+     310,
+     8
+    ]
+   ]
+  },
+  "c04-08-09-deliberate-wrong-row-reference.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     480,
+     140
+    ],
+    [
+     1254,
+     448,
+     1324,
+     474,
+     1
+    ],
+    [
+     1396,
+     240,
+     1592,
+     270
+    ]
+   ]
+  },
+  "c04-08-10-variance-reference-repaired.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     480,
+     140
+    ],
+    [
+     1256,
+     448,
+     1334,
+     474,
+     2
+    ]
+   ]
+  },
+  "c04-08-11-reconciled-thirteen-record-totals.png": {
+   "boxes": [
+    [
+     1390,
+     206,
+     1592,
+     334,
+     3,
+     "left"
+    ]
+   ]
+  },
+  "c04-08-12-extended-summary-and-findings.png": {
+   "boxes": [
+    [
+     44,
+     346,
+     640,
+     386,
+     4
+    ]
+   ]
+  },
+  "c04-08-13-new-row-status-rejection.png": {
+   "boxes": [
+    [
+     518,
+     346,
+     1082,
+     532,
+     1
+    ]
+   ]
+  },
+  "c04-08-14-valid-status-retained.png": {
+   "boxes": [
+    [
+     1236,
+     448,
+     1396,
+     474,
+     2
+    ]
+   ]
+  },
+  "c04-08-15-checked-reference-explanation.png": {
+   "boxes": [
+    [
+     4,
+     112,
+     480,
+     140
+    ],
+    [
+     206,
+     286,
+     346,
+     310,
+     3
+    ],
+    [
+     44,
+     348,
+     580,
+     390,
+     3
+    ]
+   ]
+  },
+  "c04-08-16-range-coverage-log.png": {
+   "boxes": [
+    [
+     44,
+     166,
+     1592,
+     516,
+     1,
+     "left"
+    ]
+   ]
+  },
+  "c04-08-17-all-variance-formulas.png": {
+   "boxes": [
+    [
+     1252,
+     206,
+     1324,
+     474,
+     2
+    ]
+   ]
+  },
+  "c04-08-18-before-cost-correction-controls.png": {
+   "boxes": [
+    [
+     704,
+     286,
+     1100,
+     350,
+     3
+    ]
+   ]
+  },
+  "c04-08-19-two-method-controls-and-prediction.png": {
+   "boxes": [
+    [
+     44,
+     546,
+     1592,
+     716,
+     4,
+     "left"
+    ],
+    [
+     44,
+     728,
+     1592,
+     792
+    ]
+   ]
+  },
+  "c04-08-20-corrected-actual-cost-row.png": {
+   "boxes": [
+    [
+     1124,
+     448,
+     1330,
+     474,
+     5
+    ]
+   ]
+  },
+  "c04-08-21-corrected-summary-controls.png": {
+   "boxes": [
+    [
+     704,
+     214,
+     1060,
+     350,
+     6
+    ]
+   ]
+  },
+  "c04-08-22-corrected-two-method-reconciliation.png": {
+   "boxes": [
+    [
+     44,
+     510,
+     1592,
+     672,
+     7,
+     "left"
+    ],
+    [
+     44,
+     690,
+     1592,
+     822
+    ]
+   ]
+  },
+  "c04-08-23-extended-incomplete-view.png": {
+   "boxes": [
+    [
+     58,
+     148,
+     330,
+     176,
+     8
+    ],
+    [
+     40,
+     244,
+     1364,
+     434,
+     8
+    ],
+    [
+     1376,
+     842,
+     1590,
+     868
+    ]
+   ]
+  },
+  "c04-08-24-planning-view-includes-t013.png": {
+   "boxes": [
+    [
+     66,
+     148,
+     410,
+     176,
+     9
+    ],
+    [
+     40,
+     244,
+     1380,
+     304,
+     9
+    ],
+    [
+     1390,
+     842,
+     1600,
+     868,
+     9
+    ]
+   ]
+  },
+  "c04-08-25-all-thirteen-records-restored.png": {
+   "boxes": [
+    [
+     40,
+     206,
+     1366,
+     474,
+     10
+    ]
+   ]
+  },
+  "c04-08-26-corrected-sponsor-summary.png": {
+   "boxes": [
+    [
+     720,
+     186,
+     1100,
+     206,
+     11
+    ],
+    [
+     50,
+     346,
+     740,
+     386,
+     11
+    ],
+    [
+     704,
+     286,
+     1100,
+     350
+    ]
+   ]
+  },
+  "c04-08-27-challenge-export-preview.png": {
+   "boxes": [
+    [
+     1310,
+     114,
+     1580,
+     154,
+     12
+    ],
+    [
+     1310,
+     198,
+     1580,
+     238,
+     12
+    ],
+    [
+     1492,
+     10,
+     1592,
+     48,
+     12
+    ]
+   ]
+  },
+  "c04-08-28-corrected-challenge-pdf-page.png": {
+   "boxes": [
+    [
+     60,
+     68,
+     1340,
+     692,
+     13
+    ]
+   ]
+  },
+  "c04-08-29-operating-guide-and-export-identity.png": {
+   "boxes": [
+    [
+     44,
+     266,
+     960,
+     820,
+     14
+    ]
+   ]
+  },
+  "c04-08-30-final-coverage-and-control-table.png": {
+   "boxes": [
+    [
+     44,
+     166,
+     1592,
+     320,
+     15,
+     "left"
+    ]
+   ]
+  },
+  "c04-08-31-original-baseline-preserved.png": {
+   "boxes": [
+    [
+     54,
+     10,
+     560,
+     40,
+     16
+    ],
+    [
+     44,
+     186,
+     346,
+     330,
+     16
+    ],
+    [
+     704,
+     214,
+     1060,
+     310
+    ]
+   ]
+  },
+  "c04-08-32-corrected-challenge-handover.png": {
+   "boxes": [
+    [
+     54,
+     10,
+     860,
+     40,
+     17
+    ],
+    [
+     704,
+     286,
+     1060,
+     350,
+     17
+    ]
+   ]
+  }
+ }
+}

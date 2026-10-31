@@ -2,13 +2,15 @@
 
 In this chapter you will use arithmetic, SUM, AVERAGE and COUNT; explain relative and absolute references.
 
-> **Prompts and values:** use the [copy-paste page](./prompts.md) for the exact values used below.
+> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
 
-**Target allocation:** 65 minutes: 15 explanation/demonstration, 22 guided build and casework, 20 independent challenge, 8 verification and repair. The active portion is 50 minutes by design. These are unmeasured targets awaiting a learner pilot.
+**Estimated time:** 65 minutes, planned as 15 explanation and demonstration, 22 guided build and casework, 20 independent practice and 8 verification and repair, with 50 active minutes by design. Not yet timed with learners.
 
 **Your result:** Copied variance formulas, reconciled totals and a tested fixed reference.
 
-> **Status:** expanded review draft, revision 0.4. Complete the casework and independent challenge as well as the guided steps. The expanded route, screenshots and timing have not yet been validated in the learner application.
+> **Status:** author reference with 23 staged application captures through guided sections 3.1–3.3 and casework 3.4. Row formulas, summaries, fixed-reference change/restoration, zero/blank/text checks, deliberate reference repair and reconciliation verified. Independent estimate/omitted-range challenge and learner timing remain pending.
+
+---
 
 ## What You Will Learn
 
@@ -24,75 +26,151 @@ Use Tasks A1:H13. The workbook has no prefilled answer formulas.
 
 ## 3.1 Calculate Variance
 
-1. In I1 type `Variance`. In I2 enter `=H2-G2`.
-2. Fill I2 through I13 using the fill handle or copy and paste.
-3. Inspect I2, I7 and I13 in the formula bar. Each formula should reference its own row. Negative variance means actual cost is below planned cost.
+1. On **Tasks**, use the name box to select **I1** and enter **Variance**. In **I2** enter **=H2-G2** and commit it. T001 displays **-RM50**; the formula bar shows the underlying calculation.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![First variance result before filling](./images/c04-03-01-first-variance.png)
 
-T001 has variance -50. The formula in I13 uses H13 and G13.
+*First variance result before filling.*
 
-</details>
+2. Select **I2:I13** with the name box and press **Ctrl+D** to fill down from the first cell. The fill handle or normal copy/paste is an alternative. The range sum is **-RM3,600**.
 
-<!-- VERIFY: execute 3.1 in the target account and reconcile control names. Capture images/c04-03-01.jpg only from the real app. -->
+![Fill all twelve row variances](./images/c04-03-02-fill-variance.png)
+
+*Fill all twelve row variances.*
+
+3. Inspect **I2**, **I7** and **I13** in the formula bar. Each refers to its own row: **=H2-G2**, **=H7-G7** and **=H13-G13**. The final two checks display **-RM700**. A negative variance means actual cost is below planned; it does not by itself establish a final saving or project completion.
+
+![Inspect the middle row reference](./images/c04-03-03-inspect-middle.png)
+
+*Inspect the middle row reference.*
+
+![Inspect the final row reference](./images/c04-03-04-inspect-final.png)
+
+*Inspect the final row reference.*
 
 ## 3.2 Summarise the Columns
 
-1. In K1:L4 enter labels Planned Total, Actual Total and Variance Total in K2:K4.
-2. Enter `=SUM(G2:G13)` in L2, `=SUM(H2:H13)` in L3 and `=SUM(I2:I13)` in L4.
-3. In K6:L7 add Average Planned and Numeric Cost Count, using `=AVERAGE(G2:G13)` and `=COUNT(G2:G13)`.
+1. Still on **Tasks**, in **K1:L1** enter **Measure / Result**. Label **K2:K4** **Planned Total / Actual Total / Variance Total**. In **L2:L4** enter **=SUM(G2:G13)**, **=SUM(H2:H13)** and **=SUM(I2:I13)**. Double-click the right edge of the K column header to fit its labels. Scroll horizontally when needed to show the complete summary.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![Reconcile planned, actual and variance totals](./images/c04-03-05-three-totals.png)
 
-Planned total is RM 10,400, actual total RM 6,800 and variance total -RM 3,600. There are 12 numeric planned costs.
+*Reconcile planned, actual and variance totals.*
 
-</details>
+2. Add **Average Planned** in K6 with **=AVERAGE(G2:G13)** in L6, and **Numeric Cost Count** in K7 with **=COUNT(G2:G13)** in L7. Fit K again after adding the longer labels. Select L6 and increase decimal places twice if it inherited the source's whole-ringgit display. The displayed average is **RM866.67**; its underlying calculation remains 10,400 divided by 12.
 
-<!-- VERIFY: execute 3.2 in the target account and reconcile control names. Capture images/c04-03-02.jpg only from the real app. -->
+![Display the average with two decimals](./images/c04-03-06-average-count.png)
+
+*Display the average with two decimals.*
+
+3. Inspect L7's formula and **12** result. The totals are **RM10,400 planned**, **RM6,800 actual** and **-RM3,600 variance**. Do not replace the formulas with those expected numbers.
+
+![Count twelve numeric planned costs](./images/c04-03-07-count-formula.png)
+
+*Count twelve numeric planned costs.*
 
 ## 3.3 Anchor an Assumption
 
-1. On Navigation Practice, type `Practice multiplier` in K9 and 1.1 in L9. This is a hypothetical calculation, not a tax rate.
-2. In J2 enter `=G2*$L$9` and fill through J13.
-3. Inspect a later formula. Change L9 to 1.2, observe the results and restore 1.1.
+1. On **Navigation Practice**, reuse the clearly labelled practice area: clear the earlier Lab 2 date/cost examples in **J2:K6**. Their earlier screenshots remain in Lab 2. Set **J2:J13** to **More formats > Number**, so the old J2 date format cannot disguise a numeric calculation as a date. Keep the original Tasks source and the copied A:H records unchanged.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+2. Enter **Practice multiplier** in **K9** and numeric **1.1** in **L9**. Fit K to show the complete label. This assumption is hypothetical; it is not an approved rate or a tax rule.
 
-The multiplier reference remains $L$9 while each row's G reference moves.
+![Enter the hypothetical practice multiplier](./images/c04-03-08-practice-assumption.png)
 
-</details>
+*Enter the hypothetical practice multiplier.*
 
-<!-- VERIFY: execute 3.3 in the target account and reconcile control names. Capture images/c04-03-03.jpg only from the real app. -->
+3. In **J2**, enter `=G2*$L$9` and commit it. The first result is **660.00** before filling the remaining rows.
+
+![First anchored calculation result](./images/c04-03-09-first-anchored-formula.png)
+
+*First anchored calculation result.*
+
+4. Select **J2:J13** and use **Ctrl+D**. Inspect **J13**: `=G13*$L$9` displays **770.00**. G changes with the row; $L$9 stays fixed.
+
+![Inspect the final anchored reference](./images/c04-03-10-fixed-final-reference.png)
+
+*Inspect the final anchored reference.*
+
+5. Change **L9** to **1.2** and commit it. The first and final results become **720.00** and **840.00**.
+
+![Change the multiplier to 1.2](./images/c04-03-11-assumption-1point2.png)
+
+*Change the multiplier to 1.2.*
+
+6. Restore **L9** to **1.1**. Reinspect J13's fixed reference and **770.00** result.
+
+![Restore the multiplier to 1.1](./images/c04-03-12-restored-assumption.png)
+
+*Restore the multiplier to 1.1.*
 
 ## 3.4 Test Calculations With Zeros, Blanks and Reference Errors
 
-1. Create a **Calculation Tests** tab with Planned, Actual and Variance in A:C. Enter the four pairs on the card, leaving the designated blank empty.
+1. Use **Add Sheet**, then double-click the new tab and name it **Calculation Tests**. Enter **Planned / Actual / Variance** in **A1:C1**, and the four planned/actual pairs **100/80**, **100/120**, **100/0**, **100/blank** in rows 2–5. Leave **B5** genuinely empty.
 
-2. Calculate Actual minus Planned for each complete numeric pair. Record separately why a blank Actual requires interpretation rather than automatically meaning confirmed zero expenditure.
+![Enter four calculation input cases](./images/c04-03-13-four-test-pairs.png)
 
-3. Compare a real numeric zero with a blank and with text. Use COUNT and SUM in clearly labelled test cells to inspect numeric participation.
+*Enter four calculation input cases.*
 
-4. Create one deliberately wrong same-row calculation on the practice tab. Predict its result, inspect the formula bar and repair the reference.
+2. Enter **=B2-A2** in C2 and fill **C2:C4**. Results are **-20, 20, -100**. Leave C5 empty because its actual is not supplied. Type `Interpretation` in D1 and the four interpretations from Part 4 of the [prompts page](./prompts.md) in D2:D5, then fit the column. A formula that treats an empty reference as zero would not establish confirmed zero expenditure.
 
-5. Rebuild the practice multiplier calculation with both a relative and an absolute multiplier reference in two columns. Fill each down and compare the second and final rows.
+![Distinguish a confirmed zero from missing information](./images/c04-03-14-zero-blank-meaning.png)
 
-6. Change the multiplier once, record the effect and restore it. Keep this hypothetical exercise separate from tax, policy or approved rates.
+*Distinguish a confirmed zero from missing information.*
 
-7. Reconcile SUM of row variances with total actual minus total planned in Tasks. If they differ, locate a specific row or range error rather than adjusting the total manually.
+3. In **A8:D11**, create a separate test with headers **Input kind / Input / COUNT / SUM** and the row labels from Part 4 of the prompts page. B9 is numeric **0**, B10 stays blank, B11 is text **RM 600**. In C9 and D9 enter **=COUNT(B9)** and **=SUM(B9)**, then fill through row 11. COUNT returns **1, 0, 0**; SUM returns **0, 0, 0**. SUM alone cannot distinguish these three inputs.
 
-<details markdown="1">
-<summary>What should you see?</summary>
+![Compare COUNT and SUM for zero, blank and text](./images/c04-03-15-count-zero-blank-text.png)
 
-Four-case calculation test with a documented blank-information limitation. The result must be supported by the recorded checks; an attractive output or an AI assurance is insufficient.
+*Compare COUNT and SUM for zero, blank and text.*
 
-</details>
+4. Predict that the intentionally wrong **=B3-A2** in C2 gives **20** by using the next row's actual. Enter it, inspect the formula bar and compare it with the first pair's intended **-20**. Record prediction and observation in **A14:D15** (headers and labels are in Part 4 of the prompts page).
 
-<!-- VERIFY: execute expanded section 3.4 and independent challenge; capture images/c04-03-04.jpg only after real application success. -->
+![Inspect a deliberately wrong row reference](./images/c04-03-16-deliberate-wrong-reference.png)
 
-## Independent Challenge
+*Inspect a deliberately wrong row reference.*
+
+5. Repair C2 to **=B2-A2** and verify **-20**. Keep the wrong test's observed **20** as a labelled historical value, rather than a live link that changes after repair. Add the repaired observation in row 16.
+
+> **Reference run:** The reference uses **=C2** for the current repaired result.
+
+![Repair the reference and retain the recorded test](./images/c04-03-17-repaired-reference.png)
+
+*Repair the reference and retain the recorded test.*
+
+6. Build the reference comparison in **F1:H5**: headers **Planned / Relative / Absolute**, and four planned inputs of **100**. Put **Practice multiplier** in K1 and **1.1** in K2. Enter `=F2*K2` in G2 and `=F2*$K$2` in H2. Both initially return **110**.
+
+![Prepare relative and absolute formulas](./images/c04-03-18-two-reference-types.png)
+
+*Prepare relative and absolute formulas.*
+
+7. Fill **G2:H5** using Ctrl+D. Inspect **G3** `=F3*K3` and **G5** `=F5*K5`: both refer to blank multiplier cells and give **0**. Inspect **H3** `=F3*$K$2` and **H5** `=F5*$K$2`: both keep the intended assumption and give **110**. Retain the relative column as a labelled teaching counterexample.
+
+![Inspect relative reference drift to a blank cell](./images/c04-03-19-relative-reference-moved.png)
+
+*Inspect relative reference drift to a blank cell.*
+
+![Inspect the retained absolute reference](./images/c04-03-20-absolute-reference-retained.png)
+
+*Inspect the retained absolute reference.*
+
+8. Change K2 to **1.2**. G2 and all four absolute results become **120**; the later relative results remain **0**. Record that observation, restore K2 to **1.1**, and keep the before/change/restored values in **A19:D20** (labels in Part 4 of the prompts page). This is hypothetical practice only.
+
+![Change the casework multiplier to 1.2](./images/c04-03-21-reference-test-1point2.png)
+
+*Change the casework multiplier to 1.2.*
+
+![Restore 1.1 and record the test](./images/c04-03-22-reference-test-restored.png)
+
+*Restore 1.1 and record the test.*
+
+9. In **A23:B26**, reconcile the original source with **=SUM(Tasks!I2:I13)**, **=SUM(Tasks!H2:H13)-SUM(Tasks!G2:G13)** and the difference **=B24-B25**. Both methods give **-RM3,600** and their difference is **RM0**. Use the labels in Part 4 of the prompts page and fit A to show them. Record the blank-information and reference-drift explanations in A28:B30. All original **Tasks!A1:H13** values remain unchanged.
+
+![Reconcile both source calculations to zero difference](./images/c04-03-23-reconciliation-zero-difference.png)
+
+*Reconcile both source calculations to zero difference.*
+
+> **Validation boundary:** these are author UI reference checks. The independent estimate table, deliberately omitted total range, independent diagnosis and learner timing pilot have not been completed by this reference run.
+
+## Independent Practice
 
 Close the earlier step lists for the first attempt. Use the case input and your own reasoning. If you need help, record the hint and repeat the affected check independently.
 
@@ -102,7 +180,7 @@ Close the earlier step lists for the first attempt. Use the case input and your 
 
 3. Write a short explanation of negative variance, numeric zero, blank information and a fixed reference, each supported by an actual test cell.
 
-## Evidence to Hand Over
+### Evidence to Hand Over
 
 - Four-case calculation test with a documented blank-information limitation.
 - Reference-error and omitted-range diagnosis with repaired formulas.
