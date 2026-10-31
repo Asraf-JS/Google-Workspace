@@ -1,5 +1,9 @@
 # Validation Status
 
+## Sheets Foundation Lab 03 rewritten to the write-lab-chapter pattern, 31 October 2026
+
+Lab 03 was rewritten on top of the 23 captures from pull request #76, keeping their order. The long casework section was split into four (zeros and blanks, wrong reference, relative and absolute, two-way total check), every typed value is inline and the boxes are plain. Reference-run notes and the validation-boundary callout were removed from the participant page. Learners now type their own observations in rows 15, 16 and 28 to 30; captions note where the captured wording differs (D15). The independent estimate table and omitted-range diagnosis now have concrete steps and an expected result (B24 -2,900, B26 700) derived from the starter data, not observed in a capture. Not run by learners, timed in class or independently reviewed.
+
 ## Sheets Foundation Lab 02 rewritten to the write-lab-chapter pattern, 31 October 2026
 
 Lab 02 was rewritten on top of the 18 captures from pull request #76, keeping their order: eight short sections with one check each, every typed value inline, and plain boxes. Reference-run notes, the status callout and the values-only "verification limitation" were removed from the participant page. The capture run observed that Paste special > Values only carried the RM number format onto a target set to format 0; this matches Sheets' documented behaviour (values only keeps number formatting), so the lab now teaches it as the expected result. The notes block in 2.8 is supplied with clearer wording than the captured screenshot, and the caption says so. Not run by learners, timed in class or independently reviewed.
