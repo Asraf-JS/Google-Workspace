@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded',()=>{
  document.querySelectorAll('.sidebar-nav a').forEach(a=>{if(location.pathname.startsWith(new URL(a.href).pathname))a.setAttribute('aria-current','page');});
  document.querySelectorAll('pre').forEach(pre=>{const button=document.createElement('button');button.className='copy-button';button.textContent='Copy';button.type='button';button.setAttribute('aria-label','Copy this value or prompt');const code=pre.querySelector('code');button.addEventListener('click',async()=>{try{await navigator.clipboard.writeText(code?.textContent||'');button.textContent='Copied';}catch{button.textContent='Select text to copy';} });pre.prepend(button);});
  document.querySelectorAll('.main-inner table').forEach(table=>{
+  if(table.previousElementSibling?.matches('[data-no-copy]'))return;
   const heading=table.previousElementSibling?.matches('[data-copy-with-table]')?table.previousElementSibling:null;
   const tools=document.createElement('div');tools.className='table-copy-tools';
   const button=document.createElement('button');button.type='button';button.className='copy-table-button';button.textContent=heading?'Copy heading and table':'Copy table';
