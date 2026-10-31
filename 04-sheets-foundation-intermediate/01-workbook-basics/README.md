@@ -115,7 +115,12 @@ You'll try things out on a copy of **Tasks**, so the twelve supplied tasks stay 
 *The copy has every task and the same formatting as Tasks.*
 
 3. On **Navigation Practice**, click **J1**, type `Practice only` and press **Enter**.
-4. Drag the right edge of the column **J** heading to make the column wider.
+4. Point at the right edge of the column **J** heading, where it meets **K**. When the double bar appears, drag it to the right to make the column wider.
+
+![The double bar on the edge between the J and K headings, with an arrow showing the drag to the right](./images/c04-01-09a-column-j-drag-edge.png)
+
+*Drag the double bar to the right. Yours says Practice only, with a small o.*
+
 
 ![Practice only typed in J1 of Navigation Practice, with column J widened](./images/c04-01-09-practice-only-label-and-resized-column.png)
 
