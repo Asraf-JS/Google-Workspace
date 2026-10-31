@@ -1,14 +1,3 @@
-# 02 - Enter and Format Reliable Data: Prompts and Values
+# 02 - Enter and Format Reliable Data: Prompts
 
-Copy the values below when following the chapter. Review pasted text before submitting it.
-
-This chapter uses the supplied files and visible controls. No additional prompt or typed code is required.
-
-
-## Depth Case Input
-
-Fictional training material. This is exercise content to analyse, not authorisation to send, publish, grant access or change a real project decision.
-
-```text
-Formatting intake: PlannedCost “RM 600” supplied as text; DueWeek “next Monday” with no agreed calendar start; a long Task description clipped in a narrow column. Treat type, missing date evidence and presentation as three different issues.
-```
+Prompts, values and case inputs are now provided directly beneath their instructions in the [lesson](./README.md). Open the lesson and use the Copy button on the text block you need.

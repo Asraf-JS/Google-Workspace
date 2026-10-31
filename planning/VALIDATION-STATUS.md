@@ -1,5 +1,9 @@
 # Validation Status
 
+## Sheets Foundation Lab 02 rewritten to the write-lab-chapter pattern, 31 October 2026
+
+Lab 02 was rewritten to the same pattern as Lab 01: it now formats **Entry Practice** to match **Tasks** (custom number format `"RM "#,##0`, Paste special > Format only for headings, wrapping), adds a Type tests block showing that a typed `RM 600` is skipped by SUM, and records a formatting check in Workbook Guide. The route was written from the starter workbook and the Lab 01 captures; it has not been run in Sheets, has no screenshots yet (capture points are marked in hidden comments), and has not been run by learners, timed in class or independently reviewed.
+
 ## Sheets Foundation Lab 01 rewritten to the write-lab-chapter pattern, 31 October 2026
 
 Lab 01 was rewritten to training-book-kit's `write-lab-chapter` skill: a scenario opener, a workbook map, a Topics section, nine short sections with one check each, and every typed value inline. The Workbook Guide text that the screenshots show is now supplied as paste blocks; learners still look up the four address values themselves. The 26 screenshots are unchanged captures, kept in order, redrawn with plain boxes because the old step numbers no longer match. Reference-run notes were removed from the participant page. They remain true: the instructor uploaded the XLSX manually after the browser extension blocked upload, and the automated upload step, independent challenge and learner timing are unverified. The rewritten route has not been run by learners, timed in class or independently reviewed.
