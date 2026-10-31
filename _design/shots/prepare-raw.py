@@ -19,7 +19,8 @@ for chapter in sys.argv[1:]:
     out.mkdir(parents=True, exist_ok=True)
     for f in sorted(src.glob("*.png")):
         im = Image.open(f).convert("RGB")
-        if im.width != WIDTH:
+        # Focused captures (a menu or a tab, under 800 px) stay at their own size.
+        if im.width != WIDTH and im.width >= 800:
             im = im.resize((WIDTH, round(im.height * WIDTH / im.width)), Image.LANCZOS)
         im.save(out / f.name)
         print(f"  {chapter}/{f.name} {im.width}x{im.height}")

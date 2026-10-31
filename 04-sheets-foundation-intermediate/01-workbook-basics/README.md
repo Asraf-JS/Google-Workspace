@@ -103,6 +103,11 @@ The **name box** is the small box at the far left of the formula bar. It shows w
 You'll try things out on a copy of **Tasks**, so the twelve supplied tasks stay exactly as they arrived.
 
 1. Click the small arrow on the **Tasks** tab and choose **Duplicate**. A tab called **Copy of Tasks** appears.
+
+![The Tasks tab menu open from its small arrow, with Duplicate highlighted](./images/c04-01-08a-tasks-tab-menu-duplicate.png)
+
+*The small arrow is on the Tasks tab itself, at the bottom of the screen.*
+
 2. Click the arrow on **Copy of Tasks**, choose **Rename**, type `Navigation Practice` and press **Enter**.
 
 ![The new Navigation Practice tab next to Tasks](./images/c04-01-08-named-navigation-practice-duplicate.png)
