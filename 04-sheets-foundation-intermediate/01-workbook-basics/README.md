@@ -194,7 +194,7 @@ Now you look up four cells and write down which task each one belongs to. This i
 
 *H13 shows RM 0 for T012. A zero cost is still a value, not an empty cell.*
 
-> **Tip:** press **Ctrl+Shift+Page Down** to move to the next tab and **Ctrl+Shift+Page Up** to go back (on a Mac, **Option+Down arrow** and **Option+Up arrow**).
+> **Tip:** press **Ctrl+Shift+Page Down** to move to the next tab and **Ctrl+Shift+Page Up** to go back. **Alt+Down arrow** and **Alt+Up arrow** do the same. On a Mac, use **Option+Down arrow** and **Option+Up arrow**.
 
 5. Go to **Workbook Guide**. Copy the block below, click **A7** and press **Ctrl+V**. It adds the headings and the four addresses.
 
