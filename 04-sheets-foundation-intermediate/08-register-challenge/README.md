@@ -1,275 +1,429 @@
 # 08 - Complete the Register Challenge
 
-In this chapter you will extend a separate register, repair a formula and reconcile its totals before an independent changed-row challenge.
+A thirteenth task has arrived: T013, *Check the handover*, for Planning. It sounds like one new row, but every total, rule, summary, named range and filter view you built stops at row 13. Aina wants the new task added on a separate copy, every feature extended to cover it and proved to work, a cost correction applied, and a current summary exported, while the original twelve-task register stays exactly as it is. This lab pulls together everything from Labs 01 to 07.
 
-> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
+**Estimated time:** 45 minutes, planned as 5 explanation, 30 guided build and 10 independent practice. Not yet timed with learners.
 
-**Estimated time:** 45 minutes, planned as 10 explanation and demonstration, 15 guided build and casework, 15 independent practice and 5 verification and repair, with 35 active minutes by design. Not yet timed with learners.
+**Your result:** a separate workbook, `GW - Sheets - Register Challenge - 13 Records`, with T013 added and corrected, every range extended, a **Change Log** with two-way checks and an operating guide, and a one-page corrected summary PDF. The original `GW - Sheets - Task Register` is unchanged.
 
-**Your result:** A separate 13-record challenge copy with reconciled totals and chart.
-
-> **Status:** author reference with 32 staged captures through 8.4 (31 application views and one native PDF page). Separate 13-record workbook, extended ranges, repaired reference, actual validation rejection, two-method controls, cost correction, focused views, current PDF and operating guide checked. Original baseline preserved. Partner explanation/handover, independent T014/range omission and learner timing remain pending.
+> **You'll practise:** making a copy of a workbook, adding a record and extending every range that depends on it, editing validation rules and named ranges, catching a wrong reference, checking totals two ways, and exporting a current summary.
 
 ---
 
 ## What You Will Learn
 
-- Extend a register deliberately.
-- Repair a formula and reconcile totals.
-- Explain a checked chart.
+- Add a record and find everything that must grow with it
+- Prove each feature covers the new row
+- Keep the original, the challenge and the fixed PDFs clearly apart
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Open `GW - Sheets - Task Register` from **GW - Sheets Foundation - Practice**. You need everything from Labs 01 to 07, including both saved filter views and the **PlannedCosts** named range.
 
-Make a separate challenge copy of your workbook. The original 12-record baseline must stay intact.
+**What you build in this lab:**
 
-## 8.1 Add a New Record
+**Challenge copy** > T013 > extended rules, totals and named range > extended summary > wrong-reference test > **Change Log** > two-way checks > cost correction > views > corrected PDF > operating guide
 
-1. On the maintained workbook use **File > Make a copy**. Name the new file **GW - Sheets - Register Challenge - 13 Records**. Keep **Share it with the same people** and **Copy comments** unchecked. Verify the new title and distinct workbook identity before editing. This is a whole-workbook scenario copy, not a replacement for the original baseline.
+## Topics
 
-![Name a separate private workbook copy](./images/c04-08-01-private-workbook-copy.png)
+**Ranges don't grow by themselves.** `=SUM(G2:G13)` stops at row 13, so a task in row 14 is quietly left out. The same is true of validation rules, named ranges, COUNTIF and SUMIF. When you add a row, you look for every range that should now end at 14.
 
-*Name a separate private workbook copy.*
+**Prove coverage on the new row.** A rule that says **F2:F14** in its settings is a good sign. Typing `Done` into **F14** and seeing it rejected is proof.
 
-2. Inspect Tasks and its original twelve records. The copied workbook also contains earlier practice tabs and output plans; these are training history. The current challenge handover will use **Tasks / Summary / Change Log** only. Do not present an inherited twelve-record PDF or practice control as the corrected challenge output.
+**Three states, kept apart.** The original register (12 tasks), the challenge copy (13 tasks), and the PDFs (fixed at the moment you saved them). Each has a clear name so nobody mixes them up.
 
-![Inspect the named twelve-record challenge starting state](./images/c04-08-02-named-challenge-baseline.png)
+---
 
-*Inspect the named twelve-record challenge starting state.*
+## 8.1 Make a Challenge Copy
 
-3. In Tasks A14:H14 enter **T013 / Planning / Check the handover / Aina Rahman / 4 / Not Started / 200 / 0** (paste the tab-separated line from Part 3 of the [prompts page](./prompts.md) into A14). The new costs are numeric; the existing bounded controls still omit row 14 until extended.
+1. In `GW - Sheets - Task Register`, click **File**, then **Make a copy**.
+2. Name it `GW - Sheets - Register Challenge - 13 Records`. Leave **Share it with the same people** and **Copy comments** unticked. Click **Make a copy**.
 
-![Add T013 before extending dependent ranges](./images/c04-08-03-thirteenth-task-before-extensions.png)
+![The Copy document box with the new name and both options unticked](./images/c04-08-01-private-workbook-copy.png)
 
-*Add T013 before extending dependent ranges.*
+*The copy goes in the same practice folder.*
 
-4. Select I13:I14 and **Fill down**. Inspect **I14 =H14-G14**, result **-200**. It must calculate from its own record rather than a prior task.
+3. The copy opens in a new tab. Check its name at the top left before you change anything.
 
-![Copy the new row variance formula](./images/c04-08-04-new-row-variance.png)
+![The challenge copy open, named GW - Sheets - Register Challenge - 13 Records](./images/c04-08-02-named-challenge-baseline.png)
 
-*Copy the new row variance formula.*
+*From here on, work only in this copy. The practice tabs came with it; you won't use them.*
 
-5. Inspect the status rule through **Data > Data validation**. Its intended range is **Tasks!F2:F14**, retaining the separate N2 spare rule. Use the **Select data range** picker, extend the F range and confirm **OK / Done**; preserve the exact canonical choices and Reject input. The actual new-row verification and committed repair are shown in 8.3. Do not accept a typed range field alone as proof of coverage.
+**Check:** the name at the top says **Register Challenge - 13 Records**, and **Tasks** still has twelve tasks.
 
-> **Reference run:** The captured field edit below shows the intended extension, but this author's first text-field attempt did not persist.
+---
 
-![Inspect the intended status rule extension](./images/c04-08-05-status-rule-extended.png)
+## 8.2 Add T013
 
-*Inspect the intended status rule extension.*
+1. On **Tasks**, copy the line below, click **A14** and press **Ctrl+V**. It fills all eight fields.
 
-6. Extend the live Tasks controls: L2 **=SUM(G2:G14)**, L3 **=SUM(H2:H14)**, L4 **=SUM(I2:I14)**, L6 **=AVERAGE(G2:G14)**, L7 **=COUNT(G2:G14)**, and J15 **=SUM(G2:G14)**. Expected values before correction are **10600 / 6800 / -3800**, average planned **815.384615…**, numeric count **13**. The original twelve task values remain unchanged.
+```text
+T013	Planning	Check the handover	Aina Rahman	4	Not Started	200	0
+```
 
-![Extend Tasks totals average and numeric count](./images/c04-08-06-task-controls-extended.png)
+![T013 in row 14 of Tasks](./images/c04-08-03-thirteenth-task-before-extensions.png)
 
-*Extend Tasks totals average and numeric count.*
+*The task is in, but nothing else knows about it yet. L2 still says RM10,400.*
 
-7. Inspect **Named ranges**. In the inherited training workbook, PlannedCosts referred to the earlier **Sorting Practice!G2:G13**. In this scenario copy, edit it to the authoritative **Tasks!G2:G14** and save. Navigating to PlannedCosts selects Tasks and reports **RM10600**. Record both the sheet change and new last row; simply extending a historical practice table would leave the named control tied to the wrong source.
+2. Click the name box, type `I13:I14`, press **Enter**, then press **Ctrl+D**. **I14** shows **-200**, from `=H14-G14`.
 
-![Retarget the challenge planned-cost named range](./images/c04-08-07-challenge-named-range.png)
+![I14 showing -200 from =H14-G14](./images/c04-08-04-new-row-variance.png)
 
-*Retarget the challenge planned-cost named range.*
+*The formula uses row 14's own costs.*
 
-8. On Summary, enter **=COUNTIF(Tasks!$F$2:$F$14,A2)** in B2 and fill to B4. Enter **=SUMIF(Tasks!$B$2:$B$14,D2,Tasks!$G$2:$G$14)** in E2 and fill to E4. Extend I3 to **=COUNTA(Tasks!A2:A14)** and I4 to **=SUM(Tasks!G2:G14)**. The existing B5/H3/H4/difference formulas can remain because their summary-category population has not gained a row. Expect **4 / 4 / 5**, total **13**, team planned **3000 / 4000 / 3600**, total **10600**, zero differences. The inherited written findings are updated in the next section; text does not automatically refresh with a chart.
+**Check:** row 14 has T013's eight fields and **I14** holds `=H14-G14`.
 
-![Extend conditional summary and source checks](./images/c04-08-08-thirteen-record-summary.png)
+---
 
-*Extend conditional summary and source checks.*
+## 8.3 Extend the Rule, Totals and Named Range
 
-## 8.2 Repair and Reconcile
+1. Click **Data**, then **Data validation**. Click the status rule (**Tasks!F2:F13, Tasks!N2**).
+2. Click the grid icon in **Apply to range**. Change the first range to `Tasks!F2:F14`, keep **Tasks!N2**, and click **OK**. Click **Done** and close the panel.
 
-1. Predict a deliberate error before applying it. Change challenge I14 to **=H14-G13**. G13 is T012's planned **700**, so the predicted row result is **-700**, summed variance **-4300**, and discrepancy **-500** from the correct actual-minus-planned **-3800**. Inspect the actual row and total; the captured grid shows that predicted fault.
+![The status rule with Apply to range set to Tasks!F2:F14,Tasks!N2](./images/c04-08-05-status-rule-extended.png)
 
-![Observe the deliberately wrong row reference and total](./images/c04-08-09-deliberate-wrong-row-reference.png)
+*Use the grid icon. Typing straight into the box doesn't always save. You'll test it in 8.6.*
 
-*Observe the deliberately wrong row reference and total.*
+3. Change these formulas on **Tasks** so they end at row 14, pressing **Enter** after each:
+   - **L2**: `=SUM(G2:G14)`
+   - **L3**: `=SUM(H2:H14)`
+   - **L4**: `=SUM(I2:I14)`
+   - **L6**: `=AVERAGE(G2:G14)`
+   - **L7**: `=COUNT(G2:G14)`
+   - **J15**: `=SUM(G2:G14)`
 
-2. Repair I14 to **=H14-G14**. The row returns to **-200**; do not replace the formula with a typed result.
+![The totals block showing RM10,600, RM6,800, -RM3,800, RM815.38 and 13](./images/c04-08-06-task-controls-extended.png)
 
-![Repair the variance reference to its own row](./images/c04-08-10-variance-reference-repaired.png)
+*Planned goes up by T013's RM200. Actual doesn't change, because T013 has spent nothing yet.*
 
-*Repair the variance reference to its own row.*
+4. Click **Data**, then **Named ranges**, and click **PlannedCosts**. It still points at **Sorting Practice!G2:G13**, the old practice copy. Change it to `Tasks!G2:G14` and click **Done**.
 
-3. Reconcile planned **10600**, actual **6800**, and variance **-3800**. Compare the sum of row variances with actual total minus planned total. Numeric planned-cost count is thirteen.
+![The Named ranges panel with PlannedCosts set to Tasks!G2:G14](./images/c04-08-07-challenge-named-range.png)
 
-![Reconcile thirteen-record cost totals](./images/c04-08-11-reconciled-thirteen-record-totals.png)
+*Now the name points at the real register, including T013.*
 
-*Reconcile thirteen-record cost totals.*
+**Check:** **L2** shows **RM10,600**, **L7** shows **13**, and **PlannedCosts** is **Tasks!G2:G14**.
 
-4. Update the written findings to **4 Complete / 4 In Progress / 5 Not Started; 13 tasks** and explain that T013 adds planned **RM200**, increasing Planning to **RM3000** and planned grand total to **RM10600**. Inspect both charts. Their category source ranges stay **A1:B4 / D1:E4**; the conditional formulas underneath them now cover the thirteenth source record.
+---
 
-![Update findings for the extended population](./images/c04-08-12-extended-summary-and-findings.png)
+## 8.4 Extend the Summary
 
-*Update findings for the extended population.*
+1. Click the **Summary** tab. Click **B2**, type `=COUNTIF(Tasks!$F$2:$F$14,A2)` and press **Enter**. Select **B2:B4** and press **Ctrl+D**.
+2. Click **E2**, type `=SUMIF(Tasks!$B$2:$B$14,D2,Tasks!$G$2:$G$14)` and press **Enter**. Select **E2:E4** and press **Ctrl+D**.
+3. Click **I3** and type `=COUNTA(Tasks!A2:A14)`. Click **I4** and type `=SUM(Tasks!G2:G14)`.
 
-## 8.3 Explain the Result
+![Summary with counts 4, 4, 5, total 13, Planning 3000 and both differences 0](./images/c04-08-08-thirteen-record-summary.png)
 
-1. Verify the new row's validation before handover. Entering **Done** in F14 through cell-edit mode is now actually rejected with the three allowed statuses.
+*Not Started is now 5 and Planning is 3000. Both differences are still 0. The charts updated themselves.*
 
-> **Reference run:** In this run the first compact range-text edit had not saved F14. The author reopened the rule, used **Select data range**, changed the first range to **Tasks!F2:F14**, preserved **Tasks!N2**, then confirmed **OK / Done**.
+**Check:** **B2:B5** show **4**, **4**, **5**, **13**; **E2** shows **3000**; **J3** and **J4** show **0**.
 
-![Verify actual invalid-status rejection on T013](./images/c04-08-13-new-row-status-rejection.png)
+---
 
-*Verify actual invalid-status rejection on T013.*
+## 8.5 Catch a Wrong Reference
 
-2. Dismiss the message and exit editing. F14 retains **Not Started**. This is evidence of the tested rule on the new row; a dropdown elsewhere in the workbook would not prove that coverage. The repaired range is also confirmed in native cell metadata.
+1. Predict first: if **I14** used **G13** (T012's planned cost, 700) instead of **G14**, what would it show, and what would **L4** become?
+2. Click **I14**, type `=H14-G13` and press **Enter**. **I14** shows **-RM700**, and **L4** shows **-RM4,300**.
 
-![Retain the canonical status after rejection](./images/c04-08-14-valid-status-retained.png)
+![I14 with =H14-G13, showing -RM700, and L4 at -RM4,300](./images/c04-08-09-deliberate-wrong-row-reference.png)
 
-*Retain the canonical status after rejection.*
+*Nothing looks broken, but the variance total is RM500 out.*
 
-3. Explain using the cells: I14's H14/G14 references follow its own row; Summary B4 holds **=COUNTIF(Tasks!$F$2:$F$14,A4)**, with a fixed source range and relative criterion; F14 uses the canonical strict status rule. Identify the new record's RM200 planned contribution and its effect on population and variance.
+3. Repair it: type `=H14-G14` in **I14** and press **Enter**. It shows **-200** again.
 
-> **Reference run:** This reference provides the cell-supported author explanation; the requested partner explanation remains a learner/human check and was not performed.
+![I14 repaired to =H14-G14, showing -200](./images/c04-08-10-variance-reference-repaired.png)
 
-![Explain an anchored range and relative criterion with actual cells](./images/c04-08-15-checked-reference-explanation.png)
+*Repair the formula; never type the answer over it.*
 
-*Explain an anchored range and relative criterion with actual cells.*
+4. Check the totals: planned **RM10,600**, actual **RM6,800**, variance **-RM3,800**. Actual minus planned is 6,800 - 10,600 = -3,800, so they agree.
 
-## 8.4 Stress-Test the Extended Register and Complete the Handover
+![The totals block after the repair](./images/c04-08-11-reconciled-thirteen-record-totals.png)
 
-1. Add a sheet named **Change Log** with the headers and feature labels in Part 4 of the prompts page, then record every active range changed for T013: row variance, totals, average/count, status validation, PlannedCosts, conditional summaries, source checks, chart dependency and filter-view coverage. Distinguish inherited training tabs and baseline exports from the current scenario. Leave filter-view verification pending until reopened below.
+*Two routes to the variance total give the same answer.*
 
-> **Reference run:** The reference uses wrapped 450-pixel A:C columns so descriptions remain readable.
+**Check:** **I14** holds `=H14-G14` and **L4** shows **-RM3,800**.
 
-![Record full range coverage and historical-tab boundaries](./images/c04-08-16-range-coverage-log.png)
+---
 
-*Record full range coverage and historical-tab boundaries.*
+## 8.6 Update the Findings and Test the New Row
 
-2. On Tasks use **View > Show > Formulae**, or menu search **Show all formulae**. Inspect every cell I2:I14: each is **=Hrow-Grow**, including repaired I14. Turn formula display off afterward. If a sort is required, sort whole records and repeat the row-reference check; this reference did not perform an additional sort in Lab 8.
+1. On **Summary**, rewrite the two findings in **A7** and **A8** for thirteen tasks. One should give the status counts; the other should say what T013 added.
 
-![Inspect every variance formula in the live grid](./images/c04-08-17-all-variance-formulas.png)
+![The updated findings in A7 and A8](./images/c04-08-12-extended-summary-and-findings.png)
 
-*Inspect every variance formula in the live grid.*
+*Findings are typed text, so they never update on their own.*
 
-3. Extend Summary's control block with actual and variance checks in G5:J6 (type **Actual cost (RM)** in G5 and **Variance (RM)** in G6). H5 is **=SUM(Tasks!H2:H14)**. I5 independently adds SUMIF actual totals for Planning, Procurement and Site Coordination over B2:B14/H2:H14; J5 is H5-I5. H6 is **=SUM(Tasks!I2:I14)**; I6 is H5-H4, and J6 is H6-I6. Before the correction these reconcile to **6800 / -3800** and zero differences.
+2. Click the **Tasks** tab. Click **F14**, type `Done` and press **Enter**. The **There was a problem** message appears.
 
-![Add actual and variance reconciliation before correction](./images/c04-08-18-before-cost-correction-controls.png)
+![The rejection message for F14](./images/c04-08-13-new-row-status-rejection.png)
 
-*Add actual and variance reconciliation before correction.*
+*This proves the rule now covers row 14.*
 
-4. In Change Log A15:D22 make a control table **Control / Method one / Method two / Difference**, with the row labels in Part 4 of the prompts page. Compare COUNTA task IDs with COUNT numeric planned costs; COUNTUNIQUE with COUNTA; SUM planned with the team SUMIF total; SUM actual with the three-team actual total; summed variance with actual-minus-planned; status-count sum with record count; and SUM(PlannedCosts) with the direct source sum. Each difference should be zero. Record the next prediction in A24:B24 before changing the source: **T013 ActualCost 0→150** should give row variance **-50**, actual grand total **6950**, variance grand total **-3650**, with planned **10600** unchanged. Status and planned-cost charts should remain unchanged because neither uses ActualCost.
+3. Click **OK**. **F14** still says **Not Started**.
 
-![Record two-method controls and correction prediction](./images/c04-08-19-two-method-controls-and-prediction.png)
+![F14 still showing Not Started](./images/c04-08-14-valid-status-retained.png)
 
-*Record two-method controls and correction prediction.*
+*The bad value was refused and the good one kept.*
 
-5. Apply **150** to challenge Tasks H14 only. Verify **I14 =H14-G14 = -50**. For consistent display, copy G13:H13 and paste **Format only** into G14:H14 without overwriting numeric 200/150. Preserve the clipboard while selecting the destination; pasting an address would replace the copied cells.
+4. Click the **Summary** tab and click **B4**. Explain to yourself, or a partner, which part of `=COUNTIF(Tasks!$F$2:$F$14,A4)` stayed fixed and which moved, and why it now shows **5**.
 
-![Correct T013 ActualCost to one hundred fifty](./images/c04-08-20-corrected-actual-cost-row.png)
+![B4 on Summary with its formula, showing 5](./images/c04-08-15-checked-reference-explanation.png)
 
-*Correct T013 ActualCost to one hundred fifty.*
+*The range is fixed and now reaches row 14; the criterion is A4, Not Started.*
 
-6. Inspect Summary: actual **6950**, variance **-3650**, planned **10600**, counts **4/4/5**, zero reconciliation differences. The unchanged charts are correct for their selected measures; the actual/variance controls communicate the correction.
+<details markdown="1">
+<summary>What should you see?</summary>
 
-![Verify refreshed actual and variance controls](./images/c04-08-21-corrected-summary-controls.png)
+Findings along these lines:
 
-*Verify refreshed actual and variance controls.*
+- `Finding: 4 Complete, 4 In Progress and 5 Not Started; 13 tasks in total.`
+- `Finding: Planning adds T013 planned RM200, giving RM3000; total planned RM10600.`
 
-7. Recheck the two-method table and record observed versus predicted effects in A26:B26. The corrected state is retained in this scenario copy; the original baseline is not changed to 13 records.
+If **F14** accepted `Done`, the rule didn't save. Go back to 8.3 step 2 and use the grid icon.
 
-![Reconcile the corrected state by two methods](./images/c04-08-22-corrected-two-method-reconciliation.png)
+</details>
 
-*Reconcile the corrected state by two methods.*
+---
 
-8. Reopen **Incomplete tasks** and inspect its range and record IDs. In this session the inherited view already reopened over **A1:I14**, so no manual range edit was needed. Verify nine visible IDs **T002, T003, T005, T006, T008, T009, T011, T012, T013**. Check bounds explicitly; do not assume the application will expand a bounded view in every future run.
+## 8.7 Log What Changed
 
-![Verify nine incomplete records in the extended view](./images/c04-08-23-extended-incomplete-view.png)
+1. Click **+** (Add sheet). Rename the new tab `Change Log`.
+2. Copy the block below, click **A1** and press **Ctrl+V**. It lists every range that had to change for T013.
 
-*Verify nine incomplete records in the extended view.*
+```text
+Feature	Challenge coverage / check	Result
+Row variance	Tasks I14 =H14-G14; check I2:I14	Every row uses its own costs.
+Source totals	Tasks L2:L4 and J15 use rows 2 to 14	10600 / 6800 / -3800 before correction.
+Other controls	Tasks L6 AVERAGE(G2:G14); L7 COUNT(G2:G14)	Average RM815.38; 13 numbers.
+Status validation	Tasks F2:F14, plus the spare rule in N2	Done rejected in F14; Not Started kept.
+Named range	PlannedCosts moved from Sorting Practice!G2:G13 to Tasks!G2:G14	Total 10600 from Tasks.
+Conditional summaries	Summary B2:B4 and E2:E4 use rows 2 to 14	Counts 4/4/5; planned 3000/4000/3600.
+Source reconciliation	Summary I3 COUNTA(Tasks!A2:A14); I4 SUM(Tasks!G2:G14)	13 and 10600; differences 0.
+Charts	Chart ranges stay Summary A1:B4 and D1:E4	The formulas under them now include T013.
+Filter view coverage	Incomplete tasks and Planning incomplete tasks	Checked in 8.10.
+Old tabs and outputs	Practice tabs, Register Output, Output Plan, Lab 07 PDFs	History only; the handover uses Tasks, Summary and Change Log.
+Fault test	I14 =H14-G13 gave -700 and variance total -4300	Repaired to =H14-G14: -200 and -3800.
+```
 
-9. Close that view and reopen **Planning incomplete tasks**. It also shows **A1:I14**, with **3 of 13 rows displayed**: **T002, T003, T013**. The new task must be included. A saved view name alone is not a population check.
+3. Widen columns **A** to **C** and turn on **Format**, **Wrapping**, **Wrap**.
 
-![Verify the three incomplete Planning IDs include T013](./images/c04-08-24-planning-view-includes-t013.png)
+![Change Log with eleven features in A1:C12](./images/c04-08-16-range-coverage-log.png)
 
-*Verify the three incomplete Planning IDs include T013.*
+*The screenshot's wording is longer than the block you pasted.*
 
-10. Exit the view and leave all thirteen records visible. Update Change Log with the observed ranges and IDs, noting that both views were closed. Ordinary SUM still includes the full source population while a view hides rows.
+4. Click the **Tasks** tab. Click **View**, **Show**, **Formulae**. Check every cell in **I2:I14** reads `=H` and `=G` with its own row number. Then turn **Formulae** off again.
 
-![Close views and restore all thirteen records](./images/c04-08-25-all-thirteen-records-restored.png)
+![Tasks showing formulas, with I2:I14 from =H2-G2 to =H14-G14](./images/c04-08-17-all-variance-formulas.png)
 
-*Close views and restore all thirteen records.*
+*Seeing every formula at once makes a wrong row easy to spot.*
 
-11. Label Summary **13-record challenge - corrected** and write a current finding with **planned RM10600 / actual RM6950 / variance -RM3650**. Keep the task-count finding at 4/4/5, thirteen total. Include the new actual/variance controls in the sponsor output so its corrected state can be distinguished from the old baseline PDF.
+**Check:** **Change Log** has eleven readable rows, and every variance formula uses its own row.
 
-![Prepare the labelled corrected challenge summary](./images/c04-08-26-corrected-sponsor-summary.png)
+---
 
-*Prepare the labelled corrected challenge summary.*
+## 8.8 Add Two-Way Checks
 
-12. Select **Summary A1:N28**, use **Download as PDF**, and explicitly choose **Selected cells**, A3, Landscape, Fit to width. Inspect the complete labels, charts and current control values. Export as **GW-Register-Challenge-Corrected-r1.pdf**; do not overwrite a baseline file or export the whole workbook's historical practice tabs.
+1. Click the **Summary** tab. Copy the block below, click **G5** and press **Ctrl+V**. It adds checks for actual cost and variance, with their formulas.
 
-![Choose only the corrected summary for PDF export](./images/c04-08-27-challenge-export-preview.png)
+```text
+Actual cost (RM)	=SUM(Tasks!H2:H14)	=SUMIF(Tasks!B2:B14,"Planning",Tasks!H2:H14)+SUMIF(Tasks!B2:B14,"Procurement",Tasks!H2:H14)+SUMIF(Tasks!B2:B14,"Site Coordination",Tasks!H2:H14)	=H5-I5
+Variance (RM)	=SUM(Tasks!I2:I14)	=H5-H4	=H6-I6
+```
 
-*Choose only the corrected summary for PDF export.*
+![Summary checks extended to G5:J6, with 6800 and -3800 and zero differences](./images/c04-08-18-before-cost-correction-controls.png)
 
-13. Inspect the actual saved page. It is a one-page A3 native PDF with approximately 10.7 pt text, thirteen tasks, status **4/4/5**, Planning **3000**, planned **10600**, actual **6950**, variance **-3650**, zero differences and both complete charts. It is distinct from the untouched baseline exports.
+*Each row works out the same figure two different ways.*
 
-![Inspect the actual corrected challenge PDF](./images/c04-08-28-corrected-challenge-pdf-page.png)
+2. Click the **Change Log** tab. Copy the block below, click **A15** and press **Ctrl+V**. Each row compares two methods, and column **D** shows the difference.
 
-*Inspect the actual corrected challenge PDF.*
+```text
+Control	Method one	Method two	Difference
+Record count	=COUNTA(Tasks!A2:A14)	=COUNT(Tasks!G2:G14)	=B16-C16
+Unique task IDs	=COUNTUNIQUE(Tasks!A2:A14)	=COUNTA(Tasks!A2:A14)	=B17-C17
+Planned cost	=SUM(Tasks!G2:G14)	=SUM(Summary!E2:E4)	=B18-C18
+Actual cost	=SUM(Tasks!H2:H14)	=Summary!I5	=B19-C19
+Variance	=SUM(Tasks!I2:I14)	=SUM(Tasks!H2:H14)-SUM(Tasks!G2:G14)	=B20-C20
+Status population	=SUM(Summary!B2:B4)	=COUNTA(Tasks!A2:A14)	=B21-C21
+Named range	=SUM(PlannedCosts)	=SUM(Tasks!G2:G14)	=B22-C22
+```
 
-14. Write an operating guide in Change Log from A29 down (row labels in Part 4 of the prompts page): identify the maintained challenge source; enter the next record on a further disposable copy; retain unique IDs/numeric costs/canonical statuses; copy a same-row formula; extend every active bounded range; commit and test rule coverage; inspect whole-record sorts and view IDs; reconcile by two methods; then export a newly named current summary. Record the PDF's scope, state, page count and hash. Partner handover and independent T014 remain pending rather than being inferred from this written guide.
+3. Click **A24** and type `Correction prediction`. In **B24**, write what you expect if T013's actual cost changes from **0** to **150**: its variance, the actual total, the variance total, and whether either chart changes.
 
-![Write the operating guide and fixed-copy identity](./images/c04-08-29-operating-guide-and-export-identity.png)
+![The control table in A15:D22 with every difference 0, and the prediction in row 24](./images/c04-08-19-two-method-controls-and-prediction.png)
 
-*Write the operating guide and fixed-copy identity.*
+*Every difference is zero. Write the prediction before you change anything.*
 
-15. Inspect the completed coverage log and control table. Current handover sources are **Tasks / Summary / Change Log**; copied practice tabs, prior Register Output, Output Plan and old PDFs describe earlier training states. The PlannedCosts definition now belongs to the authoritative challenge Tasks source, so historical practice controls must not be presented as the current handover analysis.
+**Check:** **D16:D22** are all **0**, and **B24** has your prediction.
 
-![Inspect the final range and control table](./images/c04-08-30-final-coverage-and-control-table.png)
+---
 
-*Inspect the final range and control table.*
+## 8.9 Correct T013's Actual Cost
 
-16. Reopen the original **GW - Sheets - Task Register** and compare its twelve-record state: **4/4/4**, planned **10400**, actual **6800**, variance **-3600**.
+1. Click the **Tasks** tab. Click **H14**, type `150` and press **Enter**. **I14** shows **-50**.
+2. Select **G13:H13** and press **Ctrl+C**. Select **G14:H14**, then **Edit**, **Paste special**, **Format only**. T013's costs now show as **RM200** and **RM150**.
 
-> **Reference run:** Native readback confirms its Tasks and Summary values/formulas remain unchanged from Lab 7.
+![Row 14 with RM200, RM150 and -RM50](./images/c04-08-20-corrected-actual-cost-row.png)
 
-![Verify the original twelve-record workbook remains unchanged](./images/c04-08-31-original-baseline-preserved.png)
+*Format only gives row 14 the ringgit look without changing its numbers.*
 
-*Verify the original twelve-record workbook remains unchanged.*
+3. Click the **Summary** tab. Actual is now **6950** and variance **-3650**; planned is still **10600** and all differences are **0**.
 
-17. Leave **GW - Sheets - Register Challenge - 13 Records** clearly named and saved in the corrected state.
+![Summary checks after the correction, with 6950 and -3650](./images/c04-08-21-corrected-summary-controls.png)
 
-> **Reference run:** Its 13-record source, controls, export and written guide are retained; there is no T014 author-reference copy yet.
+*Neither chart changed: one counts statuses and the other shows planned cost.*
 
-![Leave the corrected challenge ready for handover](./images/c04-08-32-corrected-challenge-handover.png)
+4. Click the **Change Log** tab. Click **A26** and type `Observed correction`. In **B26**, write what actually happened, and whether it matched your prediction.
 
-*Leave the corrected challenge ready for handover.*
+![The control table after the correction, with both prediction and observation](./images/c04-08-22-corrected-two-method-reconciliation.png)
 
-- [Corrected challenge sponsor PDF](./reference-output/GW-Register-Challenge-Corrected-r1.pdf)
-- [Current export manifest](./reference-output/export-manifest.json)
+*All differences are still zero after the change.*
 
-> **Validation boundary:** guided 8.1–8.2, cell-supported author explanation and casework 8.4 are checked. Partner explanation/handover, independent T014 and shortened-range diagnosis, and learner timing remain pending. All eight Foundation labs now have author-reference captures; this does not establish a classroom-ready release or resolve earlier CSV/import and values-only-format limitations.
+<details markdown="1">
+<summary>What should you see?</summary>
+
+T013's variance becomes **-50**. Actual total becomes **6950** and variance total **-3650**. Planned stays **10600**, status counts stay **4/4/5**, and neither chart changes, because neither uses ActualCost.
+
+</details>
+
+---
+
+## 8.10 Check the Filter Views
+
+1. Click the **Tasks** tab. Click **Filter views** on the toolbar and choose **Incomplete tasks**. Look at **Range** in the green bar. If it says **A1:I13**, click it, change it to `A1:I14` and press **Enter**.
+2. Nine tasks are shown, ending with **T013**, and the bottom right says **9 of 13 rows displayed**.
+
+![Incomplete tasks over A1:I14, with nine tasks including T013](./images/c04-08-23-extended-incomplete-view.png)
+
+*A view that stops at row 13 would hide T013 from everyone using it.*
+
+3. Close the view. Open **Planning incomplete tasks** and check its range the same way. It shows **T002**, **T003** and **T013**: **3 of 13 rows displayed**.
+
+![Planning incomplete tasks over A1:I14, with T002, T003 and T013](./images/c04-08-24-planning-view-includes-t013.png)
+
+*The new Planning task appears where it should.*
+
+4. Close the view. All thirteen tasks are visible.
+
+![Tasks with all thirteen rows visible](./images/c04-08-25-all-thirteen-records-restored.png)
+
+*Back to the full register.*
+
+5. On **Change Log**, update **C10** (Filter view coverage) with what you found, such as `Both views A1:I14; 9 and 3 IDs including T013; closed.`
+
+**Check:** both views cover **A1:I14** and include **T013**, and all thirteen rows are visible.
+
+---
+
+## 8.11 Export the Corrected Summary
+
+1. Click the **Summary** tab. Click **G1** and type `13-record challenge - corrected`.
+2. Change the finding in **A8** to give the corrected figures: planned **RM10,600**, actual **RM6,950**, variance **-RM3,650**.
+
+![Summary labelled 13-record challenge - corrected, with the corrected finding](./images/c04-08-26-corrected-sponsor-summary.png)
+
+*The label in G1 means nobody will mistake this for the 12-task summary.*
+
+3. Select `A1:N28` with the name box. Click **File**, **Download**, **PDF (.pdf)**. Choose **Selected cells (A1:N28)**, **A3**, **Landscape** and **Fit to width**.
+
+![The export settings with Selected cells (A1:N28) and A3](./images/c04-08-27-challenge-export-preview.png)
+
+*Same settings as the sponsor summary in Lab 07.*
+
+4. Click **Export** and rename the file `GW-Register-Challenge-Corrected-r1.pdf`. Open it and check it.
+
+![The corrected challenge PDF](./images/c04-08-28-corrected-challenge-pdf-page.png)
+
+*13 tasks, 4/4/5, planned 10,600, actual 6,950, variance -3,650, both charts complete.*
+
+**Check:** `GW-Register-Challenge-Corrected-r1.pdf` is one page with the corrected figures and the **13-record challenge - corrected** label.
+
+---
+
+## 8.12 Write the Operating Guide and Hand Over
+
+1. Click the **Change Log** tab. Copy the block below, click **A29** and press **Ctrl+V**.
+
+```text
+Operating guide	Current corrected challenge / next-record procedure
+Current source	GW - Sheets - Register Challenge - 13 Records: Tasks, Summary and Change Log. The original GW - Sheets - Task Register stays at 12 records.
+Enter another record	Make a further copy first. Give the task a new TaskID, all eight fields, numeric costs and one of the three statuses.
+Extend calculations	Fill the variance down; extend every total, average, count, PlannedCosts, COUNTIF, SUMIF and source check to the new last row. Chart ranges stay on the summary rows.
+Check entry rules	Extend the status rule with the grid icon, then type Done in the new row: it must be rejected.
+Sort and view safely	Sort whole records only. Reopen both filter views and check their range and TaskIDs.
+Reconcile before export	Every difference in the control table must be 0.
+Export current sponsor copy	Summary A1:N28, Selected cells, A3 landscape, Fit to width; give the PDF a new name.
+Fixed copy identity	GW-Register-Challenge-Corrected-r1.pdf: 1 page, 13 records, planned 10600, actual 6950, variance -3650, status 4/4/5.
+```
+
+![The operating guide in A29:B37](./images/c04-08-29-operating-guide-and-export-identity.png)
+
+*The screenshot has two extra rows, a file fingerprint (SHA256) and a note for the trainer. You don't need them.*
+
+2. Scroll up and read the whole **Change Log** once: coverage, control table, prediction, observation and guide.
+
+![The control table and guide on Change Log](./images/c04-08-30-final-coverage-and-control-table.png)
+
+*Everything the next person needs to add task 14.*
+
+3. Switch to the browser tab with `GW - Sheets - Task Register`, the original. On **Summary** it still shows **4**, **4**, **4**, **12** and **10400**.
+
+![The original register's Summary, still at 12 tasks](./images/c04-08-31-original-baseline-preserved.png)
+
+*None of the challenge changes touched the original.*
+
+4. Switch back to the challenge copy. Leave it on **Summary** in its corrected state.
+
+![The corrected challenge Summary, ready to hand over](./images/c04-08-32-corrected-challenge-handover.png)
+
+*Two workbooks, clearly named, each in the state it should be.*
+
+**Check:** the original still has twelve tasks, and the challenge copy has thirteen, with a complete **Change Log** and its PDF saved.
+
+> **Download:** [GW-Register-Challenge-Corrected-r1.pdf](./reference-output/GW-Register-Challenge-Corrected-r1.pdf), an example export to compare with yours.
+
+---
 
 ## Independent Practice
 
-Close the earlier step lists for the first attempt. Use the case input and your own reasoning. If you need help, record the hint and repeat the affected check independently.
+Try these without the step lists, using your operating guide instead.
 
-1. Close the earlier click instructions. Add T014 on a further disposable copy using the fields in the case input (Part 2 of the prompts page), then extend and verify all affected features independently.
+1. **Add T014.** Make a further copy called `GW - Sheets - Register Challenge - 14 Records`. Add the task below in row 15, then extend and test every feature, as your guide says.
 
-2. Use your control table to catch at least one deliberately shortened range. Correct it and explain the cause with cell evidence.
+```text
+T014	Procurement	Verify submission checklist	Bala Kumar	4	In Progress	300	100
+```
 
-3. Give a partner the operating guide and ask them to find the current source and identify the checks for the next row. Record a handover improvement and leave all scenario copies clearly named.
+2. **Catch a short range.** Ask a partner to shorten one range on your 14-record copy so it stops at row 14 (a total, a COUNTIF or **PlannedCosts**). Use the control table to find it, fix it and explain which difference gave it away.
+3. **Hand over.** Give a partner only your **Change Log**. Without your help, they should name the current source, the current PDF and the checks for the next new task. Write one improvement to your guide based on what they found unclear.
+
+<details markdown="1">
+<summary>What should you see?</summary>
+
+With T014 in place and every range extended to row 15: **14** tasks, status **4 / 5 / 5**, Procurement planned **4300**, planned total **10900**, actual **7050**, variance **-3850**, T014's variance **-200**, and every control difference **0**. A range left at row 14 shows a difference such as **-300** (planned) or **-1** (count).
+
+</details>
 
 ### Evidence to Hand Over
 
-- 13-record cost-corrected challenge and a full coverage/change log.
-- Separate 14-record independent test with reconciled totals and repaired range omission.
-- Readable current export plus a tested operating guide and preserved baseline.
-
-Record the defect or uncertainty you investigated, the evidence used, the repair or reasoned no-change decision, and the final state. Restore temporary changes or keep them in a clearly named scenario copy.
+- `GW - Sheets - Register Challenge - 13 Records`, corrected, with a complete **Change Log**
+- `GW-Register-Challenge-Corrected-r1.pdf`
+- The original `GW - Sheets - Task Register`, unchanged at twelve tasks
+- Your 14-record copy with zero differences, and the short range you caught
+- One improvement to the operating guide
 
 ## Troubleshooting
 
-| Symptom | What to check |
+| Problem | What to try |
 |---|---|
-| The challenge contaminates the next baseline lesson | Keep named scenario copies and compare their population and totals before proceeding. |
-| An input or earlier result is missing | Reopen the input named in Before You Begin; do not substitute private company data |
-| A menu or feature is unavailable | Confirm the account and the shared access notes; record the missing step and ask the trainer for its fallback |
-| The result differs from the checkpoint | Compare the exact source range, wording and conditions before repeating the action |
+| **F14** accepted `Done` | The rule didn't save. Edit it with the grid icon in **Apply to range**, click **OK**, then **Done**, and test again. |
+| A total didn't change when you added T013 | Its range still ends at row 13. Change it to row 14. |
+| **PlannedCosts** shows the old total | It still points at **Sorting Practice**. Change it to **Tasks!G2:G14**. |
+| A pasted formula shows as text | Click the cell, check it starts with `=` with nothing before it, and press **Enter**. |
+| A filter view doesn't show T013 | Change its range in the green bar to **A1:I14**. |
+| You changed the original register by mistake | Use **Ctrl+Z**, or **File** > **Version history** to go back. Check the name at the top before every edit. |
 
 ## Lesson Summary
 
-You have built, checked and extended a usable register.
+You added a task on a separate copy and found every range that had to grow with it: the variance, totals, average, count, status rule, named range, summaries, checks and filter views. You proved each one on the new row, caught a wrong reference, applied a cost correction, and checked every total two ways. The corrected summary is saved as its own PDF, and the original register is untouched. That's the full Foundation course.
 
-**Check yourself:** Which ranges needed extending after T013 was added?
+**Check yourself:** which ranges needed extending after T013 was added?
