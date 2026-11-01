@@ -1,5 +1,9 @@
 # Validation Status
 
+## Sheets Foundation Lab 07 rewritten to the write-lab-chapter pattern, 1 November 2026
+
+Lab 07 was rewritten on top of the 29 captures from pull request #76, keeping their order: nine short sections, every typed value inline, plain boxes. Reference-run notes and the validation-boundary callout were removed from the participant page. They remain true: no sharing, publication, distribution or recipient-role test was performed; the Page numbers option did not produce visible footers in the downloaded PDFs; A3 at about 10.7 pt is an author choice, and the customer's output medium is unconfirmed. The Output Plan and manifest are supplied with plainer wording than the captures and without the SHA256 rows (captions say so); export-manifest.json stays in reference-output but is no longer linked from the lesson. The example PDFs are linked in a Download box for comparison. Independent practice now has concrete steps; the A4 portrait comparison is not captured. Not run by learners, timed in class or independently reviewed.
+
 ## Sheets Foundation Lab 06 rewritten to the write-lab-chapter pattern, 31 October 2026
 
 Lab 06 was rewritten on top of the 29 captures from pull request #76, keeping their order: nine short sections, every typed value inline, plain boxes, and Session/Grounding lines above the optional Gemini prompt. Reference-run notes and the validation-boundary callout were removed from the participant page. Learners now write their own two findings (expected wording in a What should you see box); the Summary Test Log is supplied, with a cleaner Scope row than the captured one, and the caption says so. Independent practice (dashboard tab, partner-set fault, peer review) has concrete steps; the misspelt-team expected result (E3 0, J4 -4000) is derived, not captured. Not run by learners, timed in class or independently reviewed.
