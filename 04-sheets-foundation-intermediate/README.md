@@ -1,6 +1,6 @@
 # Google Sheets Fundamental and Intermediate
 
-**Status:** review draft, revision 0.4. Foundation Lab 1 has 26 current-stage application captures through 1.4: isolated folder, instructor manual XLSX upload, actual Save as Google Sheets conversion, named native copy, source navigation, separate Navigation Practice, four checked address/TaskID mappings, three-row Entry Practice reconstruction, cell/row/column/range selections, tab reorder and native reopen from Drive. All eight fields in three reconstructed records match; original Tasks!A1:H13 and its cell metadata remain unchanged. File type/title/location and which file to edit are recorded in Workbook Guide. Browser upload itself, independent challenge and learner timing remain unverified. Labs 2–8 still need author execution and captures.
+**Status:** review draft, revision 0.4. All eight labs have real application screenshots and follow the write-lab-chapter pattern, with every typed value in the lesson. None has been run by learners or timed in class yet.
 
 **Duration:** 1 day. Each day has 390 teaching minutes, excluding lunch and breaks.
 
@@ -23,7 +23,7 @@
 | 1 | 05 | [Validate and Filter the Register](./05-validation-filtering/README.md) | [Prompts and values](./05-validation-filtering/prompts.md) | Add entry rules, prove them with tests, and save filter views without being misled by SUM. | 50 |
 | 1 | 06 | [Summarise and Visualise](./06-summary-chart/README.md) | [Prompts and values](./06-summary-chart/prompts.md) | Summarise with COUNTIF and SUMIF, chart both, reconcile with the register and see how a chart misleads. | 55 |
 | 1 | 07 | [Share and Prepare Output](./07-sharing-print/README.md) | [Prompts and values](./07-sharing-print/prompts.md) | Check access and publishing, export a one-page summary and a two-page listing, and see that a PDF doesn't update. | 40 |
-| 1 | 08 | [Complete the Register Challenge](./08-register-challenge/README.md) | [Prompts and values](./08-register-challenge/prompts.md) | Stress-Test the Extended Register and Complete the Handover. | 45 |
+| 1 | 08 | [Complete the Register Challenge](./08-register-challenge/README.md) | [Prompts and values](./08-register-challenge/prompts.md) | Add a thirteenth task on a copy, extend and prove every feature, correct a cost and export a current summary. | 45 |
 
 ## Inputs and Checks
 
