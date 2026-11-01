@@ -1,244 +1,366 @@
 # 06 - Summarise and Visualise
 
-In this chapter you will build a simple conditional total and chart; ask Gemini to explain a checked formula if available.
+The sponsor doesn't want to read twelve rows. Aina needs two answers on one screen: how many tasks are in each status, and how the planned budget splits across the teams, with a chart for each. And she needs to trust them, so you'll check that the summary adds up to the register and see how a chart can mislead without a single formula being wrong.
 
-> **Prompts:** the [prompts page](./prompts.md) has every value and prompt for this chapter, each with a Copy button.
+**Estimated time:** 55 minutes, planned as 5 explanation, 35 guided build and 15 independent practice. Not yet timed with learners.
 
-**Estimated time:** 55 minutes, planned as 10 explanation and demonstration, 25 guided build and casework, 15 independent practice and 5 verification and repair, with 45 active minutes by design. Not yet timed with learners.
+**Your result:** in `GW - Sheets - Task Register`, a **Summary** tab with status counts, team planned costs, two labelled charts, reconciliation checks and two findings, plus a **Chart Range Tests** copy and a **Summary Test Log**.
 
-**Your result:** A conditional summary and a source-linked status chart.
-
-> **Status:** author reference with 29 staged application captures through 6.4. Conditional summaries, two labelled charts, Gemini explanation, actual source-change propagation, reconciliations and repaired chart/category faults checked. Source status and cost restored. Independent dashboard/reviewer and learner timing remain pending.
+> **You'll practise:** COUNTIF and SUMIF with fixed and relative references, inserting and editing column charts, checking a summary against its source, and (if your account has it) asking Gemini to explain a formula.
 
 ---
 
 ## What You Will Learn
 
-- Calculate a conditional count and total.
-- Choose and label a simple chart.
-- Use AI to explain a formula without surrendering the check.
+- Count and total by category with COUNTIF and SUMIF
+- Build a clear, labelled chart from the right range
+- Check that a summary and its chart still match the register
 
 ## Before You Begin
 
-Read the [case input](./prompts.md) and use a separate named casework copy for destructive tests or altered datasets. Keep the baseline unchanged for later chapters. Record source facts, proposed practice and unresolved questions separately.
+Open `GW - Sheets - Task Register` from **GW - Sheets Foundation - Practice**. You need **Tasks** with all twelve records and the supplied **Summary** tab, which has the three status names in **A2:A4** and an empty **TaskCount** column.
 
-Use Tasks and the starter Summary tab. Existing baseline status counts are four per category.
+**What you build in this lab:**
 
-## 6.1 Count Statuses
+**Summary**: status counts > team planned costs > status chart > cost chart > checks > findings | **Chart Range Tests** | **Summary Test Log**
 
-1. Open the supplied **Summary** tab. A1:B4 already contains Status / TaskCount and the three canonical status labels; the counts are blank. Enter **=COUNTIF(Tasks!$F$2:$F$13,A2)** in B2. The fixed range covers the twelve task statuses; A2 supplies the criterion.
+## Topics
 
-![Enter the first anchored COUNTIF](./images/c04-06-01-first-countif.png)
+**COUNTIF and SUMIF.** `=COUNTIF(range, criterion)` counts the cells in a range that match. `=SUMIF(range, criterion, sum_range)` adds up the matching rows' values from another column. The range stays fixed with `$`; the criterion, such as **A2**, moves as you fill down.
 
-*Enter the first anchored COUNTIF.*
+**A chart is only as honest as its range.** Include the **Total** row and the chart shows a fourth bar of 12, as if there were 24 tasks. Misspell a category and its bar drops to zero. The chart looks fine either way, so you check the numbers behind it.
 
-2. Select B2:B4 and use **Fill down** (Ctrl+D). Inspect B3: the range remains fixed and the criterion becomes A3. Enter **Total** in A5 and **=SUM(B2:B4)** in B5. Verify **4 / 4 / 4**, total **12**.
+**Two ways to the same number.** If the summary's total matches a total taken straight from **Tasks**, the summary hasn't lost or double-counted anything.
 
-![Fill three status counts and total twelve](./images/c04-06-02-status-total.png)
+---
 
-*Fill three status counts and total twelve.*
+## 6.1 Count the Statuses
 
-3. Move the fictional-data marker from D1 to G1 before using D:E. Enter **Team / Planned cost (RM)** in D1:E1 and **Planning / Procurement / Site Coordination** in D2:D4. In E2 enter **=SUMIF(Tasks!$B$2:$B$13,D2,Tasks!$G$2:$G$13)**.
+1. Click the **Summary** tab. Click **B2**, type `=COUNTIF(Tasks!$F$2:$F$13,A2)` and press **Enter**. It shows **4**.
 
-![Enter the first anchored SUMIF](./images/c04-06-03-first-sumif.png)
+![B2 on Summary showing 4 from the COUNTIF formula](./images/c04-06-01-first-countif.png)
 
-*Enter the first anchored SUMIF.*
+*The status range is fixed with $; A2 tells it which status to count.*
 
-4. Fill E2 through E4. Verify **2800 / 4000 / 3600**, which sum to **10400**. Fit D:E to the labels so Site Coordination and the RM heading remain readable. These are planned amounts, not actual expenditure or savings.
+2. Click the name box, type `B2:B4`, press **Enter**, then press **Ctrl+D**.
+3. Click **A5** and type `Total`. Click **B5**, type `=SUM(B2:B4)` and press **Enter**.
 
-![Inspect both conditional summaries](./images/c04-06-04-two-summaries.png)
+![Summary with 4, 4, 4 and a total of 12 in A1:B5](./images/c04-06-02-status-total.png)
 
-*Inspect both conditional summaries.*
+*Four tasks in each status, twelve in total.*
 
-## 6.2 Build a Useful Chart
+**Check:** **B2:B4** show **4**, **4**, **4** and **B5** shows **12**. Click **B3**: its formula ends in **A3**.
 
-1. Select **A1:B4**, excluding Total, then **Insert > Chart**. This session initially suggested a pie chart; explicitly choose **Column chart** in **Chart editor > Setup**. Confirm **A1:B4**, row 1 headers and column A labels.
+---
 
-![Set column chart and bounded status range](./images/c04-06-05-column-chart-setup.png)
+## 6.2 Total the Planned Cost by Team
 
-*Set column chart and bounded status range.*
+1. Click **D1** (it says **Fictional training data**) and press **Ctrl+X**. Click **G1** and press **Ctrl+V**. That frees up columns **D** and **E**.
+2. Copy the block below, click **D1** and press **Ctrl+V**.
 
-2. In **Customise > Chart and axis titles**, set the chart title to **Task count by status**. Close the editor. Select the chart once, then drag its blank upper area to place it below the summaries without covering cells.
+```text
+Team	Planned cost (RM)
+Planning
+Procurement
+Site Coordination
+```
 
-![Set a descriptive status chart title](./images/c04-06-06-status-title.png)
+3. Click **E2**, type `=SUMIF(Tasks!$B$2:$B$13,D2,Tasks!$G$2:$G$13)` and press **Enter**. It shows **2800**.
 
-*Set a descriptive status chart title.*
+![E2 showing 2800 from the SUMIF formula](./images/c04-06-03-first-sumif.png)
 
-3. Verify exactly three categories, each at **4**. No blank category or Total should be plotted. Inspect B3 in the formula bar alongside the chart; its criterion is A3.
+*It finds Planning in the Team column and adds those rows' planned costs.*
 
-![Verify three equal categories and the B3 relative criterion](./images/c04-06-07-linked-status-chart.png)
+4. Click the name box, type `E2:E4`, press **Enter**, then press **Ctrl+D**. Double-click the right edges of the **D** and **E** headings so everything fits.
 
-*Verify three equal categories and the B3 relative criterion.*
+![Summary with both summaries: status counts and team planned costs](./images/c04-06-04-two-summaries.png)
 
-## 6.3 Explain and Check
+*2,800 + 4,000 + 3,600 = 10,400, the same as the planned total on Tasks.*
 
-1. If available, open **Ask Gemini** and request an explanation of the COUNTIF formula **in the panel only**. Ask about the anchored range, relative criterion and filling to B3. Do not apply Insert or other workbook changes. The exact prompt is in Part 3 of the [prompts page](./prompts.md). If Gemini is unavailable, explain the same references manually and record the fallback.
+**Check:** **E2:E4** show **2800**, **4000** and **3600**. These are planned amounts, not money spent.
 
-![Ask for a panel-only formula explanation](./images/c04-06-08-formula-prompt.png)
+---
 
-*Ask for a panel-only formula explanation.*
+## 6.3 Chart the Status Counts
 
-2. Compare the explanation with actual B3: **=COUNTIF(Tasks!$F$2:$F$13,A3)**. The twelve-row range stays fixed; the criterion shifts from A2 to A3. In this session Gemini showed the same B3 formula and result 4. Its prose explanation is supporting material, not proof that the workbook is correct. Close the panel.
+1. Click the name box, type `A1:B4` and press **Enter**. Leave out row 5: the total isn't a status.
+2. Click **Insert**, then **Chart**. In the **Chart editor**, on the **Setup** tab, set **Chart type** to **Column chart**. Sheets may suggest a pie chart first. Check **Data range** says **A1:B4**.
 
-![Compare Gemini explanation with the actual B3 formula](./images/c04-06-09-anchored-relative-explanation.png)
+![The Chart editor Setup tab with Column chart and A1:B4](./images/c04-06-05-column-chart-setup.png)
 
-*Compare Gemini explanation with the actual B3 formula.*
+*Use row 1 as headers and column A as labels are both ticked.*
 
-3. On Tasks, identify **T003** in row 4 and record **F4 = Not Started** before editing. Do not change a different task or an entire status column.
+3. Click the **Customise** tab, open **Chart and axis titles** and set the **Chart title** text to `Task count by status`.
 
-![Record T003 original Not Started status](./images/c04-06-10-original-t003-status.png)
+![The Customise tab with the chart title set to Task count by status](./images/c04-06-06-status-title.png)
 
-*Record T003 original Not Started status.*
+*A title that says what's being counted.*
 
-4. Temporarily edit F4 to **Complete**, preserving its existing dropdown rule. Commit the cell edit.
+4. Close the editor. Drag the chart by its blank top area so it sits below the summaries without covering any cells.
 
-![Temporarily set T003 Complete](./images/c04-06-11-temporary-complete.png)
+![The status chart below the summaries, with three bars of 4](./images/c04-06-07-linked-status-chart.png)
 
-*Temporarily set T003 Complete.*
+*Three categories, each at 4. No Total bar.*
 
-5. Return to Summary. Verify **Complete 5 / In Progress 4 / Not Started 3**, still total **12**, and the status chart changes with the source.
+**Check:** the chart is titled **Task count by status** and has exactly three bars, each at **4**.
 
-![Verify counts and chart change to five four three](./images/c04-06-12-status-change-chart.png)
+---
 
-*Verify counts and chart change to five four three.*
+## 6.4 Ask Gemini to Explain a Formula
 
-6. Restore Tasks F4 to **Not Started** immediately.
+If your account doesn't have Gemini, skip to step 3 and explain the formula to a partner instead.
 
-![Restore T003 Not Started](./images/c04-06-13-status-restored-source.png)
+1. Click **Ask Gemini** (the star at the top right). Copy the prompt below, paste it into the box and press **Enter**.
 
-*Restore T003 Not Started.*
+Session: the **Ask Gemini** panel in this workbook. Grounding: this formula only.
 
-7. Return to Summary and verify **4 / 4 / 4** and the chart's three equal bars again. Both source and visual restoration matter.
+```text
+Explain this formula in the panel only: =COUNTIF(Tasks!$F$2:$F$13,A2). Explain the anchored range and the relative criterion cell, including what changes when filled to B3. Use only this formula and this fictional workbook. Do not edit cells, create charts, or apply changes.
+```
 
-![Verify four four four baseline returns](./images/c04-06-14-status-baseline-restored.png)
+![The Gemini panel with the formula prompt typed](./images/c04-06-08-formula-prompt.png)
 
-*Verify four four four baseline returns.*
+*The prompt asks for an explanation only, not changes.*
 
-## 6.4 Build a Second Summary and Diagnose a Misleading Chart
+2. Read the reply. Don't click **Insert** or anything else that changes the sheet.
 
-1. Select **D1:E4** and insert another column chart. Confirm its range and category labels.
+![Gemini's reply, showing the B3 formula and explaining the fixed range and moving criterion](./images/c04-06-09-anchored-relative-explanation.png)
 
-![Build the team cost chart from D1:E4](./images/c04-06-15-cost-chart-source.png)
+*Gemini's wording will differ from the screenshot.*
 
-*Build the team cost chart from D1:E4.*
+3. Click **B3** and compare the formula bar with the explanation: `=COUNTIF(Tasks!$F$2:$F$13,A3)`. The range is the same; the criterion moved from **A2** to **A3**. Close the panel.
 
-2. Title it **Planned cost by team (RM)**. The series/vertical axis reads **Planned cost (RM)**. Place it beside the status chart; keep currency amounts separate from task counts.
+**Check:** you can say which part of the formula stayed fixed when you filled down, and which part moved, using **B3** to prove it.
 
-![Label planned cost units as RM](./images/c04-06-16-cost-units-title.png)
+---
 
-*Label planned cost units as RM.*
+## 6.5 Watch a Change Flow Through
 
-3. In G2:J4 create **Summary Checks / Summary / Source / Difference** (the block is in Part 4 of the prompts page). Row 3 is **Task count**, with H3 **=B5**, I3 **=COUNTA(Tasks!A2:A13)**, J3 **=H3-I3**. Row 4 is **Planned cost (RM)**, with H4 **=SUM(E2:E4)**, I4 **=SUM(Tasks!G2:G13)**, J4 **=H4-I4**. Expect **12 versus 12** and **10400 versus 10400**, both differences zero. Fit G so its labels are readable.
+You change one status on **Tasks** for a moment, to see the summary and chart follow it, then put it back.
 
-![Reconcile summary and source totals](./images/c04-06-17-reconciliation-checks.png)
+1. Click the **Tasks** tab. Find **T003**: its status in **F4** is **Not Started**.
 
-*Reconcile summary and source totals.*
+![T003 on Tasks with Not Started in F4](./images/c04-06-10-original-t003-status.png)
 
-4. Duplicate Summary and name the copy **Chart Range Tests**. Keep baseline Summary intact for the fault tests. Its copied formulas still refer to Tasks.
+*Note the original value before you change it.*
 
-![Create a named chart fault-test copy](./images/c04-06-18-named-chart-copy.png)
+2. Use the dropdown in **F4** to choose **Complete**.
 
-*Create a named chart fault-test copy.*
+![F4 changed to Complete](./images/c04-06-11-temporary-complete.png)
 
-5. Edit the copied status chart in **Setup**. Use **Select data range**, set the single range **A1:B5**, and confirm **OK**. Verify the chart actually displays a fourth **Total = 12** category. If multiple ranges are listed, retain only the intended single range. The categories now represent 4+4+4+12=24 plotted counts even though only twelve tasks exist; Total duplicates the population already split into statuses.
+*Only T003 changes.*
 
-> **Reference run:** The reference needed the range dialog: typing in the compact range field alone did not update the underlying category/series ranges.
+3. Click the **Summary** tab. The counts are now **5**, **4**, **3**, still **12** in total, and the chart's bars have changed.
 
-![Observe Total incorrectly plotted as a fourth category](./images/c04-06-19-total-row-fault.png)
+![Summary with 5, 4 and 3, and the chart showing the new heights](./images/c04-06-12-status-change-chart.png)
 
-*Observe Total incorrectly plotted as a fourth category.*
+*The summary and chart follow the register by themselves.*
 
-6. Use the same range dialog to restore **A1:B4**. Verify three bars at four; changing the title or hiding a label would not repair the source selection.
+4. Go back to **Tasks** and set **F4** to **Not Started** again.
 
-![Repair chart range to exclude Total](./images/c04-06-20-chart-range-repaired.png)
+![F4 back to Not Started](./images/c04-06-13-status-restored-source.png)
 
-*Repair chart range to exclude Total.*
+*T003 is back as it was.*
 
-7. On **Chart Range Tests** only, temporarily misspell A4 as **Not Startd**. B4's COUNTIF becomes **0**, the category's bar has zero height, B5 falls to **8**, and J3 reports **-4** against twelve source TaskIDs. The source tasks are still present; the criterion is wrong.
+5. Click the **Summary** tab: **4**, **4**, **4**, and three equal bars.
 
-![Observe misspelt status produce zero and a reconciliation difference](./images/c04-06-21-misspelt-category-fault.png)
+![Summary back to 4, 4, 4 with three equal bars](./images/c04-06-14-status-baseline-restored.png)
 
-*Observe misspelt status produce zero and a reconciliation difference.*
+*Check both the numbers and the chart.*
 
-8. Repair A4 to **Not Started**. B4 returns to **4**, total **12**, difference zero, and the chart returns to baseline. Retain the formula; never type a replacement count over it.
+**Check:** **Tasks** **F4** says **Not Started**, and the summary is back to **4**, **4**, **4**.
 
-![Repair criterion spelling and retain COUNTIF](./images/c04-06-22-category-repaired.png)
+---
 
-*Repair criterion spelling and retain COUNTIF.*
+## 6.6 Chart the Costs and Reconcile
 
-9. On baseline Summary, type two supported findings in A7 and A8: **4 tasks in each status; 12 in total**, and **Procurement has the largest planned total: RM4,000 of RM10,400**. Neither finding establishes on-time delivery or realised savings.
+1. On **Summary**, click the name box, type `D1:E4` and press **Enter**. Click **Insert**, **Chart**, and set **Chart type** to **Column chart**. Check **Data range** says **D1:E4**.
 
-![Write two evidence-supported findings](./images/c04-06-23-supported-findings.png)
+![The Chart editor with Column chart and D1:E4](./images/c04-06-15-cost-chart-source.png)
 
-*Write two evidence-supported findings.*
+*A separate chart for money; counts and ringgit don't share an axis.*
 
-10. For the cost propagation test, record original **Tasks G4 = 500** for T003. H4 is zero; I4's variance formula gives **-500**.
+2. On **Customise**, set the chart title to `Planned cost by team (RM)`. Close the editor and drag the chart beside the status chart.
 
-![Record T003 original planned cost five hundred](./images/c04-06-24-original-planned-cost.png)
+![The cost chart titled Planned cost by team (RM)](./images/c04-06-16-cost-units-title.png)
 
-*Record T003 original planned cost five hundred.*
+*The title names the unit.*
 
-11. Temporarily edit G4 to **600**. Verify the row's I4 becomes **-600**; do not overwrite the variance formula.
+3. Copy the block below, click **G2** and press **Ctrl+V**.
 
-![Temporarily increase planned cost by one hundred](./images/c04-06-25-temporary-cost-source.png)
+```text
+Summary Checks	Summary	Source	Difference
+Task count
+Planned cost (RM)
+```
 
-*Temporarily increase planned cost by one hundred.*
+4. Type these formulas, pressing **Enter** after each:
+   - **H3**: `=B5`
+   - **I3**: `=COUNTA(Tasks!A2:A13)`
+   - **J3**: `=H3-I3`
+   - **H4**: `=SUM(E2:E4)`
+   - **I4**: `=SUM(Tasks!G2:G13)`
+   - **J4**: `=H4-I4`
 
-12. On Summary, Planning becomes **2900**, Procurement remains **4000**, Site Coordination remains **3600**, and both planned grand totals become **10500** with difference zero. Inspect the Planning chart bar. The baseline findings describe the restored baseline; do not treat them as automatically refreshed narrative.
+![Summary Checks in G2:J4, with 12 against 12 and 10400 against RM10,400, both differences 0](./images/c04-06-17-reconciliation-checks.png)
 
-![Verify Planning and grand totals and chart update](./images/c04-06-26-cost-propagation.png)
+*Both differences are zero, so the summary hasn't lost or double-counted anything.*
 
-*Verify Planning and grand totals and chart update.*
+**Check:** **J3** and **J4** both show **0**.
 
-13. Restore Tasks **G4 to 500**. Verify I4 returns to **-500** and the source planned total to **10400**.
+---
 
-![Restore original planned cost](./images/c04-06-27-planned-cost-restored.png)
+## 6.7 Break the Chart on a Copy
 
-*Restore original planned cost.*
+Now see two ways a chart can mislead, on a copy you can throw away.
 
-14. Verify Summary team totals **2800 / 4000 / 3600**, planned totals **10400**, status counts **4 / 4 / 4**, and zero reconciliation differences. Both charts and the baseline findings agree again.
+1. Click the arrow on the **Summary** tab and choose **Duplicate**. Rename the copy `Chart Range Tests`.
 
-![Verify both baseline charts and zero differences](./images/c04-06-28-two-charts-restored.png)
+![The Chart Range Tests tab, a copy of Summary](./images/c04-06-18-named-chart-copy.png)
 
-*Verify both baseline charts and zero differences.*
+*The copy's formulas still read from Tasks.*
 
-15. Add a sheet named **Summary Test Log** with the headers **Check / Target / change / Expected and observed / Restored final state** and the row labels in Part 4 of the prompts page. Record the actual status, range, spelling, cost, formula and reconciliation checks. Wrap the log text and use readable column widths. Record the independent challenge and learner timing as pending rather than claiming them from these guided author checks.
+2. On **Chart Range Tests**, click the status chart, click the three dots at its top right and choose **Edit chart**. Click the grid icon in **Data range**, change it to `A1:B5` and click **OK**. The chart gains a fourth bar, **Total**, at **12**.
 
-![Record actual tests and restorations](./images/c04-06-29-test-log.png)
+![The status chart on the copy with a fourth bar for Total at 12](./images/c04-06-19-total-row-fault.png)
 
-*Record actual tests and restorations.*
+*Now the bars add up to 24, as if there were twice as many tasks.*
 
-> **Validation boundary:** author UI reference through guided 6.1–6.3 and casework 6.4. All original Tasks A1:N15 values/formulas are restored; new summaries, charts, named copy and test log are retained. Independent dashboard, reviewer/fresh attempt and learner timing remain pending. Earlier CSV-import and values-only-format limitations remain separate.
+3. Change the data range back to `A1:B4` the same way. Three bars again.
+
+![The status chart repaired to A1:B4](./images/c04-06-20-chart-range-repaired.png)
+
+*Fix the range itself. Hiding the label or renaming the bar wouldn't fix the numbers.*
+
+4. Close the editor. Click **A4** and type `Not Startd` (a typo). **B4** drops to **0**, **B5** to **8** and **J3** shows **-4**.
+
+![Not Startd in A4, B4 at 0, B5 at 8 and J3 at -4](./images/c04-06-21-misspelt-category-fault.png)
+
+*The four tasks are still on Tasks; the label just doesn't match them any more. The reconciliation catches it.*
+
+5. Correct **A4** to `Not Started`. **B4** returns to **4**, **B5** to **12** and **J3** to **0**.
+
+![A4 corrected, with B4 back at 4 and J3 at 0](./images/c04-06-22-category-repaired.png)
+
+*Fix the label, not the number: never type 4 over the formula.*
+
+**Check:** on **Chart Range Tests**, the chart has three bars, **A4** says **Not Started** and **J3** shows **0**.
+
+---
+
+## 6.8 Write Findings and Test a Cost Change
+
+1. Click the **Summary** tab. In **A7** and **A8**, write two findings, one sentence each, that the summary supports. Start each with `Finding:`.
+
+![Two findings in A7 and A8 on Summary](./images/c04-06-23-supported-findings.png)
+
+*Say only what the numbers show.*
+
+2. Click the **Tasks** tab and click **G4**: T003's planned cost is **RM500**, and its variance in **I4** is **-RM500**.
+
+![G4 on Tasks holding 500, with I4 at -RM500](./images/c04-06-24-original-planned-cost.png)
+
+*Note the original value first.*
+
+3. Type `600` in **G4** and press **Enter**. **I4** becomes **-RM600**.
+
+![G4 changed to 600 and I4 at -RM600](./images/c04-06-25-temporary-cost-source.png)
+
+*The variance formula updated by itself.*
+
+4. Click the **Summary** tab. Planning is now **2900**, both planned totals are **10500** and **J4** is still **0**. The Planning bar is a little taller.
+
+![Summary with Planning at 2900, planned totals 10500 and J4 at 0](./images/c04-06-26-cost-propagation.png)
+
+*The findings in A7:A8 don't update themselves, so they're now out of date. That's why you put the value back.*
+
+5. Go back to **Tasks**, type `500` in **G4** and press **Enter**. **I4** is **-RM500** again.
+
+![G4 back at 500](./images/c04-06-27-planned-cost-restored.png)
+
+*T003 is as it was.*
+
+6. Click the **Summary** tab and check everything is back: **4**, **4**, **4**; **2800**, **4000**, **3600**; **10400**; both differences **0**.
+
+![Summary restored, with both charts and zero differences](./images/c04-06-28-two-charts-restored.png)
+
+*The charts and findings agree with the register again.*
+
+<details markdown="1">
+<summary>What should you see?</summary>
+
+Findings along these lines:
+
+- `Finding: 4 tasks in each status; 12 tasks in total.`
+- `Finding: Procurement has the largest planned total: RM4,000 of RM10,400.`
+
+Neither says anything about whether tasks are on time or money was saved: the summary doesn't show that.
+
+</details>
+
+---
+
+## 6.9 Log the Tests
+
+1. Click **+** (Add sheet). Rename the new tab `Summary Test Log`.
+2. Copy the block below, click **A1** and press **Ctrl+V**. Check each line against what you saw.
+
+```text
+Check	Target / change	Expected and observed	Restored final state
+Status change	Tasks F4: Not Started to Complete	Summary B2:B4 and chart: 5 / 4 / 3; total 12	F4 Not Started; counts 4 / 4 / 4
+Chart range fault	Chart Range Tests status chart A1:B5	Fourth category Total = 12; double-count risk	Range A1:B4; three categories
+Spelling fault	Chart Range Tests A4: Not Startd	B4 zero, B5 8, J3 -4; zero-height category	A4 Not Started; formula B4 4; total 12
+Cost change	Tasks G4: 500 to 600	I4 -600; Planning 2900; source and summary 10500	G4 500; I4 -500; Planning 2800; totals 10400
+Formula check	Summary B3 COUNTIF	Fixed Tasks F2:F13; relative A3; result 4	Panel-only explanation; no Insert applied
+Reconciliation	Summary H3:J4 versus Tasks	Task count 12 versus 12; planned 10400 versus 10400	Both differences zero
+Scope	Lab 06 guided sections	All temporary changes were reversed	Baseline source values restored
+```
+
+3. Select columns **A** to **D**, turn on **Format**, **Wrapping**, **Wrap**, and widen the columns until each line is readable.
+
+![Summary Test Log with seven checks in A1:D8](./images/c04-06-29-test-log.png)
+
+*The screenshot's Scope row is worded differently from yours.*
+
+**Check:** **Summary Test Log** has seven rows, and every test in it was put back.
+
+---
 
 ## Independent Practice
 
-Close the earlier step lists for the first attempt. Use the case input and your own reasoning. If you need help, record the hint and repeat the affected check independently.
+Try these without looking back at the steps.
 
-1. Prepare an independent one-page dashboard on a new tab with two labelled charts, source links and two concise supported findings.
+1. **A one-screen dashboard.** Add a tab called `Dashboard`. Copy both charts from **Summary** onto it (click a chart, **Ctrl+C**, then **Ctrl+V** on **Dashboard**), and add your two findings underneath with the cells they come from.
+2. **Find the fault.** Ask a partner to break one thing on your **Chart Range Tests** without telling you: a chart range, a status name or a team name. Use the checks in **G2:J4** and the charts to find what they changed, then fix the cause, not just the look.
+3. **Review.** Swap with a partner and check each other's **Summary**: are the units right on both charts, do the bars add up to twelve tasks, and do the differences show zero? Record one thing you corrected, or why nothing needed changing.
 
-2. Diagnose the case input's (Part 2 of the prompts page) suspicious chart and summary symptoms using the source cells. Repair the cause, not just the visual appearance.
+<details markdown="1">
+<summary>What should you see?</summary>
 
-3. Use a reviewer or fresh read-through to check units, population and total reconciliation, then record one correction or evidence for a no-change decision.
+A misspelt team name, such as `Procuremnt` in **D3**, makes **E3** show **0**, and **J4** shows **-4000**. A chart range that includes row 5 adds a **Total** bar. A misspelt status shows up in **J3**. In each case the fix is the label or the range, never a typed number.
+
+</details>
 
 ### Evidence to Hand Over
 
-- Two reconciled summaries/charts with distinct units.
-- Documented total-row and misspelt-category fault repairs.
-- Independent dashboard, supported findings and restored source-change test.
-
-Record the defect or uncertainty you investigated, the evidence used, the repair or reasoned no-change decision, and the final state. Restore temporary changes or keep them in a clearly named scenario copy.
+- **Summary** with status counts, team planned costs, two titled charts, zero differences in **J3:J4** and two findings
+- **Chart Range Tests** repaired after both faults
+- **Summary Test Log** with seven checks
+- Your **Dashboard**, and the fault your partner set and how you found it
 
 ## Troubleshooting
 
-| Symptom | What to check |
+| Problem | What to try |
 |---|---|
-| A missing count is hidden by typing a result | Repair the criterion or formula so later source changes still recalculate. |
-| An input or earlier result is missing | Reopen the input named in Before You Begin; do not substitute private company data |
-| A menu or feature is unavailable | Confirm the account and the shared access notes; record the missing step and ask the trainer for its fallback |
-| The result differs from the checkpoint | Compare the exact source range, wording and conditions before repeating the action |
+| The chart has a Total bar | Edit the chart and set **Data range** to `A1:B4`. |
+| A count is 0 but the tasks exist | The label doesn't match exactly. Check spelling and spaces in the **A** or **D** cell. |
+| Filling down changed the range | Add `$` signs to the range part, such as `Tasks!$F$2:$F$13`, and fill again. |
+| Sheets made a pie chart | Open **Edit chart** and change **Chart type** to **Column chart**. |
+| Typing the range in the chart editor didn't change the chart | Use the grid icon next to **Data range**, change it there and click **OK**. |
+| Gemini offered to insert a formula | Don't. Close the panel; you only wanted an explanation. |
 
 ## Lesson Summary
 
-A checked summary and chart communicate the register accurately.
+You counted statuses with COUNTIF and totalled costs by team with SUMIF, charted both with clear titles, and proved the summary matches the register. You watched a change on **Tasks** flow through to the summary and chart, and saw a wrong range and a misspelt label mislead without any formula being wrong. In Lab 07 you prepare the summary for sharing and printing.
 
-**Check yourself:** Why should the total row normally be excluded from this chart's categories?
+**Check yourself:** why should the Total row normally be left out of this chart?

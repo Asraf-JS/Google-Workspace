@@ -21,7 +21,7 @@
 | 1 | 03 | [Calculate and Copy Formulas](./03-basic-calculations/README.md) | [Prompts and values](./03-basic-calculations/prompts.md) | Calculate variance and totals, fix a shared multiplier with $, and check a total two ways. | 65 |
 | 1 | 04 | [Clean and Organise Records](./04-clean-sort-freeze/README.md) | [Prompts and values](./04-clean-sort-freeze/prompts.md) | Clean text with TRIM, sort whole records, freeze headings, name a range and see what a one-column sort breaks. | 50 |
 | 1 | 05 | [Validate and Filter the Register](./05-validation-filtering/README.md) | [Prompts and values](./05-validation-filtering/prompts.md) | Add entry rules, prove them with tests, and save filter views without being misled by SUM. | 50 |
-| 1 | 06 | [Summarise and Visualise](./06-summary-chart/README.md) | [Prompts and values](./06-summary-chart/prompts.md) | Build a Second Summary and Diagnose a Misleading Chart. | 55 |
+| 1 | 06 | [Summarise and Visualise](./06-summary-chart/README.md) | [Prompts and values](./06-summary-chart/prompts.md) | Summarise with COUNTIF and SUMIF, chart both, reconcile with the register and see how a chart misleads. | 55 |
 | 1 | 07 | [Share and Prepare Output](./07-sharing-print/README.md) | [Prompts and values](./07-sharing-print/prompts.md) | Prepare a Readable, Scoped and Reproducible Output. | 40 |
 | 1 | 08 | [Complete the Register Challenge](./08-register-challenge/README.md) | [Prompts and values](./08-register-challenge/prompts.md) | Stress-Test the Extended Register and Complete the Handover. | 45 |
 
