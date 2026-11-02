@@ -55,7 +55,12 @@ The costs already show RM because of a format brought over from Excel. You repla
 
 1. On **Tasks**, click the name box, type `G2:H13` and press **Enter**. Both cost columns are selected.
 2. On the toolbar, click **123** (More formats), then **Custom currency**.
-3. In the search box, type `RM`. Click **Malaysian Ringgit**.
+
+![The 123 More formats menu with Custom currency near the bottom](./images/c04-02-02a-more-formats-custom-currency.png)
+
+*Custom currency is near the bottom of the list. The RM lines above it only appear after you've used them once, so yours may not have them yet.*
+
+3. In the search box, type `Malaysia`. Click **Malaysian Ringgit (RM)**.
 4. Open the format list next to the search box and choose **RM1,000** (no decimal places). Click **Apply**.
 
 ![The Custom currencies box with RM searched, Malaysian Ringgit chosen and the RM1,000 format selected](./images/c04-02-02-custom-ringgit-no-decimals-selected.png)
@@ -85,14 +90,21 @@ The costs already show RM because of a format brought over from Excel. You repla
 
 *These headings are already readable, so there's nothing to change.*
 
-2. Click the name box, type `C2:C13` and press **Enter**. Click **Format**, then **Wrapping**, then **Wrap**. Long task names now break onto a second line instead of being cut off.
+2. Click **C2**, then press **Ctrl+Shift+Down arrow** (on a Mac, **Cmd+Shift+Down arrow**). The selection runs down to **C13**, the last task name.
+3. Click **Format**, then **Wrapping**.
+
+![The Format menu with Wrapping open and Wrap highlighted](./images/c04-02-06a-format-wrapping-wrap-menu.png)
+
+*Wrapping opens a small menu to the right.*
+
+4. Click **Wrap**. Long task names now break onto a second line instead of being cut off.
 
 ![C2:C13 selected on Tasks with wrapping turned on](./images/c04-02-06-wrapped-task-text-and-readable-owner-widths.png)
 
 *Every task name is complete. The Owner column was already wide enough.*
 
-3. Click row number **2**, hold **Shift** and click row number **13**. Rows 2 to 13 are selected.
-4. Right-click a selected row number and choose **Resize rows 2 - 13**. Click **Fit to data**, then **OK**.
+5. Click row number **2**, hold **Shift** and click row number **13**. Rows 2 to 13 are selected.
+6. Right-click a selected row number and choose **Resize rows 2 - 13**. Click **Fit to data**, then **OK**.
 
 ![The Resize rows 2 - 13 box with Fit to data selected](./images/c04-02-07-fit-source-row-heights-to-data.png)
 
