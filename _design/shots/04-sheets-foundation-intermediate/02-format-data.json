@@ -40,6 +40,22 @@
     ]
    ]
   },
+  "c04-02-02a-more-formats-custom-currency.png": {
+   "boxes": [
+    [
+     410,
+     36,
+     442,
+     64
+    ],
+    [
+     414,
+     670,
+     688,
+     700
+    ]
+   ]
+  },
   "c04-02-03-cost-range-displays-ringgit-numeric-values.png": {
    "boxes": [
     [
@@ -77,6 +93,28 @@
      208,
      578,
      606
+    ]
+   ]
+  },
+  "c04-02-06a-format-wrapping-wrap-menu.png": {
+   "boxes": [
+    [
+     178,
+     2,
+     238,
+     26
+    ],
+    [
+     182,
+     180,
+     488,
+     207
+    ],
+    [
+     502,
+     218,
+     758,
+     246
     ]
    ]
   },
