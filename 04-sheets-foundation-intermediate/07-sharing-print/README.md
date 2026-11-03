@@ -20,6 +20,12 @@ The register is ready to leave the team. Aina has two audiences: the sponsor wan
 
 Open `GW - Sheets - Task Register` from **GW - Sheets Foundation - Practice**. You need **Tasks** and **Summary** from Lab 06, with both charts.
 
+> **Download:** missed an earlier lab? [GW-Sheets-start-Lab07.xlsx](../../shared/sample-files/catch-up/GW-Sheets-start-Lab07.xlsx) is the workbook as it should be at the start of this lab.
+>
+> 1. Upload it to **GW - Sheets Foundation - Practice** and double-click it.
+> 2. Click **File**, then **Save as Google Sheets**.
+> 3. Rename the new file `GW - Sheets - Task Register`. If you already have a file with that name, rename the old one first, such as `GW - Sheets - Task Register - old`.
+
 In this lab you don't share the workbook with anyone, publish it or email anything. You look at those settings, and you download PDFs to your own computer.
 
 **What you build in this lab:**

@@ -20,6 +20,12 @@ Aina wants to know, task by task, whether the pilot is spending more or less tha
 
 Open `GW - Sheets - Task Register` from **GW - Sheets Foundation - Practice**. You need **Tasks** with ringgit costs from Lab 02, and **Navigation Practice** from Lab 01.
 
+> **Download:** missed an earlier lab? [GW-Sheets-start-Lab03.xlsx](../../shared/sample-files/catch-up/GW-Sheets-start-Lab03.xlsx) is the workbook as it should be at the start of this lab.
+>
+> 1. Upload it to **GW - Sheets Foundation - Practice** and double-click it.
+> 2. Click **File**, then **Save as Google Sheets**.
+> 3. Rename the new file `GW - Sheets - Task Register`. If you already have a file with that name, rename the old one first, such as `GW - Sheets - Task Register - old`.
+
 **What you build in this lab:**
 
 **Tasks**: Variance column > totals block | **Navigation Practice**: practice multiplier | **Calculation Tests**: zero, blank and text tests > wrong reference > relative and absolute > two-way total check

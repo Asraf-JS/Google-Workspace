@@ -22,6 +22,12 @@ The teams send updates in all sorts of shapes: a team name with stray spaces, a 
 
 Open `GW - Sheets - Task Register` from **GW - Sheets Foundation - Practice**. You change practice tabs only. **Tasks** stays exactly as it is.
 
+> **Download:** missed an earlier lab? [GW-Sheets-start-Lab04.xlsx](../../shared/sample-files/catch-up/GW-Sheets-start-Lab04.xlsx) is the workbook as it should be at the start of this lab.
+>
+> 1. Upload it to **GW - Sheets Foundation - Practice** and double-click it.
+> 2. Click **File**, then **Save as Google Sheets**.
+> 3. Rename the new file `GW - Sheets - Task Register`. If you already have a file with that name, rename the old one first, such as `GW - Sheets - Task Register - old`.
+
 **What you build in this lab:**
 
 **Dirty Text Practice**: raw > TRIM > lengths | **Sorting Practice**: whole-record sort > frozen header > **PlannedCosts** | **Cleaning Intake Raw** > **Cleaning Intake**: clean > fix status > sort > checks | **Sort Safety Test**

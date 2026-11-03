@@ -18,7 +18,13 @@ The costs on **Tasks** came across from Excel showing **RM 600**, and the team w
 
 ## Before You Begin
 
-Open `GW - Sheets - Task Register` from **GW - Sheets Foundation - Practice**. You need **Navigation Practice** and **Entry Practice** from Lab 01. If you skipped Lab 01, download [TaskRegister.xlsx](../../shared/sample-files/TaskRegister.xlsx) and follow Lab 01 sections 1.1, 1.2, 1.4 and 1.7 first.
+Open `GW - Sheets - Task Register` from **GW - Sheets Foundation - Practice**. You need **Navigation Practice** and **Entry Practice** from Lab 01.
+
+> **Download:** missed an earlier lab? [GW-Sheets-start-Lab02.xlsx](../../shared/sample-files/catch-up/GW-Sheets-start-Lab02.xlsx) is the workbook as it should be at the start of this lab.
+>
+> 1. Upload it to **GW - Sheets Foundation - Practice** and double-click it.
+> 2. Click **File**, then **Save as Google Sheets**.
+> 3. Rename the new file `GW - Sheets - Task Register`. If you already have a file with that name, rename the old one first, such as `GW - Sheets - Task Register - old`.
 
 **What you change in this lab:**
 

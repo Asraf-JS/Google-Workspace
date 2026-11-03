@@ -20,6 +20,12 @@ Lab 04 cleaned up untidy entries after they arrived. Aina would rather they neve
 
 Open `GW - Sheets - Task Register` from **GW - Sheets Foundation - Practice**. You need **Tasks** with all twelve records, and **Entry Practice** from Labs 01 and 02.
 
+> **Download:** missed an earlier lab? [GW-Sheets-start-Lab05.xlsx](../../shared/sample-files/catch-up/GW-Sheets-start-Lab05.xlsx) is the workbook as it should be at the start of this lab.
+>
+> 1. Upload it to **GW - Sheets Foundation - Practice** and double-click it.
+> 2. Click **File**, then **Save as Google Sheets**.
+> 3. Rename the new file `GW - Sheets - Task Register`. If you already have a file with that name, rename the old one first, such as `GW - Sheets - Task Register - old`.
+
 **What you build in this lab:**
 
 **Tasks**: status dropdown > **Incomplete tasks** view | **Rule Tests**: status tests > week tests > entry guide | **Entry Rule Practice**: whole-week rule | **Tasks**: SUM check > **Planning incomplete tasks** view > view check
