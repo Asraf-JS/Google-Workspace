@@ -20,6 +20,14 @@ A thirteenth task has arrived: T013, *Check the handover*, for Planning. It soun
 
 Open `GW - Sheets - Task Register` from **GW - Sheets Foundation - Practice**. You need everything from Labs 01 to 07, including both saved filter views and the **PlannedCosts** named range.
 
+> **Download:** missed an earlier lab? [GW-Sheets-start-Lab08.xlsx](../../shared/sample-files/catch-up/GW-Sheets-start-Lab08.xlsx) is the workbook as it should be at the start of this lab.
+>
+> 1. Upload it to **GW - Sheets Foundation - Practice** and double-click it.
+> 2. Click **File**, then **Save as Google Sheets**.
+> 3. Rename the new file `GW - Sheets - Task Register`. If you already have a file with that name, rename the old one first, such as `GW - Sheets - Task Register - old`.
+>
+> Excel files can't hold filter views, so this one has none. In 8.10, create **Incomplete tasks** and **Planning incomplete tasks** over **A1:I14** as in Lab 05 sections 5.2 and 5.8, instead of reopening them.
+
 **What you build in this lab:**
 
 **Challenge copy** > T013 > extended rules, totals and named range > extended summary > wrong-reference test > **Change Log** > two-way checks > cost correction > views > corrected PDF > operating guide

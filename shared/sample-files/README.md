@@ -13,6 +13,7 @@ All organisations, people, records and amounts are fictional training material. 
 | [ProcurementRegister.xlsx](./ProcurementRegister.xlsx) | 24 fictional order lines and six item rates |
 | [Orders.csv](./Orders.csv), [Rates.csv](./Rates.csv) | Separate raw inputs for import/recovery |
 | [DirtyText.csv](./DirtyText.csv) | Three text-cleaning examples |
+| [catch-up/](./catch-up/) | Sheets Foundation start files, `GW-Sheets-start-Lab02.xlsx` to `Lab08.xlsx`: the course workbook as it should be at the start of each lab, for anyone who missed an earlier one. Built by `tools/build-sheets-catchup.py` |
 | [change-request.txt](./change-request.txt) | Temporary status-change validation test |
 | [glossary.txt](./glossary.txt) | Translation review terms |
 | [review-examples.txt](./review-examples.txt) | Deliberately unsupported claims for critique |
