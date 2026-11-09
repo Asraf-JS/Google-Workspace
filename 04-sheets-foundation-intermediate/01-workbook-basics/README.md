@@ -232,7 +232,7 @@ Tasks shows H13 as **RM 0** because of its currency format. Typed as `0` here, i
 
 Typing a few records yourself shows you how a row holds one task, with each field in its own column.
 
-1. Click **+** (Add sheet). Double-click the new tab's name, type `Entry Practice` and press **Enter**.
+1. Click the **Workbook Guide** tab, then click **+** (Add sheet). The new tab appears next to **Workbook Guide**. Double-click its name, type `Entry Practice` and press **Enter**.
 2. Copy the heading row below, click **A1** on **Entry Practice** and press **Ctrl+V**.
 
 ```text
@@ -316,7 +316,7 @@ Small table selection	A1:H4 covers the eight headers and three recreated records
 
 ## 1.9 Tidy the Tabs and Reopen From Drive
 
-1. Click the arrow on the **Entry Practice** tab and choose **Move right**. It moves one place, to after **Navigation Practice**.
+1. Click the arrow on the **Entry Practice** tab and choose **Move right**. Repeat if you need to, until it sits between **Navigation Practice** and **Summary**.
 
 ![The tabs in order: Tasks, Workbook Guide, Navigation Practice, Entry Practice, Summary](./images/c04-01-23-entry-practice-reordered-after-navigation.png)
 

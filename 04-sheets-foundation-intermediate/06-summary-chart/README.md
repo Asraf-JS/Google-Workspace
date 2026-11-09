@@ -102,7 +102,7 @@ Site Coordination
 
 *A title that says what's being counted.*
 
-4. Close the editor. Drag the chart by its blank top area so it sits below the summaries without covering any cells.
+4. Close the editor. Drag the chart by its blank top area so its top edge is at about row 10. Keep rows 1 to 8 clear: you add findings and checks there later.
 
 ![The status chart below the summaries, with three bars of 4](./images/c04-06-07-linked-status-chart.png)
 
@@ -186,7 +186,7 @@ You change one status on **Tasks** for a moment, to see the summary and chart fo
 
 *A separate chart for money; counts and ringgit don't share an axis.*
 
-2. On **Customise**, set the chart title to `Planned cost by team (RM)`. Close the editor and drag the chart beside the status chart.
+2. On **Customise**, set the chart title to `Planned cost by team (RM)`. Close the editor and drag the chart beside the status chart, also below row 9.
 
 ![The cost chart titled Planned cost by team (RM)](./images/c04-06-16-cost-units-title.png)
 
@@ -308,7 +308,7 @@ Neither says anything about whether tasks are on time or money was saved: the su
 
 ## 6.9 Log the Tests
 
-1. Click **+** (Add sheet). Rename the new tab `Summary Test Log`.
+1. Click **+** (Add sheet). Double-click the new tab's name, type `Summary Test Log` and press **Enter**.
 2. Copy the block below, click **A1** and press **Ctrl+V**. Check each line against what you saw.
 
 ```text

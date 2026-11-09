@@ -111,7 +111,7 @@ In this lab you don't share the workbook with anyone, publish it or email anythi
 
 ## 7.4 Write an Output Plan
 
-1. Click **+** (Add sheet). Rename the new tab `Output Plan`.
+1. Click the **Tasks** tab, then click **+** (Add sheet). Double-click the new tab's name, type `Output Plan` and press **Enter**.
 2. Copy the block below, click **A1** and press **Ctrl+V**. It records what each audience needs and what you checked.
 
 ```text

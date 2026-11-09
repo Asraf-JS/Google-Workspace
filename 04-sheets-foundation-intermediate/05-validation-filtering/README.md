@@ -138,7 +138,7 @@ You test the status rule somewhere it can't damage a real record.
 
 ## 5.4 Plan and Run the Status Tests
 
-1. On **Tasks**, click **+** (Add sheet). Rename the new tab `Rule Tests`.
+1. On **Tasks**, click **+** (Add sheet). Double-click the new tab's name, type `Rule Tests` and press **Enter**.
 2. Copy the block below, click **A1** and press **Ctrl+V**. Column **B** stays empty for now; **Observed** says **Pending** until you test.
 
 ```text
@@ -223,21 +223,21 @@ Enter a whole practice week from 1 to 4. This is not a calendar date.
 
 ## 5.6 Test the Week Rule
 
-Use **E4** for every test. It starts at **1**.
+Use **E4** for every test. It starts at **1**. When a value is accepted, **Enter** moves you down to **E5**, so click **E4** again before each test.
 
-1. In **E4**, type `0` and press **Enter**. Your help text appears in a **There was a problem** message. Click **OK**.
+1. Click **E4**, type `0` and press **Enter**. Your help text appears in a **There was a problem** message. Click **OK**.
 
 ![The message showing the help text after entering 0](./images/c04-05-19-week-zero-rejected.png)
 
 *Your own help text tells people what to type instead.*
 
-2. Type `1` and press **Enter**: accepted. Type `4` and press **Enter**: accepted.
+2. Click **E4**, type `1` and press **Enter**: accepted. Click **E4** again, type `4` and press **Enter**: accepted.
 
 ![E4 holding 4](./images/c04-05-20-week-four-accepted.png)
 
 *4 is the top of the range, so it's allowed.*
 
-3. Type `5` and press **Enter**: rejected. Click **OK**. Type `1.5` and press **Enter**: rejected. Click **OK**.
+3. Click **E4**, type `5` and press **Enter**: rejected. Click **OK**. Click **E4**, type `1.5` and press **Enter**: rejected. Click **OK**. If **E4** still shows what you typed, press **Esc**.
 
 ![The message after entering 5](./images/c04-05-21-week-five-rejected.png)
 
@@ -253,7 +253,7 @@ Use **E4** for every test. It starts at **1**.
 
 *As with the status rule, clearing is allowed.*
 
-5. Type `1` in **E4** to put the original week back.
+5. Click **E4**, type `1` and press **Enter** to put the original week back.
 
 ![E4 back at 1](./images/c04-05-24-original-practice-week-restored.png)
 
