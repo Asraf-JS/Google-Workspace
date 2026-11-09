@@ -93,7 +93,7 @@ Numeric Cost Count
 
 *Planned RM10,400, actual RM6,800, variance -RM3,600.*
 
-4. In **L6**, type `=AVERAGE(G2:G13)`. In **L7**, type `=COUNT(G2:G13)`.
+4. In **L6**, type `=AVERAGE(G2:G13)` and press **Enter**. In **L7**, type `=COUNT(G2:G13)` and press **Enter**.
 5. Click **L6**. On the toolbar, click **Increase decimal places** (the **.00** button with an arrow) twice, so it shows **RM866.67**.
 
 ![L6 showing RM866.67 from =AVERAGE(G2:G13), and L7 showing 12](./images/c04-03-06-average-count.png)
@@ -114,7 +114,7 @@ You try a "what if costs rise by 10%?" calculation on **Navigation Practice**. T
 
 1. Click the **Navigation Practice** tab. Click the name box, type `J2:K6` and press **Enter**. Press **Delete** to clear the date and cost examples from Lab 02.
 2. Click the name box, type `J2:J13` and press **Enter**. Click **123** (More formats) and choose **Number**, so the old date format can't disguise a result.
-3. Click **K9** and type `Practice multiplier`. Click **L9** and type `1.1`. Double-click the right edge of the column **K** heading so the label fits.
+3. Click **K9**, type `Practice multiplier` and press **Tab**. In **L9**, type `1.1` and press **Enter**. Double-click the right edge of the column **K** heading so the label fits.
 
 ![Navigation Practice with Practice multiplier in K9 and 1.1 in L9](./images/c04-03-08-practice-assumption.png)
 
@@ -191,7 +191,7 @@ Blank
 Text	RM 600
 ```
 
-6. Click **C9** and type `=COUNT(B9)`. Click **D9** and type `=SUM(B9)`. Click the name box, type `C9:D11`, press **Enter**, then press **Ctrl+D**.
+6. Click **C9**, type `=COUNT(B9)` and press **Enter**. Click **D9**, type `=SUM(B9)` and press **Enter**. Click the name box, type `C9:D11`, press **Enter**, then press **Ctrl+D**.
 
 ![The COUNT and SUM test in A8:D11, with COUNT 1, 0, 0 and SUM 0, 0, 0](./images/c04-03-15-count-zero-blank-text.png)
 
@@ -242,8 +242,8 @@ Planned	Relative	Absolute
 100
 ```
 
-2. Click **K1** and type `Practice multiplier`. Click **K2** and type `1.1`.
-3. Click **G2** and type `=F2*K2`. Click **H2** and type `=F2*$K$2`. Both show **110**.
+2. Click **K1**, type `Practice multiplier` and press **Enter**. In **K2**, type `1.1` and press **Enter**.
+3. Click **G2**, type `=F2*K2` and press **Enter**. Click **H2**, type `=F2*$K$2` and press **Enter**. Both show **110**.
 
 ![F1:H5 with 110 in G2 and H2, and the multiplier in K1:K2](./images/c04-03-18-two-reference-types.png)
 

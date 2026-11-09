@@ -118,7 +118,7 @@ T013	Planning	Check the handover	Aina Rahman	4	Not Started	200	0
 
 1. Click the **Summary** tab. Click **B2**, type `=COUNTIF(Tasks!$F$2:$F$14,A2)` and press **Enter**. Select **B2:B4** and press **Ctrl+D**.
 2. Click **E2**, type `=SUMIF(Tasks!$B$2:$B$14,D2,Tasks!$G$2:$G$14)` and press **Enter**. Select **E2:E4** and press **Ctrl+D**.
-3. Click **I3** and type `=COUNTA(Tasks!A2:A14)`. Click **I4** and type `=SUM(Tasks!G2:G14)`.
+3. Click **I3**, type `=COUNTA(Tasks!A2:A14)` and press **Enter**. In **I4**, type `=SUM(Tasks!G2:G14)` and press **Enter**.
 
 ![Summary with counts 4, 4, 5, total 13, Planning 3000 and both differences 0](./images/c04-08-08-thirteen-record-summary.png)
 
@@ -195,7 +195,7 @@ If **F14** accepted `Done`, the rule didn't save. Go back to 8.3 step 2 and use 
 
 ## 8.7 Log What Changed
 
-1. Click **+** (Add sheet). Rename the new tab `Change Log`.
+1. Click **+** (Add sheet). Double-click the new tab's name, type `Change Log` and press **Enter**.
 2. Copy the block below, click **A1** and press **Ctrl+V**. It lists every range that had to change for T013.
 
 ```text
@@ -219,7 +219,7 @@ Fault test	I14 =H14-G13 gave -700 and variance total -4300	Repaired to =H14-G14:
 
 *The screenshot's wording is longer than the block you pasted.*
 
-4. Click the **Tasks** tab. Click **View**, **Show**, **Formulae**. Check every cell in **I2:I14** reads `=H` and `=G` with its own row number. Then turn **Formulae** off again.
+4. Click the **Tasks** tab. Click **View**, **Show**, **Formulae** (or press **Ctrl+`**, the key above **Tab**). Check every cell in **I2:I14** reads `=H` and `=G` with its own row number. Then turn **Formulae** off again the same way.
 
 ![Tasks showing formulas, with I2:I14 from =H2-G2 to =H14-G14](./images/c04-08-17-all-variance-formulas.png)
 

@@ -126,7 +126,7 @@ Don't merge cells to make headings look tidier. A merged cell spans two columns,
 
 Now try two things on **Navigation Practice**, where it doesn't matter if something goes wrong.
 
-1. Click the **Navigation Practice** tab. Click **J2**, type `2026-10-24` and press **Enter**. Sheets recognises a date. Click **123** (More formats) and choose **Date**.
+1. Click the **Navigation Practice** tab. Click **J2**, type `2026-10-24` and press **Enter**. Sheets recognises a date. Pressing **Enter** moved you down to **J3**, so click **J2** again, then click **123** (More formats) and choose **Date**.
 
 ![Navigation Practice with 24/10/2026 in J2](./images/c04-02-08-practice-date-outside-source-register.png)
 
@@ -134,7 +134,7 @@ Now try two things on **Navigation Practice**, where it doesn't matter if someth
 
 2. Click **J4** and type `Numeric cost`. Press **Tab** and type `Text cost`. Press **Enter**.
 3. In **J5**, type `600`. In **K5**, type `RM 600` (the letters R and M, a space, then 600).
-4. Click **J5** and give it the ringgit format from 2.2 (**123**, **Custom currency**, **Malaysian Ringgit**, **RM1,000**, **Apply**).
+4. Click **J5** and give it the ringgit format from 2.2. It's quicker this time: click **123** (More formats) and choose **Malaysian Ringgit RM1,000**, which Sheets added to the menu when you first used it.
 5. Click **J5** and look at the formula bar, then click **K5** and look again.
 
 ![J5 selected, showing RM600 in the cell and 600 in the formula bar](./images/c04-02-09-numeric-ringgit-practice-formula-bar.png)
@@ -289,7 +289,7 @@ T013	Site Coordination	Prepare the weekly sponsor summary and check every team's
    - **DueWeek** left empty, because nobody has agreed which week "next Monday" means
    - the long task name wrapped so it's readable
 3. In **J27**, type the question you'd send back to the lead about the due week.
-4. Show a partner **G28** and **G31**. Ask them which one a total would count, and how they can tell without a formula. Then prove it with `=COUNT(G28,G31)`.
+4. Show a partner **G28** and **G31**. Ask them which one a total would count, and how they can tell without a formula. Then prove it by typing `=COUNT(G28,G31)` in an empty cell, such as **J29**.
 
 <details markdown="1">
 <summary>What should you see?</summary>

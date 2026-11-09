@@ -77,7 +77,7 @@ In Progress
 Not Started
 ```
 
-4. Click **F2** and type `=LEN(B2)`. Click **G2** and type `=LEN(D2)`. Click the name box, type `F2:G4`, press **Enter**, then press **Ctrl+D**.
+4. Click **F2**, type `=LEN(B2)` and press **Enter**. Click **G2**, type `=LEN(D2)` and press **Enter**. Click the name box, type `F2:G4`, press **Enter**, then press **Ctrl+D**.
 
 ![Dirty Text Practice with CleanTeam, CleanStatus and the raw and clean lengths in D1:G4](./images/c04-04-03-cleaned-text-length-checks.png)
 
@@ -130,7 +130,7 @@ You sort a copy of **Tasks**, so the register itself stays in its original order
 
 *The headings stay put while the rows scroll underneath.*
 
-3. Click the name box, type `G2:G13` and press **Enter**. Click **Data**, then **Named ranges**. Type `PlannedCosts` and click **Done**. The panel shows **'Sorting Practice'!G2:G13**.
+3. Click the name box, type `G2:G13` and press **Enter**. Click **Data**, then **Named ranges**. If the panel shows **Add a range**, click it. Type `PlannedCosts` in the name box at the top of the panel and click **Done**. The panel shows **'Sorting Practice'!G2:G13**.
 
 ![The Named ranges panel showing PlannedCosts as Sorting Practice!G2:G13](./images/c04-04-09-plannedcosts-exact-bounds.png)
 
@@ -144,7 +144,7 @@ Explicit planned total
 Difference
 ```
 
-5. In **L9**, type `=SUM(PlannedCosts)`. In **L10**, type `=SUM(G2:G13)`. In **L11**, type `=L9-L10`. Double-click the right edge of the column **K** heading so the labels fit.
+5. Click **L9**, type `=SUM(PlannedCosts)` and press **Enter**. In **L10**, type `=SUM(G2:G13)` and press **Enter**. In **L11**, type `=L9-L10` and press **Enter**. Double-click the right edge of the column **K** heading so the labels fit.
 
 ![K9:L11 showing RM10,400, RM10,400 and RM0](./images/c04-04-10-named-explicit-totals.png)
 
@@ -158,7 +158,7 @@ Difference
 
 Five records have come in from the teams, with an untidy team name, a lowercase status, a duplicate and a status that isn't one of the three allowed.
 
-1. Click **+** (Add sheet). Rename the new tab `Cleaning Intake Raw`.
+1. With **Sorting Practice** open, click **+** (Add sheet). Double-click the new tab's name, type `Cleaning Intake Raw` and press **Enter**.
 2. Copy the block below, click **A1** and press **Ctrl+V**.
 
 ```text
@@ -178,7 +178,7 @@ C004	Planning	Not Started
 
 4. Click the arrow on the **Cleaning Intake Raw** tab and choose **Duplicate**. Rename the copy `Cleaning Intake`. You work on this one.
 5. On **Cleaning Intake**, click **D1** and type `CleanTeam`. In **E1** type `CleanStatus`, and in **F1** type `Disposition`.
-6. Click **D2** and type `=TRIM(B2)`. Click the name box, type `D2:D6`, press **Enter**, then **Ctrl+D**.
+6. Click **D2**, type `=TRIM(B2)` and press **Enter**. Click the name box, type `D2:D6`, press **Enter**, then **Ctrl+D**.
 7. Click the name box, type `C2:C6`, press **Enter** and press **Ctrl+C**. Click **E2**, then **Edit**, **Paste special**, **Values only**. The statuses are copied as they arrived, including lowercase **complete**.
 8. Compare the two **C002** rows field by field, and check whether **Blocked** is one of the three allowed statuses (**Complete**, **In Progress**, **Not Started**). Then copy the block below, click **F2** and press **Ctrl+V**.
 
@@ -257,7 +257,7 @@ C002 (both)			Both identical copies retained
 C003			Unresolved; clarify
 ```
 
-6. Copy the block below, click **A19** and press **Ctrl+V**. Then type `=SUM(PlannedCosts)` in **B19**, `=SUM('Sorting Practice'!G2:G13)` in **B20** and `=B19-B20` in **B21**.
+6. Copy the block below, click **A19** and press **Ctrl+V**. Then type `=SUM(PlannedCosts)` in **B19**, `=SUM('Sorting Practice'!G2:G13)` in **B20** and `=B19-B20` in **B21**, pressing **Enter** after each.
 
 ```text
 Named total
@@ -328,7 +328,7 @@ C003	Blocked
 
 Try these without looking back at the steps.
 
-1. **Does a named range grow?** On **Sorting Practice**, type a new task in row 14 with TaskID `T013` and a planned cost of `200`. Compare **L9** (`=SUM(PlannedCosts)`) with a new `=SUM(G2:G14)`. Explain the difference, then open **Data** > **Named ranges** and extend **PlannedCosts** to **G2:G14**. Finally, put things back: delete row 14, set **PlannedCosts** to **G2:G13** again and check **L11** shows **RM0**.
+1. **Does a named range grow?** On **Sorting Practice**, type a new task in row 14 with TaskID `T013` and a planned cost of `200`. Compare **L9** (`=SUM(PlannedCosts)`) with a new `=SUM(G2:G14)` typed in **L13**. Explain the difference, then open **Data** > **Named ranges** and extend **PlannedCosts** to **G2:G14**. Finally, put things back: delete row 14, clear **L13**, set **PlannedCosts** to **G2:G13** again and check **L11** shows **RM0**.
 2. **List what's still open.** On **Cleaning Intake**, in **H1**, start a short list of the records that still need a decision from the teams, and why.
 3. **Hand it over.** Give a partner your **Cleaning Intake Raw**, **Cleaning Intake** and the check tables. Without your help, they should be able to say what you changed, what you kept, and why both C002 rows are still there.
 
