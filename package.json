@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "marked": "14.1.4",
-    "training-book-kit": "github:Asraf-JS/training-book-kit#e2cf2e0e27212020ae8eb9276e78d2ccbae076b7"
+    "training-book-kit": "github:Asraf-JS/training-book-kit#60a8b629f5f9ebbe017b8134029bcb32738c5687"
   },
   "engines": {
     "node": ">=20"
