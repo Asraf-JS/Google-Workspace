@@ -30,13 +30,14 @@ const courses=JSON.parse(await fs.readFile(path.join(root,'planning/course-map.j
 const selected=process.argv[2]?courses.filter(c=>c.path===process.argv[2]):courses;
 if(!selected.length)throw new Error('Unknown course: '+process.argv[2]);
 // Chromium embeds every screenshot as a lossless full-size image, so a captured course book
-// can pass GitHub's 50 MB warning size. Ghostscript re-encodes the images at 200 ppi JPEG
+// can pass GitHub's 50 MB warning size, and every rebuild adds the whole file to git history.
+// Books over 10 MB are compressed. Ghostscript re-encodes the images at 200 ppi JPEG
 // quality 85, keeping text, links and bookmarks, which cuts the file by about three quarters.
 const ghostscript=spawnSync('gs',['--version']).status===0;
 if(!ghostscript)console.warn('Ghostscript (gs) not found: books are written uncompressed. Install it before committing rebuilt PDFs.');
 function compress(pdf){
  const before=statSync(pdf).size;
- if(before<50*1024*1024){console.log(`Kept ${path.relative(root,pdf)}: ${(before/1e6).toFixed(1)} MB, already below the compression threshold.`);return;}
+ if(before<10*1024*1024){console.log(`Kept ${path.relative(root,pdf)}: ${(before/1e6).toFixed(1)} MB, already below the compression threshold.`);return;}
  const tmp=pdf+'.tmp.pdf';
  const r=spawnSync('gs',['-q','-dNOPAUSE','-dBATCH','-dSAFER','-sDEVICE=pdfwrite','-dCompatibilityLevel=1.6',
   '-dDownsampleColorImages=true','-dColorImageResolution=200','-dColorImageDownsampleType=/Bicubic',

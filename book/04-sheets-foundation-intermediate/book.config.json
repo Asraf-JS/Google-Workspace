@@ -4,13 +4,13 @@
   "titleLines": [
     "Google Sheets",
     {
-      "highlight": "Foundation"
+      "highlight": "Fundamental"
     },
     "and Intermediate"
   ],
   "runningTitle": "Google Sheets Fundamental and Intermediate",
   "subtitle": "One-day course review draft",
-  "blurb": "Build a reliable fictional task register. All eight labs have staged application screenshots, with full-window sources retained. Independent challenges, unresolved author checks and classroom timings still require validation.",
+  "blurb": "Build a reliable fictional task register, from your first workbook to an extended, checked register with a summary, charts and a PDF handout. Every lab has real screenshots; classroom timings are still being piloted.",
   "coverIcons": [
     "doc",
     "check",
@@ -64,5 +64,5 @@
       "notes": "../../04-sheets-foundation-intermediate/08-register-challenge/README.md"
     }
   ],
-  "backCover": "A one-day course review draft with fictional inputs, substantial casework and expected-result checks. Lab 1 includes captured native conversion, a source map, separate practice tabs, record reconstruction and Drive reopening. Independent learner validation and classroom timing remain pending."
+  "backCover": "A one-day course review draft with fictional inputs and eight hands-on labs: create and navigate a workbook, format reliable data, calculate and copy formulas, clean and sort records, add entry rules and filter views, summarise and chart, prepare shareable output, and extend the register on a challenge copy. Catch-up start files let anyone who missed a lab join the next one."
 }
