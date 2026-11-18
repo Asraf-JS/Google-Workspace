@@ -2,7 +2,7 @@
 
 Seri Maju Projects keeps its pilot task list in an Excel file, `TaskRegister.xlsx`, and the coordinator, Aina Rahman, wants the team to work on it in Google Sheets from now on. Before anyone changes a number, she wants a working copy that everyone can find, a guide tab that says what each tab is for, and somewhere safe to practise. In this lab you set that up. You keep using the same workbook in every later lab.
 
-**Estimated time:** 40 minutes, planned as 5 explanation, 25 guided build and 10 independent practice. Not yet timed with learners.
+**Estimated time:** 40 minutes, planned as 5 explanation, 25 guided build and 10 independent practice.
 
 **Your result:** a Google Sheets file, `GW - Sheets - Task Register`, with the twelve supplied tasks untouched on **Tasks**, a **Workbook Guide** tab that explains the workbook, and two practice tabs.
 
