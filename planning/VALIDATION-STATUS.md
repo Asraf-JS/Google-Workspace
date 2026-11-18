@@ -1,5 +1,9 @@
 # Validation Status
 
+## Classroom run - Sheets Foundation Lab 01, 18 November 2026
+
+The instructor ran the rewritten Lab 01 with a class. Participants took roughly 30 minutes working through it on their own. This is one instructor observation, not a formal timing pilot: no per-section times, completion rates or comprehension checks were recorded. The 40-minute allocation (5 explanation, 25 guided build, 10 independent practice) is kept; the observation fits it. The lab page no longer says it hasn't been timed with learners. Labs 02 to 08 have not been run with a class.
+
 ## Sheets Foundation catch-up start files, 3 November 2026
 
 `tools/build-sheets-catchup.py` builds `shared/sample-files/catch-up/GW-Sheets-start-Lab02.xlsx` to `Lab08.xlsx` from TaskRegister.xlsx by applying each earlier lab's guided steps, with pasted text read from the lesson copy blocks. Independent practice is not included. Recalculated in LibreOffice, the formulas give the values the labs expect (for example variance total -3600, Summary 4/4/4 and 2800/4000/3600, all reconciliation differences 0); the rules, the PlannedCosts named range, leading spaces and both Summary charts are present. Not yet checked in Google Sheets: the upload and Save as Google Sheets conversion of these files, and how the charts and validation rules come through it. Filter views can't be stored in an Excel file, so Lab 08 tells participants to recreate them. Each lab's Before You Begin links its start file.
